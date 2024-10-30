@@ -1,0 +1,66 @@
+link_vaga-https://minsait.gupy.io/job/eyJqb2JJZCI6ODAwNzE1Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR BACK-END JAVA PLENO E SÊNIOR
+Tipo de vaga: Banco de talentosBanco de talentos
+Tipo de vaga: Banco de talentos
+Banco de talentos
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Somos aproximadamente 50k Minsaiters no Mundo e mais de 7k Minsaiters no Brasil e estamos presentes nas maiores empresas em todos os setores. Nossa estrutura permite participar de projetos globais e proporciona um ambiente colaborativo que nos certifica em GreatPlacesToWork e planos diferenciados para Jovens Profissionais também reconhecidos pela Employers for Youth.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Responsabilidades e Atribuições:
+Projetar, desenvolver e manter aplicações back-end, garantindo que estejam alinhadas com os requisitos e expectativas do projeto.
+Criar e aprimorar a lógica de negócios para assegurar que as funcionalidades atendam aos requisitos e melhorem o desempenho do sistema.
+Implementar e gerenciar integrações com bancos de dados e serviços externos, assegurando a correta sincronização e integridade dos dados.
+Produzir código de alta qualidade, seguindo melhores práticas de desenvolvimento para garantir legibilidade, eficiência e manutenção.
+Desenvolver e executar testes para validar a funcionalidade do software, identificar e corrigir problemas, e assegurar que o produto final atenda aos padrões de qualidade.
+Trabalhar em estreita colaboração com outros membros da equipe de desenvolvimento para garantir a integração eficaz de componentes e resolver problemas técnicos.
+Diagnosticar e resolver problemas técnicos, realizando depuração detalhada para garantir a estabilidade e funcionalidade do software.
+Acompanhar as tendências e inovações tecnológicas, aplicando novos conhecimentos e práticas para melhorar a eficiência e a qualidade do desenvolvimento.
+REQUISITOS E QUALIFICAÇÕES
+🎯 Requisitos e Qualificações:
+Graduação em Ciência da Computação, Engenharia, ou área técnica relacionada;
+Experiência com ambientes back-end em Java (Versões, 8, 13 e 17)
+Experiência com Framework em Spring Boot;
+Experiência com View Code e com Clean Architecture ou DDD;
+Experiência com Maven (gerenciador de dependências);
+Experiência em Testes Unitários;
+Experiência com versionamento em GIT (GitFlow, GitLab);
+Experiência com conteinerização em Docker;
+Experiência com mensagerias como RabbitMQ ou Kafka;
+Experiência em participar de times atuando em métodos ágeis;
+Experiência com Observability (Dynatrace ou Datadog, Splunk ou Elastic, Grafana, Kibana);
+INFORMAÇÕES ADICIONAIS
+TRABALHE NA MINSAIT
+ 
+Modelo de contratação CLT.
+Plano de Saúde subsidiado pela empresa para o titular.
+Opção de inclusão de dependentes no Plano de Saúde com desconto em folha de pagamento.
+Assistência Odontológica (opcional).
+Opção de inclusão de dependentes no Plano de Assistência Odontológica com desconto em folha de pagamento.
+Vale Refeição no cartão Flash Benefícios.
+Vale Transporte (opcional).
+POP - Programa de Orientação Pessoal que visa oferecer suporte emocional e aconselhamento com orientação confidencial nas áreas psicológica, jurídica, financeira, social e pet sem custo para titular e dependentes legais.
+Gympass - Wellhub (Acesso a mais de 700 academias em todo o Brasil com planos a partir de R$ 29,90 descontado em folha de pagamento).
+Opção de inclusão de dependentes no Gympass - Wellhub (até 03 dependentes - pago via cartão de crédito).
+Parcerias com grandes marcas de consumo.
+Convênio com o SESC para titular e dependentes.
+Convênios para descontos com instituições de ensino (graduação e pós-graduação) e escola de idiomas.
+Seguro de vida em grupo.
+OLÁ, SOMOS A MINSAIT!
+A Minsait é uma empresa do grupo Indra. Somos uma empresa de transformação digital e tecnologia da informação que oferece a seus clientes de diferentes segmentos tecnologias disruptivas e serviços especializados.
+Estamos presentes em mais de 140 países, e combinamos nossa experiência em Cloud, Segurança, Payments e Phygital com a tecnologia mais inovadora para impulsionar nossos negócios, gerando um impacto positivo na sociedade. Nosso objetivo é liderar uma revolução tecnológica mais humana.
+Há mais 25 anos no Brasil, somos reconhecidos por oferecer um ambiente estimulante, aprendizado contínuo, oportunidades de crescimento e mobilidade nacional e internacional para nossos talentos. Nossos mais de 7.000 profissionais espalhados de norte a sul do país, atestam nossa cultura de respeito, diversidade e inclusão.
+Em 2023 conquistamos pelo terceiro ano consecutivo a certificação do Great Place to Work Institute (GPTW), que revela que as pessoas são felizes aqui, graças ao clima positivo que todos nós construímos juntos. Além disso, somos reconhecidos como uma das Melhores Empresas para Jovens Profissionais em Tecnologia, de acordo com o estudo da EFY Tech Brasil, também por três anos seguidos, além de recebermos o selo Bloomberg de igualdade de gênero, uma referência reconhecida para empresas para acompanhar seu progresso na inclusão de gênero.
+Todas as vagas são abertas também para PCDs.
+ Vem ser Minsaiter!
+CONHEÇA MAIS SOBRE A MINSAIT
+Website
+LinkedIn
+Instagram
+Glassdoor

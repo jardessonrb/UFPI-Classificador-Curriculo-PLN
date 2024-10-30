@@ -1,0 +1,164 @@
+link_vaga-https://nava.gupy.io/job/eyJqb2JJZCI6Nzg4ODA2NCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DEV FULLSTACK SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A NAVA está em busca de Dev Fullstack Sênior para fazer parte do nosso time de pessoas incríveis! 
+A NAVA está em busca de 
+ 
+ 
+
+Por que trabalhar na NAVA?
+
+Somos uma empresa de tecnologia que atende as maiores companhias dos setores financeiro, seguros, meios de pagamento, telecomunicações, energia e varejo do país. Inspiramos nossos times a criar soluções para que essas companhias transformem e impactem positivamente o mundo. 
+Somos uma empresa de tecnologia que atende as maiores companhias dos setores financeiro, seguros, meios de pagamento, telecomunicações, energia e varejo do país. Inspiramos nossos times a criar soluções para que essas companhias transformem e impactem positivamente o mundo. 
+ 
+ 
+Temos um time curioso, criativo, energético e inspirador, com grande foco nas pessoas para gerar inovação, transformação e crescimento. Dentro de um ambiente dinâmico e ágil, o nosso time está em expansão para acompanhar o crescimento exponencial da NAVA e dos nossos Clientes. 
+Temos um time curioso, criativo, energético e inspirador, com grande foco nas pessoas para gerar inovação, transformação e crescimento. Dentro de um ambiente dinâmico e ágil, o nosso time está em expansão para acompanhar o crescimento exponencial da NAVA e dos nossos Clientes. 
+﻿Acolhemos as diferenças porque acreditamos que um ambiente diverso contribui para a inovação e uma sociedade mais justa e equânime e convidamos você à assumir esse compromisso junto com a gente.
+﻿Acolhemos as diferenças porque acreditamos que um ambiente diverso contribui para a inovação e uma sociedade mais justa e equânime e convidamos você à assumir esse compromisso junto com a gente.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Como será o seu dia a dia?
+﻿Escrever código limpo, eficiente e escalável;
+﻿Escrever código limpo, eficiente e escalável;
+﻿
+Projetar e implementar arquiteturas de software robustas e modulares que atendam aos requisitos específicos do projeto.
+Projetar e implementar arquiteturas de software robustas e modulares que atendam aos requisitos específicos do projeto.
+Desenvolver e integrar APIs e serviços web para comunicação com outros sistemas e aplicações.
+Desenvolver e integrar APIs e serviços web para comunicação com outros sistemas e aplicações.
+Trabalhar com bancos de dados para armazenar, recuperar e gerenciar dados.
+Trabalhar com bancos de dados para armazenar, recuperar e gerenciar dados.
+Testar e depurar o código para garantir que ele funcione conforme o esperado e seja livre de bugs.
+Testar e depurar o código para garantir que ele funcione conforme o esperado e seja livre de bugs.
+Implementar novas funcionalidades e aprimoramentos de acordo com as necessidades do negócio.
+Implementar novas funcionalidades e aprimoramentos de acordo com as necessidades do negócio.
+Documentar o código e os softwares para facilitar a compreensão e a manutenção por outros desenvolvedores.
+Documentar o código e os softwares para facilitar a compreensão e a manutenção por outros desenvolvedores.
+REQUISITOS E QUALIFICAÇÕES
+O que esperamos de você?
+Conhecimento e vivência em Projetos em Metodologias Ágeis (Scrum, Kanban).
+Conhecimento e vivência em Projetos em Metodologias Ágeis (Scrum, Kanban).
+Experiência com diagramação funcional de sistemas / negócios / casos de uso.
+Experiência com diagramação funcional de sistemas / negócios / casos de uso.
+Desejável experiência com automação de testes.
+Desejável experiência com automação de testes.
+Vasta experiência com desenvolvimento C# e .NET Framework/Core;
+Vasta experiência com desenvolvimento C# e .NET Framework/Core;
+Profundo conhecimento em ASP.NET MVC e Web API;
+Profundo conhecimento em ASP.NET MVC e Web API;
+Experiência com tecnologias WEB Asp .Net Core, .Net Core, Asp .Net MVC. Angular
+Experiência com tecnologias WEB Asp .Net Core, .Net Core, Asp .Net MVC. Angular
+Experiência com análise/modelagem/testes uniários;
+Experiência com análise/modelagem/testes uniários;
+GIT para controle de versões;
+GIT para controle de versões;
+Conhecimento em metodologias ágeis;
+Conhecimento em metodologias ágeis;
+Expertise em arquitetura de software e design patterns;
+Expertise em arquitetura de software e design patterns;
+Experiência em bancos de dados relacionais, preferencialmente SQL Server
+Experiência em bancos de dados relacionais, preferencialmente SQL Server
+Experiência em projetos de larga escala e alta disponibilidade;
+Experiência em projetos de larga escala e alta disponibilidade;
+Conhecimento em containers e orquestração (Docker, kubernetes);
+Conhecimento em containers e orquestração (Docker, kubernetes);
+Experiência em cloud computing (AWS);
+Experiência em cloud computing (AWS);
+Profundo conhecimento em microserviços e arquiteturas distribuídas.
+Profundo conhecimento em microserviços e arquiteturas distribuídas.
+Sólidos conhecimentos em soluções de meios de pagamentos digitais"
+Sólidos conhecimentos em soluções de meios de pagamentos digitais"
+Formação:
+Superior completo ou cursando
+Conhecimentos Técnicos:
+Vasta experiência com desenvolvimento C# e .NET Framework/Core;
+Vasta experiência com desenvolvimento C# e .NET Framework/Core;
+Profundo conhecimento em ASP.NET MVC e Web API;
+Profundo conhecimento em ASP.NET MVC e Web API;
+Experiência com tecnologias WEB Asp .Net Core, .Net Core, Asp .Net MVC. Angular
+Experiência com tecnologias WEB Asp .Net Core, .Net Core, Asp .Net MVC. Angular
+Experiência com análise/modelagem/testes uniários;
+Experiência com análise/modelagem/testes uniários;
+GIT para controle de versões;
+GIT para controle de versões;
+﻿Será considerado diferencial se você tiver:
+INFORMAÇÕES ADICIONAIS
+Horário de trabalho: Comercial
+Modelo de trabalho para este projeto/cliente: Modelo hibrido , 2x por semana presencial.
+Modelo hibrido , 2x por semana presencial.
+Local de trabalho:  Barueri-SP.
+ Barueri-SP.
+Além de ser uma empresa certificada Great Place to Work, você vai encontrar na NAVA:
+ 
+✅ Oportunidades de carreira 🚀
+✅ Liberdade para escrever seu próprio código 🏆
+✅ Diversidade e diferentes formas de ver o mundo 🌈
+✅ Comunidades que incentivam o crescimento de todos 📚
+✅ Treinamento In Company 💻
+✅ Um time incrível 😎
+✅ Empresa engajada no Pacto Global da ONU 💪🏼
+✅ Projetos inovadores 💡
+✅ Alta avaliação no Glassdoor 📣
+ 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Teste Comportamental2Teste Comportamental
+Etapa 2: Teste Comportamental
+2
+Teste Comportamental
+Etapa 3: Triagem Talent Acquisition3Triagem Talent Acquisition
+Etapa 3: Triagem Talent Acquisition
+3
+Triagem Talent Acquisition
+Etapa 4: Entrevista Talent Acquisition4Entrevista Talent Acquisition
+Etapa 4: Entrevista Talent Acquisition
+4
+Entrevista Talent Acquisition
+Etapa 5: Entrevista Gestão / Cliente5Entrevista Gestão / Cliente
+Etapa 5: Entrevista Gestão / Cliente
+5
+Entrevista Gestão / Cliente
+Etapa 6: Avaliação Final 6Avaliação Final 
+Etapa 6: Avaliação Final 
+6
+Avaliação Final 
+Etapa 7: Offer7Offer
+Etapa 7: Offer
+7
+Offer
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+SOBRE A NAVA
+Somos uma empresa de tecnologia apaixonada por pessoas e inovação.
+Somos uma empresa de tecnologia apaixonada por pessoas e inovação.
+Inspiramos nossos times a criar soluções para que as maiores e melhores companhias do país transformem e impactem positivamente o mundo. Estamos de portas e braços abertos para todas as pessoas que desejam ser protagonistas de suas vidas e se tornarem tão grandes quanto seus sonhos, independentemente de gênero, orientação sexual, raça, etnia, religião, faixa etária ou deficiência. Afinal, acreditamos que a diversidade e a inclusão favorecem o surgimento de novas ideias, estimulam a criatividade e propiciam um ambiente mais acolhedor e humano. 
+Inspiramos nossos times a criar soluções para que as maiores e melhores companhias do país transformem e impactem positivamente o mundo. Estamos de portas e braços abertos para todas as pessoas que desejam ser protagonistas de suas vidas e se tornarem tão grandes quanto seus sonhos, independentemente de gênero, orientação sexual, raça, etnia, religião, faixa etária ou deficiência. Afinal, acreditamos que a diversidade e a inclusão favorecem o surgimento de novas ideias, estimulam a criatividade e propiciam um ambiente mais acolhedor e humano. 
+ 
+ 
+Mais que se sentir em casa, desejamos que aqui na NAVA você se sinta livre para escrever o seu próprio código, do seu jeito. 
+Mais que se sentir em casa, desejamos que aqui na 
+ você se sinta livre para escrever o seu próprio código, do seu jeito. 
+ 
+ 
+Se isso faz sentido para você, junte-se a nós.
+Se isso faz sentido para você, junte-se a nós.
+CONECTE-SE COM A NAVA
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

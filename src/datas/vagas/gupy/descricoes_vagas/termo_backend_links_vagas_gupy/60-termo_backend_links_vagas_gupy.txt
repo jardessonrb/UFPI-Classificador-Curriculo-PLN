@@ -1,0 +1,88 @@
+link_vaga-https://tecnologia-agibank.gupy.io/job/eyJqb2JJZCI6Nzg2OTU0OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+BACKEND SOFTWARE ENGINEER PLENO - CRÉDITO PESSOAL (HÍBRIDO CAMPINAS/SP)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Modelo de trabalho: Híbrido (1 dia/semana) em Campinas/SP
+AQUI NO AGIBANK VOCÊ TERÁ QUE:
+Propor evoluções tecnológicas nos sistemas;
+Monitorar a execução das boas práticas de desenvolvimento de sistemas;
+Validar nível de testes existentes nos projetos;
+Monitorar o desempenho e performance dos sistemas das aplicações;
+Antecipar-se a oportunidades e problemas, agindo com rapidez e eficácia, desenvolvendo soluções de forma preventiva;
+Auxiliar na orientação dos desenvolvedores mais novos e contribuir nas tomadas de decisão do projeto;
+Atuar na integração e interface entre as aplicações de back-end e front-end;
+Se envolver tecnicamente as etapas de iniciação, planejamento, execução, controle e encerramento dos projetos, monitorando a qualidade, funcionalidades, progressos e desvios no back-end.
+REQUISITOS E QUALIFICAÇÕES
+Java 8+;Springboot;Gitlab;Conhecimentos API REST;Testes unitários e cobertura de testes;MongoDB/PostgreSQL/MySQL;RabbitMQ/Kafka;Superior completo ou cursando Engenharia da Computação, Ciência da Computação ou correlatas.É UM DIFERENCIAL PRA NÓS, MAS NÃO É OBRIGATÓRIO, OK?Grafana;Camunda (BPM);Springbatch;Docker.
+Java 8+;
+8
+Springboot;
+Gitlab;
+Conhecimentos API REST;
+Testes unitários e cobertura de testes;
+MongoDB/PostgreSQL/MySQL;
+RabbitMQ/Kafka;
+Superior completo ou cursando Engenharia da Computação, Ciência da Computação ou correlatas.
+É UM DIFERENCIAL PRA NÓS, MAS NÃO É OBRIGATÓRIO, OK?
+Grafana;
+Camunda (BPM);
+Springbatch;
+Docker.
+INFORMAÇÕES ADICIONAIS
+ALGUNS BENEFÍCIOS, FACILIDADES E PARCERIAS PRA VOCÊ CURTIR A JORNADA COM A GENTE 😊:
+• Vale-refeição e/ou alimentação;
+• Plano de saúde com isenção total nos exames preventivos;
+• Plano odontológico;
+• Total Pass, pra atividade física e bem-estar;
+• Programa de Participação nos Resultados (PPR) seguindo as regras estabelecidas anualmente;
+• Programa de sócios do Agibank, o Tô de Dono/a;
+• Universidade interna, a Uni Agi;
+• Folga de presente no mês do seu aniversário;
+• Pesquisa semanal de clima, a Sem Climão;
+• Avaliação de performance;
+• Teleatendimento psicológico e médico gratuito, com o Conexão Saúde;
+• Licença-maternidade de 6 meses e licença-paternidade de 20 dias;
+• Dr. Pet: possibilidade fazer plano de saúde com desconto para o seu pet;
+• Auxílio-creche;
+• Fretado de ida e volta para Campinas e região (com raio de até 50 km de distância). São lugares reserváveis mediante a disponibilidade de assentos e rota.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Conhecendo suas habilidades e potenciais2Conhecendo suas habilidades e potenciais
+Etapa 2: Conhecendo suas habilidades e potenciais
+2
+Conhecendo suas habilidades e potenciais
+Etapa 3: Papo com Recrutador/a3Papo com Recrutador/a
+Etapa 3: Papo com Recrutador/a
+3
+Papo com Recrutador/a
+Etapa 4: Papo com a Liderança4Papo com a Liderança
+Etapa 4: Papo com a Liderança
+4
+Papo com a Liderança
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+VEM VER QUEM FAZ O DIA DE MILHÕES DE PESSOAS MELHOR!
+Queremos que quem trabalha aqui de fato cresça com a gente e transforme sua vida. Temos muito orgulho das centenas de pessoas que viram no Agibank a oportunidade de começar a carreira e foram se conhecendo e evoluindo com a gente. E como fazemos isso? Contratamos pessoas que já tem potencial pra desenvolver a cultura do Agibank, de agir sempre como empreendedor/a. Pessoas que acima de tudo querem crescer com a gente nesse ambiente colaborativo e fértil.
+Quem faz parte do Agibank entende que é responsável pelo seu próprio desenvolvimento e aproveita todas as oportunidades, trilhando a jornada que faz mais sentido e construindo os melhores caminhos. São encorajados/as diariamente a impulsionar seus potenciais e se colocar no lugar do cliente, oferecendo acolhimento em cada entrega e atendimento e, de fato, entendendo o seu impacto na vida dessas pessoas, para que sejam incluídas tanto digital quanto financeiramente.
+Somos uma empresa que acredita na diversidade. Por isso, direcionamos esforços pra nos tornarmos cada vez mais diversos e inclusivos pra todos os gêneros, orientações sexuais, cores, deficiências e idades.
+Você quer flexibilidade pra se desenvolver, espaço pra mostrar seu protagonismo e contribuir com desafios?
+Vem crescer com a gente 💚💙
+ACOMPANHE O AGIBANK NAS REDES 😃💚💙
+Website
+LinkedIn
+Instagram
+Glassdoor

@@ -1,0 +1,116 @@
+link_vaga-https://querodelivery.gupy.io/job/eyJqb2JJZCI6ODAwNzUyOCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+BACK-END DEVELOPER PLENO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+DESCRIÇÃO DA VAGA
+Estamos em busca de um(a) Desenvolvedor(a) Back-End Pleno, que tenha paixão por programação e vontade de encarar novos desafios. Se você está buscando um espaço colaborativo para desenvolvimento profissional, essa vaga é para você. 
+Estamos em busca de um(a) Desenvolvedor(a) Back-End Pleno, que tenha paixão por programação e vontade de encarar novos desafios. Se você está buscando um espaço colaborativo para 
+, essa vaga é para você. 
+Somos uma empresa jovem, que preza pelo desenvolvimento, pela troca de experiência e aprendizado de nossos colaboradores.
+Somos uma empresa jovem, que preza pelo desenvolvimento, pela troca de experiência e aprendizado de nossos colaboradores.
+#vemproroxinho #qdlabs
+#vemproroxinho #qdlabs
+
+Contratação CLT
+Contratação CLT
+RESPONSABILIDADES E ATRIBUIÇÕES
+Implementação/identificação de regras de negócio;Validação, acompanhamento e aprimoramento de aplicações; Criar testes automatizados ;Code Review (Revisão de código);Realizar XP;Participar de cerimônias do SCRUM;Identificar pontos de melhoria e de falha;Analisar ferramentas de observabilidade;Acompanhamento indireto do início do desenvolvimento até o rollout em produção;
+Implementação/identificação de regras de negócio;
+Implementação/identificação de regras de negócio;
+Validação, acompanhamento e aprimoramento de aplicações; 
+Validação, acompanhamento e aprimoramento de aplicações; 
+Criar testes automatizados ;
+Criar testes automatizados ;
+Code Review (Revisão de código);
+Code Review (Revisão de código);
+Realizar XP;
+Realizar XP;
+Participar de cerimônias do SCRUM;
+Participar de cerimônias do SCRUM;
+Identificar pontos de melhoria e de falha;
+Identificar pontos de melhoria e de falha;
+Analisar ferramentas de observabilidade;
+Analisar ferramentas de observabilidade;
+Acompanhamento indireto do início do desenvolvimento até o rollout em produção;
+Acompanhamento indireto do início do desenvolvimento até o rollout em produção;
+REQUISITOS E QUALIFICAÇÕES
+Nodejs;Mongodb;API’s;Clean Code;Jest;RabbitMQ;Scrum;Será um diferencial (mas não é obrigatório):Docker;Microserviços;Experiência em CI/CD;AWS;Experiência criando arquitetura;Kafka;Kaburnetes;
+Nodejs;
+Mongodb;
+API’s;
+Clean Code;
+Jest;
+RabbitMQ;
+Scrum;
+Será um diferencial (mas não é obrigatório):
+Docker;
+Microserviços;
+Experiência em CI/CD;
+AWS;
+Experiência criando arquitetura;
+Kafka;
+Kaburnetes;
+INFORMAÇÕES ADICIONAIS
+Nossos benefícios 🙈
+Cartão de Benefícios Caju;
+Cartão de Benefícios Caju;
+Plano de Saúde Sul América 100% do seu valor custeado pela Quero Delivery;
+Plano de Saúde Sul América 100% do seu valor custeado pela Quero Delivery;
+Seguro de Vida da Porto Seguro;
+Seguro de Vida da Porto Seguro;
+Day Off de Aniversário, para você curtir o seu dia;
+Day Off de Aniversário, para você curtir o seu dia;
+Slang, plataforma de Inglês;
+Slang, plataforma de Inglês;
+Alura, plataforma de cursos para seu desenvolvimento profissional;
+Alura, plataforma de cursos para seu desenvolvimento profissional;
+Parceria com a instituição de ensino Estácio.
+Parceria com a instituição de ensino Estácio.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Bate Papo - People2Bate Papo - People
+Etapa 2: Bate Papo - People
+2
+Bate Papo - People
+Etapa 3: Bate Papo - Gestão tech3Bate Papo - Gestão tech
+Etapa 3: Bate Papo - Gestão tech
+3
+Bate Papo - Gestão tech
+Etapa 4: Proposta - Qdlabs4Proposta - Qdlabs
+Etapa 4: Proposta - Qdlabs
+4
+Proposta - Qdlabs
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+QUERO DELIVERY, O APP MAIS QUERIDO DO INTERIOR DO BRASIL 💜🚀
+Somos um aplicativo de Delivery 100% Sergipano e claro nordestino arretado, nasci da ideia que facilitasse a vida das pessoas. Desde então, venho crescendo. Até chegar a outras cidades e estados do Brasil. 
+Somos um aplicativo de Delivery 100% Sergipano e claro nordestino arretado, nasci da ideia que facilitasse a vida das pessoas. Desde então, venho crescendo. Até chegar a outras cidades e estados do Brasil. 
+Te convido a fazer parte de uma das melhores empresas para se trabalhar certificada pela GPTW, aqui você terá oportunidade de se desenvolver, a liberdade de criar e o desafio para inovar. 
+Te convido a fazer parte de uma das melhores empresas para se trabalhar certificada pela GPTW, aqui você terá oportunidade de se desenvolver, a liberdade de criar e o desafio para inovar. 
+Sonhamos Grande, temos fome!
+Sonhamos Grande, temos fome!
+Nós,QueroLabs, temos fome de tecnologia, de resultado positivo e que impacte positivamente a vida das pessoas! 
+Nós,QueroLabs, temos fome de tecnologia, de resultado positivo e que impacte positivamente a vida das pessoas! 
+Queremos sempre estar perto de você, com responsabilidade e entregando o melhor para sua vida!
+Queremos sempre estar perto de você, com responsabilidade e entregando o melhor para sua vida!
+Temos fome de empatia, equidade e diversidade, sempre focados em viabilizar a melhor experiência pra você, Usuário. E também, para nosso colaborador, garantindo um ambiente com muito respeito, colaboração e agilidade. 
+Temos fome de empatia, equidade e diversidade, sempre focados em viabilizar a melhor experiência pra você, Usuário. E também, para nosso colaborador, garantindo um ambiente com muito respeito, colaboração e agilidade. 
+E o mais importante nisso tudo, é o nosso motivo de existir, as pessoas, seja você colaborador, cliente, parceiro ou afiliado. Vem conosco! 🤝
+E o mais importante nisso tudo, é o nosso motivo de existir, as pessoas, seja você colaborador, cliente, parceiro ou afiliado. Vem conosco! 🤝
+
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

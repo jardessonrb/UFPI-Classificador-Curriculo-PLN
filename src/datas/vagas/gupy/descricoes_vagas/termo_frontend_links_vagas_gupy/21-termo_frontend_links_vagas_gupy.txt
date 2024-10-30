@@ -1,0 +1,72 @@
+link_vaga-https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6Nzk0MTU5OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+FRONTEND DEVELOPER
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+¡Sé parte de Stefanini! En Stefanini somos más de 30.000 genios, conectados desde 41 países, haciendo lo que les apasiona y co-creando un futuro mejor.
+¡Seguro no te quieres quedar fuera!
+Perfil de desarrollador NODEJS version superiores 16 con capacidad para construir aplicaciones Web de una sola pagina (SPA), experiencia en patrones MVC, conocimientos en TS, CSS, HTML5 y JavaScript, consumo de apis rest full y despliegue en contenedores.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desarrollo y mantenimiento de interfaces de usuario utilizando Angular y siguiendo el patrón MVC.Diseñar, ejecutar y mejorar el diseño de test unitarios & test de integración.Colaborar con equipos de desarrollo en proyectos ágiles (SCRUM).Participar activamente en las sesiones de planificación, retrospectivas y revisiones del equipo.Implementar aplicaciones con énfasis en la usabilidad y rendimiento.Conocimientos de HTML/CSS/Javascript.
+Desarrollo y mantenimiento de interfaces de usuario utilizando Angular y siguiendo el patrón MVC.
+Diseñar, ejecutar y mejorar el diseño de test unitarios & test de integración.
+Colaborar con equipos de desarrollo en proyectos ágiles (SCRUM).
+Participar activamente en las sesiones de planificación, retrospectivas y revisiones del equipo.
+Implementar aplicaciones con énfasis en la usabilidad y rendimiento.
+Conocimientos de HTML/CSS/Javascript.
+REQUISITOS E QUALIFICAÇÕES
+Profesional o Estudiantes último semestre en Ingeniería de Sistemas o carreras afines con experiencia demostrable de 2 a 3 años en desarrollo de aplicaciones, que haya trabajado en múltiples plataformas, herramientas y/o con múltiples metodologías, con experiencia específica en las tecnologías JavaScript y TypeScript.Habilidades Técnicas:Experiencia utilizando Bitbucket Git para la gestión de código.Experiencia en el patrón MVC (Model-View-Controller)Conocimiento en el desarrollo de Single Page Applications (SPA) desde cero.Fuertes habilidades en HTML y CSS.Dominio de JavaScript y TypeScript.Experiencia en el trabajo bajo metodología Scrum.Habilidades Blandas:Autogestión.Capacidad organizativa, interés en medir el desempeño de los procesos.Capacidad analítica, iniciativa y capacidad de resolución de problemas.Escucha activa y comunicación asertiva.Buenas relaciones interpersonales, trabajo en equipo.
+Profesional o Estudiantes último semestre en Ingeniería de Sistemas o carreras afines con experiencia demostrable de 2 a 3 años en desarrollo de aplicaciones, que haya trabajado en múltiples plataformas, herramientas y/o con múltiples metodologías, con experiencia específica en las tecnologías JavaScript y TypeScript.
+Habilidades Técnicas:
+Experiencia utilizando Bitbucket Git para la gestión de código.
+Experiencia en el patrón MVC (Model-View-Controller)
+Conocimiento en el desarrollo de Single Page Applications (SPA) desde cero.
+Fuertes habilidades en HTML y CSS.
+Dominio de JavaScript y TypeScript.
+Experiencia en el trabajo bajo metodología Scrum.
+Habilidades Blandas:
+Autogestión.
+Capacidad organizativa, interés en medir el desempeño de los procesos.
+Capacidad analítica, iniciativa y capacidad de resolución de problemas.
+Escucha activa y comunicación asertiva.
+Buenas relaciones interpersonales, trabajo en equipo.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevistas2Entrevistas
+Etapa 2: Entrevistas
+2
+Entrevistas
+Etapa 3: Confirmación de candidato3Confirmación de candidato
+Etapa 3: Confirmación de candidato
+3
+Confirmación de candidato
+Etapa 4: Onboarding4Onboarding
+Etapa 4: Onboarding
+4
+Onboarding
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+CONOCE A STEFANINI
+Somos una empresa global con 35 años de experiencia en el mercado, ofrecemos una sólida selección de servicios como: automatización, nube, Internet de las cosas (IoT) y experiencia de usuario (UX).
+Creemos que la tecnología puede revolucionar una empresa y la innovación es fundamental para fomentar el desarrollo y la competitividad. También valoramos las nuevas ideas y el poder de una mente abierta, por lo que reconocemos que cada talento es esencial para la calidad de nuestros proyectos y especialmente para nuestro progreso.
+Creemos que la tecnología puede revolucionar una empresa y la innovación es fundamental para fomentar el desarrollo y la competitividad. También valoramos las nuevas ideas y el poder de una mente abierta, por lo que reconocemos que cada talento es esencial para la calidad de nuestros proyectos y especialmente para nuestro progreso.
+Mantenemos nuestra excelencia invirtiendo en innovaciones tecnológicas, las mejores alianzas, adquisiciones de empresas en todo el mundo y la contratación de profesionales altamente capacitados.
+CONOCE MÁS SOBRE NOSOTROS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

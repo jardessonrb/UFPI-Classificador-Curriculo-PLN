@@ -1,0 +1,128 @@
+link_vaga-https://geosistemas.gupy.io/job/eyJqb2JJZCI6Nzc0MDAyOCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR SÊNIOR FULL STACK (PYTHON)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Conquistar alto nível de satisfação dos Clientes e o atendimento dos resultados planejados.
+Propor soluções inovadoras utilizando abordagens reconhecidas como: TDD, BDD, DDD, Design Pattern, SOLID, Cloud, REST e metodologias ágeis.
+Desenvolvimento Web Full Stack
+RESPONSABILIDADES E ATRIBUIÇÕES
+Identificar, avaliar e definir frameworks, componentes e softwares para desenvolvimento, através da conceituação, documentação e experimentação, buscando aprimorar as soluções desenvolvidas;Construir modelos funcionais e de dados de sistemas, aplicando boas práticas que garantam visão estruturada, qualidade, reutilização, facilidade de manutenção de códigos;Detalhar projetos, determinando suas interfaces, limites de automação e plataforma tecnológica;Aplicar e avaliar testes funcionais e não funcionais, seguindo o plano de testes estabelecido, junto ao cliente visando a entrega da solução e satisfação do cliente;Escrever códigos de desenvolvimento dos sistemas seguindo as melhores práticas (SOLID, Clean Code, TDD), padrões de nomenclatura e práticas da empresa;Realizar avaliações de segurança e performance de soluções;Escrever o plano de testes funcionais e não funcionais visando a entrega da solução e satisfação do cliente;Avaliar e elaborar a documentação de usuário e administração de sistemas desenvolvidos e os repositórios de informação dos projetos;Assegurar as interfaces de integração com outras plataformas/soluções.
+Identificar, avaliar e definir frameworks, componentes e softwares para desenvolvimento, através da conceituação, documentação e experimentação, buscando aprimorar as soluções desenvolvidas;
+dentificar, avaliar e definir frameworks, componentes e softwares para desenvolvimento, através da conceituação, documentação e experimentação, buscando aprimorar as soluções desenvolvidas;
+Construir modelos funcionais e de dados de sistemas, aplicando boas práticas que garantam visão estruturada, qualidade, reutilização, facilidade de manutenção de códigos;
+Detalhar projetos, determinando suas interfaces, limites de automação e plataforma tecnológica;
+Aplicar e avaliar testes funcionais e não funcionais, seguindo o plano de testes estabelecido, junto ao cliente visando a entrega da solução e satisfação do cliente;
+Aplicar e avaliar testes funcionais e não funcionais, seguindo o plano de testes estabelecido, junto ao cliente visando a entrega da solução e satisfação do cliente;
+Escrever códigos de desenvolvimento dos sistemas seguindo as melhores práticas (SOLID, Clean Code, TDD), padrões de nomenclatura e práticas da empresa;
+Escrever códigos de desenvolvimento dos sistemas seguindo as melhores práticas (SOLID, Clean Code, TDD), padrões de nomenclatura e práticas da empresa;
+Realizar avaliações de segurança e performance de soluções;
+Realizar avaliações de segurança e performance de soluções;
+Escrever o plano de testes funcionais e não funcionais visando a entrega da solução e satisfação do cliente;
+Escrever o plano de testes funcionais e não funcionais visando a entrega da solução e satisfação do cliente;
+Avaliar e elaborar a documentação de usuário e administração de sistemas desenvolvidos e os repositórios de informação dos projetos;
+Avaliar e elaborar a documentação de usuário e administração de sistemas desenvolvidos e os repositórios de informação dos projetos;
+Assegurar as interfaces de integração com outras plataformas/soluções.
+Assegurar as interfaces de integração com outras plataformas/soluções.
+REQUISITOS E QUALIFICAÇÕES
+Formação:
+Ensino superior completo nas áreas de tecnologia, desenvolvimento ou afins.
+nas áreas de tecnologia, desenvolvimento ou afins.
+Habilidades Técnicas
+Conhecimento em desenvolvimento de software;
+Experiência trabalhando com desenvolvimento Back-end e serviços restfull;
+Conhecimentos em html5, CSS3, node.js e react;
+Conhecimentos em Python;
+Javascript / Typescript;
+Conhecimentos em SQL e Análise de Dados;
+Experiência em levantar e documentar requisitos juntos aos usuários;
+Capacidade de realizar testes unitários e de integração;
+Uso de ferramentas de controle de versão de código e de banco de dados
+Capacidade de desenvolvimento de soluções utilizando todas as linguagens suportadas na plataforma ArcGIS.
+
+Habilidades Desejáveis:
+Especializações/Mestrado na área;
+Inglês Avançado;
+Vivência em metodologias ágeis;
+Conhecimentos na plataforma ArcGIS;
+Capacidade de análise crítica de especificações de sistemas e negócios.
+INFORMAÇÕES ADICIONAIS
+O QUE OFERECEMOS 
+ 
+- Bônus anual atrelado às performances individual e da empresa 
+- Planos de Saúde e Odontológico 
+- Alimentação / Refeição (inclusive nas férias) 
+- Vale Transporte 
+- Auxílio Home Office 
+- Seguro de Vida e Acidentes Pessoais 
+- Previdência Privada 
+- Cooperativa de Crédito 
+ 
+Família 
+ 
+- Auxílio Creche 
+- Licença Paternidade Estendida 
+- Day Off de Aniversários de filhos de até 16 anos 
+ 
+ Bem-Estar 
+- Trabalho Híbrido 
+- Horário Flexível  
+- Day Off de Aniversário + Voucher Ifood 
+- Plano de Academia 
+- Conversas guiadas sobre Saúde Emocional 
+ 
+Desenvolvimento 
+ - Carreira em “Y” 
+- Oportunidades de movimentação interna 
+- 2 horas de estudos semanais durante o expediente 
+- Capacitação comportamental 
+- Avaliação Continuada com feedbacks e acompanhamento permanente para apoio à evolução profissional do Colaborador 
+- Plano de Desenvolvimento Individual com capacitações e ações voltadas a cada Colaborador 
+ 
+SE INTERESSOU POR ESTA VAGA?
+Venha fazer parte de uma empresa referência no segmento e distribuidora oficial do melhor sistema de Inteligência Geográfica do mundo – o ArcGIS da Esri. Aqui, oferecemos caminhos para que você se desenvolva profissionalmente e cresça junto com o nosso negócio em um ambiente aberto ao diálogo. Venha unir suas experiências com as nossas para oferecer as melhores soluções em Geotecnologia aos nossos Clientes. Descubra as diversas formas de construir a sua carreira com a gente!
+ 
+CONHEÇA MAIS SOBRE NÓS
+ Trabalhe Conosco / Linkedin / Instagram
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem de Currículos2Triagem de Currículos
+Etapa 2: Triagem de Currículos
+2
+Triagem de Currículos
+Etapa 3: Entrevista Técnica3Entrevista Técnica
+Etapa 3: Entrevista Técnica
+3
+Entrevista Técnica
+Etapa 4: Comitê4Comitê
+Etapa 4: Comitê
+4
+Comitê
+Etapa 5: Carta Oferta5Carta Oferta
+Etapa 5: Carta Oferta
+5
+Carta Oferta
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+VENHA MAPEAR O FUTURO COM A GENTE.
+Imagine como pode ser o seu futuro profissional na Imagem Geosistemas - uma empresa referência no seu segmento e distribuidora oficial do melhor sistema de inteligência geográfica do mundo – o ArcGIS da Esri. Ajudamos negócios e governos a dominarem o poder dos dados, entendendo padrões, realizando análises, simulando cenários, impactando positivamente Clientes e sociedade com a Geotecnologia, transformando o presente e o amanhã das pessoas.
+E, você, quer estar aqui e fazer isso com a gente?
+Estamos espalhados em todo o Brasil e já somos mais de 350 profissionais de alto desempenho. Por aqui, encontramos múltiplas possibilidades de carreira, em diversas áreas, para fazer acontecer o mundo da inovação em location intelligence, digital twin, analytics, inteligência artificial, data science, reality capture e muitas outras tecnologias. Tudo em um lugar respeitoso e colaborativo, que valoriza o diálogo aberto e a cooperação para cada um desenvolver o seu melhor ao lado de pessoas que se apoiam.
+Gostou? Venha mapear o futuro com a gente.
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Instagram

@@ -1,0 +1,85 @@
+link_vaga-https://ipiranga.gupy.io/job/eyJqb2JJZCI6ODAyODM1Miwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE INTELIGÊNCIA DE TRADING (DADOS)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+DESCRIÇÃO DA VAGA
+Já pensou em se movimentar na Ipiranga?Na Ipiranga acreditamos que pessoas com brilho nos olhos, autênticas e engajadas são nosso diferencial competitivo! Atuamos com paixão e propósito, colocando o cliente no centro das nossas decisões. Valorizamos a autonomia, a abertura e a transparência, pois temos certo de que a verdade e o respeito fortalecem relações e geram confiança. Proporcionamos para nosso time um ambiente flexível, de colaboração e bem-estar para plena realização pessoal e profissional. Nosso propósito é “Abastecer a vida em movimento”.Conheça mais sobre a gente: https://portal.ipiranga/wps/portal/ipiranga/a-ipiranga/institucional/carreiras/ Leia nosso relatório de ESG: https://portal.ipiranga/wps/portal/ipiranga/aipiranga/institucional/sustentabilidade﻿O que a gente espera de você?Pensamento orientado com foco no cliente #OClienteéaRazãoMindset ágil, que se adapta rápido à mudança #LevezaFoco em soluções e resolução de problemas #SuaVozTemValorAutonomia, iniciativa e protagonismo são essenciais #DeixaComigoPaixão, brilho nos olhos e autenticidade #SejaVocê!Querer fazer parte de uma empresa ética que entrega valor à sociedade #ValeaPenaPessoas inconformadas que pensam lá na frente em busca da evolução #SomosIpirangaMentalidade de dono e sede resultados crescentes #FaçoAcontecer
+
+Na Ipiranga acreditamos que pessoas com brilho nos olhos, autênticas e engajadas são nosso diferencial competitivo! Atuamos com paixão e propósito, colocando o cliente no centro das nossas decisões. Valorizamos a autonomia, a abertura e a transparência, pois temos certo de que a verdade e o respeito fortalecem relações e geram confiança. Proporcionamos para nosso time um ambiente flexível, de colaboração e bem-estar para plena realização pessoal e profissional. Nosso propósito é “Abastecer a vida em movimento”.
+Conheça mais sobre a gente: https://portal.ipiranga/wps/portal/ipiranga/a-ipiranga/institucional/carreiras/ 
+Leia nosso relatório de ESG: https://portal.ipiranga/wps/portal/ipiranga/aipiranga/institucional/sustentabilidade
+
+Pensamento orientado com foco no cliente #OClienteéaRazão
+Mindset ágil, que se adapta rápido à mudança #Leveza
+Foco em soluções e resolução de problemas #SuaVozTemValor
+Autonomia, iniciativa e protagonismo são essenciais #DeixaComigo
+Paixão, brilho nos olhos e autenticidade #SejaVocê!
+Querer fazer parte de uma empresa ética que entrega valor à sociedade #ValeaPena
+Pessoas inconformadas que pensam lá na frente em busca da evolução #SomosIpiranga
+Mentalidade de dono e sede resultados crescentes #FaçoAcontecer
+RESPONSABILIDADES E ATRIBUIÇÕES
+Quais serão suas responsabilidades e desafios? Criar modelos de Machine Learning: Desenvolver e implementar modelos preditivos para auxiliar na tomada de decisão em operações de trading.Construir dashboards interativos: Transformar dados complexos em visualizações intuitivas e significativas utilizando o Power BI, fornecendo insights acionáveis para a equipe.Extrair e integrar dados: Obter dados de diversas fontes, incluindo APIs, bancos de dados e web scraping, garantindo a qualidade e confiabilidade das informações.Realizar análises avançadas: Conduzir análises complexas para identificar tendências, padrões e oportunidades no mercado financeiro e de combustíveisDesenhar fluxos de dados: Definir e documentar a arquitetura e o fluxo de dados para implementação em produção pela equipe de Engenharia de Dados.Automatizar processos: Criar processos automatizados de disponibilização de relatórios e dados para as áreas de interesse com o Power Automate, programação e scripts do Excel.
+
+Criar modelos de Machine Learning: Desenvolver e implementar modelos preditivos para auxiliar na tomada de decisão em operações de trading.
+Construir dashboards interativos: Transformar dados complexos em visualizações intuitivas e significativas utilizando o Power BI, fornecendo insights acionáveis para a equipe.
+Extrair e integrar dados: Obter dados de diversas fontes, incluindo APIs, bancos de dados e web scraping, garantindo a qualidade e confiabilidade das informações.
+Realizar análises avançadas: Conduzir análises complexas para identificar tendências, padrões e oportunidades no mercado financeiro e de combustíveis
+Desenhar fluxos de dados: Definir e documentar a arquitetura e o fluxo de dados para implementação em produção pela equipe de Engenharia de Dados.
+Automatizar processos: Criar processos automatizados de disponibilização de relatórios e dados para as áreas de interesse com o Power Automate, programação e scripts do Excel.
+REQUISITOS E QUALIFICAÇÕES
+O que você precisa ter para conquistar essa posição? Formação completa em áreas como: Ciência da Computação, Estatística, Matemática, Engenharia ou áreas afins;Experiência sólida em Power BI para criação de dashboards e relatórios;Domínio de técnicas de Machine Learning e sua aplicação em problemas reais;Habilidade em extração de dados de diversas fontes, incluindo web scraping;Conhecimento em SQL e bancos de dados relacionais;Capacidade de realizar análise quantitativas e qualitativas complexas.
+
+Formação completa em áreas como: Ciência da Computação, Estatística, Matemática, Engenharia ou áreas afins;
+Experiência sólida em Power BI para criação de dashboards e relatórios;
+Domínio de técnicas de Machine Learning e sua aplicação em problemas reais;
+Habilidade em extração de dados de diversas fontes, incluindo web scraping;
+Conhecimento em SQL e bancos de dados relacionais;
+Capacidade de realizar análise quantitativas e qualitativas complexas.
+INFORMAÇÕES ADICIONAIS
+E aí, topa o desafio? Então se candidata nessa vaga e não deixa essa oportunidade para depois!
+Acreditamos que a diversidade favorece o ambiente inovador! Estamos de portas abertas para pessoas com desejo de transformação pelo trabalho e dispostas a contribuir para o crescimento e evolução da empresa.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem de currículoss2Triagem de currículoss
+Etapa 2: Triagem de currículoss
+2
+Triagem de currículoss
+Etapa 3: Entrevista com RH3Entrevista com RH
+Etapa 3: Entrevista com RH
+3
+Entrevista com RH
+Etapa 4: Entrevista com a liderança4Entrevista com a liderança
+Etapa 4: Entrevista com a liderança
+4
+Entrevista com a liderança
+Etapa 5: Preenchimento da ficha5Preenchimento da ficha
+Etapa 5: Preenchimento da ficha
+5
+Preenchimento da ficha
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+SOBRE NÓS
+Nós somos a Ipiranga, uma marca brasileira, amada e reconhecida! Facilitamos a jornada de mobilidade e o dia a dia das pessoas. Nosso propósito é abastecer a vida em movimento. Estamos sempre em movimento para te acompanhar. Por isso, queremos ser um parceiro na sua jornada, e não estamos falando só de combustível. Como lugar completo, oferecemos soluções para motoristas que abastecem em nossos postos, caminhoneiros, pedestres, ciclistas e até pets. Nosso estilo é diverso, gostamos de mudança, valorizamos agilidade, autonomia e temos sede de aprendizado.
+ 
+Nosso compromisso com o ESG
+A cultura sustentável na Ipiranga é uma prática diária do nosso time para as tomadas de decisões. Um exemplo disso, é que, desde 2013, somos signatários do Pacto Global, principal agenda de Sustentabilidade e carbono neutro.
+Link para nosso relatório de ESG: clique aqui
+ 
+#Diversidade que nos move
+Como inovação, diversidade e inclusão caminham juntos, incentivamos e promovemos mais equidade e pluralidade nos nossos times. Investimos na construção de um ambiente inclusivo e de respeito à diversidade. Aqui, competência não tem gênero, raça, orientação afetiva-sexual, idade ou deficiência. A diversidade favorece o ambiente inovador!
+Seja quem for, seja você!!
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Instagram
+Glassdoor

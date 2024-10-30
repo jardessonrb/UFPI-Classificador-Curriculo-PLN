@@ -1,0 +1,71 @@
+link_vaga-https://compass.gupy.io/job/eyJqb2JJZCI6NzcwMDU4OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+REACT.JS/SPRING BOOT FULLSTACK DEVELOPER FOR E-COMMERCE | MID/SENIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Visão clara de todo o ciclo de desenvolvimento;Apoio nas decisões técnicas e estratégicas, avaliando os riscos e impactos das soluções (resiliência, performance, escalabilidade, segurança, etc);Cultivar um ambiente de trabalho inclusivo e colaborativo, incentivando a diversidade e o trabalho em equipe garantindo as entregas;Apoio nas construção e validação das soluções desenvolvidas garantindo boa comunicação e clareza nos processos;Trabalho junto ao time na construção, definição e execução de cenários de testes do produto;Proatividade e dinamismo para com o time, apoiando na solução de problemas de alta complexidade;Estabelecimento e promoção de práticas de desenvolvimento ágil, incentivando a colaboração, feedback contínuo e melhoria contínua;Monitoramento e análises de métricas de desempenho, identificando oportunidades de otimização e aprimoramento do sistema.
+Visão clara de todo o ciclo de desenvolvimento;
+Apoio nas decisões técnicas e estratégicas, avaliando os riscos e impactos das soluções (resiliência, performance, escalabilidade, segurança, etc);
+Cultivar um ambiente de trabalho inclusivo e colaborativo, incentivando a diversidade e o trabalho em equipe garantindo as entregas;
+Apoio nas construção e validação das soluções desenvolvidas garantindo boa comunicação e clareza nos processos;
+Trabalho junto ao time na construção, definição e execução de cenários de testes do produto;
+Proatividade e dinamismo para com o time, apoiando na solução de problemas de alta complexidade;
+Estabelecimento e promoção de práticas de desenvolvimento ágil, incentivando a colaboração, feedback contínuo e melhoria contínua;
+Monitoramento e análises de métricas de desempenho, identificando oportunidades de otimização e aprimoramento do sistema.
+REQUISITOS E QUALIFICAÇÕES
+Experiência em Desenvolvimento Orientado a Objetos com Java 17+Experiência com Spring Boot, mensageria e cache;Experiência em testes unitários (jUnit)Experiência com desenvolvimento de arquitetura distribuídas, resilientes, escaláveis e de alta performance;Experiência em modelagem, documentação e implementação de APIs;Experiência com Git, Docker, Kubernets;Experiência com observabilidade de software;Práticas ágeis como Kanban;Experiência com ferramentas e práticas de observabilidade e troubleshooting de aplicações;Conhecimento em soluções Cloud (preferência - AWS);Conhecimento de arquitetura e comunicação (síncrona e assíncrona) de microsserviços;Conhecimento de boas práticas de desenvolvimento;Conhecimento de bancos de dados relacionais e não relacionais;Conhecimento de padrões de qualidade (Pirâmide de testes, testes unitários, automação de testes);Conhecimento em front-end (React, Typescript, Jest);Diferencial: Conhecimento em plataformas de e-commerce.Não possui todos os requisitos para a vaga?Está tudo bem! Na Compass UOL, estimulamos o desenvolvimento contínuo de novos talentos e transformamos desafios em oportunidades.
+Experiência em Desenvolvimento Orientado a Objetos com Java 17+
+Experiência com Spring Boot, mensageria e cache;
+Experiência em testes unitários (jUnit)
+Experiência com desenvolvimento de arquitetura distribuídas, resilientes, escaláveis e de alta performance;
+Experiência em modelagem, documentação e implementação de APIs;
+Experiência com Git, Docker, Kubernets;
+Experiência com observabilidade de software;
+Práticas ágeis como Kanban;
+Experiência com ferramentas e práticas de observabilidade e troubleshooting de aplicações;
+Conhecimento em soluções Cloud (preferência - AWS);
+Conhecimento de arquitetura e comunicação (síncrona e assíncrona) de microsserviços;
+Conhecimento de boas práticas de desenvolvimento;
+Conhecimento de bancos de dados relacionais e não relacionais;
+Conhecimento de padrões de qualidade (Pirâmide de testes, testes unitários, automação de testes);
+Conhecimento em front-end (React, Typescript, Jest);
+Diferencial: Conhecimento em plataformas de e-commerce.
+Não possui todos os requisitos para a vaga?
+Está tudo bem! Na Compass UOL, estimulamos o desenvolvimento contínuo de novos talentos e transformamos desafios em oportunidades.
+INFORMAÇÕES ADICIONAIS
+#remote"remote"
+#remote
+"remote"
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Teste de Perfil2Teste de Perfil
+Etapa 2: Teste de Perfil
+2
+Teste de Perfil
+Etapa 3: Entrevista Fit Cultural3Entrevista Fit Cultural
+Etapa 3: Entrevista Fit Cultural
+3
+Entrevista Fit Cultural
+Etapa 4: Entrevista Técnica4Entrevista Técnica
+Etapa 4: Entrevista Técnica
+4
+Entrevista Técnica
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+DREAM BIG WHEN IT COMES TO TECHNOLOGY. BE A COMPASSER! 🚀
+Compass UOL is a global technology company focused on AI-driven transformation. We are a team of 6,500 highly specialized professionals who are passionate about what they do. Together, we develop cutting-edge solutions to expand the businesses of the world’s largest companies and improve people’s lives. That’s why our selection process goes beyond technical skills. Our goal is to find unique individuals with the potential to make an extraordinary impact on our clients. We empower talent without borders and promote knowledge and opportunities in the latest market trends, driving significant results.Join us and be part of the AI-driven digital revolution in the technology universe. HOW OUR SELECTION PROCESS WORKS 1. ONLINE APPLICATION Choose the opportunity that best fits your goals. Remember: having a well-detailed profile with your experiences and knowledge can make all the difference!2. INTERVIEWS Learn about our culture and company! During interviews, be present and do your best to share your expertise in a chronological and structured way.3. EVALUATION Our tests and assessments focus on finding talent with the cultural and technical fit for the position applied for.4. FEEDBACK Wait for our response regardless of the result! We have Gupy platform feedback certification.

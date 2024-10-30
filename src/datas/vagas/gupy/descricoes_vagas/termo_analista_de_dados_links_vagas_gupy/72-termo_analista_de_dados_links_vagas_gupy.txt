@@ -1,0 +1,117 @@
+link_vaga-https://mercantil.gupy.io/job/eyJqb2JJZCI6NzkyNjQxNSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE DADOS PLENO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+#VEMSERMERCANTIL
+Ei, você! Ser desafiado diariamente é algo que te motiva? Se a resposta for sim, vem ser Mercantil! O que não faltam aqui são oportunidades de vivenciar novos desafios e de ser protagonista de sua carreira, tudo isso em uma das Melhores Empresas para se trabalhar em Minas Gerais. 
+Ei, você! Ser desafiado diariamente é algo que te motiva? Se a resposta for sim, vem ser Mercantil! O que não faltam aqui são oportunidades de 
+, tudo isso em uma das Melhores Empresas para se trabalhar em Minas Gerais. 
+E essa combinação fica ainda mais perfeita se você tiver brilho nos olhos, uma comunicação sensacional, proatividade e, claro, foco em resultados. Curtiu? Então, veja abaixo a oportunidade que temos aqui:
+E essa combinação fica ainda mais perfeita se você tiver
+, uma comunicação sensacional, 
+. Curtiu? Então, veja abaixo a oportunidade que temos aqui:
+
+
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+COMO VOCÊ VAI ATUAR AQUI
+Fornecer dados confiáveis e atualizados para a área de negócio, por meio do desenvolvimento e da manutenção de processos de ETL automatizados, utilizando ferramentas como SQL, Python e dbt;
+Fornecer dados confiáveis e atualizados para a área de negócio, por meio do desenvolvimento e da manutenção de processos de ETL automatizados, utilizando ferramentas como SQL, Python e dbt;
+Desenvolver e manter dashboards e relatórios claros e informativos, por meio de ferramentas como Power BI e Excel, visando facilitar a tomada de decisão baseada em dados;
+Desenvolver e manter dashboards e relatórios claros e informativos, por meio de ferramentas como Power BI e Excel, visando facilitar a tomada de decisão baseada em dados;
+Identificar oportunidades de melhoria de processos, por meio da análise de indicadores de desempenho e contato com os times de negócio, visando aumento de eficiência e redução de despesas.
+Identificar oportunidades de melhoria de processos, por meio da análise de indicadores de desempenho e contato com os times de negócio, visando aumento de eficiência e redução de despesas.
+ 
+REQUISITOS E QUALIFICAÇÕES
+O QUE VOCÊ PRECISA TERFormação Superior completa;Conhecimento em SQL e bancos de dados relacionais;Excel Avançado;Conhecimento em visualização de dados (Power BI, Looker Studio ou afins);Conhecimento básico em linguagens de programação (Python, R ou afins).VOCÊ SE DESTACA COMFerramentas de ETL (SSIS, dbt, Airflow ou afins);Experiência com ambientes em nuvem (Snowflake, GCP ou afins).
+O QUE VOCÊ PRECISA TER
+Formação Superior completa;
+Conhecimento em SQL e bancos de dados relacionais;
+Conhecimento em SQL e bancos de dados relacionais;
+Excel Avançado;
+Excel Avançado;
+Conhecimento em visualização de dados (Power BI, Looker Studio ou afins);
+Conhecimento em visualização de dados (Power BI, Looker Studio ou afins);
+Conhecimento básico em linguagens de programação (Python, R ou afins).
+Conhecimento básico em linguagens de programação (Python, R ou afins).
+VOCÊ SE DESTACA COM
+Ferramentas de ETL (SSIS, dbt, Airflow ou afins);
+Ferramentas de ETL (SSIS, dbt, Airflow ou afins);
+Experiência com ambientes em nuvem (Snowflake, GCP ou afins).
+Experiência com ambientes em nuvem (Snowflake, GCP ou afins).
+INFORMAÇÕES ADICIONAIS
+﻿O QUE OFERECEMOS
+
+Vale-refeição e alimentação
+Vale-refeição e alimentação
+Um cartão para almoçar com os colegas de trabalho e outro para o mercado. Se preferir, você pode receber os dois valores em um só cartão.
+Auxílio creche 
+Auxílio creche 
+Plano de saúde 
+Plano de saúde 
+Plano odontológico
+Plano odontológico
+Pra você celebrar as conquistas com sorrisão no rosto e bem na foto ;)
+Seguro de vida
+Seguro de vida
+Previdência privada
+Previdência privada
+Gympass e Programa Meu Bem-Estar
+Gympass e Programa Meu Bem-Estar
+Sua saúde é muito importante para nós. Com esse convênio, você terá acesso a centenas de serviços para se cuidar: da vida fitness até yoga!
+Academia Mercantil de Desenvolvimento
+Academia Mercantil de Desenvolvimento
+Pra você se preparar e ser cada vez mais protagonista da sua carreira, em nossa parceria com a Uol e milhares de cursos.
+Participação nos Lucros de Resultados (PLR)
+Participação nos Lucros de Resultados (PLR)
+Após atingir as metas, um reconhecimento extra é bem-vindo, né?
+Todas as vagas também são direcionadas para PCDs. 
+Todas as vagas também são direcionadas para PCDs. 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista Talentos2Entrevista Talentos
+Etapa 2: Entrevista Talentos
+2
+Entrevista Talentos
+Etapa 3: Etapa Testes3Etapa Testes
+Etapa 3: Etapa Testes
+3
+Etapa Testes
+Etapa 4: Entrevista com Gestor4Entrevista com Gestor
+Etapa 4: Entrevista com Gestor
+4
+Entrevista com Gestor
+Etapa 5: Avaliação Comportamental5Avaliação Comportamental
+Etapa 5: Avaliação Comportamental
+5
+Avaliação Comportamental
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+QUEM SOMOS
+Somos o melhor ecossistema financeiro para o público 50+. Com 80 anos de existência, focamos, cada vez mais, em tecnologia e na expansão do nosso atendimento, possibilitando uma experiência de excelência no relacionamento bancário. Temos a contratação de empréstimos ou pagamento de benefícios do INSS como destaque de nossa atuação. 
+Somos o melhor ecossistema financeiro para o público 50+. Com 80 anos de existência, 
+focamos, cada vez mais, em 
+, possibilitando
+. Temos a contratação de empréstimos ou pagamento de benefícios do INSS como destaque de nossa atuação. 
+E sabe as boas ideias? Aqui, elas têm espaço. Afinal, diferenças somam e gente é o que move a gente. Valorizamos o bem-estar de uma vida equilibrada e promovemos a inclusão e a diversidade: somos um banco simples e próximo. #VEMSERMERCANTIL 
+E sabe as boas ideias? Aqui, elas têm espaço. Afinal, diferenças somam e gente é o que move a gente.
+ a inclusão e a diversidade: somos um banco simples e próximo. #VEMSERMERCANTIL 
+SIGA AS NOSSAS REDES SOCIAIS:
+Website
+LinkedIn
+Facebook
+Instagram

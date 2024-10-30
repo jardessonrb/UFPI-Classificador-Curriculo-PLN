@@ -1,0 +1,89 @@
+link_vaga-https://koode.gupy.io/job/eyJqb2JJZCI6NzkwNjE3Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DADOS JUNIOR (HORÁRIO DIFERENCIADO)
+Tipo de vaga: Pessoa jurídicaPessoa jurídica
+Tipo de vaga: Pessoa jurídica
+Pessoa jurídica
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+DESCRIÇÃO DA VAGA
+Oportunidade surgindo na Koode Tecnologia para Analista Dados Jr
+Oportunidade surgindo na Koode Tecnologia para 
+ 
+ 
+Como um profissional Koode, em um mundo em transformação e inovação constante, entendemos a importância de apresentar as melhores estratégias de ação para que nossos clientes alcancem os melhores resultados.
+Como um profissional Koode, em um mundo em transformação e inovação constante, entendemos a importância de apresentar as melhores estratégias de ação para que nossos clientes alcancem os melhores resultados.
+Para isso, buscamos por um profissional com experiência na área e que tenha habilidade para entender demandas, definir e executar.
+Para isso, buscamos por um profissional com experiência na área e que tenha habilidade para entender demandas, definir e executar.
+ 
+ 
+Se você gosta de desafios e se identifica com a gente, inscreva-se!
+Se você gosta de desafios e se identifica com a gente, inscreva-se!
+RESPONSABILIDADES E ATRIBUIÇÕES
+ Habilidades Técnicas: Conhecimento em Linguagens de Programação: Familiaridade com linguagens como Python, especialmente para manipulação de dados, análise estatística, e automação de tarefas. (nível júnior)SQL: Capacidade de escrever consultas SQL para extrair, manipular e analisar dados de bancos de dados relacionais (MySQL, PostgreSQL, SQL Server, etc.).NoSQL: Capacidade de consultar, criar colletion no MongoDB e CosmosDB.Excel: Proficiente em Microsoft Excel ou Google Sheets, incluindo uso de fórmulas avançadas, tabelas dinâmicas, e gráficos.Conhecimento em Banco de Dados: Compreensão básica de como funcionam bancos de dados relacionais e não relacionais.ETL (Extract, Transform, Load): Entendimento dos processos de extração, transformação e carga de dados, usando ferramentas como Pentaho, Talend ou até mesmo scripts Python.Plataformas em Nuvem: Experiência com Google Cloud, AWS, ou Microsoft Azure para armazenar e processar dados.Big Data: Familiaridade com ferramentas como Spark, ou Databricks pode ser um diferencial, embora não seja uma exigência para posições júnior (Diferencial).Descrição das Atividades: Monitoramento e suporte nível 1 de integrações: Monitoramento ativo das integrações via painéis dashboard e consultas em banco de dados;Executar primeiro nível de atendimento de suporte de acordo com o fluxo de atividades e solicitações;Realizar o diagnóstico inicial de incidentes, fornecer informações aos usuários, escalonamento e resolução de solicitações de forma geral;Ser o centralizador do processo de atendimento de Service Desk;Atender, registrar, categorizar, tratar, acompanhar, escalonar chamados;Prestar os primeiros procedimentos de diagnósticos básicos por conexão remota para a resolução do problema de forma mais rápida;Formação Acadêmica: Graduação: Ciência de Dados, Estatística, Matemática, Engenharia, Tecnologia da Informação ou áreas relacionadas.
+ 
+Habilidades Técnicas: 
+Conhecimento em Linguagens de Programação: Familiaridade com linguagens como Python, especialmente para manipulação de dados, análise estatística, e automação de tarefas. (nível júnior)
+SQL: Capacidade de escrever consultas SQL para extrair, manipular e analisar dados de bancos de dados relacionais (MySQL, PostgreSQL, SQL Server, etc.).
+NoSQL: Capacidade de consultar, criar colletion no MongoDB e CosmosDB.
+Excel: Proficiente em Microsoft Excel ou Google Sheets, incluindo uso de fórmulas avançadas, tabelas dinâmicas, e gráficos.
+Conhecimento em Banco de Dados: Compreensão básica de como funcionam bancos de dados relacionais e não relacionais.
+ETL (Extract, Transform, Load): Entendimento dos processos de extração, transformação e carga de dados, usando ferramentas como Pentaho, Talend ou até mesmo scripts Python.
+Plataformas em Nuvem: Experiência com Google Cloud, AWS, ou Microsoft Azure para armazenar e processar dados.
+Big Data: Familiaridade com ferramentas como Spark, ou Databricks pode ser um diferencial, embora não seja uma exigência para posições júnior (Diferencial).
+Descrição das Atividades: 
+Monitoramento e suporte nível 1 de integrações: 
+Monitoramento ativo das integrações via painéis dashboard e consultas em banco de dados;
+Executar primeiro nível de atendimento de suporte de acordo com o fluxo de atividades e solicitações;
+Realizar o diagnóstico inicial de incidentes, fornecer informações aos usuários, escalonamento e resolução de solicitações de forma geral;
+Ser o centralizador do processo de atendimento de Service Desk;
+Atender, registrar, categorizar, tratar, acompanhar, escalonar chamados;
+Prestar os primeiros procedimentos de diagnósticos básicos por conexão remota para a resolução do problema de forma mais rápida;
+Formação Acadêmica: 
+Graduação: Ciência de Dados, Estatística, Matemática, Engenharia, Tecnologia da Informação ou áreas relacionadas.
+REQUISITOS E QUALIFICAÇÕES
+Certificações em análise de dados (Google Data Analytics, IBM Data Analyst, Microsoft Certified: Data Analyst) podem ser um diferencial.Raciocínio lógico e capacidade de resolver problemas.Atenção aos detalhes para garantir a precisão dos dados analisados.Vontade de aprender, é esperado que analista júnior esteja disposto a expandir suas habilidades e conhecimentos ao longo do tempo.Capacidade de trabalhar em equipe e de se comunicar efetivamente com outros departamentos.
+Certificações em análise de dados (Google Data Analytics, IBM Data Analyst, Microsoft Certified: Data Analyst) podem ser um diferencial.
+Raciocínio lógico e capacidade de resolver problemas.
+Atenção aos detalhes para garantir a precisão dos dados analisados.
+Vontade de aprender, é esperado que analista júnior esteja disposto a expandir suas habilidades e conhecimentos ao longo do tempo.
+Capacidade de trabalhar em equipe e de se comunicar efetivamente com outros departamentos.
+INFORMAÇÕES ADICIONAIS
+Informações de contratação: Modelo de contratação: PJModelo de trabalho: HíbridoHorários: Seg. a Quarta: 8h até 17h (1h de intervalo) / Qui e Sex: 18h até 3h (1h de intervalo)Programa Livre Escolha (Pode ser usado para saúde, educação, tecnologias, entre outros).
+Informações de contratação: 
+Modelo de contratação: PJ
+Modelo de contratação: PJ
+Modelo de trabalho: Híbrido
+Modelo de trabalho: Híbrido
+Horários: Seg. a Quarta: 8h até 17h (1h de intervalo) / Qui e Sex: 18h até 3h (1h de intervalo)
+Horários: Seg. a Quarta: 8h até 17h (1h de intervalo) / Qui e Sex: 18h até 3h (1h de intervalo)
+Programa Livre Escolha (Pode ser usado para saúde, educação, tecnologias, entre outros).
+Programa Livre Escolha (Pode ser usado para saúde, educação, tecnologias, entre outros).
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Mapeamento Comportamental2Mapeamento Comportamental
+Etapa 2: Mapeamento Comportamental
+2
+Mapeamento Comportamental
+Etapa 3: Entrevista 3Entrevista 
+Etapa 3: Entrevista 
+3
+Entrevista 
+Etapa 4: Aprovação / Proposta4Aprovação / Proposta
+Etapa 4: Aprovação / Proposta
+4
+Aprovação / Proposta
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+QUEM SOMOS
+YOU DEMAND WE CODE
+Adoramos "codar", daí o nosso nome Koode!
+Acreditamos na inovação através da tecnologia como um estilo de vida e assim nos movemos.
+Website
+LinkedIn

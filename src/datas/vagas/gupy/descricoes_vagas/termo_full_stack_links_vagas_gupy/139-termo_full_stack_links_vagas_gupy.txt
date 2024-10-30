@@ -1,0 +1,137 @@
+link_vaga-https://viceri-vagas.gupy.io/job/eyJqb2JJZCI6Nzg3ODEyOCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA FULL STACK (.NET/VB6) - PLENO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Quem somos!
+Tornamos as pessoas melhores através da tecnologia.
+As novas tecnologias estão transformando o nosso mundo. As nossas expectativas estão se redefinindo, mudando a maneira como vivemos e trabalhamos.
+As novas tecnologias estão transformando o nosso mundo. As nossas expectativas estão se redefinindo, mudando a maneira como vivemos e trabalhamos.
+A transformação digital vem com um imenso potencial para mudar as nossas vidas, criar valor para os negócios e trazer benefícios sociais muito mais amplos.
+A transformação digital vem com um imenso potencial para mudar as nossas vidas, criar valor para os negócios e trazer benefícios sociais muito mais amplos.
+É tempo de rever conceitos, investir no novo para criar novos níveis de eficiência, melhorar a experiência e construir novos modelos de negócios.
+É tempo de rever conceitos, investir no novo para criar novos níveis de eficiência, melhorar a experiência e construir novos modelos de negócios.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Atuar como pessoa desenvolvedora com uma equipe multidisciplinar para desenvolver componentes e bibliotecas reutilizáveis, manter os padrões de codificação, auxiliar na definição das melhores soluções técnicas para entrega de uma ótima experiência para o cliente.
+Atuar como pessoa desenvolvedora com uma equipe multidisciplinar para desenvolver componentes e bibliotecas reutilizáveis, manter os padrões de codificação, auxiliar na definição das melhores soluções técnicas para entrega de uma ótima experiência para o cliente.
+Projetar juntamente às equipes de desenvolvimento aplicações robustas, escaláveis e seguras, trabalhando na evolução e correção do sistema atual em delivery contínuo. 
+Projetar juntamente às equipes de desenvolvimento aplicações robustas, escaláveis e seguras, trabalhando na evolução e correção do sistema atual em delivery contínuo. 
+REQUISITOS E QUALIFICAÇÕES
+Conhecimentos Avançados:
+- C# / .NET Framework / .NET Core;
+- Versionamento de código (Git, TFS ou similar);
+- RestFull APIs;
+- Construção de aplicações WEB;
+- Angular;
+- Banco de Dados SQL Server/PostgreSQL;
+- Técnicas de revisão de código e garantia da qualidade;
+- Testes unitários.
+ 
+Conhecimentos Intermediários:
+- Serviços de fila e mensageria;
+- ASP.Net;
+- VB6.
+ 
+Diferenciais:
+- Jenkins e Docker;
+- Jenkins e Docker;
+- Desenvolvimento móvel;
+- Desenvolvimento móvel;
+- Android Studio;
+- Android Studio;
+- AWS;
+- AWS;
+- Azure.
+- Azure.
+INFORMAÇÕES ADICIONAIS
+O que você encontra na Viceri:
+ 
+ 
+- Trabalho remoto
+- Trabalho remoto
+- Projetos por tempo indeterminado
+- Projetos por tempo indeterminado
+- Plano de Carreira
+- Plano de Carreira
+- Cultura de Feedback
+- Cultura de Feedback
+- Estrutura horizontal
+- Estrutura horizontal
+- Avaliação de Desempenho
+- Avaliação de Desempenho
+- Talks Técnicas
+- Talks Técnicas
+- Aulas de Inglês e Espanhol
+- Aulas de Inglês e Espanhol
+- Formação de Talentos
+- Formação de Talentos
+- Programa INDICA (indicação premiada de profissionais)
+- Programa INDICA (indicação premiada de profissionais)
+- Dress Code livre
+- Dress Code livre
+ 
+ 
+Benefícios CLT:
+·        Plano de Saúde
+·        Plano de Saúde
+·        Plano Odontológico
+·        Plano Odontológico
+·        Seguro de Vida
+·        Seguro de Vida
+·        Vale Alimentação/Refeição
+·        Vale Alimentação/Refeição
+·        Vale Transporte
+·        Vale Transporte
+·        Auxílio Creche
+·        Auxílio Creche
+·        Auxílio Dependentes PCD
+·        Auxílio Dependentes PCD
+·        Parceria SESC
+·        Parceria SESC
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem - RH2Triagem - RH
+Etapa 2: Triagem - RH
+2
+Triagem - RH
+Etapa 3: Análise de CV – Líder3Análise de CV – Líder
+Etapa 3: Análise de CV – Líder
+3
+Análise de CV – Líder
+Etapa 4: Mapeamento Comportamental + Testes de Atenção e Raciocínio Lógico4Mapeamento Comportamental + Testes de Atenção e Raciocínio Lógico
+Etapa 4: Mapeamento Comportamental + Testes de Atenção e Raciocínio Lógico
+4
+Mapeamento Comportamental + Testes de Atenção e Raciocínio Lógico
+Etapa 5: Teste Técnico 5Teste Técnico 
+Etapa 5: Teste Técnico 
+5
+Teste Técnico 
+Etapa 6: Entrevista Técnica + RH6Entrevista Técnica + RH
+Etapa 6: Entrevista Técnica + RH
+6
+Entrevista Técnica + RH
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+PREPARE-SE PARA IR ALÉM, PARA CONECTAR-SE COM O INIMAGINÁVEL!
+A melhor solução pode vir de algo inimaginável, por isso a Viceri SEIDOR busca todos os dias, a cada entrega, a cada solução, pensar primeiramente nas pessoas, na sua cadeia de valor, indo além do olhar da eficiência corporativa. Queremos conectar as pessoas com a revolução digital para entregar soluções inimagináveis, implantando assim um Mindset disruptivo e de alto impacto.
+A melhor solução pode vir de algo inimaginável, por isso a Viceri SEIDOR busca todos os dias, a cada entrega, a cada solução, pensar primeiramente nas pessoas, na sua cadeia de valor, indo além do olhar da eficiência corporativa. Queremos conectar as pessoas com a revolução digital para entregar soluções inimagináveis, implantando assim um Mindset disruptivo e de alto impacto.
+Site oficial: www.viceri.com.br
+Site oficial: 
+CONHEÇA MAIS SOBRE NÓS!
+Website
+LinkedIn
+Facebook
+Instagram

@@ -1,0 +1,117 @@
+link_vaga-https://vr.gupy.io/job/eyJqb2JJZCI6Nzc5Nzg4Niwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ESPECIALISTA DE DESENVOLVIMENTO FRONT END MOBILE I - SUPERAPP TRABALHADOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Quer fazer parte de um time que está revolucionado a vida dos trabalhadores no Brasil? Vem com a gente escalar o SuperApp, que entrega em uma experiência exclusiva focada em facilitar a vida do trabalhador que quer mais tempo pra si e para a sua família e ver seu dinheiro valer mais. Se você tem o desejo de estar em produto que cresce exponencialmente e quer o desafio de evoluir a experiência unificando várias soluções em um único lugar: benefícios, ponto on-line, cashback, conta digital, empréstimos e muito mais.
+Quer fazer parte de um time que está revolucionado a vida dos trabalhadores no Brasil? Vem com a gente escalar o SuperApp, que entrega em uma experiência exclusiva focada em facilitar a vida do trabalhador que quer mais tempo pra si e para a sua família e ver seu dinheiro valer mais. Se você tem o desejo de estar em produto que cresce exponencialmente e quer o desafio de evoluir a experiência unificando várias soluções em um único lugar: benefícios, ponto on-line, cashback, conta digital, empréstimos e muito mais.
+ Chegou a hora de você fazer acontecer! Entenda o que esperamos de você nessa jornada:
+ 
+Chegou a hora de você fazer acontecer! Entenda o que esperamos de você nessa jornada:
+RESPONSABILIDADES E ATRIBUIÇÕES
+Prover soluções de alta complexidade dentro da estrutura da arquitetura modular do SuperApp VR, garantindo alinhamento de prazos das entregas e traçar planos de ação caso aconteça qualquer mudança de rota;Escrever código escalável e com alta qualidade usando a linguagem de programação React Native;Apoiar quando necessário no desenho técnico e na definição de tecnologias e ferramentas a serem utilizadas;Apoiar em pesquisa e aplicação de novas tecnologias e integrações visando a inovação no desenvolvimento de soluções;Solucionar problemas e bugs das aplicações visando otimização de performance;Fazer revisões de código para garantir a qualidade, consistência e conformidade com os padrões estabelecidos;Buscar a melhoria contínua do processo de desenvolvimento e evolução das soluções, sendo referência nos times com os quais trabalha e provendo apoio e aconselhamento quando necessário.
+Prover soluções de alta complexidade dentro da estrutura da arquitetura modular do SuperApp VR, garantindo alinhamento de prazos das entregas e traçar planos de ação caso aconteça qualquer mudança de rota;
+Escrever código escalável e com alta qualidade usando a linguagem de programação React Native;
+Apoiar quando necessário no desenho técnico e na definição de tecnologias e ferramentas a serem utilizadas;
+Apoiar em pesquisa e aplicação de novas tecnologias e integrações visando a inovação no desenvolvimento de soluções;
+Solucionar problemas e bugs das aplicações visando otimização de performance;
+Fazer revisões de código para garantir a qualidade, consistência e conformidade com os padrões estabelecidos;
+Buscar a melhoria contínua do processo de desenvolvimento e evolução das soluções, sendo referência nos times com os quais trabalha e provendo apoio e aconselhamento quando necessário.
+REQUISITOS E QUALIFICAÇÕES
+O que você precisa ter! 
+·      Superior completo em Ciências de Computação, Sistemas de Informação, ou áreas afins; 
+·      Superior completo em Ciências de Computação, Sistemas de Informação, ou áreas afins; 
+·      Experiência com desenvolvimento Frontend MOBILE em geral (mínimo 3 anos);
+·      Experiência com desenvolvimento Frontend MOBILE em geral (mínimo 3 anos);
+·      Experiência com desenvolvimento em React Native e Typescript;
+·      Experiência com desenvolvimento em React Native e Typescript;
+·      Experiência com ferramentas de build nativo (XCode e Android Studio);
+·      Experiência com ferramentas de build nativo (XCode e Android Studio);
+·      Conhecimento em Publicação Apple Store e Google Play;
+·      Conhecimento em Publicação Apple Store e Google Play;
+·      Conhecimentos em controle de versão no Git e gerenciamento de dependências;
+·      Conhecimentos em controle de versão no Git e gerenciamento de dependências;
+·      Experiência com testes unitários;
+·      Experiência com testes unitários;
+·      Conhecimentos em Redux;
+·      Conhecimentos em Redux;
+·      Experiência com desenvolvimento de testes automatizados;
+·      Experiência com desenvolvimento de testes automatizados;
+·      Integrações com APIs RESTful;
+·      Integrações com APIs RESTful;
+·      Experiência em reuso de padrões (“Design System / Whitelabel”);
+·      Experiência em reuso de padrões (“Design System / Whitelabel”);
+·      Experiência em abordagem de Miniapps (Webview);
+·      Experiência em abordagem de Miniapps (Webview);
+·      Experiência em integrações SDK;
+·      Experiência em integrações SDK;
+ 
+ 
+Como se destacar!
+Vivência em metodologias ágeis;
+Habilidades de comunicação e capacidade e inspirar equipes técnicas;
+Experiência em desenvolvimento de SuperAPP´s e aplicações modularizadas;
+Conhecimentos com Firebase (Analytics, Push Notification, etc);
+Conhecimentos em CI/CD;
+Conhecimento em análises de performance.
+INFORMAÇÕES ADICIONAIS
+O que a VR Benefícios te oferece?
+Vale Refeição
+Vale Alimentação
+VR Auto
+Auxílio Capacitação Mensal
+Vale Cultura
+Assistência Médica
+Assistência Odontológica
+Seguro de Vida
+Convênio com farmácia
+Programa de Participação de Resultados
+Horário Flexível
+Auxílio Home Office Mensal
+Total Pass
+Parceria com a Zenklub
+Auxílio Creche/Babá
+Programa de Bem-Estar e Saúde: Bem Me Quero
+Licenças remuneradas:
+- Licença maternidade de 180 dias e Licença paternidade de 20 dias
+- Licença casamento de até 10 dias corridos
+- Licença aniversário, dia dos Pais e dia das Mães de 1 dia
+- Licença Falecimento de até 15 dias corridos
+A VR acredita que a diversidade transforma o mundo. Todas as nossas oportunidades também são para PCDs (Pessoas com Deficiências). Se você atende os requisitos e tem interesse na posição, candidate-se!
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem com consultoria2Triagem com consultoria
+Etapa 2: Triagem com consultoria
+2
+Triagem com consultoria
+Etapa 3: Entrevistas VR3Entrevistas VR
+Etapa 3: Entrevistas VR
+3
+Entrevistas VR
+Etapa 4: Contratação4Contratação
+Etapa 4: Contratação
+4
+Contratação
+DESEJA CAUSAR IMPACTO SOCIAL POSITIVO E MELHORAR A VIDA DE MILHÕES DE BRASILEIROS? VEM PRA VR! 💚
+Quando você escuta a palavra VR, o que vem na sua mente: refeição e alimentação? A resposta está correta. ﻿Mas saiba que, agora, somos um ecossistema de soluções diversas que está presente em toda a jornada do trabalhador, da hora que ele acorda ao anoitecer.
+Queremos fazer o dinheiro do trabalhador render mais, ampliar seu poder de compra, garantir comida de qualidade na mesa, facilitar sua mobilidade, proporcionar uma jornada de trabalho mais equilibrada e melhorar sua qualidade de vida. Somos agentes de transformação e queremos mudar a realidade do Brasil, facilitando o ‘corre’ de quem batalha diariamente por melhores condições.
+Para isso, temos unidades de negócio especializadas em mobilidade, gestão de pessoas, marketplaces e ofertas, estabelecimentos comerciais, serviços financeiros, além dos já conhecidos benefícios em alimentação, nossa vocação desde a origem em 1977.
+Com muita tecnologia, de pessoas para pessoas, hoje impactamos positivamente mais de 4 milhões de trabalhadores e 80 mil empresas clientes, entre públicas e privadas.
+#VemPraVR e faça parte dessa transformação! 
+QUER SABER MAIS DA VR? ACOMPANHA NOSSAS REDES SOCIAIS!
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

@@ -1,0 +1,94 @@
+link_vaga-https://solutis.gupy.io/job/eyJqb2JJZCI6NzcyNDQ2NCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DEV. BACKEND JAVA (J2EE, SPRING, GRAFANA, DYNATRACE) - SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Estamos em busca de alguém como você, que deseja iniciar uma nova jornada na área de desenvolvimento de Software para impactar pessoas, clientes e sociedade. Nós, da Solutis, temos um desafio apaixonante, com o melhor ecossistema de uma Agile Company.
+Estamos com a posição de Dev. Backend Java (J2EE, Spring, Garfana, Dynatrace) - Senior que envolve criatividade, proatividade, desenvolvimento ágil e que permite compartilhamento constante de conhecimentos. Somos um mundo plural, que promove um ambiente descontraído de verdade, flexível e focado no desenvolvimento humano e profissional para que você possa exercer a sua singularidade.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Como será seu dia a dia: (Atividades que vai realizar)
+Manter aplicações em Java REST, criações de novas features, implementar telemetria e fazer troubleshoots atraves dos nossos dashboards Grafana e Dynatrace.
+REQUISITOS E QUALIFICAÇÕES
+Pra mandar bem nessa oportunidade você precisa manjar das tecnologias: (Conhecimentos técnicos obrigatórios)
+- Elevado nivel de colaboração e interação entre equipes multidiciplinares;
+- Alto nivel de analise e criação de soluções criativas e Disruptivas;
+- Organização e autonomia, alto nível na qualidade da entrega;
+- Conhecimento em Java (J2EE) 11 e 17, Springboot, microsserviços, REST, Redis, Clouds (aws e azure)
+- Conhecimento de Frameworks (Spring, Spring Boot, Hibernate);
+- Conhecimento em Multi Cloud;
+- Conhecimento em Cloud Services (Openshift);
+- Conhecimento em Integração de Sistemas utilizando Serviços e/ou APIS;
+- Conhecimento em DevSecOps (Integração contínua com Maven, Jenkins, GitLab, Sonar, FortFy, ArtiFactory);
+Vai ser bom se você também tiver: (Conhecimentos técnicos desejáveis, que serão um diferencial)
+Experiencia com camel e clouds azure e aws(aks e eks), Redis e observabilidade;
+Grafana e Dynatrace.
+O que não abrimos mão: (Soft Skills)
+Boa comunicação                                                                                 
+Capacidade de resolução de problemas
+INFORMAÇÕES ADICIONAIS
+Para esta posição oferecemos:
+Salário CLT Full;
+Vale Refeição ou Alimentação (Alelo);
+Vale Transporte (sempre que houver o deslocamento);
+Auxílio Home Office (proporcional aos dias em que atuará nesta modalidade);
+Assistência Médica Sulamérica;
+Assistência Odontológica Sulamérica;
+Seguro de Vida;
+Parcerias (Curso de idiomas, ensino, livraria, restaurante, entre outras);
+Gympass;
+Allya;
+Day Off;
+Premiação por indicações;
+Inside Out (Ocorre todas as sextas-feiras. Evento da galera voltado para troca de conhecimento);
+Oportunidade de crescimento profissional.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem de Perfil2Triagem de Perfil
+Etapa 2: Triagem de Perfil
+2
+Triagem de Perfil
+Etapa 3: Entrevista RH3Entrevista RH
+Etapa 3: Entrevista RH
+3
+Entrevista RH
+Etapa 4: Entrevista e Prova Técnica4Entrevista e Prova Técnica
+Etapa 4: Entrevista e Prova Técnica
+4
+Entrevista e Prova Técnica
+Etapa 5: Entrevista Gestor5Entrevista Gestor
+Etapa 5: Entrevista Gestor
+5
+Entrevista Gestor
+Etapa 6: Entrevista com Cliente (opcional)6Entrevista com Cliente (opcional)
+Etapa 6: Entrevista com Cliente (opcional)
+6
+Entrevista com Cliente (opcional)
+Etapa 7: Carta Proposta7Carta Proposta
+Etapa 7: Carta Proposta
+7
+Carta Proposta
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+A SOLUTIS É DIGITAL!
+Somos apaixonados por tecnologia e esse valor está presente em nossas ações e proposta de trabalho. Ambiente descontraído e criativo, horário flexível, possibilidade de trabalho home office, eventos e programas internos com games... Isso faz parte do nosso dia-a-dia.
+Engajamento, busca intensa por conhecimento, empatia e criatividade são a nossa receita para cultivar e colher, sempre, o melhor resultado tecnológico.
+Essa é a Solutis, flexível, acolhedora, inquieta, amante da tecnologia e de tudo que ela nos proporciona de mais incrível.
+Venha fazer parte do nosso time!
+CONHEÇA A SOLUTIS
+Website
+LinkedIn
+Facebook
+Instagram

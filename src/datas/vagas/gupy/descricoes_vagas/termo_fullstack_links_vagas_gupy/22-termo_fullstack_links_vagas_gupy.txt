@@ -1,0 +1,136 @@
+link_vaga-https://shift.gupy.io/job/eyJqb2JJZCI6Nzc4MDEwOSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DESENVOLVEDOR WEB FULLSTACK SÊNIOR (HTML, CSS, JAVASCRIPT, ANGULAR 16+, TYPESCRIPT) - (API REST COM JAVA, SQL, JPQL)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+Temos um jeito muito especial de trabalhar e fazemos muito mais do que desenvolver e comercializar sistemas, nossa rotina é movida por uma cultura de gestão do conhecimento, desenvolvimento de pessoas e um ambiente de trabalho que cultiva as relações de respeito, diversidade e a essência dos nossos valores:
+Somos protagonistas
+Sentimos orgulho em pertencer
+Trabalhamos em rede e com paixão
+Valorizamos o passado, vivemos o presente e construímos o futuro
+Agimos com responsabilidade
+Celebramos as relações humanas
+ 
+VENHA SER FELIZ AQUI TAMBÉM \o/, dê uma olhadinha em alguns desafios da vaga:
+Atuar em time ágil para desenvolver requisitos para aplicações web, escrevendo código e testes unitários seguindo as boas práticas de programação e padrões de projeto;
+Participar da elaboração de soluções técnicas, interagindo com as áreas de operações e produtos.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Produto
+Compreender os requisitos funcionais e não funcionais a serem incluídos, alterados ou removidos nos softwares Shift;
+Realizar análise dos requisitos de software a serem implementados nos produtos Shift, construindo artefatos técnicos de engenharia de software que suportem a codificação nos padrões estabelecidos pela Shift (DER e Diagrama de Classes);
+Desenhar, documentar e codificar API’s nos padrões estabelecidos pela Shift;
+Contribuir com o desenho técnico das soluções em conjunto com a liderança e arquitetos de software;
+Realizar a estimativa de tamanho de software a ser desenvolvido ou mantido e o planejamento dos entregáveis, sendo esse último em conjunto com o Agilista;
+Codificar os requisitos de software nos produtos Shift, através do uso de ferramentas de desenvolvimento oficiais e homologadas, considerando seus impactos nas regras de negócios inerentes ao sistema e aplicação;
+Realizar manutenção na documentação técnica dos softwares, mantendo-a sempre atualizada;
+Pesquisar, sugerir, desenvolver e garantir soluções para o desempenho dos produtos Shift, definidos pelo time de arquitetura, prevendo taxas de crescimento e alternativas físicas de implantação;
+Orientar as áreas de apoio, nas consultas a documentações técnicas e fontes alternativas de informações, simulando problemas em ambiente controlado quando necessário ou acionando a área de suporte;
+Depurar código fonte com objetivo de encontrar e sanar defeitos nas soluções Shift;
+Realizar testes unitários, de componentes e de integração com a finalidade de entregar produtos e soluções de software com índices de defeitos dentro dos limites estabelecidos pela Shift;
+Propor melhorias de produto e soluções de problemas emergenciais nos clientes;
+Responder consultas técnicas dos times internos, propondo mudanças de processos, negociando alternativas de solução, propondo adoção de novos métodos e técnicas, com o objetivo de assegurar a entrega de soluções para as necessidades dos mesmos.
+ 
+Processos
+Interagir com equipe de negócios para sanar dúvidas e eventualmente propor ajustes em requisitos funcionais;
+Interagir com equipe de arquitetura para sanar dúvidas e eventualmente propor ajustes em requisitos não-funcionais;
+Orientar analistas de desenvolvimento WEB Pleno e Júnior, trainees e estagiários no exercício de suas funções, provendo capacitação, orientação e acompanhamento de entregas;
+Realizar o apontamento de horas destinadas a qualquer atividade relacionada ao desenvolvimento das soluções de softwares durante todo o ciclo de desenvolvimento de software;
+Informar as lideranças sobre a existência de impedimentos durante o processo de desenvolvimento de soluções;
+Realizar e reavaliar suas rotinas e métodos de trabalho, sugerindo metodologias e procedimentos de trabalhos mais eficazes;
+Contribuir ativamente com os demais processos do ciclo de desenvolvimento de produtos Shift;
+Sob demanda, verificar e analisar códigos desenvolvidos por pares de menor e igual senioridade, utilizando técnica code review;
+Participar das reuniões de inspeção de código com direito a voto na aprovação ou reprovação de artefatos/componentes de software;
+Sob demanda, atuar em programação em pares com o objetivo de otimizar processo de desenvolvimento e instruir pares;
+Implementar artefatos de arquitetura e referência das soluções Shift;
+Identificar, através do uso de ferramentas e técnicas, a causa raiz de problemas que possam comprometer a qualidade de código ou software Shift;
+Recomendar, avaliar ou implementar provas de conceitos de novas tecnologias que possam ser utilizadas nas atividades do ciclo de desenvolvimento de software Shift;
+Apoiar o Agilista na garantia das entregas dos produtos Shift dentro dos parâmetros de prazo, qualidade, e escopo determinados;
+Quando solicitado, apoiar a liderança imediata durante o processo de recrutamento e seleção participando de entrevistas e emitindo parecer técnico quanto aos candidatos;
+Participar como membro ativo na elaboração e manutenção do checklist de codificação, padrão de projeto, manutenção e revisão sistemática da base de conhecimento e avaliação/revisão dos processos do ciclo de desenvolvimento de software;
+Suportar a supervisão de desenvolvimento na implantação de processos de melhoria contínua;
+Apoiar a liderança imediata com informações relevantes ao processo de feedback técnico e avaliação de desempenho;
+Dar apoio a liderança imediata no planejamento de capacitação técnica de equipe quando diagnosticada tal necessidade ou gaps de conhecimento.
+REQUISITOS E QUALIFICAÇÕES
+Graduação completa em áreas de Tecnologia da Informação;Experiência em desenvolvimento ou manutenção de software;Experiência com análise de sistemas;Front-end: HTML, CSS, JavaScript, Angular 16+ e TypeScript;Back-end: API REST com Java, SQL, JPQL;Modelagem Banco de dados: Relacional;Diagramação: UML;DIFERENCIAIS: Framework Quarkus; Cultura DevOps; Modelagem Banco de dados: Não-Relacional.
+Graduação completa em áreas de Tecnologia da Informação;
+Experiência em desenvolvimento ou manutenção de software;
+Experiência com análise de sistemas;
+Front-end: HTML, CSS, JavaScript, Angular 16+ e TypeScript;
+Back-end: API REST com Java, SQL, JPQL;
+Modelagem Banco de dados: Relacional;
+Diagramação: UML;
+DIFERENCIAIS: Framework Quarkus; Cultura DevOps; Modelagem Banco de dados: Não-Relacional.
+INFORMAÇÕES ADICIONAIS
+Algumas soft skills importantes: Foco, Orientação ao resultado e qualidade, Orientação ao cliente, Planejamento e Organização e Trabalho em Equipe!
+Dê uma olhadinha nos benefícios que a Shift oferece \o/
+Assistência Médica Unimed Seguros (100% subsidiado para o(a) titular): Cuide da sua saúde com uma cobertura completa da renomada Unimed, garantindo tranquilidade para você e sua família.
+Cuide da sua saúde com uma cobertura completa da renomada Unimed, garantindo tranquilidade para você e sua família.
+Plano Odontológico Metlife: Mantenha seu sorriso saudável e brilhante com nosso abrangente plano odontológico da Metlife.
+ Mantenha seu sorriso saudável e brilhante com nosso abrangente plano odontológico da Metlife.
+Seguro de Vida: Proteja o seu futuro e o de seus entes queridos com nosso seguro de vida.
+ Proteja o seu futuro e o de seus entes queridos com nosso seguro de vida.
+Benefício Flexível Swile (Alimentação/Refeição): Desfrute de liberdade e praticidade com R$ 1.065,00/mês para utilizar em alimentação e refeições, de acordo com suas preferências.
+Desfrute de liberdade e praticidade com R$ 1.065,00/mês para utilizar em alimentação e refeições, de acordo com suas preferências.
+TotalPass: Explore uma vida mais saudável e ativa com acesso a uma variedade de atividades esportivas e de lazer.
+ Explore uma vida mais saudável e ativa com acesso a uma variedade de atividades esportivas e de lazer.
+Subsídio Educacional para Estudos: Invista em seu desenvolvimento pessoal e profissional com nosso auxílio para educação continuada.
+ Invista em seu desenvolvimento pessoal e profissional com nosso auxílio para educação continuada.
+Auxílio Creche: Tenha suporte para conciliar sua carreira com a criação dos seus filhos.
+ Tenha suporte para conciliar sua carreira com a criação dos seus filhos.
+PLR: Seja recompensado pelo seu empenho e contribuição para o sucesso da empresa.
+ Seja recompensado pelo seu empenho e contribuição para o sucesso da empresa.
+Auxílio Tecnologia em Casa: Utilize R$ 180,00/mês para equipar seu ambiente de trabalho em casa da maneira que desejar, seja para aumentar sua produtividade, estudar ou se entreter.
+ Utilize R$ 180,00/mês para equipar seu ambiente de trabalho em casa da maneira que desejar, seja para aumentar sua produtividade, estudar ou se entreter.
+Horário Flexível: Tenha liberdade para adaptar seu horário de trabalho às suas necessidades pessoais e profissionais, entre as 06h e 21h.
+ Tenha liberdade para adaptar seu horário de trabalho às suas necessidades pessoais e profissionais, entre as 06h e 21h.
+Day Off de Aniversário: Celebre seu dia especial aproveitando para descansar e fazer o que mais gosta, sem preocupações.
+ Celebre seu dia especial aproveitando para descansar e fazer o que mais gosta, sem preocupações.
+Bônus Especiais: Seja reconhecido por momentos marcantes da sua vida, como o nascimento de um filho, o casamento e por indicar talentos para nossa equipe.
+ Seja reconhecido por momentos marcantes da sua vida, como o nascimento de um filho, o casamento e por indicar talentos para nossa equipe.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista com DHO2Entrevista com DHO
+Etapa 2: Entrevista com DHO
+2
+Entrevista com DHO
+Etapa 3: Entrevista com gestor/área3Entrevista com gestor/área
+Etapa 3: Entrevista com gestor/área
+3
+Entrevista com gestor/área
+Etapa 4: Teste comportamental - DISC4Teste comportamental - DISC
+Etapa 4: Teste comportamental - DISC
+4
+Teste comportamental - DISC
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+TRANSFORMAMOS O SETOR DE MEDICINA DIAGNÓSTICA E PREVENTIVA POR MEIO DA #TECNOLOGIA E #INOVAÇÃO
+Somos uma empresa brasileira de tecnologia da informação para medicina diagnóstica e preventiva que nasceu há 30 anos com o desafio de promover a melhoria dos serviços de #saúde e bem-estar das pessoas. 🧪
+ 
+Ao unir o conhecimento em tecnologia 💻 com a vontade de construir vínculos profundos de compromisso e relacionamento 😄 com todos e todas ao nosso redor, consolidamos nossa marca como uma das mais renomadas do segmento no Brasil, além de fortalecermos nossa expansão para a América Latina com atuações na Argentina, Paraguai e Uruguai.
+💻
+ 
+Com isso, crescemos cerca de 20% nos últimos dez anos consecutivos! 🚀
+ 
+➜ Processamos cerca de 20% do volume de exames realizados no Brasil;
+➔ 80% dos nossos clientes são creditados em algum programa de qualidade;
+➔ Somamos mais de 46 milhões de atendimentos por ano processados em nossas soluções;
+➔ São mais de 320 milhões de exames processados por ano nos sistemas Shift.
+  
+ 
+ESSE É O NOSSO #JEITOSHIFTDESER!
+ 
+Estamos sediados em São José do Rio Preto (SP), mas temos equipes em home office por todo o Brasil! E, desde 2014, ocupamos um lugar no ranking das Melhores Empresas para Trabalhar, pelo Great Place to Work (GPTW), e, recentemente, estamos entre os Lugares Incríveis Para Trabalhar, pela FIA/UOL. ⭐
+SAIBA MAIS SOBRE A SHIFT
+Website
+LinkedIn
+Instagram

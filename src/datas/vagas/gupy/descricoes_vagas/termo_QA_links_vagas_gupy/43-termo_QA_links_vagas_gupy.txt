@@ -1,0 +1,73 @@
+link_vaga-https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6Nzk5ODIxMSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA QA MANUAL
+Tipo de vaga: TemporárioTemporário
+Tipo de vaga: Temporário
+Temporário
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+DESCRIÇÃO DA VAGA
+¡Sé parte de Stefanini!​
+En Stefanini somos más de 30.000 genios, conectados desde 41 países, haciendo lo que les apasiona y co-creando un futuro mejor.​
+RESPONSABILIDADES E ATRIBUIÇÕES
+Descripción del puesto:Estamos buscando un Analista QA Manual con experiencia en el sector bancario para unirse a nuestro equipo de control de calidad. El candidato será responsable de garantizar que las aplicaciones y sistemas bancarios cumplan con los más altos estándares de calidad, precisión y funcionalidad. El rol implica diseñar, ejecutar y documentar pruebas manuales, así como colaborar con desarrolladores y equipos de negocio para asegurar que los productos finales sean seguros y eficientes.Responsabilidades:Revisar y analizar los requerimientos funcionales y técnicos para desarrollar planes y casos de prueba.Ejecutar pruebas manuales en aplicaciones bancarias para asegurar que cumplen con los requisitos establecidos.Documentar los resultados de las pruebas, identificar defectos y trabajar con el equipo de desarrollo para resolver los problemas.Crear y mantener casos de prueba detallados, scripts y otros artefactos de pruebas.Realizar pruebas funcionales, de regresión, integración, usabilidad, y de sistemas.Colaborar con los equipos de desarrollo, negocio y producto para entender las especificaciones y garantizar la correcta implementación de las soluciones.Garantizar que las soluciones cumplan con los estándares de seguridad, rendimiento y regulaciones financieras aplicables.Reportar y hacer seguimiento de los defectos encontrados utilizando herramientas de gestión de pruebas y seguimiento de bugs.Participar en la planificación de pruebas y revisiones de calidad para asegurar la cobertura completa de los sistemas.Requisitos:Título universitario en Ingeniería de Sistemas, Informática o áreas afines.Experiencia mínima de 2 años en pruebas manuales de software, idealmente en el sector bancario o financiero.Conocimiento sólido de los procesos de pruebas de software y de las metodologías ágiles (Scrum/Kanban).Experiencia en el diseño de casos de prueba, ejecución de pruebas manuales y reporte de defectos.Familiaridad con herramientas de gestión de pruebas como Jira, TestRail o similares.Habilidades para analizar documentación funcional y técnica, y transformarla en casos de prueba claros y efectivos.Conocimiento de las mejores prácticas de pruebas de aplicaciones bancarias y cumplimiento con regulaciones financieras.Excelentes habilidades de documentación y comunicación para trabajar en equipo y coordinarse con otras áreas.Competencias deseadas:Capacidad para identificar áreas críticas de prueba y priorizar según el impacto en el negocio.Orientación al detalle y capacidad para detectar inconsistencias en el comportamiento del sistema.Capacidad de trabajo bajo presión y cumplimiento de plazos en proyectos críticos.Conocimiento de herramientas de automatización de pruebas (deseable, aunque no es obligatorio).Mentalidad analítica y enfoque en la resolución de problemas.
+DESCRIPCIÓN DEL PUESTO:
+Estamos buscando un Analista QA Manual con experiencia en el sector bancario para unirse a nuestro equipo de control de calidad. El candidato será responsable de garantizar que las aplicaciones y sistemas bancarios cumplan con los más altos estándares de calidad, precisión y funcionalidad. El rol implica diseñar, ejecutar y documentar pruebas manuales, así como colaborar con desarrolladores y equipos de negocio para asegurar que los productos finales sean seguros y eficientes.
+RESPONSABILIDADES:
+Revisar y analizar los requerimientos funcionales y técnicos para desarrollar planes y casos de prueba.
+Ejecutar pruebas manuales en aplicaciones bancarias para asegurar que cumplen con los requisitos establecidos.
+Documentar los resultados de las pruebas, identificar defectos y trabajar con el equipo de desarrollo para resolver los problemas.
+Crear y mantener casos de prueba detallados, scripts y otros artefactos de pruebas.
+Realizar pruebas funcionales, de regresión, integración, usabilidad, y de sistemas.
+Colaborar con los equipos de desarrollo, negocio y producto para entender las especificaciones y garantizar la correcta implementación de las soluciones.
+Garantizar que las soluciones cumplan con los estándares de seguridad, rendimiento y regulaciones financieras aplicables.
+Reportar y hacer seguimiento de los defectos encontrados utilizando herramientas de gestión de pruebas y seguimiento de bugs.
+Participar en la planificación de pruebas y revisiones de calidad para asegurar la cobertura completa de los sistemas.
+REQUISITOS:
+Título universitario en Ingeniería de Sistemas, Informática o áreas afines.
+Experiencia mínima de 2 años en pruebas manuales de software, idealmente en el sector bancario o financiero.
+Conocimiento sólido de los procesos de pruebas de software y de las metodologías ágiles (Scrum/Kanban).
+Experiencia en el diseño de casos de prueba, ejecución de pruebas manuales y reporte de defectos.
+Familiaridad con herramientas de gestión de pruebas como Jira, TestRail o similares.
+Habilidades para analizar documentación funcional y técnica, y transformarla en casos de prueba claros y efectivos.
+Conocimiento de las mejores prácticas de pruebas de aplicaciones bancarias y cumplimiento con regulaciones financieras.
+Excelentes habilidades de documentación y comunicación para trabajar en equipo y coordinarse con otras áreas.
+COMPETENCIAS DESEADAS:
+Capacidad para identificar áreas críticas de prueba y priorizar según el impacto en el negocio.
+Orientación al detalle y capacidad para detectar inconsistencias en el comportamiento del sistema.
+Capacidad de trabajo bajo presión y cumplimiento de plazos en proyectos críticos.
+Conocimiento de herramientas de automatización de pruebas (deseable, aunque no es obligatorio).
+Mentalidad analítica y enfoque en la resolución de problemas.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevistas 2Entrevistas 
+Etapa 2: Entrevistas 
+2
+Entrevistas 
+Etapa 3: Confirmación de Candidato3Confirmación de Candidato
+Etapa 3: Confirmación de Candidato
+3
+Confirmación de Candidato
+Etapa 4: Onboarding4Onboarding
+Etapa 4: Onboarding
+4
+Onboarding
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+CONOCE A STEFANINI
+Somos una empresa global con 35 años de experiencia en el mercado, ofrecemos una sólida selección de servicios como: automatización, nube, Internet de las cosas (IoT) y experiencia de usuario (UX).
+Creemos que la tecnología puede revolucionar una empresa y la innovación es fundamental para fomentar el desarrollo y la competitividad. También valoramos las nuevas ideas y el poder de una mente abierta, por lo que reconocemos que cada talento es esencial para la calidad de nuestros proyectos y especialmente para nuestro progreso.
+Creemos que la tecnología puede revolucionar una empresa y la innovación es fundamental para fomentar el desarrollo y la competitividad. También valoramos las nuevas ideas y el poder de una mente abierta, por lo que reconocemos que cada talento es esencial para la calidad de nuestros proyectos y especialmente para nuestro progreso.
+Mantenemos nuestra excelencia invirtiendo en innovaciones tecnológicas, las mejores alianzas, adquisiciones de empresas en todo el mundo y la contratación de profesionales altamente capacitados.
+CONOCE MÁS SOBRE NOSOTROS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

@@ -1,0 +1,80 @@
+link_vaga-https://globalhitss.gupy.io/job/eyJqb2JJZCI6NzgzNTMyMywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PC16754-ANALISTA DESENVOLVEDOR FRONT-END (ANDROID TV)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Na Global Hitss, a inovação é o nosso combustível, a curiosidade é o nosso motor e o respeito pelo cliente é o nosso guia. Se você é movido pela paixão em criar soluções tecnológicas disruptivas, se busca constantemente desafios que ampliem os limites do possível e se acredita que colocar o cliente em primeiro lugar é a chave para o sucesso, então você está no lugar certo.
+Queremos pessoas que se destaquem, que pensem fora da caixa e estejam dispostas a desbravar novos horizontes. Aqui, cada ideia é valorizada, cada pergunta é incentivada e cada desafio é encarado como uma oportunidade de aprendizado e crescimento.
+Junte-se a nós e faça parte de uma cultura vibrante, onde a inovação é alimentada pela curiosidade incessante e onde o respeito pelo cliente permeia todas as nossas ações. Aqui, você terá a liberdade de explorar suas habilidades, colaborar com mentes brilhantes e transformar o futuro da tecnologia.
+Se você está pronto para fazer parte de uma empresa que acredita que o talento é a chave para o sucesso, envie seu currículo e junte-se à nossa equipe.
+Estamos ansiosos para conhecer você e impulsionar juntos a próxima geração de soluções tecnológicas.
+Venha ser um Hit!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolvimento e manutenção de soluções responsivas com React.js, aderentes às necessidades do negócio, consumindo APIs internas e externas, baseadas em layouts feitos por designers;Entregar e exigir código elegante e limpo;Construir e garantir a atualização da documentação da aplicação;Entregar projetos bem testados e sustentáveis.
+Desenvolvimento e manutenção de soluções responsivas com React.js, aderentes às necessidades do negócio, consumindo APIs internas e externas, baseadas em layouts feitos por designers;
+Entregar e exigir código elegante e limpo;
+Construir e garantir a atualização da documentação da aplicação;
+Entregar projetos bem testados e sustentáveis.
+REQUISITOS E QUALIFICAÇÕES
+Requisitos necessários:
+Nível superior completo (TI);
+Inglês avançado;
+Experiência em desenvolvedor front-end - Android TV;
+Conhecimento em:
+TypeScript;
+Gerenciadores de estados e padrões de arquitetura;
+Gerenciadores de dependência e build (Babel, Webpack, Gulp, NPM e etc.);
+Controladores de versão (Github, Gitlab e etc);
+Pré-processadores CSS (SASS, LESS e etc);
+Patterns (CSS e JS);
+Técnicas TDD e BDD (Jest, Enzyme e etc);
+Arquitetura Front-end;
+Integração de Design System;
+Integração de API ́s (Rest, SOAP) e API Managers/API Gateways.
+INFORMAÇÕES ADICIONAIS
+Quer conhecer todas as nossas vagas? Acesse a nossa página:
+Quer conhecer todas as nossas vagas? Acesse a nossa página:
+Global Hitss - Trabalhe Conosco
+https://globalhitss.gupy.io/
+Importante: Todas as nossas vagas são elegíveis para profissionais com deficiência, equidade de gênero e raça/ etnia.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista Individual2Entrevista Individual
+Etapa 2: Entrevista Individual
+2
+Entrevista Individual
+Etapa 3: Entrevista Técnica3Entrevista Técnica
+Etapa 3: Entrevista Técnica
+3
+Entrevista Técnica
+Etapa 4: Feedback do processo seletivo4Feedback do processo seletivo
+Etapa 4: Feedback do processo seletivo
+4
+Feedback do processo seletivo
+Etapa 5: Envio de proposta5Envio de proposta
+Etapa 5: Envio de proposta
+5
+Envio de proposta
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+QUEM SOMOS?​
+A Global Hitss é uma multinacional do grupo América Móvil, atuando há mais de 30 anos no mercado de soluções digitais e serviços de TI em 7 países. Combinando experiência incomparável e habilidades especializadas, nossos 5.000 colaboradores estão engajados em fazer o novo todos os dias. Apostamos em inovação com integridade e buscamos desenvolver soluções inclusivas, responsáveis e sustentáveis para atender nossos funcionários e clientes.
+Por meio do pilar de diversidade e inclusão, todos têm oportunidades iguais de construir sua carreira.
+Não fazemos distinção de gênero, religião, raça, orientação sexual, posição social e deficiência.
+Se você gosta de desafios, tendências, processos ágeis e inovadores, seu lugar é aqui.
+Junte-se a nós!
+Website
+LinkedIn

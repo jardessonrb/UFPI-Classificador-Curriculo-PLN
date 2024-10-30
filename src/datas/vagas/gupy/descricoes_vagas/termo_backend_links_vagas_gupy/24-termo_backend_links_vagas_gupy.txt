@@ -1,0 +1,62 @@
+link_vaga-https://keepsimple.gupy.io/job/eyJqb2JJZCI6Nzk4OTg4MSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR BACKEND NODE JS + JAVA SR (3627)
+Tipo de vaga: Pessoa jurídicaPessoa jurídica
+Tipo de vaga: Pessoa jurídica
+Pessoa jurídica
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+Hello Dev,
+Você que deseja trabalhar em uma grande empresa, temos uma oportunidade para você🤩.
+Essa vaga é para atuar em hospital renomado de São Paulo, com alta estrutura tecnológica, com equipes especializadas e que investe em ensino e pesquisa.
+Não perca tempo e se cadastre, é rápido e fácil 👇
+RESPONSABILIDADES E ATRIBUIÇÕES
+Projetar, desenvolver e manter aplicações em Node.js e/ou em Java com Spring Boot;Escrever código eficiente, legível e funcional;Ler e implementar solução de software conforme a definição de arquitetura de solução aplicando os principais padrões de engenharia de software;Utilizar banco de dados relacionais e não relacionais (NoSQL).
+Projetar, desenvolver e manter aplicações em Node.js e/ou em Java com Spring Boot;
+Escrever código eficiente, legível e funcional;
+Ler e implementar solução de software conforme a definição de arquitetura de solução aplicando os principais padrões de engenharia de software;
+Utilizar banco de dados relacionais e não relacionais (NoSQL).
+REQUISITOS E QUALIFICAÇÕES
+Experiência em sistemas de controle de versão, como Git, e compreensão de estratégias de branching e merging para colaboração eficiente em equipe usando Gitflow.Conhecimento em práticas de segurança, como autenticação, autorização, criptografia e proteção contra ameaças comuns. A capacidade de projetar sistemas com segurança desde o início é essencial.Conhecimento em criar testes unitários, testes de integração e realizar depuração eficiente para garantir a qualidade do software e identificar e corrigir possíveis bugs.Capacidade de comunicar efetivamente com membros da equipe, participando de reuniões e discussões técnicas.Experiência em elaborar documentação clara e detalhada para código, APIs, e integração de tecnologias.Experiência com AWS: Lambda, EKS, API Gateway, Load balance, IAM, RDS, DynamoDB, OpenSearch, EC2;Experiência com AWS Docker, Kubernetes;Experiência com AWS Linux Debian ou RedHat.Formação acadêmicaBacharelado em Ciência da Computação, Engenharia de Software ou área relacionada (ou experiência equivalente).
+Experiência em sistemas de controle de versão, como Git, e compreensão de estratégias de branching e merging para colaboração eficiente em equipe usando Gitflow.
+Conhecimento em práticas de segurança, como autenticação, autorização, criptografia e proteção contra ameaças comuns. A capacidade de projetar sistemas com segurança desde o início é essencial.
+Conhecimento em criar testes unitários, testes de integração e realizar depuração eficiente para garantir a qualidade do software e identificar e corrigir possíveis bugs.
+Capacidade de comunicar efetivamente com membros da equipe, participando de reuniões e discussões técnicas.
+Experiência em elaborar documentação clara e detalhada para código, APIs, e integração de tecnologias.
+Experiência com AWS: Lambda, EKS, API Gateway, Load balance, IAM, RDS, DynamoDB, OpenSearch, EC2;
+Experiência com AWS Docker, Kubernetes;
+Experiência com AWS Linux Debian ou RedHat.
+Formação acadêmica
+Bacharelado em Ciência da Computação, Engenharia de Software ou área relacionada (ou experiência equivalente).
+INFORMAÇÕES ADICIONAIS
+Modelo de contratação
+PJ
+Forma de Atuação
+Remoto
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Teste Comportamental2Teste Comportamental
+Etapa 2: Teste Comportamental
+2
+Teste Comportamental
+Etapa 3: Entrevista RH3Entrevista RH
+Etapa 3: Entrevista RH
+3
+Entrevista RH
+Etapa 4: Entrevista Cliente4Entrevista Cliente
+Etapa 4: Entrevista Cliente
+4
+Entrevista Cliente
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+SEJAM BEM VINDOS A KEEP SIMPLE 👇🏽
+Somos uma empresa de consultoria em TI com mais de 10 anos no mercado e contamos com um time de especialistas em recrutamento tech. Nosso processo é 100% focado na experiência de quem tanto importa, o candidato.
+Optamos por fazer a diferença e temos orgulho em dizer que todos que passam pela Keep Simple se sentem especiais. Possuímos um ambiente descontraído, colaborativo, e adotamos o ágil de verdade.
+Faça parte da nossa história, #vemprakeep 💙🚀

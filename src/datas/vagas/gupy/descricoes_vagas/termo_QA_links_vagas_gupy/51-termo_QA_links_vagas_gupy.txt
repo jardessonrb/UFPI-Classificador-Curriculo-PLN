@@ -1,0 +1,99 @@
+link_vaga-https://redbeltsecurity.gupy.io/job/eyJqb2JJZCI6NzM5OTQyMSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE QA PLENO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Você será responsável por criar planos de testes, rastrear bugs, desenvolver padrões de qualidade e identificar potenciais problemas para o usuário, monitorando cada fase do desenvolvimento de um software, visando garantir que os resultados esperados sejam cumpridos.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Suas principais atividades:
+Elaborar planos de testes e estratégias de qualidade, analisando o produto e/ou sistemas e identificando que tipo de testes serão executados e o período, visando a elaboração do cronograma de testes.
+Realizar a criação de casos de teste e documentação de resultados para rastrear defeitos e garantir a rastreabilidade dos testes realizados.
+Realizar a execução de testes funcionais e não funcionais em produtos e/ou sistemas em desenvolvimento, utilizando técnicas de testes manuais e automatizados, visando identificar, documentar e relatar bugs e problemas encontrados durante os testes.
+Efetuar o desenvolvimento e manutenção de casos de teste e cenários de teste, realizando testes de integração para garantir a compatibilidade e interação adequada entre os componentes do sistema.
+Colaborar com a equipe de desenvolvimento, entendendo os requisitos e funcionalidades do produto, visando automatização de testes para aumentar a eficiência e a cobertura dos testes.
+Participar em revisões de código, identificando problemas de qualidade e melhores práticas de codificação, visando o pleno funcionamento do sistema e/ou produto.
+Analisar os dados e métricas de teste, avaliando a qualidade do produto e fornecer feedback aos desenvolvedores, visando contribuir com os ajustes necessários para o funcionamento do sistema e/ou produto.
+Contribuir com melhorias nos processos de teste e qualidade, sugerindo ideias e soluções, visando otimizar a eficiência e a eficácia dos testes.
+REQUISITOS E QUALIFICAÇÕES
+Esperamos que você tenha:
+Ensino Superior Completo em Tecnologias, Análise de Sistemas, Ciências da Computação ou áreas afins.
+Testes de Software: Experiencia em planejar, executar testes de software, incluindo testes funcionais, de regressão e de desempenho.
+Automação de Testes: Conhecimento em ferramentas de automação de testes, como Selenium, JUnit, TestNG, Cucumber ou similares.
+Noções em linguagens de programação (PHP, Python, Javascript) para criar scripts de automação, implementar testes confiáveis e integrar os testes ao processo de integração contínua.
+Metodologias Ágeis: Experiência em ambientes ágeis e compreensão de como os testes se encaixam no ciclo de desenvolvimento ágil.
+Análise de Requisitos e Relatórios: Capacidade de analisar requisitos de software e relatar defeitos encontrados durante os testes.
+Ferramentas de Gestão e Documentação de Testes: Familiaridade com ferramentas de gestão de testes, como Monday, Jira ou TestRail, e habilidade em criar documentação de testes abrangente. 
+Inglês Intermediário.
+INFORMAÇÕES ADICIONAIS
+Na Redbelt Security, acreditamos que todos têm potencial para desempenhar um papel-chave para crescimento mútuo. Você fará parte de um time dedicado a alcançar os melhores resultados, em um ambiente acolhedor, facilitador, descontraído e de constante aprendizagem.
+Quer mais?
+Em alguns dias da semana, organizamos um café da manhã e happy hour no escritório, pois acreditamos que momentos de descontração fortalecem a construção de relacionamentos e promovem um ambiente ainda mais colaborativo e motivador.
+Modelo de trabalho: 
+2 dias por semana presencial e 3 dias remoto.
+Conheça nossos benefícios:
+Vale Refeição, sem desconto (cartão Caju);
+Vale Alimentação, sem desconto (cartão Caju); 
+Vale Transporte, sem desconto previsto em lei (cartão Caju); 
+Assistência médica, sem coparticipação e sem desconto; 
+Assistência odontológica, sem coparticipação e sem desconto;
+Bem-estar: Gympass agora é Wellhub;
+Seguro de vida em grupo;
+Auxílio creche;
+Licença paternidade estendida;
+Day off no aniversário;
+Programa de Indicação Redbelt: aqui sua indicação vale muito;
+Redbelt School: programa de patrocínio educacional para cursos e certificações;
+Convênio com SESC;
+Parcerias com instituições de ensino e idiomas para desconto;
+PBR (Programa de Bônus Redbelt) baseado em resultados.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Teste Mindsight2Teste Mindsight
+Etapa 2: Teste Mindsight
+2
+Teste Mindsight
+Etapa 3: Entrevista com RH3Entrevista com RH
+Etapa 3: Entrevista com RH
+3
+Entrevista com RH
+Etapa 4: Entrevista com Gestor(a)4Entrevista com Gestor(a)
+Etapa 4: Entrevista com Gestor(a)
+4
+Entrevista com Gestor(a)
+Etapa 5: Entrevista Final5Entrevista Final
+Etapa 5: Entrevista Final
+5
+Entrevista Final
+Etapa 6: Ficha Cadastral6Ficha Cadastral
+Etapa 6: Ficha Cadastral
+6
+Ficha Cadastral
+Etapa 7: Proposta7Proposta
+Etapa 7: Proposta
+7
+Proposta
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+WE ARE SECURITY!
+A Redbelt Security é uma referência em consultoria de cibersegurança há mais de 15 anos, protegendo empresas de todos os setores em todo o país com serviços e inteligência avançados.
+Nosso compromisso é integrar pessoas, sistemas, serviços e produtos para proporcionar uma estratégia única e funcional, de acordo com as reais necessidades de cada cliente.
+Valorizamos nosso time e estamos sempre em busca de talentos que possam contribuir para nossa cultura de trabalho colaborativa e inspiradora. Investimos no desenvolvimento de nossa equipe, oferecendo treinamentos e incentivando a busca contínua por conhecimento. É por isso que a Redbelt é reconhecida como líder do mercado, com uma equipe totalmente dedicada e apaixonada pelo que faz.
+Promovemos uma cultura de inclusão e respeito. 
+Aqui, seu talento faz toda a diferença. Venha ser um Redbelter!
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Instagram

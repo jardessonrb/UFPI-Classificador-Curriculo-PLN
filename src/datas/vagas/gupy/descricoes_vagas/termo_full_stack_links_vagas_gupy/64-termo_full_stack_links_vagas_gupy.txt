@@ -1,0 +1,129 @@
+link_vaga-https://vetta.gupy.io/job/eyJqb2JJZCI6NzcwOTc2Niwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+TECH LEAD FULL STACK
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Estamos buscando uma pessoa Tech Lead Full Stack para o Time Vetta! 
+ 
+Você fará parte de um time de desenvolvimento de produtos, sempre conectado com seus pares e colegas, irá alinhar o trabalho e as demandas com os Scrum Masters ou Gestores, apoiará o time de desenvolvimento pleno e júnior e será um braço direto do nosso time de arquitetos e especialistas.
+ 
+VOCÊ JÁ CONHECE A VETTA?   
+Na Vetta, acreditamos que a tecnologia e a inovação são essenciais para criar um futuro mais sustentável e eficiente para todos. Como uma empresa líder em digitalização industrial, nossas soluções estão ajudando clientes em todo o mundo a reduzir o consumo de energia, a melhorar a eficiência operacional e apoiar a transição energética através da descarbonização.   
+Na Vetta, acreditamos que a tecnologia e a inovação são essenciais para criar um futuro mais sustentável e eficiente para todos. Como uma empresa líder em digitalização industrial, nossas soluções estão ajudando clientes em todo o mundo a reduzir o consumo de energia, a melhorar a eficiência operacional e apoiar a transição energética através da descarbonização.   
+ 
+Ao se juntar à nossa equipe, você terá a oportunidade de trabalhar em projetos emocionantes e desafiadores com alguns dos maiores especialistas da indústria. Além disso, você fará parte de uma equipe dedicada em gerar um impacto positivo no mundo e em ajudar nossos clientes a alcançar seus objetivos de negócios. O Time Vetta sabe a importância do trabalho em equipe e da colaboração para alcançar resultados que atingem todo o globo – ao mesmo tempo que a carreira de cada um é transformada.   
+Ao se juntar à nossa equipe, você terá a oportunidade de trabalhar em 
+. Além disso, você fará parte de uma equipe dedicada em gerar um impacto positivo no mundo e em ajudar nossos clientes a alcançar seus objetivos de negócios. O Time Vetta sabe a importância do trabalho em equipe e da colaboração para alcançar resultados que atingem todo o globo – ao mesmo tempo que 
+   
+ 
+Se você quer compartilhar a sua perspectiva para um mundo mais sustentável, venha ser parte do Time Vetta! 💙 
+ 💙 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Nesse time, você terá a oportunidade de:  
+  
+Utilizar ferramentas e processos relacionados aos conceitos de Agile e DevOps no desenvolvimento de projetos de produtos na área industrial;
+Trabalhar com equipes multidisciplinares para entendimento dos domínios de negócios envolvidos em produtos de softwares industriais, principalmente nas áreas de siderurgia, metalurgia e de energia;
+Colaborar com todos os processos de desenvolvimento de software buscando a mais alta qualidade, garantindo melhoria técnica do time em performance de sistemas, resiliência, escalabilidade, arquitetura e experimentação;
+Apoiar conceitualmente e tecnicamente - através de metodologias que suportem tomadas de decisão (exemplos: POCs, Análise de Gaps, Análise de Vantagens/Desvantagens e AHP), a construção e priorização de Product Backlogs;
+Participar de reuniões de sprints, sendo a uma importante fonte de informações sobre as funcionalidades e as soluções técnicas;
+Implementar e testar os produtos, suportando tecnicamente: (1) a concepção arquitetural do produto; (2) a construção dos domínios, dos modelos e dos limites de contexto; (3) o desenvolvimento das features. Deve ainda garantir e assegurar a qualidade de código, do software e das entregas em geral;
+Realizar a programação da lógica de front-end;
+Realizar a programação da lógica de back-end;
+Realizar a programação da lógica em banco de dados;
+Compreensão de regras e estrutura de dados em seu banco;
+Implementação das estruturas de banco de dados, incluindo a criação de esquemas, tabelas, views, índices e procedures.
+REQUISITOS E QUALIFICAÇÕES
+O que esperamos de você para essa vaga:  
+  
+Raciocínio lógico e capacidade analítica para tomada de decisões assertivas e resolução de problemas. Criatividade para encontrar soluções;
+Capacidade de resolução de problemas com ênfase no desenvolvimento de produtos/serviços data-driven;
+Experiência com ferramentas de DevOps;
+Bagagem computacional sólida;
+Domínio das tecnologias e conceitos de desenvolvimento de software:
+Habilidades gerais de desenvolvimento: GIT para controle de versão, protocolos HTTP/HTTPS, REST, uso do terminal, estrutura de dados e algoritmos, design patterns, programação orientada a objetos;
+React.Js: componentes funcionais, React Hooks / custom hooks, React Flow, build tools (npm, yarn, webpack, npm scripts, lerna), styling (Sass, Less, Ant Design, Styled Components), gerenciamento de estado (Component State / Context, MobX), React Hook Form, TypeScript, API Clients (axios), testes unitários (Jest), i18n, bibliotecas utilitárias (moment, lodash);
+Typescript: conceitos / operações básicas e domínio de sintaxe, AJAX (XHR), ECMA Script 6+, features assíncronas (i.e. Promises), injeção de dependências, generics e capacidade de aprendizado de novas features;
+NodeJS;
+Conteinerização e orquestração de contêineres: conceitos / operações básicas Docker e Kubernetes;
+Gerenciadores de pacotes: Npm, Yarn, Helm;
+Scripts: PowerShell, Bash;
+Conhecimentos em SQL e experiência em PL/pgSQL e banco de dados Postgres e TimeScaleDB.
+ 
+ 
+O que será um diferencial:  
+  
+Python;
+Inglês avançado.
+INFORMAÇÕES ADICIONAIS
+NOSSOS BENEFÍCIOS: 
+Sendo uma empresa voltada para pessoas, buscamos sempre valorizar a nossa equipe. Ao entrar para o Time Vetta, oferecemos:
+ 
+Cartão Vale Alimentação e Refeição de R$32,00/dia, para ser utilizado em vários estabelecimentos de alimentação e de refeição de acordo com as suas necessidades.
+Auxílio home office de R$100,00/mês, além de flexibilidade no horário de trabalho.
+Caso trabalhe no escritório da Vetta, em Belo Horizonte, oferecemos Vale transporte.
+Pensando no cuidado, oferecemos Plano de saúde e Plano odontológico, com a possibilidade de inclusão dos seus dependentes. 
+Total Pass e Vittude para que você possa cuidar, integralmente, da sua saúde ao praticar atividades físicas e ter contato com profissionais de diferentes áreas da saúde.
+Clube de Descontos Online – Swile Shop, com descontos em diversas redes de produtos e de serviços. 
+Licença maternidade e paternidade estendida, para os pais e mães viverem essa fase com tranquilidade. 
+PLR - conforme tabela do sindicato.
+ 
+E TEM MAIS...
+Day-Off de Aniversário.
+No Dress Code. Vista-se com o que te deixa confortável!
+Programa de Incentivo à Formação Contínua e Capacitação, para que você possa continuar aprendendo e compartilhando experiências.
+Quer indicar alguém para a Vetta? Temos Programa de Indicação de Talentos.
+  
+Se interessou em fazer parte do time? Cadastre-se agora! Ficaremos felizes em ter você conosco. 💙
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista People2Entrevista People
+Etapa 2: Entrevista People
+2
+Entrevista People
+Etapa 3: Mapeamento Comportamental 3Mapeamento Comportamental 
+Etapa 3: Mapeamento Comportamental 
+3
+Mapeamento Comportamental 
+Etapa 4: Entrevista Técnica4Entrevista Técnica
+Etapa 4: Entrevista Técnica
+4
+Entrevista Técnica
+Etapa 5: Proposta5Proposta
+Etapa 5: Proposta
+5
+Proposta
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+TRANSFORMING BUSINESS TO IMPROVE THE WORLD
+Somos uma empresa global de digitalização industrial, com duas décadas de experiência no segmento, que contribui com a eficiência operacional e com a redução do consumo de energia e de gases através da descarbonização. Acreditamos que, com inovação e ação, podemos tornar o mundo mais sustentável e os processos industriais mais eficientes.   
+, com duas décadas de experiência no segmento, que contribui com a eficiência operacional e com a
+. Acreditamos que, com 
+, podemos tornar 
+e os processos industriais mais eficientes.   
+Atuamos em conjunto com a SMS group, líder mundial no segmento de metais, e somos responsáveis pelo desenvolvimento de soluções digitais para nossos clientes em mais de 14 países pelo mundo. As nossas soluções contam com a combinação de experiência em processos, know-how de inteligência artificial (IA) e recursos de desenvolvimento de software para resultar em tecnologias de ponta e de otimização.  
+Atuamos em conjunto com a 
+ e somos responsáveis pelo desenvolvimento de soluções digitais para nossos clientes em mais de 14 países pelo mundo. As nossas soluções contam com a combinação de experiência em processos, know-how de inteligência artificial (IA) e recursos de desenvolvimento de software para resultar em tecnologias de ponta e de otimização.  
+ 
+ 
+Queremos trazer soluções inovadoras, buscando melhores formas de tornar a indústria e o futuro mais sustentável por meio da descarbonização. Quer fazer parte dessa história? #VemSerVetta   
+Queremos trazer soluções inovadoras, buscando melhores formas de tornar a indústria e o futuro mais sustentável por meio da descarbonização. 
+Todas as nossas vagas são inclusivas e abertas a todos e todas sem distinção por deficiência (PCD), raça, cor, religião, gênero, nacionalidade ou qualquer outra forma de diversidade. 
+CONECTE-SE COM A GENTE
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

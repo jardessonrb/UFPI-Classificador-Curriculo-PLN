@@ -1,0 +1,120 @@
+link_vaga-https://vortxtech.gupy.io/job/eyJqb2JJZCI6NjgxODI1MCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+FULL STACK DEVELOPER SÊNIOR | .NET
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Uma experiência única de trabalho:
+A Vórtx é a primeira plataforma de infraestrutura para o mercado de capitais. Atuamos em 3 pilares: Dívida Corporativa - Corporate Trust, Administração de Fundos - Funds Trust e Banking Services. Tudo integrado, transacionando mais de MEIO TRILHÃO DE REAIS na nossa plataforma com o conceito de “Infra as a service”. Somos uma infratech.
+🎯 Nosso propósito em Produto e Tecnologia:
+Estamos em busca de pessoas que amam tecnologia, tem foco no cliente e estão sempre em busca de aprendizado contínuo. E sobretudo, engajadas em fazer parte desta incrível jornada que é descomplicar o mercado de capitais.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolvimento de novos sistemas, implantação, manutenção de sistemas de suas API's - REST e GraphQL;Nossa Stack é principalmente feita em NodeJS e .NET, no front-end usamos React e Angular;Possuímos inúmeros bancos de dados, mas os principais são SQL Server, MongoDB, PostgreSQL. Assim, seria legal você saber sobre SQL / Big Data / NoSQL;Propor novas tecnologias e formas diferentes de programar, afinal, nada é escrito na pedra;Gostamos muito de DDD/BDD/TDD/Clean Architecture, estes conceitos precisam estar claros para você, pois irá coloca-los em prática aqui.
+Desenvolvimento de novos sistemas, implantação, manutenção de sistemas de suas API's - REST e GraphQL;
+Nossa Stack é principalmente feita em NodeJS e .NET, no front-end usamos React e Angular;
+Possuímos inúmeros bancos de dados, mas os principais são SQL Server, MongoDB, PostgreSQL. Assim, seria legal você saber sobre SQL / Big Data / NoSQL;
+Propor novas tecnologias e formas diferentes de programar, afinal, nada é escrito na pedra;
+Gostamos muito de DDD/BDD/TDD/Clean Architecture, estes conceitos precisam estar claros para você, pois irá coloca-los em prática aqui.
+REQUISITOS E QUALIFICAÇÕES
+Conhecimento em arquitetura web;Conhecimento em pelo menos uma linguagem de programação;Sede por aprender coisas novas;Boa comunicação e gostar de trabalhar em equipe;Seria legal se você também conhecesse:Conhecimento com Nodejs;Noções de T-SQL;Conhecimentos em AWS;Inglês intermediário / avançado.
+Conhecimento em arquitetura web;
+Conhecimento em pelo menos uma linguagem de programação;
+Sede por aprender coisas novas;
+Boa comunicação e gostar de trabalhar em equipe;
+Seria legal se você também conhecesse:
+Conhecimento com Nodejs;
+Noções de T-SQL;
+Conhecimentos em AWS;
+Inglês intermediário / avançado.
+INFORMAÇÕES ADICIONAIS
+Diversidade e inclusão transformam. A Vórtx também!
+Nossas oportunidades se conectam com todas as pessoas, independente de localização, idade, raça, cor, gênero, relações afetivas, crenças ou outros grupos sociais. 🙏​🌈​
+ 
+Nossos Benefícios:
+🌪️​Jornada de trabalho flex work;
+🌪️​Horário flexível;
+🌪️​Participação nos Lucros e Resultados semestral;
+🌪️​Programa Partnership - torne-se acionista;
+🌪️Assistência Médica e Odontológica Bradesco (opção de plano sem custos);
+🌪️VR R$47,00/dia e VA R$636,00/mês (crédito no cartão Swile);
+🌪️​Vale Transporte;
+🌪️​Auxílio Creche R$482,00/mês - filhos até 5 anos;
+🌪️​TotalPass - subsídio para academias;
+🌪️​Subsídio para pós-graduação e outros cursos, de acordo com política interna.
+Nossa Cultura, Iniciativas e Programas: 
+🌪️Ambiente horizontal, ágil, sem burocracia e celebrativo;
+🌪️Sem dress-code;
+🌪️Universidade Vórtx – cursos online gratuitos;
+🌪️​Plataforma EduPass – cursos com descontos;
+🌪️Programa de Mobilidade - recrutamento interno;
+🌪️​Indica Vórtx - programa de indicações;
+🌪️​Programa VX Milhas - ações de engajamento com premiações;
+🌪️​Reembolso Exame CPA-20 na aprovação (Certificado Financeiro).
+ 
+📍​ Nosso escritório fica na R. Gilberto Sabino, 215 – Pinheiros, São Paulo – SP.
+📃Regime de contratação: CLT
+
+
+
+
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Fit Cultural 2Fit Cultural 
+Etapa 2: Fit Cultural 
+2
+Fit Cultural 
+Etapa 3: Conversa com Talent Acquisition3Conversa com Talent Acquisition
+Etapa 3: Conversa com Talent Acquisition
+3
+Conversa com Talent Acquisition
+Etapa 4: Teste Técnico4Teste Técnico
+Etapa 4: Teste Técnico
+4
+Teste Técnico
+Etapa 5: Conversa com Liderança5Conversa com Liderança
+Etapa 5: Conversa com Liderança
+5
+Conversa com Liderança
+Etapa 6: Teste de Competências6Teste de Competências
+Etapa 6: Teste de Competências
+6
+Teste de Competências
+Etapa 7: Conversa com Pessoa Embaixadora de Cultura7Conversa com Pessoa Embaixadora de Cultura
+Etapa 7: Conversa com Pessoa Embaixadora de Cultura
+7
+Conversa com Pessoa Embaixadora de Cultura
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+BORA DESCOMPLICAR O MERCADO DE CAPITAIS?
+A Vórtx nasceu com o objetivo de transformar o modo como o dinheiro flui ao longo do sistema. Somos mais de 200 pessoas trabalhando com tecnologia de ponta e uma plataforma integrada atendendo aos pilares de Administração de Fundos, Dívidas Corporativas e Banking Services.
+ 
+Somos movidos pelo sonho de transformar o Mercado de Capitais. Por isso, por aqui, a tecnologia é a filosofia que rege a empresa, não uma área à parte. Esse é o segredo por trás da nossa agilidade, segurança e a independência de nossos serviços: sonhos inspirados pela tecnologia, tecnologia inspirada pela realidade.
+ 
+Nosso propósito é descomplicar o mercado de capitais tornando o dinheiro acessível a todos, inserindo mais pessoas no sistema e sendo um agente de transformação econômica.
+
+Se você quer participar do desafio de construir algo muito além do mercado de capitais e descobrir até onde seu potencial pode ir, vem pro furacão. 🌪️
+ 
+Oportunidades em outros times e empresas:
+🚩​Vagas nos times de Gestão & Negócios - https://vortx.gupy.io/
+🚩​​ Vagas na Vórtx QR Tokenizadora - https://vortxqrtokenizadora.gupy.io/
+
+
+
+📲 SEGUE A GENTE LÁ NAS REDES:
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

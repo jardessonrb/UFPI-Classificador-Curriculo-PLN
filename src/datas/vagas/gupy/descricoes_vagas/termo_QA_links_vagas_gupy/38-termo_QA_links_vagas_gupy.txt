@@ -1,0 +1,109 @@
+link_vaga-https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6NzkyMTc1OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA QA
+Tipo de vaga: TemporárioTemporário
+Tipo de vaga: Temporário
+Temporário
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+DESCRIÇÃO DA VAGA
+¡Sé parte de Stefanini!​
+En Stefanini somos más de 30.000 genios, conectados desde 41 países, haciendo lo que les apasiona y co-creando un futuro mejor.​
+RESPONSABILIDADES E ATRIBUIÇÕES
+II. FUNCIONES DEL PUESTO
+a) Principal:
+•	Gestionar y liderar las certificaciones con usuarios, PO y equipo técnico  
+b)	Generales:
+•	Implementar prácticas de codificación y scripting desde el análisis del requerimiento, con dominio de lenguajes de programación orientado a objetos y estructurado, incluyendo el manejo de vulnerabilidades, herramientas de versionamiento de código, manejo de base de datos; con el objetivo de realizar entregas de software de calidad
+•	Elaborar casos de pruebas, estrategias y documentar las evidencias de las pruebas
+•	Gestionar insumos y ambientes para pruebas, liderar las certificaciones con usuarios, PO y equipo técnico
+•	Asegurar la calidad del producto o servicio que se ha construido, a través de pruebas integrales, regresión, pruebas smoke pruebas de performances
+•	Participación de principio a fin en el ciclo de vida del proceso de Habilitar y Mantener soluciones, Dirigiendo la construcción de la estrategia y diseño de pruebas ágiles en conjunto con los integrantes de los diferentes equipos solucionadores, durante todo el desarrollo de la solución (deseable)
+•	Compartir y velar por el cumplimiento de lineamientos de buenas prácticas Calidad (deseable)
+•	Compartir y velar por el cumplimiento de lineamientos de buenas prácticas DevOps (deseable)
+•	Dirigir la construcción de la estrategia y diseño de pruebas ágiles en conjunto con los integrantes de los diferentes equipos solucionadores, durante todo el desarrollo de la solución
+•	Garantizar que la estrategia cubra todos los niveles de pruebas necesarios (unitarios, integración, funcionales, certificación con el negocio, etc.), minimizando el riesgo de impactos en producción, de acuerdo con los estándares y lineamientos definidos para el banco, velando por el cumplimiento de la consistencia, confiabilidad y oportunidad de la solución tecnológica implementada
+•	Participar en el refinamiento de la visión y en la identificación de necesidades técnicas, apoyando a la iniciativa en la definición de ítems de backlog y criterios de aceptación 
+•	Participar en todas las ceremonias de SCRUM
+•	Elaborar casos de pruebas y plan de certificación
+•	Desarrollar y ejecutar los casos de prueba, scripts, planes y procedimientos (manuales y automáticas) a lo largo de la vida de los proyectos y en cada sprint
+•	Realizar la documentación de las pruebas (evidencia)
+•	Experiencia en la validación de programa RPG
+•	Experiencia con manejo de GIT y flujo de trabajo. (deseable)
+•	Experiencia con manejo de criterio de calidad con la herramienta SonarQube.
+•	Experiencia con el manejo de pruebas de Performances
+III. REQUERIMIENTOS DEL PUESTO
+a)	Conocimientos: Ingeniero(a)/Licenciado(a) en Computación o Ingeniero(a) Industrial 
+Experiencia requerida:
+-	Al menos 2 años trabajando en el sector financiero
+-	Metodología SCRUM u otras metodologías agiles
+-	Metodologías de pruebas de sistemas
+-	Desarrollo en la Automatización de pruebas Funcionales (Selenium/Katalon,Jmetter)
+-	Ejecución de pruebas de rendimiento
+b)	Conocimientos, habilidades y actitudes:
+·     Conocimientos de programación en JAVA	Medio
+·     Conocimiento en SQL	Alto
+·     Microsoft Office: Excel, Word, Visio, Project y Power Point	Alto
+·     Conocimiento de las herramientas necesarias para la gestión de calidad	Alto
+·     Conocimiento de Mediciones y Métricas. Alto
+·     Conocimiento de DEVOPS (deseable)
+·     Conocimiento de pruebas en apis 
+·     Conocimiento de pruebas en plataformas con tecnología en Microservicios
+·     Conocimiento de Pruebas Automatizadas 
+·     Conocimiento de CI/CD (deseable)
+Básico
+Medio
+Alto
+·     Conocimiento de aplicativos bancarios (CORE, ebanking, sistemas de caja, Kioskos, ATM, Originación de créditos, etc.)	Alto
+·     Conocimiento de herramientas Azure DevOps Medio
+·     Conocimiento de procesos en los productos y servicios bancarios (Prestamos, procesos de cierre contable, generación de reportes, transferencias entre cuentas, SWIFT, etc.)	Alto
+·     Versionamiento de Codigo (GIT)	Medio
+·     Pruebas de rendimiento Jmeter	Medio
+·     Pruebas automaticas (Selenium/Katalon)
+Alto
+Habilidades: 
+·     Habilidad para crear y presentar informes derivados de consultas en bases de datos SQL 
+·     Habilidad para el análisis y diseño de procesos 
+·     Autodidacta y aprendizaje constante 
+·     Creatividad y capacidad para resolver problemas 
+·     Pensamiento crítico para evaluar las ideas, hacer deducciones y vincular lo observado con los criterios de calidad de la empresa 
+·     Pragmatismo para poner en práctica las ideas y adecuar las técnicas y el esfuerzo al alcance del proyecto 
+·     Aptitudes para el trabajo en equipo, de manera de poder interactuar con los desarrolladores, otros testers, equipo de Calidad y equipo de operaciones, y lograr el máximo beneficio en la interacción 
+Actitudes: 
+·     Honestidad 
+·     Actitud positiva 
+·     Aprendizaje continúo 
+·     Innovación y liderazgo 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista 2Entrevista 
+Etapa 2: Entrevista 
+2
+Entrevista 
+Etapa 3: Confirmación de Candidato3Confirmación de Candidato
+Etapa 3: Confirmación de Candidato
+3
+Confirmación de Candidato
+Etapa 4: Onboarding4Onboarding
+Etapa 4: Onboarding
+4
+Onboarding
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+CONOCE A STEFANINI
+Somos una empresa global con 35 años de experiencia en el mercado, ofrecemos una sólida selección de servicios como: automatización, nube, Internet de las cosas (IoT) y experiencia de usuario (UX).
+Creemos que la tecnología puede revolucionar una empresa y la innovación es fundamental para fomentar el desarrollo y la competitividad. También valoramos las nuevas ideas y el poder de una mente abierta, por lo que reconocemos que cada talento es esencial para la calidad de nuestros proyectos y especialmente para nuestro progreso.
+Creemos que la tecnología puede revolucionar una empresa y la innovación es fundamental para fomentar el desarrollo y la competitividad. También valoramos las nuevas ideas y el poder de una mente abierta, por lo que reconocemos que cada talento es esencial para la calidad de nuestros proyectos y especialmente para nuestro progreso.
+Mantenemos nuestra excelencia invirtiendo en innovaciones tecnológicas, las mejores alianzas, adquisiciones de empresas en todo el mundo y la contratación de profesionales altamente capacitados.
+CONOCE MÁS SOBRE NOSOTROS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

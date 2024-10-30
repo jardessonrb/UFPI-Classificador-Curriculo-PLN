@@ -1,0 +1,147 @@
+link_vaga-https://viasoft.gupy.io/job/eyJqb2JJZCI6Nzc0ODI4MSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR JAVA FULLSTACK SR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+O Desenvolvedor Java Full Stack Sênior, atuará no setor de CRM.
+Desenvolvedor Java Full Stack Sênior, atuará no setor de 
+.
+CRM é a nossa solução em gestão de relacionamento com o cliente, uma solução poderosa e especialista no agronegócio, que visa transformar a maneira como o setor gerencia suas operações no campo e se relaciona com seus clientes. Com uma combinação de funcionalidades web e mobile, ele é projetado para atender às necessidades específicas do setor, proporcionando eficiência, flexibilidade e uma gestão de campo mais estratégica.
+CRM é a nossa solução em gestão de relacionamento com o cliente, uma solução poderosa e especialista no agronegócio, que visa transformar a maneira como o setor gerencia suas operações no campo e se relaciona com seus clientes. Com uma combinação de funcionalidades web e mobile, ele é projetado para atender às necessidades específicas do setor, proporcionando eficiência, flexibilidade e uma gestão de campo mais estratégica.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver códigos estáveis, confiáveis e fáceis de manter, seguindo práticas de código limpo.Criar soluções pensando em eficiência, escalabilidade e estabilidade para garantir o crescimento acelerado e a escalabilidade do software.Cumprir prazos acordados para entrega de atividades.Orientar, treinar e fornecer suporte técnico aos desenvolvedores Júnior e Pleno.Participar ativamente de reuniões e discussões técnicas, contribuindo com insights e soluções inovadoras.Colaborar com equipes multidisciplinares para entender requisitos e desenvolver soluções que atendam às necessidades do negócio.
+Desenvolver códigos estáveis, confiáveis e fáceis de manter, seguindo práticas de código limpo.
+Desenvolver códigos estáveis, confiáveis e fáceis de manter, seguindo práticas de código limpo.
+Criar soluções pensando em eficiência, escalabilidade e estabilidade para garantir o crescimento acelerado e a escalabilidade do software.
+Criar soluções pensando em eficiência, escalabilidade e estabilidade para garantir o crescimento acelerado e a escalabilidade do software.
+Cumprir prazos acordados para entrega de atividades.
+Cumprir prazos acordados para entrega de atividades.
+Orientar, treinar e fornecer suporte técnico aos desenvolvedores Júnior e Pleno.
+Orientar, treinar e fornecer suporte técnico aos desenvolvedores Júnior e Pleno.
+Participar ativamente de reuniões e discussões técnicas, contribuindo com insights e soluções inovadoras.
+Participar ativamente de reuniões e discussões técnicas, contribuindo com insights e soluções inovadoras.
+Colaborar com equipes multidisciplinares para entender requisitos e desenvolver soluções que atendam às necessidades do negócio.
+Colaborar com equipes multidisciplinares para entender requisitos e desenvolver soluções que atendam às necessidades do negócio.
+REQUISITOS E QUALIFICAÇÕES
+Experiência sólida com Java.Conhecimento em React, JavaScript, TypeScript, HTML e CSS.Familiaridade com Spring Boot.Experiência com uso de containers Kubernetes e Docker.Familiaridade com sistemas operacionais Linux.Experiência com ferramentas de versionamento de código (GIT).Conhecimento em microsserviços e arquitetura baseada em APIs REST.Experiência com testes unitários e integração contínua.Conhecimento em servidores web Nginx.Noções de Clean Code e Design Patterns.Conhecimento em bancos de dados relacionais, preferencialmente MySQL.
+Experiência sólida com Java.
+Experiência sólida com Java.
+Conhecimento em React, JavaScript, TypeScript, HTML e CSS.
+Conhecimento em React, JavaScript, TypeScript, HTML e CSS.
+Familiaridade com Spring Boot.
+Familiaridade com Spring Boot.
+Experiência com uso de containers Kubernetes e Docker.
+Experiência com uso de containers Kubernetes e Docker.
+Familiaridade com sistemas operacionais Linux.
+Familiaridade com sistemas operacionais Linux.
+Experiência com ferramentas de versionamento de código (GIT).
+Experiência com ferramentas de versionamento de código (GIT).
+Conhecimento em microsserviços e arquitetura baseada em APIs REST.
+Conhecimento em microsserviços e arquitetura baseada em APIs REST.
+Experiência com testes unitários e integração contínua.
+Experiência com testes unitários e integração contínua.
+Conhecimento em servidores web Nginx.
+Conhecimento em servidores web Nginx.
+Noções de Clean Code e Design Patterns.
+Noções de Clean Code e Design Patterns.
+Conhecimento em bancos de dados relacionais, preferencialmente MySQL.
+Conhecimento em bancos de dados relacionais, preferencialmente MySQL.
+INFORMAÇÕES ADICIONAIS
+Essa oportunidade de carreira só faz sentido para quem:
+
+Tem um propósito firme de desenvolver carreira na área e enxerga nesta vaga a oportunidade e o meio para conquistar seus objetivos profissionais; 
+Tem um propósito firme de desenvolver carreira na área e enxerga nesta vaga a oportunidade e o meio para conquistar seus objetivos profissionais; 
+Tem uma atitude flexível, que goste de desafios e busque aprendizado constantemente; 
+Tem uma atitude flexível, que goste de desafios e busque aprendizado constantemente; 
+É obcecado por evolução e conhecimento;
+É obcecado por evolução e conhecimento;
+Quer ser protagonista na sua carreira profissional;
+Quer ser protagonista na sua carreira profissional;
+Busca ser eficaz nas atividades, realizando com agilidade, mas também com a acabativa necessária para desenvolver e entregar suas demandas;
+Busca ser eficaz nas atividades, realizando com agilidade, mas também com a acabativa necessária para desenvolver e entregar suas demandas;
+É organizado, realizando as atividades planejadas conforme estimado;
+É organizado, realizando as atividades planejadas conforme estimado;
+É aberto a dar e receber feedbacks (escuta feedbacks, busca por feedbacks, apresenta plano de melhoria pró-ativamente).
+É aberto a dar e receber feedbacks (escuta feedbacks, busca por feedbacks, apresenta plano de melhoria pró-ativamente).
+ 
+Trabalhando conosco você terá acesso:
+
+Vale alimentação ou refeição - Você escolhe!
+Vale alimentação ou refeição - Você escolhe!
+Plano de saúde;
+Plano de saúde;
+Plano odontológico;
+Plano odontológico;
+Auxílio Home Office. 
+Auxílio Home Office. 
+Auxílio pós-graduação de até70% da mensalidade;
+Auxílio pós-graduação de até70% da mensalidade;
+Acesso aos cursos nas plataformas educacionais Alura e DevMedia; 
+Acesso aos cursos nas plataformas educacionais Alura e DevMedia; 
+Auxílio a cursos online;
+Auxílio a cursos online;
+Auxílio transporte;
+Auxílio transporte;
+Seguro de vida;
+Seguro de vida;
+Prêmio indicação;
+Prêmio indicação;
+Gestão de carreira estruturado;
+Gestão de carreira estruturado;
+Programa de Gestão de Desempenho, com Feedbacks e Plano de Desenvolvimento Individual;
+Programa de Gestão de Desempenho, com Feedbacks e Plano de Desenvolvimento Individual;
+Convênios com diversos estabelecimentos e instituições;
+Convênios com diversos estabelecimentos e instituições;
+Empréstimo consignado com condições especiais. 
+Empréstimo consignado com condições especiais. 
+ 
+Super importante: Se você atende os requisitos e vê sentido em fazer parte do nosso time, isso é tudo o que importa! Aqui procuramos pessoas com capacidade e vontade de transformar, de serem protagonistas, independente do lugar que reside, idade, raça, cor, religião, ser PcD, identidade de gênero ou orientação sexual. Seu perfil e valores condizem com os nossos? Então venha fazer parte da VIASOFT!
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Mapeamento Cultural2Mapeamento Cultural
+Etapa 2: Mapeamento Cultural
+2
+Mapeamento Cultural
+Etapa 3: Entrevista por Competências3Entrevista por Competências
+Etapa 3: Entrevista por Competências
+3
+Entrevista por Competências
+Etapa 4: Teste Comportamental4Teste Comportamental
+Etapa 4: Teste Comportamental
+4
+Teste Comportamental
+Etapa 5: Teste técnico 5Teste técnico 
+Etapa 5: Teste técnico 
+5
+Teste técnico 
+Etapa 6: Dados para Contratação6Dados para Contratação
+Etapa 6: Dados para Contratação
+6
+Dados para Contratação
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+SOBRE A VIASOFT
+A VIASOFT é especialista em todos os segmentos que atua, o que a torna a escolha mais inteligente às empresas que buscam evolução, inovação e desenvolvimento.
+Somos um time com valores construídos ao longo de mais de 30 anos. Temos uma cultura de resultados, reconhecimento, crescimento e celebrações muito bem consolidada e cheia de orgulho, que chamamos de “DNA VIASOFT". Trabalhamos com foco no sucesso do cliente, inconformismo construtivo e propósitos bem definidos, possuímos uma cultura de aprendizagem e queremos sempre realizar mais.
+Venha realizar mais com a gente!
+Nós acreditamos que os clientes são a razão central da existência dos negócios e da nossa empresa. Que através da superação das expectativas dos clientes advém a capacidade de gerar riquezas. Que primar pela excelência das soluções contribui para que nossos clientes rompam barreiras e realizem mais. Que pessoas comprometidas, dotadas do senso de coesão e cooperação, são a chave para o cumprimento de nossos propósitos. E que o sucesso da nossa empresa é a mola propulsora do crescimento de todos que orbitam seu entorno.
+Nossa missão é fornecer soluções completas, alinhadas e orientadas às melhores práticas de gestão empresarial, para que os nossos clientes realizem mais.
+Nossa visão é ser a escolha mais inteligente para ações de evolução e inovação em gestão empresarial.
+CONECTE-SE COM A GENTE:
+Website
+LinkedIn
+Facebook
+Instagram

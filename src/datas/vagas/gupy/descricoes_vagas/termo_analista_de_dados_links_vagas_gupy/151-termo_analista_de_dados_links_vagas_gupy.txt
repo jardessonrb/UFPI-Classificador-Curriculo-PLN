@@ -1,0 +1,124 @@
+link_vaga-https://green4t.gupy.io/job/eyJqb2JJZCI6Njg1OTM1Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE BANCO DE DADOS PLENO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+DESCRIÇÃO DA VAGA
+Sobre a green4T:
+ 
+ 
+Valorizamos ações assertivas, orientadas para a eficiência e embasadas pelo know-how. Buscamos novas formas de olhar e encarar desafios, sempre com uma postura resiliente e perseverante. Nos antecipamos às situações, garantindo a minimização do risco. Somos pragmáticos, com foco em resultados e em nossos clientes, e prezamos pela excelência.
+Valorizamos ações assertivas, orientadas para a eficiência e embasadas pelo 
+ 
+A green4T é uma empresa líder em soluções de tecnologia e infraestrutura digital. Fundada em 2016 e presente em 12 países da América Latina, contamos com 30% das 1.000 maiores empresas do Brasil em nossa carteira de clientes.
+A 
+ 
+Gerimos nossos negócios de forma socialmente responsável. Temos o compromisso de desenvolver soluções de tecnologia e infraestrutura para a transformação digital de empresas,
+Gerimos nossos negócios de forma socialmente responsável. Temos o compromisso de desenvolver 
+cidades e nações de forma eficiente e sustentável para o planeta.
+ 
+ 
+Vamos juntos #Begreen nessa
+transformação?
+transformação?
+RESPONSABILIDADES E ATRIBUIÇÕES
+Estamos buscando Especialista em Banco de Dados Pleno para atuar desenvolvendo as seguintes atividades:
+Estamos buscando
+para atuar desenvolvendo as seguintes atividades:
+ 
+Elaborar e apresentar estudos sobre novas tecnologias;
+Planejar e realizar migrações de SGBDs, apoiando na instalação no novo sistema operacional, seguindo as orientações do cliente;
+Identificação e comunicação de falhas. Análise de incidentes, recorrentes ou esporádicos. Reestabelecimento de serviços;
+Instalação de atualizações ou correções das soluções de SGDB. Evolução de versões dos SGBDs;
+Configuração de parâmetros de desempenho (tuning) das soluções de SGBD;
+Monitoramento dos recursos das bases de dados e dos sistemas operacionais e para os ativos que os sustentam;
+Execução de rotinas de backup ou replicação de dados;
+Adequação ou criação de scripts;
+Adequação ou criação de datasources ou pools de conexão;
+Avaliação das necessidades dos recursos ou serviços habilitados ou implementados nos sistemas operacionais, a fim de trazer eficiência no consumo dos recursos e maior segurança, evitando que serviços desnecessários estejam em execução;
+Implementação de configurações que tragam maior proteção aos sistemas e as informações, fazendo uso de recursos nativo do sistema ou que não envolvam custos de licenciamento;
+Emissão de relatórios de uso dos recursos e desempenho das bases de dados, podendo incluir informações intrínsecas à estrutura de dados;
+Atendimento ao cliente (chamados, telefone e e-mail);
+REQUISITOS E QUALIFICAÇÕES
+Para esta posição, é necessário:
+ 
+Experiência mínima de 3 anos na área de Tecnologia da Informação, com foco em Bancos de Dados;
+Experiência em soluções de SGDB (Sistema de Gerenciamento de Banco de Dados), baseados em Microsoft SQL Server, Oracle, MySQL e PostgreSQL;
+Experiência em Microsoft Windows (Microsoft SQL Server) e Linux (Oracle, MySQL e PostgreSQL);
+Oracle Database: Exadata
+Oracle Database: Exadata
+Capaz de gerenciar a instalação, atualização, patching e configuração de bancos de dados.
+Conhecimentos de monitoramento e ajuste fino de desempenho.
+Conhecimentos de modelos de dados OLTP e OLAP.
+Capaz de criar, atualizar, remover e gerenciar usuários e roles em diferentes bancos de dados, bem como ser capaz de implementar a segurança a nível de banco de dados e rede.
+Automatizar tarefas repetitivas como Backup e Restore.
+Importar e exportar dados.
+Criação e gestão de esquemas de bancos de dados.
+Gestão da integridade de dados.
+ 
+Conhecimento, experiência e habilidade:
+ 
+Organização; 
+Capacidade de análise e síntese; 
+Visão Sistêmica; 
+Foco em resultados;  
+Comunicação; 
+Comprometimento; 
+Relacionamento interpessoal. 
+ 
+ 
+  
+  
+Defendemos o respeito a pluralidade nos processos seletivos e nas relações de trabalho. Valorizamos a diversidade e buscamos promover a inclusão em nossa empresa. Por conta disso, encorajamos a inscrição de talentos que representem a diversidade de gênero, etnia, de orientações afetivo-sexuais, deficiências, idades, origens e culturas.
+ nos processos seletivos e nas relações de trabalho. 
+ e 
+ em nossa empresa. Por conta disso, 
+ de gênero, etnia, de orientações afetivo-sexuais, deficiências, idades, origens e culturas.
+ 
+ 
+ 
+#Juntossomosmaisgreen.
+Juntos
+mais
+.
+INFORMAÇÕES ADICIONAIS
+BENEFÍCIOS:Vale-transporte;Vale Refeição ou Vale Alimentação no valor de R$30,00 por dia;Plano de saúde;Plano odontológico;Seguro de Vida;Empréstimo Consignado;Parceria para descontos em Universidades.
+BENEFÍCIOS:
+Vale-transporte;
+Vale Refeição ou Vale Alimentação no valor de R$30,00 por dia;
+Plano de saúde;
+Plano odontológico;
+Seguro de Vida;
+Empréstimo Consignado;
+Parceria para descontos em Universidades.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: ENTREVISTA COM RH2ENTREVISTA COM RH
+Etapa 2: ENTREVISTA COM RH
+2
+ENTREVISTA COM RH
+Etapa 3: ENTREVISTA COM GESTOR3ENTREVISTA COM GESTOR
+Etapa 3: ENTREVISTA COM GESTOR
+3
+ENTREVISTA COM GESTOR
+Etapa 4: Contratação4Contratação
+Etapa 4: Contratação
+4
+Contratação
+TRILHE A SUA CARREIRA NA GREEN4T
+Fundada em 2016, somos uma empresa brasileira de soluções de tecnologia e infraestrutura digital que está presente nos países da América Latina.
+Temos o compromisso de desenvolver produtos e serviços para acelerar a transformação digital das empresas e cidades, possibilitando um futuro mais sustentável para o planeta. Por isso, desenvolvemos soluções de infraestrutura de TI com elevada eficiência energética, baixo impacto ambiental, acessíveis e de alta disponibilidade. 
+Buscamos trabalhar lado a lado com os nossos clientes, visando enfrentar os desafios tecnológicos, agregar valor aos negócios e torná-los mais competitivos e preparados para novos horizontes.
+Sonhe alto e alcance novas fronteiras.
+CONHEÇA MAIS SOBRE A GREEN4T
+Website
+LinkedIn
+Facebook
+Instagram

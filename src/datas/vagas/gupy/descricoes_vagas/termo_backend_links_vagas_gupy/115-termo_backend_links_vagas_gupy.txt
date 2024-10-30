@@ -1,0 +1,115 @@
+link_vaga-https://gruposunojobs.gupy.io/job/eyJqb2JJZCI6NzM1ODc5OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+SOFTWARE ENGINEER [.NET] [BACKEND]
+Tipo de vaga: Pessoa jurídicaPessoa jurídica
+Tipo de vaga: Pessoa jurídica
+Pessoa jurídica
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+DESCRIÇÃO DA VAGA
+Faça parte do time #SunoLovers
+Nosso propósito é levar as melhores soluções de investimentos aos nossos clientes, de forma transparente e sustentável.
+Temos um compromisso muito sério com nossos clientes e investir no seu sucesso é um dos nossos principais valores.
+Somos uma empresa certificada pela Great Place to Work® Brasil, pois acreditamos que pessoas são nosso ativo mais valioso.
+Estamos crescendo exponencialmente e você pode fazer parte dessa trajetória de sucesso com a gente.
+Estamos à procura de uma pessoa talentosa e motivada para se juntar à nossa equipe de tecnologia.
+A pessoa Engenheira de Software terá uma vasta experiência em desenvolvimento de software, com especialização em .NET, e será responsável pelo desenvolvimento, manutenção e melhoria de nossas aplicações. Esta pessoa trabalhará em estreita colaboração com equipes multifuncionais para criar soluções de software inovadoras e escaláveis, além de fornecer orientação técnica e mentoria para membros da equipe.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Responsabilidades como pessoa Engenheira de Software:
+Desenvolver, testar e manter aplicações .NET de alta performance;
+Colaborar com equipes de produto e design para entender os requisitos e transformar especificações técnicas em funcionalidades robustas;
+Otimizar aplicações para máxima velocidade e escalabilidade;
+Implementar e manter integrações com banco de dados Postgres;
+Utilizar serviços da Amazon Web Services (AWS) para entregar as aplicações;
+Escrever código limpo, sustentável e bem documentado;
+Participar de revisões de código para garantir a qualidade do software;
+Monitorar e solucionar problemas de produção;
+Fornecer liderança técnica e mentoria para outros engenheiros;
+Contribuir para a arquitetura e decisões estratégicas de tecnologia;
+Identificar e implementar melhores práticas de desenvolvimento e padrões de código.
+REQUISITOS E QUALIFICAÇÕES
+O que a Suno espera:
+Experiência comprovada com engenharia de software com foco em .NET (C#);
+Proficiência em C# e .NET Framework/Core;
+Experiência significativa com banco de dados PostgreSQL;
+Conhecimento em serviços da AWS, incluindo EC2, S3, RDS, entre outros;
+Familiaridade com metodologias ágeis (Scrum/Kanban);
+Habilidade para trabalhar em um ambiente colaborativo e multifuncional;
+Excelente capacidade de resolução de problemas e atenção aos detalhes;
+Excelentes habilidades de comunicação;
+Inglês avançado (leitura e escrita).
+ Desejamos encontrar pessoas com: 
+Experiência com Docker e Kubernetes;
+Conhecimento em arquitetura de software e sistemas distribuídos;
+Experiência com ferramentas de CI/CD (Continuous Integration/Continuous Deployment);
+Familiaridade com práticas de DevOps;
+Fluência em inglês.
+Entendemos como um grande diferencial:
+Conhecimento do mercado financeiro;
+Experiência em liderança técnica ou mentoria de equipes de desenvolvimento.
+INFORMAÇÕES ADICIONAIS
+O que você pode esperar da gente?
+Nosso compromisso é cuidar de você! Por isso, disponibilizamos:
+
+Trabalho Híbrido;
+Convênio Médico;
+Convênio Odontológico;
+Seguro de Vida;
+Desconto Gympass e Zenklub;
+Parcerias Institucionais;
+PLR;
+Assinatura Suno Black para colaboradores e familiares de 1º grau.
+
+
+Venha fazer parte desse time de sucesso!!!
+
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Teste Comportamental2Teste Comportamental
+Etapa 2: Teste Comportamental
+2
+Teste Comportamental
+Etapa 3: Teste de Raciocínio Lógico Suno 3Teste de Raciocínio Lógico Suno 
+Etapa 3: Teste de Raciocínio Lógico Suno 
+3
+Teste de Raciocínio Lógico Suno 
+Etapa 4: Análise de conhecimento sobre Investimentos4Análise de conhecimento sobre Investimentos
+Etapa 4: Análise de conhecimento sobre Investimentos
+4
+Análise de conhecimento sobre Investimentos
+Etapa 5: Entrevista com RH - Fit Cultural5Entrevista com RH - Fit Cultural
+Etapa 5: Entrevista com RH - Fit Cultural
+5
+Entrevista com RH - Fit Cultural
+Etapa 6: Entrevista com Gestor6Entrevista com Gestor
+Etapa 6: Entrevista com Gestor
+6
+Entrevista com Gestor
+Etapa 7: Carta Oferta7Carta Oferta
+Etapa 7: Carta Oferta
+7
+Carta Oferta
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+UMA EMPRESA FEITA DE TALENTOS E PESSOAS SUNOLOVERS!!!!
+Desejamos estar entre os melhores produtos de investimentos nas categorias que atuamos.
+ Transformação social - assim nasceu a SUNO, em 2017, com seu modelo de negócio inspirado em mudança. Mudança de visão de vida, de conhecimento, de patamar financeiro.
+Começamos como uma casa de Research, e ao longo desses 5 anos de história evoluímos junto do mercado, sem perder a nossa essência - nosso motor principal de crescimento profissional. Hoje o Grupo SUNO é uma Holding que congrega alguns negócios: Research, Consultoria, Wealth, Assessoria, Asset e Mídias. E em 2022, fez uma parceria estratégica com um dos maiores grupos do mercado financeiro do Brasil, a XP Inc. , com isso, se torna acionista do Grupo.
+
+A SUNO acredita e tem como propósito, levar as melhores soluções financeiras para os nossos clientes, de forma transparente e desmistificando a ideia de que entender de investimento não é para todos. Mostramos aos nossos clientes, de forma didática, as melhores alternativas de investimento. Investir no seu sucesso é um dos nossos principais valores.
+
+Nossos colaboradores são nossos principais ativos. E, com eles, chegamos ao reconhecimento do selo Great Place to Work® Brasil pelo 4º ano seguido. Estamos crescendo exponencialmente e você pode fazer parte dessa trajetória de sucesso com o nosso time de #SunoLovers.
+
+A SUNO quer chegar além. Topa o nosso desafio?
+QUER CONHECER MAIS SOBRE GRUPO SUNO? ACESSE NOSSO SITE E REDES SOCIAIS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

@@ -1,0 +1,154 @@
+link_vaga-https://rankmyapp.gupy.io/job/eyJqb2JJZCI6NzgyNTMyNSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA FULLSTACK SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+O RankMyAPP é uma empresa que está revolucionando o mercado de Mobile Marketing! 
+O 
+é uma empresa que está revolucionando o mercado de Mobile Marketing! 
+ 
+ 
+Como? Através de muita tecnologia e colaboradores apaixonados pelo que fazem. Atualmente somos uma referência mundial na área de Mobile Marketing, estamos entre as três principais empresas de ASO do mundo.
+Como? Através de muita tecnologia e colaboradores apaixonados pelo que fazem. Atualmente somos uma referência mundial na área de Mobile Marketing, estamos entre as 
+ 
+ 
+Aqui no RankMyApp você terá autonomia, vai poder errar, acertar, se desenvolver e principalmente crescer muito, e tudo isso com o melhor: tendo a liberdade de ser quem você realmente é.
+Aqui no RankMyApp você terá autonomia, vai poder errar, acertar, se desenvolver e principalmente crescer muito, e tudo isso com o melhor: tendo a liberdade de ser quem você realmente é.
+Quer fazer parte dessa revolução? Então se cadastra na oportunidade que mais tem a ver com seu perfil e daí é só torcer pro time de Talent Acquisition entrar em contato com você.
+Quer fazer parte dessa revolução? Então se cadastra na oportunidade que mais tem a ver com seu perfil e daí é só torcer pro time de Talent Acquisition entrar em contato com você.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Quais serão os principais desafios?
+Ser parte de uma equipe de alto desempenho, contribuindo diretamente para os resultados da empresa.
+Escrever códigos utilizando boas práticas de desenvolvimento, garantindo a simplicidade, eficiência, manutenibilidade e reaproveitamento de código;
+Propor melhorias, novas tecnologias e novas arquiteturas para nossas aplicações;
+Atuar ativamente em discussões e decisões do produto ajudando no direcionamento técnico;
+Auxiliar com padrões de design de código e melhores práticas de arquitetura e engenharia de software.
+Ajudar pessoas desenvolvedoras com menos experiência a encontrar soluções de problemas mais complexos, por vezes, quebrando em partes menores.
+Auxiliar com a sustentação de nossas aplicações em produção (resolução de bugs, monitoramento).
+Realizar reuniões de alinhamento com partes interessadas e o time para construir soluções.
+Trabalhar em equipe, aprender e ensinar, tendo boa comunicação e alinhamento com o time;
+REQUISITOS E QUALIFICAÇÕES
+O que o time busca?
+Graduação em cursos relacionados à computação, como Engenharia da Computação, Ciência da Computação ou área afim;
+Sólida experiência com desenvolvimento de aplicações Web modernas com as tecnologias: TypeScript, React.js e Node.js; 
+Sólida experiência em Design Architectural/Design de Sistemas;
+Experiência em Documentação, Criação de Fluxos e Diagramação;
+Experiência em gerenciador de estado no front-end (Redux, Recoil, ou Context API);
+Experiência em message brokers (RabbitMQ, SQS ou Apache Kafka);
+Experiência com banco de dados NoSQL e SQL (MongoDB , MySQL e Redis);
+Experiência em arquitetura distribuídas;
+Experiência em Cloud. (AWS, Google Cloud, Azure);
+Experiência com containers (Docker);
+Experiência com Git e GitHub;
+Experiência com APM (Newrelic, Datadog, etc), instrumentação de código e observabilidade;
+Conhecimento em Continuous Integration / Continuous Delivery (Github Workflows);
+Conhecimento com orquestrador de containers (Kubernetes, ECS);
+Para o match perfeito, seria legal se você tivesse:
+Foco em desenvolver soluções para os problemas diários.
+Experiência com metodologias ágeis (Kanban e Scrum).
+Experiência com styled-components ou Tailwind CSS;
+Conhecimento em outras linguagens como GoLang, Python.
+Conhecimento em WebSockets;
+Ter sede de conhecimento e buscar aprender com os outros desenvolvedores mais experientes;
+Conhecimento em Clean Code. Design Patterns e Design de Código(DDD, Arquitetura Hexagonal).
+INFORMAÇÕES ADICIONAIS
+O que nos comprometemos para desenvolver sua carreira:
+Promovemos autonomia e espaço para você se desenvolver; 
+Promovemos autonomia e espaço para você se desenvolver; 
+Ações de capacitações e feedbacks constantes;
+Ações de capacitações e feedbacks constantes;
+Ter liberdade de ser quem você é;
+Ter liberdade de ser quem você é;
+1:1s quinzenais com seu gestor;
+1:1s quinzenais com seu gestor;
+Plano de desenvolvimento individual; 
+Plano de desenvolvimento individual; 
+Avaliações 360° duas vezes por ano. 
+Avaliações 360° duas vezes por ano. 
+E para o seu bem-estar:
+🌎 Somos uma empresa Remoto First
+ Somos uma empresa Remoto First
+🍟 Vale Refeição (Benefício Flexível)
+🍟 Vale Refeição (Benefício Flexível)
+💻 Auxílio Home Office
+💻 Auxílio Home Office
+💆‍♀️ Descanso Remunerado
+💰 Décimo Terceiro
+🧑 Plano de Saúde (Comparticipação de 30%)
+🧑 Plano de Saúde (Comparticipação de 30%)
+🦷  Plano Dental (Sem comparticipação)
+🦷 
+ Plano Dental (Sem comparticipação)
+💙 Seguro de Vida
+💙 Seguro de Vida
+👶🏼 Auxílio creche
+👶🏼 Auxílio creche
+🍼 6 meses de Licença Maternidade
+🍼 6 meses de Licença Maternidade
+Guia de Cultura Ranker!
+Estamos comprometidos com o desenvolvimento e crescimento dos nossos Rankers, além de muita autonomia responsável, pautamos nossas relações e boas práticas, baseados em 6 valores; 
+Estamos comprometidos com o desenvolvimento e crescimento dos nossos Rankers, além de muita autonomia responsável, pautamos nossas relações e boas práticas, baseados em 6 valores; 
+Construímos Juntos: Confiamos em um time de pessoas incríveis, onde cada pessoas é responsável por criar a nossa jornada e juntos somos melhores.
+Confiamos em um time de pessoas incríveis, onde cada pessoas é responsável por criar a nossa jornada e juntos somos melhores.
+Somos Protagonistas: Trabalhamos com autonomia responsável e comprometimento, ser Ranker é isso! Construir como causa própria. 
+Trabalhamos com autonomia responsável e comprometimento, 
+ser Ranker é isso! Construir como causa própria. 
+Movidos por Resultados: Estruturamos resultados consistentes e tomamos decisões baseado em fatos e dados, nos desafiando a entregar mais e melhor.
+Estruturamos resultados consistentes e tomamos decisões baseado em fatos e dados, nos desafiando a entregar mais e melhor.
+Evoluímos Sempre: O aprendizado aqui é acelerado e constante enquanto nos divertimos com as descobertas! Desafiando nossa curiosidade.
+O aprendizado aqui é acelerado e constante enquanto nos divertimos com as descobertas! Desafiando nossa curiosidade.
+Somos Transparentes: Nosso ambiente é composto por pessoas que expressam ideias e são abertas a dar e receber feedbacks.
+Nosso ambiente é composto por pessoas que expressam ideias e são abertas a dar e receber feedbacks.
+Existimos pelo cliente: O problema do cliente seja interno ou externo, é antes de mais nada nosso problema! Tudo isso existe pelo cliente.
+O problema do cliente seja interno ou externo, é antes de mais nada nosso problema! Tudo isso existe pelo cliente.
+Curtiu a posição? Vem trabalhar conosco! 
+Curtiu a posição? Vem trabalhar conosco! 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista People/Tech2Entrevista People/Tech
+Etapa 2: Entrevista People/Tech
+2
+Entrevista People/Tech
+Etapa 3: Live Coding3Live Coding
+Etapa 3: Live Coding
+3
+Live Coding
+Etapa 4: Entrevista Final4Entrevista Final
+Etapa 4: Entrevista Final
+4
+Entrevista Final
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+#BEARANKER
+O RankMyApp é uma empresa que está revolucionando o mercado de Mobile Marketing! 
+O 
+é uma empresa que está revolucionando o mercado de Mobile Marketing! 
+ 
+ 
+Como? Através de muita tecnologia e colaboradores apaixonados pelo que fazem. Atualmente somos uma referência mundial na área de Mobile Marketing, estamos entre as três principais empresas de Mobile Intelligence do mundo.
+Como? Através de muita tecnologia e colaboradores apaixonados pelo que fazem. Atualmente somos uma referência mundial na área de Mobile Marketing, estamos entre as três principais empresas de Mobile Intelligence do mundo.
+ 
+ 
+Aqui no RankMyApp você terá autonomia, vai poder errar, acertar, se desenvolver e principalmente crescer muito, e tudo isso com o melhor: tendo a liberdade de ser quem você realmente é.
+Aqui no RankMyApp você terá autonomia, vai poder errar, acertar, se desenvolver e principalmente crescer muito, e tudo isso com o melhor: tendo a liberdade de ser quem você realmente é.
+Quer fazer parte dessa revolução? Então se cadastra na oportunidade que mais tem a ver com seu perfil e daí é só torcer pro time de Talent Acquisition entrar em contato com você.
+Quer fazer parte dessa revolução? Então se cadastra na oportunidade que mais tem a ver com seu perfil e daí é só torcer pro time de Talent Acquisition entrar em contato com você.
+CONHEÇA MAIS SOBRE O RANKMYAPP
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

@@ -1,0 +1,111 @@
+link_vaga-https://sinqia.gupy.io/job/eyJqb2JJZCI6Nzg2NzI0Mywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE DADOS JÚNIOR - QUITEJÁ
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Somos a QuiteJá (fintech curitibana do grupo Sinqia), criada por pessoas que querem transformar a negociação de dívidas no Brasil, por meio da digitalização e da humanização no atendimento. 💚  
+ 
+Nossa equipe é composta por pessoas cheias de energia ⚡ que se esforçam todos os dias para impactar e melhorar a sua vida. Nosso propósito é descomplicar a vida financeira dos brasileiros.
+ 
+Estamos em busca de um(a) Analista de Dados Júnior para fazer parte desse grande time 😎
+
+Por aqui valorizamos: 
+Por aqui valorizamos: 
+ 
+ 
+ Pessoas 
+ Pessoas 
+ Criatividade 
+ Criatividade 
+ Inovação 
+ Inovação 
+ Proatividade 
+ Proatividade 
+ Foco 
+ Foco 
+ Trabalho em equipe
+ Trabalho em equipe
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+• Utilizar a visualização de dados e estatística básica para elaborar e responder as perguntas das áreas/pessoas/clientes demandantes;
+Utilizar a visualização de dados e estatística básica para elaborar e responder as perguntas das áreas/pessoas/clientes demandantes;
+• Realizar consultas ad-hoc em bancos de dados e data warehouses (lakes e afins) através de linguagem SQL (obs.: linguagem imprescindível para quem ocupa o cargo);
+Realizar consultas ad-hoc em bancos de dados e data warehouses (lakes e afins) através de linguagem SQL (obs.: linguagem imprescindível para quem ocupa o cargo);
+• Construir e/ou aprimorar, sob demanda, relatórios estáticos e dashboards de BI;
+Construir e/ou aprimorar, sob demanda, relatórios estáticos e dashboards de BI;
+• Desenhar e avaliar o resultado de testes A/B em conjunto com equipes de negócios;
+Desenhar e avaliar o resultado de testes A/B em conjunto com equipes de negócios;
+• Desenhar e acompanhar novos indicadores de negócios;
+Desenhar e acompanhar novos indicadores de negócios;
+• Acompanhar metas e reportar sua evolução à área de negócios;
+Acompanhar metas e reportar sua evolução à área de negócios;
+• Acompanhar e participar de reuniões de análise de resultados e orçamento com o intuito de contribuir com visões do negócios, auxiliando a gestão na tomada de decisões;
+Acompanhar e participar de reuniões de análise de resultados e orçamento com o intuito de contribuir com visões do negócios, auxiliando a gestão na tomada de decisões;
+• Participar sempre que requisitado (como auxiliar ou  condutor do projeto) de reuniões de alinhamentos (com os solicitantes), especificações com times técnicos, acompanhamento de orçamento, criação de projetos pilotos e validação através de testes;
+Participar sempre que requisitado (como auxiliar ou  condutor do projeto) de reuniões de alinhamentos (com os solicitantes), especificações com times técnicos, acompanhamento de orçamento, criação de projetos pilotos e validação através de testes;
+• Minerar informações úteis para negócio;
+Minerar informações úteis para negócio;
+• Validar integridade do dado;
+Validar integridade do dado;
+• Monitorar cargas de dados e sinalizar eventuais inconsistências para área de Engenharia de Dados/Tecnologia;
+Monitorar cargas de dados e sinalizar eventuais inconsistências para área de Engenharia de Dados/Tecnologia;
+• Criar, propor e implementar novas visões, indicadores, análises que dê insights para o negócio;
+Criar, propor e implementar novas visões, indicadores, análises que dê insights para o negócio;
+• Analisar o conjunto de dados e a partir dele propor melhorias nas estratégias (sugerindo, implementando e monitorando resultados de testes A/B);
+Analisar o conjunto de dados e a partir dele propor melhorias nas estratégias (sugerindo, implementando e monitorando resultados de testes A/B);
+• Apresentar, sempre que relacionado ao objetivo do departamento, novas tecnologias, ferramentas de BI, linguagens e modelagens de dados que agreguem eficiência ao negócio.
+Apresentar, sempre que relacionado ao objetivo do departamento, novas tecnologias, ferramentas de BI, linguagens e modelagens de dados que agreguem eficiência ao negócio.
+REQUISITOS E QUALIFICAÇÕES
+Para dar #match, essa vaga necessita que atenda alguns requisitos obrigatórios:
+
+• Ensino superior completo (administração, gestão financeira, ou áreas afins);
+• Ter conhecimento intermediário de banco de dados (sql);
+• Ter bom conhecimento de MS Excel;
+• Ser organizado(a);
+• Perfil analítico, proativo e comunicativo;
+• Bom relacionamento interpessoal;
+• Ter senso de melhoria contínua.
+  
+📌IMPORTANTE: Essa oportunidade é para atuação no escritório da QUITEJÁ em CURITIBA-PR, modalidade PRESENCIAL. 😉
+
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista Cultura2Entrevista Cultura
+Etapa 2: Entrevista Cultura
+2
+Entrevista Cultura
+Etapa 3: Entrevista Técnica3Entrevista Técnica
+Etapa 3: Entrevista Técnica
+3
+Entrevista Técnica
+Etapa 4: Entrevista com Liderança4Entrevista com Liderança
+Etapa 4: Entrevista com Liderança
+4
+Entrevista com Liderança
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+A EMPRESA BRASILEIRA QUE FAZ O MERCADO FINANCEIRO PULSAR!
+Líder em softwares, inovação e uma das maiores provedoras de tecnologia e serviços para o setor financeiro. Oferecemos diversos softwares (Bancos, Fundos, Investimentos, Previdência, Consórcios e Meios de Pagamentos) e serviços (Outsourcing e consulting). Em constante crescimento, com mais de 20 aquisições e mais de 700 clientes, somos uma das empresas de tecnologia pioneiras.
+Líder em softwares, inovação e uma das maiores provedoras de tecnologia e serviços para o setor financeiro. Oferecemos diversos softwares (Bancos, Fundos, Investimentos, Previdência, Consórcios e Meios de Pagamentos) e serviços (Outsourcing e consulting). Em constante crescimento, com mais de 20 aquisições e mais de 700 clientes, somos uma das empresas de tecnologia pioneiras.
+ 
+Somos uma das empresas que mais crescem no Brasil e somos eleitos desde 2017 como uma das 100 maiores Fintechs do Mundo, de acordo com o International Data Corporation (IDC). 
+Somos uma das empresas que mais crescem no Brasil e somos eleitos desde 2017 como uma das 
+, de acordo com o International Data Corporation (IDC). 
+ 
+CONECTE-SE COM A GENTE E CONHEÇA MAIS NOSSO JEITO DE SER!
+Website
+LinkedIn
+Instagram

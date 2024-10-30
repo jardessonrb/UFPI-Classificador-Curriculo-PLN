@@ -1,0 +1,161 @@
+link_vaga-https://meliuz.gupy.io/job/eyJqb2JJZCI6Nzc5Nzk2Mywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA FULLSTACK SÊNIOR (VAGA REMOTA)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Somos uma marca global, certificada pelo ranking GPTW e comprometida em criar produtos, serviços e parcerias alinhadas à nossa Cultura. Estendemos o compromisso às pessoas colaboradoras, investindo no desenvolvimento e satisfação das pessoas Meliantez (ou pessoas que trabalham no Méliuz).
+Somos uma
+ e comprometida em criar produtos, serviços e parcerias alinhadas à nossa 
+. Estendemos o compromisso às pessoas colaboradoras, 
+(ou pessoas que trabalham no Méliuz).
+Temos orgulho de onde viemos e queremos contar para o mundo onde chegamos - e para onde iremos.
+Quer ver o seu trabalho impactar a vida de mais de 33 milhões de pessoas usuárias, atuar de qualquer parte do Brasil com horários flexíveis e outros benefícios exclusivos?
+Quer ver o 
+ com 
+ e outros benefícios exclusivos?
+Descubra mais detalhes sobre esta vaga e seja parte da nossa história!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Responsável pela a execução de tarefas de grande risco, grande impacto e alta complexidade técnica impactando não apenas os produtos de sua responsabilidade mas de outras áreas;Participa da definição de rumos tecnológicos e arquiteturais;Identifica e levanta riscos, possíveis impactos e atua na resolução desses problemas;Compartilha conhecimento, atua como revisor de atividades e mentora profissionais de menor senioridade;Comunica de forma clara, ajuda em priorizações e atua em situações de crise;Promover qualidade funcional e não funcional (performance, escalabilidade, resiliência, etc) em toda solução implementada.
+Responsável pela a execução de tarefas de grande risco, grande impacto e alta complexidade técnica impactando não apenas os produtos de sua responsabilidade mas de outras áreas;
+Participa da definição de rumos tecnológicos e arquiteturais;
+Identifica e levanta riscos, possíveis impactos e atua na resolução desses problemas;
+Compartilha conhecimento, atua como revisor de atividades e mentora profissionais de menor senioridade;
+Comunica de forma clara, ajuda em priorizações e atua em situações de crise;
+Promover qualidade funcional e não funcional (performance, escalabilidade, resiliência, etc) em toda solução implementada.
+REQUISITOS E QUALIFICAÇÕES
+Conhecimentos em linguagens e tecnologias como Python, Javascript/Typescript, Node.js, React Native e Redux;Experiência trabalhando com banco de dados relacionais e NoSQL;Experiência desenvolvendo e consumindo APIs com REST e gRPC;Experiência utilizando cache e serviços de mensageria;Arquitetura orientada a eventos e micros serviços;Experiência com testes automatizados e ambientes de CI/CD;Experiência implementando arquiteturas escaláveis em ambiente cloud, principalmente AWS.Familiaridade com a plataforma FirebaseVocê vai se destacar se tiver:Experiência trabalhando com containers e k8s;Experiência com ferramentas de monitoramento de sistemas críticos;Mentalidade de melhoria contínua, buscando sempre melhorar incrementalmente nossas aplicações, serviços e produtos;Ter uma participação ativa em comunidades, meetups e conferências da área;Vivência em equipes gerenciadas com métodos ágeis;Conhecimento em linguagens de aplicações mobile nativas;Conhecer com detalhes o fluxo de publicação de apps para App Store e Play Store.
+Conhecimentos em linguagens e tecnologias como Python, Javascript/Typescript, Node.js, React Native e Redux;
+Experiência trabalhando com banco de dados relacionais e NoSQL;
+Experiência desenvolvendo e consumindo APIs com REST e gRPC;
+Experiência utilizando cache e serviços de mensageria;
+Arquitetura orientada a eventos e micros serviços;
+Experiência com testes automatizados e ambientes de CI/CD;
+Experiência implementando arquiteturas escaláveis em ambiente cloud, principalmente AWS.
+Familiaridade com a plataforma Firebase
+VOCÊ VAI SE DESTACAR SE TIVER:
+Você vai se destacar se tiver:
+Experiência trabalhando com containers e k8s;
+Experiência com ferramentas de monitoramento de sistemas críticos;
+Mentalidade de melhoria contínua, buscando sempre melhorar incrementalmente nossas aplicações, serviços e produtos;
+Ter uma participação ativa em comunidades, meetups e conferências da área;
+Vivência em equipes gerenciadas com métodos ágeis;
+Conhecimento em linguagens de aplicações mobile nativas;
+Conhecer com detalhes o fluxo de publicação de apps para App Store e Play Store.
+INFORMAÇÕES ADICIONAIS
+Benefícios:🥗 Vale refeição / alimentação (R$60,00 por dia útil);🤩Plano de saúde;😁 Plano odontológico;⏰ Horário flexível;💰 Premiação por atingimento de metas coletivas;📚 Subsídio para treinamentos;🏊‍♀ Convênio com Sesc;🤑 Cashback online em dobro;🤰 Licença Maternidade/Paternidade estendida;💻 Ajuda de custo mensal para o teletrabalho;🪑 Reembolso de cadeira e mesa de escritório;  ✝ Auxílio luto.  ﻿MAIS IMPORTANTE AINDA:👩‍💻Todas as nossas vagas estão disponíveis para pessoas com deficiência!
+BENEFÍCIOS:
+Benefícios:
+🥗 Vale refeição / alimentação (R$60,00 por dia útil);
+🥗 Vale refeição / alimentação (R$60,00 por dia útil);
+🤩Plano de saúde;
+🤩Plano de saúde;
+😁 Plano odontológico;
+😁 Plano odontológico;
+⏰ Horário flexível;
+⏰ Horário flexível;
+💰 Premiação por atingimento de metas coletivas;
+💰 Premiação por atingimento de metas coletivas;
+📚 Subsídio para treinamentos;
+📚 Subsídio para treinamentos;
+🏊‍♀ Convênio com Sesc;
+🏊‍♀ Convênio com Sesc;
+🤑 Cashback online em dobro;
+🤑 Cashback online em dobro;
+🤰 Licença Maternidade/Paternidade estendida;
+🤰 Licença Maternidade/Paternidade estendida;
+💻 Ajuda de custo mensal para o teletrabalho;
+💻 Ajuda de custo mensal para o teletrabalho;
+🪑 Reembolso de cadeira e mesa de escritório;
+🪑 Reembolso de cadeira e mesa de escritório;
+  ✝ Auxílio luto.
+Auxílio luto.
+ 
+ 
+ 
+ 
+﻿MAIS IMPORTANTE AINDA:
+👩‍💻Todas as nossas vagas estão disponíveis para pessoas com deficiência!
+👩‍💻Todas as nossas vagas estão disponíveis para pessoas com deficiência!
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Entrevista com Recrutamento e Seleção3Entrevista com Recrutamento e Seleção
+Etapa 3: Entrevista com Recrutamento e Seleção
+3
+Entrevista com Recrutamento e Seleção
+Etapa 4: Avaliação Técnica4Avaliação Técnica
+Etapa 4: Avaliação Técnica
+4
+Avaliação Técnica
+Etapa 5: Entrevista com a liderança5Entrevista com a liderança
+Etapa 5: Entrevista com a liderança
+5
+Entrevista com a liderança
+Etapa 6: Entrevista de Cultura6Entrevista de Cultura
+Etapa 6: Entrevista de Cultura
+6
+Entrevista de Cultura
+Etapa 7: Proposta7Proposta
+Etapa 7: Proposta
+7
+Proposta
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+SOMOS MÉLIUZ
+No mercado desde 2011, o Méliuz é uma empresa global de tecnologia que conecta marcas a pessoas consumidoras, por meio de seu marketplace e da oferta de serviços financeiros.
+No mercado desde 2011, o Méliuz é uma empresa global de tecnologia que conecta marcas a pessoas consumidoras, por meio de seu marketplace e da oferta de serviços financeiros.
+ 
+ 
+Nascemos em Belo Horizonte (MG), crescemos estando em Manaus (AM) e hoje atuamos em 5 continentes, com o objetivo de estender os serviços do nosso ecossistema e a nossa Cultura aos quatro cantos do mundo. Atualmente, temos colaboradores em mais de 86 cidades (isso só no Brasil!).
+Nascemos em Belo Horizonte (MG), crescemos estando em Manaus (AM) e hoje atuamos em 5 continentes, com o objetivo de estender os serviços do nosso ecossistema e a nossa Cultura aos quatro cantos do mundo. Atualmente, temos colaboradores em mais de 86 cidades (isso só no Brasil!).
+ 
+ 
+Para nós, que nunca nos limitamos a nada, eliminar as barreiras geográficas foi só uma consequência por acreditarmos que nada é impossível. Por isso, hoje, mais do que nunca, podemos olhar no espelho e pensar: eu trabalho em uma empresa global, que vive e cresce em BH, Manaus, Goiânia, São Paulo, Cracóvia, Madrid...
+Para nós, que nunca nos limitamos a nada, eliminar as barreiras geográficas foi só uma consequência por acreditarmos que nada é impossível. Por isso, hoje, mais do que nunca, podemos olhar no espelho e pensar: eu trabalho em uma empresa global, que vive e cresce em BH, Manaus, Goiânia, São Paulo, Cracóvia, Madrid...
+ 
+ 
+Com esse novo posicionamento, esperamos atrair mais pessoas fora da curva para o nosso time. Por isso, a partir de agora, mais do que termos orgulho de onde viemos, precisamos contar aos quatro cantos do mundo onde chegamos - e foram muitos lugares - e para onde estamos indo.
+Com esse novo posicionamento, esperamos atrair mais pessoas fora da curva para o nosso time. Por isso, a partir de agora, mais do que termos orgulho de onde viemos, precisamos contar aos quatro cantos do mundo onde chegamos - e foram muitos lugares - e para onde estamos indo.
+ 
+ 
+Conheça a nossa Cultura e #VemSerMéliuz!
+Conheça a nossa Cultura e #VemSerMéliuz!
+ 
+ 
+🍃 Clientes Para Vida Toda: somos apaixonados pelos nossos clientes (pessoas usuárias e marcas parceiras) e trabalhamos para superar suas expectativas.
+: somos apaixonados pelos nossos clientes (pessoas usuárias e marcas parceiras) e trabalhamos para superar suas expectativas.
+🏆 Ganha-Ganha-Ganha: acreditamos que criar conexões que façam todo mundo ganhar mais é o único caminho para construir relações fortes e de longo prazo.
+: acreditamos que criar conexões que façam todo mundo ganhar mais é o único caminho para construir relações fortes e de longo prazo.
+💡 Equipe Fora Da Curva: Nosso time é formado por pessoas inteligentes, autodidatas e com sangue no olho, que dão raça e têm senso de urgência. Ficamos nervosos, mas não "nervosinhos”.
+: Nosso time é formado por pessoas inteligentes, autodidatas e com sangue no olho, que dão raça e têm senso de urgência. Ficamos nervosos, mas não "nervosinhos”.
+⛰️ Espírito Empreendedor: Nos comportamos como donos em todas as situações. Iniciativa é a virtude primária de um empreendedor e, por isso, assumimos riscos e somos parte da solução. 
+: Nos comportamos como donos em todas as situações. Iniciativa é a virtude primária de um empreendedor e, por isso, assumimos riscos e somos parte da solução. 
+❤️ Time que joga junto: Gostamos de pessoas bem humoradas e sentimos que estamos em casa. Apoiamos a diversidade e buscamos garantir que todas as pessoas se sintam respeitadas e representadas com equidade.
+: Gostamos de pessoas bem humoradas e sentimos que estamos em casa. Apoiamos a diversidade e buscamos garantir que todas as pessoas se sintam respeitadas e representadas com equidade.
+⭕ Priorize E Simplifique: Simples é sempre melhor. Entregar rápido e sempre. Errar rápido. Não tentar solucionar tudo ao mesmo tempo. Foco! Um teste bem feito vale mais que mil opiniões.
+: Simples é sempre melhor. Entregar rápido e sempre. Errar rápido. Não tentar solucionar tudo ao mesmo tempo. Foco! Um teste bem feito vale mais que mil opiniões.
+⭐ Nada É Impossível: Desafiamos os limites e queremos mudar o mundo. Gostamos de pessoas otimistas, persistentes e que deixam legado por onde passam.
+: Desafiamos os limites e queremos mudar o mundo. Gostamos de pessoas otimistas, persistentes e que deixam legado por onde passam.
+
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

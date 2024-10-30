@@ -1,0 +1,102 @@
+link_vaga-https://softplan.gupy.io/job/eyJqb2JJZCI6ODAxODM1Miwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA BACKEND .NET SR - CÓD. 8352
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Somos um dos maiores ecossistemas de Negócios SaaS do país e pioneiros na Transformação Digital do setor público. Especialista em simplificar complexidades e criar softwares que solucionam as principais dores dos setores que atuamos, assim, promovemos transformações fundamentais na vida das pessoas. 
+Somos um dos maiores ecossistemas de 
+ do país e pioneiros na 
+ do setor público. Especialista em simplificar complexidades e criar softwares que solucionam as principais dores dos setores que atuamos, assim, promovemos transformações fundamentais na vida das pessoas. 
+ 
+ 
+Possuímos um portfólio de mais de 19 marcas – essa posição é para atuar na solução SAJ Ministério Público. 
+Possuímos um portfólio de mais de 19 marcas – essa posição é para atuar na solução SAJ Ministério Público. 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Apoiar na manutenção e evolução da arquitetura de software ajudando a construir o back-end de sistemas e aplicações web com segurança, performance e alta disponibilidade através de códigos cobertos por testes e que sejam escaláveis, fáceis de manter, eficientes e elegantes;Aplicar os conceitos de Domain Driven Design (DDD) e Command Query Responsability Segregation (CQRS) nos projetos;Trabalhar com a cultura DevOps;Trabalhar em parceria com outros desenvolvedores, POs e gestão em busca do objetivo de construir e escalar novos produtos;Atuar em todas as etapas do fluxo de desenvolvimento até a validação da entrega que é feita por um profissional de produto.
+Apoiar na manutenção e evolução da arquitetura de software ajudando a construir o back-end de sistemas e aplicações web com segurança, performance e alta disponibilidade através de códigos cobertos por testes e que sejam escaláveis, fáceis de manter, eficientes e elegantes;
+Aplicar os conceitos de Domain Driven Design (DDD) e Command Query Responsability Segregation (CQRS) nos projetos;
+Trabalhar com a cultura DevOps;
+Trabalhar em parceria com outros desenvolvedores, POs e gestão em busca do objetivo de construir e escalar novos produtos;
+Atuar em todas as etapas do fluxo de desenvolvimento até a validação da entrega que é feita por um profissional de produto.
+REQUISITOS E QUALIFICAÇÕES
+Experiência sólida com a linguagem C# .NET 6 ou superior;Experiência de Arquitetura de Microsserviços;Experiência sólida com Git e GitLab;Experiência sólida com o desenvolvimento de APIs REST e GraphQL;Experiência sólida com desenvolvimento de testes unitários e de integração, e vivência com testes automatizados;Experiencia sólida com sistemas de mensageria como RabbitMQ ou Kafka;Experiencia em condução de análises utilizando a ferramenta SonarQube e ferramentas de monitoramento e observabilidade como Elastic;Experiência em design e desenvolvimento de arquiteturas de software escaláveis e de alta disponibilidade;Experiência com bancos de dados relacionais (Oracle e PostgreSQL);Conhecimento em ORMs de mercado;Experiência no uso de padrões de projeto, em princípios de design de código como SOLID.Você irá se destacar se tiver:Experiência com serviços de nuvem (AWS, Azure, GCP);Experiência com containers (Docker, Kubernetes);Conhecimento em testes automatizados utilizando Cypress.
+Experiência sólida com a linguagem C# .NET 6 ou superior;
+Experiência de Arquitetura de Microsserviços;
+Experiência sólida com Git e GitLab;
+Experiência sólida com o desenvolvimento de APIs REST e GraphQL;
+Experiência sólida com desenvolvimento de testes unitários e de integração, e vivência com testes automatizados;
+Experiencia sólida com sistemas de mensageria como RabbitMQ ou Kafka;
+Experiencia em condução de análises utilizando a ferramenta SonarQube e ferramentas de monitoramento e observabilidade como Elastic;
+Experiência em design e desenvolvimento de arquiteturas de software escaláveis e de alta disponibilidade;
+Experiência com bancos de dados relacionais (Oracle e PostgreSQL);
+Conhecimento em ORMs de mercado;
+Experiência no uso de padrões de projeto, em princípios de design de código como SOLID.
+Você irá se destacar se tiver:
+Experiência com serviços de nuvem (AWS, Azure, GCP);
+Experiência com containers (Docker, Kubernetes);
+Conhecimento em testes automatizados utilizando Cypress.
+INFORMAÇÕES ADICIONAIS
+Modelo de trabalho: Esta vaga aceita candidaturas no modelo de trabalho 100% remoto.
+Benefícios:
+Vale-alimentação/Vale-refeição; ​
+Plano de saúde e odontológico; ​
+Auxílio Home Office;
+Bônus anual por resultados; ​
+Voucher para Kit Setup;
+Seguro de vida;
+Day Off aniversário;
+Programa de promoção à saúde e bem-estar;​
+Parcerias e descontos.​
+Um dos nossos pilares é a valorização das pessoas e temos orgulho de dizer que somos uma empresa que apoia a diversidade e inclusão. Sendo assim, consideramos todos os candidatos para as nossas vagas, sem distinção de raça, cor, religião, gênero e identidade de gênero, nacionalidade, deficiência, orientação sexual, ascendência, idade, etc.​
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Mapeamento de Habilidades - Mindsight2Mapeamento de Habilidades - Mindsight
+Etapa 2: Mapeamento de Habilidades - Mindsight
+2
+Mapeamento de Habilidades - Mindsight
+Etapa 3: Entrevista com a Pessoa Recrutadora3Entrevista com a Pessoa Recrutadora
+Etapa 3: Entrevista com a Pessoa Recrutadora
+3
+Entrevista com a Pessoa Recrutadora
+Etapa 4: Excelência Técnica - Entrevista com a liderança4Excelência Técnica - Entrevista com a liderança
+Etapa 4: Excelência Técnica - Entrevista com a liderança
+4
+Excelência Técnica - Entrevista com a liderança
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+SOBRE NÓS
+Somos um dos maiores ecossistemas de negócios SaaS do país e pioneiros na transformação digital no setor público. Somos especialistas em simplificar complexidades ao criar softwares que solucionam as principais dores dos setores em que atuamos. A tecnologia e a inovação andam com o desenvolvimento de software.
+Somos um dos maiores 
+ 
+Nossos mais de 2.500 Softplayers apaixonados por tecnologia atuam diariamente para promover transformações fundamentais na vida de
+Nossos 
+milhares de pessoas que são beneficiadas por nossos produtos no Brasil e no mundo.
+ 
+Confiamos e valorizamos nosso time, pois todos e cada um de nós construímos a Softplan todos os dias.
+Confiamos e valorizamos nosso time, pois 
+Quer fazer parte dessa transformação com a gente? Vem ser Softplayer!
+Quer fazer parte dessa transformação com a gente? 
+!
+
+Quer saber mais como é trabalhar na Softplan? Nossa cultura, modelo de trabalho e negócio. 
+ Nossa cultura, modelo de trabalho e negócio. 
+Clique aqui 
+SAIBA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

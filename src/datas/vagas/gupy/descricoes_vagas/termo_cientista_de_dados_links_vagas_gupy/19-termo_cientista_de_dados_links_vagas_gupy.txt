@@ -1,0 +1,123 @@
+link_vaga-https://mjvcarreiras.gupy.io/job/eyJqb2JJZCI6Nzg0MzA5NSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA CIENTISTA DE DADOS
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+DESCRIÇÃO DA VAGA
+Ser MJVer 🤝 é estar em um dos melhores lugares para trabalhar.
+ 
+Nós sabemos que na construção de uma sociedade mais forte a evolução deve vir de dentro para fora. Por isso, um ambiente acolhedor e com o sentimento constante de pertencimento é fundamental para o crescimento individual e coletivo.
+ 
+O esforço é de todos nós, e as conquistas também. Porque ser um MJVer é bem mais do que ser um colaborador: é sobre fazer parte.
+ 
+Somos colaborativos, ágeis, plurais, criativos e inovadores. Somos MJV! 
+ 
+Saiba mais em Quem Somos: https://www.mjvinnovation.com/pt-br/quem-somos/
+RESPONSABILIDADES E ATRIBUIÇÕES
+Sobre o desafio:
+Como cientista de dados, você trabalhará com engenheiros de dados, designers, arquitetos e outros cientistas em squads multidisciplinares usando matemática, estatística e aprendizado de máquina para obter insights e conhecimento, a partir de dados brutos, para vários setores da indústria.
+Você estará ligado a uma empresa de atuação global e terá a oportunidade de trabalhar em projetos desafiadores em diversos setores da economia. É uma chance de aplicar todo seu conhecimento e experiência na solução de problemas complexos, gerando insights atraentes e impactantes para os nossos clientes.
+Usamos metodologias ágeis no desenvolvimento de nossas soluções e você trabalhará em todo o pipeline de dados usando o framework CRISP-DM, com a imersão nos processos do negócio e nos dados, aquisição, avaliação de qualidade e harmonização dos dados, desenvolvimento dos modelos e avaliação dos resultados apresentados. Além disso, terá a oportunidade de implantar modelos em produção usando as melhores práticas de MLOps, desde a extração dos dados em produção até os resultados previstos pela solução, passando pela criação e validação das métricas, monitoramento e avaliação dos modelos em produção.
+Esta é uma oportunidade de ser protagonista na transformação digital de grandes empresas.
+Pra gente dar #match ✅:
+-Habilidades analíticas e de resolução de problemas combinadas com a capacidade de desenvolver soluções criativas e eficientes.
+-Capacidade de trabalhar de forma colaborativa em um ambiente de equipe e de forma eficaz com pessoas em todos os níveis de uma organização.
+-Capacidade de comunicar ideias de forma mais eficaz, verbalmente e por escrito.
+-Capacidade de pensar de forma crítica.
+-Experiência em desenvolvimento de projetos de ciência de dados.
+-Experiência de comunicação e apresentação para clientes.
+REQUISITOS E QUALIFICAÇÕES
+Qualificações Necessárias:
+-Bacharelado em ciência da computação, engenharia de computação, engenharias, ou áreas relacionadas. 
+-Pós-graduação em ciência de dados (ou equivalente)
+-Mais de 3 anos de experiência no desenvolvimento de modelos de machine learning e ao menos 1 anos de experiência no desenvolvimento de -modelos de visão computacional;
+-Habilidades de programação em Python e SQL.
+-Domínio das bibliotecas NumPy, SciPy, Matplotlib, seaborn, Scikit-learn, Pandas, Keras, Tensorflow, Plotly.
+-Experiência com ETLs e construção de dashboards.
+-Domínio em modelagem estatística, técnicas de aprendizado de máquina, deep learning, otimização e algoritmos evolutivos
+-Conhecimentos de MLOps e experiência com deploy e monitoramento de modelos de machine learning.
+Qualificações que são um diferencial:
+-Mestrado em inteligência computacional (ou equivalente)
+-Doutorado em inteligência computacional (ou equivalente)
+-Experiência com previsão de demanda
+-Certificação cloud
+-Conhecimentos em Pytorch, langchain, gensim e NLTK
+-LLM, NLP e GAN 
+-Business English
+INFORMAÇÕES ADICIONAIS
+💪🏽 TotalPass;
+🍕 Vale Refeição;
+👨🏾‍ 🤝‍👩🏽‍🤝‍👩🏼 Seguro de vida em grupo;
+🏨 Plano de saúde e odontológico - Amil;
+🗣️ Grupos de idiomas;
+✈ People Mobility: damos uma forcinha para pessoas que tem interesse e disponibilidade de atuar em projetos desafiadores em outros estados e países;
+💻 Ações de treinamento: palestras, fóruns, trocas e conversas de conhecimentos relativos ao nosso negócio. Estamos em constante conexão para aprender mais e juntos;
+💲 Parcerias: quer desconto? Temos um grupo no Workplace onde divulgamos parcerias com instituições de ensino, escolas de idiomas, academias, restaurantes, produtos e outros serviços;
+👉 Programa +MJVer: programa interno de indicação onde você indica um colega para trabalhar conosco e se esse relacionamento der match, você ganha um prêmio;
+💡 Co-criação: conectamos talentos para gerar soluções completas. Colaboração está no nosso sangue.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem ⭐2Triagem ⭐
+Etapa 2: Triagem ⭐
+2
+Triagem ⭐
+Etapa 3: Entrevista com people team 💜3Entrevista com people team 💜
+Etapa 3: Entrevista com people team 💜
+3
+Entrevista com people team 💜
+Etapa 4: Entrevista técnica 👥4Entrevista técnica 👥
+Etapa 4: Entrevista técnica 👥
+4
+Entrevista técnica 👥
+Etapa 5: Entrevista com gestor/cliente 🎯5Entrevista com gestor/cliente 🎯
+Etapa 5: Entrevista com gestor/cliente 🎯
+5
+Entrevista com gestor/cliente 🎯
+Etapa 6: Envio de proposta 🎉6Envio de proposta 🎉
+Etapa 6: Envio de proposta 🎉
+6
+Envio de proposta 🎉
+Etapa 7: Dados pré-admissionais 🗃️7Dados pré-admissionais 🗃️
+Etapa 7: Dados pré-admissionais 🗃️
+7
+Dados pré-admissionais 🗃️
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+SOBRE A MJV
+A MJV é mais do que uma simples consultoria de tecnologia e inovação. Somos um grupo de mentes diversas, visionárias e determinadas, combinando design, dados e uma mentalidade ágil para oferecer soluções completas, que vão desde a concepção até a implementação de TI. 
+A 
+é mais do que uma simples consultoria de 
+e 
+. Somos um grupo de mentes diversas, visionárias e determinadas, combinando design, dados e uma mentalidade ágil para oferecer soluções completas, que vão desde a concepção até a implementação de TI. 
+Nosso legado começou há mais de 25 anos, com o propósito de ajudar empresas a prosperar em suas jornadas de transformação. A MJV é composta por um vasto grupo de pessoas que acreditam no trabalho colaborativo. Aplicamos o Design Thinking, as Metodologias Ágeis e a Sustentabilidade em todos os nossos projetos. A transformação digital também é um dos nossos pilares. Nossa equipe multidisciplinar é formada por designers, engenheiros, publicitários, antropólogos, cientistas de dados, desenvolvedores, empreendedores e muito mais. Também expandimos nossa presença global nas Américas e Europa (Estados Unidos, Inglaterra, França, Itália, Portugal e Colômbia) e abrimos um Laboratório de Inovação na UFRJ (Universidade Federal do Rio de Janeiro). 
+Nosso legado começou há mais de 
+, com o propósito de ajudar empresas a prosperar em suas jornadas de transformação. 
+A 
+é composta por um vasto grupo de pessoas que acreditam no trabalho colaborativo. Aplicamos o 
+, as 
+ e a 
+em todos os nossos projetos. A 
+também é um dos nossos pilares. Nossa 
+ é formada por designers, engenheiros, publicitários, antropólogos, cientistas de dados, desenvolvedores, empreendedores e muito mais. Também 
+expandimos nossa presença global nas 
+ (Estados Unidos, Inglaterra, França, Itália, Portugal e Colômbia) e abrimos um 
+ na UFRJ (Universidade Federal do Rio de Janeiro).
+ 
+Se você tem paixão por tecnologia, inovação e deseja fazer a diferença na vida de outras pessoas, venha fazer parte de um time com mais de 1.400 talentos espalhados pelo mundo para transformar negócios e moldar futuros. Fomos certificados com o selo Great Place to Work (GPTW) pelo segundo ano consecutivo.
+Se você tem paixão por tecnologia, inovação e deseja fazer a diferença na vida de outras pessoas, venha fazer parte de um time com mais de 1.400 talentos espalhados pelo mundo para transformar negócios e moldar futuros. Fomos certificados com o selo 
+ pelo segundo ano consecutivo.
+https://www.mjvinnovation.com/pt-br/
+https://www.mjvinnovation.com/pt-br/
+Website
+LinkedIn
+Facebook
+Instagram

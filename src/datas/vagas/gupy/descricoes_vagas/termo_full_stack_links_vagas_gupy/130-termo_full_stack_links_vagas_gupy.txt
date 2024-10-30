@@ -1,0 +1,122 @@
+link_vaga-https://livelotech.gupy.io/job/eyJqb2JJZCI6NzkwMzYwMiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA ANALISTA ENGENHARIA DE SISTEMAS SR - FULL STACK (TECH LEAD)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Se você procura uma empresa com ambiente inovador e desafiador, que incentiva criatividade e autonomia para ultrapassar barreiras e conquistar resultados, você poderá juntar-se ao nosso time de #LoucosPorPontos! As nossas soluções de incentivos e fidelização incluem centenas de milhares de produtos e serviços, e os nossos profissionais são parte central do ecossistema da Livelo – verdadeiros agentes realizadores da nossa visão: somamos felicidade às escolhas do dia a dia para oferecer, para cada pessoa, a melhor recompensa.
+
+Buscamos profissionais engajados e estrategistas, que sonham alto e fazem acontecer para colecionar sucessos com o nosso time :)
+
+Todas nossas vagas abertas são para todas as pessoas independente de gênero, idade, etnia, raça, orientação sexual ou deficiência.
+
+Missão do cargo
+Como parte do time de Engenharia de Software, sua missão é atuar no desenvolvimento e manutenibilidade dos serviços, participando das decisões técnicas e estratégicas no desenvolvimento de produtos B2C com ênfase no Shopping Livelo.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Construir soluções de desenvolvimento de software com foco no e-commerce - Shopping Livelo;Construir e possuir visão clara de todo o ciclo de desenvolvimento de software;Apoiar nas decisões técnicas e estratégicas, avaliando os riscos e impactos das soluções (resiliência, performance, escalabilidade, segurança, etc);Participar da construção e validação das soluções desenvolvidas garantindo boa comunicação e clareza nos processos;Trabalhar junto ao time na construção, definição e execução de cenários de testes do produto;Estabelecer e promover práticas de desenvolvimento ágil, incentivando a colaboração, feedback contínuo e melhoria contínua;Monitorar e analisar métricas de desempenho, identificando oportunidades de otimização e aprimoramento do sistema;Cultivar um ambiente de trabalho inclusivo e colaborativo, incentivando a diversidade e o trabalho em equipe garantindo as entregas;Proatividade e dinamismo para com o time, apoiando na solução de problemas de alta complexidade.
+Construir soluções de desenvolvimento de software com foco no e-commerce - Shopping Livelo;
+Construir e possuir visão clara de todo o ciclo de desenvolvimento de software;
+Apoiar nas decisões técnicas e estratégicas, avaliando os riscos e impactos das soluções (resiliência, performance, escalabilidade, segurança, etc);
+Participar da construção e validação das soluções desenvolvidas garantindo boa comunicação e clareza nos processos;
+Trabalhar junto ao time na construção, definição e execução de cenários de testes do produto;
+Estabelecer e promover práticas de desenvolvimento ágil, incentivando a colaboração, feedback contínuo e melhoria contínua;
+Monitorar e analisar métricas de desempenho, identificando oportunidades de otimização e aprimoramento do sistema;
+Cultivar um ambiente de trabalho inclusivo e colaborativo, incentivando a diversidade e o trabalho em equipe garantindo as entregas;
+Proatividade e dinamismo para com o time, apoiando na solução de problemas de alta complexidade.
+REQUISITOS E QUALIFICAÇÕES
+ Ensino superior em Ciências da Computação, Engenharia, Sistemas da Informação ou áreas correlatas; Experiência com desenvolvimento Backend e Frontend em uma das linguagens de programação (Java ou Node ou Kotlin | React ou React Native ou Next); Experiência com agilidade (Scrum, Kanban); Experiência em soluções Cloud (preferência - AWS); Experiência com Git, Docker, Kubernets; Experiência com ferramentas e práticas de observabilidade e troubleshooting de aplicações; Experiência com desenvolvimento de arquitetura distribuídas, resilientes, escaláveis e de alta performance;Habilidade para comunicar claramente com a equipe, a gerência e outras partes interessadas;Capacidade de traduzir conceitos técnicos para linguagem compreensível junto com o PO; Pensamento analítico para identificar e resolver problemas complexos; Definição e acompanhamento de indicadores e resultados chaves.
+ Ensino superior em Ciências da Computação, Engenharia, Sistemas da Informação ou áreas correlatas;
+ Experiência com desenvolvimento Backend e Frontend em uma das linguagens de programação (Java ou Node ou Kotlin | React ou React Native ou Next);
+ Experiência com agilidade (Scrum, Kanban);
+ Experiência em soluções Cloud (preferência - AWS);
+ Experiência com Git, Docker, Kubernets;
+ Experiência com ferramentas e práticas de observabilidade e troubleshooting de aplicações;
+ Experiência com desenvolvimento de arquitetura distribuídas, resilientes, escaláveis e de alta performance;
+Habilidade para comunicar claramente com a equipe, a gerência e outras partes interessadas;
+Capacidade de traduzir conceitos técnicos para linguagem compreensível junto com o PO;
+ Pensamento analítico para identificar e resolver problemas complexos;
+ Definição e acompanhamento de indicadores e resultados chaves.
+INFORMAÇÕES ADICIONAIS
+O QUE OFERECEMOS?
+Alelo Alimentação e Alelo Refeição;
+Benefícios de mobilidade para modelo de trabalho híbrido (Vale Transporte, Reembolso de fretado, Vale combustível e Pedágio);
+Alelo Cultura;
+Previdência Privada;
+PPR;
+Assistência Médica e Odontológica Bradesco Saúde;
+Auxílio creche/babá;
+Zenklub;
+Gympass/Wellhub;
+Seguro de Vida;
+Premiações com Pontos Livelo, além de descontos em nossos produtos;
+Incentivo Educação (pós-graduação, MBA e cursos de inglês) após 1 ano de empresa;
+Day Off para o colaborador no mês do aniversário e meio day off no aniversário do filho(a);
+Happy Friday (nas sextas-feiras saímos 1h mais cedo) e Summer Dreams (e nas sextas-feiras de verão, 4h mais cedo);
+Espaço massagem, manicure e barbearia;
+Cafés e frutas no escritório;
+Programa de Reconhecimento;
+Ambiente de trabalho criativo, desafiador e descontraído reconhecido como uma das melhores empresas para se trabalhar pela GPTW 2024;
+Possibilidade de vaga remota para profissionais que residam há mais de 100km da Livelo.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Teste | Lógica 2Teste | Lógica 
+Etapa 2: Teste | Lógica 
+2
+Teste | Lógica 
+Etapa 3: Teste | Inglês3Teste | Inglês
+Etapa 3: Teste | Inglês
+3
+Teste | Inglês
+Etapa 4: Bate-papo | Talent Acquisition4Bate-papo | Talent Acquisition
+Etapa 4: Bate-papo | Talent Acquisition
+4
+Bate-papo | Talent Acquisition
+Etapa 5: Whiteboard | Avaliação técnica5Whiteboard | Avaliação técnica
+Etapa 5: Whiteboard | Avaliação técnica
+5
+Whiteboard | Avaliação técnica
+Etapa 6: Bate-papo | Gerente6Bate-papo | Gerente
+Etapa 6: Bate-papo | Gerente
+6
+Bate-papo | Gerente
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+< OLÁ, SOMOS O TIME DE TECH DA LIVELO! /> 💻
+Nosso ecossistema é formado por pessoas apaixonadas por inovação, tecnologia e conhecimento. Por aqui, entregamos um produto que conectam os nossos clientes às melhores recompensas. Para que isso aconteça, contamos com #Livelolovers que não medem esforços para #jogarjunto! 
+Nosso ecossistema é formado por pessoas apaixonadas por
+Por aqui, entregamos um produto que conectam os nossos clientes às melhores recompensas. Para que isso aconteça, contamos com 
+ que não medem esforços para 
+! 
+Vivemos em um mundo diverso, ágil, volátil e nossa rotina é repleta de desafios, em um espaço seguro para criar e aprender com erros e acertos, sempre buscando evoluir continuamente. Nos tratamos com respeito, transparência e empatia. Somos #LoucosPorGente e fomentamos o protagonismo de cada um. Por isso, a Carreira em Y faz parte da nossa realidade, valorizando cada trajetória de acordo com suas escolhas e competências de destaque. 
+Vivemos em um mundo diverso, ágil, volátil e nossa rotina é repleta de desafios, em um espaço seguro para criar e aprender com erros e acertos, sempre buscando evoluir continuamente. Nos tratamos com respeito, transparência e empatia. Somos
+ e fomentamos o protagonismo de cada um. Por isso, a 
+ faz parte da nossa realidade, valorizando cada trajetória de acordo com suas escolhas e competências de destaque. 
+Gostamos de flexibilidade, prezamos por qualidade de vida e temos liberdade para nos expressar, questionamos informações e damos feedbacks construtivos a todos. Nossos benefícios são compatíveis e estamos sempre pensando em como proporcionar as melhores experiências. Somos guardiões da nossa cultura e sabemos que isso é responsabilidade de todos que estão por aqui. 
+Gostamos de
+ prezamos por qualidade de vida e temos 
+ para nos expressar, questionamos informações e damos 
+ a todos. Nossos benefícios são compatíveis e estamos sempre pensando em como proporcionar as melhores experiências. Somos guardiões da nossa cultura e sabemos que isso é responsabilidade de todos que estão por aqui. 
+Confira um pouco das ferramentas que utilizamos: Ambiente cloud, Python, Java, AWS, Kubernetes, Design System, Data Studio, Slack entre outras. 
+Confira um pouco das ferramentas que utilizamos: Ambiente cloud, Python, Java, AWS, Kubernetes, Design System, Data Studio, Slack entre outras. 
+Agora, dê uma olhada em nossas vagas! Estamos te esperando para fazer parte do momento mais incrível da sua carreira!
+Agora, dê uma olhada em nossas vagas! 
+Conheça mais da nossa comunidade tech aqui  👩‍💻 
+Conheça mais da nossa comunidade tech
+ 👩‍💻 
+CONFIRA NOSSO DIA A DIA NAS REDES 😎
+Website
+LinkedIn
+Instagram
+Glassdoor

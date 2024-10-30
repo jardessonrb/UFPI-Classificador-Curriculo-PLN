@@ -1,0 +1,131 @@
+link_vaga-https://viasoft.gupy.io/job/eyJqb2JJZCI6Nzg4MDQ3MCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR FULL STACK JAVA PLENO - TECNOLOGIA
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A Tecnologia sendo o motor propulsor de inovaçôes e evoluções:
+
+Desenvolver soluções inovadoras baseadas nas melhores tecnologias e boas práticas do mercado com propósito de potencializar a gestão empresarial sempre foi a missão da Viasoft e também é o propósito do time de tecnologia. O time de tecnologia trabalha para proporcionar aumento de produtividade e competitividade para os demais times da VIASOFT bem como para otimizar e criar inovações e evoluções tecnológicas para nossos clientes.
+Desenvolver soluções inovadoras baseadas nas melhores tecnologias e boas práticas do mercado com propósito de potencializar a gestão empresarial sempre foi a missão da Viasoft e também é o propósito do time de tecnologia. O time de tecnologia trabalha para proporcionar aumento de produtividade e competitividade para os demais times da VIASOFT bem como para otimizar e criar inovações e evoluções tecnológicas para nossos clientes.
+Full Stack Java Pleno
+Este profissional possui experiência sólida em desenvolvimento Front-End com Angular e/ou React, além de ter boas noções de backend. É esperado que tenha um bom entendimento de tecnologias e metodologias relacionadas a desenvolvimento web moderno, incluindo lógica, estruturas de dados, e práticas de UI/UX. Além de dominar as tecnologias utilizadas, o profissional pleno contribui ativamente para o desenvolvimento do projeto e participa de discussões técnicas, colaborando com os demais membros da equipe.
+Esse profissional deve priorizar a qualidade das suas entregas, ter foco, concentração, raciocínio lógico e capacidade de resolver problemas de complexidade média. Deve possuir senso crítico, buscando a melhoria contínua dos processos e metodologias de desenvolvimento para aumentar a produtividade. A busca por aprendizado contínuo é importante, e ele deve estar disposto a colaborar e solicitar suporte à equipe sempre que necessário.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver interfaces de usuário eficientes, responsivas e de alta qualidade, seguindo práticas de código limpo.Criar soluções focadas em eficiência, escalabilidade e estabilidade, com supervisão e suporte do time, para garantir o crescimento do software.Cumprir prazos acordados para a entrega de atividades, demonstrando responsabilidade e autonomia crescente.Colaborar com os demais desenvolvedores do time, fornecendo suporte e orientação de acordo com o seu nível de experiência.Participar de reuniões e discussões técnicas, contribuindo com ideias e soluções práticas, sempre com foco na melhoria contínua.Colaborar com equipes multidisciplinares para entender requisitos e contribuir no desenvolvimento de soluções que atendam às necessidades do negócio.
+Desenvolver interfaces de usuário eficientes, responsivas e de alta qualidade, seguindo práticas de código limpo.
+Criar soluções focadas em eficiência, escalabilidade e estabilidade, com supervisão e suporte do time, para garantir o crescimento do software.
+Cumprir prazos acordados para a entrega de atividades, demonstrando responsabilidade e autonomia crescente.
+Colaborar com os demais desenvolvedores do time, fornecendo suporte e orientação de acordo com o seu nível de experiência.
+Participar de reuniões e discussões técnicas, contribuindo com ideias e soluções práticas, sempre com foco na melhoria contínua.
+Colaborar com equipes multidisciplinares para entender requisitos e contribuir no desenvolvimento de soluções que atendam às necessidades do negócio.
+REQUISITOS E QUALIFICAÇÕES
+Experiência com Angular e/ou React.Bom entendimento de JavaScript, TypeScript, HTML e CSS.Noções de desenvolvimento back-end com Java ou tecnologias semelhantes.Conhecimento em integração com APIs RESTful.Experiência com ferramentas de controle de versão (GIT).Familiaridade com metodologias de testes unitários e integração contínua.Conhecimento em práticas de Clean Code e Design Patterns.Experiência básica com sistemas de build e automação, como Webpack e NPM.Experiência com design responsivo e boas práticas de UI/UX.Conhecimento introdutório em containers Docker e orquestração com Kubernetes (desejável).Familiaridade com sistemas operacionais Linux.Conhecimento em bancos de dados relacionais e noções de bancos de dados não-relacionais, preferencialmente MySQL.
+Experiência com Angular e/ou React.
+Bom entendimento de JavaScript, TypeScript, HTML e CSS.
+Noções de desenvolvimento back-end com Java ou tecnologias semelhantes.
+Conhecimento em integração com APIs RESTful.
+Experiência com ferramentas de controle de versão (GIT).
+Familiaridade com metodologias de testes unitários e integração contínua.
+Conhecimento em práticas de Clean Code e Design Patterns.
+Experiência básica com sistemas de build e automação, como Webpack e NPM.
+Experiência com design responsivo e boas práticas de UI/UX.
+Conhecimento introdutório em containers Docker e orquestração com Kubernetes (desejável).
+Familiaridade com sistemas operacionais Linux.
+Conhecimento em bancos de dados relacionais e noções de bancos de dados não-relacionais, preferencialmente MySQL.
+INFORMAÇÕES ADICIONAIS
+Essa oportunidade de carreira só faz sentido para quem:
+
+É apaixonado pela área de tecnologia e almejar construir uma carreira sólida na área de desenvolvimento; 
+É apaixonado pela área de tecnologia e almejar construir uma carreira sólida na área de desenvolvimento; 
+Preza pela excelência, busca um código estável, confiável e de fácil manutenção;
+Preza pela excelência, busca um código estável, confiável e de fácil manutenção;
+Tem uma atitude flexível, que goste de desafios e busque aprendizado constantemente; 
+Tem uma atitude flexível, que goste de desafios e busque aprendizado constantemente; 
+É obcecado por evolução e conhecimento;
+É obcecado por evolução e conhecimento;
+Quer ser protagonista na sua carreira profissional;
+Quer ser protagonista na sua carreira profissional;
+Busca ser eficaz nas atividades, realizando com agilidade, mas também com a acabativa necessária para desenvolver e entregar suas demandas;
+Busca ser eficaz nas atividades, realizando com agilidade, mas também com a acabativa necessária para desenvolver e entregar suas demandas;
+É organizado, realizando as atividades diárias planejadas conforme estimado;
+É organizado, realizando as atividades diárias planejadas conforme estimado;
+É aberto a dar e receber feedbacks (escuta feedbacks, busca por feedbacks, apresenta plano de melhoria pró-ativamente).
+É aberto a dar e receber feedbacks (escuta feedbacks, busca por feedbacks, apresenta plano de melhoria pró-ativamente).
+Trabalhando conosco você terá acesso:
+
+Vale alimentação ou refeição - Você escolhe!
+Vale alimentação ou refeição - Você escolhe!
+Auxílio transporte;
+Auxílio transporte;
+Plano de saúde;
+Plano de saúde;
+Plano odontológico;
+Plano odontológico;
+Auxílio pós graduação de 70% da mensalidade;
+Auxílio pós graduação de 70% da mensalidade;
+Auxílio a cursos online;
+Auxílio a cursos online;
+Cadastro nas plataformas educacionais Alura e DevMedia; 
+Cadastro nas plataformas educacionais Alura e DevMedia; 
+Seguro de vida;
+Seguro de vida;
+Sendo Home Office Full Time haverá auxílio financeiro para os custos;
+Sendo Home Office Full Time haverá auxílio financeiro para os custos;
+Prêmio indicação;
+Prêmio indicação;
+Eventos constantes de desenvolvimento técnico e comportamental;
+Eventos constantes de desenvolvimento técnico e comportamental;
+Gestão de carreira estruturado;
+Gestão de carreira estruturado;
+Programa de análise de desempenho;
+Programa de análise de desempenho;
+Feedbacks e Plano de Desenvolvimento Individual;
+Feedbacks e Plano de Desenvolvimento Individual;
+Programa de mentoria. 
+Programa de mentoria. 
+Super importante: Se você atende os requisitos e vê sentido em fazer parte do nosso time, isso é tudo o que importa! Aqui procuramos pessoas com capacidade e vontade de transformar, de serem protagonistas, independente do lugar que reside, idade, raça, cor, religião, ser PcD, identidade de gênero ou orientação sexual. Seu perfil e valores condizem com os nossos? Então venha fazer parte da VIASOFT!
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista por Competências2Entrevista por Competências
+Etapa 2: Entrevista por Competências
+2
+Entrevista por Competências
+Etapa 3: Avaliação Comportamental3Avaliação Comportamental
+Etapa 3: Avaliação Comportamental
+3
+Avaliação Comportamental
+Etapa 4: Teste Técnico 4Teste Técnico 
+Etapa 4: Teste Técnico 
+4
+Teste Técnico 
+Etapa 5: Dados para Contratação5Dados para Contratação
+Etapa 5: Dados para Contratação
+5
+Dados para Contratação
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+SOBRE A VIASOFT
+A VIASOFT é especialista em todos os segmentos que atua, o que a torna a escolha mais inteligente às empresas que buscam evolução, inovação e desenvolvimento.
+Somos um time com valores construídos ao longo de mais de 30 anos. Temos uma cultura de resultados, reconhecimento, crescimento e celebrações muito bem consolidada e cheia de orgulho, que chamamos de “DNA VIASOFT". Trabalhamos com foco no sucesso do cliente, inconformismo construtivo e propósitos bem definidos, possuímos uma cultura de aprendizagem e queremos sempre realizar mais.
+Venha realizar mais com a gente!
+Nós acreditamos que os clientes são a razão central da existência dos negócios e da nossa empresa. Que através da superação das expectativas dos clientes advém a capacidade de gerar riquezas. Que primar pela excelência das soluções contribui para que nossos clientes rompam barreiras e realizem mais. Que pessoas comprometidas, dotadas do senso de coesão e cooperação, são a chave para o cumprimento de nossos propósitos. E que o sucesso da nossa empresa é a mola propulsora do crescimento de todos que orbitam seu entorno.
+Nossa missão é fornecer soluções completas, alinhadas e orientadas às melhores práticas de gestão empresarial, para que os nossos clientes realizem mais.
+Nossa visão é ser a escolha mais inteligente para ações de evolução e inovação em gestão empresarial.
+CONECTE-SE COM A GENTE:
+Website
+LinkedIn
+Facebook
+Instagram

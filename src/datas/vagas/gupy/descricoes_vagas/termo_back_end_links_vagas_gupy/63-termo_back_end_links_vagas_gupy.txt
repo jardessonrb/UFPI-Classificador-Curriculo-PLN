@@ -1,0 +1,70 @@
+link_vaga-https://incentivar.gupy.io/job/eyJqb2JJZCI6NzQxNzUwMiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR BACK END PLENO/SÊNIOR
+Tipo de vaga: Pessoa jurídicaPessoa jurídica
+Tipo de vaga: Pessoa jurídica
+Pessoa jurídica
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Estamos em busca de um Analista Desenvolvedor Back-end Pleno/Sênior para se juntar à nossa equipe. Nesta posição, você desempenhará um papel crucial no planejamento, desenvolvimento e implementação de códigos de alta qualidade utilizando Node.js, tudo isso enquanto trabalha em estreita colaboração com equipes interdisciplinares para aprimorar e personalizar nosso produto.
+Estamos em busca de um Analista Desenvolvedor Back-end Pleno/Sênior para se juntar à nossa equipe. Nesta posição, você desempenhará um papel crucial no planejamento, desenvolvimento e implementação de códigos de alta qualidade utilizando Node.js, tudo isso enquanto trabalha em estreita colaboração com equipes interdisciplinares para aprimorar e personalizar nosso produto.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Sólida experiência em desenvolvimento com Node.js, incluindo Next.js, TypeScript;Sólida experiência com bancos relacionais e não relacionais e modelagem de dados;Experiência em metodologias ágeis, como Scrum, Kanban ou Lean, e capaz de se adaptar a mudanças rápidas nos requisitos da demanda. Você fará parte de uma equipe ágil e contribuirá para o sucesso dentro desse contexto;Habilidades sólidas em testes de unidade, testes de integração e testes de aceitação, juntamente com o uso de ferramentas de testes. Você será responsável por garantir a qualidade do código produzido e pela detecção precoce de bugs;Deve ser capaz de colaborar eficazmente com equipes interdisciplinares, trabalhando em estreita colaboração com designers, desenvolvedores back-end, Product Manager, Product Owner e outros membros da organização;Ter a capacidade de identificar e resolver problemas de maneira eficaz, além de otimizar o desempenho do Produto;Sólida experiência com boas práticas de programação, clean code e arquitetura;Sólida experiência com AWS Cloud e seus serviços, incluindo AWS Lambda, AWS Steps Functions;Ter habilidades de comunicação eficaz para colaborar com a equipe e relatar o progresso do trabalho.
+Sólida experiência em desenvolvimento com Node.js, incluindo Next.js, TypeScript;
+Sólida experiência com bancos relacionais e não relacionais e modelagem de dados;
+Experiência em metodologias ágeis, como Scrum, Kanban ou Lean, e capaz de se adaptar a mudanças rápidas nos requisitos da demanda. Você fará parte de uma equipe ágil e contribuirá para o sucesso dentro desse contexto;
+Habilidades sólidas em testes de unidade, testes de integração e testes de aceitação, juntamente com o uso de ferramentas de testes. Você será responsável por garantir a qualidade do código produzido e pela detecção precoce de bugs;
+Deve ser capaz de colaborar eficazmente com equipes interdisciplinares, trabalhando em estreita colaboração com designers, desenvolvedores back-end, Product Manager, Product Owner e outros membros da organização;
+Ter a capacidade de identificar e resolver problemas de maneira eficaz, além de otimizar o desempenho do Produto;
+Sólida experiência com boas práticas de programação, clean code e arquitetura;
+Sólida experiência com AWS Cloud e seus serviços, incluindo AWS Lambda, AWS Steps Functions;
+Ter habilidades de comunicação eficaz para colaborar com a equipe e relatar o progresso do trabalho.
+REQUISITOS E QUALIFICAÇÕES
+Desejáveis:
+Experiência com documentações utilizando o Confluence;
+Familiaridade com leitura de logs e monitoramento;
+Proficiência em AWS Cloud e conhecimento em Git Actions.
+INFORMAÇÕES ADICIONAIS
+Pra apoiar seu dia a dia:
+Benefício (Cartão Ifood Benefícios): R$ 850,00 por mês
+Pra desenvolver sua carreira:
+• Programa de educação corporativa;
+• Avaliação de Desempenho;
+• Trilha de carreira estruturada;
+• Treinamentos frequentes;
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista com People2Entrevista com People
+Etapa 2: Entrevista com People
+2
+Entrevista com People
+Etapa 3: Entrevista técnica3Entrevista técnica
+Etapa 3: Entrevista técnica
+3
+Entrevista técnica
+Etapa 4: Entrevista com Head4Entrevista com Head
+Etapa 4: Entrevista com Head
+4
+Entrevista com Head
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+SOMOS A INCENTIVAR!
+A Incentivar é um software de incentivo e premiação que nasceu para ajudar as empresas a baterem mais metas, usando seus dados de forma estratégica e inteligente. Nosso app está nas mãos de mais de 20 mil colaboradores de grandes empresas como Colgate, Mondelez, Cola-Cola FEMSA, Stellantis e entre outras.
+O produto da Incentivar é um SaaS, criado em 2019, e que vem sendo reconhecido pelo mercado como a solução de incentivo mais completa e versátil do país. Como primeira Incentivetech da América Latina, atuamos desde a apuração de dados e insights de performance até o acompanhamento de metas gamificadas. Além disso, nosso app conta com um hub de premiação com resgates financeiros e um marketplace com milhares de prêmios. E para o alto nível de engajamento na plataforma, atuamos com uma agência interna de comunicação que faz qualquer campanha de incentivo brilhar.
+Somos uma startup de rápido crescimento, baseada em inovação, tecnologia e criatividade. Nosso foco sempre esteve e sempre estará nas pessoas. Apostar no protagonismo de quem faz tudo acontecer é parte do nosso DNA. Por isso, a Incentivar é uma empresa inclusiva que preza pela diversidade dentro de seus quadros, inclusive nas lideranças.
+Somos acelerados por diversos selos de grande reconhecimento no mercado como o Boostlab do Banco BTG Pactual e o Cubo Itaú, onde respiramos inovação e estamos sempre em troca com as empresas mais disruptivas do mercado brasileiro.
+Venha com a Incentivar construir o Incentivo Inteligente!
+CONHEÇA MAIS SOBRE NÓS!
+Website
+LinkedIn
+Instagram

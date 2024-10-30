@@ -1,0 +1,115 @@
+link_vaga-https://bmg.gupy.io/job/eyJqb2JJZCI6Nzk4MTk1Miwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE ENGENHARIA DE DADOS PLENO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Há mais de 90 anos, o Banco Bmg vem construindo uma trajetória de conquistas, onde o cliente é o protagonista. ​
+Há mais de 90 anos, o Banco Bmg vem construindo uma trajetória de conquistas, onde o cliente é o protagonista. ​
+Somos campeões na oferta de consignado, proporcionando acesso ao crédito com juros mais baixos a milhões de brasileiros. Contamos com agências, franquias e um aplicativo, onde milhões de clientes acessam um mundo de soluções financeiras, na palma da mão. Além disso, possuímos a maior rede de correspondentes bancários do país, contribuindo para o placar de crescimento econômico local e espalhando oportunidades por todo o território nacional.​
+Somos campeões na oferta de consignado, proporcionando acesso ao crédito com juros mais baixos a milhões de brasileiros. Contamos com agências, franquias e um aplicativo, onde milhões de clientes acessam um mundo de soluções financeiras, na palma da mão. Além disso, possuímos a maior rede de correspondentes bancários do país, contribuindo para o placar de crescimento econômico local e espalhando oportunidades por todo o território nacional.​
+​
+​
+Aqui no Bmg, nós vestimos a camisa e nos dedicamos para executar cada jogada com excelência, com um jeito todo nosso de ser e de fazer negócios, o Jeito Bmg.​
+Aqui no Bmg, nós vestimos a camisa e nos dedicamos para executar cada jogada com excelência, com um jeito todo nosso de ser e de fazer negócios, o Jeito Bmg.​
+Trabalhamos para promover uma cultura diversa, que busca a equidade, valorizando as diferentes perspectivas. Isso se traduz em Gênero, Religião, Pessoas com Deficiência, LGBTQIAP+, acima dos 50 anos, Etnia e diversidade de experiências, tornando o nosso ambiente mais inclusivo e respeitoso, buscando cada vez mais aumentar a pluralidade dos times.
+Trabalhamos para promover uma cultura diversa, que busca a equidade, valorizando as diferentes perspectivas. Isso se traduz em Gênero, Religião, Pessoas com Deficiência, 
+ Etnia e diversidade de experiências, tornando o nosso ambiente m
+RESPONSABILIDADES E ATRIBUIÇÕES
+Analisar, criar e implantar juntamente com analytics/áreas de negócios datasets para acompanhamento de produtos;Desenvolver estrutura de informações e dados, inclusive, com integração de dados estruturados com não estruturados;Preparar datamarts/DW utilizando melhores práticas de modelagem multidimensional;Disponibilizar e integração de dados atuando como vínculo entre equipes de TI, DS e Analytics;Utilizar novas tecnologias implementadas relacionadas a área;Realizar definições de arquiteturas e soluções técnicas dos projetos;Atuar na coleta, combinação e disponibilização de dados.
+Analisar, criar e implantar juntamente com analytics/áreas de negócios datasets para acompanhamento de produtos;
+Desenvolver estrutura de informações e dados, inclusive, com integração de dados estruturados com não estruturados;
+Preparar datamarts/DW utilizando melhores práticas de modelagem multidimensional;
+Disponibilizar e integração de dados atuando como vínculo entre equipes de TI, DS e Analytics;
+Utilizar novas tecnologias implementadas relacionadas a área;
+Realizar definições de arquiteturas e soluções técnicas dos projetos;
+Atuar na coleta, combinação e disponibilização de dados.
+REQUISITOS E QUALIFICAÇÕES
+Experiência em AWS (EKS, EC2, S3, EMR).Experiência na construção de pipelines usando sistemas distribuídos, como Hadoop, Spark, etc;Experiência com ferramentas de orquestração de fluxo de dados (Airflow, Luigi e etc);Experiência em Desenvolvimento e modelagem de Data Warehouse e ambientes em Cloud (AWS, GCP, etc);Experiência em arquitetura e processos de cargas para DataLake;Experiência em Tunning e performance de Querys;Experiência em integrações de Dados via API´s (Google, Facebook, Zendesk e etc);Experiência em Extração e tratamento de Dados não estruturados;Proficiência em nível avançado nas linguagens Python, Java, Scala ou similar;DiferencialExperiência com criação de ferramentas para modularização de processos de dadosExperiencia com Infra EKS
+Experiência em AWS (EKS, EC2, S3, EMR).
+Experiência na construção de pipelines usando sistemas distribuídos, como Hadoop, Spark, etc;
+Experiência com ferramentas de orquestração de fluxo de dados (Airflow, Luigi e etc);
+Experiência em Desenvolvimento e modelagem de Data Warehouse e ambientes em Cloud (AWS, GCP, etc);
+Experiência em arquitetura e processos de cargas para DataLake;
+Experiência em Tunning e performance de Querys;
+Experiência em integrações de Dados via API´s (Google, Facebook, Zendesk e etc);
+Experiência em Extração e tratamento de Dados não estruturados;
+Proficiência em nível avançado nas linguagens Python, Java, Scala ou similar;
+Diferencial
+Experiência com criação de ferramentas para modularização de processos de dados
+Experiencia com Infra EKS
+INFORMAÇÕES ADICIONAIS
+ Benefícios, saúde e bem-estar
+Plano de saúde sem mensalidade e Telemedicina;
+Plano odontológico;
+Vale Refeição e Alimentação;
+Seguro de vida;
+Previdência privada;
+Remuneração variável anual (bônus) competitivo;
+PPR - Programa de Participação nos Resultados;
+Vale transporte;
+Bicicletário e vestiário;
+Auxílio creche;
+Auxílio internet;
+Programas de qualidade de vida;
+Ambulatório;
+Programa da Gestante e Lactário;
+Licença Maternidade e Paternidade estendida;
+Psicologia Viva - Sessões de terapia online gratuita;
+PAP - Programa de assessoria financeira, jurídica e psicológica;
+Gympass - Desconto em academias;
+Frutas todos os dias;
+Day Off de Aniversário;
+Não temos Dress Code;
+Modelo híbrido de trabalho.
+E aí? Quer vestir a camisa e brilhar em campo com um banco presente na vida de milhões de brasileiros e reconhecido como um dos melhores lugares para se trabalhar?
+ 
+#VamosPraCima
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Entrevista com RH3Entrevista com RH
+Etapa 3: Entrevista com RH
+3
+Entrevista com RH
+Etapa 4: Entrevista com Líder4Entrevista com Líder
+Etapa 4: Entrevista com Líder
+4
+Entrevista com Líder
+Etapa 5: Carta proposta 5Carta proposta 
+Etapa 5: Carta proposta 
+5
+Carta proposta 
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+POR QUE ESCOLHER O BMG PARA SUA CARREIRA?
+VENHA FAZER PARTE DO BANCO BMG!
+Estamos sempre em busca de pessoas que se identifiquem com a nossa cultura e que estejam prontas para contribuir com o sucesso do Banco Bmg. Com 94 anos de história, somos apaixonados por entregar o melhor para nossos clientes, que são o centro de tudo o que fazemos!
+No Bmg, lideramos o mercado de crédito consignado, oferecendo crédito acessível a milhões de brasileiros. Com a maior rede de correspondentes bancários do país, impulsionamos o crescimento econômico local e levamos oportunidades para todo o Brasil.
+ 
+Educação e Desenvolvimento: Nossa Paixão pela Carreira das Pessoas
+ 
+Acreditamos que o desenvolvimento dos nossos colaboradores é essencial para o nosso sucesso. Por isso, oferecemos uma plataforma educacional, que disponibiliza acesso a graduação, pós-graduação, cursos de idiomas, cursos livres e mentorias. No Banco BMG, o aprendizado contínuo faz parte da nossa cultura!
+Diversidade e Inclusão: Acreditamos que a diversidade nos fortalece. Promovemos um ambiente de trabalho inclusivo, onde você pode ser quem você é e trazer o melhor de si. Valorizamos as diferenças e acreditamos que elas são fundamentais para o nosso sucesso.
+ 
+TRABALHE CONOSCO BMG: CONFIRA NOSSAS REDES SOCIAIS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

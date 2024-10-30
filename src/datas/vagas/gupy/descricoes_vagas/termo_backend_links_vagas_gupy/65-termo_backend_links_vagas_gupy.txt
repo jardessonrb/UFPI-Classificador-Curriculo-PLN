@@ -1,0 +1,104 @@
+link_vaga-https://solutis.gupy.io/job/eyJqb2JJZCI6Nzg3MzQwMiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR(A) BACKEND PYTHON SR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Estamos em busca de alguém como você, que deseja iniciar uma nova jornada na área de desenvolvimento de Software para impactar pessoas, clientes e sociedade. Nós, da Solutis, temos um desafio apaixonante, com o melhor ecossistema de uma Agile Company.
+Estamos com a posição de Desenvolvedor(a) Backend Senior que envolve criatividade, proatividade, desenvolvimento ágil e que permite compartilhamento constante de conhecimentos. Somos um mundo plural, que promove um ambiente descontraído de verdade, flexível e focado no desenvolvimento humano e profissional para que você possa exercer a sua singularidade.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Você estará em uma squad de Engenharia de Segurança da Informação autogerenciada que atende às demandas de transformação da companhia e será responsável por integrar práticas de segurança no ciclo de desenvolvimento de software, garantindo a proteção de aplicações, ambientes de nuvem e containers. Atuará na implementação de soluções de segurança, automação de processos e na colaboração com equipes de desenvolvimento para mitigar vulnerabilidades. 
+Como será seu dia a dia: (Atividades que vai realizar)
+• Irá atuar junto ao time de Engenharia / Segurança de aplicação na democratização da segurança utilizando os conceitos de desacoplamento de serviço; 
+• Participará efetivamente de cerimonias, discussões, apoio nas tomadas de decisões e resolução de conflitos. 
+• Será responsável por assegurar a qualidade e segurança de serviços de segurança e no Ciclo de desenvolvimento de Software; 
+• Negociação, suporte e treinamento 
+REQUISITOS E QUALIFICAÇÕES
+Pra mandar bem nessa oportunidade você precisa manjar das tecnologias: (Conhecimentos técnicos obrigatórios)
+Experiência em desenvolvimento de software com foco em segurança;
+• Experiência comprovada em Shell Script e Python, Java (desejável);
+• Experiência em DevSecOps (SAST, SCA, DAST, IAST);
+• Experiência em automações e desacoplamento de serviços;
+• Experiência com práticas de Application Security, Cloud Security e Container Security;
+• Ferramentas de escaneamento de containers (ex: Clair, Trivy), ferramentas de CI/CD com foco em segurança (ex: Jenkins, GitLab CI). 
+• Plataformas de Nuvem: AWS, Azure ou GCP, com foco em segurança. 
+• Containers e Orquestração: Docker, Kubernetes, incluindo práticas de hardening e segurança. 
+• Frameworks e Padrões de Segurança: OWASP, CIS Benchmarks, NIST, ISO 27001. 
+Vai ser bom se você também tiver: (Conhecimentos técnicos desejáveis, que serão um diferencial)
+• Experiência com metodologia Agile/Scrum;
+• Conhecimento em segurança de APIs e microserviços;
+• Familiaridade com ferramentas de monitoramento e logging;;
+O que não abrimos mão: (Soft Skills)
+• Pensamento em soluções desacopladas: Compreender a arquitetura e aplicá-la da melhor forma; 
+• Proatividade: Iniciativa para identificar e resolver problemas antes que impactem os sistemas. 
+• Adaptabilidade: Capacidade de se adaptar rapidamente a novas tecnologias e mudanças de ambiente. 
+• Atenção aos Detalhes: Precisão na implementação de soluções e na configuração de ferramentas. 
+• Trabalho em Equipe: Colaboração eficaz com diferentes equipes e stakeholders. 
+• Orientação para Resultados: Foco em entregar soluções que agreguem valor e melhorem a eficiência operacional. 
+• Pensamento Crítico: Capacidade de analisar situações complexas e tomar decisões informadas. 
+INFORMAÇÕES ADICIONAIS
+Para esta posição oferecemos:
+Salário CLT Full;
+Vale Refeição ou Alimentação (Alelo);
+Vale Transporte (sempre que houver o deslocamento);
+Auxílio Home Office (proporcional aos dias em que atuará nesta modalidade);
+Assistência Médica Sulamérica;
+Assistência Odontológica Sulamérica;
+Seguro de Vida;
+Parcerias (Curso de idiomas, ensino, livraria, restaurante, entre outras);
+Gympass;
+Allya;
+Day Off;
+Premiação por indicações;
+Inside Out (Ocorre todas as sextas-feiras. Evento da galera voltado para troca de conhecimento);
+Oportunidade de crescimento profissional.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem de Perfil2Triagem de Perfil
+Etapa 2: Triagem de Perfil
+2
+Triagem de Perfil
+Etapa 3: Entrevista RH3Entrevista RH
+Etapa 3: Entrevista RH
+3
+Entrevista RH
+Etapa 4: Entrevista e Prova Técnica4Entrevista e Prova Técnica
+Etapa 4: Entrevista e Prova Técnica
+4
+Entrevista e Prova Técnica
+Etapa 5: Entrevista Gestor5Entrevista Gestor
+Etapa 5: Entrevista Gestor
+5
+Entrevista Gestor
+Etapa 6: Entrevista com Cliente6Entrevista com Cliente
+Etapa 6: Entrevista com Cliente
+6
+Entrevista com Cliente
+Etapa 7: Carta Proposta7Carta Proposta
+Etapa 7: Carta Proposta
+7
+Carta Proposta
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+A SOLUTIS É DIGITAL!
+Somos apaixonados por tecnologia e esse valor está presente em nossas ações e proposta de trabalho. Ambiente descontraído e criativo, horário flexível, possibilidade de trabalho home office, eventos e programas internos com games... Isso faz parte do nosso dia-a-dia.
+Engajamento, busca intensa por conhecimento, empatia e criatividade são a nossa receita para cultivar e colher, sempre, o melhor resultado tecnológico.
+Essa é a Solutis, flexível, acolhedora, inquieta, amante da tecnologia e de tudo que ela nos proporciona de mais incrível.
+Venha fazer parte do nosso time!
+CONHEÇA A SOLUTIS
+Website
+LinkedIn
+Facebook
+Instagram

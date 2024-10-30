@@ -1,0 +1,112 @@
+link_vaga-https://webmotors.gupy.io/job/eyJqb2JJZCI6Nzc2MDE3NCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR BACKEND SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Aqui na Webmotors, o(a) Back-end precisa ser curioso(a) e gostar de interagir com pessoas, principalmente com clientes (internos e externos), além do próprio time. Somos responsáveis por definir as melhores práticas de desenvolvimento de back-end, escolha de linguagens e padrões de desenvolvimento. Identificar riscos, trabalhar junto com o time na discussão das histórias até definirmos a melhor solução de negócio e técnica. Trabalhar muito próximo a liderança técnica e o time de arquitetura de softwares para garantirmos a sustentabilidade técnica dos produtos.... Em resumo, precisa ser dinâmico(a), não ficar sentado na cadeira e fazer as coisas acontecerem. Precisa ser decisivo(a) e incisivo(a) nas discussões sempre dando seu pitaco no que acredita ser o melhor caminho ou a melhor solução, o foco é o desenvolvimento ágil de soluções e a sustentabilidade das APIs.
+RESPONSABILIDADES E ATRIBUIÇÕES
+·      Desenvolvimento de novas aplicações;
+·      Desenvolvimento de novas funcionalidades do(s) produto(s) do time;
+·      Manutenção e evolução de aplicações existentes;
+·      Propõe solução técnica;
+·       Monitoramento do produto;
+·      Garantir as boas práticas de desenvolvimento, escalabilidade, segurança e performance;
+·       Realiza CodeReview;
+·      Atuar em equipes multidisciplinares.
+·      Desenvolver mentoria técnica com outros membros do time. 
+·      Desenvolve/participa do desenvolvimento das principais atividades do time;
+·      Propõe soluções de acordo com a necessidade de negócio;
+·      Desenvolve as atividades de acordo com as necessidades dos clientes;
+·      Estabelece relações de confiança com o time/pares;
+·      Ensina e compartilha conhecimento com o time/pares/chapter;
+·      Resolve os problemas do time/pares;
+·      Se comunicar de forma clara, saber se expressar, inteligível, fazer com que os interlocutores entendam;
+·      Influência na priorização das atividades de desenvolvimento;
+·      Demonstrar senso crítico técnico e de processos/comportamental;
+·      Bom relacionamento, postura profissional;
+·      Flexível e aberto a mudanças (processos, time, código);
+·      Estar atualizado com as novidades tecnológicas do mercado;
+·      Acompanhar/conhecer e disseminar as metas da empresa alinhando-as com as tarefas do dia a dia.
+REQUISITOS E QUALIFICAÇÕES
+·      Conhecimento avançado em lógica de programação;
+·      Conhecimento avançado em linguagens de programação, se preocupando em manter a performance, segurança e escalabilidade do ambiente na qual o time trabalha (C#, .Net Core, Node);
+·      Conhecimento intermediário em Cloud, dando sustentação e sugerindo melhorias para o time que trabalha (AWS: CloudFront, CloudFormation, Route53, EC2, ECS, S3, SQS/SNS, API Gateway e Lambda);
+·      Conhecimento avançado de querys, para aplicação performática e escalável (Uso de join correto, substituição de subselects e etc);
+·      Desenvolvimento intermediário de testes de aplicação (TDD,BDD,testes unitários);
+·      Conhecimento básico em aplicações de monitoria e observabilidade (Sonar, New Relic, CloudWatch, Kibana,Grafana);
+·      Utilização de metodologias ágeis (Scrum, Kanban, Lean).
+INFORMAÇÕES ADICIONAIS
+Benefícios:
+VR, VA, Assistência Médica, Assistência Odontológica, Seguro de Vida, Gympass, Licença Maternidade/Paternidade estendida.
+Aqui na Webmotors respeito e inclusão fazem parte dos nossos itens de série. Acreditamos que as diferenças somam e por isso, #diversidade é um de nossos pilares. Então, candidaturas de pessoas #pretas, #mulheres, #PCD, #LGBTQIA+ e #melhoridade são muito bem-vindas! ;)
+Estamos há 27 anos na estrada e fomos a primeira startup brasileira a inovar na forma de comprar e vender carros e motos. Nesses anos, não paramos de acelerar e evoluímos para muuuuito além dos classificados! Contamos com acionistas super estratégicos e robustos, o Grupo Santander e australiana Car Sales, e juntos criamos um ecossistema de soluções, uma vez que queremos estar com os nossos clientes ao longo da sua jornada de compra, venda e uso de veículos.
+ 
+Hoje somos líderes de mercado e o ecossistema mais completo do segmento! Mas fica tranquilo, porque o que não falta é combustível para acelerar ainda mais. Com uma visão consolidada, nós queremos ganhar o mundo (e já estamos acelerando nesse percurso).
+ 
+Somos um time de pilotos movido pela inovação e pelo entusiasmo. Ninguém gosta de mesmice e o nosso motor é um v8 pulsante com mais de 200 cavalos. Aceleramos juntos pelo mesmo objetivo, afinal aqui ninguém é passageiro!
+ 
+Na Web a gente une o melhor de dois mundos: a inovação e fluidez de uma startup, e a solidez financeira de um grande banco. E as 6 marchas que nos guiam no dia a dia, para mudar, crescer, melhorar e fazer mais, são: diversidade, excelência, empatia, ousadia, transparência e inconformismo.
+ 
+E você? Também acredita que a criatividade, inovação e a mobilidade podem nos levar mais longe?
+ 
+Então aperta o cinto e bora pisar fundo, porque aqui é do melhor jeito. O seu jeito! ;)
+
+Aqui na Webmotors respeito e inclusão fazem parte dos nossos itens de série. Acreditamos que as diferenças somam e por isso, #diversidade é um de nossos pilares. Então, candidaturas de pessoas #pretas, #mulheres, #PCD, #LGBTQIA+ e #melhoridade são muito bem-vindas! ;)
+Aqui na Webmotors respeito e inclusão fazem parte dos nossos itens de série. Acreditamos que as diferenças somam e por isso, #diversidade é um de nossos pilares. Então, candidaturas de pessoas #pretas, #mulheres, #PCD, #LGBTQIA+ e #melhoridade são muito bem-vindas! ;)
+Estamos há 27 anos na estrada e fomos a primeira startup brasileira a inovar na forma de comprar e vender carros e motos. Nesses anos, não paramos de acelerar e evoluímos para muuuuito além dos classificados! Contamos com acionistas super estratégicos e robustos, o Grupo Santander e australiana Car Sales, e juntos criamos um ecossistema de soluções, uma vez que queremos estar com os nossos clientes ao longo da sua jornada de compra, venda e uso de veículos.
+ 
+Hoje somos líderes de mercado e o ecossistema mais completo do segmento! Mas fica tranquilo, porque o que não falta é combustível para acelerar ainda mais. Com uma visão consolidada, nós queremos ganhar o mundo (e já estamos acelerando nesse percurso).
+ 
+Somos um time de pilotos movido pela inovação e pelo entusiasmo. Ninguém gosta de mesmice e o nosso motor é um v8 pulsante com mais de 200 cavalos. Aceleramos juntos pelo mesmo objetivo, afinal aqui ninguém é passageiro!
+ 
+Na Web a gente une o melhor de dois mundos: a inovação e fluidez de uma startup, e a solidez financeira de um grande banco. E as 6 marchas que nos guiam no dia a dia, para mudar, crescer, melhorar e fazer mais, são: diversidade, excelência, empatia, ousadia, transparência e inconformismo.
+ 
+E você? Também acredita que a criatividade, inovação e a mobilidade podem nos levar mais longe?
+ 
+Então aperta o cinto e bora pisar fundo, porque aqui é do melhor jeito. O seu jeito! ;)
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista Técnica2Entrevista Técnica
+Etapa 2: Entrevista Técnica
+2
+Entrevista Técnica
+Etapa 3: Entrevista Presencial Gestor3Entrevista Presencial Gestor
+Etapa 3: Entrevista Presencial Gestor
+3
+Entrevista Presencial Gestor
+Etapa 4: Contratação4Contratação
+Etapa 4: Contratação
+4
+Contratação
+A WEBMOTORS
+Aqui na Webmotors respeito e inclusão fazem parte dos nossos itens de série. Acreditamos que as diferenças somam e por isso, #diversidade é um de nossos pilares. Então, candidaturas de pessoas #pretas, #mulheres, #PCD, #LGBTQIA+ e #melhoridade são muito bem-vindas! ;)
+Aqui na Webmotors respeito e inclusão fazem parte dos nossos itens de série. Acreditamos que as diferenças somam e por isso, #diversidade é um de nossos pilares. Então, candidaturas de pessoas #pretas, #mulheres, #PCD, #LGBTQIA+ e #melhoridade são muito bem-vindas! ;)
+Estamos há 29 anos na estrada e fomos a primeira startup brasileira a inovar na forma de comprar e vender carros e motos. Nesses anos, não paramos de acelerar e evoluímos para muuuuito além dos classificados! Contamos com acionistas super estratégicos e robustos, o Grupo Santander e australiana Car Sales, e juntos criamos um ecossistema de soluções, uma vez que queremos estar com os nossos clientes ao longo da sua jornada de compra, venda e uso de veículos.
+ 
+Hoje somos líderes de mercado e o ecossistema mais completo do segmento! Mas fica tranquilo, porque o que não falta é combustível para acelerar ainda mais. Com uma visão consolidada, nós queremos ganhar o mundo (e já estamos acelerando nesse percurso).
+ 
+Somos um time de pilotos movido pela inovação e pelo entusiasmo. Ninguém gosta de mesmice e o nosso motor é um v8 pulsante com mais de 200 cavalos. Aceleramos juntos pelo mesmo objetivo, afinal aqui ninguém é passageiro!
+ 
+Na Web a gente une o melhor de dois mundos: a inovação e fluidez de uma startup, e a solidez financeira de um grande banco. E as 6 marchas que nos guiam no dia a dia, para mudar, crescer, melhorar e fazer mais, são: diversidade, excelência, empatia, ousadia, transparência e inconformismo.
+ 
+E você? Também acredita que a criatividade, inovação e a mobilidade podem nos levar mais longe?
+ 
+Então aperta o cinto e bora pisar fundo, porque aqui é do melhor jeito. O seu jeito! ;)
+CONHEÇA UM POUCO MAIS A GENTE :)
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor
+VALORES WEBMOTORS

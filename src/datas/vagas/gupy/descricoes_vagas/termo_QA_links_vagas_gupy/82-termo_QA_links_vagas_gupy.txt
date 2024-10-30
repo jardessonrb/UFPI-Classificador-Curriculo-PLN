@@ -1,0 +1,83 @@
+link_vaga-https://cobistopaz.gupy.io/job/eyJqb2JJZCI6NzYyNzkxMiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+QA ANALYST - ANALISTA DE PRUEBAS
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+En nuestra organización estamos totalmente comprometidos en contribuir a las soluciones financieras que hagan de la industria un lugar seguro, accesible y dinámico. Queremos llegar a diferentes partes del mundo con nuestro amplio ecosistema de soluciones tecnológicas. ¡Así que te invitamos a que seas parte de este equipo!😎
+¡Además tenemos grandes beneficios para ti! Sabemos que en conjunto alcanzaremos el éxito, así que postúlate y haz parte de este gran Team.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Tu día a día en Topaz:
+• Atender y verificar el funcionamiento de los productos COBIS, existentes o nuevos en los clientes de la empresa. 
+• Colaborar en la definición de las estrategias de prueba.
+• Diseñar casos y guiones de pruebas del sistema.
+• Mantener las herramientas de seguimiento debidamente diligenciadas.
+• Sugerir mejoras funcionales y de usabilidad
+• Validar y garantizar el cumplimiento de los criterios de aceptación de las historias de usuario de cada sprint.
+• Ejecutar y documentar los guiones de prueba en el sistema de acuerdo con la planificación
+• Reportar Errores detectados en los procesos de prueba.
+• Certificar corrección de errores reportados tanto por el mismo como por el cliente externo.
+• Colaborar con el equipo para el cumplimiento de los compromisos
+• Generar informes sobre la ejecución de pruebas para seguimiento.
+• Elaborar y/o mantener actualizada documentación funcional de módulos COBIS: manuales de usuario, manuales de procedimientos, guías de usuario.
+• Dar soporte a los módulos COBIS a clientes internos y externos en procesos de implantación.
+REQUISITOS E QUALIFICAÇÕES
+¿Qué necesitas para ser parte de Topaz?
+• Formación académica: Profesional graduado en carreras afines al sector financiero
+• Experiencia laboral: Dos (2) años de experiencia profesional de los cuales dos (2) años en pruebas de aplicativos en el sector financiero
+• Habilidades para trabajo en equipo colaborativo y gestión.
+• Manejo de procesos de documentación.
+• Manejo de usuario final
+Conocimiento en:
+• Metodologías Agiles
+• Conocimientos básicos en sentencias SQL.
+Deseable:
+• Certificación ISTQB
+INFORMAÇÕES ADICIONAIS
+¡Ten en cuenta estos beneficios que mejorarán tu experiencia en Topaz!
+Salud y Bienestar: Porque pensamos en nuestros equipos, contamos con diferentes planes de salud, los cuales están enfocados en promover el bienestar en la organización.
+Desarrollo personal y profesional: Estamos en constante evolución. Por esto, ofrecemos entornos, programas y políticas que garantizan el espacio y las oportunidades necesarias para ti🎓 Ruta de carrera.
+Modalidad Hibrida: Aquí encontrarás el tiempo que necesitas para recargar energías, además podrás disfrutar de un día libre en tu cumpleaños🥳 Modalidad de trabajo híbrido.
+Convenios: Ofrecemos diferentes convenios y descuentos.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Interview Topaz2Interview Topaz
+Etapa 2: Interview Topaz
+2
+Interview Topaz
+Etapa 3: Test3Test
+Etapa 3: Test
+3
+Test
+Etapa 4: Fit Cultural4Fit Cultural
+Etapa 4: Fit Cultural
+4
+Fit Cultural
+Etapa 5: Team Interview5Team Interview
+Etapa 5: Team Interview
+5
+Team Interview
+Etapa 6: Job Offer6Job Offer
+Etapa 6: Job Offer
+6
+Job Offer
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+SOMOS LA MAYOR EMPRESA DE TECNOLOGÍA ESPECIALIZADA EN SOLUCIONES FINANCIERAS DIGITALES DE LATINOAMÉRICA.
+Estamos revolucionando el mercado financiero con Topaz One, la primera plataforma fullbanking del mundo, que permite a las entidades financieras evolucionar sus negocios y llegar cada vez más lejos.   
+  
+Somos más de 1600 profesionales apasionados por la tecnología, trabajando en un ambiente multicultural y diverso. La especialización, experiencia y espíritu innovador de nuestro equipo, se unen para crear soluciones que están transformando la forma en que las personas interactúan con el dinero.   
+  
+Creemos que el éxito se construye sobre una base sólida de colaboración y respeto. Aquí, cada voz cuenta y todas las personas tienen la oportunidad de ser auténticas. Fomentamos un ambiente donde el orgullo por nuestras personas y la pasión por la tecnología son el motor que nos impulsa a continuar haciendo la diferencia.

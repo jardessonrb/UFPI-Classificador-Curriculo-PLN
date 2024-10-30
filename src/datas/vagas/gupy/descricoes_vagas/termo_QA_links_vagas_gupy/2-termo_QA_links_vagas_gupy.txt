@@ -1,0 +1,103 @@
+link_vaga-https://db.gupy.io/job/eyJqb2JJZCI6ODAxMjI2Mywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+QA AUTOMAÇÃO PL/SR - SEGMENTO DE ANÁLISE DE CRÉDITO & INTELIGÊNCIA FINANCEIRA
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+O que vamos construir juntos?
+Nessa posição, você fará parte de um time que atende uma grande conta do segmento financeiro. Nosso cliente atua fortemente com metodologias ágeis e é muito focado na qualidade das entrega
+RESPONSABILIDADES E ATRIBUIÇÕES
+Nos ajude a desenhar a solução!
+Se você ama o mundo da qualidade de software, é uma pessoa que curte regras de negócio e automação de testes, você está muito próxima de fazer parte deste time! 
+REQUISITOS E QUALIFICAÇÕES
+Requisitos para se candidatar a vaga:
+Experiência sólida com Cypress para automação de testes end-to-end, com foco em testes de interface de usuário (UI) e de integração.
+Conhecimento em JavaScript ou TypeScript para escrita de testes no Cypress.
+Familiaridade com Kafka para integração e validação de mensagens em sistemas distribuídos.
+Rest Assured ou Postman para automação de testes de APIs RESTful.
+Vivência em automação de testes para plataformas móveis (Android e iOS), utilizando ferramentas complementares quando necessário.
+Conhecimento em frameworks de testes como jUnit ou TestNG.
+Experiência prática com GitLab para versionamento de código e integração contínua.
+Habilidade em configurar e gerenciar pipelines de CI/CD, integrando o Cypress com ferramentas como Jenkins ou GitLab CI.
+Proficiência nos conceitos de REST e SOAP, com experiência no consumo e validação de serviços.
+Compreensão de arquitetura de automação de testes, boas práticas e padrões de design para manter testes eficazes e escaláveis.
+INFORMAÇÕES ADICIONAIS
+Por aqui você terá:
+· Vale iFood (alimentação e refeição);​
+· Vale iFood (alimentação e refeição);​
+· Aux. Home Office;​
+· Aux. Home Office;​
+· Plano de Saúde; ​
+· Plano de Saúde; ​
+· Plano Odontológico;​
+· Plano Odontológico;​
+· Day off de Aniversário;​
+· Day off de Aniversário;​
+· Seguro de Vida;​
+· Seguro de Vida;​
+· Licença Maternidade e Paternidade estendida;​
+· Licença Maternidade e Paternidade estendida;​
+· Parcerias Educacionais
+· Parcerias Educacionais
+· Alura
+· Alura
+· Total Pass - saúde e bem estar;
+· Total Pass - saúde e bem estar;
+· Cartão Flash;
+· Cartão Flash;
+· Programas de Reembolso;
+· Programas de Reembolso;
+﻿
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista de Pessoas2Entrevista de Pessoas
+Etapa 2: Entrevista de Pessoas
+2
+Entrevista de Pessoas
+Etapa 3: Entrevista Técnica3Entrevista Técnica
+Etapa 3: Entrevista Técnica
+3
+Entrevista Técnica
+Etapa 4: Desafio Técnico4Desafio Técnico
+Etapa 4: Desafio Técnico
+4
+Desafio Técnico
+Etapa 5: Entrevista com Cliente5Entrevista com Cliente
+Etapa 5: Entrevista com Cliente
+5
+Entrevista com Cliente
+Etapa 6: Proposta 6Proposta 
+Etapa 6: Proposta 
+6
+Proposta 
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+PRAZER, SOMOS A DB!
+Da garagem de casa para o mundo: assim começa a história da DB. Nascemos com desejo de mudança, nosso propósito é ser uma empresa de tecnologia centrada nas pessoas, com colaboração, inclusão e diversidade. Em 1993, iniciamos como consultores de um dos grandes bancos de dados da época, que nos deu o nome de DBServer (data base server) e aos poucos fomos construindo a DB (Design + Build the future) que você conhece hoje, a que gera mudança através de inovação e humanidade.
+Da garagem de casa para o mundo: assim começa a história da DB. Nascemos com desejo de mudança, nosso propósito é ser uma empresa de tecnologia centrada nas pessoas, com colaboração, inclusão e diversidade. Em 1993, iniciamos como consultores de um dos grandes bancos de dados da época, que nos deu o nome de DBServer (data base server) e aos poucos fomos construindo a DB (Design + Build the future) que você conhece hoje, a que gera mudança através de inovação e humanidade.
+Nós desenvolvemos pessoas que impactam os negócios com tecnologia e inovação, participando de forma flexível e articulada em squads, consultorias e capacitações em todas as etapas do ciclo de vida, do Discovery ao Delivery e sustentação.
+Nós desenvolvemos pessoas que impactam os negócios com tecnologia e inovação, participando de forma flexível e articulada em squads, consultorias e capacitações em todas as etapas do ciclo de vida, do Discovery ao Delivery e sustentação.
+Um olhar para a Diversidade & Inclusão
+A DB tem constituído uma jornada composta por marcadores culturais com profundo significado humano e que fazem parte do nosso dia a dia. Com coragem e empatia, colaboração, senso coletivo e de comunidade, estamos evoluindo na direção de uma cultura centrada nas pessoas.
+A DB tem constituído uma jornada composta por marcadores culturais com profundo significado humano e que fazem parte do nosso dia a dia. Com coragem e empatia, colaboração, senso coletivo e de comunidade, estamos evoluindo na direção de uma cultura centrada nas pessoas.
+Estamos orgulhosos de promover um ambiente de trabalho livre de discriminação. Acreditamos que a diversidade de experiências, perspectivas e histórico transforma nosso ambiente de trabalho. Estamos empenhados a construir esse legado com a sua parceria! 
+Estamos orgulhosos de promover um ambiente de trabalho livre de discriminação. Acreditamos que a diversidade de experiências, perspectivas e histórico transforma nosso ambiente de trabalho. Estamos empenhados a construir esse legado com a sua parceria! 
+Conheça nosso Marco Ético: https://bit.ly/MarcoEtico
+CONECTE-SE COM A DB!
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

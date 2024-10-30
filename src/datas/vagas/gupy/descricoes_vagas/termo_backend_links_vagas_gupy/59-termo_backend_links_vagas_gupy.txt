@@ -1,0 +1,94 @@
+link_vaga-https://fineasytech.gupy.io/job/eyJqb2JJZCI6NzgzODM0OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR DE SOFTWARE BACKEND OU FULL STACK (SQUAD PIX)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Estamos em busca de um(a) desenvolvedor(a) para integrar nossa squad de pagamentos, focando em tecnologias como PIX, DICT e SPB. Você atuará em projetos desafiadores, contribuindo para a criação de soluções inovadoras no ecossistema de pagamentos.
+Em colaboração com o time, você terá a oportunidade de cocriar iniciativas que visam modernizar e otimizar nossos serviços, implementando tecnologias de ponta que garantam escalabilidade e resiliência nas aplicações. Além disso, sua atuação será essencial para conectar nossa plataforma a diversos segmentos de pagamento. Se você está pronto(a) para fazer parte de um ambiente dinâmico e desafiador, queremos conhecê-lo(a)!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Colaborar na definição de soluções técnicas junto ao time de desenvolvimento, alinhando-as às necessidades das áreas de negócio e produtos.Analisar criticamente o cenário atual, explorando e sugerindo melhorias que promovam a eficiência e a inovação.Assumir a liderança em casos de incidentes em produção, identificando a causa raiz e propondo soluções definitivas.Buscar a excelência nas entregas, elaborando cenários de aceite e implementando testes unitários.Criar e manter a documentação técnica dos projetos e contratos das APIs, assegurando que estejam sempre atualizadas e acessíveis.
+Colaborar na definição de soluções técnicas junto ao time de desenvolvimento, alinhando-as às necessidades das áreas de negócio e produtos.
+Analisar criticamente o cenário atual, explorando e sugerindo melhorias que promovam a eficiência e a inovação.
+Assumir a liderança em casos de incidentes em produção, identificando a causa raiz e propondo soluções definitivas.
+Buscar a excelência nas entregas, elaborando cenários de aceite e implementando testes unitários.
+Criar e manter a documentação técnica dos projetos e contratos das APIs, assegurando que estejam sempre atualizadas e acessíveis.
+REQUISITOS E QUALIFICAÇÕES
+Experiência Profissional: Mínimo de 4-6 anos de experiência.Educação: Graduação em Ciência da Computação, Engenharia de Software ou área relacionada.Proficiência em JavaScript (ou TypeScript), Python, ou similar;Experiência sólida com frameworks Node.js, Express, React.js, Angular ou Vue.js;Experiência com banco de dados transacionais e não transacionais, Oracle, SQL Server e MongoDB;Experiência em arquitetura e desenvolvimento de sistemas distribuídos, com Microsserviços e APIs RESTful;Experiência em administrar releases, versionamento com GitLab e outras práticas ligadas a CI/CD;Experiência com criação e gestão de filas utilizando o RabbitMQ.
+Experiência Profissional: Mínimo de 4-6 anos de experiência.
+Educação: Graduação em Ciência da Computação, Engenharia de Software ou área relacionada.
+Proficiência em JavaScript (ou TypeScript), Python, ou similar;
+Experiência sólida com frameworks Node.js, Express, React.js, Angular ou Vue.js;
+Experiência com banco de dados transacionais e não transacionais, Oracle, SQL Server e MongoDB;
+Experiência em arquitetura e desenvolvimento de sistemas distribuídos, com Microsserviços e APIs RESTful;
+Experiência em administrar releases, versionamento com GitLab e outras práticas ligadas a CI/CD;
+Experiência com criação e gestão de filas utilizando o RabbitMQ.
+INFORMAÇÕES ADICIONAIS
+O que oferecemos:
+ 
+ 
+Vale Alimentação e Refeição (valor total de R$ 1.985,04);
+Vale Alimentação e Refeição (valor total de R$ 1.985,04);
+Plano de Saúde Unimed Unimax com a possibilidade de inclusão de dependentes;
+Plano de Saúde Unimed Unimax com a possibilidade de inclusão de dependentes;
+Plano Odontológico;
+Plano Odontológico;
+Vacina anti gripe com a possibilidade de incluir dependentes;
+Vacina anti gripe com a possibilidade de incluir dependentes;
+Seguro de Vida;
+Seguro de Vida;
+Convênio com a rede de farmácias;
+Convênio com a rede de farmácias;
+Auxílio creche;
+Auxílio creche;
+Wellhub (Gympass);
+Vale transporte;
+Vale transporte;
+Cartão Ticket Plus;
+Cartão Ticket Plus;
+ 
+ 
+Além desses benefícios contamos com:
+ 
+ 
+Um Micromarket dentro de nossa empresa;
+PPR (Participação nos Resultados) conforme metas atingidas;
+Gratificação natalina.
+Gratificação natalina.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem de Currículos2Triagem de Currículos
+Etapa 2: Triagem de Currículos
+2
+Triagem de Currículos
+Etapa 3: Entrevista com o RH3Entrevista com o RH
+Etapa 3: Entrevista com o RH
+3
+Entrevista com o RH
+Etapa 4: Entrevista com a Gestão4Entrevista com a Gestão
+Etapa 4: Entrevista com a Gestão
+4
+Entrevista com a Gestão
+Etapa 5: Atividade Técnica5Atividade Técnica
+Etapa 5: Atividade Técnica
+5
+Atividade Técnica
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+QUEM SOMOS?
+Somos parceiros de tecnologia do Banco Topázio e garantimos uma entrega completa, de acordo com a regulamentação do setor bancário e adaptáveis ao seu modelo de negócio.
+Somos parceiros de tecnologia do Banco Topázio e garantimos uma entrega completa, de acordo com a regulamentação do setor bancário e adaptáveis ao seu modelo de negócio.
+﻿Através de uma plataforma de serviços aberta conectamos fintechs e bancos, desenvolvendo soluções que atualizam legados, sistemas e modelos de serviços, de forma moderna, robusta e escalável. Com nosso know how bancário e tecnológico, também oferecemos consultoria para o desenho de novos modelos de negócios financeiros digitais.
+﻿Através de uma plataforma de serviços aberta conectamos fintechs e bancos, desenvolvendo soluções que atualizam legados, sistemas e modelos de serviços, de forma moderna, robusta e escalável. Com nosso know how bancário e tecnológico, também oferecemos consultoria para o desenho de novos modelos de negócios financeiros digitais.

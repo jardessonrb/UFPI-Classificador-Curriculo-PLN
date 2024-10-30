@@ -1,0 +1,79 @@
+link_vaga-https://sidi.gupy.io/job/eyJqb2JJZCI6ODk5ODMxLCJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR CLOUD - BACKEND
+Tipo de vaga: Banco de talentosBanco de talentos
+Tipo de vaga: Banco de talentos
+Banco de talentos
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Quer trabalhar em um dos maiores institutos de ciência e tecnologia do Brasil?
+
+Nós valorizamos o conceito de aprendizado contínuo (o candidato ideal não é aquele que sabe tudo mas sim aquele que tem a habilidade de aprender rapidamente o que não sabe, de praticar e de compartilhar com outros o que aprendeu).
+
+Você é questionador, atuante e pró-ativo, conhece diferentes tecnologias e tem interesse em descobrir novas abordagens? Identifica pontos de melhoria e automação de processos já existentes?
+Se você gosta de trabalhar de forma colaborativa e integrada com os demais membros da equipe, então venha conhecer o SiDi, e saiba mais sobre esta oportunidade.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Participar em todas os fases do ciclo de desenvolvimento de software (concepção, projeto, implementação, testes automatizados, documentação e manutenção).Foco principal do trabalho será o desenvolvimento de software para ambientes de Cloud Services em plataforma de software de segurança.Participar ativamente da arquitetura de novos sistemas e, também, propor melhorias em arquiteturas de sistemas legados.Interagir tecnicamente com equipes internas e externas.Participar na elaboração de documentação e relatórios técnicos sobre os resultados do projeto, também com o objetivo de melhorar a qualidade e os processos de desenvolvimento.Trabalhar sempre de forma colaborativa, desde a análise de requisitos, execução, até a conclusão final dos projetos.
+Participar em todas os fases do ciclo de desenvolvimento de software (concepção, projeto, implementação, testes automatizados, documentação e manutenção).
+Foco principal do trabalho será o desenvolvimento de software para ambientes de Cloud Services em plataforma de software de segurança.
+Participar ativamente da arquitetura de novos sistemas e, também, propor melhorias em arquiteturas de sistemas legados.
+Interagir tecnicamente com equipes internas e externas.
+Participar na elaboração de documentação e relatórios técnicos sobre os resultados do projeto, também com o objetivo de melhorar a qualidade e os processos de desenvolvimento.
+Trabalhar sempre de forma colaborativa, desde a análise de requisitos, execução, até a conclusão final dos projetos.
+
+REQUISITOS E QUALIFICAÇÕES
+Experiência com desenvolvimento e arquitetura de software backend para serviços na nuvem.Experiência com as tecnologias: Java, Spring e Springboot, SQL e noSQL DB, serviços de mensageria assíncrona.Experiência com alguma plataforma de serviços Cloud (AWS, Google Cloud, Azure).Sólido conhecimento sobre os fundamentos de engenharia de software, estrutura de dados e algoritmos.Conhecimento prévio em desenvolvimento de software de alta escalabilidade/disponibilidade.Excelentes habilidades de comunicação e resolução de problemas.DIFERENCIAL:Conhecimento das boas práticas de engenharia de software, incluindo padrões de codificação, revisão de código, controle e versão de software, integração contínua CI/CD, testes (unitários/integrados) e deployment.Experiência em comunicação com usuários, outros times técnicos e gerentes sênior para coletar requisitos, descrever funcionalidades de produtos e projetos técnicos.Experiência com Kubernetes, ELK, Load balancing (NGINX, HA Proxy), APM.Formação Acadêmica• Bacharel/mestrado em ciência da computação ou áreas correlatasIdioma• Inglês avançado
+Experiência com desenvolvimento e arquitetura de software backend para serviços na nuvem.
+Experiência com as tecnologias: Java, Spring e Springboot, SQL e noSQL DB, serviços de mensageria assíncrona.
+Experiência com alguma plataforma de serviços Cloud (AWS, Google Cloud, Azure).
+Sólido conhecimento sobre os fundamentos de engenharia de software, estrutura de dados e algoritmos.
+Conhecimento prévio em desenvolvimento de software de alta escalabilidade/disponibilidade.
+Excelentes habilidades de comunicação e resolução de problemas.
+
+DIFERENCIAL:
+Conhecimento das boas práticas de engenharia de software, incluindo padrões de codificação, revisão de código, controle e versão de software, integração contínua CI/CD, testes (unitários/integrados) e deployment.
+Experiência em comunicação com usuários, outros times técnicos e gerentes sênior para coletar requisitos, descrever funcionalidades de produtos e projetos técnicos.
+Experiência com Kubernetes, ELK, Load balancing (NGINX, HA Proxy), APM.
+Formação Acadêmica
+• Bacharel/mestrado em ciência da computação ou áreas correlatas
+Idioma
+• Inglês avançado
+INFORMAÇÕES ADICIONAIS
+O que esperamos de todos os #SiDiers:
+Abrir a mente para o novo
+Manter diálogo aberto e direto
+Desenvolver-se continuamente
+Fazer o melhor, sempre
+Construir em parceria
+Pensar grande, fazer rápido
+ 
+O que oferecemos?
+ 
+• Qualidade de vida: Jornada de 40 horas semanais com regime CLT, horário flexível e banco de horas trimestral
+• Bem-Estar: Gympass, Ginástica Laboral, Massagista e Apoio Psicológico
+• Saúde: Convênio Médico e Odontológico para você e sua família
+• Filhos: Auxílio creche até 4 anos, licença-maternidade de 120 dias e licença-paternidade estendida
+• Educação: Programa de incentivo para a continuidade dos estudos e especialização, incentivo para que nossos SiDiers se tornem fluentes em outras línguas e ciclos de palestras semanais sobre trend topics mundiais
+• Alimentação: Vale Refeição e Vale Alimentação flexíveis;
+• Reconhecimento: Bônus anual por desempenho e premiações para SiDiers que fizeram algo incrível
+• Diversidade: Comitês sobre Bem-estar, Diversidade, Saúde Mental, Social, Sustentabilidade e Inclusão das mulheres na tecnologia
+• Escritórios Modernos: Ambientes descontraídos e colaborativos com espaços de convivência, minimercado, copas, refeitório*, cestas de frutas*, bebidas à base de café*, etc
+• Ainda quer mais? Dezenas de parcerias com benefícios e descontos!
+ 
+ 
+Para nós, inclusão não é apenas somar mais um ao nosso time, é somar diferenças e particularidades. É justamente dessa mistura de técnicas, habilidades e histórias que nos inspiramos para fazer diferentes pontos de vista olharem para um mesmo horizonte, sempre para frente.
+Trabalhamos em um ambiente de oportunidades iguais, independente de gênero, orientação sexual, religião ou deficiência.
+ 
+Todas as nossas vagas estão disponíveis para PCDs.
+MAIS QUE UM TIME, #SIDIERS 💜💚
+Somos um dos maiores institutos de ciência e tecnologia do Brasil e, com um time com mais de 800 SiDiers que não para de crescer, já estamos em Campinas, Manaus e Recife, os maiores parques tecnológicos e de inovações do Brasil. Pois quem tem a vontade de criar projetos que irão transformar o mundo, não pode parar de se transformar. Em 20 anos de história, nos especializamos em solucionar problemas e trazemos em nossa bagagem mais de 1.100 projetos que impactam a vida de milhões de pessoas, levando inovação e fazendo o futuro acontecer agora.
+QUER SABER MAIS SOBRE O NOSSO DIA A DIA ? 👉 @SEGUEOSIDI
+Website
+LinkedIn
+Facebook
+Instagram

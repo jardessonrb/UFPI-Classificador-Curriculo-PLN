@@ -1,0 +1,119 @@
+link_vaga-https://sejaglobalweb.gupy.io/job/eyJqb2JJZCI6Nzk3MjAyNywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR BACK END .NET SR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Nosso time é formado por excelentes profissionais da área da tecnologia.
+Colaboração e comprometimento fazem parte do nosso dia-a-dia, quando desenvolvemos novas funcionalidades, construindo um produto robusto e escalável.
+Fazendo parte de nossa equipe, seu trabalho irá impactar em milhares de usuários, de algumas das maiores empresas do país, que utilizam nossa solução diariamente.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Atividades
+Desenvolver e codificar sistemas utilizando plataforma .Net e tecnologias MVC, ASP.NET Core, C# ORM Entity Framework, Linq, ADO, Orientação a objetos;
+Analisar mapeamento de fluxos e regras de negócio a serem implementadas. Linguagem T-SQL e modelagem de banco de dados relacional;
+Conhecimento em ferramentas de versionamento de código - GIT;
+Boas práticas em padrões de projeto e conhecimento em metodologias ágeis;
+Atuar no backend, incluindo o conjunto de tecnologias contempladas na arquitetura de referência para sistemas web, portais e dispositivos móveis;
+Participar do projeto e criação de softwares escaláveis;
+Escrever códigos limpos e funcionais no backend;
+Testar e corrigir erros ou outros problemas de codificação;
+Implementar testes unitarios 
+Trabalhar com equipes de desenvolvimento de forma integrada para idealizar soluções de software;
+Integrar aplicações e bancos de dados;
+Escrever API para interoperabilidade entre aplicações;
+Diagnosticar, depurar e atualizar softwares;
+Redigir documentação técnica;
+Trabalhar com cientistas e analistas de dados para aprimorar softwares;
+Prover o desenvolvimento de aplicações e serviços Integrados com ferramentas de automação e orquestração de processos de negócio (BPMS), bem como integração com serviços corporativos e aplicações através do barramento de serviços;
+REQUISITOS E QUALIFICAÇÕES
+Requisitos
+ 
+ 
+Desejável conhecimento em:
+Sistemas financeiros; 
+Filas, RabbitMQ, Apache Kafka;
+Pipelines com arquivos yaml;
+Azure DevOps;
+Experiência nas seguintes tecnologias e processos: 
+Experiência comprovada em:
+DotNet Core 6 ou superior
+Entify framework
+Code First
+SOLID
+DDD
+TDD - xUnit
+REST Api
+Docker 
+Kubernetes 
+C#
+MVC
+Formação:
+Formação de nível superior na área de informática, reconhecido pelo Ministério da Educação ou formação de nível superior em qualquer área com curso de pós-graduação lato sensu (especialização) na área de Tecnologia da Informação com duração mínima de 360 (trezentos e sessenta) horas; 
+Formação de nível superior na área de informática, reconhecido pelo Ministério da Educação ou formação de nível superior em qualquer área com curso de pós-graduação lato sensu (especialização) na área de Tecnologia da Informação com duração mínima de 360 (trezentos e sessenta) horas; 
+INFORMAÇÕES ADICIONAIS
+Nossos benefícios:
+Plano de Saúde;
+Plano Odontológico;
+Seguro Prudential: é concedido ao colaborador, de forma gratuita o seguro de vida, auxílio funeral e cesta natalidade, conforme regras específicas da seguradora;
+Vale Refeição ou Vale Alimentação;
+Vale Transporte: é concedido ao colaborador, para uso no trajeto residência – trabalho – residência, e será descontado mensalmente o percentual de 6% sob o valor do salário, limitado ao valor do benefício (opcional);
+Day off: será concedido ao colaborador folga em virtude do dia do aniversário, devendo este ser usufruído na mesma data e/ou no mês do aniversário;
+Convênios e Parcerias (Instituições de Ensino, Academias, Cursos de Idiomas entre outros);
+Ginástica Laboral.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Mapeamento Comportamental2Mapeamento Comportamental
+Etapa 2: Mapeamento Comportamental
+2
+Mapeamento Comportamental
+Etapa 3: Teste Técnico3Teste Técnico
+Etapa 3: Teste Técnico
+3
+Teste Técnico
+Etapa 4: Triagem4Triagem
+Etapa 4: Triagem
+4
+Triagem
+Etapa 5: Entrevista com RH/ Gestor e Líder Técnico5Entrevista com RH/ Gestor e Líder Técnico
+Etapa 5: Entrevista com RH/ Gestor e Líder Técnico
+5
+Entrevista com RH/ Gestor e Líder Técnico
+Etapa 6: Checagem de Referência6Checagem de Referência
+Etapa 6: Checagem de Referência
+6
+Checagem de Referência
+Etapa 7: Conferência Certificados e Certificações exigidos para o cargo7Conferência Certificados e Certificações exigidos para o cargo
+Etapa 7: Conferência Certificados e Certificações exigidos para o cargo
+7
+Conferência Certificados e Certificações exigidos para o cargo
+Etapa 8: Carta Proposta8Carta Proposta
+Etapa 8: Carta Proposta
+8
+Carta Proposta
+Etapa 9: Contratação9Contratação
+Etapa 9: Contratação
+9
+Contratação
+CONHEÇA NOSSA EMPRESA.
+A Globalweb é especialista em tecnologia para o seu segmento, comprometida com a diversidade e inclusão em todas as suas formas. Acreditamos que um ambiente diverso traz mais inovação, colaboração e bem-estar para todos. Estamos em busca de pessoas que queiram crescer conosco e fazer a diferença. Valorizamos a troca de experiências e acreditamos que diferentes perspectivas tornam nosso time mais forte.
+A Globalweb é especialista em tecnologia para o seu segmento, 
+comprometida com a diversidade e inclusão em todas as suas formas. Acreditamos que um ambiente diverso traz mais inovação, colaboração e bem-estar para todos. Estamos em busca de pessoas que queiram crescer conosco e fazer a diferença. Valorizamos a troca de experiências e acreditamos que diferentes perspectivas tornam nosso time mais forte.
+ 
+ 
+Na Globalweb, valorizamos a diversidade em todas as suas formas. Incentivamos candidaturas de pessoas com deficiência (PCD), pessoas negras, LGBTQIA+, mulheres, e qualquer pessoa que se identifique com grupos sub-representados no mercado de trabalho.  
+Na Globalweb, valorizamos a diversidade em todas as suas formas. Incentivamos candidaturas de pessoas com deficiência (PCD), pessoas negras, LGBTQIA+, mulheres, e qualquer pessoa que se identifique com grupos sub-representados no mercado de trabalho.  
+NOSSAS REDES SOCIAIS
+Website
+LinkedIn
+Facebook
+Instagram

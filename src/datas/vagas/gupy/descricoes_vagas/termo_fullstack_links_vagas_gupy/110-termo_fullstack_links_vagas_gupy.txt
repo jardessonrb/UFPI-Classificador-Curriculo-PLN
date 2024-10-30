@@ -1,0 +1,92 @@
+link_vaga-https://vericode.gupy.io/job/eyJqb2JJZCI6Nzg4OTU3Niwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA FULLSTACK PLENO (JAVA/ANGULAR)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Se você gosta de desafios e quer mostrar todo o seu potencial, queremos te conhecer! A Vericode preza por um time inclusivo e repleto de diversidade, nas suas mais variadas representações. Todas as nossas vagas estão abertas para pessoas com deficiência!
+#VemSerVericoder💜
+RESPONSABILIDADES E ATRIBUIÇÕES
+Atuação com desenvolvimento backend utilizando a linguagem Java e frameworks como Spring ou Spring Boot.Atuação com desenvolvimento frontend utilizando o framework Angular (versões mais recentes são um diferencial).Criação e consumo de APIs RESTful.Consulta em  bancos de dados relacionais (ex: MySQL, PostgreSQL) e/ou bancos de dados NoSQL.Versionamento de código utilizando ferramentas como Git.Testes unitários, de integração e Não Funcional (JMETER)
+Atuação com desenvolvimento backend utilizando a linguagem Java e frameworks como Spring ou Spring Boot.
+Atuação com desenvolvimento frontend utilizando o framework Angular (versões mais recentes são um diferencial).
+Criação e consumo de APIs RESTful.
+Consulta em  bancos de dados relacionais (ex: MySQL, PostgreSQL) e/ou bancos de dados NoSQL.
+Versionamento de código utilizando ferramentas como Git.
+Testes unitários, de integração e Não Funcional (JMETER)
+JMETER
+REQUISITOS E QUALIFICAÇÕES
+Experiência sólida com Java e Spring Boot Experiência com Framework Angular Conhecimentos em APIs RESTful, Git,  banco de dados My SQL, PostgreSQL, GIT, JMeterConhecimento em  metodologias ágeis com Scrum e KanbamHabilidades Desejáveis:Conhecimento em ambientes de nuvem (AWS, Azure ou GCP).Experiência com microserviços.Familiaridade com ferramentas de CI/CD (como Jenkins, GitLab CI, etc.).Boas práticas de Clean Code e SOLID.
+Experiência sólida com Java e Spring Boot 
+Experiência com Framework Angular 
+Conhecimentos em APIs RESTful, Git,  banco de dados My SQL, PostgreSQL, GIT, JMeter
+Conhecimento em  metodologias ágeis com Scrum e Kanbam
+Habilidades Desejáveis:
+Conhecimento em ambientes de nuvem (AWS, Azure ou GCP).
+AWS
+GCP
+Experiência com microserviços.
+Familiaridade com ferramentas de CI/CD (como Jenkins, GitLab CI, etc.).
+CI
+Boas práticas de Clean Code e SOLID.
+INFORMAÇÕES ADICIONAIS
+Remuneração CLT
+Benefícios
+💻Reembolso de Capacitações Técnicas: Cobertura de 100% para certificações profissionais, além de reembolso para cursos de capacitação técnica;
+😊Dia de Folga Adicional: Após 1 ano de empresa, você tem direito a 1 dia extra de folga;
+💲Participação nos Lucros e Resultados (PLR): Bônus vinculado ao desempenho e resultado da empresa;
+🍽Vale Refeição e Vale Alimentação: Oferecidos através do Cartão Flash Benefícios, proporcionando flexibilidade no uso;
+🆙Plano de Saúde e Odontológico: Cobertura abrangente para cuidar de você e de sua família;
+🙂Seguro de Vida: Proteção financeira para você e sua família;
+👧👦Auxílio Creche: Benefício disponível para colaboradores com filhos de até 71 meses de idade;
+💪Total Pass: Acesso a academias para manter o bem-estar e a saúde em dia;
+ 🎁Welcome Kit: Receba um kit de boas-vindas com itens essenciais para o seu dia a dia;
+🗯Parceria com Escola de Idiomas: Descontos para o aprendizado de novos idiomas;
+🆒Parceria com o Sesc: Direito à Credencial Plena, que oferece acesso gratuito ou com preços especiais a diversas atividades;
+📕Desconto na FIAP: Até 10% de desconto em cursos da FIAP para continuar se desenvolvendo.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Primeiro Contato2Primeiro Contato
+Etapa 2: Primeiro Contato
+2
+Primeiro Contato
+Etapa 3: Entrevista com RH3Entrevista com RH
+Etapa 3: Entrevista com RH
+3
+Entrevista com RH
+Etapa 4: Entrevista com Gestor 4Entrevista com Gestor 
+Etapa 4: Entrevista com Gestor 
+4
+Entrevista com Gestor 
+Etapa 5: Entrevista com Cliente 5Entrevista com Cliente 
+Etapa 5: Entrevista com Cliente 
+5
+Entrevista com Cliente 
+Etapa 6: Envio de Proposta6Envio de Proposta
+Etapa 6: Envio de Proposta
+6
+Envio de Proposta
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+SOBRE A EMPRESA
+A Vericode é uma consultoria líder em engenharia de software de alto desempenho, com mais de 15 anos de experiência no mercado. Com uma abordagem centrada em DevQASecOps, nossa missão é garantir que os produtos de nossos clientes atinjam o maior número de usuários com qualidade e segurança.
+.
+
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

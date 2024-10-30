@@ -1,0 +1,128 @@
+link_vaga-https://caplink.gupy.io/job/eyJqb2JJZCI6NzQ0NDI0OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+FULLSTACK SOFTWARE ENGINEER (NODE/TS) - 100% REMOTO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Olá, muito prazer, somos a Caplink, uma startup que nasceu dentro da Hype Empreendimentos com o objetivo de simplificar o mercado de financiamento imobiliário no Brasil.
+Olá, muito prazer, somos a Caplink, uma startup que nasceu dentro da Hype Empreendimentos com o objetivo de simplificar o mercado de financiamento imobiliário no Brasil.
+Somos uma empresa remota, mas oferecemos um espaço de trabalho em Curitiba/PR para quem prefere um ambiente físico. De qualquer modo, somos remote first e todos utilizamos nosso escritório virtual.
+Somos uma empresa remota, mas oferecemos um espaço de trabalho em Curitiba/PR para quem prefere um ambiente físico. De qualquer modo, somos remote first e todos utilizamos nosso escritório virtual.
+Aqui na CapLink, revolucionamos as operações de financiamento imobiliário. Com nossas ferramentas inovadoras e nossa consultoria especializada, simplificamos a jornada de contratação e otimizamos a gestão de operações de maneira eficiente e descomplicada.
+Aqui na CapLink, revolucionamos as operações de financiamento imobiliário. Com nossas ferramentas inovadoras e nossa consultoria especializada, simplificamos a jornada de contratação e otimizamos a gestão de operações de maneira eficiente e descomplicada.
+Estamos buscando uma pessoa Fullstack Software Engineer proficiente em tecnologias para o front-end (usamos Next.js e vanilla) e back-end (usamos Node.js). Ambos utilizam Typescript como linguagem principal. Prezamos pela excelência e comprometimento da nossa equipe e proporcionamos um ambiente remoto com muitos desafios e aprendizado. 
+Estamos buscando uma pessoa Fullstack Software Engineer proficiente em tecnologias para o front-end (usamos Next.js e vanilla) e back-end (usamos Node.js). Ambos utilizam Typescript como linguagem principal. Prezamos pela excelência e comprometimento da nossa equipe e proporcionamos um ambiente remoto com muitos desafios e aprendizado. 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Entender as necessidades do negócio e auxiliar no desenvolvimento das aplicações da Caplink; Realizar a documentação e cumprimento das regras de negócio; Desenvolver e manter mecanismos de testes automatizados para casos de uso complexos;Manter os sistemas da Caplink atualizados e seguros;Garantir a qualidade das entregas, realizando code-reviews e também recebendo feedback das funcionalidades desenvolvidas;Participar, em conjunto com o time de Produto, da concepção e implementação de layouts das soluções;Trazer soluções inovadoras para problemas de negócio, arquitetura e processos;Contribuir para um ambiente dinâmico e desafiador, de muito aprendizado, confiança e melhoria contínua. 
+Entender as necessidades do negócio e auxiliar no desenvolvimento das aplicações da Caplink; 
+Entender as necessidades do negócio e auxiliar no desenvolvimento das aplicações da Caplink; 
+Realizar a documentação e cumprimento das regras de negócio; 
+Realizar a documentação e cumprimento das regras de negócio; 
+Desenvolver e manter mecanismos de testes automatizados para casos de uso complexos;
+Desenvolver e manter mecanismos de testes automatizados para casos de uso complexos;
+Manter os sistemas da Caplink atualizados e seguros;
+Manter os sistemas da Caplink atualizados e seguros;
+Garantir a qualidade das entregas, realizando code-reviews e também recebendo feedback das funcionalidades desenvolvidas;
+Garantir a qualidade das entregas, realizando code-reviews e também recebendo feedback das funcionalidades desenvolvidas;
+Participar, em conjunto com o time de Produto, da concepção e implementação de layouts das soluções;
+Participar, em conjunto com o time de Produto, da concepção e implementação de layouts das soluções;
+Trazer soluções inovadoras para problemas de negócio, arquitetura e processos;
+Trazer soluções inovadoras para problemas de negócio, arquitetura e processos;
+Contribuir para um ambiente dinâmico e desafiador, de muito aprendizado, confiança e melhoria contínua. 
+Contribuir para um ambiente dinâmico e desafiador, de muito aprendizado, confiança e melhoria contínua. 
+REQUISITOS E QUALIFICAÇÕES
+4+ anos trabalhando com sua área de mais expertise (front, back ou fullstack);2+ anos trabalhando com a área complementar (back ou front);Proficiência profissional em Typescript ou Javascript; Domínio de estratégias de testes para front e backend (Testes unitários, de integração, etc);Controle de versão (Git);Proficiência utilizando banco de dados (SQL) e/ou ORMs .SERÁ MUITO BOM SE VOCÊ POSSUIR Conhecimento de metodologias ágeis (usamos uma variação do SCRUM);Experiência desenvolvendo sistemas que utilizam GraphQL primariamente e APIs REST;Experiência com conceitos de comunicação em tempo real entre sistemas (Websockets, gRPC);Conhecimentos de sistemas de gerenciamento de filas (preferencialmente Kafka ou RabbitMQ);Organização de código e boas práticas como Clean Code, Design Patterns, DDD e afins;Domínio não somente de frameworks, mas de algoritmos e estruturas de dados complexos que trazem soluções robustas;Habilidade para comunicação efetiva com a equipe;Ensino superior completo em área de tecnologia ou relacionada. 
+4+ anos trabalhando com sua área de mais expertise (front, back ou fullstack);
+4+ anos trabalhando com sua área de mais expertise (front, back ou fullstack);
+2+ anos trabalhando com a área complementar (back ou front);
+2+ anos trabalhando com a área complementar (back ou front);
+Proficiência profissional em Typescript ou Javascript; 
+Proficiência profissional em Typescript ou Javascript; 
+Domínio de estratégias de testes para front e backend (Testes unitários, de integração, etc);
+Domínio de estratégias de testes para front e backend (Testes unitários, de integração, etc);
+Controle de versão (Git);
+Controle de versão (Git);
+Proficiência utilizando banco de dados (SQL) e/ou ORMs .
+Proficiência utilizando banco de dados (SQL) e/ou ORMs .
+SERÁ MUITO BOM SE VOCÊ POSSUIR 
+ 
+Conhecimento de metodologias ágeis (usamos uma variação do SCRUM);
+Conhecimento de metodologias ágeis (usamos uma variação do SCRUM);
+Experiência desenvolvendo sistemas que utilizam GraphQL primariamente e APIs REST;
+Experiência desenvolvendo sistemas que utilizam GraphQL primariamente e APIs REST;
+Experiência com conceitos de comunicação em tempo real entre sistemas (Websockets, gRPC);
+Experiência com conceitos de comunicação em tempo real entre sistemas (Websockets, gRPC);
+Conhecimentos de sistemas de gerenciamento de filas (preferencialmente Kafka ou RabbitMQ);
+Conhecimentos de sistemas de gerenciamento de filas (preferencialmente Kafka ou RabbitMQ);
+Organização de código e boas práticas como Clean Code, Design Patterns, DDD e afins;
+Organização de código e boas práticas como Clean Code, Design Patterns, DDD e afins;
+Domínio não somente de frameworks, mas de algoritmos e estruturas de dados complexos que trazem soluções robustas;
+Domínio não somente de frameworks, mas de algoritmos e estruturas de dados complexos que trazem soluções robustas;
+Habilidade para comunicação efetiva com a equipe;
+Habilidade para comunicação efetiva com a equipe;
+Ensino superior completo em área de tecnologia ou relacionada. 
+Ensino superior completo em área de tecnologia ou relacionada. 
+INFORMAÇÕES ADICIONAIS
+📈 Um ambiente que preza pelo crescimento, diversidade e respeito.
+📈 Um ambiente que preza pelo crescimento, diversidade e respeito.
+🎓 Programa de desenvolvimento interno;
+🎓 Programa de desenvolvimento interno;
+🎁 Descontos únicos e exclusivos nos empreendimentos Hype;
+🎁 Descontos únicos e exclusivos nos empreendimentos Hype;
+ATENÇÃO: toda nossa comunicação oficial é feita por e-mail. Assim, caso você não receba algum retorno nosso, não esqueça de checar sua lixeira ou SPAM.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Teste de Raciocínio Lógico 3Teste de Raciocínio Lógico 
+Etapa 3: Teste de Raciocínio Lógico 
+3
+Teste de Raciocínio Lógico 
+Etapa 4: Teste / Case4Teste / Case
+Etapa 4: Teste / Case
+4
+Teste / Case
+Etapa 5: Entrevista com Liderança5Entrevista com Liderança
+Etapa 5: Entrevista com Liderança
+5
+Entrevista com Liderança
+Etapa 6: Entrevista Final6Entrevista Final
+Etapa 6: Entrevista Final
+6
+Entrevista Final
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+VENHA PARTICIPAR DA TRANSFORMAÇÃO DO MERCADO DE FINANCIAMENTO IMOBILIÁRIO!
+Há mais de 2 anos no mercado, somos uma startup que nasceu dentro da Hype Empreendimentos com o objetivo de simplificar o mercado de financiamento imobiliário no Brasil.
+Há mais de 2 anos no mercado, somos uma startup que nasceu dentro da Hype Empreendimentos com o objetivo de simplificar 
+o mercado de financiamento imobiliário
+ no Brasil.
+Somos uma empresa remota, mas oferecemos um espaço de trabalho em Curitiba/PR para quem prefere um ambiente físico e reuniões presenciais. Para os que optam pelo trabalho remoto, utilizamos um escritório virtual.
+Somos uma empresa remota, mas oferecemos um espaço de trabalho em Curitiba/PR para quem prefere um ambiente físico e reuniões presenciais. Para os que optam pelo trabalho remoto, utilizamos um escritório virtual.
+Aqui na CapLink, revolucionamos as operações de financiamento imobiliário. Com nossas ferramentas inovadoras e nossa consultoria especializada, simplificamos a jornada de contratação e otimizamos a gestão de operações de maneira eficiente e descomplicada.
+Aqui na CapLink
+, revolucionamos as operações de financiamento imobiliário. Com nossas ferramentas inovadoras e nossa consultoria especializada, simplificamos a jornada de contratação e otimizamos a gestão de operações de maneira eficiente e descomplicada.
+Nosso time trabalha em duas frentes distintas porém complementares:
+Nosso time trabalha em duas frentes distintas porém complementares:
+BPO (Business Process Operations) → Nosso time de especialistas em Financiamentos Imobiliários trabalha junto aos clientes, oferecendo consultoria estruturada para garantir que, em todas as etapas do processo de crédito, sejam tomadas as melhores decisões e alcançados os resultados desejados.
+ → Nosso time de especialistas em Financiamentos Imobiliários trabalha junto aos clientes, oferecendo consultoria estruturada para garantir que, em todas as etapas do processo de crédito, sejam tomadas as melhores decisões e alcançados os resultados desejados.
+SaaS (Software as Service) → Nosso time de desenvolvimento de software cria e mantém ferramentas que permitem a construtoras e incorporadoras de todos os tamanhos no Brasil gerenciar operações de crédito com total controle, facilidade e eficiência.
+ → Nosso time de desenvolvimento de software cria e mantém ferramentas que permitem a construtoras e incorporadoras de todos os tamanhos no Brasil gerenciar operações de crédito com total controle, facilidade e eficiência.
+Mais do que uma startup com foco em desenvolver um produto digital, aqui na Caplink ajudamos clientes a transformar e simplificar o mercado de crédito imobiliário no Brasil.    
+Mais do que uma startup com foco em desenvolver um produto digital, aqui na Caplink ajudamos clientes a transformar e simplificar o mercado de crédito imobiliário no Brasil.    
+Se você quer fazer parte desta transformação, participe do nosso processo seletivo e faça parte do #teamcaplink!
+Se você quer fazer parte desta transformação, participe do nosso processo seletivo e faça parte do #teamcaplink!

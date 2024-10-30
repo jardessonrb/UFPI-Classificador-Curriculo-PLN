@@ -1,0 +1,114 @@
+link_vaga-https://stefanini.gupy.io/job/eyJqb2JJZCI6ODAzMzQyNCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR JAVA BACK END JR (APIS)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Com mais de 20 anos de experiência, a Orbitall construiu um ecossistema robusto para co-criar soluções financeiras com empresas de qualquer segmento. Nossos produtos e serviços ajudam a promover a transformação digital necessária para conectar os negócios às necessidades de um mercado cada vez mais dinâmico.  
+Estamos comprometidos com a inovação e os avanços tecnológicos. Por isso, nossa plataforma é modular e personalizada, dando ao cliente a liberdade de escolher as soluções que agregam mais valor à sua estratégia de desenvolvimento.  
+Além do Banking in a Box, white label de conta digital que pode ser integrada com diversos parceiros, a Orbitall oferece processamento e emissão de cartões, opções de fidelidade e engajamento. Tudo isso atenta a rígidos padrões de segurança.  
+Desde 2012, integramos o Grupo Stefanini, um dos maiores provedores globais de tecnologia, presente em mais de 40 países. Nossa parceria promove uma união de forças para oferecer soluções completas ao mercado financeiro. 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Estamos buscando um(a) Desenvolvedor(a) Java Back End altamente qualificado(a) para se juntar à nossa equipe dinâmica. Se você é apaixonado(a) por tecnologia, possui experiência em desenvolvimento Java, especialmente na criação de APIs, e deseja trabalhar em um ambiente colaborativo e inovador, esta pode ser a oportunidade perfeita para você!
+
+Você será responsável por:
+Desenvolver e manter APIs robustas e escaláveis utilizando Java e o framework Spring MVC;
+Trabalhar com as versões mais recentes do Java, incluindo Java 8, 11 e 17, para garantir a eficiência e a compatibilidade do código;
+Implementar e otimizar serviços utilizando Docker para ambientes de desenvolvimento e produção;
+Gerenciar instâncias EC2 e utilizar conceitos de Serverless quando aplicável;
+Colaborar com a equipe no desenvolvimento de soluções utilizando ElasticSearch, GIT e outras tecnologias relacionadas;
+Utilizar Spring Boot e Spring Data para simplificar o desenvolvimento e a integração de aplicações;
+Projetar e implementar APIs RESTful de alto desempenho;
+Experiência com JSF Primefaces para o desenvolvimento de interfaces de usuário;
+Escrever testes unitários eficazes utilizando JUnit, SpringRunner e WebMvcTest;
+Trabalhar com sistemas de mensageria, como JMS, RabbitMQ e Kafka;
+Conhecimento básico de Pipeline Jenkins para integração contínua.
+REQUISITOS E QUALIFICAÇÕES
+O que precisamos que você tenha de conhecimento:
+Requisitos essenciais:
+Experiência comprovada em desenvolvimento Java e Spring Framework MVC;
+Experiência comprovada em desenvolvimento Java e Spring Framework MVC;
+Proficiência em Java 8+, 11 e 17, com sólido entendimento de boas práticas de desenvolvimento;
+Proficiência em Java 8+, 11 e 17, com sólido entendimento de boas práticas de desenvolvimento;
+Conhecimento em Docker, EC2 e outras tecnologias de virtualização;
+Conhecimento em Docker, EC2 e outras tecnologias de virtualização;
+Familiaridade com Serverless, ElasticSearch, GIT e outras ferramentas de desenvolvimento colaborativo;
+Familiaridade com Serverless, ElasticSearch, GIT e outras ferramentas de desenvolvimento colaborativo;
+Experiência em Spring Boot e Spring Data;
+Experiência em Spring Boot e Spring Data;
+Experiência em design de APIs RESTful e práticas de Clean Code;
+Experiência em design de APIs RESTful e práticas de Clean Code;
+Capacidade de trabalhar de forma colaborativa, responsável e autogerenciada;
+Capacidade de trabalhar de forma colaborativa, responsável e autogerenciada;
+Forte habilidade em escrever testes unitários de qualidade.
+Forte habilidade em escrever testes unitários de qualidade.
+Diferenciais:
+Experiência com Cloud AWS e suas principais serviços;
+Experiência com Cloud AWS e suas principais serviços;
+Conhecimento em NodeJS;
+Conhecimento em NodeJS;
+Familiaridade com ferramentas de monitoramento como Grafana e Kibana;
+Familiaridade com ferramentas de monitoramento como Grafana e Kibana;
+Conhecimento em Javascript, Swagger e metodologias ágeis.
+Conhecimento em Javascript, Swagger e metodologias ágeis.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Fit Cultural2Fit Cultural
+Etapa 2: Fit Cultural
+2
+Fit Cultural
+Etapa 3: Bate papo com Gente & Cultura3Bate papo com Gente & Cultura
+Etapa 3: Bate papo com Gente & Cultura
+3
+Bate papo com Gente & Cultura
+Etapa 4: Bate papo com Gestão4Bate papo com Gestão
+Etapa 4: Bate papo com Gestão
+4
+Bate papo com Gestão
+Etapa 5: Carta proposta5Carta proposta
+Etapa 5: Carta proposta
+5
+Carta proposta
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+WE ARE STEFANINI
+Somos uma multinacional brasileira com mais de 30 anos de atuação no ecossistema de inovação. 
+Entregamos soluções eficazes que auxiliam os nossos clientes em suas jornadas digitais, sempre aplicando o nosso propósito de tornar a tecnologia um agente de mudança para um mundo melhor. Você quer transformar o futuro? A gente também. 🚀
+Entregamos soluções eficazes que auxiliam os nossos clientes em suas jornadas digitais, sempre aplicando o nosso propósito de tornar a tecnologia um agente de mudança para um mundo melhor. Você quer transformar o futuro? A gente também. 🚀
+| + de 40 países | + de 30 empresas no Grupo | + de 30 mil colaboradores | + de 80 soluções |
+7 pilares guiam a nossa cultura, são eles:
+⭐ Inovar com o cliente;
+⭐ Inovar com o cliente;
+⭐ Fazer a diferença;
+⭐ Fazer a diferença;
+⭐ Liderar pelo exemplo;
+⭐ Liderar pelo exemplo;
+⭐ Agir como empreendedor;
+⭐ Agir como empreendedor;
+⭐ Ser ético e de acordo com o que fala;
+⭐ Ser ético e de acordo com o que fala;
+⭐ Acreditar e respeitar as pessoas;
+⭐ Acreditar e respeitar as pessoas;
+⭐ Ter humildade em aprender.
+⭐ Ter humildade em aprender.
+Acreditamos que a verdadeira mudança só pode ser alcançada quando observamos o mundo por diferentes perspectivas, aqui a inovação floresce em uma atmosfera de respeito mútuo, em que as ideias são ouvidas e valorizadas independentemente de raça, cor, orientação sexual, ascendência, religião, gênero, nacionalidade, identidade de gênero, deficiência ou idade. 💙 #WeAreStefanini #OrgulhoDeSerStefanini #CarreiraStefanini
+Acreditamos que a verdadeira mudança só pode ser alcançada quando observamos o mundo por diferentes perspectivas, aqui a inovação floresce em uma atmosfera de respeito mútuo, em que as ideias são ouvidas e valorizadas independentemente de raça, cor, orientação sexual, ascendência, religião, gênero, nacionalidade, identidade de gênero, deficiência ou idade. 💙 
+🏆 Prêmio Innovative Workplaces Brasil 2023 pela MIT Technology Review Brasil.
+CONFIRA NOSSAS REDES SOCIAIS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

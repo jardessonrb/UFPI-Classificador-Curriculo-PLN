@@ -1,0 +1,113 @@
+link_vaga-https://fcamara.gupy.io/job/eyJqb2JJZCI6NzkzNjcyOSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR FRONT END SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+A FCamara está em busca de uma Pessoa Desenvolvedora Front End Senior
+A FCamara está em busca de uma Pessoa Desenvolvedora Front End Senior
+RESPONSABILIDADES E ATRIBUIÇÕES
+·      Desenvolver e manter aplicações utilizando, React
+·      Desenvolver e manter aplicações utilizando, React
+·      Participar de todo o ciclo de vida do desenvolvimento de sistemas, incluindo análise, design, implementação, testes e manutenção.
+·      Participar de todo o ciclo de vida do desenvolvimento de sistemas, incluindo análise, design, implementação, testes e manutenção.
+·      Produzir documentação técnica e funcional dos sistemas desenvolvidos.
+·      Produzir documentação técnica e funcional dos sistemas desenvolvidos.
+·      Colaborar com equipes multidisciplinares para identificar e resolver problemas.
+·      Colaborar com equipes multidisciplinares para identificar e resolver problemas.
+·      Trabalhar de forma autônoma em múltiplos projetos simultâneos, gerenciando seu tempo e recursos de forma eficiente. Contribuir com a melhoria contínua dos processos e práticas de desenvolvimento da equipe.
+·      Trabalhar de forma autônoma em múltiplos projetos simultâneos, gerenciando seu tempo e recursos de forma eficiente. Contribuir com a melhoria contínua dos processos e práticas de desenvolvimento da equipe.
+·      Atuar como mentor para desenvolvedores menos experientes, compartilhando conhecimento e experiência.
+·      Atuar como mentor para desenvolvedores menos experientes, compartilhando conhecimento e experiência.
+·      Analisar e compreender os aspectos do negócio para propor soluções alinhadas aos objetivos estratégicos da empresa.
+·      Analisar e compreender os aspectos do negócio para propor soluções alinhadas aos objetivos estratégicos da empresa.
+REQUISITOS E QUALIFICAÇÕES
+·      Desenvolver e manter aplicações utilizando ReactJs
+·      Desenvolver e manter aplicações utilizando 
+·      Participar de todo o ciclo de vida do desenvolvimento de sistemas, incluindo análise, design, implementação, testes e manutenção.
+·      Participar de todo o ciclo de vida do desenvolvimento de sistemas, incluindo análise, design, implementação, testes e manutenção.
+·      Produzir documentação técnica e funcional dos sistemas desenvolvidos.
+·      Produzir documentação técnica e funcional dos sistemas desenvolvidos.
+·      Colaborar com equipes multidisciplinares para identificar e resolver problemas.
+·      Colaborar com equipes multidisciplinares para identificar e resolver problemas.
+·      Trabalhar de forma autônoma em múltiplos projetos simultâneos, gerenciando seu tempo e recursos de forma eficiente. Contribuir com a melhoria contínua dos processos e práticas de desenvolvimento da equipe.
+·      Trabalhar de forma autônoma em múltiplos projetos simultâneos, gerenciando seu tempo e recursos de forma eficiente. Contribuir com a melhoria contínua dos processos e práticas de desenvolvimento da equipe.
+·      Atuar como mentor para desenvolvedores menos experientes, compartilhando conhecimento e experiência.
+·      Atuar como mentor para desenvolvedores menos experientes, compartilhando conhecimento e experiência.
+·      Analisar e compreender os aspectos do negócio para propor soluções alinhadas aos objetivos estratégicos da empresa.
+·      Analisar e compreender os aspectos do negócio para propor soluções alinhadas aos objetivos estratégicos da empresa.
+INFORMAÇÕES ADICIONAIS
+Requerido:
+React 17+ 
+Typescript 
+React-Query
+Styled-components
+React-hook-form
+materialUI
+Testes
+SOLID
+YAGNI
+DRY
+Git
+Azure DevOps
+ 
+Desejável:
+Recoil
+Firebase
+Libs de validação:
+- Yup, Joi ou Zod
+Vite
+Padrões de Projetos
+SQL
+NoSQL
+AWS
+Linux
+Docker ou Podman
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista R&S2Entrevista R&S
+Etapa 2: Entrevista R&S
+2
+Entrevista R&S
+Etapa 3: Entrevista Cliente3Entrevista Cliente
+Etapa 3: Entrevista Cliente
+3
+Entrevista Cliente
+Etapa 4: Carta Proposta4Carta Proposta
+Etapa 4: Carta Proposta
+4
+Carta Proposta
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+TRANSFORMAMOS MUNDOS SONHADOS EM TRAJETÓRIAS REAIS.🧡🚀
+Aqui somos #SangueLaranja!Estamos há 17 anos no mercado, lado a lado com nossos clientes, proporcionando experiências transformadoras. Somos um ecossistema de tecnologia e inovação, com expansão global; Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda. 🌎  F de Formação: acreditamos na prática da cultura do compartilhamento, no senso de comunidade, e que o conhecimentotem o poder da transformação! Possuímos iniciativas, e ações sociais, que promovem o desenvolvimento, como a comunidade tech Orange Juice, o Programa de Formação,nossa escola de liderança e diversas parcerias com ONGs e Edtechs.   Na FCamara todos são bem-vindos, para nós, Diversidade, Respeito e Ética, são elementos inegociáveis e fazem parte do nosso DNA.   E aí, está pronto para fazer parte de um time incrível e ser protagonista da própria história?    
+Aqui somos #SangueLaranja!
+Estamos há 17 anos no mercado, lado a lado com nossos clientes, proporcionando experiências transformadoras. 
+Somos um ecossistema de tecnologia e inovação, com expansão global; Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda. 🌎
+Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda.
+  
+F de Formação: acreditamos na prática da cultura do compartilhamento, no senso de comunidade, e que o conhecimento
+tem o poder da transformação!
+ 
+Possuímos iniciativas, e ações sociais, que promovem o desenvolvimento, como a comunidade tech Orange Juice, o Programa de Formação,
+nossa escola de liderança e diversas parcerias com ONGs e Edtechs. 
+  
+Na FCamara todos são bem-vindos, para nós, Diversidade, Respeito e Ética, são elementos inegociáveis e fazem parte do nosso DNA. 
+  
+E aí, está pronto para fazer parte de um time incrível e ser protagonista da própria história? 
+   
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

@@ -1,0 +1,108 @@
+link_vaga-https://mutantbrvagas.gupy.io/job/eyJqb2JJZCI6NzkyODc5MSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE TESTE (QA ACESSIBILIDADE)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+O QUE É SER UM MUTANT?
+Quando você decide ser Mutant, você decide dar um passo diferente na sua vida e na sua carreira.
+Ser Mutant é aceitar ser parte de um grupo com coragem para traçar novos caminhos e ambição para chegar mais longe a cada dia.
+A gente não é a empresa da moda - nem faz questão de ser. Ao contrário, fazemos muito mais do que falamos. E preferimos fazer em grupo porque aqui é com todos e por todos.
+Estamos sempre em busca de gente talentosa e apaixonada para crescer e evoluir com a gente. Se você acredita no seu talento e consegue mostrar isso na prática, venha ser um Mutant.
+A gente te aguarda. 🚀
+RESPONSABILIDADES E ATRIBUIÇÕES
+·       Colaborar com a equipe de desenvolvimento para entender os requisitos do sistema e dos testes com foco em Acessibilidade. 
+·       Colaborar com a equipe de desenvolvimento para entender os requisitos do sistema e dos testes com foco em Acessibilidade. 
+·       Projetar Plano de Teste para a Sprint. 
+·       Projetar Plano de Teste para a Sprint. 
+·       Contribuir para a manutenção do Plano de Testes Regressivos 
+·       Contribuir para a manutenção do Plano de Testes Regressivos 
+·       Projetar e implementar casos de teste automatizados usando o Robot Framework. 
+·       Projetar e implementar casos de teste automatizados usando o Robot Framework. 
+·       Desenvolver e manter bibliotecas e keywords personalizadas para o Robot Framework. 
+·       Desenvolver e manter bibliotecas e keywords personalizadas para o Robot Framework. 
+·       Executar testes automatizados em ambientes de integração contínua. 
+·       Executar testes automatizados em ambientes de integração contínua. 
+·       Identificar e relatar bugs de forma clara e concisa, garantindo sua resolução oportuna. 
+·       Identificar e relatar bugs de forma clara e concisa, garantindo sua resolução oportuna. 
+·       Contribuir para a definição e melhoria dos processos de garantia de qualidade. 
+·       Contribuir para a definição e melhoria dos processos de garantia de qualidade. 
+·       Participar ativamente das reuniões de definição e Retrospectiva de Sprint para melhorar a qualidade das entregas de software. 
+·       Participar ativamente das reuniões de definição e Retrospectiva de Sprint para melhorar a qualidade das entregas de software. 
+REQUISITOS E QUALIFICAÇÕES
+·       Experiência comprovada em QA, testes de acessibilidade e automatizados em Aplicativos
+·       Domínio da linguagem Gherkin;
+·       Experiência no uso do Robot Framework ou Cypress para automação de testes
+·       Conhecimento sólido em linguagens de programação como Python
+·       Experiência com metodologias ágeis de desenvolvimento de software
+·       Habilidades analítica e de resolução de problemas
+·       Excelentes habilidades de comunicação verbal e escrita em Português
+·       Capacidade de trabalhar de forma independente e em equipe
+INFORMAÇÕES ADICIONAIS
+O que você vai encontrar por aqui:
+Flexibilidade nos seus horários;
+Estrutura horizontal;
+Dress code livre;
+Estacionamento para bikes e patinetes (em caso de ida ao escritório);
+Oportunidades de crescimento cross brands;
+Empresa Cidadã: Nossos colaboradores tem a licença parental estendida;
+Benefícios:
+Assistência médica e odontológica;
+Seguro de vida;
+Vale-transporte;
+Vale-refeição e alimentação;
+Wellhub (Gympass);
+Auxílio Creche;
+Auxílio filhos com deficiência;
+Bônus por resultados;
+Dayoff para aniversários;
+Alelo Multibenefícios;
+Allya - parcerias e descontos no app;
+Além disso, incluímos também alguns benefícios com o propósito Mutant:
+• Liberdade para ser quem você é. Incluir todos com o mesmo olhar está em nosso DNA. Aqui não fazemos distinção de gênero, raça, credo ou cor! Somos todos Mutants!
+• Pessoas e experiências são o que nos movem. São a nossa essência e nosso propósito. Ações e programas voltados a clima, desenvolvimento e cultura;
+• Gerar valor para pessoas e negócios. Juntos, criamos produtos digitais que impulsionam os negócios.;
+• Fazer parte de um time sensacional, que joga junto, com uma cultura de colaboração, inovação e transformação. E o mais importante: que se diverte em toda a jornada;
+• Trabalhar e trocar conhecimentos diários. As melhores cabeças do mercado em um lugar que elas podem ser elas mesmas: é assim que entregamos soluções disruptivas;
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Bate Papo - People Experience (PX)3Bate Papo - People Experience (PX)
+Etapa 3: Bate Papo - People Experience (PX)
+3
+Bate Papo - People Experience (PX)
+Etapa 4: Bate-papo Gestor4Bate-papo Gestor
+Etapa 4: Bate-papo Gestor
+4
+Bate-papo Gestor
+Etapa 5: Proposta 5Proposta 
+Etapa 5: Proposta 
+5
+Proposta 
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+MUTANT - BUSINESS EVOLUTION
+Conectamos o que os clientes querem com o que as empresas precisam. Fazemos isso ao criar tecnologias e experiências superiores para as marcas. Quando falamos sobre evolução digital e solução de desafios, pra nós, tudo é possível. Se ainda não for possível, a gente descobre como.
+Entendemos os principais desafios de marketing, vendas e tecnologia das empresas para gerar resultados financeiros. Transformamos conhecimento em insights. Desenhamos novas tecnologias e novas experiências. Implementamos e gerenciamos jornadas. Tudo para que clientes tenham a melhor experiência com as marcas. Clientes satisfeitos. Empresas líderes.
+As melhores cabeças do mercado em um lugar que elas podem ser elas mesmas: é assim que entregamos soluções disruptivas. Em conjunto com um exclusivo ecossistema de parcerias estratégicas e fornecedores ponta de lança, criamos soluções para todos os momentos do ciclo de vida do cliente.
+Site oficial: mutant.com.br
+CONHEÇA UM POUCO MAIS SOBRE A GENTE!
+Website
+LinkedIn
+Instagram
+Glassdoor

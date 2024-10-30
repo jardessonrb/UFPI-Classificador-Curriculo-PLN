@@ -1,0 +1,133 @@
+link_vaga-https://lbca.gupy.io/job/eyJqb2JJZCI6Nzc5MzIzMywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR PLENO FULL STACK
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+Estamos em busca de um Desenvolvedor Pleno Full Stack talentoso e experiente e principalmente com muita garra, para se juntar ao nosso time. 
+Estamos em busca de um Desenvolvedor Pleno Full Stack talentoso e experiente e principalmente com muita garra, para se juntar ao nosso time. 
+O candidato ideal deverá ter habilidades avançadas em desenvolvimento serverless e um sólido conhecimento das ferramentas e tecnologias listadas. 
+O candidato ideal deverá ter habilidades avançadas em desenvolvimento serverless e um sólido conhecimento das ferramentas e tecnologias listadas. 
+Se você é apaixonado por criar soluções eficientes e escaláveis, essa oportunidade é para você!
+Se você é apaixonado por criar soluções eficientes e escaláveis, essa oportunidade é para você!
+
+Lembre-se de candidatar-se a esta vaga e manter os dados do seu currículo sempre atualizados.
+
+Caso não seja seu perfil, temos outras oportunidades em nossa página de carreiras: lbca.gupy.io
+
+#VEMSERLBCA 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Nosso projeto
+Descubra uma plataforma serverless descentralizada e multi-cliente que está redefinindo os limites da tecnologia! Projetada para empresas que buscam escalabilidade e eficiência, ela oferece uma infraestrutura robusta e flexível, permitindo que você se concentre na criação de soluções inovadoras. Com uma arquitetura aberta, a plataforma proporciona um ambiente fértil para desenvolvedores explorarem novas ideias e enfrentarem desafios técnicos de ponta.
+Descubra uma plataforma serverless descentralizada e multi-cliente que está redefinindo os limites da tecnologia! Projetada para empresas que buscam escalabilidade e eficiência, ela oferece uma infraestrutura robusta e flexível, permitindo que você se concentre na criação de soluções inovadoras. Com uma arquitetura aberta, a plataforma proporciona um ambiente fértil para desenvolvedores explorarem novas ideias e enfrentarem desafios técnicos de ponta.
+Junte-se a um projeto revolucionário que elimina a complexidade do gerenciamento de servidores, garante segurança robusta e reduz custos operacionais. Aqui, você terá a oportunidade de trabalhar com tecnologias de última geração e impulsionar o futuro da inovação. Venha transformar o mercado e criar soluções extraordinárias conosco!
+Junte-se a um projeto revolucionário que elimina a complexidade do gerenciamento de servidores, garante segurança robusta e reduz custos operacionais. Aqui, você terá a oportunidade de trabalhar com tecnologias de última geração e impulsionar o futuro da inovação. Venha transformar o mercado e criar soluções extraordinárias conosco!
+Responsabilidades:
+Desenvolver e manter aplicações utilizando Node.js e Angular v17.
+Desenvolver e manter aplicações utilizando Node.js e Angular v17.
+Implementar e gerenciar funções AWS Lambda para soluções Serverless.
+Implementar e gerenciar funções AWS Lambda para soluções Serverless.
+Utilizar AWS DynamoDB para armazenamento de dados NoSQL.
+Utilizar AWS DynamoDB para armazenamento de dados NoSQL.
+Configurar e gerenciar filas de mensagens com AWS SQS.
+Configurar e gerenciar filas de mensagens com AWS SQS.
+Realizar consultas de dados com AWS Athena.
+Realizar consultas de dados com AWS Athena.
+Desenvolver e dar manutenção em componentes responsivos e reutilizáveis.
+Desenvolver e dar manutenção em componentes responsivos e reutilizáveis.
+Desenvolver interfaces usando Tailwind e SCSS baseados em design no Figma.
+Desenvolver interfaces usando Tailwind e SCSS baseados em design no Figma.
+Colaborar com a equipe de desenvolvimento para implementar padrões de desenvolvimento e melhores práticas.
+Colaborar com a equipe de desenvolvimento para implementar padrões de desenvolvimento e melhores práticas.
+Aplicar arquitetura orientada a eventos para construir sistemas desacoplados e escaláveis.
+Aplicar arquitetura orientada a eventos para construir sistemas desacoplados e escaláveis.
+Utilizar conceitos de Domain-Driven Design para a modelagem de domínios complexos.
+Utilizar conceitos de Domain-Driven Design para a modelagem de domínios complexos.
+REQUISITOS E QUALIFICAÇÕES
+Requisitos:
+Experiência comprovada em desenvolvimento fullstack utilizando Node.js e Angular.
+Experiência comprovada em desenvolvimento fullstack utilizando Node.js e Angular.
+Habilidades em TailwindCSS para estilização de interfaces.
+Habilidades em TailwindCSS para estilização de interfaces.
+Familiaridade com padrões de desenvolvimento de software.
+Familiaridade com padrões de desenvolvimento de software.
+Compreensão de conceitos de Domain-Driven Design (DDD).
+Compreensão de conceitos de Domain-Driven Design (DDD).
+Capacidade de trabalhar de forma colaborativa em um ambiente ágil.
+Capacidade de trabalhar de forma colaborativa em um ambiente ágil.
+Boas práticas no desenvolvimento web (HTML, SCSS, TypeScript).
+Boas práticas no desenvolvimento web (HTML, SCSS, TypeScript).
+Diferenciais:
+Experiência anterior em projetos utilizando todas as ferramentas listadas.
+Experiência anterior em projetos utilizando todas as ferramentas listadas.
+Habilidade em resolver problemas de forma criativa e eficiente.
+Habilidade em resolver problemas de forma criativa e eficiente.
+Excelentes habilidades de comunicação e trabalho em equipe.
+Excelentes habilidades de comunicação e trabalho em equipe.
+Experiência com testes unitários e integrados, garantindo a qualidade e a robustez das aplicações desenvolvidas.
+Experiência com testes unitários e integrados, garantindo a qualidade e a robustez das aplicações desenvolvidas.
+Conhecimento em Angular Signals e gerenciamento de estado.
+Conhecimento em Angular Signals e gerenciamento de estado.
+Desejável
+Experiência com AWS DynamoDB, AWS SQS e AWS Athena.
+Conhecimento prático em desenvolvimento Serverless com AWS Lambda.
+Conhecimento prático em desenvolvimento Serverless com AWS Lambda.
+Experiência com arquitetura orientada a eventos.
+Experiência com arquitetura orientada a eventos.
+Habilidade para trabalhar em um ambiente ágil (Scrum/Kanban).
+Habilidade para trabalhar em um ambiente ágil (Scrum/Kanban).
+Experiência com ferramentas de CI/CD.
+Experiência com ferramentas de CI/CD.
+INFORMAÇÕES ADICIONAIS
+Ambiente de trabalho dinâmico e desafiador;Oportunidade de crescimento e desenvolvimento profissional;Participação em projetos inovadores e de grande impacto;VR;Auxílio Home-Office;Assistência Médica (coparticipativa somente na utilização);Auxílio Creche;Convênio Farmácia;Convênio Sesc.Se você possui o perfil descrito e está pronto para novos desafios, venha fazer parte de uma equipe que valoriza a inovação e a excelência no desenvolvimento de software!
+Ambiente de trabalho dinâmico e desafiador;
+Ambiente de trabalho dinâmico e desafiador;
+Oportunidade de crescimento e desenvolvimento profissional;
+Oportunidade de crescimento e desenvolvimento profissional;
+Participação em projetos inovadores e de grande impacto;
+Participação em projetos inovadores e de grande impacto;
+VR;
+Auxílio Home-Office;
+Assistência Médica (coparticipativa somente na utilização);
+Auxílio Creche;
+Convênio Farmácia;
+Convênio Sesc.
+Se você possui o perfil descrito e está pronto para novos desafios, venha fazer parte de uma equipe que valoriza a inovação e a excelência no desenvolvimento de software!
+Se você possui o perfil descrito e está pronto para novos desafios, venha fazer parte de uma equipe que valoriza a inovação e a excelência no desenvolvimento de software!
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Teste Técnico2Teste Técnico
+Etapa 2: Teste Técnico
+2
+Teste Técnico
+Etapa 3: Entrevista com RH3Entrevista com RH
+Etapa 3: Entrevista com RH
+3
+Entrevista com RH
+Etapa 4: Entrevista com a Àrea4Entrevista com a Àrea
+Etapa 4: Entrevista com a Àrea
+4
+Entrevista com a Àrea
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+NÓS TRANSFORMAMOS!
+A Lee, Brock, Camargo Advogados (LBCA) se propõe a ter uma relação cooperativa com os clientes, procurando respostas novas para antigos problemas. Essa cultura gerou a busca por soluções ágeis, customizadas e inovadoras em todos os ramos do direito empresarial. Pioneira no desenvolvimento de plataforma tecnológica própria (Legalbox) e com a implementação da DIANA, a Inteligência Artificial da LBCA.
+Para a LBCA, a diversidade é uma riqueza que integra a missão da sociedade, que atua contra todos os tipos de desigualdades e busca estabelecer um ambiente de trabalho seguro e inclusivo, onde todos os sócios e colaboradores se sintam valorizados por seus talentos e identidades.
+A LBCA valoriza a privacidade e a proteção dos dados pessoais dos titulares que se candidatam às vagas aqui publicadas, assim, todas as operações de tratamento de dados serão realizadas nos termos da Lei Geral de Proteção de Dados Pessoais e demais leis sobre o tema, bem como de acordo com a política de privacidade encontrada em www.lbca.com.br. Ainda, o candidato deverá observar que, para se candidatar às vagas, está, neste momento, na plataforma Gupy, devendo também conhecer e estar de acordo com os Termos de Uso e a Política de Privacidade deste ambiente.
+A LBCA valoriza a privacidade e a proteção dos dados pessoais dos titulares que se candidatam às vagas aqui publicadas, assim, todas as operações de tratamento de dados serão realizadas nos termos da Lei Geral de Proteção de Dados Pessoais e demais leis sobre o tema, bem como de acordo com a política de privacidade encontrada em 
+. Ainda, o candidato deverá observar que, para se candidatar às vagas, está, neste momento, na plataforma Gupy, devendo também conhecer e estar de acordo com os Termos de Uso e a Política de Privacidade deste ambiente.
+Pilares ESG: E Ambiente sustentável, Green IT, política paper free, logística reversa e descarte de produtos; S Comitês e políticas de Diversidade e Inclusão, fomento à cultura de doação e responsabilidade social; G Código de Conduta e de Ética, regras de Compliance, segurança da informação, LGPD e Política Anticorrupção.
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram

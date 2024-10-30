@@ -1,0 +1,69 @@
+link_vaga-https://brivia.gupy.io/job/eyJqb2JJZCI6NjgxNTc0MSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+QA / TESTER SENIOR
+Tipo de vaga: Banco de talentosBanco de talentos
+Tipo de vaga: Banco de talentos
+Banco de talentos
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Somos inquietos, somos desbravadores e estamos em constante transformação.
+Por isso, estamos na busca constante de crescimentos do nosso time com profissionais inovadores, que desafiam os limites e estejam preparados para embarcar em uma cultura totalmente nômade.
+SOMOS NÔMADES, NOSSAS VAGAS SÃO PARA QUALQUER LUGAR!
+Seja qual for o seu gênero, orientação sexual, idade, raça, etnia, crença ou deficiência, todos são bem-vindos no nosso time.
+Responsável por desenvolver, manter e corrigir a interface e integração entre front-end e back-end de aplicações de software,em projetos e/ou atividades, por meio de ferramentas, linguagens e metodologias, solucionando bugs, codificando, realizando testes e documentando especificações manuais de operação/produto, orientado pela excelência técnica e inovação constante, garantindo estabilidade e evolução dos produtos e agindo em prol dos objetivos traçados pela área e empresa.
+Responsável por desenvolver, manter e corrigir a interface e integração entre front-end e back-end de aplicações de software,em projetos e/ou atividades, por meio de ferramentas, linguagens e metodologias, solucionando bugs, codificando, realizando testes e documentando especificações manuais de operação/produto, orientado pela excelência técnica e inovação constante, garantindo estabilidade e evolução dos produtos e agindo em prol dos objetivos traçados pela área e empresa.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Planejar, desenhar, automatizar e executar testes, comparando dados de entrada com os resultados esperados, previamente definidos ou conhecidos, conforme especificações funcionais e não funcionais do software, a partir das solicitações e projetos demandados à área.Elaborar e aplicar testes de integração, regressão, caixa-preta, caixa-branca, exploratórios, entre outros.Elaborar e aplicar testes de segurança e performance nas aplicações.Desenhar cenários e casos de testes, baseados em métodos ágeis, especificando a massa de dados e roteiros de testes.Reportar a evolução dos indicadores de testes estabelecidos ao gestor imediato.Testar APIs internas para avaliar funcionalidades.Acompanhar e validar, periodicamente, testes executados pelo demais integrantes da equipe, garantindo que as diretrizes e metodologias pactuadas estejam aplicadas.Analisar os sistemas identificando problemas com senso crítico, apontando eventuais correções e melhorias.Otimizar testes por meio da automação, visando reduzir a probabilidade de erros e o tempo de resposta, assegurando consistência na execução dos testes e, consequentemente, a do desenvolvimento.Realizar a governança das evidências geradas nos testes, documentando o resultado da execução, reportando-as em ferramenta de controle de projetos.Atuar no modelo de esteira de trabalho, em conjunto com desenvolvedores e área de operações.Promover melhorias na metodologia de testes, ampliando a cobertura e repertório, visando a redução de erros e riscos.Manter-se atualizado, quanto às novas tecnologias e tendências do mercado, relativas as atividades da função, propondo melhorias no processo ao gestor imediato.Atuar com metodologia ágil (Scrum, Kanban e demais ferramentas correlacionadas).
+Planejar, desenhar, automatizar e executar testes, comparando dados de entrada com os resultados esperados, previamente definidos ou conhecidos, conforme especificações funcionais e não funcionais do software, a partir das solicitações e projetos demandados à área.
+Elaborar e aplicar testes de integração, regressão, caixa-preta, caixa-branca, exploratórios, entre outros.
+Elaborar e aplicar testes de segurança e performance nas aplicações.
+Desenhar cenários e casos de testes, baseados em métodos ágeis, especificando a massa de dados e roteiros de testes.
+Reportar a evolução dos indicadores de testes estabelecidos ao gestor imediato.
+Testar APIs internas para avaliar funcionalidades.Acompanhar e validar, periodicamente, testes executados pelo demais integrantes da equipe, garantindo que as diretrizes e metodologias pactuadas estejam aplicadas.
+Analisar os sistemas identificando problemas com senso crítico, apontando eventuais correções e melhorias.
+Otimizar testes por meio da automação, visando reduzir a probabilidade de erros e o tempo de resposta, assegurando consistência na execução dos testes e, consequentemente, a do desenvolvimento.
+Realizar a governança das evidências geradas nos testes, documentando o resultado da execução, reportando-as em ferramenta de controle de projetos.
+Atuar no modelo de esteira de trabalho, em conjunto com desenvolvedores e área de operações.
+Promover melhorias na metodologia de testes, ampliando a cobertura e repertório, visando a redução de erros e riscos.
+Manter-se atualizado, quanto às novas tecnologias e tendências do mercado, relativas as atividades da função, propondo melhorias no processo ao gestor imediato.Atuar com metodologia ágil (Scrum, Kanban e demais ferramentas correlacionadas).
+REQUISITOS E QUALIFICAÇÕES
+Desejável 05 ou mais anos de experiência na área.Lógica de ProgramaçãoPytonTestes Automatizados Funcionais,Testes Automatizados Funcionais, Performance e Security : Preferência RobotTestes RegressivosGit(Versionar automação dos testes)Swagger;·       Postman;·       Excel;·       Criação de roteiros de testes baseados em TDD e/ou BDD;·       Metodologias Ágeis;·       JSON e XML;·       SQL para consultar dados em tabelas e realizar operações básicas;·       Geração de Massas de Teste;·   Negócio da empresa.·   Integração contínua com Azure Devops·    Banco de dados SQL e NoSql
+Desejável 05 ou mais anos de experiência na área.
+Desejável 05 ou mais anos de experiência na área.
+Lógica de Programação
+Pyton
+Testes Automatizados Funcionais,
+Testes Automatizados Funcionais, Performance e Security : Preferência Robot
+Testes Automatizados Funcionais, Performance e Security : Preferência Robot
+Testes Regressivos
+Testes Regressivos
+Git(Versionar automação dos testes)
+Git(Versionar automação dos testes)
+Swagger;·      
+ Postman;·      
+ Excel;·      
+ Criação de roteiros de testes baseados em TDD e/ou BDD;·       
+Metodologias Ágeis;·       
+JSON e XML;·       
+SQL para consultar dados em tabelas e realizar operações básicas;·      
+ Geração de Massas de Teste;·   
+Negócio da empresa.·  
+ Integração contínua com Azure Devops·    
+Banco de dados SQL e NoSql
+SOMOS UM TIME INQUIETO E QUESTIONADOR
+Estamos entre as melhores agências para se trabalhar no Brasil!
+Na Brivia, você precisa estar com a mente e o passaporte sempre abertos. Afinal, nós vamos onde nossos clientes, seus problemas e nossas soluções nos levam.
+Sim, temos sedes no Brasil, na America Latina e na Europa, mas acreditamos no trabalho remoto. Temos b.a.s.e em 4 estados brasileiros, mas com profissionais espalhados por mais de 10 estados. Possuímos um escritório estratégico em Lisboa, Portugal, além de escritórios no Chile, Argentina e Colômbia. Mas não temos endereço fixo. Acreditamos no trabalho remoto e na autonomia profissional para tomar decisões em busca de novos resultados. Estamos em todos os lugares!
+Buscamos sempre ter entre nós pessoas realizadas e valorizadas e nos esforçamos todos os dias para fazer da Brivia um lugar próspero e rico em possibilidades.
+Se identifica? Vem pra Brivia, vem desbravar o Digital Branding com a gente and be nômade!
+FIQUE POR DENTRO DO QUE ACONTECE POR AQUI
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

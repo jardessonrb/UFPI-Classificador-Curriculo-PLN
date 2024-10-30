@@ -1,0 +1,77 @@
+link_vaga-https://inatel.gupy.io/job/eyJqb2JJZCI6Nzg4Mjk2OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PDI SW - TESTER DE SOFTWARE (QA) II
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+O Inatel está recrutando Tester de Software II para atuar em Projetos de Desenvolvimento e Inovação, no Inatel 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Preparar e atualizar versões do sistema em ambiente de homologação em nuvem.Elaborar os cenários de testes, a fim de garantir que o requisito atenda os critérios de aceitação definidos.Executar testes funcionais e automatizados de acordo com os requisitos do projeto.Codificar testes automatizados.Elaboração e execução de testes de APIs, testes de integração, testes de carga, performance e vulnerabilidade.Registrar os bugs e sugestões de melhorias encontrados na aplicação durante os testes.Utilizar e contribuir para melhoria dos procedimentos, técnicas e métodos definidos.Criar documentações complementares de acordo com as necessidades do projeto.
+Preparar e atualizar versões do sistema em ambiente de homologação em nuvem.
+Elaborar os cenários de testes, a fim de garantir que o requisito atenda os critérios de aceitação definidos.
+Executar testes funcionais e automatizados de acordo com os requisitos do projeto.
+Codificar testes automatizados.
+Elaboração e execução de testes de APIs, testes de integração, testes de carga, performance e vulnerabilidade.
+Registrar os bugs e sugestões de melhorias encontrados na aplicação durante os testes.
+Utilizar e contribuir para melhoria dos procedimentos, técnicas e métodos definidos.
+Criar documentações complementares de acordo com as necessidades do projeto.
+REQUISITOS E QUALIFICAÇÕES
+Ensino Superior Completo em cursos de Tecnologia, Engenharia de Software, Computação, Sistemas de Informação ou áreas correlatas;
+Conhecimento em:
+Escrita de plano de teste e descrição de bugs;
+Lógica de Programação e Sistemas;
+Banco de Dados Relacional e não relacional;
+Ferramentas de testes (ex: postman, jmeter, Jenkins);
+Testes de aplicações Web, desktop ou móveis;
+Funcionamento de APIs REST;
+Processos e metodologias de Qualidade de Testes;
+Uso das ferramentas de gerenciamento de testes (ex: JIRA/Xray);
+Automatização de Testes;
+Linguagem de programação para automatização de testes (ex: Java, Python, JavaScript);
+Aplicação em Cloud;
+Troubleshooting;
+Ferramenta de controle de versionamento de código fonte (ex: GIT);
+Definição e geração de relatórios e apresentações operacionais;
+Modelos de desenvolvimento ágeis (SCRUM);
+INFORMAÇÕES ADICIONAIS
+Horário das atividades: de segunda a sexta das 08:00 às 12:00 e das 13:30 às 17:30
+: de segunda a sexta das 08:00 às 12:00 e das 13:30 às 17:30
+Local das atividades: As atividades serão realizadas no Campus do Inatel, em Santa Rita do Sapucaí - MG.
+: 
+As atividades serão realizadas no Campus do Inatel, em Santa Rita do Sapucaí - MG.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Entrevista área3Entrevista área
+Etapa 3: Entrevista área
+3
+Entrevista área
+Etapa 4: Fit Cultural4Fit Cultural
+Etapa 4: Fit Cultural
+4
+Fit Cultural
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+SOMOS O INATEL!
+Queremos inspirar pessoas para que descubram a tecnologia, para que conheçam a inovação e tenham a melhor experiência educacional do Brasil.
+INATEL N@S REDES
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

@@ -1,0 +1,68 @@
+link_vaga-https://mypharma.gupy.io/job/eyJqb2JJZCI6ODAyODA4MSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR BACK END PL
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+A MyPharma é uma plataforma SaaS especializada em e-commerce para farmácias e drogarias que atua no segmento desde 2016.
+A 
+ é uma plataforma SaaS especializada em e-commerce para farmácias e drogarias que atua no segmento desde 2016.
+Nossa missão é promover as vendas e o faturamento de pequenas e médias farmácias, trazendo-as para o varejo farma online que já alcança mais de 8% das vendas do setor.
+Nossa missão é promover as vendas e o faturamento de pequenas e médias farmácias, trazendo-as para o varejo farma online que já alcança mais de 8% das vendas do setor.
+Em 2023, a MyPharma passou a integrar o GrupoSC.
+Em 2023, a MyPharma passou a integrar o GrupoSC.
+Com isso, somamos esforços ao objetivo de levar Mais Saúde para Mais Pessoas.
+Com isso, somamos esforços ao objetivo de levar Mais Saúde para Mais Pessoas.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Atuar em conjunto com a equipe backend na manutenção e definição da arquitetura dos serviços disponíveis em infraestrutura AWS;Desenvolver e manter nossos Microserviços de forma ágil, aplicando boas práticas de Engenharia de Software;Desenvolver sistemas escaláveis, sustentáveis e orientados ao usuário;Auxiliar na definição e estruturação de projetos de notificações e serviços, realizando integrações com outras plataformas.
+Atuar em conjunto com a equipe backend na manutenção e definição da arquitetura dos serviços disponíveis em infraestrutura AWS;
+Desenvolver e manter nossos Microserviços de forma ágil, aplicando boas práticas de Engenharia de Software;
+Desenvolver sistemas escaláveis, sustentáveis e orientados ao usuário;
+Auxiliar na definição e estruturação de projetos de notificações e serviços, realizando integrações com outras plataformas.
+REQUISITOS E QUALIFICAÇÕES
+Experiência e conhecimento profundo no uso do Nodejs e Typescript;Experiência com banco dados relacionais (Postgres, MariaDb) e não relacionais (Redis, DynamoDB, ElasticSearch, MongoDB);Vivência e atuação em times multidisciplinares de desenvolvimento de software;Experiência com o ecossistema da AWS (RDS, EC2, S3, SQS, SNS, Lambda, Cloudfront, Api Gateway)Experiência com o ecossistema da Azure DevOpsExperiência na implementação de APIs escaláveis e Microserviços;Flexibilidade, através de entregas iterativas e incrementais de valor de negócio;Familiaridade com metodologia ágil.
+Experiência e conhecimento profundo no uso do Nodejs e Typescript;
+Experiência com banco dados relacionais (Postgres, MariaDb) e não relacionais (Redis, DynamoDB, ElasticSearch, MongoDB);
+Vivência e atuação em times multidisciplinares de desenvolvimento de software;
+Experiência com o ecossistema da AWS (RDS, EC2, S3, SQS, SNS, Lambda, Cloudfront, Api Gateway)
+Experiência com o ecossistema da Azure DevOps
+Experiência na implementação de APIs escaláveis e Microserviços;
+Flexibilidade, através de entregas iterativas e incrementais de valor de negócio;
+Familiaridade com metodologia ágil.
+INFORMAÇÕES ADICIONAIS
+Benefícios: Vale Alimentação, Vale Refeição, Convênio médico, Convênio Odontológico, Seguro de vida e Day Off no dia do aniversário.
+Benefícios: Vale Alimentação, Vale Refeição, Convênio médico, Convênio Odontológico, Seguro de vida e Day Off no dia do aniversário.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Mapeamento Comportamental2Mapeamento Comportamental
+Etapa 2: Mapeamento Comportamental
+2
+Mapeamento Comportamental
+Etapa 3: Entrevista RH3Entrevista RH
+Etapa 3: Entrevista RH
+3
+Entrevista RH
+Etapa 4: Entrevista Liderança4Entrevista Liderança
+Etapa 4: Entrevista Liderança
+4
+Entrevista Liderança
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+SOBRE A MYPHARMA
+A MyPharma é uma plataforma SaaS especializada em e-commerce para farmácias e drogarias, atuando no setor desde 2016. 💊🛒
+Atendemos mais de 700 farmácias independentes, associativismo e redes em todo o Brasil, ajudando a aumentar seu faturamento e visibilidade através da presença digital.
+Em 2023, a MyPharma integrou o GrupoSC, alinhando nossos esforços ao objetivo de levar Mais Saúde para Mais Pessoas.
+Atualmente, nossa missão principal é aumentar os resultados das farmácias por meio da inovação. Contamos com uma equipe engajada, composta por mais de 50 profissionais em todo o Brasil!
+Website
+LinkedIn
+Facebook
+Instagram

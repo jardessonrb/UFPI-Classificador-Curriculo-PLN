@@ -1,0 +1,65 @@
+link_vaga-https://vempraassist.gupy.io/job/eyJqb2JJZCI6MTY2NjQ3Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR FULL STACK
+Tipo de vaga: Banco de talentosBanco de talentos
+Tipo de vaga: Banco de talentos
+Banco de talentos
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Olá, Tudo bem? 🙂
+Já pensou em trabalhar em uma equipe que tem como missão disponibilizar bem-estar e qualidade de vida?
+Somos a ASSIST, certificada pela 3ª vez consecutiva como um ótimo lugar para trabalhar pela GPTW. 🥇
+Estamos há mais de 35 anos cuidando do servidor público!
+Se você tem experiência em ASP NET C#, se inscreva na nossa Vaga Banco de Talentos Desenvolvedor Full Stack e venha compor o nosso time de feras. 👨‍💻🚀🚀  
+ 
+ 
+Você topa? Espero te ver em breve!
+Você topa? Espero te ver em breve!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Codificar o back-end e o front-end dos sistemas a partir das especificações e padrões recebidos;Realização de testes;Participar de reuniões com a equipe.
+Codificar o back-end e o front-end dos sistemas a partir das especificações e padrões recebidos;
+Realização de testes;
+Participar de reuniões com a equipe.
+REQUISITOS E QUALIFICAÇÕES
+Conhecimentos em ASP NET C# WEB Forms;WEB API CORE e MVC CORE;APIs REST e semântica geral do protocolo HTTP;Documentação on-line de APIs com Swagger;SQL Server e Entity Framework com Migrations;Padrões de software como Arquitetura em Camadas, Data Caching, Repository, Dependency Injection (Service Collection), Object- to-Object Mapping (Auto Mapper);Fluxos de autenticação baseados em OAUTH com Active Directory e JWT;Práticas de segurança em desenvolvimento Web;Experiência com Microsoft Visual Studio 2019 ou Visual Studio Code;Semantic Versioning, Nuget Server e controladores de versão GIT e SVNConhecimentos Desejáveis:Domain Driven Design;Azure Blobs Storage e Azure Active Directory.
+Conhecimentos em ASP NET C# WEB Forms;
+WEB API CORE e MVC CORE;
+APIs REST e semântica geral do protocolo HTTP;
+Documentação on-line de APIs com Swagger;
+SQL Server e Entity Framework com Migrations;
+Padrões de software como Arquitetura em Camadas, Data Caching, Repository, Dependency Injection (Service Collection), Object- to-Object Mapping (Auto Mapper);
+Fluxos de autenticação baseados em OAUTH com Active Directory e JWT;
+Práticas de segurança em desenvolvimento Web;
+Experiência com Microsoft Visual Studio 2019 ou Visual Studio Code;
+Semantic Versioning, Nuget Server e controladores de versão GIT e SVN
+Conhecimentos Desejáveis:
+Domain Driven Design;
+Azure Blobs Storage e Azure Active Directory.
+INFORMAÇÕES ADICIONAIS
+Regime de contratação: CLT (Efetivo).Local: Centro, Rio de Janeiro.Horário: De segunda a sexta-feira, das 08:00 às 17:00hrs.Benefícios: Vale Transporte, Assistência Médica, Assistência Odontológica, Assistência Jurídica, Seguro de Vida em Grupo, Tíquete Alimentação, Programa Vida Saudável (Psicologia, Nutrição e Enfermagem), Auxilio Creche, Bday Off, Esporte e Lazer, Cursos EAD, Orientação Vocacional e Descontos especiais em parcerias e convênios.
+Regime de contratação: CLT (Efetivo).
+Local: Centro, Rio de Janeiro.
+Horário: De segunda a sexta-feira, das 08:00 às 17:00hrs.
+Benefícios: Vale Transporte, Assistência Médica, Assistência Odontológica, Assistência Jurídica, Seguro de Vida em Grupo, Tíquete Alimentação, Programa Vida Saudável (Psicologia, Nutrição e Enfermagem), Auxilio Creche, Bday Off, Esporte e Lazer, Cursos EAD, Orientação Vocacional e Descontos especiais em parcerias e convênios.
+Vale Transporte, Assistência Médica, Assistência Odontológica, Assistência Jurídica, Seguro de Vida em Grupo, Tíquete Alimentação, Programa Vida Saudável (Psicologia, Nutrição e Enfermagem), Auxilio Creche, Bday Off, Esporte e Lazer, Cursos EAD, Orientação Vocacional e Descontos especiais em parcerias e convênios.
+"VOCÊ JÁ SE IMAGINOU TRABALHANDO EM UMA ASSOCIAÇÃO?"
+A ASSIST é uma associação para Servidores Públicos, que há mais 35 anos promove saúde, bem-estar, lazer e segurança para o Servidor e sua família. São 22 Benefícios Coletivos e Programas incluídos: Assistências Médica e Odontológica Ambulatorial Básica Coletiva, Assistência Jurídica, Funeral, Seguro de vida e muito mais. Além de mais de 100 Parcerias e Convênios com diversas atividades.
+A 
+ é uma associação para Servidores Públicos, que há mais 35 anos promove saúde, bem-estar, lazer e segurança para o Servidor e sua família. São 22 Benefícios Coletivos e Programas incluídos: Assistências Médica e Odontológica Ambulatorial Básica Coletiva, Assistência Jurídica, Funeral, Seguro de vida e muito mais. Além de mais de 100 Parcerias e Convênios com diversas atividades.
+O colaborador da ASSIST também pode usufruir dos benefícios 😉. Além de ter benefícios exclusivos, como Espaço Zen - para descanso e jogos na hora do almoço - e programas e projetos de desenvolvimento e incentivo acadêmico. 
+O colaborador da ASSIST também pode usufruir dos benefícios 😉. Além de ter benefícios exclusivos, como Espaço Zen - para descanso e jogos na hora do almoço - e programas e projetos de desenvolvimento e incentivo acadêmico. 
+ 
+ 
+Fomos reconhecidos, pela 4ª vez consecutiva, como um ótimo lugar para se trabalhar pela GPTW. 🥇 Alguns dos pontos altos da ASSIST é o excelente relacionamento interpessoal entre os colaboradores e a vontade deles de permanecer na ASSIST por muito tempo. Temos uma média de 150 colaboradores e mais de 1/3 deles estão na ASSIST há mais de 5 anos, crescendo e se desenvolvendo junto com a associação. 💙💚
+Fomos reconhecidos, pela 4ª vez consecutiva, como um ótimo lugar para se trabalhar pela GPTW. 🥇 Alguns dos pontos altos da ASSIST é o excelente relacionamento interpessoal entre os colaboradores e a vontade deles de permanecer na ASSIST por muito tempo. Temos uma média de 150 colaboradores e mais de 1/3 deles estão na ASSIST há mais de 5 anos, crescendo e se desenvolvendo junto com a associação.
+💙💚
+ACOMPANHE A GENTE!! 😉
+Website
+LinkedIn
+Facebook
+Instagram

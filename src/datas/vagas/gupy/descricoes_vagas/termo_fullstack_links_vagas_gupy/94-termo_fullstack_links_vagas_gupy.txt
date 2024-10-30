@@ -1,0 +1,178 @@
+link_vaga-https://banqi.gupy.io/job/eyJqb2JJZCI6NzUyNTU1Niwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA ENGENHEIRA DE SOFTWARE PLENO FULLSTACK (NODE/REACT)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Somos o Grupo Casas Bahia, com mais de 70 anos de história, realizando os sonhos de +90 milhões de brasileiros. Estamos indo muito além do varejo, em uma jornada que coloca o cliente no centro de tudo. Por aqui, a dedicação total nunca foi tão forte! 
+ 
+A área é responsável por trabalhar em projetos inovadores, desenvolvendo e implementando soluções técnicas que impactam diretamente nossos produtos e serviços. Buscamos um profissional com experiência sólida em desenvolvimento de software e vontade de crescer em um ambiente dinâmico e colaborativo, que envolvem todos os colaboradores e empresas do grupo. 
+trabalhar em projetos inovadores, desenvolvendo e implementando soluções técnicas que impactam diretamente nossos produtos e serviços. Buscamos um profissional com experiência sólida em desenvolvimento de software e vontade de crescer em um ambiente dinâmico e colaborativo
+RESPONSABILIDADES E ATRIBUIÇÕES
+Projetar, desenvolver e manter aplicações utilizando TypeScript, Node.js e React Native. Participar do ciclo de vida completo do desenvolvimento de software, desde a concepção até a implementação e manutenção. Escrever código limpo, testável e eficiente, seguindo as melhores práticas de desenvolvimento. Colaboração em Equipe: Trabalhar em estreita colaboração com outras equipes de engenharia, design e produto para garantir a entrega de soluções que atendam às necessidades dos clientes. Participar de revisões de código e fornecer feedback construtivo para colegas de equipe. Inovação e Melhoria Contínua: Contribuir para a inovação contínua dos nossos produtos e serviços, propondo novas ideias e soluções técnicas. Manter-se atualizado com as últimas tendências e tecnologias no desenvolvimento de software. Desempenho e Escalabilidade: Garantir que as aplicações desenvolvidas sejam escaláveis, seguras e de alta performance. Participar na resolução de problemas técnicos e na otimização de sistemas. Documentação e Boas Práticas: Documentar processos de desenvolvimento, arquiteturas de sistemas e decisões técnicas. Seguir e promover boas práticas de desenvolvimento de software e padrões de codificação. 
+Projetar, desenvolver e manter aplicações utilizando TypeScript, Node.js e React Native.
+Projetar, desenvolver e manter aplicações utilizando TypeScript, Node.js e React Native.
+ Participar do ciclo de vida completo do desenvolvimento de software, desde a concepção até a implementação e manutenção.
+ Participar do ciclo de vida completo do desenvolvimento de software, desde a concepção até a implementação e manutenção.
+ Escrever código limpo, testável e eficiente, seguindo as melhores práticas de desenvolvimento.
+ Escrever código limpo, testável e eficiente, seguindo as melhores práticas de desenvolvimento.
+ Colaboração em Equipe:
+ Colaboração em Equipe:
+ Trabalhar em estreita colaboração com outras equipes de engenharia, design e produto para garantir a entrega de soluções que atendam às necessidades dos clientes.
+ Trabalhar em estreita colaboração com outras equipes de engenharia, design e produto para garantir a entrega de soluções que atendam às necessidades dos clientes.
+ Participar de revisões de código e fornecer feedback construtivo para colegas de equipe.
+ Participar de revisões de código e fornecer feedback construtivo para colegas de equipe.
+ Inovação e Melhoria Contínua:
+ Inovação e Melhoria Contínua:
+ Contribuir para a inovação contínua dos nossos produtos e serviços, propondo novas ideias e soluções técnicas.
+ Contribuir para a inovação contínua dos nossos produtos e serviços, propondo novas ideias e soluções técnicas.
+ Manter-se atualizado com as últimas tendências e tecnologias no desenvolvimento de software.
+ Manter-se atualizado com as últimas tendências e tecnologias no desenvolvimento de software.
+ Desempenho e Escalabilidade:
+ Desempenho e Escalabilidade:
+ Garantir que as aplicações desenvolvidas sejam escaláveis, seguras e de alta performance.
+ Garantir que as aplicações desenvolvidas sejam escaláveis, seguras e de alta performance.
+ Participar na resolução de problemas técnicos e na otimização de sistemas.
+ Participar na resolução de problemas técnicos e na otimização de sistemas.
+ Documentação e Boas Práticas:
+ Documentação e Boas Práticas:
+ Documentar processos de desenvolvimento, arquiteturas de sistemas e decisões técnicas.
+ Documentar processos de desenvolvimento, arquiteturas de sistemas e decisões técnicas.
+ Seguir e promover boas práticas de desenvolvimento de software e padrões de codificação.
+ Seguir e promover boas práticas de desenvolvimento de software e padrões de codificação.
+ 
+ 
+REQUISITOS E QUALIFICAÇÕES
+Nós esperamos que você:
+ Experiências e Qualificações Desejadas:
+ Experiências e Qualificações Desejadas:
+ Experiência comprovada em desenvolvimento de software, com forte domínio de TypeScript, Node.js e React Native.
+ Experiência comprovada em desenvolvimento de software, com forte domínio de TypeScript, Node.js e React Native.
+ Conhecimento em arquitetura de software, design patterns e práticas de desenvolvimento ágil.
+ Conhecimento em arquitetura de software, design patterns e práticas de desenvolvimento ágil.
+ Experiência com cloud computing, especialmente com AWS, incluindo serviços como Lambda e arquitetura serverless.
+ Experiência com cloud computing, especialmente com AWS, incluindo serviços como Lambda e arquitetura serverless.
+ Habilidades excepcionais de resolução de problemas e pensamento crítico.
+ Habilidades excepcionais de resolução de problemas e pensamento crítico.
+ Forte capacidade de comunicação e habilidades interpessoais, com experiência em colaborar com equipes multifuncionais.
+ Forte capacidade de comunicação e habilidades interpessoais, com experiência em colaborar com equipes multifuncionais.
+ Formação superior em Ciência da Computação, Engenharia de Software ou áreas correlatas.
+ Formação superior em Ciência da Computação, Engenharia de Software ou áreas correlatas.
+ Diferenciais:
+ Diferenciais:
+ Experiência com metodologias DevOps e ferramentas de CI/CD.
+ Experiência com metodologias DevOps e ferramentas de CI/CD.
+ Conhecimento em segurança de software e práticas de desenvolvimento seguro.
+ Conhecimento em segurança de software e práticas de desenvolvimento seguro.
+ Participação em projetos open-source ou envolvimento ativo em comunidades técnicas.
+ Participação em projetos open-source ou envolvimento ativo em comunidades técnicas.
+Seria muito legal se você tivesse (diferencial):  
+  
+Experiência com metodologias DevOps e ferramentas de CI/CD.
+Experiência com metodologias DevOps e ferramentas de CI/CD.
+ Conhecimento em segurança de software e práticas de desenvolvimento seguro.
+ Conhecimento em segurança de software e práticas de desenvolvimento seguro.
+ Participação em projetos open-source ou envolvimento ativo em comunidades técnicas.
+ Participação em projetos open-source ou envolvimento ativo em comunidades técnicas.
+INFORMAÇÕES ADICIONAIS
+Alguns benefícios que você terá conosco:  
+Um ambiente dinâmico e em crescimento acelerado que permite muita autonomia; 
+Um ambiente dinâmico e em crescimento acelerado que permite muita autonomia; 
+PLR ou Bônus; 
+PLR ou Bônus; 
+Assistência Médica e Odontológica; 
+Assistência Médica e Odontológica; 
+Vale Refeição; 
+Vale Refeição; 
+Licenças maternidade e paternidade estendidas; 
+Licenças maternidade e paternidade estendidas; 
+Incentivo à prática de atividade física: Wellhub e Total Pass; 
+Incentivo à prática de atividade física: 
+e Total Pass; 
+Descontos em produtos do Grupo e parceiros;  
+Descontos em produtos do Grupo e parceiros;  
+Previdência Privada; 
+Previdência Privada; 
+Seguro de vida; 
+Seguro de vida; 
+Assistência Funeral; 
+Assistência Funeral; 
+Programa Acolher (Atendimento psicológico, Consultoria Previdenciária, Financeira e Jurídica gratuitas); 
+Programa Viver Bem: Telemedicina e Telepsicologia gratuitos 
+ 
+ 
+#VEMPROGRUPOCASASBAHIA 
+ 
+Todas as nossas vagas são elegíveis a candidaturas internas e externas. 
+Colaboradores, acesse a política de recrutamento interno disponível no ServiceNow para conhecer os requisitos e premissas do programa. 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Bate-papo com o time de G&G2Bate-papo com o time de G&G
+Etapa 2: Bate-papo com o time de G&G
+2
+Bate-papo com o time de G&G
+Etapa 3: Conhecendo a Liderança3Conhecendo a Liderança
+Etapa 3: Conhecendo a Liderança
+3
+Conhecendo a Liderança
+Etapa 4: Proposta pra se juntar ao time4Proposta pra se juntar ao time
+Etapa 4: Proposta pra se juntar ao time
+4
+Proposta pra se juntar ao time
+Etapa 5: Dados pré-contratação5Dados pré-contratação
+Etapa 5: Dados pré-contratação
+5
+Dados pré-contratação
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+MAIS DO QUE SOLUÇÕES FINANCEIRAS, AQUI USAMOS A TECNOLOGIA PARA MUDAR REALIDADES!
+O banQi é a conta digital dos brasileiros, gratuita e para todos.
+O banQi é a conta digital dos brasileiros, gratuita e para todos.
+Em maio de 2020, o banQi passou a fazer parte do grupo Via e nossa missão de oferecer serviços financeiros acessíveis e eficientes para as classes C, D e E ficou ainda mais forte.
+Em maio de 2020, o banQi passou a fazer parte do grupo Via e nossa missão de oferecer serviços financeiros acessíveis e eficientes para as classes C, D e E ficou ainda mais forte.
+Desde então, não paramos de crescer! Já são milhões de downloads e contas abertas. E queremos ir além: mais inclusão para todo o Brasil poder organizar a vida financeira, porque acreditamos que dinheiro é independência, liberdade e tranquilidade para correr atrás dos sonhos.
+Desde então, não paramos de crescer! Já são milhões de downloads e contas abertas. E queremos ir além: mais inclusão para todo o Brasil poder organizar a vida financeira, porque acreditamos que dinheiro é independência, liberdade e tranquilidade para correr atrás dos sonhos.
+Se liga na nossa Cultura 🚀
+Aqui no banQi, chamamos a responsa e fazemos acontecer pelo diálogo, respeito à diversidade e inconformismo. E tem mais…
+Aqui no banQi, chamamos a responsa e fazemos acontecer pelo diálogo, respeito à diversidade e inconformismo. E tem mais…
+A gente se adapta, arrisca e se ajuda na real!
+A gente se adapta, arrisca e se ajuda na real!
+Aprender e inovar fazem parte do nosso dia a dia!
+Aprender e inovar fazem parte do nosso dia a dia!
+Aqui, confiança e transparência reforçam o nosso jeito de trabalhar: com muita colaboração!
+Aqui, confiança e transparência reforçam o nosso jeito de trabalhar: com muita colaboração!
+Paixão por pessoas? Aqui tem demais, viu!? O coração chega a bater até mais forte!
+Paixão por pessoas? Aqui tem demais, viu!? O coração chega a bater até mais forte!
+Nossa gente e nosso dia a dia 🚀
+A gente sabe que o brasileiro dá um duro danado pra ganhar seu dinheiro. Por isso, formamos um time fera, curioso e pronto para ajudar nossos usuários a fazer mais, mesmo com pouco. É dedicação, propósito forte e garra, da ideia ao produto final.
+A gente sabe que o brasileiro dá um duro danado pra ganhar seu dinheiro. Por isso, formamos um time fera, curioso e pronto para ajudar nossos usuários a fazer mais, mesmo com pouco. É dedicação, propósito forte e garra, da ideia ao produto final.
+Se você se identifica com isso, que tal participar de:
+Se você se identifica com isso, que tal participar de:
+Uma estrutura ágil na veia, com tribos e squads multidisciplinares;
+Uma estrutura ágil na veia, com tribos e squads multidisciplinares;
+Projetos com foco em tecnologia e inovação;
+Projetos com foco em tecnologia e inovação;
+Um ambiente colaborativo e mão na massa;
+Um ambiente colaborativo e mão na massa;
+Um espaço para propor soluções, crescer e fazer acontecer.
+Um espaço para propor soluções, crescer e fazer acontecer.
+Então vem embarcar com a gente nesta jornada cheia de propósito, desafios e aprendizados sensacionais! Quer saber mais sobre a cultura banQi? Bora conhecer mais abaixo!
+ 
+ACOMPANHA A GENTE AÍ! 😉
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

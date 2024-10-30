@@ -1,0 +1,174 @@
+link_vaga-https://grupoboticario.gupy.io/job/eyJqb2JJZCI6Nzg2NTgwMSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+CIENTISTA DE DADOS III (DIRETORIA DE DADOS) - AFIRMATIVA PARA PESSOAS NEGRAS (PRETAS E PARDAS)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Nosso espírito inquieto nos faz estar sempre de olho nas tendências futuras. A tecnologia é fundamental para revolucionar toda a nossa jornada, da pesquisa e desenvolvimento de produtos até a venda final para nossos consumidores - e é através dela que estamos construindo o maior ecossistema de beleza do mundo. Cada novo processo, cada novo lançamento e cada nova solução exigem eficiência, habilidade e inovação. Só assim é possível manter a velocidade e o dinamismo do nosso crescimento e entregar beleza em cada canto do Brasil e em mais de 15 países. E é isso que o time do gb.tech está fazendo no Grupo Boticário.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver soluções de Data Science para área de Suprimentos, geralmente envolvendo modelos supervisionados e não supervisionados, que atendam necessidades do negócio;Executar as etapas do ciclo de vida de uma solução de DS (entendimento de negócio, estudo e preparação de variáveis, construção de modelos, validação de performance e mensuração de resultados), dando o apoio necessário para colocar os modelos desenvolvidos em produção;Desenhar, junto às áreas de negócio, o uso e monitoramento dos modelos.  
+Desenvolver soluções de Data Science para área de Suprimentos, geralmente envolvendo modelos supervisionados e não supervisionados, que atendam necessidades do negócio;
+Desenvolver soluções de Data Science para área de Suprimentos, geralmente envolvendo modelos supervisionados e não supervisionados, que atendam necessidades do negócio;
+Executar as etapas do ciclo de vida de uma solução de DS (entendimento de negócio, estudo e preparação de variáveis, construção de modelos, validação de performance e mensuração de resultados), dando o apoio necessário para colocar os modelos desenvolvidos em produção;
+Executar as etapas do ciclo de vida de uma solução de DS (entendimento de negócio, estudo e preparação de variáveis, construção de modelos, validação de performance e mensuração de resultados), dando o apoio necessário para colocar os modelos desenvolvidos em produção;
+Desenhar, junto às áreas de negócio, o uso e monitoramento dos modelos.  
+Desenhar, junto às áreas de negócio, o uso e monitoramento dos modelos.
+REQUISITOS E QUALIFICAÇÕES
+Conhecimentos sólidos em Estatística;Conhecimentos em Machine Learning, modelagem supervisionada, não supervisionada e modelos probabilísticos;Conhecimento em Python e/ou R;Conhecimento em SQL;Pensamento analítico e criativo para desenvolver soluções que atendam diferentes tipos de necessidades;Interesse por conhecer cada vez mais sobre a área de negócio com a qual atuará – seus processos, suas métricas e principais dores;Conhecimento em versionamento (Git) e em Cloud;Conhecimento de experimentação (desenho e avaliação de experimentos, teste A/B, testes multivariados, entre outros);Diferencial experiência com engenharia de prompt e LLM.
+Conhecimentos sólidos em Estatística;
+Conhecimentos sólidos em Estatística;
+Conhecimentos em Machine Learning, modelagem supervisionada, não supervisionada e modelos probabilísticos;
+Conhecimentos em Machine Learning, modelagem supervisionada, não supervisionada e modelos probabilísticos;
+Conhecimento em Python e/ou R;
+Conhecimento em Python e/ou R;
+Conhecimento em SQL;
+Conhecimento em SQL;
+Pensamento analítico e criativo para desenvolver soluções que atendam diferentes tipos de necessidades;
+Pensamento analítico e criativo para desenvolver soluções que atendam diferentes tipos de necessidades;
+Interesse por conhecer cada vez mais sobre a área de negócio com a qual atuará – seus processos, suas métricas e principais dores;
+Interesse por conhecer cada vez mais sobre a área de negócio com a qual atuará – seus processos, suas métricas e principais dores;
+Conhecimento em versionamento (Git) e em Cloud;
+Conhecimento em versionamento (Git) e em Cloud;
+Conhecimento de experimentação (desenho e avaliação de experimentos, teste A/B, testes multivariados, entre outros);
+Conhecimento de experimentação (desenho e avaliação de experimentos, teste A/B, testes multivariados, entre outros);
+Diferencial experiência com engenharia de prompt e LLM.
+Diferencial experiência com engenharia de prompt e LLM.
+INFORMAÇÕES ADICIONAIS
+NOSSOS BENEFÍCIOS
+Já falamos que o Grupo Boticário é o melhor e maior ecossistema de beleza, né?
+Já falamos que o Grupo Boticário é o 
+ e 
+ ecossistema de beleza, né?
+E quando falamos dos Benefícios, nos preocupamos com as nossas pessoas e por isso, oferecemos um pacote de benefícios* que permite uma vida mais equilibrada e completa:
+E quando falamos dos Benefícios, nos preocupamos com as nossas pessoas e por isso, oferecemos um pacote de benefícios
+que permite uma vida mais equilibrada e completa:
+Aqui, sua Saúde é prioridade
+Aqui, sua 
+ é prioridade
+. Plano médico e odontológico
+. Plano médico e odontológico
+. Auxílio medicamentos
+. Auxílio medicamentos
+. Vale saúde para familiares
+. Vale saúde para familiares
+. Sessões de psicoterapia gratuitas
+. Sessões de psicoterapia gratuitas
+. Telemedicina e 2ª opinião médica
+. Telemedicina e 2ª opinião médica
+. Vacina da gripe e HPV gratuitas
+. Vacina da gripe e HPV gratuitas
+. Programas de cuidado com a saúde
+. Programas de cuidado com a saúde
+Para cuidar da sua Alimentação
+Para cuidar da sua 
+. Vale refeição ou restaurante local (conforme modelo de trabalho)
+. Vale refeição ou restaurante local (conforme modelo de trabalho)
+. Vale alimentação
+. Vale alimentação
+. Vale alimentação de Natal
+. Vale alimentação de Natal
+Garantindo Bem-Estar e Qualidade de Vida em todos os aspectos da vida
+. Plano de academias e estúdios de atividade física
+. 
+Plano de academias e estúdios de atividade física
+. Auxílio home office (modelos de trabalho híbrido e remoto)
+. Auxílio home office (modelos de trabalho híbrido e remoto)
+. Plano de saúde para pets
+. Plano de saúde para pets
+. Day off de aniversário
+. Day off de aniversário
+. Desconto de até 40% em nossos produtos
+. Desconto de até 40% em nossos produtos
+. Associação para colaboradores (convênios e parcerias, loja multimarcas, academias total pass, cursos e muito mais!)
+. Associação para colaboradores (convênios e parcerias, loja multimarcas, academias total pass, cursos e muito mais!)
+. Programa de viagens e hospedagens 
+. Programa de viagens e hospedagens 
+Para a Família, nosso bem mais precioso
+Para a 
+, nosso bem mais precioso
+. Auxílio educação infantil
+. Auxílio educação infantil
+. Crédito nutrição infantil
+. Crédito nutrição infantil
+. Auxílio babá
+. Auxílio babá
+. Auxílio material escolar
+. Auxílio material escolar
+. Orientação jurídica, psicológica e social
+. Orientação jurídica, psicológica e social
+. Apoio para país atípicos
+. Apoio para país atípicos
+. Licença parental estendida (180 dias para mães e 120 dias para pais)
+. Licença parental estendida (180 dias para mães e 120 dias para pais)
+Mobilidade para sua jornada presencial
+para sua jornada presencial
+. Vale Transporte e Estacionamento (modelos híbrido e presencial)
+. Vale Transporte e Estacionamento (modelos híbrido e presencial)
+Seguridade para proteção e tranquilidade financeira
+para proteção e tranquilidade financeira
+. Seguro de Vida
+. Seguro de Vida
+. Apoio ao falecimento de pais
+. Apoio ao falecimento de pais
+. Previdência Privada
+. Previdência Privada
+. Empréstimos consignados
+. Empréstimos consignados
+*Os pacotes de benefícios são configurados conforme regras de elegibilidade.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Entrevista Recrutamento e Seleção3Entrevista Recrutamento e Seleção
+Etapa 3: Entrevista Recrutamento e Seleção
+3
+Entrevista Recrutamento e Seleção
+Etapa 4: Entrevista com Liderança4Entrevista com Liderança
+Etapa 4: Entrevista com Liderança
+4
+Entrevista com Liderança
+Etapa 5: Teste / Case5Teste / Case
+Etapa 5: Teste / Case
+5
+Teste / Case
+Etapa 6: Entrevista Interface6Entrevista Interface
+Etapa 6: Entrevista Interface
+6
+Entrevista Interface
+Etapa 7: Carta Oferta7Carta Oferta
+Etapa 7: Carta Oferta
+7
+Carta Oferta
+Etapa 8: Processo Admissional8Processo Admissional
+Etapa 8: Processo Admissional
+8
+Processo Admissional
+Etapa 9: Contratação9Contratação
+Etapa 9: Contratação
+9
+Contratação
+GRUPO BOTICÁRIO
+De uma pequena farmácia de manipulação a maior franquia de cosméticos do planeta.
+Somos um Grupo com 15 marcas que está presente em mais de 40 países, com mais de 4.000 lojas físicas, líder de e-commerce de beleza no Brasil e mais de 19.000 colaboradores diretos.
+Temos um ecossistema próprio de beleza, que vai da indústria ao ponto de venda, da logística ao varejo, do laboratório ao coração das consumidoras e das nossas inovações até a palma da sua mão.
+Acreditamos que o futuro mais bonito é aquele que construímos juntos, por isso, até 2030 temos compromissos ambiciosos voltados para o impacto positivo em dimensões humanas, ambientais e em nossos processos produtivos.
+Reinventamos a beleza por meio da tecnologia, inovação diversidade e sustentabilidade com: O Boticário, Eudora, Quem Disse, Berenice?, Vult, O.U.i, Dr. JONES, Tô.que.tô, TRUSS, e do marketplace Beleza na Web, além de atuarmos com produtos licenciados como Australian Gold, Bio Oil, Nuxe, e Pampers.
+Vem fazer beleza com a gente!
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

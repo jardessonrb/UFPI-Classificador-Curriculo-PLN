@@ -1,0 +1,116 @@
+link_vaga-https://afya.gupy.io/job/eyJqb2JJZCI6NzQ1ODI1MSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+AFYA SP | PESSOA DESENVOLVEDORA FULLSTACK JR. (GOLANG/REACT/NEXTJS)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+DESCRIÇÃO DA VAGA
+Somos aliados do médico durante toda a sua jornada e buscamos por pessoas que se identifiquem com nosso propósito, valores e cultura para se juntarem ao nosso time. 
+Vamos juntos transformar a saúde com quem tem a medicina como vocação! 
+ 
+Esta é uma vaga aberta na frente de Soluções para a Prática Médica, para trabalhar de forma remota.  
+Ao assumir o cargo de Pessoa Desenvolvedora Fullstack Jr. na Afya, seu objetivo principal será desenvolver e manter nossos sistemas, garantindo a escalabilidade, desempenho e segurança.
+
+♿ 
+RESPONSABILIDADES E ATRIBUIÇÕES
+💻🩺 COMO VOCÊ VAI TRANSFORMAR A SAÚDE NO DIA A DIA:Desenvolver sistemas e aplicações conforme requisitos especificados e prazos estipulados;Acompanhar todo o ciclo de vida das aplicações (análise, desenvolvimento, testes, lançamento e suporte); Reunir informações sobre necessidades das aplicações e sugerir soluções;Escrever testes automatizados para identificar falhas;Diagnosticar falhas e depurá-las para otimizar o desempenho;Relacionar-se com a equipes de desenvolvimento e de produto para planejar novas funcionalidades;Manter-se atualizado com novas tendências em tecnologia.
+Desenvolver sistemas e aplicações conforme requisitos especificados e prazos estipulados;
+Acompanhar todo o ciclo de vida das aplicações (análise, desenvolvimento, testes, lançamento e suporte); 
+Reunir informações sobre necessidades das aplicações e sugerir soluções;
+Escrever testes automatizados para identificar falhas;
+Diagnosticar falhas e depurá-las para otimizar o desempenho;
+Relacionar-se com a equipes de desenvolvimento e de produto para planejar novas funcionalidades;
+Manter-se atualizado com novas tendências em tecnologia.
+REQUISITOS E QUALIFICAÇÕES
+🔎 O QUE BUSCAMOS (mas não esperamos que uma única pessoa atenda a todos os requisitos):Conhecimentos básicos na Linguagem Go;Conhecimentos básicos em HTML, CSS e Javascript;Conhecimentos básicos em React/NextJS;Conhecimentos básicos em Banco de Dados Relacionais;Conhecimentos básicos sobre APIs REST;Conhecimentos básicos sobre Testes;Conhecimentos básicos em Git/Github;
+
+Conhecimentos básicos na Linguagem Go;
+Conhecimentos básicos em HTML, CSS e Javascript;
+Conhecimentos básicos em React/NextJS;
+Conhecimentos básicos em Banco de Dados Relacionais;
+Conhecimentos básicos sobre APIs REST;
+Conhecimentos básicos sobre Testes;
+Conhecimentos básicos em Git/Github;
+INFORMAÇÕES ADICIONAIS
+❤️ GENTE É O MELHOR DA GENTE, por isso, oferecemos benefícios e parcerias para o nosso time. Confira os principais abaixo:  🌞 Para o dia a dia:   Vale-alimentação / refeição;  Flexibilidade de horários e alocações (para vagas Remotas);  Vale-transporte (para vagas Hibridas ou Presenciais); 💰 UP na remuneração:  PLR;   Tech Coins para posições específicas (Créditos via Cartão Flash para utilizar como quiser). 👩‍👩‍👧‍👦 Família, Saúde e Bem-estar:  Gympass / Wellhub;  Psicologia Viva (plataforma online para consulta com psicólogo e nutricionista);  Plano de Saúde e Odontológico;  Seguro de Vida;   Licença parental estendida (até 6 meses para mães e 20 dias para pais); Rede D'Ór: suporte e informações importantes para a saúde da mamãe e do bebê com uma rede credenciada de enfermeiros; Parceria com o SESC da sua região (programação variada nas áreas de educação, saúde, cultura, lazer e assistência); Day Off de Aniversário (um dia de folga para tirar no dia ou durante o mês do seu aniversário). 📖 Desenvolvimento e Aprendizado:  Plataforma com diversos cursos para aprimorar seu conhecimento (UCA);   Academia de idiomas (AIA); Programa de desenvolvimento para líderes; Mentoria para Mulheres da Afya (MMA); Desconto em cursos de graduação e pós-graduação nas unidades de ensino da Afya. 
+
+Confira os principais abaixo: 
+ 
+ 
+ 
+🌞 Para o dia a dia:   
+Vale-alimentação / refeição;  
+Vale-alimentação / refeição;  
+Flexibilidade de horários e alocações (para vagas Remotas);  
+Flexibilidade de horários e alocações (para vagas Remotas);  
+Vale-transporte (para vagas Hibridas ou Presenciais); 
+Vale-transporte (para vagas Hibridas ou Presenciais); 
+💰 UP na remuneração:  
+PLR;   
+PLR;   
+Tech Coins para posições específicas (Créditos via Cartão Flash para utilizar como quiser). 
+Tech Coins para posições específicas (Créditos via Cartão Flash para utilizar como quiser). 
+👩‍👩‍👧‍👦 Família, Saúde e Bem-estar:  
+Gympass / Wellhub;  
+Psicologia Viva (plataforma online para consulta com psicólogo e nutricionista);  
+Plano de Saúde e Odontológico;  
+Seguro de Vida;   
+Licença parental estendida (até 6 meses para mães e 20 dias para pais); 
+Rede D'Ór: suporte e informações importantes para a saúde da mamãe e do bebê com uma rede credenciada de enfermeiros; 
+Parceria com o SESC da sua região (programação variada nas áreas de educação, saúde, cultura, lazer e assistência); 
+Day Off de Aniversário (um dia de folga para tirar no dia ou durante o mês do seu aniversário). 
+📖 Desenvolvimento e Aprendizado:  
+Plataforma com diversos cursos para aprimorar seu conhecimento (UCA);   
+Plataforma com diversos cursos para aprimorar seu conhecimento (UCA);   
+Academia de idiomas (AIA); 
+Academia de idiomas (AIA); 
+Programa de desenvolvimento para líderes; 
+Programa de desenvolvimento para líderes; 
+Mentoria para Mulheres da Afya (MMA); 
+Mentoria para Mulheres da Afya (MMA); 
+Desconto em cursos de graduação e pós-graduação nas unidades de ensino da Afya. 
+Desconto em cursos de graduação e pós-graduação nas unidades de ensino da Afya. 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Etapa Triagem2Etapa Triagem
+Etapa 2: Etapa Triagem
+2
+Etapa Triagem
+Etapa 3: Etapa Atração3Etapa Atração
+Etapa 3: Etapa Atração
+3
+Etapa Atração
+Etapa 4: Etapa de Avaliação Técnica4Etapa de Avaliação Técnica
+Etapa 4: Etapa de Avaliação Técnica
+4
+Etapa de Avaliação Técnica
+Etapa 5: Etapa final / Cultura e ou com Líder5Etapa final / Cultura e ou com Líder
+Etapa 5: Etapa final / Cultura e ou com Líder
+5
+Etapa final / Cultura e ou com Líder
+Etapa 6: Etapa Proposta6Etapa Proposta
+Etapa 6: Etapa Proposta
+6
+Etapa Proposta
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+SOMOS A AFYA,
+O MAIOR HUB DE EDUCAÇÃO E SOLUÇÕES PARA A PRÁTICA MÉDICA DO BRASIL.
+A marca Afya nasceu em 2019, mas nossa história começou muito antes. Surgimos da união entre a NRE Educacional, maior grupo de faculdades de Medicina do país, fundado em 1999, com a MEDCEL, marca de cursos preparatórios para prova de residência médica.
+Com o nosso crescimento acelerado, adquirimos nos últimos anos novas unidades de ensino — já são mais de 30 espalhadas pelo Brasil — e mais de 10 startups que oferecem soluções digitais para a prática médica — Afya Whitebook, Afya iClinic, Afya Papers, Glic e Cliquefarma são algumas marcas do nosso portfólio. Acesse afya.com.br para conhecer mais sobre a nossa história e todas as soluções que oferecemos.
+A Afya é uma companhia de capital aberto desde 2019, com ações negociadas na bolsa de valores Nasdaq, nos Estados Unidos. Em 2023 disponibilizamos nossas ações também na bolsa brasileira, a B3. Saiba mais sobre esse assunto em ir.afya.com.br.
+Nosso propósito é transformar a saúde em conjunto com quem tem a medicina como vocação. Para isso, contamos com um time de 10 mil pessoas curiosas, parceiras, comprometidas, adaptáveis e realizadoras. Gente de todos os cantos do Brasil, com diferentes sotaques, mas falando a mesma língua, unida pelo mesmo propósito. Se você se identifica com o jeito Afya de ser, vem com a gente transformar a saúde com educação e tecnologia. #VemSerAfya
+ACOMPANHE NOSSOS CANAIS:
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

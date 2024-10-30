@@ -1,0 +1,112 @@
+link_vaga-https://granitopagamentos.gupy.io/job/eyJqb2JJZCI6Nzc0ODk1OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE DESENVOLVIMENTO BACKEND .NET SENIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Com a visão voltada para o futuro, estamos preparados para moldar o amanhã das transações financeiras, não apenas atendendo, mas também antecipando as necessidades dos nossos clientes.
+
+Inter Pag, a maquininha do Inter 🧡
+RESPONSABILIDADES E ATRIBUIÇÕES
+Responsabilidades como desenvolvedor:Desenvolver features novas em C#;Realizar sustentação nas APIs existentes;Realizar code reviews;Manter a disponibilidade e estabilidade dos sistemas;Criar e manter atualizada a documentação técnica (Confluence ou Wiki) dos sistemas desenvolvidos pela equipe;Realização de revisões de código para garantir artefatos padronizados e de qualidade;Orientação nas implementações de testes automatizados;Sugestão de modelos de desenvolvimento que aumente a qualidade dos produtos e a agilidade dos times;Comunicação 360 com transparência para identificação de atritos e resolução pacifica;Acompanhar indicadores relacionados aos sistemas e propor melhorias.
+
+Desenvolver features novas em C#;
+Realizar sustentação nas APIs existentes;
+Realizar code reviews;
+Manter a disponibilidade e estabilidade dos sistemas;
+Criar e manter atualizada a documentação técnica (Confluence ou Wiki) dos sistemas desenvolvidos pela equipe;
+Criar e manter atualizada a documentação técnica (Confluence ou Wiki) dos sistemas desenvolvidos pela equipe;
+Realização de revisões de código para garantir artefatos padronizados e de qualidade;
+Realização de revisões de código para garantir artefatos padronizados e de qualidade;
+Orientação nas implementações de testes automatizados;
+Orientação nas implementações de testes automatizados;
+Sugestão de modelos de desenvolvimento que aumente a qualidade dos produtos e a agilidade dos times;
+Sugestão de modelos de desenvolvimento que aumente a qualidade dos produtos e a agilidade dos times;
+Comunicação 360 com transparência para identificação de atritos e resolução pacifica;
+Comunicação 360 com transparência para identificação de atritos e resolução pacifica;
+Acompanhar indicadores relacionados aos sistemas e propor melhorias.
+REQUISITOS E QUALIFICAÇÕES
+Para fazer parte do nosso time, é essencial:Sólida experiência com desenvolvimento Back-end plataforma .Net (C#);Sólidos fundamentos de POO (Programação Orientada a Objetos);Conhecimentos em arquitetura de aplicações RESTful;Experiência com arquitetura de microservices;Bons conhecimentos em Clean Code, Design Patterns e conceitos S.O.L.I.D;Conhecimento em banco de dados SQL Server;Experiência em AWS;Experiência com versionamento Git;C# (.NET CORE 2.0+), Solid, DDD, TDD, clean code e padrões de integração;SQL;Metodologia Ágil;Aplicações REST (Web API)Docker;Swagger;Elastic;Testes de Integração e Automatização;É diferencial:MongoDB e NoSQL;Experiência em ferramentas de APM (Application Performance Management);Grafana;DataDog;RabbitMQ, Kafka.
+
+Sólida experiência com desenvolvimento Back-end plataforma .Net (C#);
+Sólida experiência com desenvolvimento Back-end plataforma .Net 
+(C#);
+Sólidos fundamentos de POO (Programação Orientada a Objetos);
+Sólidos fundamentos de POO (Programação Orientada a Objetos);
+Conhecimentos em arquitetura de aplicações RESTful;
+Conhecimentos em arquitetura de aplicações RESTful;
+Experiência com arquitetura de microservices;
+Experiência com arquitetura de microservices;
+Bons conhecimentos em Clean Code, Design Patterns e conceitos S.O.L.I.D;
+Bons conhecimentos em Clean Code, Design Patterns e conceitos S.O.L.I.D;
+Conhecimento em banco de dados SQL Server;
+Conhecimento em banco de dados SQL Server;
+Experiência em AWS;
+Experiência com versionamento Git;
+Experiência com versionamento Git;
+C# (.NET CORE 2.0+), Solid, DDD, TDD, clean code e padrões de integração;
+SQL;
+Metodologia Ágil;
+Aplicações REST (Web API)
+Docker;
+Swagger;
+Elastic;
+Testes de Integração e Automatização;
+
+MongoDB e NoSQL;
+MongoDB e NoSQL;
+Experiência em ferramentas de APM (Application Performance Management);
+Grafana;
+DataDog;
+RabbitMQ, Kafka.
+INFORMAÇÕES ADICIONAIS
+Contratação CLT;Modelo de trabalho híbrido em Alphaville/SP (3x presenciais e 2x home office);Vale transporte e/ou combustível - Flash Benefícios;Vale Refeição/Alimentação - Flash Benefícios;Assistência médica e odontológica - SulAmérica;Seguro de Vida;Day Off no mês de aniversário;Parceria com TotalPass;Bônus anual.
+Contratação CLT;
+Modelo de trabalho híbrido em Alphaville/SP (3x presenciais e 2x home office);
+Vale transporte e/ou combustível - Flash Benefícios;
+Vale Refeição/Alimentação - Flash Benefícios;
+Assistência médica e odontológica - SulAmérica;
+Seguro de Vida;
+Day Off no mês de aniversário;
+Parceria com TotalPass;
+Bônus anual.
+Bônus anual.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista RH2Entrevista RH
+Etapa 2: Entrevista RH
+2
+Entrevista RH
+Etapa 3: Entrevista Gestão3Entrevista Gestão
+Etapa 3: Entrevista Gestão
+3
+Entrevista Gestão
+Etapa 4: Contratação4Contratação
+Etapa 4: Contratação
+4
+Contratação
+NOSSA HISTÓRIA I INTER PAG
+Sobre nós: 
+ 
+ 
+Somos a Inter Pag!
+No mercado há nove anos, somos uma empresa brasileira pioneira em recebimento de pagamentos via transações eletrônicas, que se destacou pela tecnologia completa e se tornou uma importante adquirente no Brasil, ao oferecemos soluções personalizadas e diferenciadas aos nossos clientes.
+Anteriormente como Granito, agora, com a liderança total do Inter, a marca mudou para Inter Pag!
+O que não mudou é que continuamos nossa jornada de inovação, agilidade e acessibilidade, com foco em soluções inteligentes de pagamento para o mercado.
+ 
+Agora, essa tecnologia completa passa a integrar o ecossistema Inter para empresas e, com a visão voltada para o futuro, estamos preparados para moldar o amanhã das transações financeiras, não apenas atendendo, mas também antecipando as necessidades dos nossos clientes.
+VEM SABER MAIS SOBRE A GENTE!
+Website
+LinkedIn
+Facebook
+Instagram

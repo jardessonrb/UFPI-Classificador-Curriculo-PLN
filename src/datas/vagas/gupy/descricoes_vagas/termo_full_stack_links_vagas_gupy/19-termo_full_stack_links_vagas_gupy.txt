@@ -1,0 +1,73 @@
+link_vaga-https://tivit.gupy.io/job/eyJqb2JJZCI6ODAxMjMwNSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+FULL STACK DEVELOPMENT SR (.NET/ANGULAR)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Full Stack Developer SR (.NET/Angular)
+RESPONSABILIDADES E ATRIBUIÇÕES
+Front-end (Conhecimento comprovado em Metodologias Ágeis. Experiência em desenvolvimento de sistemas web. Experiência comprovada em Angular com TypeScript. Experiência em desenvolvimento ágil. Sólida experiência em DEVOPS, TDD, BDD, Clean code, SOLID, YAGNI e DRY.)Back-end (Conhecimento comprovado em Metodologias Ágeis. Experiência em desenvolvimento de sistemas web. Experiência comprovada em .NET. Experiência em desenvolvimento ágil. Sólida experiência comprovada em desenvolvimento utilizando metodologia DDD - Domain-Driven Design Sólida experiência em DEVOPS, TDD, BDD, Clean code, SOLID, YAGNI e DRY.)
+Front-end (Conhecimento comprovado em Metodologias Ágeis. Experiência em desenvolvimento de sistemas web. Experiência comprovada em Angular com TypeScript. Experiência em desenvolvimento ágil. Sólida experiência em DEVOPS, TDD, BDD, Clean code, SOLID, YAGNI e DRY.)
+Back-end (Conhecimento comprovado em Metodologias Ágeis. Experiência em desenvolvimento de sistemas web. Experiência comprovada em .NET. Experiência em desenvolvimento ágil. Sólida experiência comprovada em desenvolvimento utilizando metodologia DDD - Domain-Driven Design Sólida experiência em DEVOPS, TDD, BDD, Clean code, SOLID, YAGNI e DRY.)
+REQUISITOS E QUALIFICAÇÕES
+Ensino Superior CompletoProficiência na utilização das ferramentas:Visual Studio, Visual Code,SQL Server Management Studio,Postman/InsomniaTecnologias utilizadas:Microsoft .Net Core (Web Api)Entity FrameworkAuto MapperSwaggerTeste unitário com Moq e Faker.Mongo/RedisAngularMetodologia ágil SCRUM.Ambiente AZURE DevOps
+Ensino Superior Completo
+Proficiência na utilização das ferramentas:
+Visual Studio, 
+Visual Code,
+SQL Server Management Studio,
+Postman/Insomnia
+Tecnologias utilizadas:
+Microsoft .Net Core (Web Api)
+Entity Framework
+Auto Mapper
+Swagger
+Teste unitário com Moq e Faker.
+Mongo/Redis
+Angular
+Metodologia ágil SCRUM.
+Ambiente AZURE DevOps
+INFORMAÇÕES ADICIONAIS
+O que oferecemos para você? 
+✔Vale Refeição ou Alimentação; 
+✔Assistência médica e Odontológica; 
+✔Convênio Farmácia (descontos na compra de medicamentos); 
+✔Seguro de Vida; 
+✔Convênio Academia;
+✔TIVIT Club (descontos e parcerias com as melhores lojas);
+✔PAC - Programa de aceleração de carreira; 
+✔Reembolso para certificações; 
+✔MOBIFLIX – Nossa academia corporativa tem cursos presenciais e online, alinhados as novas tendências do mercado de tecnologia; 
+✔Plataforma online de crédito consignado, a TIVIT te ajuda a realizar os seus objetivos pessoais como reforma no seu apê/casa, financiar estudos e quitar dívidas, de acordo com as regras e políticas da cia; 
+✔Programa de Apoio Pessoal com orientação psicológica, financeira e jurídica em parceria com a Alelo. 
+
+Acreditamos que o presente é plural e a inclusão transforma, por isso, todas as pessoas são bem-vindas em nossas vagas, para promovermos um ambiente de trabalho inclusivo, de respeito, justiça e equidade.
+ 
+Topa embarcar nesse desafio com a gente?  #vemserTIVIT
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista com RH2Entrevista com RH
+Etapa 2: Entrevista com RH
+2
+Entrevista com RH
+Etapa 3: Entrevista com Gestor3Entrevista com Gestor
+Etapa 3: Entrevista com Gestor
+3
+Entrevista com Gestor
+Etapa 4: Contratação4Contratação
+Etapa 4: Contratação
+4
+Contratação
+NA TIVIT DINAMISMO E TRANSFORMAÇÃO CONSTANTE FAZEM PARTE DO SEU DIA A DIA
+A TIVIT é uma multinacional brasileira que transforma negócios por meio da tecnologia. Com 25 anos de presença no mercado e operações em dez países da América Latina. A companhia oferece serviços e soluções de nuvem pública, privada e híbrida, desenvolvimento de software ágil, cibersegurança, transformação digital, além de soluções SaaS, e outros, que apoiam as empresas nas suas jornadas de transformação digital.
+A companhia conta com uma forte estratégia de inovação, com o TIVIT Labs (hub que apoia as empresas a descobrirem e solucionarem os seus maiores desafios de inovação) e a TIVIT Ventures, braço de aquisição de empresas inovadoras, que já conta com as marcas Stone Age, tbankS, Privally, DevApi, Lambda3, SENSR.IT e XMS.

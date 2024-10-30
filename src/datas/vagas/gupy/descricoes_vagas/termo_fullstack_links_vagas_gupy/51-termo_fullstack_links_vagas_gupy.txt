@@ -1,0 +1,74 @@
+link_vaga-https://gruposoma.gupy.io/job/eyJqb2JJZCI6NzQ3NDY3Mywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+GRUPO SOMA | SOMALABS | DESENVOLVEDOR(A) FULLSTACK PLENO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Inquietos e Acelerados. Criativos ou Cartesianos. Talentosos e Autodidatas. Artesanais ou Tecnológicos.
+Não importa: gostamos de diversidade e de quem está aqui para agregar.
+Porque GENTE É O QUE SOMA.
+A pessoa desenvolvedora irá atuar na criação e evolução dos nossos produtos digitais focados no time de Estilo de marcas como FARM Brasil, FARM Rio, Hering, Animale e outras, sendo responsável pelo desenvolvimento, manutenção e implantação de novas tecnologias, além de parceria com os times de Design e Produto.
+Nosso principal desafio é levar tecnologia e inovação para os Times Criativos por trás das marcas que geram mais desejo no Brasil.
+QUER FAZER PARTE DESTA JORNADA COM A GENTE?
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver e manter APIs robustas e escaláveis para suportar os sistemas legados e novos sistemas;Implementar e otimizar o API Gateway para integração de serviços;Migrar sistemas legados para uma arquitetura moderna de microserviços;Integrar serviços backend com bancos de dados relacionais e não relacionais;Suportar processos de ETL (Extração, Transformação e Carga) utilizando Python;Implementar sistemas de filas como BullMQ ou similares para processamento assíncrono;Utilizar Redis ou tecnologias similares para caching e suporte a sistemas de filas;Garantir a consistência e integridade dos dados trafegados entre os sistemas;Documentar algoritmos e processos de desenvolvimento;
+Desenvolver e manter APIs robustas e escaláveis para suportar os sistemas legados e novos sistemas;
+Implementar e otimizar o API Gateway para integração de serviços;
+Migrar sistemas legados para uma arquitetura moderna de microserviços;
+Integrar serviços backend com bancos de dados relacionais e não relacionais;
+Suportar processos de ETL (Extração, Transformação e Carga) utilizando Python;
+Implementar sistemas de filas como BullMQ ou similares para processamento assíncrono;
+Utilizar Redis ou tecnologias similares para caching e suporte a sistemas de filas;
+Garantir a consistência e integridade dos dados trafegados entre os sistemas;
+Documentar algoritmos e processos de desenvolvimento;
+REQUISITOS E QUALIFICAÇÕES
+Conhecimentos em Node.js com Express e/ou Nest.js;Experiência com arquitetura de microserviços e API Gateway, preferencialmente Krakend;Conhecimentos em bancos de dados relacionais (MySQL, SQL Server, PostgreSQL) e não relacionais (MongoDB);Conhecimentos em Python para automação e ETL;Experiência com sistemas de filas como BullMQ ou similares;Experiência com ferramentas de CI/CD (Continuous Integration/Continuous Deployment);Familiaridade com sistemas de controle de versão, como Git e Github Flow;
+Conhecimentos em Node.js com Express e/ou Nest.js;
+Experiência com arquitetura de microserviços e API Gateway, preferencialmente Krakend;
+Conhecimentos em bancos de dados relacionais (MySQL, SQL Server, PostgreSQL) e não relacionais (MongoDB);
+Conhecimentos em Python para automação e ETL;
+Experiência com sistemas de filas como BullMQ ou similares;
+Experiência com ferramentas de CI/CD (Continuous Integration/Continuous Deployment);
+Familiaridade com sistemas de controle de versão, como Git e Github Flow;
+INFORMAÇÕES ADICIONAIS
+Conhecimentos em frameworks de front-end como Next.js para colaboração com a equipe de front-end;Familiaridade com metodologias ágeis e ferramentas como Jira.
+Conhecimentos em frameworks de front-end como Next.js para colaboração com a equipe de front-end;
+Familiaridade com metodologias ágeis e ferramentas como Jira.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista G&G2Entrevista G&G
+Etapa 2: Entrevista G&G
+2
+Entrevista G&G
+Etapa 3: Entrevista Gestor 3Entrevista Gestor 
+Etapa 3: Entrevista Gestor 
+3
+Entrevista Gestor 
+Etapa 4: Contratação4Contratação
+Etapa 4: Contratação
+4
+Contratação
+SOMOS O MAIOR GRUPO DE MODA DO BRASIL
+Por aqui, a gente inova e renova o mercado da moda do nosso jeito, arregaçando as mangas e fazendo os resultados acontecerem na nossa frente. Somos uma grande e eficiente união de talentos e expertises.
+Por aqui, a gente inova e renova o mercado da moda do nosso jeito, arregaçando as mangas e fazendo os resultados acontecerem na nossa frente. Somos uma grande e eficiente união de talentos e expertises.
+
+Seja nos times criativos, escritórios, lojas e fábricas, cada pessoa aqui é muito importante no nosso universo. E acreditamos de verdade que o brilho no olho do nosso time é o que faz a gente ir cada vez mais longe.
+Seja nos times criativos, escritórios, lojas e fábricas, cada pessoa aqui é muito importante no nosso universo. E acreditamos de verdade que o brilho no olho do nosso time é o que faz a gente ir cada vez mais longe.
+
+Nossa missão é sonhar grande e fazer gigante. Porque gente é o que SOMA.
+Nossa missão é sonhar grande e fazer gigante. 
+VEM ACOMPANHAR OS NOSSOS BASTIDORES!
+Website
+LinkedIn
+Instagram
+Glassdoor

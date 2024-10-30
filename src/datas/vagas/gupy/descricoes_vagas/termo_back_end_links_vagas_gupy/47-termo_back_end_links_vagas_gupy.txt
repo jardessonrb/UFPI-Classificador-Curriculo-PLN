@@ -1,0 +1,98 @@
+link_vaga-https://allostech.gupy.io/job/eyJqb2JJZCI6Nzc0ODU5MSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA BACK-END SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+ALLOS é uma marca com uma forte herança. São cerca de 50 anos de experiência, transformando o mercado no Brasil. Somos referência em excelência e inovação, com a qualidade e confiança que faz parte da nossa história.
+A nova marca surgiu pronta para o futuro, a partir da fusão entre a Aliansce Sonae e a brMalls, em 2023. Mas, essa trajetória começou bem antes.
+ 
+Tudo começou com a Aliansce, que inaugurou o primeiro shopping da região Nordeste e o segundo do Brasil em 1975. Em 2019, a fusão entre a Aliansce e a Sonae Sierra deu origem à Aliansce Sonae, tornando-se líder na administração de shoppings no Brasil, com 32 empreendimentos. Em 2006, surge a brMalls resultando em um portfólio de 30 ativos presentes nas cinco regiões do país.
+ 
+E assim, em 2023, a ALLOS surge com o encontro de duas potências nacionais do segmento, unindo forças para se tornar a mais inovadora plataforma de entretenimento, lifestyle, serviços e compras.
+Nossa história continua e estamos prontos para criar momentos que transformam e impactam a vida das pessoas, gerando conexões e oportunidades.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Projetar, desenvolver, testar e manter aplicações back-end usando JavaScript e Node.Js;Implementar funcionalidades novas e aprimoradas conforme as necessidades do projeto;Colaborar com equipes front-end para integrar efetivamente o back-end com o front-end;Integrar e interagir com bancos de dados, tanto relacionais quanto NoSQL, conforme necessário para o projeto;Desenvolver testes automatizados para garantir a estabilidade e confiabilidade do código;Documentar o código de forma clara e concisa;Ficar atualizado com as tendências e tecnologias emergentes;Contribuir para a melhoria contínua dos processos de desenvolvimento.
+Projetar, desenvolver, testar e manter aplicações back-end usando JavaScript e Node.Js;
+Implementar funcionalidades novas e aprimoradas conforme as necessidades do projeto;
+Colaborar com equipes front-end para integrar efetivamente o back-end com o front-end;
+Integrar e interagir com bancos de dados, tanto relacionais quanto NoSQL, conforme necessário para o projeto;
+Desenvolver testes automatizados para garantir a estabilidade e confiabilidade do código;
+Documentar o código de forma clara e concisa;
+Ficar atualizado com as tendências e tecnologias emergentes;
+Contribuir para a melhoria contínua dos processos de desenvolvimento.
+REQUISITOS E QUALIFICAÇÕES
+Ensino superior completo;Experiência sólida em JavaScript (Node.Js) ou Golang;Conhecimento de boas práticas para desenvolvimento de APIs, como versionamento, autenticação e autorização;Experiência em bancos de dados relacionais e bancos de dados NoSQL;Experiência com filas utilizando Service Bus ou Kafka;Habilidade em usar sistemas de controle de versão, como Git, e compreensão de boas práticas de colaboração em equipe;Experiência em otimização de desempenho de aplicativos Node.Js e identificação de gargalos;Habilidades de comunicação eficaz e colaboração em equipe;Adesão a boas práticas de desenvolvimento, como code reviews, documentação, e padrões de codificação.
+Ensino superior completo;
+Experiência sólida em JavaScript (Node.Js) ou Golang;
+Conhecimento de boas práticas para desenvolvimento de APIs, como versionamento, autenticação e autorização;
+Experiência em bancos de dados relacionais e bancos de dados NoSQL;
+Experiência com filas utilizando Service Bus ou Kafka;
+Habilidade em usar sistemas de controle de versão, como Git, e compreensão de boas práticas de colaboração em equipe;
+Experiência em otimização de desempenho de aplicativos Node.Js e identificação de gargalos;
+Habilidades de comunicação eficaz e colaboração em equipe;
+Adesão a boas práticas de desenvolvimento, como code reviews, documentação, e padrões de codificação.
+INFORMAÇÕES ADICIONAIS
+O Que Temos Para Você 🤩
+ 
+Vale Refeição/Alimentação;
+Vale Transporte/Estacionamento;
+Plano de Saúde;
+Plano Odontológico;
+Seguro de vida;
+Wellhub;
+Auxílio Farmácia;
+Day Off;
+EduPass;
+Auxílio Home Office;
+Bônus anual;
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista Atração e Seleção2Entrevista Atração e Seleção
+Etapa 2: Entrevista Atração e Seleção
+2
+Entrevista Atração e Seleção
+Etapa 3: Entrevista Gestão3Entrevista Gestão
+Etapa 3: Entrevista Gestão
+3
+Entrevista Gestão
+Etapa 4: Etapa Flexível4Etapa Flexível
+Etapa 4: Etapa Flexível
+4
+Etapa Flexível
+Etapa 5: Avaliações Finais5Avaliações Finais
+Etapa 5: Avaliações Finais
+5
+Avaliações Finais
+Etapa 6: Proposta6Proposta
+Etapa 6: Proposta
+6
+Proposta
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+DESCRIÇÃO DA EMPRESA
+ALLOSTECH é a vertente de transformação digital da ALLOS, a mais inovadora plataforma de entretenimento, lifestyle, serviços e compras. 
+ALLOSTECH é a vertente de transformação digital da ALLOS, a mais inovadora plataforma de entretenimento, lifestyle, serviços e compras. 
+Com uma estratégia figital abrangente, atuamos nos pilares de e-commerce, logística, data analytics e relacionamento com o consumidor. 
+Com uma estratégia figital abrangente, atuamos nos pilares de e-commerce, logística, data analytics e relacionamento com o consumidor. 
+Somos apaixonados por conectar as pessoas com o que importa, unindo o melhor do mundo físico e digital. 
+Somos apaixonados por conectar as pessoas com o que importa, unindo o melhor do mundo físico e digital. 
+﻿Nossa missão é impulsionar o varejo, oferecendo soluções inteligentes que garantam uma experiência encantadora aos consumidores e apoiem o crescimento dos negócios de lojistas e parceiros.
+﻿Nossa missão é impulsionar o varejo, oferecendo soluções inteligentes que garantam uma experiência encantadora aos consumidores e apoiem o crescimento dos negócios de lojistas e parceiros.
+ 
+ 
+ Junte-se à ALLOSTECH e seja parte dessa transformação!
+ Junte-se à ALLOSTECH e seja parte dessa transformação!
+Clique aqui para mais informações sobre como seus dados pessoais na condição de Pessoa Candidata são tratados pela ALLOS.

@@ -1,0 +1,102 @@
+link_vaga-https://stoque.gupy.io/job/eyJqb2JJZCI6Nzk3MTg2OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA FULL STACK SÊNIOR C#
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Estamos buscando uma Pessoa Desenvolvedora Full Stack Sênior C# para atuar no time de Produtos Digitais.
+
+
+A Pessoa Desenvolvedora Full Stack Sênior, irá integrar o time de Produtos Digitais, atuando no desenvolvimento de produtos de software (aplicações web). Desenvolverá atividades de Pesquisa & Desenvolvimento, para adquirir novos conhecimentos ou concepção de produtos.
+
+Há 21 anos, a Stoque apoia seus clientes na sua jornada de transformação digital. Desenvolvemos soluções de automação full service para processos e documentos, do papel à nuvem. No nosso dia a dia, nos desafiamos a garantir que tudo seja cada vez mais simples, permitindo que nossos clientes impulsionem resultados e alcancem o seu máximo potencial.
+
+Acreditamos que qualquer pessoa pode facilitar sua rotina de trabalho através da automatização de processos com o Zeev. Já contamos com mais de 350 mil usuários, 20 mil fluxos de trabalho automatizados e mais de 1 Milhão de solicitações por mês.
+Recentemente, a Zeev foi adquirida pela Stoque, empresa de Automação Digital Full Service, passando a integrar o seu portfólio de produtos digitais.
+
+A união abre oportunidades de desenvolvimento para os profissionais de ambas as empresas. Com a transação, passamos a formar uma equipe com mais de 450 talentos de diversas áreas, que compartilham dos mesmos valores fundamentais, pautados pelo compromisso com a transparência, inovação e resultados, assim como o respeito às pessoas que integram a nossa comunidade.
+
+Conheça mais sobre o Zeev em www.zeev.it
+
+Para conhecer a Stoque, acesse https://www.stoque.com.br/
+
+Quer fazer parte desse movimento que impulsiona pessoas e negócios ao seu máximo potencial? Junte-se ao nosso bando. #VemProBando
+ 
+RESPONSABILIDADES E ATRIBUIÇÕES
+NO DIA A DIA, VOCÊ IRÁ:
+Desenvolver novas funcionalidades e correções;
+Atividades de Pesquisa & Desenvolvimento para adquirir novos conhecimentos ou concepção de produtos;
+Desenvolver com qualidade de código, code review;
+Acompanhar e realizar deploy;
+Acompanhar e realizar entregas;
+Aplicar métodos ágeis;
+Criar estruturas e rotinas para banco de dados;
+Participar de definições de arquitetura, framework e desenvolvimento da aplicação em nuvem;
+Desenvolver novas soluções de suporte ao desenvolvimento de produto;
+Migrar tecnologia e código do software legado para nova arquitetura;
+Interagir e compartilhar conhecimento com o time.
+
+REQUISITOS E QUALIFICAÇÕES
+PROCURAMOS ALGUÉM QUE TENHA:
+﻿
+Soft Skills
+Perfil com autonomia e independência;
+Capacidade de mentorar e disseminar conhecimento para demais pessoas;
+Capacidade de auto-organização;
+Boa comunicação oral e escrita.
+ 
+Hard Skills
+Conhecimento em C# (.Net Core, .Net Framework eASP.NET);
+Conhecimento em RESTful APIs ou WebAPI;
+Front-end: Javascript nativo, HTML5, CSS3;
+Controle de versão Git e abordagem Gitflow;
+Conhecimentos de boas práticas de desenvolvimento de software como o SOLID;
+Desenvolvimento Web utilizando AspNet MVC com .NET Framework;
+Conhecimentos no Banco de dados SQL Server;
+Saber trabalhar com a metodologia ágil como SCRUM e/ou Kanban;
+Testes: Unitários e de integração.
+Seria interessante ter:
+Conhecimentos em softwares ECM/GED (Enterprise Content Management/Gestão de Documentos);
+Conhecimentos em softwares BPM/BPMN (Gestão por processos de negócio);
+Conhecimentos da arquitetura AWS (ou outra nuvem pública) como Lambdas, S3, ApiGateway, CloudFront, EC2, ECS, SQS, etc.;
+Conhecimentos em assinaturas digitais de documentos;
+Conhecimentos em desenvolvimento com WCF;
+Desenvolvimento com SDK .Net da AWS;
+Desenvolvimento em ambiente AWS utilizando Docker.
+INFORMAÇÕES ADICIONAIS
+BENEFÍCIOS STOQUE
+Vale refeição e alimentação em um só cartão para maior comodidade;
+Vale transporte ou cartão mobilidade, o que fizer mais sentido para você;
+Plano de saúde;
+Plano odontológico;
+Seguro de vida;
+Day off no mês do seu aniversário;
+Convênio com Sesc para colaboradores e seus dependentes;
+Ajuda de custo para cobertura de despesas de home office, oferecido a quem trabalha no modelo remoto ou híbrido.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevistas: queremos te conhecer! =)2Entrevistas: queremos te conhecer! =)
+Etapa 2: Entrevistas: queremos te conhecer! =)
+2
+Entrevistas: queremos te conhecer! =)
+Etapa 3: Contratação3Contratação
+Etapa 3: Contratação
+3
+Contratação
+QUEM SOMOS
+Acreditamos que simplificar é o caminho inevitável para a evolução. De pessoas, processos, negócios. 
+Apoiamos nossos clientes na sua jornada de transformação digital, tendo-a como meio para simplificar operações complexas e alavancar resultados.
+Há mais de 20 anos, desenvolvemos soluções de automação digital para processos e documentos, do papel à nuvem. Nossa base sólida como provedora de Automação Digital Full Service nos permite impulsionar empresas de médio e grande porte que desejam dar saltos contínuos de crescimento.
+ 
+Saiba mais em: stoque.com.br.
+CONHEÇA A STOQUE!

@@ -1,0 +1,118 @@
+link_vaga-https://paytrack.gupy.io/job/eyJqb2JJZCI6Nzk2NTk1Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR(A) FULLSTACK PLENO {PAGAMENTOS}
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Se você é apaixonado por resolver problemas e desenvolver soluções, e quer trabalhar com tecnologias de ponta em um ambiente dinâmico, esta vaga é para você!
+Somos uma scale up com resultados incríveis, crescendo rápido e ainda com muito a ser estruturado, criado, testado, adaptado, expandido - grande oportunidade para colocar em prática seus conhecimentos, ser muito reconhecido, deixar sua marca na nossa história (e uma marcona no seu currículo). Buscamos resultados ambiciosos para os próximos anos e atingi-los só depende de nós - trabalhando juntos e próximos.
+Você se juntará à squad de Pagamentos, uma equipe focada em desenvolver os meios de pagamento da Paytrack. Temos três grandes produtos: o Paytrack Card, a Carteira Digital e o VCN. Nossa missão é oferecer os melhores e mais modernos meios de pagamento, garantindo conveniência e segurança para nossos clientes.
+A equipe de Pagamentos é responsável por manter e evoluir os produtos com inovação e conformidade. Trabalhando conosco, você irá atuar em um sistema que está na vanguarda das tecnologias de mercado, utilizando os melhores princípios de desenvolvimento de software. Estando envolvido em todas as fases do desenvolvimento, desde a concepção até a entrega e o pós-entrega, utilizando Kanban, e colaborando ativamente com outras equipes para garantir a integração perfeita dos nossos sistemas.
+Somos uma empresa de pessoas inovadoras, criativas e diversas, então estamos super abertos a recebê-lo(a) com a sua diversidade 🚀
+💡 Nossa stack tecnológica é:
+Backend: Java 17 (Springboot e Quarkus)
+Frontend: React e AngularJS
+Nuvem: AWS (100% Cloud)
+Banco: Postgre e MySQL
+Banco: Postgre e MySQL
+App: Flutter
+RESPONSABILIDADES E ATRIBUIÇÕES
+🎯 Fará parte do seu dia a dia:
+Desenvolver e aprimorar funcionalidades críticas, garantindo a melhor experiência para nossos usuários e eficiência nas operações;
+Desenvolver e aprimorar funcionalidades críticas, garantindo a melhor experiência para nossos usuários e eficiência nas operações;
+Criar e manter código limpo, testável e de fácil manutenção, tanto no backend quanto no frontend;
+Criar e manter código limpo, testável e de fácil manutenção, tanto no backend quanto no frontend;
+Colaborar com a equipe em todas as fases do desenvolvimento, desde a concepção até a entrega e o suporte pós-entrega;
+Colaborar com a equipe em todas as fases do desenvolvimento, desde a concepção até a entrega e o suporte pós-entrega;
+Participar ativamente das discussões técnicas, oferecendo soluções para desafios complexos e buscando constantemente melhorias;
+Participar ativamente das discussões técnicas, oferecendo soluções para desafios complexos e buscando constantemente melhorias;
+Realizar revisões de código e fornecer feedback construtivo para garantir a qualidade técnica e a integridade do projeto;
+Realizar revisões de código e fornecer feedback construtivo para garantir a qualidade técnica e a integridade do projeto;
+Trabalhar com tecnologias modernas e desafiadoras, garantindo a integração eficiente dos sistemas e a excelência nas entregas.
+Trabalhar com tecnologias modernas e desafiadoras, garantindo a integração eficiente dos sistemas e a excelência nas entregas.
+REQUISITOS E QUALIFICAÇÕES
+✔️ O que eu preciso ter/saber/ser:
+Experiência comprovada como desenvolvedor fullstack, com sólida experiência em backend e frontend;
+Experiência comprovada como desenvolvedor fullstack, com sólida experiência em backend e frontend;
+Expertise em Java (backend) e React e Angular (frontend), com conhecimento em APIs REST e práticas avançadas de desenvolvimento;
+Expertise em Java (backend) e React e Angular (frontend), com conhecimento em APIs REST e práticas avançadas de desenvolvimento;
+Capacidade de desenvolver e implementar soluções que atendam às necessidades de nossos usuários e garantam alta eficiência;
+Capacidade de desenvolver e implementar soluções que atendam às necessidades de nossos usuários e garantam alta eficiência;
+Perfil proativo, com habilidades para resolver problemas complexos e buscar melhorias contínuas;
+Perfil proativo, com habilidades para resolver problemas complexos e buscar melhorias contínuas;
+Experiência em trabalhar com metodologias ágeis e em colaborar com diferentes equipes para garantir uma integração eficaz dos sistemas.
+Experiência em trabalhar com metodologias ágeis e em colaborar com diferentes equipes para garantir uma integração eficaz dos sistemas.
+INFORMAÇÕES ADICIONAIS
+O que você ganha sendo Paytracker? 
+💪 Plano de Saúde Unimed (mensalidade por nossa conta😉);
+💪 Plano de Saúde Unimed (mensalidade por nossa conta
+;
+🍽️ Vale refeição ou alimentação flexível (R$1.200);
+🍽️ Vale refeição ou alimentação flexível (R$1.200);
+🚌 Vale transporte;
+🚌 Vale transporte;
+💊 Convênio farmácia;
+💊 Convênio farmácia;
+🏋️ Convênio SESC;
+🏋️ Convênio SESC;
+🎓 Auxílio educação;
+🎓 Auxílio educação;
+👨‍👩‍👦‍👦 Auxílio Creche/Babá (R$450,00 por filho);
+👨‍👩‍👦‍👦 Auxílio Creche/Babá (R$450,00 por filho);
+🎉 Day off no aniversário; 
+🎉 Day off no aniversário; 
+💅 Auxílio bem-estar (R$100,00).                      
+💅 Auxílio bem-estar (R$100,00).   
+Entre outros mimos 🚀
+🍌 Frutas e lanchinhos cortesia;
+🍻 Happy hour, comemorações de resultados;
+🤝 Premiação de indicação de novos colaboradores;
+🎯 Comemoração de incentivo a projetos e entregas excepcionais.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Entrevista de Cultura3Entrevista de Cultura
+Etapa 3: Entrevista de Cultura
+3
+Entrevista de Cultura
+Etapa 4: Entrevista com Gestor 4Entrevista com Gestor 
+Etapa 4: Entrevista com Gestor 
+4
+Entrevista com Gestor 
+Etapa 5: Entrevista com Gerência5Entrevista com Gerência
+Etapa 5: Entrevista com Gerência
+5
+Entrevista com Gerência
+Etapa 6: Entrevista com Diretor6Entrevista com Diretor
+Etapa 6: Entrevista com Diretor
+6
+Entrevista com Diretor
+Etapa 7: Proposta7Proposta
+Etapa 7: Proposta
+7
+Proposta
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+PAYTRACK | SIMPLES E EFICIENTE
+A Paytrack nasceu para revolucionar a rotina de gestão de despesas e viagens corporativas. Transformamos diariamente empresas de todo o Brasil com a nossa solução. Conquistamos muito espaço de mercado, resultados incríveis e estamos crescendo rápido. Por isso, queremos conhecer gente interessante e interessada, pra ver se damos match nos nossos objetivos, valores, necessidades e habilidades!
+CONECTE-SE COM A GENTE!
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

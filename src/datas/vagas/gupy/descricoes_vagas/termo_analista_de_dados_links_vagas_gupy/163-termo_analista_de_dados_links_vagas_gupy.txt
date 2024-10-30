@@ -1,0 +1,81 @@
+link_vaga-https://inpasabrasil.gupy.io/job/eyJqb2JJZCI6Nzc5MjU3OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA INTELIGÊNCIA DE DADOS AUTOMAÇÃO SR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Atuar na área de automação realizando testes de aceitação de campo (TAC) em novos projetos e/ou melhorias, realizar análise de dados por meio de regressão múltipla, incluindo a exportação da base de dados para formatos CVS/XLX. Monitorar empresas prestadoras de serviços quanto ao desenvolvimento de automação, realizando o tratamento de alarmes de acordo com a necessidade atendendo a ISA 18.2 e a EEMUA-191.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Analisar e monitorar atividades no desenvolvimento dos projetos, considerando aspectos técnicos e qualidade;
+Atuar na área Técnica, auxiliando na automatização dos processos de fabricação, mediante implantação de recursos para racionalização da produção;
+Colaborar no desenvolvimento de atividades inerentes à implantação de novos equipamentos e novas tecnologias; 
+Preparar modificações para readequação de equipamentos existentes a novas necessidades da produção, bem como realizando demais atividades correlatas e inerentes ao cargo;
+Utilizar a ferramenta do AssetCenter, para colaborar com diagnósticos e log¿s de alterações na plataforma, assegurando a automatização dos processos de fabricação;
+Realizar análise, gestão e compressão de dados no Historian Live Data Interface;
+Realizar checklist trimestral da capacidade de processamento dos controles e ajuste de frequência de atualização das (TASKs ¿ grupo de rotinas logicas);
+Extrair cópia de segurança de arquivos, diretórios ou discos, sejam eles físicos ou virtuais, de dispositivos eletrônicos para um sistema de armazenamento secundário, com o objetivo de preservar o ambiente em conformidade com as diretrizes da norma ISO 27001;
+Realizar a compatibilização de materiais hardware de automação na obra;
+Orientar técnicamente o preparo de modificações para readequação de equipamentos existentes a novas necessidades da produção, sejam elas de aumento de capacidade produtiva, qualidade ou segurança;
+Participar ativamente no desenvolvimento de projetos e soluções, buscando o processo de melhorias contínuas e qualidade total;
+Realizar preenchimento de formulários referentes à automação industrial, mediante autorização do superior imediato para envio de informações;
+Analisar, acompanhar e elaborar relatórios das etapas do processo de fabricação, com intuito de garantir que os processos sejam realizados da melhor forma possível;
+Apoiar no preparo de modificações para readequação de equipamentos existentes a novas necessidades da produção, sejam elas de aumento de capacidade produtiva, qualidade ou segurança; 
+Colaborar no suporte e manutenção das automações implementadas;
+Controlar e definir os níveis mínimos e máximos de estoque de materiais utilizados na automação, analisando necessidades e solicitando a aquisição de novos;
+Acompanhar solicitação de Serviço SS, abertura de ordem de serviço OS, distribuição de atividade de acordo com necessidade, monitoramento de chamados;
+Realizar auditoria de acesso e alterações feitas na plataforma de automação (garantindo as evidências via Citrix);
+Manter controles de equipamentos utilizados na automação, bem como fornecer informações que servirão para preparação de relatórios gerenciais;
+Auxiliar no preenchimento de relatórios referentes à planta industrial sendo esses, quando por algum evento de parada de produção parcial ou total na indústria; 
+Organizar arquivo de laudos de inspeções em geral; 
+Acompanhar cronograma de execução de novos projetos de automação;
+Apoiar equipe de campo quando necessário, auxiliando no manuseio de dispositivos ou viabilizando formas de fazer manutenção conforme avaliação local;
+Desenvolvimento de planos de ação voltados a automação oriundos de relatórios de paradas industriais não programadas (desarmes), acompanhando a melhoria a ser implementada da sua concepção até a validação da tecnologia implementada e todos os processos e unidades correlacionadas;
+Executar as atividades da função respeitando todas as normas e procedimentos de segurança, saúde e meio ambiente do trabalho, estabelecidos pela organização, bem como, utilizar constantemente todos os EPIs de uso obrigatório no desenvolvimento das atividades do cargo e do setor. Tendo a responsabilidade de informar ao seu superior imediato qualquer atividade que apresente risco a sua saúde ou dos demais colegas de trabalho.
+Manter a disciplina no programa 5S, objetivando um trabalho seguro por meio da manutenção da organização, padronização e limpeza do ambiente de trabalho.
+Zelar pelas propriedades da empresa sob sua responsabilidade, informando ao superior imediato qualquer problema ou avaria detectada.
+REQUISITOS E QUALIFICAÇÕES
+Ensino superior completo;
+INFORMAÇÕES ADICIONAIS
+Benefícios: Vale alimentação; Plano de saúde (Unimed); Plano odontológico; Vale transporte; Gympass; Refeição na empresa, PPR, Orienteme, Edupass.
+Benefícios: Vale alimentação; Plano de saúde (Unimed); Plano odontológico; Vale transporte; Gympass; Refeição na empresa, PPR, Orienteme, Edupass.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista com RH2Entrevista com RH
+Etapa 2: Entrevista com RH
+2
+Entrevista com RH
+Etapa 3: Entrevista com Gestor3Entrevista com Gestor
+Etapa 3: Entrevista com Gestor
+3
+Entrevista com Gestor
+Etapa 4: Carta Proposta4Carta Proposta
+Etapa 4: Carta Proposta
+4
+Carta Proposta
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+CONHEÇA O GRUPO INPASA
+A Inpasa Brasil foi uma das primeiras indústrias de Etanol de Milho brasileiras, sendo hoje a maior produtora de combustível limpo e renovável à base de milho da América Latina.
+A Inpasa Brasil foi uma das primeiras indústrias de 
+brasileiras, sendo hoje a 
+de combustível limpo e renovável à base de milho da 
+.
+Para cada número ou meta alcançada, está uma equipe de profissionais competentes. Em uma indústria arrojada como a nossa, ter profissionais treinados é uma conquista fundamental, é por isso que investimos em capacitações contínuas, além do bem-estar e da segurança de nossos trabalhadores, por meio de diversos benefícios.
+Para cada número ou meta alcançada, está uma equipe de profissionais competentes. Em uma indústria arrojada como a nossa, ter profissionais treinados é uma conquista fundamental, é por isso que investimos em capacitações contínuas, além do bem-estar e da segurança de nossos trabalhadores, por meio de diversos benefícios.
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram

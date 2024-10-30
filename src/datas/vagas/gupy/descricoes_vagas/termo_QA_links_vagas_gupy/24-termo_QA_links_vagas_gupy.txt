@@ -1,0 +1,117 @@
+link_vaga-https://zig.gupy.io/job/eyJqb2JJZCI6NzQ1NzYzOCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+QA SÊNIOR
+Tipo de vaga: Pessoa jurídicaPessoa jurídica
+Tipo de vaga: Pessoa jurídica
+Pessoa jurídica
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Zig é a primeira Funtech do mercado de tecnologia para o entretenimento ao vivo com atuação mundial. Presente em grandes festivais, eventos, arenas, feiras, bares e casas noturnas, trazendo inovação e tecnologia para toda a jornada do entretenimento, com soluções e gestão de consumo cashless.
+O mundo é fun!
+Nós, da Zig, The Global Funtech, acreditamos, mais do que nunca, que cada evento que ajudamos a realizar é único e uma inspiração para mudar a forma como as pessoas vivenciam os eventos ao vivo. Aqui e no mundo. Por isso, a Zig já nasceu sem fronteiras para o entretenimento, temos expertise nas principais áreas de atuação. Unimos diversão e tecnologia para criar a melhor experiência para nossos clientes.
+Aqui, você encontrará um ambiente dinâmico, flexível e alegre! Estamos crescendo rapidamente e melhorando a cada dia! Você terá a chance de crescer e se desenvolver junto com a empresa, podendo contribuir ativamente com as suas ideias e fazer um trabalho relevante para levar nossa experiência para cada vez mais pessoas.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Atuar como QA, participando ativamente do ciclo de vida de desenvolvimento de software;Realizar a análise de requisitos e especificações, garantindo a compreensão completa das funcionalidades a serem testadas;Criar quando necessário a arquitetura de projetos de automação e evoluções do projetoElaborar planos de testes abrangentes, incluindo condições de testes funcionais e não funcionais;Realizar checagens e criações de automações de teste, registrando resultados, identificando e documentando problemas encontrados;Realizar documentações do produto de modo a garantir a compreensão e compartilhamento de conhecimento do produto;Trabalhar em estreita colaboração com a equipe de desenvolvimento e outros stakeholders, fornecendo feedback relevante para garantir a qualidade do software;Participar de revisões de código e fornecer sugestões de melhoria, com foco na detecção precoce de problemas;Contribuir para a criação e melhoria contínua dos processos e práticas de garantia de qualidade, adotando abordagens ágeis e buscando a automação sempre que possível;Acompanhar e reportar métricas de qualidade, fornecendo insights e recomendações para melhorias;Realizar manutenção da automação de testes;Realizar o gerenciamento de tarefas (Jira, ClickUp, Trello, etc...);Desenvolvimento de testes automatizados (Familiaridade com alguns dos frameworks como Appium, WebDriver, WebdriverIO, Cypress, Playwright, ConceptJS, Backstopjs, Detox, Maestro e etc.) em JavaScript/Typescript;Realizar testes de API, utilizando ferramentas como Postman ou similares;Realizar consultas SQL para validar os dados durante os testes;Versionamento de código de teste (ferramentas de controle de versão, como Git ou SVN);Realizar testes em dispositivos moveis;Manter-se atualizado(a) sobre as tendências e melhores práticas de garantia de qualidade;Compartilhar conhecimento com o timeRealizar treinamentos com time de qualidade de modo a evoluir a senioridade do timeApoiar diretamente o stack lead de QA
+Atuar como QA, participando ativamente do ciclo de vida de desenvolvimento de software;
+Realizar a análise de requisitos e especificações, garantindo a compreensão completa das funcionalidades a serem testadas;
+Criar quando necessário a arquitetura de projetos de automação e evoluções do projeto
+Elaborar planos de testes abrangentes, incluindo condições de testes funcionais e não funcionais;
+Realizar checagens e criações de automações de teste, registrando resultados, identificando e documentando problemas encontrados;
+Realizar documentações do produto de modo a garantir a compreensão e compartilhamento de conhecimento do produto;
+Trabalhar em estreita colaboração com a equipe de desenvolvimento e outros stakeholders, fornecendo feedback relevante para garantir a qualidade do software;
+Participar de revisões de código e fornecer sugestões de melhoria, com foco na detecção precoce de problemas;
+Contribuir para a criação e melhoria contínua dos processos e práticas de garantia de qualidade, adotando abordagens ágeis e buscando a automação sempre que possível;
+Acompanhar e reportar métricas de qualidade, fornecendo insights e recomendações para melhorias;
+Realizar manutenção da automação de testes;
+Realizar o gerenciamento de tarefas (Jira, ClickUp, Trello, etc...);
+Desenvolvimento de testes automatizados (Familiaridade com alguns dos frameworks como Appium, WebDriver, WebdriverIO, Cypress, Playwright, ConceptJS, Backstopjs, Detox, Maestro e etc.) em JavaScript/Typescript;
+Realizar testes de API, utilizando ferramentas como Postman ou similares;
+Realizar consultas SQL para validar os dados durante os testes;
+Versionamento de código de teste (ferramentas de controle de versão, como Git ou SVN);
+Realizar testes em dispositivos moveis;
+Manter-se atualizado(a) sobre as tendências e melhores práticas de garantia de qualidade;
+Compartilhar conhecimento com o time
+Realizar treinamentos com time de qualidade de modo a evoluir a senioridade do time
+Apoiar diretamente o stack lead de QA
+REQUISITOS E QUALIFICAÇÕES
+Experiência com testes de API, Mobile e WEB;Conhecimento sobre Normas ISO (diferencial)Conhecimento em aplicar TDD e BDDConhecimento em Docker e Orquestração de ContêineresFerramentas de CI/CD (Jenkins, Travis CI, GitLab CI, etc.)Experiência com device farmExperiência sobre Heurísticas de testes para auxiliar em uma melhor forma de testar a aplicação;Experiência com desenvolvimento de testes automatizados;Experiência com lógica de programação JavaScript e Typescript;Experiência prévia em equipes ágeis e familiaridade com métodos como Scrum, Kanban ou Lean;Conhecimento com métodos ágeis escalonados tais como Safe, Scrum of Scrum e LeSS e Disciplined Agile (DA).Algumas certificações da ISTQBExperiência com técnicas de testes (Análise de valor limite, Partição de Equivalência, Tabela de decisão);Conhecimento teórico forte sobre testes de softwareCapacidade de identificar oportunidades de automação de testes, visando aumentar a eficiência e a cobertura dos testes realizados;Habilidades de comunicação eficaz, tanto verbal quanto escrita, para colaborar com diferentes equipes e stakeholders;Capacidade de escrever casos de teste claros, concisos e abrangentes.Disponibilidade para trabalhar híbrido em São Paulo/SP ou Salvador/BA.
+Experiência com testes de API, Mobile e WEB;
+Conhecimento sobre Normas ISO (diferencial)
+Conhecimento em aplicar TDD e BDD
+Conhecimento em Docker e Orquestração de Contêineres
+Ferramentas de CI/CD (Jenkins, Travis CI, GitLab CI, etc.)
+Experiência com device farm
+Experiência sobre Heurísticas de testes para auxiliar em uma melhor forma de testar a aplicação;
+Experiência com desenvolvimento de testes automatizados;
+Experiência com lógica de programação JavaScript e Typescript;
+Experiência prévia em equipes ágeis e familiaridade com métodos como Scrum, Kanban ou Lean;
+Conhecimento com métodos ágeis escalonados tais como Safe, Scrum of Scrum e LeSS e Disciplined Agile (DA).
+Algumas certificações da ISTQB
+Experiência com técnicas de testes (Análise de valor limite, Partição de Equivalência, Tabela de decisão);
+Conhecimento teórico forte sobre testes de software
+Capacidade de identificar oportunidades de automação de testes, visando aumentar a eficiência e a cobertura dos testes realizados;
+Habilidades de comunicação eficaz, tanto verbal quanto escrita, para colaborar com diferentes equipes e stakeholders;
+Capacidade de escrever casos de teste claros, concisos e abrangentes.
+Disponibilidade para trabalhar híbrido em São Paulo/SP ou Salvador/BA.
+INFORMAÇÕES ADICIONAIS
+Saúde e Bem-estar:
+Assistência Médica e Odontológica.
+Para você cuidar da sua saúde emocional, temos psicoterapia online pelo convênio ou Vittude, parceria de descontos.
+Totalpass e Gympass, sim, nosso time conta com descontos especiais em academias e estúdios pra dar aquele incentivo pro projeto verão.
+Em São Paulo, as terças e quartas, acontece uma partidinha de futebol e vôlei.
+ 
+Somos flexíveis:
+Nossa carga horária é diária e flexível. Você pode alinhar com o seu gestor o melhor horário, conforme necessidade da área;
+Modalidade: Híbrido - PJ.
+.
+Tá pensando que acabou? Ainda tem mais viu!
+Tirar aquele descanso pra curtir o aniversário? Temos também! Day off no mês do seu níver está mais que garantido;
+Kit onboarding com tudo que você precisa pra começar com muita energia e acolhimento no nosso time;
+Também temos o Swile Shop, onde estão cadastrados mais de 2.500 parceiros, com descontos exclusivos pra economizar uma graninha na hora das compras;
+Parceria com o Cinemark, separamos um combinho para você curtir um cinema, no precinho.
+Aprender um novo idioma? Temos condições incríveis para quem quer aprender um novo idioma. Aliás, um não, são OITO NOVOS IDIOMAS!
+Vale reforçar que nosso ambiente de trabalho é dinâmico, alegre, diverso e cada vez mais inclusivo
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Fit Cultural2Fit Cultural
+Etapa 2: Fit Cultural
+2
+Fit Cultural
+Etapa 3: Mapeamento Comportamental3Mapeamento Comportamental
+Etapa 3: Mapeamento Comportamental
+3
+Mapeamento Comportamental
+Etapa 4: Entrevista com RH e Área4Entrevista com RH e Área
+Etapa 4: Entrevista com RH e Área
+4
+Entrevista com RH e Área
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+SOMOS A ZIG 🚀
+Mas afinal, o que é ser Zig?
+Construímos histórias para nos orgulharmos!
+Cada passo dado, aprendizado e conquista tem um enorme significado e valor.
+Nos orgulhamos da nossa história e do caminho que trilhamos até aqui, com paixão!
+Não nos falta compromisso!
+ O comprometimento genuíno de cada Zigger com a empresa, com o cliente, com os colegas, com a entrega é notável.
+Vivemos e fazemos acontecer nosso sonho todos os dias.
+Damos o nosso melhor em tudo!
+Nosso time faz o melhor, mesmo quando ninguém está vendo. Fazemos por amor e por acreditar.
+A soma das atitudes que temos diariamente enriquecem experiências e transformam nosso negócio.
+#VEMSERZIG
+#VEMSERZIG
+ 
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Instagram

@@ -1,0 +1,87 @@
+link_vaga-https://luminiitsolutions.gupy.io/job/eyJqb2JJZCI6Nzk2ODA2MSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+CIENTISTA DE DADOS
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+UTILIZE A SUA PAIXÃO POR TECNOLOGIA PARA CAUSAR IMPACTO POSITIVO E #VemSerLuminiITAqui na Lumini IT a inovação e a resiliência fazem parte da nossa rotina.Somos uma empresa de soluções de TI que preza pela qualidade e agilidade na entrega de seus serviços.O nosso grande segredo para estar sempre um passo à frente do mercado é a audácia e a transformação que cada LUMINER promove todos os dias.Nossa integridade nos impulsiona e, o melhor, todo mundo colabora com todo mundo, não importa quem deu a ideia, somos uma empresa de estratégia horizontal, todas as pessoas estão dispostas a ajudar e se envolvem legitimamente para fazer dar certo e entregar resultados.Esta posição é para a área de dados aqui da Lumini e consiste em desenvolver projetos específicos para atender à realidade de companhias de diferentes tamanhos e realidades.Curtiu? Inscreva-se na vaga!
+
+Aqui na Lumini IT a inovação e a resiliência fazem parte da nossa rotina.
+Somos uma empresa de soluções de TI que preza pela qualidade e agilidade na entrega de seus serviços.
+O nosso grande segredo para estar sempre um passo à frente do mercado é a audácia e a transformação que cada LUMINER promove todos os dias.
+Nossa integridade nos impulsiona e, o melhor, todo mundo colabora com todo mundo, não importa quem deu a ideia, somos uma empresa de estratégia horizontal, todas as pessoas estão dispostas a ajudar e se envolvem legitimamente para fazer dar certo e entregar resultados.
+Esta posição é para a área de dados aqui da Lumini e consiste em desenvolver projetos específicos para atender à realidade de companhias de diferentes tamanhos e realidades.
+.
+Curtiu? Inscreva-se na vaga!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Cientista de dados para atuar em uma equipe multidisciplinar focada em consultoria para novos clientes, com o objetivo de entrega de valor em projetos curtos de ML e GenIA, principalmente PoCs (Provas de Conceito) e prototipação.
+REQUISITOS E QUALIFICAÇÕES
+Experiência em entregas de projetos de machine learning produtivos, mas que tenham interesse também em atuar em desafios multidisciplinares em dados e nuvem AWS;Comunicação com stakeholders do cliente e tradução de desafios de negócio para soluções baseadas em Inteligência Artificial;Análise e modelagem de dados para Machine Learning;Treinamento e avaliação modelos de Machine Learning e LLM customizados;Desenvolvimento de soluções com ferramentas SaaS de Machine Learning e Generative AI da AWS;Implantar pipelines de MLOps em ambientes produtivos;Conhecimento em ferramentas de dados AWS, principalmente bedrock;Conhecimento em Python e bibliotecas.
+Experiência em entregas de projetos de machine learning produtivos, mas que tenham interesse também em atuar em desafios multidisciplinares em dados e nuvem AWS;
+Comunicação com stakeholders do cliente e tradução de desafios de negócio para soluções baseadas em Inteligência Artificial;
+Análise e modelagem de dados para Machine Learning;
+Treinamento e avaliação modelos de Machine Learning e LLM customizados;
+Desenvolvimento de soluções com ferramentas SaaS de Machine Learning e Generative AI da AWS;
+Implantar pipelines de MLOps em ambientes produtivos;
+Conhecimento em ferramentas de dados AWS, principalmente bedrock;
+Conhecimento em Python e bibliotecas.
+INFORMAÇÕES ADICIONAIS
+Modalidade de Trabalho: 100% Home Office;
+Contratação: CLT;
+Horário de Atuação: Horário comercial.
+Benefícios CLT: 
+Cartão Flex - Vale refeição ou alimentação (R$31,25/dia);
+Vale Refeição ou alimentação nas férias;
+Auxílio-creche (Por mês: R$ 646,00 até 2 anos; R$ 565,25 até 6 anos; R$ 807,50 para filhos excepcionais);
+Auxílio Home-Office (R$180,00 por mês);
+Assistência Odontológica – Porto Seguro – 100% custeado pela empresa;
+Assistência médica – Amil – 100% custeado pela empresa;
+Benefício Gympass (Wellhub);
+Day-Off de aniversário;
+Bonificação de aniversário;
+Seguro de Vida;
+Assistência Funeral;
+Parcerias com Universidades (FIAP, UNIP);
+Bônus por alcance de metas (conforme regras especificas da empresa, divulgadas anualmente).
+Importante: Nós valorizamos a diversidade e inclusão, consideramos todos os candidatos para as nossas vagas, independente de cor, raça, religião, gênero e identidade de gênero, nacionalidade, deficiência, orientação sexual, ascendência, idade, etc.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem Gestor2Triagem Gestor
+Etapa 2: Triagem Gestor
+2
+Triagem Gestor
+Etapa 3:  Triagem Cliente3 Triagem Cliente
+Etapa 3:  Triagem Cliente
+3
+ Triagem Cliente
+Etapa 4: 1ª Entrevista | Gestor41ª Entrevista | Gestor
+Etapa 4: 1ª Entrevista | Gestor
+4
+1ª Entrevista | Gestor
+Etapa 5: 2ª Entrevista | Facultativa52ª Entrevista | Facultativa
+Etapa 5: 2ª Entrevista | Facultativa
+5
+2ª Entrevista | Facultativa
+Etapa 6: Formalização da Proposta6Formalização da Proposta
+Etapa 6: Formalização da Proposta
+6
+Formalização da Proposta
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+O DNA DA LUMINI IT SOLUTIONS É PAUTADO PELA INOVAÇÃO E PERFORMANCE!
+Com mais de 10 anos de experiência na gestão de ambientes de TI de missão crítica, a Lumini utiliza o poder da inteligência operacional para oferecer serviços de tecnologia acessíveis e de alto valor. Nossa abordagem ao gerenciamento de ambientes de TI vai muito além de bits e bytes. O que nos move é disseminar uma cultura de melhoria contínua em processos de negócios dos nossos clientes. A Lumini trabalha pela democratização do uso de tecnologias como serviços cognitivos, machine learning, monitoramento de informação em tempo real e data science, atendendo a empresas de qualquer tamanho que tenham o anseio e a pretensão de transformar os seus mercados.
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

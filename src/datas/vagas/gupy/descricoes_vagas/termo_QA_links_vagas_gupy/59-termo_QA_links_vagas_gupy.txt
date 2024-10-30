@@ -1,0 +1,87 @@
+link_vaga-https://rdsaude-corporativo.gupy.io/job/eyJqb2JJZCI6Nzg2Mjk5Miwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+TEC QA SR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A RD Saúde é uma empresa líder no mercado brasileiro de farmácias. Com as nossas marcas Raia e Drogasil, temos mais de 3.000 unidades espalhadas por todo o país e mais de 55 mil funcionários(as) empenhados(as) em cuidar de perto da saúde e bem-estar das pessoas em todos os momentos da vida.
+Até 2030, queremos ser o grupo que mais contribui para uma sociedade mais saudável. Para isso, entendemos que o nosso compromisso vai além do cuidado com a saúde individual. É preciso cuidar das pessoas, dos negócios e do planeta.
+Diversidade & Inclusão
+Na RD Saúde, assumimos o compromisso de incluir e empoderar nossos(as)funcionários(as) por meio da promoção da diversidade e da inclusão. Valorizamos as pessoas, construindo uma cultura acolhedora e de respeito a todos e todas. Seja quem você é aqui!
+Vamos juntos nessa?
+RESPONSABILIDADES E ATRIBUIÇÕES
+Apoiar na tomada de decisão técnica, para ferramentas, processos e estratégias da área de qualidadeDesenvolver cenários e planos de testePriorizar e executar testes funcionais e não funcionaisDesenvolver e implementar scripts para automação de testes funcionais e de desempenho na esteira de CT (Teste Contínuo)Suportar o time no entendimento do negócio e melhoria da cobertura de testesAnalisar impacto de mudanças
+Apoiar na tomada de decisão técnica, para ferramentas, processos e estratégias da área de qualidade
+Desenvolver cenários e planos de teste
+Priorizar e executar testes funcionais e não funcionais
+Desenvolver e implementar scripts para automação de testes funcionais e de desempenho na esteira de CT (Teste Contínuo)
+Suportar o time no entendimento do negócio e melhoria da cobertura de testes
+Analisar impacto de mudanças
+REQUISITOS E QUALIFICAÇÕES
+Ensino Supeior Processos de teste de software (funcional, não-funcional, regressão, caixa-branca);DevOps;Metodologias Ágeis;Automação de testes para APIs, Web e Mobile;Implementação de esteiras de Teste Contínuo (CT);Cloud Computing (AWS);JavaScript, NodeJS e ReactJS;Conhecimento em Datadog;Conhecimento em banco de dados relacionais e não relacionais como: PostgresSQL, Mysql, Oracle, MongoDB, DocumentDB;
+Ensino Supeior 
+Processos de teste de software (funcional, não-funcional, regressão, caixa-branca);
+DevOps;
+Metodologias Ágeis;
+Automação de testes para APIs, Web e Mobile;
+Implementação de esteiras de Teste Contínuo (CT);
+Cloud Computing (AWS);
+JavaScript, NodeJS e ReactJS;
+Conhecimento em Datadog;
+Conhecimento em banco de dados relacionais e não relacionais como: PostgresSQL, Mysql, Oracle, MongoDB, DocumentDB;
+INFORMAÇÕES ADICIONAIS
+Participação nos Resultados (PPR)Assistência MédicaAssistência OdontológicaRefeitório no localSeguro de VidaVale-TransporteBenefício FarmáciaConvênio com Empresas ParceirasAuxílio Academia (Gympass)Cesta de NatalTrilha de CarreiraLicença Maternidade e Paternidade Estendida
+Participação nos Resultados (PPR)
+Assistência Médica
+Assistência Odontológica
+Refeitório no local
+Seguro de Vida
+Vale-Transporte
+Benefício Farmácia
+Convênio com Empresas Parceiras
+Auxílio Academia (Gympass)
+Cesta de Natal
+Trilha de Carreira
+Licença Maternidade e Paternidade Estendida
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Entrevista Gente e Cultura3Entrevista Gente e Cultura
+Etapa 3: Entrevista Gente e Cultura
+3
+Entrevista Gente e Cultura
+Etapa 4: Entrevista Gestor4Entrevista Gestor
+Etapa 4: Entrevista Gestor
+4
+Entrevista Gestor
+Etapa 5: Proposta5Proposta
+Etapa 5: Proposta
+5
+Proposta
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+JUNTOS POR UMA SOCIEDADE MAIS SAUDÁVEL
+Somos RD Saúde, um ecossistema de saúde integral, com mais de 3 mil unidades em todo o Brasil e negócios em saúde que dividem o mesmo propósito: contribuir para uma sociedade mais saudável. Nossa jornada começou em novembro de 2011, fruto da união entre Raia e Drogasil, crescendo até se tornar a maior rede de farmácias do Brasil e expandindo para além do varejo farmacêutico, integrando soluções B2B e plataformas digitais. 
+Somos RD Saúde, um ecossistema de saúde integral, com mais de 3 mil unidades em todo o Brasil e negócios em saúde que dividem o mesmo propósito: contribuir para uma sociedade mais saudável. Nossa jornada começou em novembro de 2011, fruto da união entre Raia e Drogasil, crescendo até se tornar a maior rede de farmácias do Brasil e expandindo para além do varejo farmacêutico, integrando soluções B2B e plataformas digitais. 
+ 
+ 
+Com mais de um milhão de vidas atendidas diariamente em todo o país, cuidar de perto dos(as) nossos(as) clientes e das nossas pessoas está em nosso DNA. Somos mais de 57 mil profissionais comprometidos em construir o futuro da saúde com calor humano e tecnologia. Temos a sustentabilidade no centro da nossa estratégia, dividindo nossa ambição em três pilares: pessoas, negócio e planeta mais saudáveis.
+Com mais de um milhão de vidas atendidas diariamente em todo o país, cuidar de perto dos(as) nossos(as) clientes e das nossas pessoas está em nosso DNA. Somos mais de 57 mil profissionais comprometidos em construir o futuro da saúde com calor humano e tecnologia. Temos a sustentabilidade no centro da nossa estratégia, dividindo nossa ambição em três pilares: pessoas, negócio e planeta mais saudáveis.
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn

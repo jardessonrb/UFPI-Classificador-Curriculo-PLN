@@ -1,0 +1,86 @@
+link_vaga-https://vemprapixeon.gupy.io/job/eyJqb2JJZCI6NzcwNzk2MCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+SÊNIOR SOFTWARE ENGINEER | FULL STACK
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Quer trabalhar em uma Health Tech Company com uma das maiores bases ativas de clientes da América Latina e ser protagonista da transformação digital da saúde no país? Vem fazer parte do nosso #dreamteam.
+ 
+Nossos clientes estão dentro de hospitais, clínicas, laboratórios e centros de diagnóstico por imagem. Temos experiência para garantir que toda inovação chegue de mãos dadas com a segurança, e por isto nos tornamos uma das maiores empresas de tecnologia para saúde no Brasil com reconhecimento internacional. Ofereceremos soluções end to end para HIS l CIS l LIS l RIS l PACS.
+RESPONSABILIDADES E ATRIBUIÇÕES
+O que esperamos de um Senior Software Engineer?
+– Identificar e escolher tecnologias e ferramentas adequadas, atendendo aos requisitos técnicos e de negócios;
+– Avaliar e promover padrões de codificação e melhores práticas, além de evangelizar sobre a adoção de práticas de qualidade e eficiência;
+– Ter experiência full-stack com várias linguagens e plataformas, incluindo TypeScript e JavaScript (Node.js), e C# (.NET 6 e 8);
+– Conhecimento em integração e entrega contínuas (CI/CD) e automação de pipelines de projetos;
+– Ter experiência com metodologias ágeis (Scrum, Kanban, XP) e contribuição para processos ágeis;
+– Estar disposto a aprender novas tecnologias e buscar inovações para melhorar processos e soluções;
+– Ter experiência com Docker e containerização de aplicações;
+– Capacidade de modelar dados e desenhar relacionamentos entre entidades de negócios. Desejável conhecimento em modelagem NoSQL com MongoDB;
+– Ter experiência em implementar e promover Test Driven Development (TDD) na equipe;
+– Experiência com Clean Architecture, Arquitetura Orientada a Eventos (EDA) e padrões de projeto (Mediator, Proxy, Repository, Dependency Injection).
+REQUISITOS E QUALIFICAÇÕES
+É necessário que você possua:
+– Experiência prática e conhecimento sólido em ASP.NET (incluindo .NET 6 e 8), React e tecnologias mencionadas;
+– Habilidade para colaborar efetivamente em um ambiente ágil;
+– Capacidade de comunicar e ensinar boas práticas de desenvolvimento e arquiteturas de sistemas;
+– Conhecimento em Plataformas de Aplicação Low Code / Ferramentas de Workflow.
+INFORMAÇÕES ADICIONAIS
+Será um plus se você possuir:
+– Conhecimento no mercado HealthCare.
+Por aqui estimulamos a Pluralidade. Valorizamos o indivíduo como único. Todas as nossas oportunidades estão abertas para integrar diferentes culturas, perfis, raças, religiões, idades, condições físicas, deficiências, gênero, visões de mundo, escolhas e trajetória. Temos empatia, promovemos o respeito e proporcionamos a todas iguais oportunidades de desenvolvimento e evolução.
+Vem ser Pixeon!
+ 
+#somospixeon #eficiênciaparasaúde
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista com Atração de Talentos2Entrevista com Atração de Talentos
+Etapa 2: Entrevista com Atração de Talentos
+2
+Entrevista com Atração de Talentos
+Etapa 3: Entrevista com Gerente Executivo de Produto e Inteligência3Entrevista com Gerente Executivo de Produto e Inteligência
+Etapa 3: Entrevista com Gerente Executivo de Produto e Inteligência
+3
+Entrevista com Gerente Executivo de Produto e Inteligência
+Etapa 4: Teste Técnico4Teste Técnico
+Etapa 4: Teste Técnico
+4
+Teste Técnico
+Etapa 5: Proposta Salarial5Proposta Salarial
+Etapa 5: Proposta Salarial
+5
+Proposta Salarial
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+QUEM SOMOS
+Somos uma das maiores e mais reconhecidas health tech da América Latina, focada em tecnologia para gestão de saúde. Nosso compromisso é facilitar o acesso a soluções que fazem o futuro da saúde mais eficiente, tanto para as pessoas quanto para os negócios. Assim, transformamos o cuidado pela vida. 
+ 
+Acreditamos em um futuro possível para a saúde. Por isso, geramos eficiência no cuidado pela vida. Nessa trajetória de 20 anos, construímos parcerias e agregamos soluções para trazer novas perspectivas para o setor. Nossa atuação é expressiva e segue crescendo: são mais de 3 mil clientes no Brasil e na América Latina. Pelas nossas soluções de CIS, LIS, RIS, PACS e HIS passam por ano 50 milhões de pacientes que realizam 150 milhões de consultas e exames. 
+ 
+Temos o maior e mais completo conjunto de soluções para gestão na área da saúde. Sistemas de gestão completos e dinâmicos, que permitem otimizar todos os tipos e tamanhos de demandas de hospitais, clínicas, laboratórios e centros de diagnóstico por imagem, oferecendo uma experiência de eficiência end-to-end às instituições. 
+  
+Entendemos que tecnologia em saúde é, acima de tudo, um compromisso com as pessoas. Assim, somos a soma da individualidade. Somos pessoas falando e fazendo por pessoas. É a partir do interesse genuíno em compreender dores e necessidades que estabelecemos relacionamentos 
+ 
+Nossa sede está localizada em São Caetano do Sul (SP), mas nosso #dreamteam está distribuído pelo território nacional. 
+ 
+Faça parte desse movimento de transformação, venha evoluir a saúde com a gente! 💜💙💚
+💜💙💚
+
+#dreamteam #somospixeon #eficiênciaparaevoluirasaúde #vemserpixeon
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram

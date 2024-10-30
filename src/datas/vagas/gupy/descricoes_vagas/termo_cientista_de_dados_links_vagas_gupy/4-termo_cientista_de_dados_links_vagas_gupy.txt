@@ -1,0 +1,122 @@
+link_vaga-https://talentoslight.gupy.io/job/eyJqb2JJZCI6Nzc5MTQyNiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ESPECIALISTA EM SISTEMA DE TI ( FOCO COMO CIENTISTA DE DADOS )
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Estamos em busca de um Especialista em Sistema de TI, com a missão de transformar dados em insights estratégicos que impulsionem a inovação, eficiência e tomada de decisões assertivas, promovendo uma cultura orientada por dados e soluções analíticas escaláveis que agreguem valor sustentável ao negócio.
+ransformar dados em insights estratégicos que impulsionem a inovação, eficiência e tomada de decisões assertivas, promovendo uma cultura orientada por dados e soluções analíticas escaláveis que agreguem valor sustentável ao negócio.
+A nossa empresa é feita por gente. Nós já fazemos parte do seu dia. Agora, queremos que você faça parte do nosso dia a dia.
+Traga a sua energia para a Light!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Seus desafios serão:
+Criar e implementar modelos estatísticos e algoritmos para prever tendências e comportamentos futuros com base em grandes volumes de dados.
+Criar e implementar modelos estatísticos e algoritmos para prever tendências e comportamentos futuros com base em grandes volumes de dados.
+Realizar análises de dados exploratórias para identificar padrões, outliers, tendências e insights que possam impactar as decisões estratégicas da empresa
+Realizar análises de dados exploratórias para identificar padrões, outliers, tendências e insights que possam impactar as decisões estratégicas da empresa
+Estruturar e otimizar pipelines de dados para garantir a integridade, qualidade e eficiência dos dados desde a coleta até a análise.
+Estruturar e otimizar pipelines de dados para garantir a integridade, qualidade e eficiência dos dados desde a coleta até a análise.
+Desenvolver dashboards interativos e relatórios que traduzam informações complexas em insights visuais acessíveis para stakeholders de diferentes áreas.
+Desenvolver dashboards interativos e relatórios que traduzam informações complexas em insights visuais acessíveis para stakeholders de diferentes áreas.
+Trabalhar em conjunto com equipes de TI, negócios e outras áreas, traduzindo as necessidades empresariais em soluções técnicas de Ciência de Dados.
+Trabalhar em conjunto com equipes de TI, negócios e outras áreas, traduzindo as necessidades empresariais em soluções técnicas de Ciência de Dados.
+Implementar e monitorar práticas de governança de dados para garantir conformidade com regulamentações e a qualidade dos dados.
+Implementar e monitorar práticas de governança de dados para garantir conformidade com regulamentações e a qualidade dos dados.
+Garantir que as soluções de análise de dados sejam escaláveis e otimizadas para alto desempenho, utilizando eficientemente a infraestrutura e os recursos disponíveis.
+Garantir que as soluções de análise de dados sejam escaláveis e otimizadas para alto desempenho, utilizando eficientemente a infraestrutura e os recursos disponíveis.
+Criar e manter scripts de automação para processos de extração, transformação e carregamento (ETL) de dados, facilitando o fluxo contínuo de informações.
+Criar e manter scripts de automação para processos de extração, transformação e carregamento (ETL) de dados, facilitando o fluxo contínuo de informações.
+Manter-se atualizado sobre novas tecnologias, metodologias e ferramentas de Ciência de Dados para impulsionar a inovação e a melhoria contínua das soluções analíticas.
+Manter-se atualizado sobre novas tecnologias, metodologias e ferramentas de Ciência de Dados para impulsionar a inovação e a melhoria contínua das soluções analíticas.
+Atuar como referência técnica, capacitando e orientando a equipe nas melhores práticas e nas novas tendências do campo de Ciência de Dados.
+Atuar como referência técnica, capacitando e orientando a equipe nas melhores práticas e nas novas tendências do campo de Ciência de Dados.
+Participar de reuniões com stakeholders para apresentar insights gerados por análises de dados e alinhar as soluções analíticas com os objetivos de negócios.
+Participar de reuniões com stakeholders para apresentar insights gerados por análises de dados e alinhar as soluções analíticas com os objetivos de negócios.
+
+
+REQUISITOS E QUALIFICAÇÕES
+O que é necessário você ter:
+Ensino superior completo em área de Tecnologia.
+Ensino superior completo em área de Tecnologia.
+Python, R ou SAS, com foco em manipulação de dados, análise estatística e desenvolvimento de modelos preditivos.
+Python, R ou SAS, com foco em manipulação de dados, análise estatística e desenvolvimento de modelos preditivos.
+Conhecimento profundo em técnicas de machine learning (regressão, classificação, clustering, redes neurais, etc.) e estatística aplicada.
+Conhecimento profundo em técnicas de machine learning (regressão, classificação, clustering, redes neurais, etc.) e estatística aplicada.
+Experiência no processamento de grandes volumes de dados utilizando tecnologias como Hadoop, Spark, ou Kafka.
+Experiência no processamento de grandes volumes de dados utilizando tecnologias como Hadoop, Spark, ou Kafka.
+Desenvolvimento e manutenção de pipelines de dados, automação de processos ETL (Extração, Transformação e Carregamento).
+Desenvolvimento e manutenção de pipelines de dados, automação de processos ETL (Extração, Transformação e Carregamento).
+Experiência com SQL e NoSQL, trabalhando com bancos de dados como PostgreSQL, MongoDB, ou equivalentes.
+Experiência com SQL e NoSQL, trabalhando com bancos de dados como PostgreSQL, MongoDB, ou equivalentes.
+Experiência com ferramentas como Power BI, Tableau ou Looker para criação de dashboards e relatórios interativos.
+Experiência com ferramentas como Power BI, Tableau ou Looker para criação de dashboards e relatórios interativos.
+Conhecimento em serviços de dados em plataformas de nuvem como AWS, Azure ou Google Cloud (ex: Redshift, BigQuery, DataBricks).
+Conhecimento em serviços de dados em plataformas de nuvem como AWS, Azure ou Google Cloud (ex: Redshift, BigQuery, DataBricks).
+Implementação e monitoramento de práticas de governança de dados, assegurando conformidade com regulamentações e políticas internas.
+Implementação e monitoramento de práticas de governança de dados, assegurando conformidade com regulamentações e políticas internas.
+Familiaridade com práticas de DevOps e integração contínua/desenvolvimento contínuo (CI/CD) aplicadas a projetos de dados.
+Familiaridade com práticas de DevOps e integração contínua/desenvolvimento contínuo (CI/CD) aplicadas a projetos de dados.
+Conhecimento em metodologias ágeis, como Scrum ou Kanban, para gerenciamento e execução de projetos de dados
+Conhecimento em metodologias ágeis, como Scrum ou Kanban, para gerenciamento e execução de projetos de dados
+O que será um diferencial:
+Certificações reconhecidas, como Microsoft Certified: Azure Data Scientist Associate, Google Professional Data Engineer, ou AWS Certified Machine Learning.
+Experiência com frameworks como TensorFlow, Keras ou PyTorch para desenvolvimento de modelos avançados.
+Conhecimento em MLOps para integração e monitoramento contínuo de modelos de machine learning em ambiente de produção.
+Habilidade em técnicas de NLP para extração de insights a partir de dados não estruturados e análise de textos.
+Conhecimento específico na modelagem e análise de séries temporais usando ferramentas como Prophet ou ARIMA.
+INFORMAÇÕES ADICIONAIS
+O que temos para você:
+ 
+Vale Alimentação e/ou Vale Refeição
+Assistência médica
+Assistência odontológica
+Participação nos Lucros ou Resultados
+Previdência privada
+Seguro de vida
+Convênio com empresas parceiras
+Programa de treinamentos.
+ 
+Local de Trabalho: Av. Marechal Floriano/RJ
+﻿
+* Todas as nossas vagas também são destinadas a pessoas com deficiência ;)
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista RH2Entrevista RH
+Etapa 2: Entrevista RH
+2
+Entrevista RH
+Etapa 3: Disc3Disc
+Etapa 3: Disc
+3
+Disc
+Etapa 4: Entrevista Gestor4Entrevista Gestor
+Etapa 4: Entrevista Gestor
+4
+Entrevista Gestor
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+LIGHT: UMA EMPRESA QUE TRANSFORMA A SOCIEDADE, FEITA DE PESSOAS TALENTOSAS E INSPIRADORAS!
+Nosso propósito é transformar a sociedade por meio da nossa energia, levando desenvolvimento e bem-estar por onde passamos todos os dias. E fazer parte da vida de milhões de brasileiros, por mais de um século, só reforça a nossa contribuição com o crescimento econômico e social do país. 
+ 
+Somos uma das maiores empresas privadas do setor elétrico brasileiro que atua, por meio de uma cadeia de valor integrada nos processos de geração, transmissão e distribuição de energia para 31 municípios do Rio de Janeiro, além da comercialização de energia para todo o Brasil.
+ 
+Aqui, os desafios são diários e queremos que os nossos mais de 4 milhões de clientes tenham sempre a melhor experiência de atendimento, com serviços de alta qualidade.
+Temos um time diverso de colaboradores campeões, que seguem juntos, colocando em prática o nosso propósito. Gente que sonha grande, quebra barreiras e faz história. Afinal, cuidar da energia que transforma a vida de tanta gente faz parte do nosso DNA!
+Vem transformar o mundo com a gente!
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram

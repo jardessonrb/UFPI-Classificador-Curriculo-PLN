@@ -1,0 +1,132 @@
+link_vaga-https://afya.gupy.io/job/eyJqb2JJZCI6ODAwMTYzMiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+AFYA SP | ANALISTA DE DADOS SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+DESCRIÇÃO DA VAGA
+Somos aliados do médico durante toda a sua jornada e buscamos por pessoas que se identifiquem com nosso propósito, valores e cultura para se juntarem ao nosso time. Vamos juntos transformar a saúde com quem tem a medicina como vocação! 
+e buscamos por pessoas que se identifiquem com nosso propósito, valores e cultura para se juntarem ao nosso time. Vamos juntos transformar a saúde com quem tem a medicina como vocação! 
+Esta é uma vaga aberta na frente de Soluções para a Prática Médica, mais especificamente na Missão B2B, para trabalhar de forma híbrida nas cidades de Rio de Janeiro/RJ ou São Paulo/SP ou Belo Horizonte/MG.
+Esta é uma vaga aberta na frente de
+ mais especificamente na 
+ para trabalhar de forma
+ 
+Ao assumir o cargo de Analista de Dados Sênior na Afya, seu objetivo principal será transformar dados em insights valiosos, contribuindo para decisões estratégicas baseadas em análises robustas. Você será responsável por interpretar grandes volumes de informações, identificar tendências e oportunidades de melhoria, além de colaborar com diferentes áreas para otimizar processos e impulsionar resultados.
+Você atuará na área de Operações e Produto B2B dentro da diretoria de Dados e fará parte de uma equipe multidisciplinar, relacionando-se no dia a dia com pessoas de times como Inteligência de Negócio e Desenvolvimento de Novos Produtos.
+♿ 
+RESPONSABILIDADES E ATRIBUIÇÕES
+💻🩺 COMO VOCÊ VAI TRANSFORMAR A SAÚDE NO DIA A DIA:Apoiar os times Negócio em tornar-se Self-Service em Dados;Realizar agendas de Discovery e Refinamento junto com o time de negócio, bem como o planejamento de entrega;Atuar em conjunto com o time de dados para definir como os dados devem ser preparados e disponibilizados para consumo;Apoiar em processos de coleta e organização de informações estratégicas;Organizar dados estratégicos de Operações e auxiliar na migração desses dados para o Data Lake;Desenvolvimento e manutenção de KPIs, dashboards e relatórios em parceria com o time de Negócio;Extrair dados de uma ampla variedade de fontes para explorá-los e gerar insights que levem à planos de ação para o negócio;Analisar e monitorar tendências para identificar riscos e oportunidades de negócios;Analisar os dados do mercado e dos concorrentes para descobrir oportunidades e abordar questões de negócios;Analisar comportamento do usuário, identificando oportunidades para a evolução dos produtos baseada em dados;Desenvolver análises exploratórias aplicando técnicas de “Storytelling” a fim de transformar informações complexas em narrativas de fácil compreensão do público-alvo;Propor melhorias de processos e soluções a fim de reduzir custos e prazos na operação;Analisar e reportar big “numbers” e trazer insights de como melhorá-los;Consumir e contribuir para o catálogo de dados da empresa e para organização da informação seguindo a arquitetura definida.
+
+Apoiar os times Negócio em tornar-se Self-Service em Dados;
+Realizar agendas de Discovery e Refinamento junto com o time de negócio, bem como o planejamento de entrega;
+Atuar em conjunto com o time de dados para definir como os dados devem ser preparados e disponibilizados para consumo;
+Apoiar em processos de coleta e organização de informações estratégicas;
+Organizar dados estratégicos de Operações e auxiliar na migração desses dados para o Data Lake;
+Desenvolvimento e manutenção de KPIs, dashboards e relatórios em parceria com o time de Negócio;
+Extrair dados de uma ampla variedade de fontes para explorá-los e gerar insights que levem à planos de ação para o negócio;
+Analisar e monitorar tendências para identificar riscos e oportunidades de negócios;
+Analisar os dados do mercado e dos concorrentes para descobrir oportunidades e abordar questões de negócios;
+Analisar comportamento do usuário, identificando oportunidades para a evolução dos produtos baseada em dados;
+Desenvolver análises exploratórias aplicando técnicas de “Storytelling” a fim de transformar informações complexas em narrativas de fácil compreensão do público-alvo;
+Propor melhorias de processos e soluções a fim de reduzir custos e prazos na operação;
+Analisar e reportar big “numbers” e trazer insights de como melhorá-los;
+Consumir e contribuir para o catálogo de dados da empresa e para organização da informação seguindo a arquitetura definida.
+REQUISITOS E QUALIFICAÇÕES
+🔎 O QUE BUSCAMOS (mas não esperamos que uma única pessoa atenda a todos os requisitos):Ensino Superior Completo Business Analytics, Ciência da Computação, Administração, Estatística ou afins;Experiência em Analytics / Inteligência de Mercado / BI;Conhecimento em ferramentas de BI (PowerBI, Looker, Metabase, etc.);Experiência em escrever consultas de banco de dados em linguagem SQL com a capacidade de manipular, extrair, analisar e relatar dados de bancos de dados;Experiência com análise e interpretação de dados em rastreamento e relatórios, como análise de Cohort, modelos de aquisição de clientes e conversão de trials em usuários;Conhecimento em modelagem e arquitetura de dados será um diferencial;Noções sobre ferramentas de trackeamento de comportamento de usuários e formatação dessas informações será um diferencial.
+
+Ensino Superior Completo Business Analytics, Ciência da Computação, Administração, Estatística ou afins;
+Ensino Superior Completo 
+Experiência em Analytics / Inteligência de Mercado / BI;
+Conhecimento em ferramentas de BI (PowerBI, Looker, Metabase, etc.);
+Experiência em escrever consultas de banco de dados em linguagem SQL com a capacidade de manipular, extrair, analisar e relatar dados de bancos de dados;
+Experiência com análise e interpretação de dados em rastreamento e relatórios, como análise de Cohort, modelos de aquisição de clientes e conversão de trials em usuários;
+Conhecimento em modelagem e arquitetura de dados será um diferencial;
+Noções sobre ferramentas de trackeamento de comportamento de usuários e formatação dessas informações será um diferencial.
+INFORMAÇÕES ADICIONAIS
+❤️ GENTE É O MELHOR DA GENTE, por isso, oferecemos benefícios e parcerias para o nosso time. Confira os principais abaixo:  🌞 Para o dia a dia:   Vale-alimentação / refeição;  Flexibilidade de horários e alocações (para vagas Remotas);  Vale-transporte (para vagas Hibridas ou Presenciais); 💰 UP na remuneração:  PLR;   Tech Coins para posições específicas (Créditos via Cartão Flash para utilizar como quiser). 👩‍👩‍👧‍👦 Família, Saúde e Bem-estar:  Gympass / Wellhub;  Psicologia Viva (plataforma online para consulta com psicólogo e nutricionista);  Plano de Saúde e Odontológico;  Seguro de Vida;   Licença parental estendida (até 6 meses para mães e 20 dias para pais); Rede D'Ór: suporte e informações importantes para a saúde da mamãe e do bebê com uma rede credenciada de enfermeiros; Parceria com o SESC da sua região (programação variada nas áreas de educação, saúde, cultura, lazer e assistência); Day Off de Aniversário (um dia de folga para tirar no dia ou durante o mês do seu aniversário). 📖 Desenvolvimento e Aprendizado:  Plataforma com diversos cursos para aprimorar seu conhecimento (UCA);   Academia de idiomas (AIA); Programa de desenvolvimento para líderes; Mentoria para Mulheres da Afya (MMA); Desconto em cursos de graduação e pós-graduação nas unidades de ensino da Afya. ﻿✍️ Diferencial para Professor Médico: Assinatura premium do Afya iClinic e Afya Whitebook
+
+Confira os principais abaixo: 
+ 
+ 
+ 
+🌞 Para o dia a dia:   
+Vale-alimentação / refeição;  
+Vale-alimentação / refeição;  
+Flexibilidade de horários e alocações (para vagas Remotas);  
+Flexibilidade de horários e alocações (para vagas Remotas);  
+Vale-transporte (para vagas Hibridas ou Presenciais); 
+Vale-transporte (para vagas Hibridas ou Presenciais); 
+💰 UP na remuneração:  
+PLR;   
+PLR;   
+Tech Coins para posições específicas (Créditos via Cartão Flash para utilizar como quiser). 
+Tech Coins para posições específicas (Créditos via Cartão Flash para utilizar como quiser). 
+👩‍👩‍👧‍👦 Família, Saúde e Bem-estar:  
+Gympass / Wellhub;  
+Psicologia Viva (plataforma online para consulta com psicólogo e nutricionista);  
+Plano de Saúde e Odontológico;  
+Seguro de Vida;   
+Licença parental estendida (até 6 meses para mães e 20 dias para pais); 
+Rede D'Ór: suporte e informações importantes para a saúde da mamãe e do bebê com uma rede credenciada de enfermeiros; 
+Parceria com o SESC da sua região (programação variada nas áreas de educação, saúde, cultura, lazer e assistência); 
+Day Off de Aniversário (um dia de folga para tirar no dia ou durante o mês do seu aniversário). 
+📖 Desenvolvimento e Aprendizado:  
+Plataforma com diversos cursos para aprimorar seu conhecimento (UCA);   
+Plataforma com diversos cursos para aprimorar seu conhecimento (UCA);   
+Academia de idiomas (AIA); 
+Academia de idiomas (AIA); 
+Programa de desenvolvimento para líderes; 
+Programa de desenvolvimento para líderes; 
+Mentoria para Mulheres da Afya (MMA); 
+Mentoria para Mulheres da Afya (MMA); 
+Desconto em cursos de graduação e pós-graduação nas unidades de ensino da Afya. 
+Desconto em cursos de graduação e pós-graduação nas unidades de ensino da Afya. 
+﻿✍️ Diferencial para Professor Médico: 
+﻿✍️ 
+Assinatura premium do Afya iClinic e Afya Whitebook
+Assinatura premium do Afya iClinic e Afya Whitebook
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Etapa Triagem2Etapa Triagem
+Etapa 2: Etapa Triagem
+2
+Etapa Triagem
+Etapa 3: Etapa Atração3Etapa Atração
+Etapa 3: Etapa Atração
+3
+Etapa Atração
+Etapa 4: Etapa de Avaliação Técnica4Etapa de Avaliação Técnica
+Etapa 4: Etapa de Avaliação Técnica
+4
+Etapa de Avaliação Técnica
+Etapa 5: Etapa final / Cultura e ou com Líder5Etapa final / Cultura e ou com Líder
+Etapa 5: Etapa final / Cultura e ou com Líder
+5
+Etapa final / Cultura e ou com Líder
+Etapa 6: Etapa Proposta6Etapa Proposta
+Etapa 6: Etapa Proposta
+6
+Etapa Proposta
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+SOMOS A AFYA,
+O MAIOR HUB DE EDUCAÇÃO E SOLUÇÕES PARA A PRÁTICA MÉDICA DO BRASIL.
+A marca Afya nasceu em 2019, mas nossa história começou muito antes. Surgimos da união entre a NRE Educacional, maior grupo de faculdades de Medicina do país, fundado em 1999, com a MEDCEL, marca de cursos preparatórios para prova de residência médica.
+Com o nosso crescimento acelerado, adquirimos nos últimos anos novas unidades de ensino — já são mais de 30 espalhadas pelo Brasil — e mais de 10 startups que oferecem soluções digitais para a prática médica — Afya Whitebook, Afya iClinic, Afya Papers, Glic e Cliquefarma são algumas marcas do nosso portfólio. Acesse afya.com.br para conhecer mais sobre a nossa história e todas as soluções que oferecemos.
+A Afya é uma companhia de capital aberto desde 2019, com ações negociadas na bolsa de valores Nasdaq, nos Estados Unidos. Em 2023 disponibilizamos nossas ações também na bolsa brasileira, a B3. Saiba mais sobre esse assunto em ir.afya.com.br.
+Nosso propósito é transformar a saúde em conjunto com quem tem a medicina como vocação. Para isso, contamos com um time de 10 mil pessoas curiosas, parceiras, comprometidas, adaptáveis e realizadoras. Gente de todos os cantos do Brasil, com diferentes sotaques, mas falando a mesma língua, unida pelo mesmo propósito. Se você se identifica com o jeito Afya de ser, vem com a gente transformar a saúde com educação e tecnologia. #VemSerAfya
+ACOMPANHE NOSSOS CANAIS:
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

@@ -1,0 +1,97 @@
+link_vaga-https://time-now.gupy.io/job/eyJqb2JJZCI6ODAwNzUyNSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA ANALISTA DE SISTEMAS [DESENVOLVEDOR(A) FULLSTACK] II
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Na busca contínua por mentes criativas e apaixonadas por inovação, estamos à procura de indivíduos que desafiem os limites, que abracem o novo e tracem caminhos inexplorados rumo a um futuro promissor.
+Com mais de 28 anos de expertise em Consultoria e Gestão de Projetos, somos uma referência nacional em Engenharia Consultiva, em constante expansão global. Com DNA de inovação, nos reinventamos e evoluímos.
+Nossa equipe, formada por mais de 2 mil colaboradores, trabalha para impulsionar nossa empresa rumo a um futuro ainda mais relevante, global e digital até 2030. Se você se identifica com nosso propósito, vamos juntos imaginar um futuro e engenhá-lo?
+RESPONSABILIDADES E ATRIBUIÇÕES
+Descrição sumária:
+O Desenvolvedor com foco em ferramentas de IA será responsável por prospectar e avaliar soluções no mercado que tenham fit com os desafios e particularidades da Timenow e integrá-las aos nossos sistemas. O profissional irá trabalhar na prospecção, avaliação, desenvolvimento, integração e automação de sistemas de informação, garantindo que estejam alinhados com as necessidades da empresa e dos clientes.
+Descrição detalhada:
+Desenvolver e manter sistemas em linguagens como Python, SQL e Javascript/Typescript.
+Desenvolver aplicações com recursos de nuvem do portfólio Azure.
+Desenvolver e manter soluções utilizando ferramentas e tecnologias de Inteligência Artificial de acordo com os requisitos e necessidades internas da empresa.
+Analisar e implementar projetos de desenvolvimento e customização de sistemas, alinhados com os processos de negócio, assegurando a integridade das informações e aplicação das tecnologias apropriadas.
+Integrar novas funcionalidades e interfaces, com o objetivo de otimizar os fluxos definidos e resultados do negócio, através da aplicação de sistemas de IA e outras tecnologias relevantes.
+Documentar as soluções desenvolvidas, requisitos e acordos com diferentes áreas, facilitando a compreensão dos usuários finais e equipes, e fornecendo informações para futuras intervenções, se necessário.
+Elaborar e executar testes manuais ou automatizados para garantir o funcionamento correto e adequado das soluções implementadas.
+Planejar e executar atividades, apoiando-se em profissionais técnicos ou gestores, mantendo os níveis de produtividade esperados.
+Garantir a qualidade, confiabilidade e desempenho das funcionalidades, serviços e informações geradas pelos desenvolvimentos, mantendo atualizadas as documentações técnicas.
+Testar e validar propostas de tecnologias de mercado para integração aos sistemas da empresa, assegurando o atendimento às demandas internas e a aderência ao sistema existente.
+Implementar padrões de aplicação e funcionamento para melhorar a performance dos sistemas, incluindo a resolução de problemas e a realização de testes de disponibilidade, funcionalidade e performance.
+Criar documentação como manuais, vídeos e treinamentos para alimentar a base de conhecimento da empresa e facilitar futuros atendimentos.
+Realizar integrações com APIs externas e consumir dados de diversas fontes para alimentar os sistemas de IA e de informação.
+Desenvolver automações e integrações seguindo as melhores práticas de programação, visando escalabilidade e acessibilidade.
+Participar ativamente da implantação de planos de trabalho e procedimentos do setor, contribuindo para o alcance dos objetivos e metas estabelecidas, oferecendo suporte a profissionais mais experientes conforme necessário.
+REQUISITOS E QUALIFICAÇÕES
+Como requisito básico, você deve ter:
+Experiência comprovada desenvolvendo sistemas, especialmente em Python, React e PostgreSQL.
+Ensino Superior Completo em Ciência da Computação, Engenharia da Computação, Análise e Desenvolvimento de Sistemas, Engenharias ou áreas correlatas.
+Ensino Superior Completo em Ciência da Computação, Engenharia da Computação, Análise e Desenvolvimento de Sistemas, Engenharias ou áreas correlatas.
+Boa comunicação oral e escrita.
+Facilidade para trabalhar em equipe.
+Perfil autogerenciável e proativo.
+Você se destaca se tiver:
+Experiência com FastAPI, SQL Alchemy, Docker e recursos Azure, principalmente Web App, Function App e Container Registry.
+Experiência no desenvolvimento de soluções de IA Generativa.
+Pós-graduação em Ciências de Dados, Inteligência Artificial e Machine Learning ou áreas correlatas.
+Experiência no desenvolvimento de sistemas web integrados a outras ferramentas de mercado.
+INFORMAÇÕES ADICIONAIS
+Características da vaga:
+Regime de contratação: Flex Office (Híbrido)
+Local de atuação: Vitória/ES
+Horário de trabalho: 08h às 17h
+ 
+Benefícios contemplados na vaga:
+Plano de saúde 💳
+Plano Odontológico 🦷
+Seguro de vida ⛑️
+Transporte 🚌
+Alimentação 🥖
+Convênio com Gympass 🏋️‍♀️
+Descontos e parcerias com diversas instituições de ensino 📚
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Analise Interna2Analise Interna
+Etapa 2: Analise Interna
+2
+Analise Interna
+Etapa 3: Entrevista com o R&S3Entrevista com o R&S
+Etapa 3: Entrevista com o R&S
+3
+Entrevista com o R&S
+Etapa 4: Entrevista com a Liderança4Entrevista com a Liderança
+Etapa 4: Entrevista com a Liderança
+4
+Entrevista com a Liderança
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+ESTAMOS IMAGINANDO UM FUTURO POSSÍVEL PARA ENGENHÁ-LO🚀
+Você vem com a gente?
+Nós somos a Timenow, uma plataforma de Consultoria e Gestão de Projetos. Desde 1996, trabalhando junto aos nossos colaboradores para transformar o futuro por meio da inovação. 🔧🏗️
+Seguimos o propósito de sermos movidos a resultados e são os nossos valores de comprometimento, originalidade, integridade e valorização de pessoas que norteiam a jornada rumo a uma Timenow mais relevante, global e digital. 🚀🚀
+Inclusive, este é nosso bem mais valioso: os mais de 2200 colaboradores que fazem a Timenow ser o que é, seja no Brasil ou em outros países do mundo.
+É por este ambiente de valorização das pessoas, que fomenta a cultura de inovação e o constante desenvolvimento profissional dos colaboradores que somos uma empresa Great Place To Work. Além disso, somos bicampeões como empresa referência em inovação pelo Prêmio INO.VC, da ArcelorMittal 🎊🎉.
+Essa é apenas uma parte de uma longa história de muito trabalho e realizações.
+O que você acha de começar a escrever sua história com a gente? 🤝🏽
+#VemSerTimenow!
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Instagram
+Glassdoor

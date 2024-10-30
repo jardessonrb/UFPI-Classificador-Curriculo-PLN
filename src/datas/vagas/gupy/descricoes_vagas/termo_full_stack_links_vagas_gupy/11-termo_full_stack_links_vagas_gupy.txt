@@ -1,0 +1,94 @@
+link_vaga-https://asaas.gupy.io/job/eyJqb2JJZCI6NzgzMDI3MSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ENGENHEIRO(A) DE SOFTWARE FULL STACK PLENO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Se você tem paixão por inovação e busca trabalhar em um ambiente que promove agilidade, colaboração e desafiados, esta pode ser a sua oportunidade!
+O Asaas é a conta digital completa para empresas. Ajudamos mais de 155 mil empreendedores em todo o Brasil a automatizar a gestão financeira das suas empresas e melhorar o relacionamento com seus clientes. Através da conta digital Asaas você emite, envia e recebe cobranças, gera notas fiscais e gerencia todo o financeiro do seu negócio em um só lugar.
+Para nosso time de Engenharia, buscamos pessoas talentosas e capazes de construir sistemas complexos e de alta qualidade.
+Você estará diretamente em envolvimento com o negócio da empresa através da construção e manutenção de nossos sistemas. Nosso principal pilar é a qualidade daquilo que entregamos, entendemos que o importante é fazer bem feito ao invés de fazer rápido. Focamos na simplicidade da solução, nas entregas em pequenas partes e na autonomia das pessoas desenvolvedoras, a partir de um trabalho colaborativo.
+A maioria de nossas aplicações são construídas em Java, sendo necessário o interesse em atuar com essa tecnologia! Buscamos profissionais com habilidades de engenharia de software e abertura para novos aprendizados!
+Se interessou pela oportunidade mas não reside em Joinville? Não tem problema, possibilitamos o trabalho remoto/home office.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Transformar lógica de negócio em código de alta qualidade, respeitando os padrões e práticas estabelecidos; Participar da definição e implementação de novas funcionalidades e correção de bugs; Compreender e discutir os problemas e soluções propostas, buscando sempre a melhor solução técnica para os desafios encontrados;Revisar o código entregue pelos colegas de equipe;Dividir grandes entregas em pequenos entregáveis coesos;Monitorar a solução implementada em produção, avaliando erros, performance e disponibilidade; Colaborar com melhorias ou novos padrões na base de conhecimento da Engenharia.
+Transformar lógica de negócio em código de alta qualidade, respeitando os padrões e práticas estabelecidos; 
+Participar da definição e implementação de novas funcionalidades e correção de bugs; 
+Compreender e discutir os problemas e soluções propostas, buscando sempre a melhor solução técnica para os desafios encontrados;
+Revisar o código entregue pelos colegas de equipe;
+Dividir grandes entregas em pequenos entregáveis coesos;
+Monitorar a solução implementada em produção, avaliando erros, performance e disponibilidade; 
+Colaborar com melhorias ou novos padrões na base de conhecimento da Engenharia.
+REQUISITOS E QUALIFICAÇÕES
+Experiência com desenvolvimento WEB; Experiência com programação orientada a objetos e integração entre serviços via APIs Rest;Conhecimentos em HTML, CSS e Javascript; Vivência com algum banco de dados relacional; Conhecimento do pipeline de Deploy e versionamento de código com Git;Compreensão de boas práticas, padrões e princípios de Engenharia de Software;Inglês técnico.DiferenciaisEnsino superior em andamento em TI, Ciências da Computação ou áreas correlatas;Conhecimento avançado em Grails e suas diferentes versões.
+Experiência com desenvolvimento WEB; 
+Experiência com programação orientada a objetos e integração entre serviços via APIs Rest;
+Conhecimentos em HTML, CSS e Javascript; 
+Vivência com algum banco de dados relacional; 
+Conhecimento do pipeline de Deploy e versionamento de código com Git;
+Compreensão de boas práticas, padrões e princípios de Engenharia de Software;
+Inglês técnico.
+Diferenciais
+Ensino superior em andamento em TI, Ciências da Computação ou áreas correlatas;
+Conhecimento avançado em Grails e suas diferentes versões.
+
+INFORMAÇÕES ADICIONAIS
+Carga horária de 8h por dia (segunda à sexta-feira - não compensamos os sábados);Contratação CLT.
+Carga horária de 8h por dia (segunda à sexta-feira - não compensamos os sábados);
+Contratação CLT.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Conheça mais sobre nosso processo seletivo!2Conheça mais sobre nosso processo seletivo!
+Etapa 2: Conheça mais sobre nosso processo seletivo!
+2
+Conheça mais sobre nosso processo seletivo!
+Etapa 3: Entrevista comportamental3Entrevista comportamental
+Etapa 3: Entrevista comportamental
+3
+Entrevista comportamental
+Etapa 4: Entrevista Técnica + Whiteboard4Entrevista Técnica + Whiteboard
+Etapa 4: Entrevista Técnica + Whiteboard
+4
+Entrevista Técnica + Whiteboard
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+NÓS QUEREMOS MUDAR O MUNDO E COMEÇAMOS POR AQUI! VOCÊ VEM COM A GENTE?
+Somos uma super Fintech, Instituição de Pagamento credenciada pelo Banco Central do Brasil e temos como propósito maximizar a produtividade das empresas através da tecnologia. Oferecemos uma solução completa para gestão de cobranças, pagamentos, antecipações de recebíveis e atendemos mais de 120 mil clientes divididos entre profissionais autônomos, microempreendedores individuais (MEI) e grandes empresas.
+ Instituição de Pagamento credenciada pelo Banco Central do Brasil e 
+ Oferecemos uma solução completa para gestão de cobranças, pagamentos, antecipações de recebíveis e atendemos mais de 120 mil clientes divididos entre profissionais autônomos, microempreendedores individuais (MEI) e grandes empresas.
+Nosso sonho começou em 2010, em Joinville/SC e acreditamos que o céu não é o limite para o nosso crescimento. Não é à toa que atualmente nosso time está em vários cantos do Brasil! Mais de 500 pessoas sonham junto com o Asaas, de forma colaborativa, inovadora, eficiente, com autonomia e liberdade para voar alto.
+Nosso sonho começou em 2010, em Joinville/SC e acreditamos que o céu não é o limite para o nosso crescimento. Não é à toa que atualmente nosso time está em vários cantos do Brasil! 
+Voos altos exigem recursos para viver e trabalhar melhor, além de liberdade para administrá-los da melhor forma. Por isso, acolhemos e cuidamos do nosso time oferecendo benefícios que apoiam seu crescimento pessoal e profissional: 
+Voos altos exigem recursos para viver e trabalhar melhor, além de liberdade para administrá-los da melhor forma. Por isso, acolhemos e cuidamos do nosso time oferecendo benefícios que apoiam seu crescimento pessoal e profissional: 
+Para saúde e bem-estar: temos assistência médica e odontológica sem coparticipação, seguro de vida, auxílio para compra de medicamentos e para realizar atividades físicas. Além disso, a Leve é nossa parceira para cuidar da saúde financeira do time e a Zenklub para a saúde mental (oferecemos 4 sessões mensais de terapia gratuitas). Na sede, também temos quick massage. 
+ temos assistência médica e odontológica sem coparticipação, seguro de vida, auxílio para compra de medicamentos e para realizar atividades físicas. Além disso, a Leve é nossa parceira para cuidar da saúde financeira do time e a Zenklub para a saúde mental (oferecemos 4 sessões mensais de terapia gratuitas). Na sede, também temos 
+Para alimentação e família: nosso benefício alimentação é flexível, por meio de um cartão de crédito, bandeira Visa. O saldo pode ser usado como cada um desejar. Na sede, temos free food e, para as famílias, oferecemos auxílio creche, programa de apoio parental e licença maternidade e paternidade estendida. 
+ nosso benefício alimentação é flexível, por meio de um cartão de crédito, bandeira Visa. O saldo pode ser usado como cada um desejar. Na sede, temos 
+ e, para as famílias, oferecemos auxílio creche, programa de apoio parental e licença maternidade e paternidade estendida. 
+Para educação e crescimento: além de um ambiente de desafios e muito desenvolvimento, temos uma plataforma de treinamentos in company e disponibilizamos auxílio educação que subsidia 70% de mensalidades de graduações e idiomas, bem como a compra de cursos e livros, para que nosso time nunca pare de aprender. 
+além de um ambiente de desafios e muito desenvolvimento, temos uma plataforma de treinamentos
+disponibilizamos auxílio educação que subsidia 70% de mensalidades de graduações e idiomas, bem como a compra de cursos e livros, para que nosso time nunca pare de aprender. 
+Para o trabalho remoto de qualidade: oferecemos auxílio Home Office, equipamentos de trabalho, auxílio mobília e temos parceria com a WOBA, para os nossos colaboradores usarem coworkings em todo o Brasil quando desejarem. Conheça nossa sede, em Joinville/SC, nesse tour virtual!
+ oferecemos auxílio Home Office, equipamentos de trabalho, auxílio mobília e temos parceria com a WOBA, para os nossos colaboradores usarem coworkings em todo o Brasil quando desejarem. Conheça nossa sede, em Joinville/SC, 
+Extras, porque o Dream Team merece: temos Day Off no mês do aniversário, auxílio Happy Hour, bonificação por indicação de novos colaboradores, bonificação baseada em metas anuais, plano de Stock Options e um ambiente leve, no dress code!
+temos
+ no mês do aniversário, auxílio Happy Hour, bonificação por indicação de novos colaboradores, bonificação baseada em metas anuais, plano de 
+s e um ambiente leve, 
+ACOMPANHE O DIA A DIA A BORDO E FIQUE POR DENTRO DAS NOVIDADES:
+Website
+LinkedIn
+Instagram
+Glassdoor
+CONHEÇA MAIS SOBRE A ENGENHARIA DO ASAAS!

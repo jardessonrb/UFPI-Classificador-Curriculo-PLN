@@ -1,0 +1,90 @@
+link_vaga-https://onesigga.gupy.io/job/eyJqb2JJZCI6ODAxNzUxOCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR FRONTEND PLENO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Conheça a #SIGGA
+Com escritórios nas Américas Latina e do Norte, Europa e Ásia, estamos presentes nas rotinas industriais das maiores empresas do planeta!
+Inovação está em nosso sangue, Indústria 4.0 é a palavra de todos os dias! Tudo isso para melhorar a eficiência e aumentar a produtividade das empresas, simplificando o processo de gestão de ativos do SAP.
+Entregamos confiabilidade dos dados e redução de custos para os nossos parceiros, para que eles estejam cada vez mais no topo.
+Faça parte da nossa história e lidere conosco a transformação digital!
+ 
+RESPONSABILIDADES E ATRIBUIÇÕES
+O que farei no meu dia a dia?
+Fazer parte de uma equipe de desenvolvimento responsável por um produto
+Desenvolver e implementar interfaces frontend utilizando SAPUI5 e JavaScript
+Interagir no seu dia-a-dia com outros Desenvolvedores (web, apps, backend/integração), Product Owners, DevOps e Analistas de Qualidade
+Trabalhar em ritmo de Sprints ou Kanban
+Desenvolver e validar features
+Aprender, ensinar e criar padrões
+O que preciso saber?
+Experiência em desenvolvimento Front-end em JavaScript, TypeScript, HTML5 e CSS (CSS3, SASS, LESS)
+Experiência com bibliotecas como, por exemplo, Bootstrap, JQuery ou Material Design
+Conhecimento em padrões de desenvolvimento web
+Experiência em desenvolvimento de sistemas responsivos
+Experiência em integração de sistemas (RESTfull e APIs)
+Inglês técnico
+REQUISITOS E QUALIFICAÇÕES
+Como me destacar?
+Conhecimento em SAPUI5 e Fiori
+Familiaridade com o ecossistema SAP (S/4HANA, ABAP)
+Conhecimento em Angular
+Conhecimento em Design de Aplicações (UI/UX)
+Experiências com outras linguagens de programação
+Experiência com desenvolvimento de produtos de software para segmentos industriais (B2B)
+Metodologia de desenvolvimento ágil
+INFORMAÇÕES ADICIONAIS
+Quais são os benefícios?
+Vale Refeição / Alimentação
+Plano de Saúde
+Plano Odontológico
+Vale Transporte / Desconto em Estacionamento
+Gympass
+Convênio em Farmácias
+Apoio Pass
+Seguro de Vida
+Se você é uma pessoa com deficiência ou reabilitado e está em dúvidas se essa vaga é para você, fique tranquilo você pode se candidatar!
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista RH2Entrevista RH
+Etapa 2: Entrevista RH
+2
+Entrevista RH
+Etapa 3: Fit Cultural3Fit Cultural
+Etapa 3: Fit Cultural
+3
+Fit Cultural
+Etapa 4: Entrevista Gestor 4Entrevista Gestor 
+Etapa 4: Entrevista Gestor 
+4
+Entrevista Gestor 
+Etapa 5: Teste Técnico5Teste Técnico
+Etapa 5: Teste Técnico
+5
+Teste Técnico
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+CONHEÇA MAIS SOBRE NÓS!
+Quem somos nós?
+A Sigga é líder de mercado e fornecedora global de aplicativos de software que transformam as operações de manutenção em empresas com uso intensivo de ativos que executam SAP. Nossas ferramentas móveis de manutenção e planejamento e programação ajudam as empresas a remover ineficiências de manutenção, otimizar o planejamento e a programação da manutenção e se adaptar rapidamente às mudanças nas necessidades de negócios ao longo do tempo e em vários locais.
+Nossas Soluções
+Os aplicativos Sigga são flexíveis, modernos e conectados digitalmente para acelerar a transformação digital. Fornecemos soluções de manutenção para empresas globais com SAP há mais tempo do que qualquer outro fornecedor de software.
+Os líderes de mercado reconhecem o tempo, a economia de custos e as melhorias operacionais geradas quando os funcionários de manutenção recebem acesso em tempo real ao EAM de origem. As principais empresas recorreram à Sigga por nossa liderança tecnológica, experiência SAP e parceria colaborativa para impulsionar a transformação da manutenção em seus locais globais.
+Nossa Missão
+Nossa missão é capacitar empresas com uso intensivo de ativos para alcançar sua transformação digital EAM. A Sigga começou como uma empresa de serviços profissionais e usou o conhecimento do setor adquirido para desenvolver software moderno e líder de mercado e experiências móveis para otimizar o trabalho com SAP.
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn

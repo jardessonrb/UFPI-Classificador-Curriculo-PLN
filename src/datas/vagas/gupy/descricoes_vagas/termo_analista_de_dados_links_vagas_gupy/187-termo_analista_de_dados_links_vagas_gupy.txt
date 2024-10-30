@@ -1,0 +1,85 @@
+link_vaga-https://relevo.gupy.io/job/eyJqb2JJZCI6Nzg3MzkxOCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE BANCO DE DADOS - DBA ORACLE EXADATA (PRESENCIAL - SÃO PAULO)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+RELEVO LAB.
+
+Somos uma empresa de tecnologia com mais de 7 anos de atuação, vivemos e respiramos tecnologia, batalhamos incansavelmente para ser um lugar incrível para se trabalhar, onde as pessoas são tratadas com igualdade, gostem de trabalhar, se sintam em casa e esse é certamente o lugar onde queremos estar.
+
+Estamos à procura de pessoas do bem, comprometidas e que queiram crescer junto com a gente!
+Se você se enquadra neste perfil, é você que queremos!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Gerenciar e otimizar ambientes Oracle e SQL Server, realizar análises de desempenho, identificar e resolver problemas de performance, administrar backups e recovery, implementar soluções de alta disponibilidade e disaster recovery, criar e manter objetos de banco de dados, e contribuir para a governança eficaz dos dados. 
+Gerenciar e otimizar ambientes Oracle e SQL Server, realizar análises de desempenho, identificar e resolver problemas de performance, administrar backups e recovery, implementar soluções de alta disponibilidade e disaster recovery, criar e manter objetos de banco de dados, e contribuir para a governança eficaz dos dados.
+ 
+Jornada de trabalho: Segunda a Sexta, das 13h às 22h
+Segunda a Sexta, das 13h às 22h
+Tipo de Vaga: Presencial
+Localidade: São Paulo - SP
+Contratação: CLT
+Tempo de alocação: 06 meses com possibilidade de extensão
+REQUISITOS E QUALIFICAÇÕES
+O que queremos que você tenha:
+Experiência sólida como DBA Oracle (versões 18 e 19)
+Conhecimento em Exadata On Prem (X8, X9 e X10)
+Habilidades avançadas em Standby/Dataguard
+Administração, criação, upgrade, suporte, performance, troubleshooting e backup/recover usando ZDL
+Ferramentas de análise de desempenho
+Implementação de soluções de alta disponibilidade e disaster recovery
+Ferramentas de ETL e schedulling
+Soluções de backup e monitoramento
+Proficiência em Dataguard e refresh de ambientes
+Conhecimentos em OCI
+Experiência sólida como DBA SQL Server
+Conhecimento em SQL Server 2016 e 2019
+Habilidades avançadas em Cluster FCI e AlwaysOn
+Manutenção dos processos do Integration Services (SSIS), Reporting Services (SSRS) e Analysis Services (SSAS)
+Conexão DAC, descriptografia de procedures, identificação de queries com maiores leituras e análise de planos de execução
+O que seria muito legal se você tivesse:
+Certificações Oracle e OCI
+Conhecimentos em Golden Gate
+Experiência com outro SGBD de mercado (SQL Server, MySQL, PostgreSQL)
+Conhecimentos em SGBDs NoSQL
+Certificações Microsoft (AZ-900, DP-900, DP-300, MCSA: SQL 2016 Database Administration, MCSE: Data Management and Analytics, Exam 765, Exam 764, Exam 762)
+INFORMAÇÕES ADICIONAIS
+O que oferecemos:
+Pacote de remuneração e benefícios competitivo com o mercado.
+Gostou? Acesse nossa página de carreira em https://relevo.gupy.io/
+Super Importante!
+Se os seus conhecimentos forem aderentes à vaga, é tudo o que importa.
+Aqui nós abraçamos a diversidade e contratamos pessoas com capacidade e vontade de transformar, independente de qual seja a sua localização, raça, cor, religião, identidade de gênero, orientação sexual ou formação.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista RH2Entrevista RH
+Etapa 2: Entrevista RH
+2
+Entrevista RH
+Etapa 3: Entrevista Cliente3Entrevista Cliente
+Etapa 3: Entrevista Cliente
+3
+Entrevista Cliente
+Etapa 4: Contratação4Contratação
+Etapa 4: Contratação
+4
+Contratação
+JUNTE-SE A NÓS!
+Vivemos e respiramos tecnologia, batalhamos incansavelmente para ser um lugar incrível para se trabalhar, onde as pessoas são tratadas com igualdade, gostem de trabalhar, se sintam em casa e esse é certamente o lugar onde queremos estar.
+
+CONHEÇA A RELEVO
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

@@ -1,0 +1,89 @@
+link_vaga-https://allohafibra.gupy.io/job/eyJqb2JJZCI6NzQ3MTU1NCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR BACKEND SR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Estamos à procura de um DESENVOLVEDOR BACKEND SR para levantar melhorias e garantir o sucesso do negócio.
+ 
+Se você é um profissional atencioso, que possui capacidade analítica, organização, criatividade, e busca melhoria contínua em tudo que faz, a Alloha é o seu lugar!
+ 
+Nosso time é formado por #GentedeFibra, que tem o propósito de proporcionar acesso à internet de qualidade para todos.
+ 
+Vamos adorar te conhecer!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Mínimo de 5 anos de experiência como desenvolvedor backend.Desenvolvimento da camada backend.Entregar software de qualidade, que garanta tanto os requisitos funcionais como os não funcionais.Propor inovações tecnológicas e inovações aderentes ao nosso negócio.Participar ativamente das cerimônias ágeis da sua squad.Acompanhar fila de incidentes e ter maturidade, diligência para atuar até a resolução de forma autônoma.Realizar a sustentação e acompanhamento de resoluções de Incidentes de sistemas sob sua responsabilidade.Seguir os processos e normas da empresa para realização de Mudanças de sistemas, desde abertura de chamados internos, defesa de demandas em comitês de mudança e acompanhamento da implementação junto aos fornecedores e parceiros.Boa comunicação, senso de dono, foco em resultados, senso de urgência, autogestão de tempo, habilidade de negociação, busca e pesquisa por melhores práticas e novas soluções e inovações.
+Mínimo de 5 anos de experiência como desenvolvedor backend.
+Desenvolvimento da camada backend.
+Entregar software de qualidade, que garanta tanto os requisitos funcionais como os não funcionais.
+Propor inovações tecnológicas e inovações aderentes ao nosso negócio.
+Participar ativamente das cerimônias ágeis da sua squad.
+Acompanhar fila de incidentes e ter maturidade, diligência para atuar até a resolução de forma autônoma.
+Realizar a sustentação e acompanhamento de resoluções de Incidentes de sistemas sob sua responsabilidade.
+Seguir os processos e normas da empresa para realização de Mudanças de sistemas, desde abertura de chamados internos, defesa de demandas em comitês de mudança e acompanhamento da implementação junto aos fornecedores e parceiros.
+Boa comunicação, senso de dono, foco em resultados, senso de urgência, autogestão de tempo, habilidade de negociação, busca e pesquisa por melhores práticas e novas soluções e inovações.
+REQUISITOS E QUALIFICAÇÕES
+Graduação ou Pós-graduação em Ciência da Computação, Engenharia da Computação, Análise de Sistemas, Processamento de Dados, Sistemas de Informação ou afins.Sólida experiência comprovada na gestão de projetos de desenvolvimento de sistemas e componentes de integração em ambientes transacionais com alto volume.Sólidos conhecimentos em orientação a objetos;Experiência na implementação e integração com APIs;Experiência sólida com Node.js, Prisma ORM;Experiência sólida com Banco de Dados Postgre;Experiência com Docker e Docker Compose;Experiência em Git/Gitflow e CI/CD;Experiência com Arquitetura de Soluções e Cloud Computing (AWS, Azure e/ou GCP);Conhecimentos em Prometheus, Grafana, Kong, Konga, Zookeeper e Kafka.Conhecimento prático de Code Clean, SOLID, design patterns;Conhecimento em SQL/NoSQL e modelagem de dados;Desejável: TDD, Unit test, DDD;Desejável experiência com metodologias de gerenciamento de projetos (ágil ou cascata). 
+Graduação ou Pós-graduação em Ciência da Computação, Engenharia da Computação, Análise de Sistemas, Processamento de Dados, Sistemas de Informação ou afins.
+Sólida experiência comprovada na gestão de projetos de desenvolvimento de sistemas e componentes de integração em ambientes transacionais com alto volume.
+Sólidos conhecimentos em orientação a objetos;
+Experiência na implementação e integração com APIs;
+Experiência sólida com Node.js, Prisma ORM;
+Experiência sólida com Banco de Dados Postgre;
+Experiência com Docker e Docker Compose;
+Experiência em Git/Gitflow e CI/CD;
+Experiência com Arquitetura de Soluções e Cloud Computing (AWS, Azure e/ou GCP);
+Conhecimentos em Prometheus, Grafana, Kong, Konga, Zookeeper e Kafka.
+Conhecimento prático de Code Clean, SOLID, design patterns;
+Conhecimento em SQL/NoSQL e modelagem de dados;
+Desejável: TDD, Unit test, DDD;
+Desejável experiência com metodologias de gerenciamento de projetos (ágil ou cascata). 
+INFORMAÇÕES ADICIONAIS
+Vale-Transporte;Seguro de Vida em Grupo;Vale alimentação ou Refeição;Plano de Saúde;Plano Odontológico;Day Off;Total Pass;
+Vale-Transporte;
+Vale-Transporte;
+Seguro de Vida em Grupo;
+Seguro de Vida em Grupo;
+Vale alimentação ou Refeição;
+Vale alimentação ou Refeição;
+Plano de Saúde;
+Plano de Saúde;
+Plano Odontológico;
+Plano Odontológico;
+Day Off;
+Total Pass;
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista com Gente & Gestão2Entrevista com Gente & Gestão
+Etapa 2: Entrevista com Gente & Gestão
+2
+Entrevista com Gente & Gestão
+Etapa 3: Entrevista Gestor 3Entrevista Gestor 
+Etapa 3: Entrevista Gestor 
+3
+Entrevista Gestor 
+Etapa 4: Carta Oferta4Carta Oferta
+Etapa 4: Carta Oferta
+4
+Carta Oferta
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+O TIME ALLOHA
+Com o propósito de conectar pessoas, ideias e negócios, promovendo a inclusão digital e social no Brasil, a Alloha Fibra é hoje o maior grupo independente de fibra ótica do País. Isso é possível porque contamos com um time de 5 mil pessoas que busca qualidade e excelência em tudo o que faz, sempre voltado a oferecer os melhores produtos, serviços e atendimento.
+
+Valorizamos a pluralidade, representada por nossos colaboradores e clientes em toda a sua multiplicidade regional e social – uma vez que estamos presentes em 864 cidades em 22 estados brasileiros com uma rede de mais de 140 mil quilômetros de fibra óptica e 1,6 milhão de assinantes.
+
+Aqui você encontrará um só time, que atua interconectado, focado em fazer a coisa certa sempre. Honestidade, integridade, transparência e ética traduzem a nossa cultura – o Jeito de Ser Alloha – que transforma nosso ambiente em um espaço colaborativo e responsável com as pessoas e com a sustentabilidade do negócio. 
+Para mais informações, acesse https://alloha.com/

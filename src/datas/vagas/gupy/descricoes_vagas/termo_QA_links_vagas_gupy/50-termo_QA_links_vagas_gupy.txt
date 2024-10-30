@@ -1,0 +1,175 @@
+link_vaga-https://aprovadigital.gupy.io/job/eyJqb2JJZCI6NzkxNTUxNCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE QUALIDADE (SÊNIOR) - QA PLAYWRIGHT + JAVASCRIPT + CI/CD [SÃO PAULO/SP]
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+DESCRIÇÃO DA VAGA
+A Aprova e a missão do time de EngenhariaA Aprova é Govtech líder em crescimento no Brasil. Nosso objetivo é utilizar o potencial da tecnologia para ajudar o governo a melhorar a vida das pessoas, impactando de forma positiva na redução do gasto com papel, no meio ambiente, na burocracia, evitando o deslocamento e reduzindo o tempo necessário para aprovações.Em 2022, recebemos o nosso segundo aporte, no valor de R$ 22,5 milhões, liderado pela Astella e Vox Capital, passando a ser o maior investimento feito em uma Govtech da América Latina. Esses recursos vieram para impulsionar ainda mais os nossos produtos e alcançar nosso maior objetivo, tornar as prefeituras e câmaras 100% eficientes, menos burocráticas e digitais pra todos.Nosso time de tech está em constante crescimento e estamos em busca de Software Engineers que queiram resolver grandes desafios, construir sua carreira com a gente e, juntas, desburocratizar este Brasilzão!Sobre a vaga: O Analista de Qualidade (QA) trabalha em estreita colaboração com os times de desenvolvimento e produto para assegurar que o software atenda aos requisitos de qualidade e performance. Também é responsável por escrever e implementar testes automatizados que sejam capazes de automatizar o processo de verificação constante de bugs e falhas, garantindo o funcionamento correto e padronizado do sistema. Atua como um conselheiro técnico nas abordagens de teste e promove práticas de melhoria contínua. O QA responde ao Engineering Manager.(Quality Assurance, QA, Engenheiro de automação de QA, QA Automation)Como trabalhamosOs Product Managers realizam entrevistas, coletando dados da aplicação de uso e ouvindo stakeholders diversos e constroem a visão das features, que é uma documentação que norteará o desenvolvimento nos próximos 3-6 meses daquele problema/solução;Em seguida o Product Manager quebra em pequenas entregas, e após input do Software Engineer e Teachleads em refinamentos a User Story entra em sprint para desenvolvimento, de acordo com as prioridades da empresa. Nossas sprints tem duração de 15 dias e cada uma das nossas Squads são responsáveis por diferentes áreas de nossa Plataforma;Possuímos um time de QA com uma suite de testes automatizados (end to end) o que ajuda o Software Engineer a garantir a qualidade da entrega;Após o desenvolvimento e validação, a Pull Request sobe em uma branch , que depois é mergeada com o Jenkins. Estamos trabalhando para que nossos processos sejam cada vez mais automatizado via Terraform.Realizamos releases diárias, em horários fora de pico (18h).
+
+A Aprova é Govtech líder em crescimento no Brasil. Nosso objetivo é utilizar o potencial da tecnologia para ajudar o governo a melhorar a vida das pessoas, impactando de forma positiva na redução do gasto com papel, no meio ambiente, na burocracia, evitando o deslocamento e reduzindo o tempo necessário para aprovações.
+Em 2022, recebemos o nosso segundo aporte, no valor de R$ 22,5 milhões, liderado pela Astella e Vox Capital, passando a ser o maior investimento feito em uma Govtech da América Latina. Esses recursos vieram para impulsionar ainda mais os nossos produtos e alcançar nosso maior objetivo, tornar as prefeituras e câmaras 100% eficientes, menos burocráticas e digitais pra todos.
+Nosso time de tech está em constante crescimento e estamos em busca de Software Engineers que queiram resolver grandes desafios, construir sua carreira com a gente e, juntas, desburocratizar este Brasilzão!
+
+O Analista de Qualidade (QA) trabalha em estreita colaboração com os times de desenvolvimento e produto para assegurar que o software atenda aos requisitos de qualidade e performance. Também é responsável por escrever e implementar testes automatizados que sejam capazes de automatizar o processo de verificação constante de bugs e falhas, garantindo o funcionamento correto e padronizado do sistema. Atua como um conselheiro técnico nas abordagens de teste e promove práticas de melhoria contínua. O QA responde ao Engineering Manager.
+(Quality Assurance, QA, Engenheiro de automação de QA, QA Automation)
+
+Os Product Managers realizam entrevistas, coletando dados da aplicação de uso e ouvindo stakeholders diversos e constroem a visão das features, que é uma documentação que norteará o desenvolvimento nos próximos 3-6 meses daquele problema/solução;
+Em seguida o Product Manager quebra em pequenas entregas, e após input do Software Engineer e Teachleads em refinamentos a User Story entra em sprint para desenvolvimento, de acordo com as prioridades da empresa. Nossas sprints tem duração de 15 dias e cada uma das nossas Squads são responsáveis por diferentes áreas de nossa Plataforma;
+Possuímos um time de QA com uma suite de testes automatizados (end to end) o que ajuda o Software Engineer a garantir a qualidade da entrega;
+Após o desenvolvimento e validação, a Pull Request sobe em uma branch , que depois é mergeada com o Jenkins. Estamos trabalhando para que nossos processos sejam cada vez mais automatizado via Terraform.
+Realizamos releases diárias, em horários fora de pico (18h).
+RESPONSABILIDADES E ATRIBUIÇÕES
+Primárias:
+Revisar e implementar novos tipos de testes, tanto manuais como automatizados.
+Fornecer orientação técnica e auxiliar o time no desenvolvimento de habilidades técnicas;
+Promover uma cultura de qualidade;
+Gerar novos testes e documentações sobre as entregas da equipe de Engenharia.
+Monitorar a performance de aplicações críticas para os negócios com APM (K6), tendo oportunidade de criar medições e implementar melhorias do sistema a partir de resultados;
+Direcionar infraestrutura de QA conforme necessidade do produto;
+Ajudar a definir metas ORK's/KPI's estratégicos de QA. Acompanhar os indicadores da área;
+Desenvolver e implementar planos de teste robustos para funcionalidades críticas, garantindo a eficiência e cobertura dos testes;
+Liderar a definição e aplicação de estratégias de testes automatizados e manuais, adequadas ao nível de complexidade de cada projeto;
+Colaborar com os times de desenvolvimento e produto desde a análise preliminar até a entrega final, garantindo que os critérios de aceitação sejam atendidos (ex: acessibilidade, compatibilidade, performance);
+Identificar, depurar e fornecer soluções para bugs complexos, indo além dos sintomas e chegando à causa raiz dos problemas;
+Propor melhorias na estratégia de testes, visando aumentar a cobertura, confiabilidade e a velocidade das verificações automatizadas;
+Participar ativamente da arquitetura das soluções, destacando riscos e sugerindo mudanças que melhorem a testabilidade e a manutenção do código;
+Fornecer feedback contínuo sobre as práticas de desenvolvimento, promovendo uma cultura de qualidade em todo o ciclo de vida do produto;
+Ajudar no planejamento e execução de testes não funcionais (performance, segurança, etc.);
+Colaborar com as squads na definição da estratégia de testes, garantindo uma visão unificada e alinhada com os objetivos de negócio.
+Secundárias:
+Monitorar proativamente os relatórios e painéis de teste, tornando os resultados e as falhas visíveis para o time;
+Aconselhar sobre a abordagem de testes e defender as melhores práticas para cada projeto, visando eficiência e impacto positivo nos negócios;
+Participar da construção e melhoria de ferramentas e frameworks de teste que beneficiem todo o time;
+Contribuir para a melhoria contínua da infraestrutura de testes, incluindo pipelines de CI/CD;
+Incentivar práticas colaborativas, como pair e mob programming, para promover a disseminação de boas práticas entre os times.
+REQUISITOS E QUALIFICAÇÕES
+Graduação completa em áreas relacionadas (Ciência da Computação, Engenharia de Software, Sistemas de Informação, etc.);Experiência sólida com testes automatizados e ferramentas relacionadas (ex: Playwright, Cypress, Selenium);Experiência com melhoria contínua da infraestrutura de testes, incluindo pipelines de CI/CD;Conhecimento profundo de práticas e ferramentas de desenvolvimento ágil;Vivência com Node.js e Angular ou outras stacks JavaScript;Experiência prática com soluções de cloud (AWS, etc.);Capacidade de depurar problemas complexos e sugerir melhorias nos processos de teste e desenvolvimento;Sólida habilidade em trabalhar de forma colaborativa com desenvolvedores, product managers e outras equipes.DiferenciaisExperiência em startups ou ambientes de SaaS;Participação ativa em projetos open source ou iniciativas voltadas para melhoria contínua da qualidade de software;Conhecimento de práticas avançadas de teste, como testes de carga, segurança e performance;Habilidade em liderar a construção de frameworks de testes e promover uma cultura de qualidade dentro da organização.Nossa StackEstamos baseados em uma arquitetura de microsserviços em ambiente serverless, totalmente suportada pelos recursos da AWS.Backend: Implementamos um backend RESTful utilizando microsserviços serverless em TypeScript e Node.js, com o framework Fastify. Essa atualização nos permite criar uma base ainda mais ágil e eficiente, mantendo a flexibilidade essencial para nossas operações. Estamos também migrando parte dos fluxos para operações assíncronas, utilizando RabbitMQ e SQS.Frontend: Atualmente, utilizamos Angular para o desenvolvimento de interfaces interativas e dinâmicas. Implementamos também micro front-ends, garantindo maior modularidade e autonomia no desenvolvimento.Práticas e Ferramentas: Utilizamos Domain Driven Design (DDD), RxJS e programação reativa em novas implementações. Mantemos 100% de nossa infraestrutura como código, seguindo as melhores práticas cloud-native, facilitando a escalabilidade e a manutenção contínua. Além disso, reforçamos nossa abordagem de testes automatizados com Playwright + Axios para o frontend e backend, garantindo a qualidade das entregas.No que diz respeito à observabilidade, empregamos Grafana integrado com OpenTelemetry para monitoramento em tempo real e tracing detalhado, permitindo uma investigação ágil e eficiente de erros, além de otimizar o desempenho de nossos serviços.Banco de Dados: Contamos com MongoDB e PostgreSQL como nossos sistemas de gerenciamento de banco de dados, proporcionando confiabilidade e flexibilidade para diferentes demandas.Serviços AWS: Para suportar nossa arquitetura, confiamos em uma variedade de serviços da AWS, incluindo S3, SQS, RDS, Lambda, CloudFront e CloudFormation. Isso nos permite oferecer aos nossos clientes serviços confiáveis e de alta performance.Automação e Gerenciamento: Implementamos integração contínua e entrega contínua (CI/CD) utilizando Jenkins, com integração ao Slack via n8n, para garantir uma entrega rápida e eficiente dos nossos produtos. Para organização e gerenciamento eficazes das tarefas de desenvolvimento, contamos com o Jira.Estamos continuamente refinando nossa stack para enfrentar os desafios de escala e garantir que possamos atender às crescentes demandas de nossos clientes de maneira eficaz e inovadora.
+Graduação completa em áreas relacionadas (Ciência da Computação, Engenharia de Software, Sistemas de Informação, etc.);
+Experiência sólida com testes automatizados e ferramentas relacionadas (ex: Playwright, Cypress, Selenium);
+Experiência com melhoria contínua da infraestrutura de testes, incluindo pipelines de CI/CD;
+Conhecimento profundo de práticas e ferramentas de desenvolvimento ágil;
+Vivência com Node.js e Angular ou outras stacks JavaScript;
+Experiência prática com soluções de cloud (AWS, etc.);
+Capacidade de depurar problemas complexos e sugerir melhorias nos processos de teste e desenvolvimento;
+Sólida habilidade em trabalhar de forma colaborativa com desenvolvedores, product managers e outras equipes.
+DIFERENCIAIS
+Experiência em startups ou ambientes de SaaS;
+Participação ativa em projetos open source ou iniciativas voltadas para melhoria contínua da qualidade de software;
+Conhecimento de práticas avançadas de teste, como testes de carga, segurança e performance;
+Habilidade em liderar a construção de frameworks de testes e promover uma cultura de qualidade dentro da organização.
+
+NOSSA STACK
+Estamos baseados em uma arquitetura de microsserviços em ambiente serverless, totalmente suportada pelos recursos da AWS.
+Backend: Implementamos um backend RESTful utilizando microsserviços serverless em TypeScript e Node.js, com o framework Fastify. Essa atualização nos permite criar uma base ainda mais ágil e eficiente, mantendo a flexibilidade essencial para nossas operações. Estamos também migrando parte dos fluxos para operações assíncronas, utilizando RabbitMQ e SQS.
+Frontend: Atualmente, utilizamos Angular para o desenvolvimento de interfaces interativas e dinâmicas. Implementamos também micro front-ends, garantindo maior modularidade e autonomia no desenvolvimento.
+Práticas e Ferramentas: Utilizamos Domain Driven Design (DDD), RxJS e programação reativa em novas implementações. Mantemos 100% de nossa infraestrutura como código, seguindo as melhores práticas cloud-native, facilitando a escalabilidade e a manutenção contínua. Além disso, reforçamos nossa abordagem de testes automatizados com Playwright + Axios para o frontend e backend, garantindo a qualidade das entregas.
+No que diz respeito à observabilidade, empregamos Grafana integrado com OpenTelemetry para monitoramento em tempo real e tracing detalhado, permitindo uma investigação ágil e eficiente de erros, além de otimizar o desempenho de nossos serviços.
+Banco de Dados: Contamos com MongoDB e PostgreSQL como nossos sistemas de gerenciamento de banco de dados, proporcionando confiabilidade e flexibilidade para diferentes demandas.
+Serviços AWS: Para suportar nossa arquitetura, confiamos em uma variedade de serviços da AWS, incluindo S3, SQS, RDS, Lambda, CloudFront e CloudFormation. Isso nos permite oferecer aos nossos clientes serviços confiáveis e de alta performance.
+Automação e Gerenciamento: Implementamos integração contínua e entrega contínua (CI/CD) utilizando Jenkins, com integração ao Slack via n8n, para garantir uma entrega rápida e eficiente dos nossos produtos. Para organização e gerenciamento eficazes das tarefas de desenvolvimento, contamos com o Jira.
+Estamos continuamente refinando nossa stack para enfrentar os desafios de escala e garantir que possamos atender às crescentes demandas de nossos clientes de maneira eficaz e inovadora.
+INFORMAÇÕES ADICIONAIS
+OFERECEMOS:
+Plano de Saúde Bradesco 100% pago pela empresa;
+Convênio Odontológico;
+Vale Refeição Swile;
+Seguro de Vida;
+TotalPass;
+Desconto para Psicoterapia em parceria com a Vittude;
+Day off para o seu aniversário;
+Equipamentos fornecidos pela empresa.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Agendamento de Entrevista2Agendamento de Entrevista
+Etapa 2: Agendamento de Entrevista
+2
+Agendamento de Entrevista
+Etapa 3: Papo com CTO3Papo com CTO
+Etapa 3: Papo com CTO
+3
+Papo com CTO
+Etapa 4: Papo sobre Carreira e Cultura4Papo sobre Carreira e Cultura
+Etapa 4: Papo sobre Carreira e Cultura
+4
+Papo sobre Carreira e Cultura
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+VEM TRANSFORMAR O BRASIL COM TECNOLOGIA E INOVAÇÃO!
+A Aprova é uma plataforma de gestão e automação de processos para o setor público.
+A Aprova é uma plataforma de gestão e automação de processos para o setor público.
+Queremos um Brasil mais digital, especialmente no âmbito governamental. Nosso propósito é potencializar o trabalho do servidor e construir para o cidadão um governo confiável, eficiente e de excelência.
+Queremos um Brasil mais digital, especialmente no âmbito governamental. Nosso propósito é potencializar o trabalho do servidor e construir para o cidadão um governo confiável, eficiente e de excelência.
+Com serviços públicos melhores proporcionamos uma experiência tão ágil e positiva quanto a já vivenciada (e aprovada) pelo cidadão no setor privado.
+🇧🇷 Já impactamos a rotina de 21 milhões de brasileiros com serviços em cidades de Norte a Sul do país, como alvarás para construção, licenças ambientais, autorizações para vacinação, pagamento de impostos, entre outros. 🚀
+🇧🇷 Já impactamos a rotina de 21 milhões de brasileiros com serviços em cidades de Norte a Sul do país, como alvarás para construção, licenças ambientais, autorizações para vacinação, pagamento de impostos, entre outros. 🚀
+Uma Govtech do Brasil, para o Brasil!
+Desde sua fundação em Cascavel, no Paraná, no ano de 2017, a Aprova se tornou líder em crescimento no cenário nacional de startups para gestão pública. E também recebeu duas rodadas de investimento, sendo a última o maior aporte já realizado em uma govtech da América Latina. 
+Desde sua fundação em Cascavel, no Paraná, no ano de 2017, a Aprova se tornou líder em crescimento no cenário nacional de startups para gestão pública. E também recebeu duas rodadas de investimento, sendo a última o maior aporte já realizado em uma govtech da América Latina. 
+Aproveiras e Aproveiros: quem são?﻿
+Profissionais das áreas de programação, psicologia, jornalismo, publicidade, engenharia civil, arquitetura, administração, contabilidade, vendas e outros tantos talentos diversos que modernizam os serviços públicos para que o cidadão tenha suas demandas resolvidas e acredite novamente no país. 
+Profissionais das áreas de programação, psicologia, jornalismo, publicidade, engenharia civil, arquitetura, administração, contabilidade, vendas e outros tantos talentos diversos que modernizam os serviços públicos para que o cidadão tenha suas demandas resolvidas e acredite novamente no país. 
+Trabalhamos com tecnologia e um propósito real (AND muito forte) 💙
+💙
+Vem ver como é o dia a dia na firma: https://www.instagram.com/souaprova/
+A Aprova está em busca de mais gente habilidosa a fim de resolver grandes desafios e crescer modernizando nosso país. Somos pessoas:
+A Aprova está em busca de mais gente habilidosa a fim de resolver grandes desafios e crescer modernizando nosso país. Somos pessoas:
+Arrojadas
+rrojadas
+Perspicazes
+erspicazes
+Resilientes
+esilientes
+Orquestradas
+rquestradas
+Virtuosas 
+irtuosas 
+Ambiciosas
+mbiciosas
+Esses são os nossos Pilares de Cultura, que criam um ambiente de trocas e confiança entre colaboradores/as, heads, clientes e parceiros. Entenda o que nos faz ser Aprova:
+Esses são os nossos
+, que criam um ambiente de trocas e confiança entre colaboradores/as, heads, clientes e parceiros. Entenda 
+:
+ARROJADOS: Não importa o quanto você já alcançou, mire em algo maior.
+: 
+Temos curiosidade e disciplina na busca das melhores referências para aumentar nossa capacidade e régua de qualidade. Os desafios nos energizam!
+Temos curiosidade e disciplina na busca das melhores referências para aumentar nossa capacidade e régua de qualidade. Os desafios nos energizam!
+PERSPICAZES: A nossa ajuda é a melhor que nosso cliente pode receber.
+: 
+Somos especialistas em resolver os problemas do setor público. Se não temos, criamos uma solução para melhorar o jeito de fazer as coisas.
+Somos especialistas em resolver os problemas do setor público. Se não temos, criamos uma solução para melhorar o jeito de fazer as coisas.
+RESILIENTES: Faço o que posso, com o que eu tenho, onde estou.
+ 
+Sabemos extrair aprendizados dos acertos e lidar rápido com os erros. Provocar grandes mudanças é estar disposto a lidar com os desafios naturais dessa trajetória.
+Sabemos extrair aprendizados dos acertos e lidar rápido com os erros. Provocar grandes mudanças é estar disposto a lidar com os desafios naturais dessa trajetória.
+ORQUESTRADOS: A melhor maneira de ter resultados é realizar junto.
+: 
+Acreditamos na realização coletiva, com alto nível de responsabilidade individual e colaboração entre times, comunicação aberta e expectativas alinhadas. 
+Acreditamos na realização coletiva, com alto nível de responsabilidade individual e colaboração entre times, comunicação aberta e expectativas alinhadas. 
+VIRTUOSOS: Fazer o que é correto sempre é a escolha certa.
+ 
+Guiamos nossos relacionamentos com integridade. Isso nos leva onde queremos chegar, sem atalhos, sempre estimando a missão acima de ganhos pessoais. 
+Guiamos nossos relacionamentos com integridade. Isso nos leva onde queremos chegar, sem atalhos, sempre estimando a missão acima de ganhos pessoais. 
+AMBICIOSOS: Resolvendo um ticket de cada vez, vamos mudar o Brasil. 
+: 
+ 
+Cuidamos de cada demanda com a máxima atenção. Um time orientado a executar entregas incrementais faz toda diferença para escalar nosso impacto.
+Cuidamos de cada demanda com a máxima atenção. Um time orientado a executar entregas incrementais faz toda diferença para escalar nosso impacto.
+Saiba tudo sobre os nossos Pilares: https://aprova.com.br/cultura/
+Topa o desafio de transformar a gestão pública com a gente?
+#vemserAprova
+Transformar vidas e sua carreira!
+ACOMPANHE A GENTE!
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

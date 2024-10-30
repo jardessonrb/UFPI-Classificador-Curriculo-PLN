@@ -1,0 +1,93 @@
+link_vaga-https://topazbrasil.gupy.io/job/eyJqb2JJZCI6ODAxNDc2Mywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DEVELOPER ANALYST (FRONTEND)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Na Topaz, a tecnologia nos une e a evolução nos conecta! 🚀
+ 
+Em nossa organização, estamos totalmente comprometidos em contribuir para soluções financeiras que tornem a indústria um lugar seguro, acessível e dinâmico. Queremos alcançar diferentes partes do mundo com nosso amplo ecossistema de soluções tecnológicas. Por isso, convidamos você a fazer parte dessa equipe! 😎
+ 
+Além disso, temos ótimos benefícios para você! Sabemos que, juntos, alcançaremos o sucesso, então se candidate e faça parte desse grande time.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Seu dia a dia na Topaz :
+ 
+Participar do time de desenvolvimento de software, visando prover soluções com alta qualidade e confiabilidade;
+Participar de equipes multifuncionais, interagindo com profissionais de todas as áreas de conhecimento;
+Atuar de forma proativa e trabalhar em equipe;
+Interagir com nossos clientes para avaliação de novos projetos e demandas, discutindo e propondo soluções que atendam às suas necessidades.
+REQUISITOS E QUALIFICAÇÕES
+O que você precisa conhecer para ser parte da Topaz?
+ 
+- Experiência em uma das Linguagens de Programação (HTML, CSS, JavaScript, TypeScript, Java Android, Swift);
+HTML, CSS, 
+- Conhecimentos em algum dos frameworks híbridos (Angular, React Native, React Web, Ionic Cordova, Flutter, JQuery);
+- Experiência com Programação Orientada a Objetos;
+- Conhecimentos em Metodologias Ágeis (preferencial SCRUM);
+- Experiência em Lógica de Programação;
+- Conhecimentos em técnicas BDD/TDD;
+- Conhecimentos em ferramentas de teste unitário;
+- Conhecimento de Mobile e Web.
+ 
+Ferramentas:
+- Visual Code;
+- Npm (nodejs).
+ 
+Requisitos Desejáveis:
+- Experiência em frameworks híbridos;
+- Conhecimentos em publicação nas lojas Apple / Android.
+ 
+Ferramentas Desejáveis:
+- Jenkins; Jasmine; Mocha; Appium; Firebase; TestFlight.
+INFORMAÇÕES ADICIONAIS
+Tenha em mente esses benefícios que irão melhorar sua experiência na Topaz!
+ 
+Saúde e Bem-estar: Porque pensamos em nossas equipes, oferecemos diferentes planos de saúde, focados em promover o bem-estar na organização.
+ 
+Desenvolvimento pessoal e profissional: Estamos em constante evolução. Por isso, oferecemos ambientes, programas e políticas que garantem o espaço e as oportunidades necessárias para você🎓Rota de carreira.
+ 
+Flexibilidade e tempo livre: Aqui você encontrará o tempo necessário para recarregar as energias, além de poder desfrutar de um dia de folga no seu aniversário🥳Modalidade de trabalho híbrido.
+ 
+Convênios: Oferecemos diferentes convênios e descontos.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Test2Test
+Etapa 2: Test
+2
+Test
+Etapa 3: Interview Topaz3Interview Topaz
+Etapa 3: Interview Topaz
+3
+Interview Topaz
+Etapa 4: Fit Cultural4Fit Cultural
+Etapa 4: Fit Cultural
+4
+Fit Cultural
+Etapa 5: Team Interview5Team Interview
+Etapa 5: Team Interview
+5
+Team Interview
+Etapa 6: Job Offer6Job Offer
+Etapa 6: Job Offer
+6
+Job Offer
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+SOMOS A MAIOR EMPRESA DE TECNOLOGIA ESPECIALIZADA EM SOLUÇÕES FINANCEIRAS DIGITAIS DA AMÉRICA LATINA.
+Estamos revolucionando o mercado financeiro com o Topaz One, a primeira plataforma fullbanking do mundo, que permite que as entidades financeiras evoluam seus negócios e cheguem cada vez mais longe.Somos mais de 1600 profissionais apaixonados por tecnologia, trabalhando em um ambiente multicultural e diverso. A especialização, experiência e o espírito inovador do nosso time se unem para criar soluções que estão transformando a forma como as pessoas interagem com o dinheiro.Acreditamos que o sucesso se constrói sobre uma base sólida de colaboração e respeito. Aqui, cada voz conta e todas as pessoas têm a oportunidade de serem autênticas. Incentivamos um ambiente onde o orgulho pelas nossas pessoas e a paixão pela tecnologia são o motor que nos impulsiona a continuar fazendo a diferença.
+CONHEÇA MAIS SOBRE NÓS
+LinkedIn
+Instagram
+Glassdoor

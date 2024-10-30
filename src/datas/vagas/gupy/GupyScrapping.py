@@ -17,6 +17,7 @@ class GupyScrapping:
         options = Options()
         options.add_argument('--headless=new') 
         self.driver = webdriver.Chrome(options=options)
+        self.links_falha: list[str] = []
 
     def salvar_arquivo_texto_em_pasta(self, caminho_pasta: str, nome_arquivo: str, conteudo: list[str]):
         os.makedirs(caminho_pasta, exist_ok=True)
@@ -28,38 +29,42 @@ class GupyScrapping:
             
         print(f"Arquivo salvo em: {nome_arquivo}")
 
+    def salvar_links_com_falha(self):
+        diretorio_codigo = os.path.dirname(os.path.abspath(__file__))
+        caminho_links_com_falha = os.path.join(f'{diretorio_codigo}', "links_com_falha")
+        self.salvar_arquivo_texto_em_pasta(caminho_links_com_falha, "links_falha.txt", self.links_falha)
+
     def salvar_descricao_vagas(self):
-        conteudo = ["Linha 1", "Linha 2", "Linha 3"]
         diretorio_codigo = os.path.dirname(os.path.abspath(__file__))
         caminho_links = os.path.join(f'{diretorio_codigo}', "links")
+        caminho_descricoes_vagas = os.path.join(f'{diretorio_codigo}', "descricoes_vagas")
         for index, nome_arquivo in enumerate(os.listdir(caminho_links)):
+            print("Processando arquivo:", nome_arquivo)
             caminho_arquivo = os.path.join(caminho_links, nome_arquivo)
             nome_pasta = nome_arquivo.split("-")[0]
-            caminho_pasta = os.path.join(diretorio_codigo, nome_pasta)
-            self.salvar_arquivo_texto_em_pasta(caminho_pasta, nome_pasta+str(index), conteudo)
+            caminho_pasta = os.path.join(caminho_descricoes_vagas, nome_pasta)
+            with open(caminho_arquivo, 'r', encoding='utf-8') as arquivo:
+                links_vagas = arquivo.readlines()
+            for index, link_vaga in enumerate(links_vagas):
+                self.buscar_descricao_vaga(link_vaga, caminho_pasta, f'{index}-{nome_pasta}.txt')
+        self.salvar_links_com_falha()
 
-            
-
-    def salvar_descricao_vaga(self) -> None:
-        vagas = ["https://santaclaragrupo.gupy.io/job/eyJqb2JJZCI6Nzg1NDQ1NCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal"]
-
-        for link_vaga in vagas:
+    def buscar_descricao_vaga(self, link_vaga: str, caminho_pasta: str, nome_arquivo: str) -> None:
+        try:
             response = requests.get(link_vaga)
-            # Inicializando o BeautifulSoup
             soup = BeautifulSoup(response.text, 'html.parser')
-            # Estrutura organizada
             linhas = []
-            # Estrutura organizada
-            for tag in soup.find_all(['h1', 'h2', 'h3', 'p', 'span', 'li']):  # Busca títulos e parágrafos
+            linhas.append(f'link_vaga-{link_vaga}')
+            for tag in soup.find_all(['h1', 'h2', 'h3', 'p', 'span', 'li']):
                 if tag.name in ['h1', 'h2', 'h3']:
                     linhas.append(tag.get_text(strip=True).upper())
                     continue
                 linhas.append(tag.get_text(strip=False))
 
-            with open("teste_conteudo_vagas.txt", "w", encoding="utf-8") as file:
-                for linha in linhas:
-                    if linha != None:
-                        file.write(linha + "\n")
+            self.salvar_arquivo_texto_em_pasta(caminho_pasta, nome_arquivo, linhas)
+        except:
+            self.links_falha.append(link_vaga)
+            print("Erro na vaga: ", link_vaga)
     
     def salvar_links_vagas(self, raiz: str, pasta: str, nome_arquivo: str, links: set[str]) -> None:
        # Obtém o diretório onde o script está localizado
@@ -157,46 +162,31 @@ class GupyScrapping:
         return self.urls_vagas
 
 def main() -> None:
-    # gupy_backend = GupyScrapping("https://portal.gupy.io/job-search/term=backend")
-    # vagas = gupy_backend.buscar_links_vagas_chat()
-    # gupy_backend.salvar_links_vagas(raiz="vagas/gupy", pasta="links", nome_arquivo="links_vagas_gupy", links=set(vagas))
-
-    # gupy_frontend = GupyScrapping("https://portal.gupy.io/job-search/term=frontend")
-    # vagas = gupy_frontend.buscar_links_vagas_chat()
-    # gupy_frontend.salvar_links_vagas(raiz="vagas/gupy", pasta="links", nome_arquivo="termo_frontend_links_vagas_gupy", links=set(vagas))
+    termos = [
+        ("https://portal.gupy.io/job-search/term=backend", "termo_backend_links_vagas_gupy"),
+        ("https://portal.gupy.io/job-search/term=frontend", "termo_frontend_links_vagas_gupy"),
+        ("https://portal.gupy.io/job-search/term=QA", "termo_QA_links_vagas_gupy"),
+        ("https://portal.gupy.io/job-search/term=fullstack", "termo_fullstack_links_vagas_gupy"),
+        ("https://portal.gupy.io/job-search/term=full stack", "termo_full_stack_links_vagas_gupy"),
+        ("https://portal.gupy.io/job-search/term=back-end", "termo_back_end_links_vagas_gupy"),
+        ("https://portal.gupy.io/job-search/term=UX design", "termo_UX_design_links_vagas_gupy"),
+        ("https://portal.gupy.io/job-search/term=cientista de dados", "termo_cientista_de_dados_links_vagas_gupy"),
+        ("https://portal.gupy.io/job-search/term=UX design", "termo_UX_desing_links_vagas_gupy"),
+        ("https://portal.gupy.io/job-search/term=analista de dados", "termo_analista_de_dados_links_vagas_gupy")
+        ]
     
-    # gupy_QA = GupyScrapping("https://portal.gupy.io/job-search/term=QA")
-    # vagas = gupy_QA.buscar_links_vagas_chat()
-    # gupy_QA.salvar_links_vagas(raiz="", pasta="links", nome_arquivo="termo_QA_links_vagas_gupy", links=set(vagas))
+    #Código para buscar e salvar os links das buscas no site da GUPY
+    # for link, termo in termos:
+    #     print(link, termo)
+    #     gupy = GupyScrapping(link)
+    #     vagas = gupy.buscar_links_vagas_chat()
+    #     gupy.salvar_links_vagas(raiz="vagas/gupy", pasta="links", nome_arquivo=termo, links=set(vagas))
     
-    # gupy_fullstack = GupyScrapping("https://portal.gupy.io/job-search/term=fullstack")
-    # vagas = gupy_fullstack.buscar_links_vagas_chat()
-    # gupy_fullstack.salvar_links_vagas(raiz="", pasta="links", nome_arquivo="termo_fullstack_links_vagas_gupy", links=set(vagas))
+    #Código para buscar e salvar as descrições das vagas
+    # gupy = GupyScrapping("")
+    # gupy.salvar_descricao_vagas()
+    
 
-    # gupy_fullstack = GupyScrapping("https://portal.gupy.io/job-search/term=full stack")
-    # vagas = gupy_fullstack.buscar_links_vagas_chat()
-    # gupy_fullstack.salvar_links_vagas(raiz="", pasta="links", nome_arquivo="termo_full_stack_links_vagas_gupy", links=set(vagas))
-
-    # gupy_backend = GupyScrapping("https://portal.gupy.io/job-search/term=back-end")
-    # vagas = gupy_backend.buscar_links_vagas_chat()
-    # gupy_backend.salvar_links_vagas(raiz="", pasta="links", nome_arquivo="termo_back_end_links_vagas_gupy", links=set(vagas))
-
-
-    # gupy_design = GupyScrapping("https://portal.gupy.io/job-search/term=UX design")
-    # vagas = gupy_design.buscar_links_vagas_chat()
-    # gupy_design.salvar_links_vagas(raiz="", pasta="links", nome_arquivo="termo_UX_design_links_vagas_gupy", links=set(vagas))
-
-    # gupy_cientista_de_dados = GupyScrapping("https://portal.gupy.io/job-search/term=cientista de dados")
-    # vagas = gupy_cientista_de_dados.buscar_links_vagas_chat()
-    # gupy_cientista_de_dados.salvar_links_vagas(raiz="", pasta="links", nome_arquivo="termo_cientista_de_dados_links_vagas_gupy", links=set(vagas))
-
-    # gupy_analista_de_dados = GupyScrapping("https://portal.gupy.io/job-search/term=analista de dados")
-    # vagas = gupy_analista_de_dados.buscar_links_vagas_chat()
-    # gupy_analista_de_dados.salvar_links_vagas(raiz="", pasta="links", nome_arquivo="termo_analista_de_dados_links_vagas_gupy", links=set(vagas))
-
-    gupy = GupyScrapping("")
-    # gupy.salvar_descricao_vaga()
-    gupy.salvar_descricao_vagas()
 
 if __name__ == "__main__":
     main()

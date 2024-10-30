@@ -1,0 +1,145 @@
+link_vaga-https://senaicimatec.gupy.io/job/eyJqb2JJZCI6Nzg4ODIyMiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ESPECIALISTA II - DESENVOLVEDOR FULLSTACK PL - RP 1118688
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Vamos juntos mudar o mundo? 
+ 
+Você valoriza a Ética acima de tudo, tem Visão Compartilhada, acredita na Sustentabilidade Sistêmica, em entregar resultados com Excelência e é apaixonado por Inovação?
+﻿Se a sua resposta foi SIM, então nós queremos conhecer você! 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Metas e Objetivos EstratégicosRealizar o desenvolvimento e manutenção de sites institucionais e soluções tecnológicas;Elaborar metodologia de implantação para garantir a correta instalação e implantação em ambiente relevante;Documentar todo o processo do desenvolvimento e políticas de segurança;Documentar as arquiteturas propostas e uso de ferramentas especifica;Apoio ao time de desenvolvimento;Responder tecnicamente pelo projeto, desde a concepção e desenvolvimento;Realizar testes no software e servir de referência técnica para o time;Entender os requisitos elicitados de um software e definir rotas tecnológicas adequadas, revisitando a documentação de requisitos e o próprio cliente, quando necessário;Comunicar questões técnicas em um nível facilmente compreensível para o público;Realizar a gestão de fornecedores de serviço externo;Gerir chamados críticos e seu devido escalonamento e manter usuário informado sobre o progresso do incidente ou requisição;
+Metas e Objetivos Estratégicos
+Realizar o desenvolvimento e manutenção de sites institucionais e soluções tecnológicas;
+Realizar o desenvolvimento e manutenção de sites institucionais e soluções tecnológicas;
+Elaborar metodologia de implantação para garantir a correta instalação e implantação em ambiente relevante;
+Elaborar metodologia de implantação para garantir a correta instalação e implantação em ambiente relevante;
+Documentar todo o processo do desenvolvimento e políticas de segurança;
+Documentar todo o processo do desenvolvimento e políticas de segurança;
+Documentar as arquiteturas propostas e uso de ferramentas especifica;
+Documentar as arquiteturas propostas e uso de ferramentas especifica;
+Apoio ao time de desenvolvimento;
+Apoio ao time de desenvolvimento;
+Responder tecnicamente pelo projeto, desde a concepção e desenvolvimento;
+Responder tecnicamente pelo projeto, desde a concepção e desenvolvimento;
+Realizar testes no software e servir de referência técnica para o time;
+Realizar testes no software e servir de referência técnica para o time;
+Entender os requisitos elicitados de um software e definir rotas tecnológicas adequadas, revisitando a documentação de requisitos e o próprio cliente, quando necessário;
+Entender os requisitos elicitados de um software e definir rotas tecnológicas adequadas, revisitando a documentação de requisitos e o próprio cliente, quando necessário;
+Comunicar questões técnicas em um nível facilmente compreensível para o público;
+Comunicar questões técnicas em um nível facilmente compreensível para o público;
+Realizar a gestão de fornecedores de serviço externo;
+Realizar a gestão de fornecedores de serviço externo;
+Gerir chamados críticos e seu devido escalonamento e manter usuário informado sobre o progresso do incidente ou requisição;
+Gerir chamados críticos e seu devido escalonamento e manter usuário informado sobre o progresso do incidente ou requisição;
+REQUISITOS E QUALIFICAÇÕES
+Conhecimentos Técnicos Requeridos
+Experiência com plataforma CMS (Exemplo: Drupal, Wordpress, Joomla, Contentful, Adobe Experience Manager, Sitecore etc);
+Experiência com plataforma CMS (Exemplo: Drupal, Wordpress, Joomla, Contentful, Adobe Experience Manager, Sitecore etc);
+Integrar aplicativo usando API Rest; Experiência com metodologias ágeis (Scrum, Kanban, etc.);
+Integrar aplicativo usando API Rest; Experiência com metodologias ágeis (Scrum, Kanban, etc.);
+Elaboração de monitoramentos, métricas e alertas;
+Elaboração de monitoramentos, métricas e alertas;
+Qualidade de software/ boas práticas;
+Qualidade de software/ boas práticas;
+Conhecimentos em prototipação do Figma.
+Conhecimentos em prototipação do Figma.
+Conhecimentos Desejáveis
+Conhecimento em RPA,Power Automate;
+Conhecimento em RPA,Power Automate;
+Inglês Técnico;
+Inglês Técnico;
+Experiência com plataforma OJS (Open Journal Systems);
+Experiência com plataforma OJS (Open Journal Systems);
+Conhecimento de ferramentas de rastreamento de bugs como JIRA, Git, Redmine, Confluence etc;
+Conhecimento de ferramentas de rastreamento de bugs como JIRA, Git, Redmine, Confluence etc;
+Conhecimento em testes automatizados;
+Conhecimento em testes automatizados;
+Conhecimento em metodologias de CI/CD e na configuração de pipelines de CI/CD;
+Conhecimento em metodologias de CI/CD e na configuração de pipelines de CI/CD;
+Conhecimento na implantação e certificação da ISO 27001, SOC 2 e suas variações;
+Conhecimento na implantação e certificação da ISO 27001, SOC 2 e suas variações;
+Conhecimento nas ISO 27.017, 27.018 / SSAE16 SOC I, II e III / ISO 22.301, 20.000 e 9.001 / CSA STAR Gold level;
+Conhecimento nas ISO 27.017, 27.018 / SSAE16 SOC I, II e III / ISO 22.301, 20.000 e 9.001 / CSA STAR Gold level;
+INFORMAÇÕES ADICIONAIS
+Essa é uma vaga de Contrato por Tempo Indeterminado (Efetivo).
+Sendo assim, essa é a nossa proposta de benefícios para a vaga em questão com esse tipo de vínculo:
+Sendo assim, essa é a nossa proposta de benefícios para a vaga em questão com esse tipo de vínculo:
+Avaliaremos a pretensão salarial;
+Vale Transporte;
+Vale Alimentação/Refeição;
+Plano de Saúde, extensivo a dependentes;
+Vitalmed para atendimento de urgência e emergência domiciliar, extensivo a dependentes;
+Seguro contra Acidentes Pessoais;
+Convênio SESI - Programa Odontológico;
+Plano de Previdência Privada;
+Benefício Previdenciário (em casos de afastamento, o sistema FIEB complementa o suporte financeiro não oferecido pelo INSS);
+Auxílio Creche exclusivo para mulheres; 
+Rede de parceiros CIEB - Convênios e Parcerias com academias, escolas de idiomas, espaços de eventos, seguradoras de veículos, hotéis, entre outros.
+Unindustria - Portal com várias capacitações online e gratuitas para o colaborador.
+Descontos nos cursos SENAI e SENAI CIMATEC para colaboradores e dependentes. 
+Após 1 ano, pode haver ajuda no custeio de treinamento de longa duração, tais como Graduação, Especializações, Mestrado e Doutorado em qualquer Instituição, de acordo com o cargo e função exercido. 
+Quer fazer parte da nossa Instituição e mudar o mundo conosco?
+Quer fazer parte da nossa Instituição e mudar o mundo conosco?
+ 
+Inscreva-se já em nossa vaga e venha fazer parte do nosso time!
+Inscreva-se já em nossa vaga e venha fazer parte do nosso time!
+ 
+Estamos te aguardando! Vem ser SENAI CIMATEC!
+Estamos te aguardando! Vem ser 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Análise de Requisitos2Análise de Requisitos
+Etapa 2: Análise de Requisitos
+2
+Análise de Requisitos
+Etapa 3: Contratação3Contratação
+Etapa 3: Contratação
+3
+Contratação
+VAMOS JUNTOS FAZER A DIFERENÇA NO MUNDO?
+Quando nascemos, em 2002, éramos 40 colaboradores unidos pelo propósito de formar mão de obra qualificada para impulsionar a indústria baiana. Desde então, tínhamos a certeza de que faríamos parte de uma transformação no mundo. 
+Quando nascemos, em 2002, éramos 40 colaboradores unidos pelo propósito de formar mão de obra qualificada para impulsionar a indústria baiana. Desde então, tínhamos a certeza de que faríamos parte de uma 
+. 
+
+Em 20 anos de trajetória, nós crescemos exponencialmente: avançamos junto com as tecnologias, agregamos pessoas e sonhos. Construímos novas formas de integrar ciência, tecnologia e indústria. Conquistamos a confiança de grandes parceiros no Brasil e no mundo e somos reconhecidos como uma das principais Instituições de Ciência e Tecnologia do país.
+Em 20 anos de trajetória, nós crescemos exponencialmente: avançamos junto com as tecnologias, agregamos pessoas e sonhos. Construímos novas formas de integrar ciência, tecnologia e indústria. 
+Conquistamos a confiança de grandes parceiros no Brasil e no mundo e somos reconhecidos como uma das principais Instituições de Ciência e Tecnologia do país.
+
+E fomos além!  
+E fomos além!  
+
+Hoje, somos um ecossistema de tecnologia e inovação que reúne um Centro Universitário, Escola Técnica para Educação Profissional, projetos de PD&I, serviços e consultoria para indústrias. Temos mais de 40 competências (senaicimatec.com.br/areas-de-interesse) para atender as mais diversas áreas da indústria, desde a manufatura até os mais avançados sistemas em saúde, robótica e inteligência artificial.  
+Hoje, somos um 
+ que reúne um Centro Universitário, Escola Técnica para Educação Profissional, projetos de PD&I, serviços e consultoria para indústrias. Temos mais de 40 competências 
+para atender as mais diversas áreas da indústria, desde a manufatura até os mais avançados sistemas em saúde, robótica e inteligência artificial.  
+
+Contamos com cerca de 1.000 colaboradores empenhados em construir um mundo melhor, com uma indústria mais sustentável que ofereça soluções para problemas reais da sociedade. E você pode fazer parte disso! 
+Contamos com cerca de
+empenhados em construir um mundo melhor, com uma indústria mais sustentável que ofereça soluções para problemas reais da sociedade. E você pode fazer parte disso! 
+
+No SENAI CIMATEC, acreditamos que cada um tem um jeito único de mudar o mundo! 
+No SENAI CIMATEC, acreditamos que 
+ 
+
+Aqui, a diversidade de ideias é sempre bem-vinda. 
+Vem construir o #FuturoDaInovação com a gente! 
+Vem construir o 
+ com a gente! 
+
+FIQUE POR DENTRO DO QUE ACONTECE NO SENAI CIMATEC
+Website
+LinkedIn
+Facebook
+Instagram

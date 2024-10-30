@@ -1,0 +1,48 @@
+link_vaga-https://technomar.gupy.io/job/eyJqb2JJZCI6NzgzMTQ2OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR FRONT END PLENO / SÊNIOR - REACT
+Tipo de vaga: Pessoa jurídicaPessoa jurídica
+Tipo de vaga: Pessoa jurídica
+Pessoa jurídica
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A Technomar desenvolve soluções tecnológicas em engenharia naval e está à procura de desenvolvedores plenos / sêniors para atuar no front-end em sua área de inovação tecnológica e novos produtos.
+A Technomar desenvolve soluções tecnológicas em engenharia naval e está à procura de desenvolvedores plenos / sêniors para atuar no front-end em sua área de inovação tecnológica e novos produtos.
+RESPONSABILIDADES E ATRIBUIÇÕES
+. Atuará no desenvolvimento de soluções em React e outras tecnologias atuando junto a equipe da empresa em áreas de novos produtos.
+. Trabalhará em um grupo de desenvolvedores e arquiteto de soluções de forma coordenada através de módulos de entrega, em projetos de longo prazo. Espera-se ter equipes para o longo prazo, com aprimoramentos sucessivos das soluções para o mercado.
+REQUISITOS E QUALIFICAÇÕES
+. React
+. Typescript
+. Testes Automatizados
+. Styled Components
+. Gerenciamento de estados (Redux, Recoil, Zustand, ou outro)
+. SOLID
+. GIT
+. NODE - Backend (diferencial)
+. Eléctron (diferencial)
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Verificação de experiências profissionais2Verificação de experiências profissionais
+Etapa 2: Verificação de experiências profissionais
+2
+Verificação de experiências profissionais
+Etapa 3: Entrevista3Entrevista
+Etapa 3: Entrevista
+3
+Entrevista
+Etapa 4: Contratação4Contratação
+Etapa 4: Contratação
+4
+Contratação
+DESCRIÇÃO DA EMPRESA
+A Technomar é uma empresa de engenharia concebida para fornecer produtos e serviços de alto conteúdo tecnológico (EBT) com ênfase nas diversas áreas da Engenharia Naval e Oceânica. A Technomar desenvolve Simuladores de Navegação Marítima, Sistemas de Tráfego Marítimo (VTS) e Soluções de Engenharia para Exploração de Petróleo e Gás. 
+A Technomar é uma empresa de engenharia concebida para fornecer produtos e serviços de alto conteúdo tecnológico (EBT) com ênfase nas diversas áreas da Engenharia Naval e Oceânica. A Technomar desenvolve Simuladores de Navegação Marítima, Sistemas de Tráfego Marítimo (VTS) e Soluções de Engenharia para Exploração de Petróleo e Gás. 

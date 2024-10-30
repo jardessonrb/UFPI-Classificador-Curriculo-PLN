@@ -1,0 +1,103 @@
+link_vaga-https://globo.gupy.io/job/eyJqb2JJZCI6Nzc3NDEwMiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA FULL STACK PLENO | PLATAFORMA VÍDEO & ÁUDIO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+O Hub Digital faz parte da nossa área de Estratégia e Tecnologia, tendo papel de destaque na nossa transformação em uma empresa media tech e D2C. Aqui cuidamos da gestão de dados e do desenvolvimento dos nossos produtos digitais como Globoplay, Globo.com, família G (G1, Ge, Gshow) e Cartola, visando a melhor experiência de consumo, interação e relacionamento com os nossos usuários.  
+Trabalhamos com uma variedade de tecnologias e linguagens para atingir nossos objetivos, além de estabelecermos uma relação contínua e crescente de compartilhamento de soluções com a comunidade de tecnologia!  
+Criamos ambientes onde todas as pessoas são incluídas, acolhidas e valorizadas. Nos empenhamos em ser uma Globo cada vez mais diversa, em representatividade e pensamento, aprendendo uns com os outros e estimulando a criatividade e inovação. 
+Criamos ambientes onde todas as pessoas são incluídas, acolhidas e valorizadas. Nos empenhamos em ser uma Globo cada vez mais diversa, em representatividade e pensamento, aprendendo uns com os outros e estimulando a criatividade e inovação. 
+Esta posição é para trabalhar em um dos times de desenvolvimento que cuidam da plataforma de vídeos & áudio da Globo. Nossa missão é disponibilizar toda a produção do Grupo Globo na Internet, com a melhor qualidade possível. Hoje, milhões de vídeos são assistidos por mês, suportados por uma infraestrutura gigantesca. Também somos responsáveis pela transmissão ao vivo de campeonatos de futebol, copas do mundo, olimpíadas, eleições e até as câmeras ao vivo do Big Brother Brasil, entre outros eventos de grande alcance.
+Modelo de trabalho: Híbrido (RJ, SP, POA, BH, Brasília e Recife) ou remoto (demais regiões do Brasil) 
+: Híbrido (RJ, SP, POA, BH, Brasília e Recife) ou remoto (demais regiões do Brasil) 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Como será seu dia a dia:  
+  
+Escrever código limpo, de fácil manutenção, utilizando as melhores práticas de desenvolvimento de software;
+Procurar sempre criar para os produtos Globo a melhor experiência de uso para o usuário final;
+Atuar como um team-player, comprometendo-se com os objetivos do time e trabalhando em harmonia com todos;
+Estar sempre crescendo e se desenvolvendo tecnicamente e profissionalmente;
+Participar de times geograficamente distribuídos.
+REQUISITOS E QUALIFICAÇÕES
+Do que você precisa: 
+ 
+Vivência com desenvolvimento web nas linguagens Golang e/ou Java;
+Experiência com Banco de dados (relacional/não relacional).
+﻿Conhecimentos que te destacam:   
+  
+ 
+CI/CD (Gitlab), Ngnix, Message Broker/ Mensageria, Cloud (Google), Linux;
+Experiência com Pair programming;
+Vivência com desenvolvimento ágil de software.
+INFORMAÇÕES ADICIONAIS
+Por que vir para Globo:  
+Vem e vamos criar histórias e tecnologias juntos.
+Na Globo, o encontro de histórias com tecnologia move um time diverso e apaixonado por inovação.
+A gente tem a chance de aproximar os brasileiros, criando novas formas de se conectar com eles.
+Aqui, cada um faz a transformação acontecer.
+Nossos processos seletivos estão acontecendo de forma 100% remota e nós encorajamos inscrições de qualquer lugar do Brasil. #vempraglobo  
+  
+Seguindo o compromisso de contribuir para um ambiente seguro para nossas pessoas, informamos que ter o esquema completo vacinação contra a Covid-19 é uma condição obrigatória para o trabalho na Globo, presencial ou a distância, e que o comprovante deverá ser apresentado como pré-requisito para a contratação.  
+Quer saber mais sobre como é trabalhar na Globo? Vem acompanhar nosso dia a dia, desafios e conquistas nas nossas redes: 
+https://www.linkedin.com/company/globo  
+  
+https://www.instagram.com/vempraglobo   
+   
+https://www.youtube.com/c/VemPraGlobo/  
+Os seus dados pessoais serão utilizados para fins de seleção de candidatos para preenchimento das vagas abertas na Globo. Os dados pessoais coletados durante o processo seletivo dos candidatos que não forem admitidos neste momento poderão ser mantidos nos bancos de dados para consideração em futuros processos seletivos. Todos os dados coletados serão tratados segundo rígidos padrões de segurança da informação e em total respeito às leis de privacidade aplicáveis, incluindo a Lei 13.709/18, e nos termos de nossa política de privacidade, disponível no link: https://vempraglobo.g.globo/files/politica_de_privacidade.pdf 
+Ao prosseguir você está ciente e de acordo para realização de sua candidatura nestes termos. 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Bate-Papo com RH3Bate-Papo com RH
+Etapa 3: Bate-Papo com RH
+3
+Bate-Papo com RH
+Etapa 4: Bate-papo com o Gestor4Bate-papo com o Gestor
+Etapa 4: Bate-papo com o Gestor
+4
+Bate-papo com o Gestor
+Etapa 5: Avaliação Técnica5Avaliação Técnica
+Etapa 5: Avaliação Técnica
+5
+Avaliação Técnica
+Etapa 6: Análise Final6Análise Final
+Etapa 6: Análise Final
+6
+Análise Final
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+✨SOMOS GLOBO✨
+A Globo é feita de gente que quer fazer diferente, fazer junto, fazer o futuro. Gente espalhada por todo o país (e mundo!) trabalhando com conteúdo, notícias, negócios, tecnologia, tudo isso com brasilidade e talento de sobra.
+A Globo é feita de gente que quer fazer diferente, fazer junto, fazer o futuro. Gente espalhada por todo o país (e mundo!) trabalhando com conteúdo, notícias, negócios, tecnologia, tudo isso com brasilidade e talento de sobra.
+Canais na TV aberta e por assinatura, produtos digitais como Globoplay, Cartola, G1, Ge, Gshow e outros serviços estão reunidos no mesmo lugar.
+Canais na TV aberta e por assinatura, produtos digitais como Globoplay, Cartola, G1, Ge, Gshow e outros serviços estão reunidos no mesmo lugar.
+Na Globo, o encontro de histórias com tecnologia move um time diverso e apaixonado por inovação.  
+A gente tem a chance de aproximar os brasileiros, criando novas formas de se conectar com eles.  
+Aqui, cada um faz a transformação acontecer. 
+Quer fazer parte dessa transformação também? 
+Quer fazer parte dessa transformação também? 
+#VemPraGlobo ;)
+#VemPraGlobo ;)
+ACOMPANHE A GENTE 😉
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

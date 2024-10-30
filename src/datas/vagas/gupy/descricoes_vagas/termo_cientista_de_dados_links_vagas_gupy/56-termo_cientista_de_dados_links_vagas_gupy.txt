@@ -1,0 +1,119 @@
+link_vaga-https://senaicimatec.gupy.io/job/eyJqb2JJZCI6NzQ2NzUzMywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+CIENTISTA DE DADOS PL COM FOCO EM VISÃO COMPUTACIONAL - RP 1108520
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+DESCRIÇÃO DA VAGA
+Vamos juntos mudar o mundo? 
+ 
+Você valoriza a Ética acima de tudo, tem Visão Compartilhada, acredita na Sustentabilidade Sistêmica, em entregar resultados com Excelência e é apaixonado por Inovação?
+﻿Se a sua resposta foi SIM, então nós queremos conhecer você! 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Descrição Sumária
+Desenvolver e implementar soluções de visão computacional para resolver problemas específicos do negócio;
+Desenvolver e implementar soluções de visão computacional para resolver problemas específicos do negócio;
+Treinar, validar e otimizar redes convolucionais para tarefas de detecção e reconhecimento de objetos;
+Treinar, validar e otimizar redes convolucionais para tarefas de detecção e reconhecimento de objetos;
+Trabalhar com grandes volumes de dados de imagem e vídeo, garantindo a qualidade e a consistência dos dados;
+Trabalhar com grandes volumes de dados de imagem e vídeo, garantindo a qualidade e a consistência dos dados;
+Colaborar com equipes multidisciplinares para integrar modelos de visão computacional em produtos e serviços existentes;
+Colaborar com equipes multidisciplinares para integrar modelos de visão computacional em produtos e serviços existentes;
+Realizar pesquisa e desenvolvimento para melhorar continuamente os modelos e algoritmos utilizados;
+Realizar pesquisa e desenvolvimento para melhorar continuamente os modelos e algoritmos utilizados;
+Documentar processos, resultados e fornecer suporte técnico conforme necessário.
+Documentar processos, resultados e fornecer suporte técnico conforme necessário.
+REQUISITOS E QUALIFICAÇÕES
+Conhecimentos Técnicos Requeridos
+Experiência com visão computacional e redes neurais convolucionais;
+Experiência com visão computacional e redes neurais convolucionais;
+Experiência com Python e bibliotecas de aprendizado de máquina como TensorFlow, PyTorch ou Keras Conhecimento com YOLO, Faster R-CNN e EfficientDet;
+Experiência com Python e bibliotecas de aprendizado de máquina como TensorFlow, PyTorch ou Keras Conhecimento com YOLO, Faster R-CNN e EfficientDet;
+Experiência com frameworks de visão computacional como OpenCV.
+Experiência com frameworks de visão computacional como OpenCV.
+Conhecimentos Desejáveis
+ Capacidade de trabalhar com datasets grandes e complexos, incluindo técnicas de pré-processamento e aumento de dados;
+ Capacidade de trabalhar com datasets grandes e complexos, incluindo técnicas de pré-processamento e aumento de dados;
+ Familiaridade com técnicas de otimização e tuning de hiperparâmetros;
+ Familiaridade com técnicas de otimização e tuning de hiperparâmetros;
+Inglês intermediário;
+Inglês intermediário;
+Formação em Ciência da Computação, Engenharia Elétrica, Matemática, Estatística ou áreas relacionadas.
+Formação em Ciência da Computação, Engenharia Elétrica, Matemática, Estatística ou áreas relacionadas.
+INFORMAÇÕES ADICIONAIS
+Essa é uma vaga de Contrato por Tempo Indeterminado (Efetivo).
+Sendo assim, essa é a nossa proposta salarial e benefícios para a vaga em questão com esse tipo de vínculo:
+Sendo assim, essa é a nossa proposta salarial e benefícios para a vaga em questão com esse tipo de vínculo:
+Avaliaremos a pretensão salarial;
+Vale Transporte;
+Vale Alimentação/Refeição;
+Plano de Saúde, extensivo a dependentes;
+Vitalmed para atendimento de urgência e emergência domiciliar, extensivo a dependentes;
+Seguro contra Acidentes Pessoais;
+Convênio SESI - Programa Odontológico;
+Plano de Previdência Privada;
+Benefício Previdenciário (em casos de afastamento, o sistema FIEB complementa o suporte financeiro não oferecido pelo INSS);
+Auxílio Creche exclusivo para mulheres; 
+Rede de parceiros CIEB - Convênios e Parcerias com academias, escolas de idiomas, espaços de eventos, seguradoras de veículos, hotéis, entre outros.
+Unindustria - Portal com várias capacitações online e gratuitas para o colaborador.
+Descontos nos cursos SENAI e SENAI CIMATEC para colaboradores e dependentes. 
+Após 1 ano, pode haver ajuda no custeio de treinamento de longa duração, tais como Graduação, Especializações, Mestrado e Doutorado em qualquer Instituição, de acordo com o cargo e função exercido. 
+Quer fazer parte da nossa Instituição e mudar o mundo conosco?
+Quer fazer parte da nossa Instituição e mudar o mundo conosco?
+ 
+Inscreva-se já em nossa vaga e venha fazer parte do nosso time!
+Inscreva-se já em nossa vaga e venha fazer parte do nosso time!
+ 
+Estamos te aguardando! Vem ser SENAI CIMATEC!
+Estamos te aguardando! Vem ser 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Análise de Requisitos2Análise de Requisitos
+Etapa 2: Análise de Requisitos
+2
+Análise de Requisitos
+Etapa 3: Contratação3Contratação
+Etapa 3: Contratação
+3
+Contratação
+VAMOS JUNTOS FAZER A DIFERENÇA NO MUNDO?
+Quando nascemos, em 2002, éramos 40 colaboradores unidos pelo propósito de formar mão de obra qualificada para impulsionar a indústria baiana. Desde então, tínhamos a certeza de que faríamos parte de uma transformação no mundo. 
+Quando nascemos, em 2002, éramos 40 colaboradores unidos pelo propósito de formar mão de obra qualificada para impulsionar a indústria baiana. Desde então, tínhamos a certeza de que faríamos parte de uma 
+. 
+
+Em 20 anos de trajetória, nós crescemos exponencialmente: avançamos junto com as tecnologias, agregamos pessoas e sonhos. Construímos novas formas de integrar ciência, tecnologia e indústria. Conquistamos a confiança de grandes parceiros no Brasil e no mundo e somos reconhecidos como uma das principais Instituições de Ciência e Tecnologia do país.
+Em 20 anos de trajetória, nós crescemos exponencialmente: avançamos junto com as tecnologias, agregamos pessoas e sonhos. Construímos novas formas de integrar ciência, tecnologia e indústria. 
+Conquistamos a confiança de grandes parceiros no Brasil e no mundo e somos reconhecidos como uma das principais Instituições de Ciência e Tecnologia do país.
+
+E fomos além!  
+E fomos além!  
+
+Hoje, somos um ecossistema de tecnologia e inovação que reúne um Centro Universitário, Escola Técnica para Educação Profissional, projetos de PD&I, serviços e consultoria para indústrias. Temos mais de 40 competências (senaicimatec.com.br/areas-de-interesse) para atender as mais diversas áreas da indústria, desde a manufatura até os mais avançados sistemas em saúde, robótica e inteligência artificial.  
+Hoje, somos um 
+ que reúne um Centro Universitário, Escola Técnica para Educação Profissional, projetos de PD&I, serviços e consultoria para indústrias. Temos mais de 40 competências 
+para atender as mais diversas áreas da indústria, desde a manufatura até os mais avançados sistemas em saúde, robótica e inteligência artificial.  
+
+Contamos com cerca de 1.000 colaboradores empenhados em construir um mundo melhor, com uma indústria mais sustentável que ofereça soluções para problemas reais da sociedade. E você pode fazer parte disso! 
+Contamos com cerca de
+empenhados em construir um mundo melhor, com uma indústria mais sustentável que ofereça soluções para problemas reais da sociedade. E você pode fazer parte disso! 
+
+No SENAI CIMATEC, acreditamos que cada um tem um jeito único de mudar o mundo! 
+No SENAI CIMATEC, acreditamos que 
+ 
+
+Aqui, a diversidade de ideias é sempre bem-vinda. 
+Vem construir o #FuturoDaInovação com a gente! 
+Vem construir o 
+ com a gente! 
+
+FIQUE POR DENTRO DO QUE ACONTECE NO SENAI CIMATEC
+Website
+LinkedIn
+Facebook
+Instagram

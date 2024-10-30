@@ -1,0 +1,79 @@
+link_vaga-https://bugaboo.gupy.io/job/eyJqb2JJZCI6Njg4MDQwNSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DEVELOPER FULLSTACK PLENO
+Tipo de vaga: Pessoa jurídicaPessoa jurídica
+Tipo de vaga: Pessoa jurídica
+Pessoa jurídica
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Ps.: Caso você seja foda e consiga chegar nesse nível junto conosco não deixe de aplicar! ;)
+Ps.: Caso você seja foda e consiga chegar nesse nível junto conosco não deixe de aplicar! ;)
+DESCRIÇÃO DA VAGA:
+Procuramos um Desenvolvedor Full Stack para produzir soluções de software escaláveis. Você fará parte de uma equipe multifuncional responsável por todo o ciclo de vida do desenvolvimento de software, desde a concepção até a implantação.
+Como Desenvolvedor Full Stack, você deve se sentir confortável com linguagens de codificação front-end e back-end, estruturas de desenvolvimento e bibliotecas de terceiros. Você também deve ser um jogador de equipe com talento para design visual e utilidade.
+RESPONSABILIDADES E ATRIBUIÇÕES
+RESPONSABILIDADES:
+●      Trabalhar com equipes de desenvolvimento e design para criar soluções de software interativos;
+●      Projetar a arquitetura do sistema;
+●      Desenvolver o front-end de aplicativos por meio de um design visual atraente;
+●      Desenvolver e gerenciar bancos de dados e aplicações;
+●      Escrever APIs eficazes;
+●      Testar o software para garantir capacidade de resposta e eficiência;
+●      Solucionar problemas, depurar e atualizar software;
+●      Criar configurações de segurança e proteção de dados;
+●      Criar features e aplicações com um design responsivo;
+●      Escrever documentação técnica;
+REQUISITOS E QUALIFICAÇÕES
+SKILLS:
+●      Experiência comprovada como Desenvolvedor Full Stack;
+●      Experiência em desenvolvimento de aplicações web e mobile;
+●      Familiaridade com stacks de tecnologias comuns;
+●      Conhecimento de linguagens e bibliotecas front-end (por exemplo, HTML/CSS, JavaScript e frameworks SPA: React ou Angular);
+●      Conhecimento de linguagens de back-end (por exemplo, C#, Java, Python, Node.js, Nest.js) ou outras estruturas JavaScript ;
+●      Familiaridade com bancos de dados (por exemplo, MySQL, postgreSQL, MongoDB), servidores da Web (por exemplo, Apache ou nginx) e design de UI/UX;
+●      Familiaridade com ferramentas de conteinerização (por exemplo, Docker engine)
+●      Familiaridade com uma solução cloud ( Azure, AWS ou Google Cloud)
+●      Familiaridade com as ferramentas: WebXR, ArCore, ArKit
+●      Excelentes habilidades de comunicação e trabalho em equipe;
+●      Grande atenção aos detalhes;
+●      Habilidades organizacionais;
+●      Uma mente analítica;
+●      Graduação em Ciência da Computação, Sistemas da Informação, Estatística ou área similiar;
+ 
+PLUS:
+ 
+●      Conhecimento de metodologias agile;
+●      Conhecimento de Unity;
+●      Conhecimento de Jogos.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista com RH2Entrevista com RH
+Etapa 2: Entrevista com RH
+2
+Entrevista com RH
+Etapa 3: Entrevista com o gestor3Entrevista com o gestor
+Etapa 3: Entrevista com o gestor
+3
+Entrevista com o gestor
+Etapa 4: Teste prático4Teste prático
+Etapa 4: Teste prático
+4
+Teste prático
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+QUEM SOMOS
+A Bugaboo Studio foi criada com o intuito de explorar as novas tecnologias da experiência, interatividade: Realidade Virtual, Realidade Aumentada, 3D e Jogos 
+Localizada em Fortaleza-CE, mas com sedes em SP e Lisboa- Pt a Bugaboo Studio forma equipes talentosas de pessoas que trabalham remotamente ou on-site para clientes nacionais e internacionais.
+Localizada em 
+Com as nossas áreas de especialização, aliadas a uma equipe diversificada com vasto conhecimento em engines gráficas e plataformas interativas, oferecemos um processo completo para implantação e customização de produtos para a nova era da interatividade.
+Possuímos soluções completas no campo das realidades imersivas, desenvolvidas e adaptadas em clientes pelo mundo. 

@@ -1,0 +1,113 @@
+link_vaga-https://saipos.gupy.io/job/eyJqb2JJZCI6NzgwMjcxMywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DEV. FULLSTACK - PLENO
+Tipo de vaga: Pessoa jurídicaPessoa jurídica
+Tipo de vaga: Pessoa jurídica
+Pessoa jurídica
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+QUER FAZER PARTE DO TIME DA SAIPOS? 📣
+ 
+Somos uma startup que veio para simplificar a vida dos donos de restaurantes através da integração com as principais plataformas de delivery e um produto que conecta várias frentes da gestão de um bar ou restaurante (como pedido, controle de estoque e fluxo de caixa). 
+Somos uma startup que veio para simplificar a vida dos 
+através da integração com as principais plataformas de delivery e um produto que conecta várias frentes da gestão de um bar ou restaurante (como pedido, controle de estoque e fluxo de caixa). 
+Não é à toa que estamos entre os 5 maiores players de PDV (ponto de venda) do Brasil. 🤩
+Não é à toa que estamos entre os 5 maiores players de PDV (ponto de venda) do Brasil. 🤩
+Para seguirmos construindo uma história incrível, estamos buscando uma pessoa orientada a resultados, curiosa, colaborativa e com uma excelente capacidade analítica para atuar em nosso time.
+Para seguirmos construindo uma história incrível, estamos buscando uma pessoa 
+, 
+, 
+e com uma 
+ para atuar em nosso time.
+RESPONSABILIDADES E ATRIBUIÇÕES
+As responsabilidades neste papel são:
+Desenvolvimento de novas funcionalidades e manutenção corretiva, considerando aspectos de qualidade de software como testes unitários e monitoramento da aplicação;
+Desenvolvimento de novas funcionalidades e manutenção corretiva, considerando aspectos de qualidade de 
+ como testes unitários e monitoramento da aplicação;
+Contribuir com as decisões de arquitetura da aplicação, buscando uma arquitetura distribuída, flexível, moderna e escalável que acompanhe o crescimento constante;
+Contribuir com as decisões de arquitetura da aplicação, buscando uma arquitetura distribuída, flexível, moderna e escalável que acompanhe o crescimento constante;
+Apoiar a construção da solução técnica e da arquitetura de software do projeto;
+Apoiar a construção da solução técnica e da arquitetura de
+do projeto;
+Garantir a execução das etapas no processo de desenvolvimento de software;
+Garantir a execução das etapas no processo de desenvolvimento de 
+;
+Acompanhar deploy em ambiente de produção;
+Acompanhar
+ em ambiente de produção;
+Ser agente replicador da mentalidade ágil no time. 
+Ser agente replicador da mentalidade ágil no time. 
+REQUISITOS E QUALIFICAÇÕES
+Se você se reconhece nessas características e se identifica com o escopo, confere os requisitos:
+NodeJS, Angular JS;
+NodeJS, Angular JS;
+Container (Docker, Kubernetes), banco de Dados PostgreSQL (SQL Server), e Git (bitbucket);
+Container (Docker, Kubernetes), banco de Dados PostgreSQL (SQL Server), e Git (bitbucket);
+Experiência em Desenvolvimento Ágil (Scrum, Kanban, outros);
+Experiência em Desenvolvimento Ágil (Scrum, Kanban, outros);
++3 anos de experiência.
+Desejável, mas não obrigatório:
+Loopback 4 (framework);
+Loopback 4 (framework);
+Desenvolvimento Cloud AWS (SQS, Lambda, ECS, S3, Dynamo);
+Desenvolvimento Cloud AWS (SQS, Lambda, ECS, S3, Dynamo);
+Redis.
+Redis.
+INFORMAÇÕES ADICIONAIS
+Curtiu? Calma que tem mais! Aqui você ainda terá:
+Curtiu? Calma que tem mais! Aqui você ainda terá:
+🌴 Contratação PJ com período de descanso remunerado de 30 dias;
+💳 Auxílio Home Office (no cartão Caju) de R$180/mês;
+🧬 Seguro de vida;
+🏥 Plano de saúde e odontológico com 100% da mensalidade pago pela empresa (para posições PJ após 6 meses ativo);
+🎂 Day off no mês do aniversário;
+🥊 Desconto Gympass;
+💻 Kit completo de equipamentos de trabalho;
+👶 Licença maternidade e paternidade estendida;
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: [Fase 1 - Fit Cultural] Vamos nos conhecer melhor? 😊2[Fase 1 - Fit Cultural] Vamos nos conhecer melhor? 😊
+Etapa 2: [Fase 1 - Fit Cultural] Vamos nos conhecer melhor? 😊
+2
+[Fase 1 - Fit Cultural] Vamos nos conhecer melhor? 😊
+Etapa 3: [Fase 2 - Mapeamento Comportamental!] Bora nos contar mais sobre tua personalidade? 🐿️3[Fase 2 - Mapeamento Comportamental!] Bora nos contar mais sobre tua personalidade? 🐿️
+Etapa 3: [Fase 2 - Mapeamento Comportamental!] Bora nos contar mais sobre tua personalidade? 🐿️
+3
+[Fase 2 - Mapeamento Comportamental!] Bora nos contar mais sobre tua personalidade? 🐿️
+Etapa 4: [Fase 3 - Mapeamento lógico] Vamos conhecer suas habilidades? 🤎4[Fase 3 - Mapeamento lógico] Vamos conhecer suas habilidades? 🤎
+Etapa 4: [Fase 3 - Mapeamento lógico] Vamos conhecer suas habilidades? 🤎
+4
+[Fase 3 - Mapeamento lógico] Vamos conhecer suas habilidades? 🤎
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+HEY, NÓS SOMOS A SAIPOS!
+Nosso nome vem de "ponto de venda simples, ágil e inteligente" - e é isso que a gente trabalha, todos os dias, para oferecer. 
+Nosso nome vem de "ponto de venda simples, ágil e inteligente" - e é isso que a gente trabalha, todos os dias, para oferecer. 
+Fazemos parte de uma startup que nasceu para mudar a forma como é feita a gestão dos restaurantes através de inteligência artificial e computação cognitiva para transformar o mercado de food tech.
+Fazemos parte de uma startup que nasceu para 
+ através de inteligência artificial e computação cognitiva para transformar o mercado de 
+Hoje atendemos mais de 10.000 restaurantes em todo o Brasil com nosso software em nuvem que oferece funções como: controle de estoque, emissão de Nota Fiscal, controle financeiro e controle de pedidos. 
+Hoje atendemos 
+mais de 10.000 restaurantes em todo o Brasil com nosso software em nuvem que oferece funções como: controle de estoque, emissão de Nota Fiscal, controle financeiro e controle de pedidos. 
+Nossa sede fica no em São Leopoldo, dentro do Parque Tecnológico da Unisinos, mas nosso sistema já é utilizado por restaurantes espalhados por todo Brasil! 😍
+Nossa sede fica no em São Leopoldo, dentro do Parque Tecnológico da Unisinos, mas nosso sistema já é utilizado por restaurantes espalhados por todo Brasil! 
+Expandimos não apenas em número de clientes, produto e qualidade do atendimento. Também estamos aumentando nosso time e buscando pessoas com fome de aprender, que se adaptem a novos contextos de forma acelerada e joguem em time.
+Expandimos não apenas em número de clientes, produto e qualidade do atendimento. Também estamos aumentando nosso time e buscando pessoas com 
+, que 
+e 
+.
+Se você acredita que tem esse perfil, confere a seguir nossas vagas abertas. 😊
+Se você acredita que tem esse perfil, confere a seguir nossas vagas abertas. 
+SEGUE A SAIPOS!
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

@@ -1,0 +1,116 @@
+link_vaga-https://semparar.gupy.io/job/eyJqb2JJZCI6Nzk3MDY5OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR (A) BACK-END .NET | TRIBO B2B | AFIRMATIVA PARA PCD (PESSOA COM DEFICIÊNCIA) - REMOTO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Unidade de Negócio: Sem Parar e Sem Parar Empresas
+Local de trabalho: Anywhere Office
+Modelo de trabalho: Remoto
+Missão da área que você irá atuar: O profissional vai trabalhar na tribo B2B com foco na squad de operações financeiras e será responsável por desenvolver e dar suporte a aplicações corporativas, com foco em backoffice, utilizando tecnologias Microsoft e bibliotecas específicas como Kendo e Telerik. O candidato ideal deve ter um forte entendimento de .NET e .NET Core, experiência em desenvolvimento front-end e back-end, e familiaridade com metodologias ágeis.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver novas funcionalidades e dar suporte a sistemas de backoffice em .NET e .NET Core.Criar interfaces de usuário ricas e interativas utilizando as bibliotecas Kendo UI e Telerik.Participar de reuniões de refinamento e planejamento de tarefas utilizando o Jira.Realizar integração de sistemas e APIs RESTful.Colaborar com equipes de design, QA e produto para garantir a qualidade e a usabilidade das soluções.Contribuir para o versionamento e manutenção do código utilizando GitHub.Implementar testes automatizados para garantir a estabilidade do sistema.﻿
+Desenvolver novas funcionalidades e dar suporte a sistemas de backoffice em .NET e .NET Core.
+Criar interfaces de usuário ricas e interativas utilizando as bibliotecas Kendo UI e Telerik.
+Participar de reuniões de refinamento e planejamento de tarefas utilizando o Jira.
+Realizar integração de sistemas e APIs RESTful.
+Colaborar com equipes de design, QA e produto para garantir a qualidade e a usabilidade das soluções.
+Contribuir para o versionamento e manutenção do código utilizando GitHub.
+Implementar testes automatizados para garantir a estabilidade do sistema.
+﻿
+REQUISITOS E QUALIFICAÇÕES
+É imprescindível que você tenha:
+Graduação completa em Ciência da Computação, Engenharia de Software, Sistemas de Informação ou áreas correlatas.
+Experiência intermediária com desenvolvimento em .NET e .NET Core.
+Sólido conhecimento em C# e práticas de desenvolvimento orientado a objetos.
+Experiência com bibliotecas Kendo UI e Telerik para desenvolvimento front-end.
+Conhecimento em HTML, CSS e JavaScript para personalização de componentes.
+Experiência em desenvolvimento e manutenção de aplicações backoffice.
+Familiaridade com integração de sistemas via APIs RESTful.
+Conhecimento em banco de dados relacionais (SQL Server).
+Experiência no uso de Jira para gestão de tarefas e projetos.
+Conhecimento em ferramentas de versionamento como Git e utilização de GitHub.
+Não obrigatório, mas será incrível se você tiver: 
+Experiência com metodologias ágeis (Scrum/Kanban).
+Conhecimento em desenvolvimento com ASP.NET MVC e Web API.
+Conhecimento em arquitetura limpa.
+Conhecimento em mensageria Kafka
+Experiência em otimização de desempenho e performance de aplicações.
+Familiaridade com DevOps e pipelines de CI/CD.
+Boa comunicação e capacidade de trabalhar de forma colaborativa.
+Certificações Microsoft (MCP, MCSA, MCSD) serão um diferencial.
+INFORMAÇÕES ADICIONAIS
+Fique por dentro do que te oferecemos:
+VA/VR, você decide. Oferecemos duas opções e você pode optar entre uma delas, VA para uso no mercado, VR para uso no dia a dia em restaurantes;
+Assistência Médica Bradesco;
+Assistência Odontológica Bradesco;
+Wellhub, antigo Gympass*;
+PLR (Participação nos Lucros e Resultados, de acordo com a política vigente);
+Telemedicina: você poderá realizar consultas online, via chamada de vídeo com médicos disponíveis 24h por dia, 7 dias por semana;
+Day-off de aniversário;
+Mensalidade Sem Parar Essencial sem custo para você;
+Seguro de Vida;
+Programa de acompanhamento para gestantes e licença paternidade estendida;
+Desconto de até 20% em instituições de ensino para cursar pós graduação ou MBA;
+
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista com o time de Talent2Entrevista com o time de Talent
+Etapa 2: Entrevista com o time de Talent
+2
+Entrevista com o time de Talent
+Etapa 3: Entrevista com a Liderança3Entrevista com a Liderança
+Etapa 3: Entrevista com a Liderança
+3
+Entrevista com a Liderança
+Etapa 4: Proposta4Proposta
+Etapa 4: Proposta
+4
+Proposta
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+SAIBA MAIS SOBRE O NOSSO ECOSSISTEMA:
+Em um mundo em constante transformação, estamos sempre em busca de novas maneiras de trabalhar e viver com mais eficiência. As marcas Sem Parar e Sem Parar Empresas formam um ecossistema integrado de mobilidade e meios de pagamento, projetado para simplificar a vida e eliminar as barreiras do dia a dia. 
+Em um mundo em constante transformação, estamos sempre em busca de novas maneiras de trabalhar e viver com mais eficiência. As marcas 
+ e 
+ formam um ecossistema integrado de mobilidade e meios de pagamento, projetado para simplificar a vida e eliminar as barreiras do dia a dia. 
+Com nossas soluções inovadoras, ajudamos milhares de pessoas e empresas a aproveitar ao máximo suas jornadas, garantindo movimentos mais fluidos e eficientes. Nosso pioneirismo em tecnologias de ponta desburocratiza processos essenciais, facilitando a gestão de gastos tanto para indivíduos quanto para empresas. 
+Com nossas soluções inovadoras, ajudamos milhares de pessoas e empresas a aproveitar ao máximo suas jornadas, garantindo movimentos mais fluidos e eficientes. Nosso pioneirismo em tecnologias de ponta desburocratiza processos essenciais, facilitando a gestão de gastos tanto para indivíduos quanto para empresas. 
+Oferecemos ferramentas que otimizam a mobilidade de veículos e pessoas, tornando mais fácil e eficiente a administração dos seus negócios. 
+Oferecemos ferramentas que otimizam a mobilidade de veículos e pessoas, tornando mais fácil e eficiente a administração dos seus negócios. 
+ 
+ 
+São mais de 7 milhões de tags ativas e 230 mil empresas clientes! 
+ 
+ 
+No Sem Parar, oferecemos: Tag, Sem Parar Seguros, Cartão de Crédito Sem Parar Mais, SuperApp, Clube de Benefícios e muito mais! 
+Tag, Sem Parar Seguros, Cartão de Crédito Sem Parar Mais, SuperApp, Clube de Benefícios e muito mais! 
+No Sem Parar Empresas, temos: Tag, Vale-Pedágio, Soluções de abastecimento: Cartão Combustível e Controle Total de Frotas – Abastecimento. Gestão de benefícios corporativos: Vale Refeição, Vale Alimentação, Flex, Vale Transporte, Multi Benefícios e muito mais! 
+Tag, Vale-Pedágio, Soluções de abastecimento: Cartão Combustível e Controle Total de Frotas – Abastecimento. Gestão de benefícios corporativos: Vale Refeição, Vale Alimentação, Flex, Vale Transporte, Multi Benefícios e muito mais! 
+ 
+ 
+E quem faz tudo isso acontecer? Um time talentoso e descontraído, com mais de 2.600 #Imparáveis, que constroem, hoje, o futuro de nossos ecossistemas. Se você deseja estar nessa jornada, #JunteSeAoMovimento! 
+E quem faz tudo isso acontecer? Um time talentoso e descontraído, com mais de
+, que constroem, hoje, o futuro de nossos ecossistemas. Se você deseja estar nessa jornada, #JunteSeAoMovimento! 
+Siga nossas redes sociais, junte-se a uma marca forte e vá adiante, Sem Parar. 
+Instagram de carreiras @sempararcarreiras
+LinkedIn Sem Parar
+LinkedIn Sem Parar Empresas
+CONFIRA NOSSAS REDES SOCIAIS!
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

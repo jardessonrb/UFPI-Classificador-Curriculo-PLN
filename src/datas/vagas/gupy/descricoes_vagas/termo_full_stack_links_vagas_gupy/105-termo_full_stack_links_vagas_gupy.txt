@@ -1,0 +1,121 @@
+link_vaga-https://magnasistemas.gupy.io/job/eyJqb2JJZCI6NzU3MjgwOCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+7572808 | ANALISTA DE DESENVOLVIMENTO FULL STACK JAVA SR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Junte-se a nós!
+Junte-se a nós!
+▶️Que tal atuar em projetos que contribuem diretamente para melhoria do nosso dia-a-dia?
+▶️Que tal atuar em projetos que contribuem diretamente para melhoria do nosso dia-a-dia?
+▶️Que tal ser desafiado a aprender e aprender sempre?
+▶️Que tal ser desafiado a aprender e aprender sempre?
+ 
+ 👉Se o novo te desafia e o conhecimento te inspira, #VemserMagna.
+ 👉Se o novo te desafia e o conhecimento te inspira, #VemserMagna.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Transformar as regras de negócio elaboradas pelos Analistas de Negócios em código;Será responsável por projetar e desenvolver aplicações de alta capacidade e baixa latência, garantindo a qualidade do código, segurança e escalabilidade;Terá um papel importante no processo de inovação tecnológica, ao migrar as aplicações legadas para uma estrutura de microsserviços implantados em ambiente virtualizado, como o OpenShift;Construção de aplicações de alta performance, participando de discussões de arquitetura dos projetos, contribuindo com soluções técnicas para resolver problemas;No dia a dia, além do desenvolvimento da aplicação, realizará revisão de código dos seus colegas, colaborando para a qualidade do trabalho entregue pelo time.
+Transformar as regras de negócio elaboradas pelos Analistas de Negócios em código;
+Será responsável por projetar e desenvolver aplicações de alta capacidade e baixa latência, garantindo a qualidade do código, segurança e escalabilidade;
+Terá um papel importante no processo de inovação tecnológica, ao migrar as aplicações legadas para uma estrutura de microsserviços implantados em ambiente virtualizado, como o OpenShift;
+Construção de aplicações de alta performance, participando de discussões de arquitetura dos projetos, contribuindo com soluções técnicas para resolver problemas;
+No dia a dia, além do desenvolvimento da aplicação, realizará revisão de código dos seus colegas, colaborando para a qualidade do trabalho entregue pelo time.
+REQUISITOS E QUALIFICAÇÕES
+Linguagem de programação (Java 8+);Especificação Java EE 6 e EJB;Framework MVC Struts 1-3;Framework de persistência que segue a especificação JPA +1 (Hibernate);Gerenciador de dependências (Apache Maven);Servidor de aplicação (WebSphere 8.5+);Banco de dados relacionais (IBM DB2 e/ou Oracle):Versionador de código-fonte (Git);Metodologia Ágil (SCRUM).Diferencial:Spring Framework (ooop se data, security, mvc);Testes unitários (Junit 5+, Cucumber, Mockito e Testcontainers);Banco de dados NoSQL/indexação (MongoDB e/ou Redis);Gerenciador de repositório de código fonte (GitLab);Conhecimentos em Docker;Orquestrador de containers (Kubernetes ou Openshift);Arquitetura de microsserviços;Arquitetura hexagonal, DDD e Princípios de design Solid.
+Linguagem de programação (Java 8+);
+Especificação Java EE 6 e EJB;
+Framework MVC Struts 1-3;
+Framework de persistência que segue a especificação JPA +1 (Hibernate);
+Gerenciador de dependências (Apache Maven);
+Servidor de aplicação (WebSphere 8.5+);
+Banco de dados relacionais (IBM DB2 e/ou Oracle):
+Versionador de código-fonte (Git);
+Metodologia Ágil (SCRUM).
+Diferencial:
+Spring Framework (ooop se data, security, mvc);
+Testes unitários (Junit 5+, Cucumber, Mockito e Testcontainers);
+Banco de dados NoSQL/indexação (MongoDB e/ou Redis);
+Gerenciador de repositório de código fonte (GitLab);
+Conhecimentos em Docker;
+Orquestrador de containers (Kubernetes ou Openshift);
+Arquitetura de microsserviços;
+Arquitetura hexagonal, DDD e Princípios de design Solid.
+INFORMAÇÕES ADICIONAIS
+✔️Local de Atuação: São Paulo - SP
+✔️
+ São Paulo - SP
+✔️Formato de Atuação: Híbrido
+Híbrido
+✔️Regime de Contratação: CLT 
+ CLT 
+✔️E os benefícios?
+Além da CESTA DE BENEFÍCIOS FLEXÍVEIS, você também terá:
+Além da CESTA DE BENEFÍCIOS FLEXÍVEIS, você também terá:
+•Assistência Médica
+•Assistência Médica
+•Vale Refeição
+•Vale Refeição
+•Vale Transporte (Caso a atuação seja hibrido ou presencial)
+•Vale Transporte (Caso a atuação seja hibrido ou presencial)
+•Auxílio Creche
+•Auxílio Creche
+•Seguro de vida
+•Seguro de vida
+•PLR
+•PLR
+•Apoio Psicológico
+•Apoio Psicológico
+•Programa de Indicação com ganhos por indicação efetivada pelos nossos colaboradores
+•Programa de Indicação com ganhos por indicação efetivada pelos nossos colaboradores
+•Convênio com instituições de ensino para: Inglês/Espanhol, Pós-graduação e cursos técnicos
+•Convênio com instituições de ensino para: Inglês/Espanhol, Pós-graduação e cursos técnicos
+•Convênio SESC / SENAC
+•Convênio SESC / SENAC
+•Plano Odontológico
+•Plano Odontológico
+•GYMPASS
+•GYMPASS
+•Veloe
+•Veloe
+•Desconto em Seguros Magna Sistemas
+•Desconto em Seguros Magna Sistemas
+•Clube de Descontos e muito mais😊
+•Clube de Descontos e muito mais😊
+Nossas vagas são para todas as pessoas, independentemente de gênero, idade, etnia, raça, deficiência ou orientação sexual.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista Técnica 2Entrevista Técnica 
+Etapa 2: Entrevista Técnica 
+2
+Entrevista Técnica 
+Etapa 3: Entrevista Comportamental 3Entrevista Comportamental 
+Etapa 3: Entrevista Comportamental 
+3
+Entrevista Comportamental 
+Etapa 4: Análise do Processo4Análise do Processo
+Etapa 4: Análise do Processo
+4
+Análise do Processo
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+MAGNA SISTEMAS
+A MAGNASISTEMAS é uma empresa de serviços que oferece soluções inovadoras baseadas em diferentes tecnologias para apoiar seus clientes na resolução de desafios de negócios e no retorno do investimento.Com 28 anos de mercado, conta com um time versátil e comprometido, composto por mais de 1.000 colaboradores altamente qualificados e certificados nas principais tecnologias e ferramentas de mercado.Sediada em São Paulo com apoio de filiais em Brasília (DF) e Rio de Janeiro (RJ), a companhia atende empresas de todo país dos setores público e privado que atuam nos mais diversos segmentos.A MAGNASISTEMAS investe continuamente no aperfeiçoamento de seus profissionais e no estabelecimento de parcerias estratégicas, estando plenamente capacitada para atender às complexas demandas dos seus clientes.A conquista de vários prêmios e reconhecimentos, bem como uma carteira de clientes composta de diversas empresas de destaque em seus mercados, sustentam a credibilidade da marca.
+
+CONHEÇA MAIS SOBRE NÓS 💙
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

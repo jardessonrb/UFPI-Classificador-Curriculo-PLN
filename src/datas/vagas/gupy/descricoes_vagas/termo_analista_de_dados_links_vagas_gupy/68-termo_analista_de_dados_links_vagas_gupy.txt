@@ -1,0 +1,87 @@
+link_vaga-https://vivovita.gupy.io/job/eyJqb2JJZCI6NzMwMzc3OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE DADOS SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Na Vivo Vita temos uma paixão: transformar a vida de nossos colaboradores para que sua experiência de trabalho seja única!
+Na Vivo Vita temos uma paixão: transformar a vida de nossos colaboradores para que sua experiência de trabalho seja única!
+Buscamos transformar talento em resultado, criatividade em prática e expectativas em realidade com um ambiente de trabalho colaborativo, flexível, integrado e dedicado às pessoas!
+Buscamos transformar talento em resultado, criatividade em prática e expectativas em realidade com um ambiente de trabalho colaborativo, flexível, integrado e dedicado às pessoas!
+Estamos comprometidos em trazer aos nossos colaboradores toda tecnologia e treinamento para aprimorar suas habilidades técnicas e comportamentais.
+Estamos comprometidos em trazer aos nossos colaboradores toda tecnologia e treinamento para aprimorar suas habilidades técnicas e comportamentais.
+Venha digitalizar seu DNA conosco!!
+Venha digitalizar seu DNA conosco!!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Descrição de atividades:Liderar equipe de analistas de dados (BI), analisar e interpretar dados de sistemas do grupo VIVO para fornecer insights e apoio à tomada de decisões estratégicas. As suas principais atividades incluem:Liderar a equipe de analista de dados, administrar as demandas e reportar a gestão imediata;Coleta de dados: Coletar dados de várias fontes, como bancos de dados, planilhas e sistemas de gestão (ITSM, API, JSON, etc) .Limpeza e organização de dados: Tratar, limpar e organizar os dados para garantir sua qualidade e integridade.Análise de dados: Utilizando ferramentas de diversas de BI, o profissional analisa os dados para identificar padrões, tendências e insights relevantes para a organização.Criação de relatórios e dashboards: Desenvolver relatórios e dashboards interativos para apresentar visualmente os resultados da análise de dados.Apoio à tomada de decisões: Com base nas análises realizadas, fornecer suporte à tomada de decisões estratégicas, ajudando a direcionar as ações da empresa.Monitoramento de indicadores de desempenho: Produzir e monitorar os indicadores-chave de desempenho (KPIs) da organização para avaliar o impacto das decisões tomadas. Identificação de oportunidades de melhoria: Identificar oportunidades de melhoria nos processos e operações da empresa com base nos dados analisados. Elaborar reports SLM aos clientes da VIVO, baseado nas regras de negócios e contratos de serviço, dentro do prazo estipulado; Atender demandas internas para a geração de Reports e dashboards customizadas.Competências extras:- Atuar em todo o ciclo de desenvolvimento de soluções de BI (Reuniões para entendimento do escopo do projeto, elaboração dos requisitos funcionais, desenvolvimento e apresentação dos entregáveis - BI)Competências comportamentais:Além das habilidades técnicas necessárias, é mandatório que o analista de BI tenha as seguintes características comportamentais:
+Descrição de atividades:
+Liderar equipe de analistas de dados (BI), analisar e interpretar dados de sistemas do grupo VIVO para fornecer insights e apoio à tomada de decisões estratégicas. As suas principais atividades incluem:
+Liderar a equipe de analista de dados, administrar as demandas e reportar a gestão imediata;
+Coleta de dados: Coletar dados de várias fontes, como bancos de dados, planilhas e sistemas de gestão (ITSM, API, JSON, etc) .
+Limpeza e organização de dados: Tratar, limpar e organizar os dados para garantir sua qualidade e integridade.
+Análise de dados: Utilizando ferramentas de diversas de BI, o profissional analisa os dados para identificar padrões, tendências e insights relevantes para a organização.
+Criação de relatórios e dashboards: Desenvolver relatórios e dashboards interativos para apresentar visualmente os resultados da análise de dados.
+Apoio à tomada de decisões: Com base nas análises realizadas, fornecer suporte à tomada de decisões estratégicas, ajudando a direcionar as ações da empresa.
+Monitoramento de indicadores de desempenho: Produzir e monitorar os indicadores-chave de desempenho (KPIs) da organização para avaliar o impacto das decisões tomadas.
+ Identificação de oportunidades de melhoria: Identificar oportunidades de melhoria nos processos e operações da empresa com base nos dados analisados.
+ Elaborar reports SLM aos clientes da VIVO, baseado nas regras de negócios e contratos de serviço, dentro do prazo estipulado;
+ Atender demandas internas para a geração de Reports e dashboards customizadas.
+Competências extras:
+- Atuar em todo o ciclo de desenvolvimento de soluções de BI (Reuniões para entendimento do escopo do projeto, elaboração dos requisitos funcionais, desenvolvimento e apresentação dos entregáveis - BI)
+Competências comportamentais:
+Além das habilidades técnicas necessárias, é mandatório que o analista de BI tenha as seguintes características comportamentais:
+REQUISITOS E QUALIFICAÇÕES
+Requisitos;Mandatório o conhecimento AVANÇADO ferramenta Power BI (*Para análise avançada e criação de dashboards interativos). Domínio em SQL: Capacidade avançada de escrever consultas SQL complexas, otimizar consultas e manipular grandes volumes de dados de forma eficiente.Experiência em modelagem de dados avançada: Conhecimento avançado em modelagem de dados dimensionais, star schema, snowflake schema e design de cubos OLAP.Expertise em ETL e integração de dados: Experiência em desenvolver processos ETL complexos, integrar dados de fontes distintas e heterogêneas e garantir a qualidade dos dados.Conhecimento nível INTERMEDIÁRIO nas linguagens de programação Python;Conhecimento INTERMEDIÁRIO em estatística e análise de dados: Experiência em aplicar técnicas estatísticas avançadas, modelagem preditiva e análise de séries temporais para obter insights mais profundos dos dados.Desejável:Boa comunicação em Inglês.Ter experiência anterior comprovada na liderança de equipes de análise de dados.
+Requisitos;
+Mandatório o conhecimento AVANÇADO ferramenta Power BI (*Para análise avançada e criação de dashboards interativos).
+ Domínio em SQL: Capacidade avançada de escrever consultas SQL complexas, otimizar consultas e manipular grandes volumes de dados de forma eficiente.
+Experiência em modelagem de dados avançada: Conhecimento avançado em modelagem de dados dimensionais, star schema, snowflake schema e design de cubos OLAP.
+Expertise em ETL e integração de dados: Experiência em desenvolver processos ETL complexos, integrar dados de fontes distintas e heterogêneas e garantir a qualidade dos dados.
+Conhecimento nível INTERMEDIÁRIO nas linguagens de programação Python;
+Conhecimento INTERMEDIÁRIO em estatística e análise de dados: Experiência em aplicar técnicas estatísticas avançadas, modelagem preditiva e análise de séries temporais para obter insights mais profundos dos dados.
+Desejável:
+Boa comunicação em Inglês.
+Ter experiência anterior comprovada na liderança de equipes de análise de dados.
+INFORMAÇÕES ADICIONAIS
+Benefícios de um Vitalent:
+Benefícios de um Vitalent:
+Vale refeição (Flash Benefícios);
+Assistência Médica e Assistência Odontológica (extensível aos dependentes),
+Seguro de vida;
+Day Off no mês do aniversário;
+PLR
+Previdência Privada
+Uma oferta exclusiva da Vivo, com desconto especial em linha fixa, banda larga, TV e apps;
+Ambiente dinâmico, colaborativo e inovador: para conseguir acompanhar o mercado e continuar inovando, nosso ritmo é acelerado e nossa curva de aprendizado é muito alta.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Pré Seleção2Pré Seleção
+Etapa 2: Pré Seleção
+2
+Pré Seleção
+Etapa 3: Entrevista RH3Entrevista RH
+Etapa 3: Entrevista RH
+3
+Entrevista RH
+Etapa 4: Entrevista Gestor4Entrevista Gestor
+Etapa 4: Entrevista Gestor
+4
+Entrevista Gestor
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+SOBRE A VIVO VITA
+Somos a Vivo Vita, integradora de serviços e soluções do Grupo Telefônica. Trabalhamos de uma forma agregadora e consistente, integrando soluções para o mercado da tecnologia.
+Nosso portfólio inclui soluções de Conectividade, Mobilidade, Colaboração, Vídeo, Automação, Datacenter e Virtualização, além de serviços avançados, Consultoria e serviços Gerenciados para garantir a disponibilidade dos mais complexos ambiente tecnológicos;
+Vem para a Vivo Vita!

@@ -1,0 +1,107 @@
+link_vaga-https://leega.gupy.io/job/eyJqb2JJZCI6Nzk3MzQwNiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+CIENTISTA DE DADOS SÊNIOR
+Tipo de vaga: Pessoa jurídicaPessoa jurídica
+Tipo de vaga: Pessoa jurídica
+Pessoa jurídica
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+A Leega é uma empresa focada no atendimento eficiente e inovador em seus clientes. 
+A Leega é uma empresa focada no atendimento eficiente e inovador em seus clientes. 
+Isso não poderia ser diferente com o nosso principal combustível: as pessoas!  
+Isso não poderia ser diferente com o nosso principal combustível: as pessoas!
+  
+Nossa cultura é inspiradora e nossos valores estão presentes no dia a dia: ética e transparência, excelência de qualidade, trabalho em equipe, responsabilidade econômica, social e ambiental, relações humanas e credibilidade.
+Nossa cultura é inspiradora e nossos valores estão presentes no dia a dia: ética e transparência, excelência de qualidade, trabalho em equipe, responsabilidade econômica, social e ambiental, relações humanas e credibilidade.
+Buscamos profissionais inovadores que sejam movidos por desafios e focados em resultados.
+Buscamos profissionais inovadores que sejam movidos por desafios e focados em resultados.
+Se você busca uma empresa dinâmica e parceira e que investe em seus colaboradores através de capacitação constante, a Leega é o lugar para você!
+Se você busca uma empresa dinâmica e parceira e que investe em seus colaboradores através de capacitação constante, a Leega é o lugar para você!
+Ficaremos muito felizes em ter você em nosso time. Venha fazer parte da nossa história e da construção do nosso futuro. 
+ 
+Cadastre-se agora mesmo em nossas vagas!
+Cadastre-se agora mesmo em nossas vagas!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Experiência técnica com:
+Python, R e desejável Redshift;
+Experiência atuando com modelagem estatística, validação de tendências, scores, relevância, fraude, riscos, performance e resultado, manipulação de bancos de dados e otimização de algoritmos. Desenvolvimento de algoritmos de machine learning.
+REQUISITOS E QUALIFICAÇÕES
+Formação:
+Graduação em Ciência da Computação, Engenharia de Software, Engenharia de Dados ou áreas correlatas. Pós-graduação ou certificações em áreas relevantes são desejáveis.
+Experiência:
+A partir de 7 anos de experiência profissional na área de tecnologia da informação, com pelo menos 5 anos dedicados especificamente à engenharia de dados, MLOps ou Ciência de dados.
+Responsabilidades:
+Projetar, desenvolver e manter pipelines de dados eficientes e escaláveis para coletar, processar e transformar dados brutos em formatos prontos para uso em modelos de aprendizado de máquina;
+Garantir a qualidade, integridade e consistência dos dados ao longo de todo o ciclo de vida do ML;
+Implementar pipelines de CI/CD (Integração Contínua/Entrega Contínua) para automação de testes, validação e implantação de modelos de ML;
+Automatizar processos de treinamento, validação, deployment e monitoramento de modelos;
+Configurar e gerenciar a infraestrutura necessária para suportar o ciclo de vida do ML, incluindo ambientes de desenvolvimento, teste e produção;
+Utilizar ferramentas de gerenciamento de contêineres como Docker e Kubernetes para escalar e orquestrar modelos de ML;
+Monitorar o desempenho dos modelos em produção e implementar alertas e métricas para identificar e resolver problemas;
+Realizar manutenção regular dos modelos para garantir que permaneçam atualizados e eficazes;
+Trabalhar em estreita colaboração com cientistas de dados, engenheiros de software e outros stakeholders para entender os requisitos do projeto e garantir a entrega eficaz de soluções de ML;
+Facilitar a comunicação e a colaboração entre as equipes de desenvolvimento e operações para garantir uma integração perfeita;
+Implementar práticas de gerenciamento de dados, incluindo governança de dados, segurança e conformidade com regulamentações (como GDPR e LGPD);
+Garantir a proteção dos dados sensíveis e confidenciais ao longo do ciclo de vida do ML;
+Identificar gargalos e otimizar o desempenho dos pipelines de dados e dos modelos de ML;
+Utilizar técnicas avançadas de otimização para melhorar a eficiência e reduzir custos operacionais;
+Implementar novas ferramentas que possam melhorar os processos e a eficiência operacional;
+Documentar todos os processos, procedimentos e configurações de infraestrutura relacionados aos pipelines de MLops;
+Estabelecer e promover as melhores práticas para desenvolvimento, implantação e operação de modelos de ML em escala;
+Manter-se atualizado com as últimas tendências e tecnologias em MLops e engenharia de dados;
+Fornecer orientação e suporte técnico para membros juniores da equipe;
+Assumir um papel de liderança em projetos críticos e ajudar a definir a direção estratégica para a equipe de MLops
+INFORMAÇÕES ADICIONAIS
+Conhecimentos:
+Conhecimento em design e arquitetura de bancos de dados;
+Experiência em processos de extração, transformação e carga de dados;
+Familiaridade com Hadoop, Spark, Kafka;
+Habilidade em construir e gerenciar pipelines de ML;
+Experiência com ferramentas de CI/CD para ML como Jenkins, GitLab CI, etc;
+Conhecimento em deploy de modelos de ML em produção utilizando frameworks como TensorFlow Serving, Docker, Kubernetes;
+Habilidades em monitorar e manter modelos de ML em produção;
+Proficiência com serviços de nuvem específicos para dados e ML, como AWS SageMaker, Azure Machine Learning, Google AI Platform;
+Experiência com S3, Redshift, e ferramentas da nuvem AWS.
+Desejável:
+Certificação AWS.
+Experiência em Logística é um grande diferencial, caso tenha atuado no ramo de ferrovia é um GRANDE diferencial.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Avaliação de Perfil3Avaliação de Perfil
+Etapa 3: Avaliação de Perfil
+3
+Avaliação de Perfil
+Etapa 4: Entrevista Gestor4Entrevista Gestor
+Etapa 4: Entrevista Gestor
+4
+Entrevista Gestor
+Etapa 5: Entrevista Cliente5Entrevista Cliente
+Etapa 5: Entrevista Cliente
+5
+Entrevista Cliente
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+VEM TRABALHAR COM A GENTE!
+A LEEGA é referência em consultoria e outsourcing para soluções de Data Analytics .
+Temos 14 ANOS de mercado e mais de 20 ANOS de experiência em soluções de Business Intelligence, Data Integration e Analytics, atendendo grandes empresas dos mais diversos segmentos do mercado e contamos com mais de 400 colaboradores.
+Conquistamos capacidade técnica e reunimos as melhores pessoas para proporcionar aos nossos clientes a melhor experiência.
+Brasileiros, com escritório de projetos, fábrica de software e centro de treinamento em São Paulo (capital) , atuação internacional com escritório também em Portugal, somos conhecidos por viver e respirar Analytics e Big Data, inovando nossa tecnologia, compartilhando conhecimento, evoluindo talentos e entregando VALOR.
+ 
+Em nosso porftólio de serviços ofertamos consultoria especializada, alocação de profissionais, treinamento e desenvolvimento de soluções customizadas para Cloud Computing, Business Intelligence, Big Data, Data Analytics, Machine Learning, Inteligência Artificial, Data Quality, MDM, Governança de Dados e demais soluções de dados
+A LEEGA EM OUTRAS PLATAFORMAS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

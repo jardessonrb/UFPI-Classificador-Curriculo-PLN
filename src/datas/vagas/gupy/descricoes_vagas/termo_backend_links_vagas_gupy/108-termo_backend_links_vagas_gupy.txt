@@ -1,0 +1,167 @@
+link_vaga-https://avenue.gupy.io/job/eyJqb2JJZCI6NzIxOTUzOSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+SOFTWARE ENGINEER BACKEND SÊNIOR | GOLANG | SQUAD CORRETORAS
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Sobre o Time de Tecnologia da Avenue:
+Pensa em um time de alta performance que tá crescendo muito... Esse é o time de tecnologia da Avenue!
+A tecnologia da Avenue é a espinha dorsal da companhia, uma vez que a área suporta toda nossa operação e permeia todas as áreas da empresa. Para que nossas operações sejam viáveis, ágeis, sem burocracia e com uma experiência genuinamente brasileira ao nosso cliente, contamos com um time supercompetente e engajado no desenvolvimento do nosso negócio.
+Estamos divididos em squads por cada linha de negócio da empresa, e hoje 1/3 dos nossos fundadores são do time de tecnologia.
+ 
+Estilo de trabalho
+Aqui na Avenue, nós valorizamos pessoas independentes e curiosas, por isso damos autonomia e a liberdade com responsabilidade, priorizando sempre a diretriz estratégica do negócio e o remote first, o que proporciona aprendizado através dos desafios de um negócio inovador e disruptivo. 
+Como será seu dia a dia
+﻿
+Em um dia normal de trabalho, você irá ajudar o nosso time de tecnologia a melhorar cada vez mais as plataformas que entregamos para todos os nossos clientes, desenvolvendo novas funcionalidades, integrações e melhorando a nossa experiência dos nossos produtos.
+  
+Sobre o Backend
+Nosso backend é baseado em ferramentas de código aberto e funciona como um conjunto de MicroServiços baseados em Golang.
+Estamos usando RabbitMQ e GRCP para comunicação!
+Esta posição backend suporta nosso Web App (um React / Reduz & JS SPA) e nosso Mobile App (mecanismo Flutter usando WebViews para renderizar nosso Web App, que logo será totalmente nativo).
+RESPONSABILIDADES E ATRIBUIÇÕES
+Você estará inserido em um ambiente onde nossos sistemas conversam entre si. Para isso, esperamos que você tenha capacidade de entender de forma profunda como os negócios e serviços se interligam. Suas atribuições serão:
+Você estará inserido em um ambiente onde nossos sistemas conversam entre si. Para isso, esperamos que você tenha capacidade de entender de forma profunda como os negócios e serviços se interligam. Suas atribuições serão:
+ Desenhar e propor soluções de arquitetura satisfatórias para as necessidades e momento da empresa;
+ Desenhar e propor soluções de arquitetura satisfatórias para as necessidades e momento da empresa;
+ Auxiliar sua Squad na priorização das entregas mais relevantes dentro do seu contexto;
+ Auxiliar sua Squad na priorização das entregas mais relevantes dentro do seu contexto;
+Ser engajado em espalhar cultura de testes e observabilidade;
+Ser engajado em espalhar cultura de testes e observabilidade;
+Atuar com zelo, monitorando os sistemas que seu time suporta, além de ser vetor de qualidade e boas práticas;
+Atuar com zelo, monitorando os sistemas que seu time suporta, além de ser vetor de qualidade e boas práticas;
+Estar atento às necessidades do negócio da Avenue, e propor soluções práticas e de grande impacto para empresa.
+Estar atento às necessidades do negócio da Avenue, e propor soluções práticas e de grande impacto para empresa.
+REQUISITOS E QUALIFICAÇÕES
+Conhecimento e vivência em Golang - entender conceitos como goroutines, channels, e etc;Ter trabalhado com Cloud GCP e Kubernetes - Helm Charts, Github Actions, entre outros;Atuamos com MySQL, Postgres, ES e Datastore como nossas bases de dados, além de utilizarmos Memchached como solução de cache;Nossos serviços se comunicam via RabbitMQ e gRPC, sendo ambos indispensáveis o conhecimento prévio;Conhecimento de boas práticas de testes unitários, integração, e2e e afins;Utilizar Prometheus, Grafana, e OpenTelemetry para métricas de sistema, além de utilizar Logs de maneira coerente;Ter trabalhado com arquitetura de MicroServiços, principalmente com padrão de Actor Model;Ah, claro, ser um apaixonado pelo mercado financeiro e ter experiência trabalhando com serviços financeiros vai ser um diferencial;Se tiver sua conta aberta na Avenue, então, já ganha o nosso coração!
+Conhecimento e vivência em Golang - entender conceitos como goroutines, channels, e etc;
+Ter trabalhado com Cloud GCP e Kubernetes - Helm Charts, Github Actions, entre outros;
+Atuamos com MySQL, Postgres, ES e Datastore como nossas bases de dados, além de utilizarmos Memchached como solução de cache;
+Nossos serviços se comunicam via RabbitMQ e gRPC, sendo ambos indispensáveis o conhecimento prévio;
+Conhecimento de boas práticas de testes unitários, integração, e2e e afins;
+Utilizar Prometheus, Grafana, e OpenTelemetry para métricas de sistema, além de utilizar Logs de maneira coerente;
+Ter trabalhado com arquitetura de MicroServiços, principalmente com padrão de Actor Model;
+Ah, claro, ser um apaixonado pelo mercado financeiro e ter experiência trabalhando com serviços financeiros vai ser um diferencial;
+Se tiver sua conta aberta na Avenue, então, já ganha o nosso coração!
+INFORMAÇÕES ADICIONAIS
+BENEFÍCIOS DE SER UM FUNDADOR AVENUE
+Regime CLT;
+Vale refeição e vale alimentação atrativos;
+Plano de saúde médico e odontológico Bradesco sem custo para colaborador, cônjuge e filhos;
+Seguro de vida;
+Auxílio Home office (Política de work anywhere);
+Vale cadeira (Pra deixar seu setup top ;P);
+Auxílio-creche;
+Equipamentos disponibilizados (Mac ou Dell);
+Incentivo educacional (reembolso pra cursos, certificações e eventos);
+Bônus semestral (conforme regras formuladas pela Avenue);
+Corretagens grátis ilimitadas e desconto no câmbio das operações de investimentos dentro do app da Avenue.
+100 dólares pra abrir sua conta na Avenue e começar a investir!
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista RH2Entrevista RH
+Etapa 2: Entrevista RH
+2
+Entrevista RH
+Etapa 3: Entrevista Líder3Entrevista Líder
+Etapa 3: Entrevista Líder
+3
+Entrevista Líder
+Etapa 4: Entrevista Técnica4Entrevista Técnica
+Etapa 4: Entrevista Técnica
+4
+Entrevista Técnica
+Etapa 5: Entrevista Gestor5Entrevista Gestor
+Etapa 5: Entrevista Gestor
+5
+Entrevista Gestor
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+A AVENUE
+Somos a primeira empresa de investimentos nos EUA criada para investidores brasileiros que desejam proteger seu patrimônio, evoluir sua vida financeira e prosperar em dólar.
+Somos a primeira empresa de investimentos nos EUA criada para investidores brasileiros que desejam proteger seu patrimônio, evoluir sua vida financeira e prosperar em dólar.
+Formamos um time de especialistas e o nosso trabalho é abrir caminhos e guiar clientes em toda sua jornada, oferecendo produtos de investimentos e serviços financeiros internacionais de maneira ágil e segura.
+Formamos um time de especialistas e o nosso trabalho é abrir caminhos e guiar clientes em toda sua jornada, oferecendo produtos de investimentos e serviços financeiros internacionais de maneira ágil e segura.
+Queremos você no nosso time para provocar ainda mais transformações no mercado e na sociedade! 
+Queremos você no nosso time para provocar ainda mais transformações no mercado e na sociedade! 
+Nossa história 
+ 
+Criamos, sustentamos e desenvolvemos uma categoria de negócios que não existia no mercado até 2018: investimentos no exterior.
+Criamos, sustentamos e desenvolvemos uma categoria de negócios que não existia no mercado até 2018: investimentos no exterior.
+Nossa jornada é marcada por 3 grandes momentos: construção de bases legais com órgãos regulatórios do Brasil e dos Estados Unidos para iniciar nossas operações; formação de time e criação de prateleira de produtos e serviços relevantes para diferentes públicos; e crescer e provar para o mercado que somos um movimento inédito no ecossistema financeiro do nosso país.
+Nossa jornada é marcada por 3 grandes momentos: construção de bases legais com órgãos regulatórios do Brasil e dos Estados Unidos para iniciar nossas operações; formação de time e criação de prateleira de produtos e serviços relevantes para diferentes públicos; e crescer e provar para o mercado que somos um movimento inédito no ecossistema financeiro do nosso país.
+A Avenue é sócia do Itaú e como parceira de negócios, compartilhamos a visão de que o nosso sucesso é fator crucial para que existam tantos projetos “Tipo Avenue” no mercado atual.
+A Avenue é sócia do Itaú e como parceira de negócios, compartilhamos a visão de que o nosso sucesso é fator crucial para que existam tantos projetos “Tipo Avenue” no mercado atual.
+Cultura Avenue
+Para nós, cultura organizacional é a chave para desenvolver pessoas e alavancar times.
+Para nós, cultura organizacional é a chave para desenvolver pessoas e alavancar times.
+Aqui, “valores” são substituídos por princípios operacionais, e são eles que nos guiam nessa visão de mundo. 
+Aqui, “valores” são substituídos por princípios operacionais, e são eles que nos guiam nessa visão de mundo. 
+▪️ Crescimento acelerado, resultados duradouros
+▪️ 
+Somos orientados a metas e resultados e focamos em iniciativas que possibilitam crescimento exponencial de clientes e custódia do nosso cliente ao longo dos anos. 
+Somos orientados a metas e resultados e focamos em iniciativas que possibilitam crescimento exponencial de clientes e custódia do nosso cliente ao longo dos anos. 
+﻿▪️ Trabalhar diariamente para conquistar a confiança dos nossos clientes
+﻿▪️ 
+Estamos sempre disponíveis, próximos e buscando ouvir e reagir proativamente. Colocamos os interesses dos nossos atuais e potenciais clientes como prioridade.
+Estamos sempre disponíveis, próximos e buscando ouvir e reagir proativamente. Colocamos os interesses dos nossos atuais e potenciais clientes como prioridade.
+▪️ Work Hard, Work Smart
+▪️ 
+Melhoria contínua, impulsionada pelo trabalho em equipe, nos fornece a velocidade para fazer e acontecer de modo cada vez mais eficiente. 
+Melhoria contínua, impulsionada pelo trabalho em equipe, nos fornece a velocidade para fazer e acontecer de modo cada vez mais eficiente. 
+Acreditamos que nada é tão bom que não possa melhorar, por isso buscamos sempre a melhoria de processos, gestão e pessoas.
+Acreditamos que nada é tão bom que não possa melhorar, por isso buscamos sempre a melhoria de processos, gestão e pessoas.
+▪️ Postura de líder
+▪️ 
+Somos protagonistas na expansão para o mercado internacional, sendo agentes da mudança em um ambiente que está em constante transformação.
+Somos protagonistas na expansão para o mercado internacional, sendo agentes da mudança em um ambiente que está em constante transformação.
+Diante de um mercado com incertezas, agimos sempre com responsabilidade e otimismo. Voltamos nossos esforços diários para ser a voz que lidera e conduz o avanço da conexão do Brasil com o mundo.
+Diante de um mercado com incertezas, agimos sempre com responsabilidade e otimismo. Voltamos nossos esforços diários para ser a voz que lidera e conduz o avanço da conexão do Brasil com o mundo.
+Você topa ser um colaborador Avenue?
+Somos um time de colaboradores dedicados ao trabalho, mas que também sabe aproveitar muito bem as experiências e bons momentos que temos juntos.
+Somos um time de colaboradores dedicados ao trabalho, mas que também sabe aproveitar muito bem as experiências e bons momentos que temos juntos.
+Conheça nossos benefícios:
+Conheça nossos benefícios:
+Benefícios exclusivos da Avenue:
+$ 100 dólares de incentivo para começar a investir;
+Corretagem grátis;
+Emissão cartão físico de graça;
+Descontos nos estabelecimentos ao redor do escritório, como restaurantes, lojas de suplementos e mais;
+Descontos farmácias oferecidos pela nossa parceira ANBIMA e pela SulAmérica;
+Experiências e benefícios gerais:
+Bônus semestral de acordo com as regras da companhia;
+Vale refeição/alimentação como benefício flexível (cartão crédito) com valor compatível ao do mercado;
+Plano de saúde e odontológico Bradesco sem coparticipação;
+Seguro de vida SulAmérica;
+Wellhub e Total Pass;
+Auxílio home-office para contratos 100% remotos no valor de R$ 200;
+Kit maternidade/paternidade + R$ 800 de auxílio;
+Auxílio Creche para crianças de 0 a 5 anos de idade no valor de R$ 430;
+Acesso gratuito ao aplicativo de dietas e nutrição, o TecnoNutri;
+Acesso gratuito a plataforma Psicologia Viva - podendo realizar terapia grátis sem necessidade de reembolso;
+Reembolso de terapia através do plano de saúde (R$170 por sessão);
+Acesso à plataforma de terapia online, a Vittude;
+Reembolso de certificações do mercado financeiro obrigatórias para a posição - como por exemplo: SIE, SERIES 7, SERIES 24, SERIES 99, CPA 20 etc;
+Descontos em escolas de idiomas como OpenEnglish e Essential.
+Experiências presenciais no escritório de São Paulo:
+Café da manhã todos os dias;
+Agenda quinzenal de massagem In Company;
+R$ 200 reais mensais para reembolso de transporte (Uber, taxi, ou estacionamento).
+ACOMPANHE A GENTE NAS REDES SOCIAIS!
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

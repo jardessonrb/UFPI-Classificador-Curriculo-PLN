@@ -1,0 +1,72 @@
+link_vaga-https://montreal.gupy.io/job/eyJqb2JJZCI6Nzg2NzA0OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE BANCO DE DADOS SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Como Analista de Banco de Dados Sr. na Montreal, você fará parte de uma das melhores empresas de tecnologia do Brasil. Nossa trajetória iniciou há mais de trinta anos com uma pequena equipe de engenharia apaixonada por inovação. Em 1986, pessoas visionárias fizeram um compromisso com a tecnologia e sua capacidade de transformar o mundo. Aquele, seria apenas o começo de uma trajetória que nos tornou referência sólida no mercado e uma das melhores empresas para se trabalhar.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver e implementar soluções de dados utilizando Azure Data Factory, Azure Data Lake Storage Gen2 e Azure Databricks;Realizar modelagem de dados e definir estratégias de ELT;Garantir a governança de dados e a conformidade com as políticas internas;Trabalhar com Unity Catalog para gerenciar e catalogar dados;Utilizar Python, R, PySpark, Pandas e outras bibliotecas para apoiar a engenharia de dados;Aplicar conhecimentos em Machine Learning e IA para desenvolver modelos preditivos e análises avançadas;Colaborar com equipes multidisciplinares para entender as necessidades de negócios e traduzir essas necessidades em soluções técnicas.
+Desenvolver e implementar soluções de dados utilizando Azure Data Factory, Azure Data Lake Storage Gen2 e Azure Databricks;
+Realizar modelagem de dados e definir estratégias de ELT;
+Garantir a governança de dados e a conformidade com as políticas internas;
+Trabalhar com Unity Catalog para gerenciar e catalogar dados;
+Utilizar Python, R, PySpark, Pandas e outras bibliotecas para apoiar a engenharia de dados;
+Aplicar conhecimentos em Machine Learning e IA para desenvolver modelos preditivos e análises avançadas;
+Colaborar com equipes multidisciplinares para entender as necessidades de negócios e traduzir essas necessidades em soluções técnicas.
+REQUISITOS E QUALIFICAÇÕES
+Experiência comprovada em engenharia de dados e projetos de analytics;Domínio de Azure Data Factory, Azure Data Lake Storage Gen2 e Azure Databricks;Desejável conhecimento e experiência em estatística.Soft Skills:Excelente comunicação e habilidades interpessoais.Capacidade de trabalhar de forma colaborativa em equipes multidisciplinares.Habilidade para resolver problemas complexos e tomar decisões informadas.Proatividade e atitude positiva diante de desafios.Capacidade de adaptar-se rapidamente a novas tecnologias e metodologias.
+Experiência comprovada em engenharia de dados e projetos de analytics;
+Domínio de Azure Data Factory, Azure Data Lake Storage Gen2 e Azure Databricks;
+Desejável conhecimento e experiência em estatística.
+Soft Skills:
+Excelente comunicação e habilidades interpessoais.
+Capacidade de trabalhar de forma colaborativa em equipes multidisciplinares.
+Habilidade para resolver problemas complexos e tomar decisões informadas.
+Proatividade e atitude positiva diante de desafios.
+Capacidade de adaptar-se rapidamente a novas tecnologias e metodologias.
+INFORMAÇÕES ADICIONAIS
+Benefícios:
+Plano de Saúde;
+Plano Odontológico;
+Seguro de Vida;
+Vale-transporte;
+Vale refeição ou vale alimentação;
+Clube de Vantagens.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista RH 2Entrevista RH 
+Etapa 2: Entrevista RH 
+2
+Entrevista RH 
+Etapa 3: Entrevista técnica3Entrevista técnica
+Etapa 3: Entrevista técnica
+3
+Entrevista técnica
+Etapa 4: Envio de carta oferta4Envio de carta oferta
+Etapa 4: Envio de carta oferta
+4
+Envio de carta oferta
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+SOMOS UMA DAS MELHORES EMPRESAS PARA SE TRABALHAR!
+Em uma construção contínua, promovemos um ambiente de colaboração, respeito e facilidade. Investimos no desenvolvimento de talentos e na implementação de práticas que otimizam e conectam diferentes aspectos tecnológicos e inovadores.
+Em uma construção contínua, promovemos um ambiente de colaboração, respeito e facilidade.
+ e na implementação de práticas que otimizam e conectam diferentes aspectos tecnológicos e inovadores.
+CONECTE-SE COM A GENTE!
+Website
+LinkedIn
+Facebook
+Instagram

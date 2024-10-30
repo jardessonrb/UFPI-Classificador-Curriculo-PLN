@@ -1,0 +1,170 @@
+link_vaga-https://bagy.gupy.io/job/eyJqb2JJZCI6NzkyNzE2OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA PROGRAMADORA FULLSTACK PLENO - HÍBRIDO/REMOTO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+O time de tecnologia é responsável pela evolução e sustentação da plataforma de e-commerce, garantindo performance, qualidade e segurança em todo fluxo de desenvolvimento.
+O time de tecnologia é responsável pela evolução e sustentação da plataforma de e-commerce, garantindo performance, qualidade e segurança em todo fluxo de desenvolvimento.
+Essa pessoa será responsável por participar do ciclo completo de desenvolvimento de software, desde a concepção e especificação, até a implementação e manutenção dos sistemas.
+Essa pessoa será responsável por parti
+Para esta oportunidade, precisamos de pessoas que procuram fazer parte da evolução da nossa plataforma, ser protagonista em suas atuações, se desafiar em novas oportunidades, ganhar e aprimorar conhecimentos técnicos buscando transformar o varejo brasileiro.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Como será seu dia a dia:
+Atuar em todo o nosso fluxo de desenvolvimento de forma pragmática e colaborativa seguindo boas práticas de codificação.
+Atuar em todo o nosso fluxo de desenvolvimento de forma pragmática e colaborativa seguindo boas práticas de codificação.
+Desenvolver e manter aplicações robustas com alta qualidade, garantindo o desempenho, segurança e escalabilidade.
+Desenvolver e manter aplicações 
+ com alta qualidade, garantindo o desempenho, segurança e escalabilidade.
+Colaborar com a equipe de desenvolvimento para definir requisitos, especificações técnicas e prazos.
+Colaborar com a equipe de desenvolvimento para definir requisitos, especificações técnicas e prazos.
+Participar ativamente de reuniões para discussão de arquitetura, design e implementação de soluções.
+Participar ativamente de reuniões para discussão de arquitetura, design e implementação de soluções.
+Revisar o código desenvolvido por outros membros da equipe, assegurando a consistência e qualidade do projeto.
+Escrever e executar testes unitários e de integração, garantindo a estabilidade e confiabilidade do código.
+.
+Identificar e corrigir bugs, realizar melhorias e otimizações em aplicações existentes.
+Identificar e corrigir bugs, realizar melhorias e otimizações em aplicações existentes.
+Monitorar e analisar performance das entregas em produção.
+Monitorar e analisar performance das entregas em produção.
+Manter-se atualizado com as melhores práticas de desenvolvimento e novas tecnologias do mercado, aplicando-as no dia a dia.
+.
+E para tirar de letra, você precisará:
+Atuar com protagonismo, tomando iniciativa para identificar e resolver problemas de forma ágil e eficiente.
+Demonstrar dedicação e esforço na busca por soluções, sempre se colocando à disposição para enfrentar desafios e entregar resultados de alta qualidade.
+Ser proativo e curioso, sempre buscando aprender novas ferramentas, metodologias e maneiras de aprimorar o desenvolvimento das soluções.
+Experiência comprovada em desenvolvimento com PHP e Laravel, com histórico de projetos entregues.
+.
+Conhecimento em tecnologias Front-end como HTML, CSS, JavaScript, além de experiência com o framework Vue.js, para aproveitar componentes existentes e criar novos conforme necessário.
+.
+Forte compreensão de Orientação a Objetos.
+.
+Experiência com bancos de dados relacionais (MySQL) e noções de bancos de dados não relacionais.
+.
+Habilidade para colaborar em equipe de forma eficiente e se comunicar de forma clara.
+.
+Experiência com sistemas de controle de versão, como Git.
+.
+Capacidade analítica para solucionar problemas complexos de forma eficiente.
+.
+Conhecimento em gerenciamento de filas e mensageria (Redis, RabbitMQ, SQS).
+Facilidade para interpretar documentações técnicas em inglês.
+.
+REQUISITOS E QUALIFICAÇÕES
+E se tiver isso também, melhor ainda:
+Familiaridade com arquitetura de microsserviços.
+Conhecimento do Kafka para processamento de mensagens e comunicação entre serviços.
+Conhecimento em TypeScript para desenvolvimento mais seguro e escalável.
+Prática em aplicar boas práticas de desenvolvimento, como S.O.L.I.D, Design Patterns, Clean Code e Object Calisthenics.
+Vivência no uso de ferramentas de qualidade de código para garantir entregas robustas e consistentes.
+Experiência em metodologias ágeis, como Scrum, para colaborar em equipes de alta performance.
+Habilidade com Docker para gerenciar ambientes de desenvolvimento e produção.
+Experiência em integração contínua (CI) para automatizar e agilizar o ciclo de desenvolvimento.
+Conhecimento em AWS para gerenciar e escalar aplicações na nuvem.
+INFORMAÇÕES ADICIONAIS
+🩺Convênio médico;
+🩺
+Convênio médico;
+🦷Convênio odontológico;
+🦷
+Convênio odontológico;
+🍽️Vale-refeição ou vale-alimentação;
+🍽️
+Vale-refeição ou vale-alimentação;
+💻Vale transporte ou auxílio combustível
+💻
+Vale transporte ou auxílio combustível
+🍼Auxílio-creche;
+🍼
+Auxílio-creche;
+🏖️Férias&Co (benefício de viagens);
+🏖️
+Férias&Co (benefício de viagens);
+🎂Voucher Ifood no dia do seu aniversário;
+🎂Voucher Ifood no dia do seu aniversário;
+💻Auxílio home-office;
+💻
+Auxílio home-office;
+💛Seguro de vida; 
+💛
+Seguro de vida; 
+💙Licença maternidade e paternidade estendidas; 
+💙
+Licença maternidade e paternidade estendidas; 
+🏋️‍♀️WellHub (GymPass);
+🏋️‍♀️
+WellHub (GymPass);
+💰Oferta de cortesias dos produtos LWSA.
+💰Oferta de cortesias dos produtos LWSA.
+Para quem está no escritório:
+🍌Frutas no escritório todos os dias;
+🍌
+Frutas no escritório todos os dias;
+☕Máquina de café
+☕Máquina de café
+Estamos em dois lugares incríveis: 
+Avenida Cristóvão Colombo, nº400, sala 301 - Belo Horizonte - MG
+
+Rua Caiapós, nº54, Jardim Mauá, Novo Hamburgo - RS
+
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem 2Triagem 
+Etapa 2: Triagem 
+2
+Triagem 
+Etapa 3: Contato telefônico 3Contato telefônico 
+Etapa 3: Contato telefônico 
+3
+Contato telefônico 
+Etapa 4: Entrevista Tech Recruiter4Entrevista Tech Recruiter
+Etapa 4: Entrevista Tech Recruiter
+4
+Entrevista Tech Recruiter
+Etapa 5: Entrevista Gestor5Entrevista Gestor
+Etapa 5: Entrevista Gestor
+5
+Entrevista Gestor
+Etapa 6: Desafio Técnico6Desafio Técnico
+Etapa 6: Desafio Técnico
+6
+Desafio Técnico
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+#VEMPROTEAMBAGY
+🚀 Vem revolucionar o e-commerce brasileiro com a gente! 
+🚀 
+Desde 2017 a Bagy vem ajudando lojistas na criação e gerenciamento de suas lojas virtuais.
+Desde 2017 a Bagy vem ajudando lojistas na criação e gerenciamento de suas lojas virtuais.
+Em 2021 nos tornamos parte do grupo LWSA, para somar ao propósito de ajudar negócios a nascerem e prosperarem por meio da tecnologia.  
+Em 2021 nos tornamos parte do grupo LWSA, para somar ao propósito de 
+  
+Nosso time conta com mais de 130 colaboradores, que trabalham em conjunto nos times de Minas Gerais e Rio Grande do Sul, para permitir que lojistas de todo o país tenham acesso a uma plataforma de e-commerce simples de configurar, de alta performance, com suporte de qualidade e que permite a expansão do seu negócio.
+Nosso time conta com mais de 130 colaboradores, que trabalham em conjunto nos times de Minas Gerais e Rio Grande do Sul, para permitir que lojistas de todo o país tenham acesso a uma plataforma de e-commerce simples de configurar, de alta performance, com suporte de qualidade e que permite a expansão do seu negócio.
+💡 Inovação está no nosso DNA
+Somos um time que sonha grande e faz acontecer. Por aqui buscamos solucionar nossos desafios com leveza e descontração. A soma dos nossos valores e competências, nos permite oferecer uma série de soluções tecnológicas e facilidades para os nossos lojistas. 
+ Por aqui buscamos solucionar nossos desafios com leveza e descontração. A soma dos nossos valores e competências, nos permite oferecer uma série de soluções tecnológicas e facilidades para os nossos lojistas. 
+O cuidado com o bem-estar do nosso #TeamBagy está presente em nosso dia a dia. Por isso investimos no desenvolvimento e capacitação de quem faz a Bagy acontecer.
+O cuidado com o bem-estar do nosso
+ está presente em nosso dia a dia. Por isso investimos no desenvolvimento e capacitação de quem faz a Bagy acontecer.
+✨Queremos chegar ainda mais longe 
+✨
+Se você se identificou com o nosso jeito de ser, confira as vagas disponíveis e vem fazer parte do #TeamBagy
+Se você se identificou com o nosso jeito de ser, confira as vagas disponíveis e vem fazer parte do 
+SIGA NOSSAS REDES SOCIAIS
+Website
+LinkedIn
+Instagram
+Glassdoor

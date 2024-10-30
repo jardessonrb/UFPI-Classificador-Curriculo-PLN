@@ -1,0 +1,145 @@
+link_vaga-https://rankmyapp.gupy.io/job/eyJqb2JJZCI6Nzg2NzYwMywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+CIENTISTA DE DADOS
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+O RankMyAPP é uma empresa que está revolucionando o mercado de Mobile Marketing! 
+O 
+é uma empresa que está revolucionando o mercado de Mobile Marketing! 
+ 
+ 
+Como? Através de muita tecnologia e colaboradores apaixonados pelo que fazem. Atualmente somos uma referência mundial na área de Mobile Marketing, estamos entre as três principais empresas de ASO do mundo.
+Como? Através de muita tecnologia e colaboradores apaixonados pelo que fazem. Atualmente somos uma referência mundial na área de Mobile Marketing, estamos entre as 
+ 
+ 
+Aqui no RankMyApp você terá autonomia, vai poder errar, acertar, se desenvolver e principalmente crescer muito, e tudo isso com o melhor: tendo a liberdade de ser quem você realmente é.
+Aqui no RankMyApp você terá autonomia, vai poder errar, acertar, se desenvolver e principalmente crescer muito, e tudo isso com o melhor: tendo a liberdade de ser quem você realmente é.
+Quer fazer parte dessa revolução? Então se cadastra na oportunidade que mais tem a ver com seu perfil e daí é só torcer pro time de Talent Acquisition entrar em contato com você.
+Quer fazer parte dessa revolução? Então se cadastra na oportunidade que mais tem a ver com seu perfil e daí é só torcer pro time de Talent Acquisition entrar em contato com você.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Quais serão os principais desafios?
+Contribuir diretamente para a criação de soluções de inteligência artificial, utilizando modelos avançados de machine learning e deep learning.
+Desenvolver, treinar, validar e implementar modelos de IA, com foco em projetos que utilizem LLMs para resolver problemas de negócios.
+Participar do desenvolvimento de aplicações que utilizam agentes de IA, aplicando o framework CrewAI quando relevante.
+Garantir a qualidade do código através de práticas de CI/CD, testes automatizados e versionamento no GitHub.
+Fazer deploy de modelos em produção e monitorar seu desempenho, aplicando melhorias contínuas.
+Colaborar com outros times, especialmente aqueles não técnicos, para alinhar soluções técnicas às necessidades do negócio.
+Explorar e aplicar novas tecnologias e ferramentas de IA que possam aumentar a eficiência e a qualidade das soluções desenvolvidas.
+Contribuir para a criação de uma cultura de troca de conhecimentos e boas práticas, incentivando o aprendizado contínuo entre os membros do time.
+REQUISITOS E QUALIFICAÇÕES
+O que o time busca?
+Graduação em Ciência da Computação, Engenharia de Computação, Estatística, Matemática ou áreas afins.
+Mais de 3 anos de experiência na área de ciência de dados, com histórico de resolução de problemas complexos usando dados.
+Proficiência em Python, com experiência na implementação de soluções de machine learning e inteligência artificial.
+Familiaridade com bibliotecas e frameworks voltados para IA, incluindo frameworks de deep learning (como TensorFlow ou PyTorch).
+Experiência prática com Git, GitHub, e metodologias de CI/CD.
+Capacidade de realizar deploys de modelos e aplicações, garantindo testes adequados e manutenção.
+Experiência com Large Language Models (LLMs), incluindo o uso de ferramentas como ChatGPT para resolução de problemas complexos.
+Domínio de técnicas de modelagem estatística, machine learning e algoritmos de inteligência artificial.
+Experiência com pipelines de dados, desde a coleta e processamento até a análise e visualização.
+Conhecimento em criação de testes automatizados, monitoramento de desempenho de modelos e ajustes contínuos.
+Capacidade de conectar soluções técnicas às estratégias de negócios e comunicar resultados para times não técnicos.
+Excelentes habilidades de trabalho colaborativo, contribuindo para a troca de conhecimentos e experiências com a equipe.
+Para o match perfeito, seria legal se você tivesse:
+Conhecimento ou experiência com o framework CrewAI será um diferencial.
+Conhecimento e prática em ferramentas de automação como n8n.
+Experiência com frameworks de IA voltados para produção (TensorFlow, PyTorch, etc.).
+Experiência com o desenvolvimento e manutenção de pipelines de dados que suportam projetos de machine learning.
+Senso crítico e capacidade de tomar decisões com base em dados, equilibrando inovação técnica e alinhamento com o negócio.
+INFORMAÇÕES ADICIONAIS
+O que nos comprometemos para desenvolver sua carreira:
+Promovemos autonomia e espaço para você se desenvolver; 
+Promovemos autonomia e espaço para você se desenvolver; 
+Ações de capacitações e feedbacks constantes;
+Ações de capacitações e feedbacks constantes;
+Ter liberdade de ser quem você é;
+Ter liberdade de ser quem você é;
+1:1s quinzenais com seu gestor;
+1:1s quinzenais com seu gestor;
+Plano de desenvolvimento individual; 
+Plano de desenvolvimento individual; 
+Avaliações 360° duas vezes por ano. 
+Avaliações 360° duas vezes por ano. 
+E para o seu bem-estar:
+🌎 Somos uma empresa Remoto First
+ Somos uma empresa Remoto First
+🍟 Vale Refeição (Benefício Flexível)
+🍟 Vale Refeição (Benefício Flexível)
+💻 Auxílio Home Office
+💻 Auxílio Home Office
+💆‍♀️ Descanso Remunerado
+💰 Décimo Terceiro
+🧑 Plano de Saúde (Comparticipação de 30%)
+🧑 Plano de Saúde (Comparticipação de 30%)
+🦷  Plano Dental (Sem comparticipação)
+🦷 
+ Plano Dental (Sem comparticipação)
+💙 Seguro de Vida
+💙 Seguro de Vida
+👶🏼 Auxílio creche
+👶🏼 Auxílio creche
+🍼 6 meses de Licença Maternidade
+🍼 6 meses de Licença Maternidade
+Guia de Cultura Ranker!
+Estamos comprometidos com o desenvolvimento e crescimento dos nossos Rankers, além de muita autonomia responsável, pautamos nossas relações e boas práticas, baseados em 6 valores; 
+Estamos comprometidos com o desenvolvimento e crescimento dos nossos Rankers, além de muita autonomia responsável, pautamos nossas relações e boas práticas, baseados em 6 valores; 
+Construímos Juntos: Confiamos em um time de pessoas incríveis, onde cada pessoas é responsável por criar a nossa jornada e juntos somos melhores.
+Confiamos em um time de pessoas incríveis, onde cada pessoas é responsável por criar a nossa jornada e juntos somos melhores.
+Somos Protagonistas: Trabalhamos com autonomia responsável e comprometimento, ser Ranker é isso! Construir como causa própria. 
+Trabalhamos com autonomia responsável e comprometimento, 
+ser Ranker é isso! Construir como causa própria. 
+Movidos por Resultados: Estruturamos resultados consistentes e tomamos decisões baseado em fatos e dados, nos desafiando a entregar mais e melhor.
+Estruturamos resultados consistentes e tomamos decisões baseado em fatos e dados, nos desafiando a entregar mais e melhor.
+Evoluímos Sempre: O aprendizado aqui é acelerado e constante enquanto nos divertimos com as descobertas! Desafiando nossa curiosidade.
+O aprendizado aqui é acelerado e constante enquanto nos divertimos com as descobertas! Desafiando nossa curiosidade.
+Somos Transparentes: Nosso ambiente é composto por pessoas que expressam ideias e são abertas a dar e receber feedbacks.
+Nosso ambiente é composto por pessoas que expressam ideias e são abertas a dar e receber feedbacks.
+Existimos pelo cliente: O problema do cliente seja interno ou externo, é antes de mais nada nosso problema! Tudo isso existe pelo cliente.
+O problema do cliente seja interno ou externo, é antes de mais nada nosso problema! Tudo isso existe pelo cliente.
+Curtiu a posição? Vem trabalhar conosco! 
+Curtiu a posição? Vem trabalhar conosco! 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista People/ Produto2Entrevista People/ Produto
+Etapa 2: Entrevista People/ Produto
+2
+Entrevista People/ Produto
+Etapa 3: Case3Case
+Etapa 3: Case
+3
+Case
+Etapa 4: Contratação4Contratação
+Etapa 4: Contratação
+4
+Contratação
+#BEARANKER
+O RankMyApp é uma empresa que está revolucionando o mercado de Mobile Marketing! 
+O 
+é uma empresa que está revolucionando o mercado de Mobile Marketing! 
+ 
+ 
+Como? Através de muita tecnologia e colaboradores apaixonados pelo que fazem. Atualmente somos uma referência mundial na área de Mobile Marketing, estamos entre as três principais empresas de Mobile Intelligence do mundo.
+Como? Através de muita tecnologia e colaboradores apaixonados pelo que fazem. Atualmente somos uma referência mundial na área de Mobile Marketing, estamos entre as três principais empresas de Mobile Intelligence do mundo.
+ 
+ 
+Aqui no RankMyApp você terá autonomia, vai poder errar, acertar, se desenvolver e principalmente crescer muito, e tudo isso com o melhor: tendo a liberdade de ser quem você realmente é.
+Aqui no RankMyApp você terá autonomia, vai poder errar, acertar, se desenvolver e principalmente crescer muito, e tudo isso com o melhor: tendo a liberdade de ser quem você realmente é.
+Quer fazer parte dessa revolução? Então se cadastra na oportunidade que mais tem a ver com seu perfil e daí é só torcer pro time de Talent Acquisition entrar em contato com você.
+Quer fazer parte dessa revolução? Então se cadastra na oportunidade que mais tem a ver com seu perfil e daí é só torcer pro time de Talent Acquisition entrar em contato com você.
+CONHEÇA MAIS SOBRE O RANKMYAPP
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

@@ -1,0 +1,97 @@
+link_vaga-https://fineasytech.gupy.io/job/eyJqb2JJZCI6Nzc3Njg2OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR DE SOFTWARE FULL STACK (SQUAD CANAIS)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Estamos em busca de uma pessoa desenvolvedora com foco em full stack, na qual irá fazer parte do time de Canais da Fineasy, empresa parceira do banco Topázio. Em conjunto com o time e buscando a cocriação dos projetos atuais, junto com os novos deafios, essa pessoa irá ajudar a construir novos produtos, trazendo modelos atuais de mercado, tecnologia de ponta, escalabilidade e resiliência das aplicações e conectividade com diversos segmentos da corporação.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Ajudar a definir as soluções técnicas junto com o time de desenvolvimento, em conjunto com a necessidade da área de negócio e produtos;Ter senso crítico para, analisar, explorar e sugerir melhorias dentro do atual cenário;Apoiar o time para eventuais incidentes de produção, analisando e viabilizando a solução para correção definitiva através da causa raiz;Buscar a excelência em suas entregas, criando cenários de aceite e testes unitário;Criar documentação técnica do projeto e contratos das APIs, assim como manter elas sempre atualizadas conforme necessidade do projeto;
+Ajudar a definir as soluções técnicas junto com o time de desenvolvimento, em conjunto com a necessidade da área de negócio e produtos;
+Ter senso crítico para, analisar, explorar e sugerir melhorias dentro do atual cenário;
+Apoiar o time para eventuais incidentes de produção, analisando e viabilizando a solução para correção definitiva através da causa raiz;
+Buscar a excelência em suas entregas, criando cenários de aceite e testes unitário;
+Criar documentação técnica do projeto e contratos das APIs, assim como manter elas sempre atualizadas conforme necessidade do projeto;
+REQUISITOS E QUALIFICAÇÕES
+Experiência com OOP, SOLID, padrões de projeto e arquiteturas de mercado;Experiência em arquitetura e desenvolvimento de sistemas distribuídos, com Microsserviços e APIs RESTful;Experiência com diferentes frameworks e plataformas, principalmente Node.js, Express.js, React, Vue, Redux;Experiência com banco de dados transacionais e não transacionais, Oracle, SQL Server e MongoDB;Experiência com criação e gestão de filas utilizando o RabbitMQ;Experiência em administrar releases, versionamento com GitLab e outras práticas ligadas a CI/CD;Experiência com práticas de qualidade como testes unitários, de integração, code review, pair programming, etc;Vivência e experiência com Métodos Ágeis (Scrum, Lean, Kanban, XP);Desejavel ter conhecimento em Redis;Desejavel conhecimento em cloud (Azure e/ou AWS);Desejavel conhecimento em sistemas de gerenciamento de atividades (Jira);SERÁ UM DIFERENCIAL:Conhecimento em sistemas e transacional bancário;
+Experiência com OOP, SOLID, padrões de projeto e arquiteturas de mercado;
+Experiência em arquitetura e desenvolvimento de sistemas distribuídos, com Microsserviços e APIs RESTful;
+Experiência com diferentes frameworks e plataformas, principalmente Node.js, Express.js, React, Vue, Redux;
+Experiência com banco de dados transacionais e não transacionais, Oracle, SQL Server e MongoDB;
+Experiência com criação e gestão de filas utilizando o RabbitMQ;
+Experiência em administrar releases, versionamento com GitLab e outras práticas ligadas a CI/CD;
+Experiência com práticas de qualidade como testes unitários, de integração, code review, pair programming, etc;
+Vivência e experiência com Métodos Ágeis (Scrum, Lean, Kanban, XP);
+Desejavel ter conhecimento em Redis;
+Desejavel conhecimento em cloud (Azure e/ou AWS);
+Desejavel conhecimento em sistemas de gerenciamento de atividades (Jira);
+SERÁ UM DIFERENCIAL:
+Conhecimento em sistemas e transacional bancário;
+INFORMAÇÕES ADICIONAIS
+O que oferecemos:
+ 
+ 
+Vale Alimentação e Refeição (R$ 1.985,04 total);
+Vale Alimentação e Refeição (R$ 1.985,04 total);
+Plano de Saúde Unimed Unimax com a possibilidade de inclusão de dependentes;
+Plano de Saúde Unimed Unimax com a possibilidade de inclusão de dependentes;
+Plano Odontológico;
+Plano Odontológico;
+Vacina anti gripe com a possibilidade de incluir dependentes;
+Vacina anti gripe com a possibilidade de incluir dependentes;
+Seguro de Vida;
+Seguro de Vida;
+Convênio com a rede de farmácias;
+Convênio com a rede de farmácias;
+Auxílio creche;
+Auxílio creche;
+Gympass;
+Gympass;
+Vale transporte;
+Vale transporte;
+Estacionamento;
+Estacionamento;
+Cartão Ticket Plus;
+Cartão Ticket Plus;
+ 
+ 
+Além desses benefícios contamos com:
+ 
+ 
+Um Micromarket dentro de nossa empresa;
+PPR (conforme atingimento de metas);
+Gratificação natalina.
+Gratificação natalina.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem de Currículos2Triagem de Currículos
+Etapa 2: Triagem de Currículos
+2
+Triagem de Currículos
+Etapa 3: Entrevista com o RH3Entrevista com o RH
+Etapa 3: Entrevista com o RH
+3
+Entrevista com o RH
+Etapa 4: Entrevista com a Gestão4Entrevista com a Gestão
+Etapa 4: Entrevista com a Gestão
+4
+Entrevista com a Gestão
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+QUEM SOMOS?
+Somos parceiros de tecnologia do Banco Topázio e garantimos uma entrega completa, de acordo com a regulamentação do setor bancário e adaptáveis ao seu modelo de negócio.
+Somos parceiros de tecnologia do Banco Topázio e garantimos uma entrega completa, de acordo com a regulamentação do setor bancário e adaptáveis ao seu modelo de negócio.
+﻿Através de uma plataforma de serviços aberta conectamos fintechs e bancos, desenvolvendo soluções que atualizam legados, sistemas e modelos de serviços, de forma moderna, robusta e escalável. Com nosso know how bancário e tecnológico, também oferecemos consultoria para o desenho de novos modelos de negócios financeiros digitais.
+﻿Através de uma plataforma de serviços aberta conectamos fintechs e bancos, desenvolvendo soluções que atualizam legados, sistemas e modelos de serviços, de forma moderna, robusta e escalável. Com nosso know how bancário e tecnológico, também oferecemos consultoria para o desenho de novos modelos de negócios financeiros digitais.

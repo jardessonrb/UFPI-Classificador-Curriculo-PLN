@@ -1,0 +1,125 @@
+link_vaga-https://radixeng.gupy.io/job/eyJqb2JJZCI6Nzk3NDY0NCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PROFISSIONAL DE DESENVOLVIMENTO FULLSTACK SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+A primeira coisa que você precisa saber é que aqui você não vai cair na rotina. A Radix desenvolve soluções para empresas de diferentes setores e indústrias. Cada projeto tem suas tecnologias, soluções e prazos e você terá oportunidade de atuar e experimentar diferentes desafios. Além da nossa atuação pelo Brasil, com escritório no Rio de janeiro, São Paulo e Belo Horizonte, temos também filiais nos Estados Unidos, fazendo com que a Radix se consolide cada vez mais como uma empresa global. 
+Quer fazer parte dessa história e transformar ideias e sonhos em realidade? 
+ 
+#VemPraRadix 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Estamos buscando desenvolvedores de aplicativos web com ciclo de vida completo. Essa função tem a responsabilidade de compreender os requisitos técnicos e de negócios do cliente e, em seguida, fornecer soluções completas apropriadas que consistem em aplicativos baseados em componentes e orientados a serviços desenvolvidos usando o .NET Framework e tecnologias complementares, como Web Forms com C#. Nosso ambiente é principalmente autônomo, com responsabilidade individual pela priorização de múltiplas tarefas.
+ 
+Como Profissional de Desenvolvimento Fullstack Sênior você vai:  
+Escrever, traduzir e codificar consistentemente programas de software e aplicativos de acordo com as especificações;
+Analisar as necessidades do usuário e os requisitos de software para determinar a viabilidade do design;
+Armazenar, recuperar e manipular dados para análise de recursos e requisitos do sistema;
+Aproveitar as tecnologias front-end atuais para desenvolver aplicativos da web;
+Executar e monitorar testes funcionais e de desempenho em softwares novos e existentes para corrigir erros, isolar áreas de melhoria e depurar;
+Investigar e resolver problemas do cliente;
+Monitorar a construção e habilidade para realizar depuração em todas as áreas do código;
+Trabalhar de forma eficaz com outros funcionários para colaborar no fornecimento de aplicativos fáceis de usar;
+Cultivar e disseminar conhecimento das melhores práticas de desenvolvimento de aplicativos.
+REQUISITOS E QUALIFICAÇÕES
+Para essa vaga, você deve ter:
+Inglês Avançado/Fluente para conversação;
+Experiência trabalhando com frameworks CSS, HTML5, XML, JSON, JQuery, AJAX e JavaScript, como Bootstrap e Flexbox;
+Sólidas habilidades de desenvolvimento de software profissional .NET e SQL em um ambiente de desenvolvimento de aplicações web;
+Conhecimento profundo do ciclo de vida da página ASP.NET com ferramentas de terceiros com C#;
+Expertise em suporte à produção na resolução de problemas;
+Experiência em ambiente MVC com C#;
+Experiência no layout de aplicativos pesados em JavaScript;
+Experiência em aplicações web utilizando ASP.NET MVC com C#, Web API e aproveitamento de Entity Framework (EF) no ambiente utilizando Visual Studio;
+Experiência com controle de versão (TFS);
+Proficiência em software orientado a objetos e design de banco de dados;
+Compreensão dos padrões de design UI/UX (material);
+Experiência com o framework de desenvolvimento ágil de software;
+Excelentes habilidades técnicas e analíticas;
+Experiência em servidor SQL;
+Capacidade de resposta e capacidade de fornecer soluções para respostas rápidas;
+Experiência em ambiente de trabalho dinâmico e amplamente autônomo;
+Demonstrar forte comunicação e relacionamento interpessoal com uma personalidade orientada para realizações.
+São diferenciais para a vaga:
+Ter experiência no setor de energia;
+Experiência anterior com SQL Reporting Services (SSRS).
+INFORMAÇÕES ADICIONAIS
+Modelo de trabalho: CLT  Regime de contratação: Remoto  Benefícios:Plano de Saúde + Odontológico Médico da empresa Gympass (+3 dependentes) Auxílio creche até 3 anos Licença maternidade e paternidade estendidas Auxílio home office VR e/ou VA Day off de aniversário  Universidade Corporativa  Convênio com instituições de ensino e cursos de idioma Programa de treinamentos internos  Plano de Incentivos atrelado à avaliação de Desempenho. A Radix está sempre no topo das Melhores Empresas para se trabalhar porque: Temos profissionais comprometidos, dedicados, curiosos e inovadores. O espírito de equipe é a nossa maior força. Trabalhamos de forma cooperativa e sabemos que estamos juntos, remando na mesma direção. Temos um ambiente diverso, que valoriza equidade e inclusão. Nossa jornada de trabalho é flexível e em quase todos os projetos é possível trabalhar de qualquer lugar do Brasil. Valorizamos o bem-estar e o cuidado com as nossas pessoas, com programas de apoio à saúde mental, psiquiatra e médico consultor disponíveis. Curtiu?  #VemPraRadix  #LI-Remote
+Modelo de trabalho: CLT  
+Regime de contratação: Remoto 
+ 
+Benefícios:
+Plano de Saúde + Odontológico 
+Médico da empresa 
+Gympass (+3 dependentes) 
+Auxílio creche até 3 anos 
+Licença maternidade e paternidade estendidas 
+Auxílio home office 
+VR e/ou VA 
+Day off de aniversário  
+Universidade Corporativa  
+Convênio com instituições de ensino e cursos de idioma 
+Programa de treinamentos internos  
+Plano de Incentivos atrelado à avaliação de Desempenho. 
+A Radix está sempre no topo das Melhores Empresas para se trabalhar porque: 
+Temos profissionais comprometidos, dedicados, curiosos e inovadores. 
+O espírito de equipe é a nossa maior força. Trabalhamos de forma cooperativa e sabemos que estamos juntos, remando na mesma direção. 
+Temos um ambiente diverso, que valoriza equidade e inclusão. 
+Nossa jornada de trabalho é flexível e em quase todos os projetos é possível trabalhar de qualquer lugar do Brasil. 
+Valorizamos o bem-estar e o cuidado com as nossas pessoas, com programas de apoio à saúde mental, psiquiatra e médico consultor disponíveis. 
+Curtiu? 
+ 
+#VemPraRadix 
+ 
+#LI-Remote
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Análise de currículo2Análise de currículo
+Etapa 2: Análise de currículo
+2
+Análise de currículo
+Etapa 3: Entrevista com Gente e Gestão3Entrevista com Gente e Gestão
+Etapa 3: Entrevista com Gente e Gestão
+3
+Entrevista com Gente e Gestão
+Etapa 4: Teste de Inglês4Teste de Inglês
+Etapa 4: Teste de Inglês
+4
+Teste de Inglês
+Etapa 5: Entrevista com o Gestor da Vaga5Entrevista com o Gestor da Vaga
+Etapa 5: Entrevista com o Gestor da Vaga
+5
+Entrevista com o Gestor da Vaga
+Etapa 6: Carta Proposta6Carta Proposta
+Etapa 6: Carta Proposta
+6
+Carta Proposta
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+UMA EMPRESA GLOBAL, MOVIDA À INOVAÇÃO E DESAFIOS 🚀
+Presente em mais de 25 países, a Radix conecta pessoas, oportunidades, projetos e negócios no mundo todo. Nós criamos e transformamos conhecimento em resultados. 
+ 
+Com times multidisciplinares e forte atuação em Engenharia, Automação, Desenvolvimento de Software e Produtos, TI Industrial e Consultoria, oferecemos serviços e soluções tecnológicas atendendo os mais variados setores da indústria. 
+ 
+Desde a nossa fundação, em 2010, estamos na lista das Melhores Empresas para se trabalhar no Rio de Janeiro, no Brasil e na América Latina. Aqui, a gente investe em criatividade, diversidade, capacitação e desenvolvimento de carreira. Quando um radixer cresce, nós crescemos também e, juntos, dobramos de tamanho nos últimos dois anos. 
+
+A rotina da Radix é dinâmica, colaborativa e Everywhere, com profissionais atuando de 23 estados do Brasil, além de Estados Unidos, Europa e Asia. Nosso modelo de trabalho possibilita o equilíbrio para pessoas que estão sempre em movimento, gostam de liberdade e vivem a tecnologia e a inovação sem fronteiras. 
+
+Somos inquietos, entusiastas da mudança e abraçamos a transformação sem perder os valores que guiam nossa trajetória: relações de longo prazo, foco nas pessoas, ética, agilidade e comprometimento.  
+ 
+Vem com a gente se conectar ao seu futuro, #VemSerRadix. 
+ 
+CONHEÇA MAIS SOBRE A RADIX!
+Website
+LinkedIn
+Instagram
+Glassdoor

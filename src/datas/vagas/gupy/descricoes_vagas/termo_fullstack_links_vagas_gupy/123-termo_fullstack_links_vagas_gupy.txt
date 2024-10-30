@@ -1,0 +1,81 @@
+link_vaga-https://werecruiter.gupy.io/job/eyJqb2JJZCI6NzgxODYwOCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR(A) FULLSTACK JAVA
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+Estamos contratando desenvolvedores Java Fullstack para atuar em empresa de software.
+Se você tem interesse em atuar com as tecnologias mais avançadas em uma cultura que preza por INOVAR, INSPIRAR, CONECTAR E LIDERERAR, em uma empresa que desenvolve soluções especializadas em educação, gestão de pessoas, saúde e tecnologia há mais de 30 anos.
+Neste projeto você atuará junto ao time de P&D desenvolvendo novas soluções e atualizando tecnologias de soluções já existentes com a proposta de melhorar a interface do cliente e a performance do sistema. 
+Confirme sua participação no processo se inscrevendo no link a baixo.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver serviços/micro-serviços independentes para atender regras de negócio específicasCriar APIs de fácil entendimento e bem documentadasCriar soluções escaláveis, sustentáveis e focadas em automaçãoColaborar na organização da arquitetura para manter todo o ambiente funcionando de forma harmônica
+Desenvolver serviços/micro-serviços independentes para atender regras de negócio específicas
+Criar APIs de fácil entendimento e bem documentadas
+Criar soluções escaláveis, sustentáveis e focadas em automação
+Colaborar na organização da arquitetura para manter todo o ambiente funcionando de forma harmônica
+REQUISITOS E QUALIFICAÇÕES
+É fundamental ter:Java 8+Banco de dados relacionalAlguma dessas tecnologias NodeJS, React, Angular:Experiência com Git:Ensino superior concluído em cursos relacionados a desenvolvimento(Engenharia de Software / Ciência da Computação / Sistemas de Informação):E recomendável:AWSSpringBootDockerCI/CDKubernetesAlém de ser um Diferencial:Experiência com outros serviços básicos de nuvem (Azure, Google):Trabalhar com equipes ágeis (SCRUM):Fazer testes unitários automatizados (JUnit):Prática com testes e refinamento para escalabilidade
+
+Java 8+
+Banco de dados relacional
+Alguma dessas tecnologias NodeJS, React, Angular:
+Experiência com Git:
+Ensino superior concluído em cursos relacionados a desenvolvimento
+(Engenharia de Software / Ciência da Computação / Sistemas de Informação):
+
+AWS
+SpringBoot
+Docker
+CI/CD
+Kubernetes
+
+Experiência com outros serviços básicos de nuvem (Azure, Google):
+Trabalhar com equipes ágeis (SCRUM):
+Fazer testes unitários automatizados (JUnit):
+Prática com testes e refinamento para escalabilidade
+INFORMAÇÕES ADICIONAIS
+📌Regime CLT & Home Office
+🎉Day off
+💻Treinamentos / Alura
+🎫VA/VR
+✨Plano de saúde 100% custeado para o titular
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Validação e Teste DISC3Validação e Teste DISC
+Etapa 3: Validação e Teste DISC
+3
+Validação e Teste DISC
+Etapa 4: Entrevista Tech Recruiter4Entrevista Tech Recruiter
+Etapa 4: Entrevista Tech Recruiter
+4
+Entrevista Tech Recruiter
+Etapa 5: Avaliação do Gestor5Avaliação do Gestor
+Etapa 5: Avaliação do Gestor
+5
+Avaliação do Gestor
+Etapa 6: Decisão Final6Decisão Final
+Etapa 6: Decisão Final
+6
+Decisão Final
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+CULTURA DE INOVAÇÃO E CRESCIMENTO HUMANIZADO!
+Na Werecruiter, acreditamos que a cultura organizacional é a chave para o sucesso de qualquer empresa. Estamos comprometidos em criar um ambiente onde a inovação, o respeito e o crescimento pessoal sejam a base de nossas interações. Valorizamos a diversidade e a inclusão, garantindo que todos os nossos parceiros, colaboradores e clientes se sintam acolhidos e motivados a alcançar seu máximo potencial. Ao fazer parte da nossa equipe ou de uma das empresas que atendemos, você estará contribuindo para um propósito maior: transformar o mercado de trabalho através de conexões humanas significativas.
+SIGA NOSSA COMPANY PAGE NO LINKEDIN E  VISITE NOSSO SITE :D
+Website
+LinkedIn
+Instagram

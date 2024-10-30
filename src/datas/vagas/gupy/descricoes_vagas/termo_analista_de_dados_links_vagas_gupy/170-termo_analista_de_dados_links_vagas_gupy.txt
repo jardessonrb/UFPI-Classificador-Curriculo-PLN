@@ -1,0 +1,104 @@
+link_vaga-https://genial.gupy.io/job/eyJqb2JJZCI6Nzg3NjU0Miwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE GOVERNANÇA DE DADOS SR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+DESCRIÇÃO DA VAGA
+Buscamos profissionais que tenham vontade de crescer, colocar a mão na massa e fazer acontecer. Vivemos um momento único, recheado de desafios e oportunidades para agregar ainda mais valor aos nossos clientes. Se você tem esse perfil e essa ambição, inscreva-se nesta vaga e junte-se a nós para construir o futuro do mercado financeiro.
+#VemSerGenial
+RESPONSABILIDADES E ATRIBUIÇÕES
+Estamos em busca de um(a) Especialista em Governança de Dados para fazer parte do nosso time de dados. O(a) profissional será responsável por implementar e evoluir as práticas de governança de dados, garantindo que nossos ativos de dados estejam gerenciados, protegidos e utilizados de maneira eficaz, alinhando-se com as melhores práticas e regulamentações do mercado.Desenvolver e implementar estratégias e políticas de governança de dados, garantindo conformidade com LGPD e outras regulamentações aplicáveis.Evoluir processos de gestão de qualidade de dados, incluindo catalogação, classificação e controle de acessos junto ao time de segurança da informação.Assegurar que as práticas de governança estejam integradas aos processos da empresa e alinhadas a governança de TI.Criar e participar de projetos de melhoria de maturidade de dados e iniciativas de Data Stewardship.Definir e monitorar KPIs de governança de dados para avaliar a qualidade e integridade dos dados.Apoiar e capacitar times de dados (Data Engineers, Data Scientists, Digital Analytics e Business Analytics.) sobre as melhores práticas de uso, reuso e gestão de dados.Garantir que a documentação de governança de dados e de todo o time de Dados(data lineage, glossário de dados de negócios e técnicos.) esteja sempre atualizada e acessível, tanto para o time de Dados, tanto para os times de negócios.
+Estamos em busca de um(a) Especialista em Governança de Dados para fazer parte do nosso time de dados. O(a) profissional será responsável por implementar e evoluir as práticas de governança de dados, garantindo que nossos ativos de dados estejam gerenciados, protegidos e utilizados de maneira eficaz, alinhando-se com as melhores práticas e regulamentações do mercado.
+Desenvolver e implementar estratégias e políticas de governança de dados, garantindo conformidade com LGPD e outras regulamentações aplicáveis.
+Evoluir processos de gestão de qualidade de dados, incluindo catalogação, classificação e controle de acessos junto ao time de segurança da informação.
+Assegurar que as práticas de governança estejam integradas aos processos da empresa e alinhadas a governança de TI.
+Criar e participar de projetos de melhoria de maturidade de dados e iniciativas de Data Stewardship.
+Definir e monitorar KPIs de governança de dados para avaliar a qualidade e integridade dos dados.
+Apoiar e capacitar times de dados (Data Engineers, Data Scientists, Digital Analytics e Business Analytics.) sobre as melhores práticas de uso, reuso e gestão de dados.
+Garantir que a documentação de governança de dados e de todo o time de Dados(data lineage, glossário de dados de negócios e técnicos.) esteja sempre atualizada e acessível, tanto para o time de Dados, tanto para os times de negócios.
+REQUISITOS E QUALIFICAÇÕES
+Experiência comprovada em Governança de Dados, incluindo implementação de políticas e processos.Conhecimento sólido de frameworks de governança de dados, como DAMA-DMBOK.Experiência com ferramentas de dados (Puerview, Unit catalog e Power BI).Familiaridade com regulamentações de proteção de dados (LGPD).Proficiência em banco de dados relacionais e não relacionais (PostgreSQL, MongoDB, etc.).Conhecimento de metodologias de Data Management, Data Quality e Data Privacy.Habilidade para gerenciar grandes volumes de dados, promovendo boas práticas de segurança e compliance.Experiência com soluções de catalogação e lineage de dados.Capacidade de traduzir necessidades de negócio em estratégias técnicas e vice-versa.Vivência em ambientes de Big Data, Data Lakes e Data Warehousing.Excelentes habilidades de comunicação.
+Experiência comprovada em Governança de Dados, incluindo implementação de políticas e processos.
+Conhecimento sólido de frameworks de governança de dados, como DAMA-DMBOK.
+Experiência com ferramentas de dados (Puerview, Unit catalog e Power BI).
+Familiaridade com regulamentações de proteção de dados (LGPD).
+Proficiência em banco de dados relacionais e não relacionais (PostgreSQL, MongoDB, etc.).
+Conhecimento de metodologias de Data Management, Data Quality e Data Privacy.
+Habilidade para gerenciar grandes volumes de dados, promovendo boas práticas de segurança e compliance.
+Experiência com soluções de catalogação e lineage de dados.
+Capacidade de traduzir necessidades de negócio em estratégias técnicas e vice-versa.
+Vivência em ambientes de Big Data, Data Lakes e Data Warehousing.
+Excelentes habilidades de comunicação.
+INFORMAÇÕES ADICIONAIS
+Assistência Médica
+Assistência Odontológica
+Vale Refeição
+Vale Alimentação
+Seguro de Vida
+Total Pass
+GymPass
+PPR
+São Paulo - SP - Av Brigadeiro Faria Lima 3400
+Modelo Hibrido
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Validação Talent Attraction3Validação Talent Attraction
+Etapa 3: Validação Talent Attraction
+3
+Validação Talent Attraction
+Etapa 4: Validação Gestor4Validação Gestor
+Etapa 4: Validação Gestor
+4
+Validação Gestor
+Etapa 5: Validação Area Parceira 15Validação Area Parceira 1
+Etapa 5: Validação Area Parceira 1
+5
+Validação Area Parceira 1
+Etapa 6: Validação Area Parceira 26Validação Area Parceira 2
+Etapa 6: Validação Area Parceira 2
+6
+Validação Area Parceira 2
+Etapa 7: Validação Area Parceira 37Validação Area Parceira 3
+Etapa 7: Validação Area Parceira 3
+7
+Validação Area Parceira 3
+Etapa 8: Proposta8Proposta
+Etapa 8: Proposta
+8
+Proposta
+Etapa 9: Contratação9Contratação
+Etapa 9: Contratação
+9
+Contratação
+VENHA SER GENIAL VOCÊ TAMBÉM!​​
+O que é ser Genial?É buscar a excelência, é fazer acontecer. É ser talentoso, inteligente, curioso e aceitar qualquer desafio. É se apresentar e defender as suas ideias. É colocar o cliente em primeiro lugar e ser apaixonado pelo que faz.​​E por que a Genial? ​Porque somos digitais, mas também somos humanos. Se você, assim como nós, acredita que investimento não é sinônimo de terno e gravata, queremos conhecer você!Sobre nós​A empresa que investe em você! Descomplicamos o mercado financeiro para que nossos clientes consigam tomar boas decisões na hora de investir.Nossos valoresBuscar os melhores resultados para os clientes;Colocar excelência em tudo que fazemos;Ser uma empresa responsável, transparente e sustentável;Inovar para inspirar;Ser apaixonado pelo que faz;Aprender e melhorar sempre.
+
+É buscar a excelência, é fazer acontecer. É ser talentoso, inteligente, curioso e aceitar qualquer desafio. É se apresentar e defender as suas ideias. É colocar o cliente em primeiro lugar e ser apaixonado pelo que faz.​​
+
+Porque somos digitais, mas também somos humanos. Se você, assim como nós, acredita que investimento não é sinônimo de terno e gravata, queremos conhecer você!
+
+A empresa que investe em você! Descomplicamos o mercado financeiro para que nossos clientes consigam tomar boas decisões na hora de investir.
+
+Buscar os melhores resultados para os clientes;
+Colocar excelência em tudo que fazemos;
+Ser uma empresa responsável, transparente e sustentável;
+Inovar para inspirar;
+Ser apaixonado pelo que faz;
+Aprender e melhorar sempre.
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

@@ -1,0 +1,116 @@
+link_vaga-https://globo.gupy.io/job/eyJqb2JJZCI6Nzk5NTM5NSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE DADOS SÊNIOR | DATA & AI - VAGA EXCLUSIVA PARA PESSOAS NEGRAS ✊🏾
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Nossa área de Estratégia e Tecnologia é um pilar fundamental dos nossos negócios, sendo responsável pela nossa transformação digital. Aqui criamos soluções tecnológicas sempre idealizando e desenvolvendo técnicas e processos de automação, seja para aprimorar a experiência de trabalho das nossas equipes ou aumentar a capacidade de entrega dos nossos produtos e serviços.
+Nós somos responsáveis por uma infraestrutura gigantesca que atende aos principais produtos de vídeo da Globo, como o Globoplay, Premiere e os Canais Globo. Além disso, somos responsáveis pela transmissão ao vivo de grandes eventos - desde os campeonatos estaduais de futebol, a Copa do Mundo, Olimpíadas, Rock in Rio e até as câmeras ao vivo do Big Brother Brasil, que fica disponível 24x7 para todos os assinantes do Globoplay.
+
+Criamos ambientes onde todas as pessoas são incluídas, acolhidas e valorizadas. Nos empenhamos em ser uma Globo cada vez mais diversa, em representatividade e pensamento, aprendendo uns com os outros e estimulando a criatividade e inovação.
+Acreditamos na intencionalidade para gerar movimentos transformadores, que reconheçam que diferentes grupos sociais partem de diferentes realidades que precisam ser levadas em consideração e acolhidas pelas pessoas e pelo negócio.
+Equipes representativas trazem inovação inclusiva, nos permitindo criar experiências emocionantes para diferentes tipos de pessoas.
+Queremos ser cada vez mais o lugar onde todas as pessoas se encontram e, por isso, essa vaga é para você, pessoa negra, que quer crescer e construir o futuro com a gente, nos bastidores de produtos e serviços que impactam a vida de milhões de brasileiros e brasileiras todos os dias. 
+Sobre área de atuação:
+ A frente de Data & AI desenvolve as plataformas de dados, experimentação, machine learning, recomendação e segmentação de audiência para os produtos digitais da Globo (Globoplay, G1, GE, GShow, etc). 
+ 
+A área de Advertising (AdTech) é responsável por liderar, entregar e suportar soluções de tecnologia para Publicidade Digital na Globo com objetivo de gerar novas receitas e buscar eficiência operacional, focando tanto nos nossos clientes internos quanto nas agências e anunciantes. Propõe soluções digitais que envolvem publicidade, propaganda, patrocínio, canais de venda de forma estratégica da Globo. 
+ 
+Nessa posição você fará parte de Data & AI como Analista de Dados Sênior alocado em Adtech & Delivery. Esse time faz a gestão e habilitação da tecnologia responsável por toda entrega de publicidade nos produtos digitais da Globo como por exemplo Globoplay, G1, Globo.com, GE e Gshow.  
+Modelo de trabalho: Híbrido - Preferencialmente RJ/SP
+RESPONSABILIDADES E ATRIBUIÇÕES
+Como será seu dia a dia:  
+  
+Realizar análises em grandes e ricos conjuntos de dados para extrair insights acionáveis que ajudarão na tomada de decisão visando objetivos de negócio;
+Trabalhar em time multidisciplinar colaborando com cientistas de dados, desenvolvedores, Designers e POs para ajudar na formulação e avaliação de hipóteses que apoiem o desenvolvimento do produto;
+Construir mapa de métricas com eventos de interação dos usuários que permitam a construção de KPIs do negócio;
+Desenvolver dashboards que avaliem a saúde e performance dos nossos produtos;
+Defender a tomada de decisões orientada por dados, fornecendo recomendações para aprimorar o desempenho e a experiência do usuário.
+REQUISITOS E QUALIFICAÇÕES
+Do que você precisa: 
+ 
+Proficiência em bibliotecas para análise de dados e modelagem em Python (Pandas, Numpy, Matplotlib etc);
+Conhecimento sobre conceitos e técnicas estatísticas (distribuições estatísticas, testes de hipótese, estatística multivariada, entre outros);
+2+ anos de experiência comprovada como Analista de Dados;
+Graduação em Estatística, Matemática, Administração ou Engenharias;
+Conhecimento em manipulação e extração de dados em bancos relacionais (Google BigQuery, MySql, Oracle, PostgreSql, SqlServer etc);
+Experiência com ferramentas de visualização de dados (Tableau, Google LookerStudio, PowerBI e afins);
+Experiência na formulação de hipóteses e análise de Testes A/Bs onlines;
+Boa capacidade de comunicar insights baseadas em dados de forma clara, objetiva e assertiva.
+﻿Conhecimentos que te destacam:   
+  
+ 
+Já ter tido experiência com ferramentas de Analytics (Google Analytics, Adobe Analytics) e conhecer as métricas e técnicas de medição de audiência, eventos, funis de vendas etc;
+Inglês intermediário (escrita, leitura e conversação);
+Experiência com Google Cloud Platform (BigQuery, Looker).
+INFORMAÇÕES ADICIONAIS
+Por que vir para Globo:  
+Vem e vamos criar histórias e tecnologias juntos.
+Na Globo, o encontro de histórias com tecnologia move um time diverso e apaixonado por inovação.
+A gente tem a chance de aproximar os brasileiros, criando novas formas de se conectar com eles.
+Aqui, cada um faz a transformação acontecer.
+Nossos processos seletivos estão acontecendo de forma 100% remota e nós encorajamos inscrições de qualquer lugar do Brasil. #vempraglobo  
+  
+Seguindo o compromisso de contribuir para um ambiente seguro para nossas pessoas, informamos que ter o esquema completo vacinação contra a Covid-19 é uma condição obrigatória para o trabalho na Globo, presencial ou a distância, e que o comprovante deverá ser apresentado como pré-requisito para a contratação.  
+Quer saber mais sobre como é trabalhar na Globo? Vem acompanhar nosso dia a dia, desafios e conquistas nas nossas redes: 
+https://www.linkedin.com/company/globo  
+  
+https://www.instagram.com/vempraglobo   
+   
+https://www.youtube.com/c/VemPraGlobo/  
+Os seus dados pessoais serão utilizados para fins de seleção de candidatos para preenchimento das vagas abertas na Globo. Os dados pessoais coletados durante o processo seletivo dos candidatos que não forem admitidos neste momento poderão ser mantidos nos bancos de dados para consideração em futuros processos seletivos. Todos os dados coletados serão tratados segundo rígidos padrões de segurança da informação e em total respeito às leis de privacidade aplicáveis, incluindo a Lei 13.709/18, e nos termos de nossa política de privacidade, disponível no link: https://vempraglobo.g.globo/files/politica_de_privacidade.pdf 
+Ao prosseguir você está ciente e de acordo para realização de sua candidatura nestes termos. 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Bate-Papo com RH e Gestão3Bate-Papo com RH e Gestão
+Etapa 3: Bate-Papo com RH e Gestão
+3
+Bate-Papo com RH e Gestão
+Etapa 4: Avaliação Técnica4Avaliação Técnica
+Etapa 4: Avaliação Técnica
+4
+Avaliação Técnica
+Etapa 5: Apresentação Final5Apresentação Final
+Etapa 5: Apresentação Final
+5
+Apresentação Final
+Etapa 6: Análise Final6Análise Final
+Etapa 6: Análise Final
+6
+Análise Final
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+✨SOMOS GLOBO✨
+A Globo é feita de gente que quer fazer diferente, fazer junto, fazer o futuro. Gente espalhada por todo o país (e mundo!) trabalhando com conteúdo, notícias, negócios, tecnologia, tudo isso com brasilidade e talento de sobra.
+A Globo é feita de gente que quer fazer diferente, fazer junto, fazer o futuro. Gente espalhada por todo o país (e mundo!) trabalhando com conteúdo, notícias, negócios, tecnologia, tudo isso com brasilidade e talento de sobra.
+Canais na TV aberta e por assinatura, produtos digitais como Globoplay, Cartola, G1, Ge, Gshow e outros serviços estão reunidos no mesmo lugar.
+Canais na TV aberta e por assinatura, produtos digitais como Globoplay, Cartola, G1, Ge, Gshow e outros serviços estão reunidos no mesmo lugar.
+Na Globo, o encontro de histórias com tecnologia move um time diverso e apaixonado por inovação.  
+A gente tem a chance de aproximar os brasileiros, criando novas formas de se conectar com eles.  
+Aqui, cada um faz a transformação acontecer. 
+Quer fazer parte dessa transformação também? 
+Quer fazer parte dessa transformação também? 
+#VemPraGlobo ;)
+#VemPraGlobo ;)
+ACOMPANHE A GENTE 😉
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

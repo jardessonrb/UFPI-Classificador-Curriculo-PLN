@@ -1,0 +1,68 @@
+link_vaga-https://inatel.gupy.io/job/eyJqb2JJZCI6NzkwOTMzNywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PDI SW - PESSOA DESENVOLVEDORA FULLSTACK II (REACT NATIVE)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+O Inatel está recrutando Especialista para atuar em projetos de desenvolvimento de software, no ICC PDI SW.
+O Inatel está recrutando Especialista para atuar em projetos de desenvolvimento de software, no ICC PDI SW.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Realizar o desenvolvimento de aplicações web, aplicativos móveis nativo e/ou híbrido, webservices envolvendo diferentes meios e protocolos de comunicação, com múltiplas regras de negócios, volume elevado de usuários/dados na aplicação e que possuam integração com dispositivos/equipamentos;Codificar bancos de dados relacionais e não relacionais;Depurar códigos em diferentes ferramentas e dispositivos móveis;Especificar e documentar webservices;Desenvolver testes automatizados e uso de ferramentas para essa finalidade;Preparar, configurar e disponibilizar ambientes de desenvolvimento e testes;Realizar testes em ambiente de desenvolvimento;Atuar em correções/ajustes da solução;Revisar códigos desenvolvidos;Apoiar tecnicamente o time do projeto;Elaborar documentação de projeto.
+Realizar o desenvolvimento de aplicações web, aplicativos móveis nativo e/ou híbrido, webservices envolvendo diferentes meios e protocolos de comunicação, com múltiplas regras de negócios, volume elevado de usuários/dados na aplicação e que possuam integração com dispositivos/equipamentos;
+Codificar bancos de dados relacionais e não relacionais;
+Depurar códigos em diferentes ferramentas e dispositivos móveis;
+Especificar e documentar webservices;
+Desenvolver testes automatizados e uso de ferramentas para essa finalidade;
+Preparar, configurar e disponibilizar ambientes de desenvolvimento e testes;
+Realizar testes em ambiente de desenvolvimento;
+Atuar em correções/ajustes da solução;
+Revisar códigos desenvolvidos;
+Apoiar tecnicamente o time do projeto;
+Elaborar documentação de projeto.
+REQUISITOS E QUALIFICAÇÕES
+Ensino Superior Completo, preferencialmente em cursos de Computação, Sistemas de Informação ou Ciência da Computação;Experiência em: Javascript / Typescript, Angular / React / React Native, HTML / CSS, Node JS / Nest JS, API RESTful, Banco de dados relacional e não relacional, Controle de versão Git, Experiência com metodologia ágil (Scrum ou Kanban);Conhecimentos em desenvolvimento de aplicativo móvel híbrido e comunicação Bluetooth.Domínio em lógica de programação, programação orientada a objetos, desenvolvimento de aplicativos móveis nativo e/ou híbrido e desenvolvimento de webservices;Conhecimentos em: Qualidade de código e design patterns, Arquitetura em microserviços, Containerização de aplicação, Servidor de aplicação e mensageria, Testes automatizados e Testes unitários, Processo CI / CD.
+Ensino Superior Completo, preferencialmente em cursos de Computação, Sistemas de Informação ou Ciência da Computação;
+Experiência em: Javascript / Typescript, Angular / React / React Native, HTML / CSS, Node JS / Nest JS, API RESTful, Banco de dados relacional e não relacional, Controle de versão Git, Experiência com metodologia ágil (Scrum ou Kanban);
+Conhecimentos em desenvolvimento de aplicativo móvel híbrido e comunicação Bluetooth.
+Domínio em lógica de programação, programação orientada a objetos, desenvolvimento de aplicativos móveis nativo e/ou híbrido e desenvolvimento de webservices;
+Conhecimentos em: Qualidade de código e design patterns, Arquitetura em microserviços, Containerização de aplicação, Servidor de aplicação e mensageria, Testes automatizados e Testes unitários, Processo CI / CD.
+INFORMAÇÕES ADICIONAIS
+Horário das atividades: de segunda à sexta-feira das 08h00 às 12h00 e das 13h30 às 17h30.Local das atividades: as atividades serão realizadas em regime de Teletrabalho "Home Office".
+Horário das atividades: de segunda à sexta-feira das 08h00 às 12h00 e das 13h30 às 17h30.
+Local das atividades: as atividades serão realizadas em regime de Teletrabalho "Home Office".
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Entrevista área3Entrevista área
+Etapa 3: Entrevista área
+3
+Entrevista área
+Etapa 4: Fit Cultural4Fit Cultural
+Etapa 4: Fit Cultural
+4
+Fit Cultural
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+SOMOS O INATEL!
+Queremos inspirar pessoas para que descubram a tecnologia, para que conheçam a inovação e tenham a melhor experiência educacional do Brasil.
+INATEL N@S REDES
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

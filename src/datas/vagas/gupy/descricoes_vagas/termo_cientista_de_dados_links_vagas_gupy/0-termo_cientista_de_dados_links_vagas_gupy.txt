@@ -1,0 +1,95 @@
+link_vaga-https://leega.gupy.io/job/eyJqb2JJZCI6Nzk4NTkwMSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+CIENTISTA DE DADOS SÊNIOR
+Tipo de vaga: Pessoa jurídicaPessoa jurídica
+Tipo de vaga: Pessoa jurídica
+Pessoa jurídica
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+A Leega é uma empresa focada no atendimento eficiente e inovador em seus clientes. 
+A Leega é uma empresa focada no atendimento eficiente e inovador em seus clientes. 
+Isso não poderia ser diferente com o nosso principal combustível: as pessoas!  
+Isso não poderia ser diferente com o nosso principal combustível: as pessoas!
+  
+Nossa cultura é inspiradora e nossos valores estão presentes no dia a dia: ética e transparência, excelência de qualidade, trabalho em equipe, responsabilidade econômica, social e ambiental, relações humanas e credibilidade.
+Nossa cultura é inspiradora e nossos valores estão presentes no dia a dia: ética e transparência, excelência de qualidade, trabalho em equipe, responsabilidade econômica, social e ambiental, relações humanas e credibilidade.
+Buscamos profissionais inovadores que sejam movidos por desafios e focados em resultados.
+Buscamos profissionais inovadores que sejam movidos por desafios e focados em resultados.
+Se você busca uma empresa dinâmica e parceira e que investe em seus colaboradores através de capacitação constante, a Leega é o lugar para você!
+Se você busca uma empresa dinâmica e parceira e que investe em seus colaboradores através de capacitação constante, a Leega é o lugar para você!
+Ficaremos muito felizes em ter você em nosso time. Venha fazer parte da nossa história e da construção do nosso futuro. 
+ 
+Cadastre-se agora mesmo em nossas vagas!
+Cadastre-se agora mesmo em nossas vagas!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Identificar, coletar e acessar fontes de dados relevantes, internas e externas, como bancos de dados, APIs, logs e fontes de dados públicasPreprocessar os dados, incluindo a remoção de inconsistências, valores faltantes, outliers e duplicatas, garantindo a qualidade dos dadosConverter dados brutos em formatos utilizáveis para análise, muitas vezes utilizando técnicas como normalização, escalonamento ou agregação Realizar análises exploratórias para entender melhor a distribuição, as correlações e as principais características dos dadosCriar gráficos e relatórios visuais (usando ferramentas como Matplotlib, Seaborn, Power BI) para identificar padrões e comunicar descobertas iniciaisDesenvolver e treinar modelos preditivos e descritivos utilizando técnicas de machine learning, como regressão, classificação, clustering, redes neurais, entre outrasAvaliar o desempenho dos modelos usando métricas apropriadas (precisão, recall, F1 score, etc.), e aplicar técnicas de validação cruzadaRefinar e ajustar hiperparâmetros para maximizar o desempenho e garantir a aplicabilidade do modelo em cenários reaisIntegrar modelos de machine learning em sistemas de produção ou pipelines de dados, garantindo que estejam prontos para uso em tempo real ou em lotesAutomatizar fluxos de trabalho para o processamento contínuo de dados e execução de modelos, frequentemente utilizando ferramentas de DevOps, como Docker, Kubernetes e AirflowFicar atualizado com as novas tendências, algoritmos e ferramentas na área de ciência de dados, buscando sempre otimizar e inovarDesenvolver protótipos para testar novas abordagens e técnicas em diferentes desafios de dados
+Identificar, coletar e acessar fontes de dados relevantes, internas e externas, como bancos de dados, APIs, logs e fontes de dados públicas
+Preprocessar os dados, incluindo a remoção de inconsistências, valores faltantes, outliers e duplicatas, garantindo a qualidade dos dados
+Converter dados brutos em formatos utilizáveis para análise, muitas vezes utilizando técnicas como normalização, escalonamento ou agregação
+ Realizar análises exploratórias para entender melhor a distribuição, as correlações e as principais características dos dados
+Criar gráficos e relatórios visuais (usando ferramentas como Matplotlib, Seaborn, Power BI) para identificar padrões e comunicar descobertas iniciais
+Desenvolver e treinar modelos preditivos e descritivos utilizando técnicas de machine learning, como regressão, classificação, clustering, redes neurais, entre outras
+Avaliar o desempenho dos modelos usando métricas apropriadas (precisão, recall, F1 score, etc.), e aplicar técnicas de validação cruzada
+Refinar e ajustar hiperparâmetros para maximizar o desempenho e garantir a aplicabilidade do modelo em cenários reais
+Integrar modelos de machine learning em sistemas de produção ou pipelines de dados, garantindo que estejam prontos para uso em tempo real ou em lotes
+Automatizar fluxos de trabalho para o processamento contínuo de dados e execução de modelos, frequentemente utilizando ferramentas de DevOps, como Docker, Kubernetes e Airflow
+Ficar atualizado com as novas tendências, algoritmos e ferramentas na área de ciência de dados, buscando sempre otimizar e inovar
+Desenvolver protótipos para testar novas abordagens e técnicas em diferentes desafios de dados
+REQUISITOS E QUALIFICAÇÕES
+Proficiência em Python, R, SQL, Scala ou outras linguagens usadas para manipulação e análise de dados.Experiência com bibliotecas e frameworks como TensorFlow, Keras, Scikit-learn, XGBoost, entre outrosConhecimento em tecnologias de Big Data, como Hadoop, Spark, Kafka, para lidar com grandes volumes de dadosConhecimento em bancos de dados relacionais (SQL) e não relacionais (NoSQL), como PostgreSQL, MySQL, MongoDBConhecimento multi-cloud: GCP e AWS (SageMaker, Vertex, Vertex AI, Bedrock, Gemini, etc)Entendimento profundo de conceitos estatísticos, probabilidade, álgebra linear e cálculoExperiência atuando com modelagem estatística, validação de tendências, scores, relevância, fraude, riscos, performance e resultado, manipulação de bancos de dados e otimização de algoritmos.Experiência com esteiras MLOps e AIOpsHabilidade de comunicação, pensamento crítico, solução de problemas e trabalho em equipeProatividade
+Proficiência em Python, R, SQL, Scala ou outras linguagens usadas para manipulação e análise de dados.
+Experiência com bibliotecas e frameworks como TensorFlow, Keras, Scikit-learn, XGBoost, entre outros
+Conhecimento em tecnologias de Big Data, como Hadoop, Spark, Kafka, para lidar com grandes volumes de dados
+Conhecimento em bancos de dados relacionais (SQL) e não relacionais (NoSQL), como PostgreSQL, MySQL, MongoDB
+Conhecimento multi-cloud: GCP e AWS (SageMaker, Vertex, Vertex AI, Bedrock, Gemini, etc)
+Entendimento profundo de conceitos estatísticos, probabilidade, álgebra linear e cálculo
+Experiência atuando com modelagem estatística, validação de tendências, scores, relevância, fraude, riscos, performance e resultado, manipulação de bancos de dados e otimização de algoritmos.
+Experiência com esteiras MLOps e AIOps
+Habilidade de comunicação, pensamento crítico, solução de problemas e trabalho em equipe
+Proatividade
+Proatividade
+INFORMAÇÕES ADICIONAIS
+Desejável:
+Certificação Machine Learning (preferencialmente GCP e/ou AWS)
+Conhecimento e experiência em análise e interpretação de indicadores e KPIs de negócios
+Conhecimento em engenharia de dados
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Avaliação de Perfil3Avaliação de Perfil
+Etapa 3: Avaliação de Perfil
+3
+Avaliação de Perfil
+Etapa 4: Entrevista Gestor4Entrevista Gestor
+Etapa 4: Entrevista Gestor
+4
+Entrevista Gestor
+Etapa 5: Entrevista Cliente5Entrevista Cliente
+Etapa 5: Entrevista Cliente
+5
+Entrevista Cliente
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+VEM TRABALHAR COM A GENTE!
+A LEEGA é referência em consultoria e outsourcing para soluções de Data Analytics .
+Temos 14 ANOS de mercado e mais de 20 ANOS de experiência em soluções de Business Intelligence, Data Integration e Analytics, atendendo grandes empresas dos mais diversos segmentos do mercado e contamos com mais de 400 colaboradores.
+Conquistamos capacidade técnica e reunimos as melhores pessoas para proporcionar aos nossos clientes a melhor experiência.
+Brasileiros, com escritório de projetos, fábrica de software e centro de treinamento em São Paulo (capital) , atuação internacional com escritório também em Portugal, somos conhecidos por viver e respirar Analytics e Big Data, inovando nossa tecnologia, compartilhando conhecimento, evoluindo talentos e entregando VALOR.
+ 
+Em nosso porftólio de serviços ofertamos consultoria especializada, alocação de profissionais, treinamento e desenvolvimento de soluções customizadas para Cloud Computing, Business Intelligence, Big Data, Data Analytics, Machine Learning, Inteligência Artificial, Data Quality, MDM, Governança de Dados e demais soluções de dados
+A LEEGA EM OUTRAS PLATAFORMAS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

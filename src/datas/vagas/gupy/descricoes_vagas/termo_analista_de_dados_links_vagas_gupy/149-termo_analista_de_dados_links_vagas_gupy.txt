@@ -1,0 +1,133 @@
+link_vaga-https://radixeng.gupy.io/job/eyJqb2JJZCI6NzgwMzQ0OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PROFISSIONAL ANALISTA DE DADOS POWERBI/STREAMLIT
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+A primeira coisa que você precisa saber é que aqui você não vai cair na rotina. A Radix desenvolve soluções para empresas de diferentes setores e indústrias. Cada projeto tem suas tecnologias, soluções e prazos e você terá oportunidade de atuar e experimentar diferentes desafios. Além da nossa atuação pelo Brasil, com escritório no Rio de janeiro, São Paulo e Belo Horizonte, temos também filiais nos Estados Unidos, fazendo com que a Radix se consolide cada vez mais como uma empresa global.
+ 
+Quer fazer parte dessa história e transformar ideias e sonhos em realidade?
+ 
+#VemPraRadix
+#VemPraRadix
+RESPONSABILIDADES E ATRIBUIÇÕES
+ 
+Buscamos pessoas que queiram somar e fazer parte de um ecossistema que leva inovação, tecnologia e soluções para os mais diversos segmentos do mercado. Por aqui, os desafios são constantes e você não vai cair na rotina.
+Buscamos pessoas que queiram somar e fazer parte de um ecossistema que leva inovação, tecnologia e soluções para os mais diversos segmentos do mercado. Por aqui, os desafios são constantes e você não vai cair na rotina.
+ 
+Como Analista de Dados PowerBI/Streamlit você vai: 
+Como Analista de Dados PowerBI/Streamlit você vai: 
+Interagir diretamente com clientes internacionais da indústria (inglês fluente)
+Adquirir dados e processá-los para relatoria em ferramentas como PowerBI e Streamlit
+Lidar com dados de Indústria Química
+Dar tutorias e sessões de coaching para interessados em aprender a lidar com dados e dashboards
+Propor soluções criativas no mundo dos dados, de ponta-a-ponta
+Utilizar a plataforma Cognite Data Fusion para aquisição e tratamento de dados, via API GraphQL e conectores de PowerBI
+Seguir, manter e implementar processos e documentações da equipe
+Participar de uma cultura de aprendizado e desafios
+Interagir em ambiente dinâmico com diversas oportunidades
+REQUISITOS E QUALIFICAÇÕES
+Para essa vaga, você deve ter:Abordagem Proativa/Ativa de Trabalho: Essencial para identificar oportunidades e propor soluções.Proficiência Fluente em Inglês: Necessário para comunicação eficaz com stakeholders.Habilidade de Comunicação: Fundamental para transmitir informações complexas de maneira clara e eficaz aos stakeholders do projeto.Experiência Avançada em Power BI:Criação de dashboards e relatórios interativos.Modelagem de dados e uso de DAX para criação de métricas.Conexão com múltiplas fontes de dados, incluindo APIs e serviços online.Otimização de performance de relatórios e dashboards.Conhecimento em ETL: Utilização do Power Query para transformação e manipulação de dados.Experiência com códigos Python e suas principais bibliotecas: Pandas, Numpy, Matplotlib, Plotly, Scikitlearn, Sci-py etc.Experiência com Streamlit para Python: Proficiente no desenvolvimento e implantação de aplicativos de dados interativos usando o Streamlit, aproveitando sua simplicidade para criar dashboards, visualizações e outros aplicativos web baseados em dados de maneira rápida e eficaz.Experiência com Consultas GraphQL e OData: Proficiente na construção e consumo de APIs usando GraphQL para recuperação de dados dinâmica e definida pelo cliente e OData para acesso de dados padronizado e RESTful.É um diferencial se você tiver:Experiência com Serviços em Nuvem:Azure Functions / AWS Lambda.Azure Data Factory / AWS Glue.Outros microsserviçosCiência de Dados: Conhecimento ou experiência em metodologias de ciência de dados.Experiência relevantes à Indústria Química: Conhecimento na área pode ser útil para entender melhor as necessidades específicas do cliente e criar soluções mais alinhadas com a indústria.Experiência com Cognite Data Fusion: Familiaridade com esta plataforma de DataOps industrial, que fornece ferramentas para contextualização de dados, integração e eficiência operacional em ambientes industriais complexos.Experiência com gestão de Workspaces de PowerBI e Microsoft TransformFormação em Engenharia Química ou Controle e Automação
+
+Abordagem Proativa/Ativa de Trabalho: Essencial para identificar oportunidades e propor soluções.
+Proficiência Fluente em Inglês: Necessário para comunicação eficaz com stakeholders.
+Habilidade de Comunicação: Fundamental para transmitir informações complexas de maneira clara e eficaz aos stakeholders do projeto.
+Experiência Avançada em Power BI:
+Criação de dashboards e relatórios interativos.
+Modelagem de dados e uso de DAX para criação de métricas.
+Conexão com múltiplas fontes de dados, incluindo APIs e serviços online.
+Otimização de performance de relatórios e dashboards.
+Conhecimento em ETL: Utilização do Power Query para transformação e manipulação de dados.
+Experiência com códigos Python e suas principais bibliotecas: Pandas, Numpy, Matplotlib, Plotly, Scikitlearn, Sci-py etc.
+Experiência com Streamlit para Python: Proficiente no desenvolvimento e implantação de aplicativos de dados interativos usando o Streamlit, aproveitando sua simplicidade para criar dashboards, visualizações e outros aplicativos web baseados em dados de maneira rápida e eficaz.
+Experiência com Consultas GraphQL e OData: Proficiente na construção e consumo de APIs usando GraphQL para recuperação de dados dinâmica e definida pelo cliente e OData para acesso de dados padronizado e RESTful.
+
+Experiência com Serviços em Nuvem:
+Azure Functions / AWS Lambda.
+Azure Data Factory / AWS Glue.
+Outros microsserviços
+Ciência de Dados: Conhecimento ou experiência em metodologias de ciência de dados.
+Experiência relevantes à Indústria Química: Conhecimento na área pode ser útil para entender melhor as necessidades específicas do cliente e criar soluções mais alinhadas com a indústria.
+Experiência com Cognite Data Fusion: Familiaridade com esta plataforma de DataOps industrial, que fornece ferramentas para contextualização de dados, integração e eficiência operacional em ambientes industriais complexos.
+Experiência com gestão de Workspaces de PowerBI e Microsoft Transform
+Formação em Engenharia Química ou Controle e Automação
+INFORMAÇÕES ADICIONAIS
+ 
+Detalhes da vaga: 
+Modelo de trabalho: CLT
+Regime de contratação: Remoto 
+Benefícios:
+Plano de Saúde + Odontológico 
+Médico da empresa 
+Gympass (+3 dependentes) 
+Auxílio creche até 3 anos 
+Licença maternidade e paternidade estendidas 
+Auxílio home office 
+VR e/ou VA 
+Day off de aniversário  
+Universidade Corporativa  
+Convênio com instituições de ensino e cursos de idioma 
+Programa de treinamentos internos  
+Plano de Incentivos atrelado à avaliação de Desempenho. 
+ 
+A Radix está sempre no topo das Melhores Empresas para se trabalhar porque: 
+Temos profissionais comprometidos, dedicados, curiosos e inovadores. 
+O espírito de equipe é a nossa maior força. Trabalhamos de forma cooperativa e sabemos que estamos juntos, remando na mesma direção. 
+Temos um ambiente diverso, que valoriza equidade e inclusão. 
+Nossa jornada de trabalho é flexível e em quase todos os projetos é possível trabalhar de qualquer lugar do Brasil. 
+Valorizamos o bem-estar e o cuidado com as nossas pessoas, com programas de apoio à saúde mental, psiquiatra e médico consultor disponíveis. 
+Curtiu? 
+ 
+#VemPraRadix
+#LI-Remote
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Teste de Inglês2Teste de Inglês
+Etapa 2: Teste de Inglês
+2
+Teste de Inglês
+Etapa 3: Análise de currículo3Análise de currículo
+Etapa 3: Análise de currículo
+3
+Análise de currículo
+Etapa 4: Entrevista com Gente e Gestão4Entrevista com Gente e Gestão
+Etapa 4: Entrevista com Gente e Gestão
+4
+Entrevista com Gente e Gestão
+Etapa 5: Entrevista com o Gestor da Vaga5Entrevista com o Gestor da Vaga
+Etapa 5: Entrevista com o Gestor da Vaga
+5
+Entrevista com o Gestor da Vaga
+Etapa 6: Carta Proposta6Carta Proposta
+Etapa 6: Carta Proposta
+6
+Carta Proposta
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+UMA EMPRESA GLOBAL, MOVIDA À INOVAÇÃO E DESAFIOS 🚀
+Presente em mais de 25 países, a Radix conecta pessoas, oportunidades, projetos e negócios no mundo todo. Nós criamos e transformamos conhecimento em resultados. 
+ 
+Com times multidisciplinares e forte atuação em Engenharia, Automação, Desenvolvimento de Software e Produtos, TI Industrial e Consultoria, oferecemos serviços e soluções tecnológicas atendendo os mais variados setores da indústria. 
+ 
+Desde a nossa fundação, em 2010, estamos na lista das Melhores Empresas para se trabalhar no Rio de Janeiro, no Brasil e na América Latina. Aqui, a gente investe em criatividade, diversidade, capacitação e desenvolvimento de carreira. Quando um radixer cresce, nós crescemos também e, juntos, dobramos de tamanho nos últimos dois anos. 
+
+A rotina da Radix é dinâmica, colaborativa e Everywhere, com profissionais atuando de 23 estados do Brasil, além de Estados Unidos, Europa e Asia. Nosso modelo de trabalho possibilita o equilíbrio para pessoas que estão sempre em movimento, gostam de liberdade e vivem a tecnologia e a inovação sem fronteiras. 
+
+Somos inquietos, entusiastas da mudança e abraçamos a transformação sem perder os valores que guiam nossa trajetória: relações de longo prazo, foco nas pessoas, ética, agilidade e comprometimento.  
+ 
+Vem com a gente se conectar ao seu futuro, #VemSerRadix. 
+ 
+CONHEÇA MAIS SOBRE A RADIX!
+Website
+LinkedIn
+Instagram
+Glassdoor

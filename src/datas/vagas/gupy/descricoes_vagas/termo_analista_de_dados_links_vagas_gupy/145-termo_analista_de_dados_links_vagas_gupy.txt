@@ -1,0 +1,86 @@
+link_vaga-https://localiza.gupy.io/job/eyJqb2JJZCI6NzcxNDcyMywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE DADOS JR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+LOCALIZA&CO
+Estar em constante evolução nos trouxe até aqui. Ao lado de talentos e habilidades múltiplas nos conectamos em busca da nossa motivação: construir o futuro da mobilidade sustentável. É por meio da valorização da individualidade de cada um que impulsionamos o nosso movimento para conquistar resultados extraordinários, desenvolver nossas operações e criar soluções para os nossos clientes.
+Somos apaixonados por nossa história, por nossas ideias e pela capacidade de realizá-las. Sabemos que juntos, todos vamos mais longe.
+É assim que conectamos a Localiza&Co com o futuro.
+RESPONSABILIDADES E ATRIBUIÇÕES
+O QUE VOCÊ IRÁ FAZER COMO ANALISTA DE DADOS JR
+Objetivo principal:  
+Desenvolver projetos de analytics na área de marketing, atuando na modelagem de dados e construção de dashboards. Profissional com experiência em extração, tratamento e análise de dados.  
+Atribuições: 
+Criar integrações, extrações, modelagem de dados e análises usando conectores de dados, SQL e Python. 
+Gerir a governança e manutenção da base de dados, garantindo assertividade nos indicadores divulgados.  
+Construir dashboards para análises e monitoramento de indicadores de marketing e negócios.  
+Conectar diversas áreas do Marketing e do negócio para alinhamento e construção de indicadores. 
+REQUISITOS E QUALIFICAÇÕES
+O QUE PRECISAMOS
+Conhecer o conceito de modelagem de dados estrela (Star Schema)  
+Conhecimento e experiência em banco de dados (SQL Server, MySQL e equivalentes), com construção de Queries SQL e Desenvolvimento de Scripts Python
+Conhecimento de modelagem de dados e processos ETL 
+Conhecimento intermediário em Excel, PowerBI, incluindo PowerQuery, linguagem M e DAX, além de Data Viz 
+Conhecimento de Pacote Office para montagem de apresentações de resultados (Power Point, Excel)   
+Capacidade de abstrair conceitos de negócios em métricas quantitativas (Ex. KPIs, OKRs, etc) 
+Diferencial: conhecimento de desenvolvimento de modelos em serviços de nuvem como GCP, AWS, Azure 
+INFORMAÇÕES ADICIONAIS
+BENEFÍCIOS DESSA POSIÇÃO
+Participação nos Lucros
+Vale Alimentação
+Vale Refeição
+Convênio Médico
+Convênio Odontológico
+Gympass
+Previdência Privada
+Vale Transporte
+Allya
+Acesso ilimitado a diversos cursos da nossa Universidade Localiza
+Programas internos de treinamento e desenvolvimento
+Desconto em compra e aluguel de veículos
+Viva a experiência de ser Localiza&Co e venha construir o futuro da mobilidade conosco!
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Testes Online2Testes Online
+Etapa 2: Testes Online
+2
+Testes Online
+Etapa 3: Entrevista Atração e Seleção3Entrevista Atração e Seleção
+Etapa 3: Entrevista Atração e Seleção
+3
+Entrevista Atração e Seleção
+Etapa 4: Entrevista Líderes4Entrevista Líderes
+Etapa 4: Entrevista Líderes
+4
+Entrevista Líderes
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+SOBRE A LOCALIZA&CO
+Estar em constante evolução nos trouxe até aqui. Ao lado de talentos e habilidades múltiplas nos conectamos em busca do nosso propósito: simplificar e encantar pra você chegar lá. É por meio da valorização da individualidade de cada um que impulsionamos o nosso movimento para conquistar resultados extraordinários, desenvolver nossas operações e criar soluções para os nossos clientes. Somos apaixonados por nossa história, por nossas ideias e pela capacidade de realizá-las. Sabemos que juntos, todos vamos mais longe. É assim que conectamos a Localiza&Co com o futuro.
+Uma das maiores e mais completas plataformas de soluções de mobilidade do mundo, trazemos em nossa história, 50 anos de protagonismo e inovação. ​Nos dedicamos a proporcionar caminhos simples, práticos e extraordinários, gerando valor para nossos colaboradores, investidores, clientes, parceiros e toda a sociedade.
+ 
+Nosso movimento é feito ao lado de mais de 19 mil colaboradores, que, com entusiasmo e colaboração, nos levaram ao reconhecimento de Empresa do Ano pela revista Exame e estar entre as 10 Melhores Empresa para Trabalhar no Brasil. Um time de alta performance que está sempre em busca de novas rotas para criar soluções inovadoras e eficientes para as necessidades dos nossos mais de 15 milhões de clientes.
+ 
+Estamos em todas as regiões do Brasil, em mais cinco países da América do Sul e agora no México, além de forte presença digital. Somos listados na B3, com elevado nível de governança corporativa, e somos a 4ª marca mais valiosa do país pela IstoÉ Dinheiro.
+ 
+É assim que contribuímos para um mundo mais sustentável, diverso e inclusivo, investindo em iniciativas estruturantes de sustentabilidade e impulsionando o futuro para as próximas gerações.​ Vem com a gente? Conheça mais sobre o nosso ecossistema: https://www.localizaco.com/
+ 
+ACOMPANHE AS NOSSAS NOVIDADES
+Website
+LinkedIn
+Instagram
+Glassdoor

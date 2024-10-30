@@ -1,0 +1,71 @@
+link_vaga-https://finxapp.gupy.io/job/eyJqb2JJZCI6NzczMTk4Miwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+QA PLENO
+Tipo de vaga: Pessoa jurídicaPessoa jurídica
+Tipo de vaga: Pessoa jurídica
+Pessoa jurídica
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+Procuramos pessoas que estejam dispostas a embarcar nessa jornada conosco, que tenham paixão por evoluir e estão prontas para colocar a mão na massa. Na fin-x o crescimento é acelerado e cada membro da equipe desempenha um papel fundamental.
+Se você está pronto(a) para fazer a diferença e contribuir para uma causa maior, queremos conhecê-lo(a)!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Realizar testes manuais funcionais em diversas plataformas e ambientes. Executar testes de API utilizando ferramentas como Postman e interagindo com Documentação Swagger. Conduzir testes exploratórios para identificar falhas e melhorias potenciais. Executar testes regressivos para garantir a estabilidade e integridade do software. Realizar testes de integração para validar a interação entre diferentes componentes do sistema. Documentar evidências dos casos de testes e resultados das execuções. Garantir que as entregas de software atendam aos padrões de qualidade definidos. Colaborar ativamente com equipes de desenvolvimento para compreender requisitos e elaborar estratégias de teste. Manter-se atualizado sobre as melhores práticas e ferramentas de teste de software. 
+Realizar testes manuais funcionais em diversas plataformas e ambientes. 
+Executar testes de API utilizando ferramentas como Postman e interagindo com Documentação Swagger. 
+Conduzir testes exploratórios para identificar falhas e melhorias potenciais. 
+Executar testes regressivos para garantir a estabilidade e integridade do software. 
+Realizar testes de integração para validar a interação entre diferentes componentes do sistema. 
+Documentar evidências dos casos de testes e resultados das execuções. 
+Garantir que as entregas de software atendam aos padrões de qualidade definidos. 
+Colaborar ativamente com equipes de desenvolvimento para compreender requisitos e elaborar estratégias de teste. 
+Manter-se atualizado sobre as melhores práticas e ferramentas de teste de software. 
+REQUISITOS E QUALIFICAÇÕES
+Compreensão sólida dos princípios fundamentais de testes de software, incluindo diferentes tipos de testes (unitários, integração, sistema, aceitação) e técnicas de teste. Conhecimento básico em bancos de dados relacionais para realizar testes que envolvam manipulação de dados. Experiência em planejamento, design e execução de casos de teste para assegurar a qualidade e confiabilidade dos produtos de software. Proficiência no uso de ferramentas de teste de APIs, como Postman ou SoapUI, para realizar testes de integração e validação. Excelentes habilidades de comunicação verbal e escrita, com capacidade de documentar de forma clara e precisa os resultados dos testes. Pelo menos 2 anos de experiência comprovada em posição similar na área de qualidade de software. Experiência em automação de testes (preferencialmente Cypress). Domínio no Jira e metodologias ágeisConhecimento em Azure (desejável)
+Compreensão sólida dos princípios fundamentais de testes de software, incluindo diferentes tipos de testes (unitários, integração, sistema, aceitação) e técnicas de teste. 
+Conhecimento básico em bancos de dados relacionais para realizar testes que envolvam manipulação de dados. 
+Experiência em planejamento, design e execução de casos de teste para assegurar a qualidade e confiabilidade dos produtos de software. 
+Proficiência no uso de ferramentas de teste de APIs, como Postman ou SoapUI, para realizar testes de integração e validação. 
+Excelentes habilidades de comunicação verbal e escrita, com capacidade de documentar de forma clara e precisa os resultados dos testes. 
+Pelo menos 2 anos de experiência comprovada em posição similar na área de qualidade de software. 
+Experiência em automação de testes (preferencialmente Cypress). 
+Domínio no Jira e metodologias ágeis
+Conhecimento em Azure (desejável)
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista com RH2Entrevista com RH
+Etapa 2: Entrevista com RH
+2
+Entrevista com RH
+Etapa 3: Entrevista Técnica3Entrevista Técnica
+Etapa 3: Entrevista Técnica
+3
+Entrevista Técnica
+Etapa 4: Case Técnico4Case Técnico
+Etapa 4: Case Técnico
+4
+Case Técnico
+Etapa 5: Fit Cultural5Fit Cultural
+Etapa 5: Fit Cultural
+5
+Fit Cultural
+Etapa 6: Entrevista com Founder6Entrevista com Founder
+Etapa 6: Entrevista com Founder
+6
+Entrevista com Founder
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+SOMOS APAIXONADOS POR TRANSFORMAR A SAÚDE ATRAVÉS DA INOVAÇÃO TECNOLÓGICA!
+Na Fin-X, nosso propósito é conectar todos os players do setor de saúde, utilizando soluções criativas, reduzindo custos, aumentando a transparência e credibilidade, tornando a saúde acessível a todos e impactando positivamente a vida das pessoas de maneira humanizada.
+Somos curiosos, determinados e corajosos. Não temos medo de arriscar e adoramos propor soluções fora da caixa. Cada dia na Fin-X é único, trabalhamos com uma variedade de hospitais, operadoras e milhares de médicos em todo o Brasil. Somos especialistas em trazer inovações para o mundo da saúde.
+CONHEÇA MAIS SOBRE A FIN-X
+Website
+LinkedIn
+Instagram
+Glassdoor

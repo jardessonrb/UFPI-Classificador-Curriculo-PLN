@@ -1,0 +1,106 @@
+link_vaga-https://professor-infnet.gupy.io/job/eyJqb2JJZCI6NDc2NTgzNiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PROFESSOR(A) DE DESENVOLVIMENTO BACK-END
+Tipo de vaga: DocenteDocente
+Tipo de vaga: Docente
+Docente
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Seja professor ou professora no Instituto Infnet, a faculdade de tecnologia mais hands-on do Rio de Janeiro, ministrando aulas presenciais de manhã e/ou remotas a noite.Ensine através de projetos práticos voltados para as competências exigidas pelo mercado, em nossas graduações de Engenharia da Computação e Análise e Desenvolvimento de Sistemas.Aulas a partir do dia 24/07/2023.Plano de carreira que remunera de R$ 48,47 a R$117,77 por hora em sala de aula, além de 1/6 de descanso semanal remunerado, férias, 13º, adicional de tempo de serviço, FGTS, INSS, bolsa educação e outros benefícios.Conforme o perfil do docente, a oportunidade pode ser estendida para aulas na pós-graduação e classes presenciais de graduação.
+Seja professor ou professora no Instituto Infnet, a faculdade de tecnologia mais hands-on do Rio de Janeiro, ministrando aulas presenciais de manhã e/ou remotas a noite.
+Ensine através de projetos práticos voltados para as competências exigidas pelo mercado, em nossas graduações de Engenharia da Computação e Análise e Desenvolvimento de Sistemas.
+Aulas a partir do dia 24/07/2023.
+Plano de carreira que remunera de R$ 48,47 a R$117,77 por hora em sala de aula, além de 1/6 de descanso semanal remunerado, férias, 13º, adicional de tempo de serviço, FGTS, INSS, bolsa educação e outros benefícios.
+Conforme o perfil do docente, a oportunidade pode ser estendida para aulas na pós-graduação e classes presenciais de graduação.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Ministrar aulas ao vivo, remota e presencialmente, e orientar os alunos, tirando dúvidas e dando feedbacks nas correções de trabalhos. O professor deve dominar e ser capaz de trabalhar as seguintes competências de cada disciplina:
+Ministrar aulas ao vivo, 
+, e orientar os alunos, tirando dúvidas e dando feedbacks nas correções de trabalhos. O professor deve dominar e ser capaz de trabalhar as seguintes competências de cada disciplina:
+Fundamentos de Desenvolvimento com Java
+Escrever programas em Java usando seus elementos básicos
+Escrever programas em Java que utilizem classes e objetos
+Utilizar os pilares do paradigma de orientação ao objeto para criação de programas em Java
+Escrever programas em Java com arrays, coleções, arquivos e recursos mais avançados
+Desenvolver programas em Java utilizando Lambda Expressions 
+Fundamentos de Desenvolvimento com C#
+Escrever programas em C# usando seus elementos básicos
+Escrever programas em C# que utilizem classes e objetos
+Utilizar os pilares do paradigma de orientação ao objeto para criação de programas em C#
+Escrever programas em C# com Arrays, arquivos e recursos mais avançados
+Utilizar delegates, events e lambdas em programas C#
+Desenvolvimento de Serviços Web com Java
+Packages, build tools e IDE especializada (e.g. VSCode)
+Desenvolver uma aplicação web usando Spark Java
+Desenvolver uma aplicação web acessando bases de dados (sem SQL)
+Desenvolvimento de Serviços Web com .NET
+Instalar VSCode e configurar os pacotes necessários
+Desenvolver uma aplicação web full-stack ("server-based UI") em ASP.NET Core usando Razor Pages
+Desenvolver uma aplicação web acessando bases de dados via EF Core (sem SQL)
+Desenvolver um serviço web (RESTful API) "minimal" com ASP.NET Core
+REQUISITOS E QUALIFICAÇÕES
+Requisitos obrigatórios:
+Experiência prática, relevante e recente em Desenvolvimento Back-end.
+Pós-graduação Stricto Sensu (Mestrado ou Doutorado), feita ou revalidada no Brasil.
+Requisitos desejáveis:
+Experiência com as competências das disciplinas acima em projetos e empresas de primeira linha.
+Experiência como docente ou em atividades correlatas, como palestras, webinars, treinamentos internos e afins.
+INFORMAÇÕES ADICIONAIS
+ATENÇÃO: NÃO É OBRIGATÓRIA EXPERIÊNCIA ANTERIOR COMO DOCENTE DE NÍVEL SUPERIOR. 
+A instituição acredita e apoia a formação de novos professores, desde que tenham efetiva experiência profissional na área, facilidade de comunicação e talento para a docência.
+É esperado do professor:
+Crença no aprendizado orientado a projetos práticos.
+Desejo de aprender e aplicar o modelo de ensino da instituição, baseado em competências.
+Boa comunicação verbal.
+Disponibilidade para as responsabilidades inerentes à atividade docente, como correção de trabalhos, atendimento aos alunos e preparação de aulas.
+Disponibilidade para lecionar em pelo menos um dos seguintes horários, duas vezes na semana:
+Presencial de 07:00 às 09:30
+Presencial de 09:50 às 12:20
+Remoto de 20:30 às 22:00
+Remuneração e contratação:
+Regime CLT
+Regime CLT
+Plano de carreira até R$117,77 por hora presencial em sala de aula, já incluindo adicional de aprimoramento de 5% para mestrado e 10% para doutorado.
+Plano de carreira 
+R$117,77 por hora presencial em sala de aula, já incluindo adicional de aprimoramento de 5% para mestrado e 10% para doutorado.
+Descanso semanal remunerado, isto é, 1/6 adicional sobre os valores acima informados.
+Descanso semanal remunerado, isto é, 1/6 adicional sobre os valores acima informados.
+Férias coletivas remuneradas de 30 dias por ano, 13º salário, FGTS e INSS e vale transporte opcional.
+Férias coletivas remuneradas de 30 dias por ano, 13º salário, FGTS e INSS e vale transporte opcional.
+Bolsa de auxílio educação própria e para dependentes, conforme a carga horária total de aulas.
+Bolsa de auxílio educação própria e para dependentes, conforme a carga horária total de aulas.
+Adicional de tempo de serviço após três anos.
+Adicional de tempo de serviço após três anos.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Envio de comprovação de titulação2Envio de comprovação de titulação
+Etapa 2: Envio de comprovação de titulação
+2
+Envio de comprovação de titulação
+Etapa 3: Análise curricular3Análise curricular
+Etapa 3: Análise curricular
+3
+Análise curricular
+Etapa 4: Aula-ensaio4Aula-ensaio
+Etapa 4: Aula-ensaio
+4
+Aula-ensaio
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+VENHA FAZER PARTE DO MELHOR TIME DE PROFESSORES!
+Com Inovação no seu DNA, desde 1994 a Faculdade Infnet forma profissionais que atuam em áreas como a Engenharia e Desenvolvimento de Software, Engenharia de Computação, Engenharia de Redes e Segurança da Informação, Engenharia de Dados, Engenharia de Banco de Dados, Ciência de Dados, Inteligência Artificial, Gestão da Tecnologia e Marketing Digital. A Faculdade Infnet oferece cursos de graduação, pós-graduação e MBAs, nas modalidades presencial e a distância, assim como cursos livres. É uma instituição sediada no Rio de Janeiro, que já formou milhares de profissionais para o mercado e é reconhecida como uma referência em Engenharias Tech.
+Se você quer ajudar a formar alguns dos melhores engenheiros de computação e software, desenvolvedores de sistemas, gestores de TI, profissionais de marketing e projetos do Brasil, veja se juntar ao time de professores do Instituto Infnet.
+CONHEÇA MAIS SOBRE O INSTITUTO INFNET:
+Website
+LinkedIn
+Facebook
+Instagram

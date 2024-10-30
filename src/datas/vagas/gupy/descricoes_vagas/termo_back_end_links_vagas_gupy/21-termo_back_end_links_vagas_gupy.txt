@@ -1,0 +1,166 @@
+link_vaga-https://nava.gupy.io/job/eyJqb2JJZCI6Nzc5MjU5OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DEV JAVA (BACK-END) SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A NAVA está em busca de Dev Java SR   para fazer parte do nosso time de pessoas incríveis! 
+A NAVA está em busca de
+ 
+ 
+ 
+
+Por que trabalhar na NAVA?
+
+Somos uma empresa de tecnologia que atende as maiores companhias dos setores financeiro, seguros, meios de pagamento, telecomunicações, energia e varejo do país. Inspiramos nossos times a criar soluções para que essas companhias transformem e impactem positivamente o mundo. 
+Somos uma empresa de tecnologia que atende as maiores companhias dos setores financeiro, seguros, meios de pagamento, telecomunicações, energia e varejo do país. Inspiramos nossos times a criar soluções para que essas companhias transformem e impactem positivamente o mundo. 
+ 
+ 
+Temos um time curioso, criativo, energético e inspirador, com grande foco nas pessoas para gerar inovação, transformação e crescimento. Dentro de um ambiente dinâmico e ágil, o nosso time está em expansão para acompanhar o crescimento exponencial da NAVA e dos nossos Clientes. 
+Temos um time curioso, criativo, energético e inspirador, com grande foco nas pessoas para gerar inovação, transformação e crescimento. Dentro de um ambiente dinâmico e ágil, o nosso time está em expansão para acompanhar o crescimento exponencial da NAVA e dos nossos Clientes. 
+﻿Acolhemos as diferenças porque acreditamos que um ambiente diverso contribui para a inovação e uma sociedade mais justa e equânime e convidamos você à assumir esse compromisso junto com a gente.
+﻿Acolhemos as diferenças porque acreditamos que um ambiente diverso contribui para a inovação e uma sociedade mais justa e equânime e convidamos você à assumir esse compromisso junto com a gente.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Como será o seu dia a dia?
+﻿Desenvolver novas soluções e/ou realizar manutenção em sistemas de informação do ambiente Open para Sistemas Bancários, respeitando os padrões de desenvolvimento, arquitetura, documentação.
+﻿Desenvolver novas soluções e/ou realizar manutenção em sistemas de informação do ambiente Open para Sistemas Bancários, respeitando os padrões de desenvolvimento, arquitetura, documentação.
+﻿• Apoiar na análise e levantamento de requisitos para as soluções de Cartões a serem desenvolvidas pelo banco;
+﻿• Apoiar na análise e levantamento de requisitos para as soluções de Cartões a serem desenvolvidas pelo banco;
+• Apoio na tomada de decisão e desenho de arquitetura das soluções de Cartões para a obtenção da melhor experiência para o cliente;
+• Apoio na tomada de decisão e desenho de arquitetura das soluções de Cartões para a obtenção da melhor experiência para o cliente;
+• Participar das cerimônias (review, retrospectiva, planning, refinamentos), estimando esforço, ajudando a discutir sobre os projetos, levantando dúvidas, impactos, sugestões, etc
+• Participar das cerimônias (review, retrospectiva, planning, refinamentos), estimando esforço, ajudando a discutir sobre os projetos, levantando dúvidas, impactos, sugestões, etc
+• Desenvolvimentos das soluções;
+• Desenvolvimentos das soluções;
+• Criação de testes unitários;
+• Criação de testes unitários;
+• Apoio nos testes/homologação das soluções desenvolvidas;
+• Apoio nos testes/homologação das soluções desenvolvidas;
+• Implantação das soluções desenvolvidas;
+• Implantação das soluções desenvolvidas;
+• Estabilização e manutenção das soluções;
+• Estabilização e manutenção das soluções;
+REQUISITOS E QUALIFICAÇÕES
+O que esperamos de você?
+ 
+ 
+Requisitos
+Requisitos
+• Java 11+;
+• Java 11+;
+• Desenvolvimento de micro serviços;
+• Desenvolvimento de micro serviços;
+• Frameworks (Spring Boot, Hibernate);
+• Frameworks (Spring Boot, Hibernate);
+• Integração com serviços Rest (cliente e servidor);
+• Integração com serviços Rest (cliente e servidor);
+• API Gateway (Apigee | AWS Gateway);
+• API Gateway (Apigee | AWS Gateway);
+• Bancos relacionais e não relacionais (MySQL, PostgreSQL, MongoDB, DocumentDB);
+• Bancos relacionais e não relacionais (MySQL, PostgreSQL, MongoDB, DocumentDB);
+• Integração com filas (MQ, RabbitMQ, SQS);
+• Integração com filas (MQ, RabbitMQ, SQS);
+• Conhecimentos sólidos em design patterns, anti-patterns, SOLID, hexagonal architecture e clean architecture;
+• Conhecimentos sólidos em design patterns, anti-patterns, SOLID, hexagonal architecture e clean architecture;
+• Experiencia em desenvolvimento Cloud;
+• Experiencia em desenvolvimento Cloud;
+• Devops;
+• Devops;
+• Git / GitFlow;
+• Git / GitFlow;
+• Docker;
+• Docker;
+Requisitos Desejáveis
+Requisitos Desejáveis
+• Certificação ou conhecimento em Kubernetes, AKS ou EKS;
+• Certificação ou conhecimento em Kubernetes, AKS ou EKS;
+• Integration Framework - Camel;
+• Integration Framework - Camel;
+• Noções de arquitetura Cloud;
+• Noções de arquitetura Cloud;
+• Arquitetura orientada a eventos;
+• Arquitetura orientada a eventos;
+• Kafka;
+• Kafka;
+• Ferramentas de análise de código (visualização da análise e solução de problemas)
+• Ferramentas de análise de código (visualização da análise e solução de problemas)
+• Jenkins
+• Jenkins
+• Monitoramento: Dynatrace
+• Monitoramento: Dynatrace
+INFORMAÇÕES ADICIONAIS
+Horário de trabalho: 09h00 ás 18h00
+Modelo de trabalho para este projeto/cliente: Híbrido - 3x por semana presencial 
+Local de trabalho: Zona Sul 
+Além de ser uma empresa certificada Great Place to Work, você vai encontrar na NAVA:
+ 
+✅ Oportunidades de carreira 🚀
+✅ Liberdade para escrever seu próprio código 🏆
+✅ Diversidade e diferentes formas de ver o mundo 🌈
+✅ Comunidades que incentivam o crescimento de todos 📚
+✅ Treinamento In Company 💻
+✅ Um time incrível 😎
+✅ Empresa engajada no Pacto Global da ONU 💪🏼
+✅ Projetos inovadores 💡
+✅ Alta avaliação no Glassdoor 📣
+ 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Teste Comportamental2Teste Comportamental
+Etapa 2: Teste Comportamental
+2
+Teste Comportamental
+Etapa 3: Triagem Talent Acquisition3Triagem Talent Acquisition
+Etapa 3: Triagem Talent Acquisition
+3
+Triagem Talent Acquisition
+Etapa 4: Entrevista Talent Acquisition4Entrevista Talent Acquisition
+Etapa 4: Entrevista Talent Acquisition
+4
+Entrevista Talent Acquisition
+Etapa 5: Entrevista Gestão / Cliente5Entrevista Gestão / Cliente
+Etapa 5: Entrevista Gestão / Cliente
+5
+Entrevista Gestão / Cliente
+Etapa 6: Avaliação Final 6Avaliação Final 
+Etapa 6: Avaliação Final 
+6
+Avaliação Final 
+Etapa 7: Offer7Offer
+Etapa 7: Offer
+7
+Offer
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+SOBRE A NAVA
+Somos uma empresa de tecnologia apaixonada por pessoas e inovação.
+Somos uma empresa de tecnologia apaixonada por pessoas e inovação.
+Inspiramos nossos times a criar soluções para que as maiores e melhores companhias do país transformem e impactem positivamente o mundo. Estamos de portas e braços abertos para todas as pessoas que desejam ser protagonistas de suas vidas e se tornarem tão grandes quanto seus sonhos, independentemente de gênero, orientação sexual, raça, etnia, religião, faixa etária ou deficiência. Afinal, acreditamos que a diversidade e a inclusão favorecem o surgimento de novas ideias, estimulam a criatividade e propiciam um ambiente mais acolhedor e humano. 
+Inspiramos nossos times a criar soluções para que as maiores e melhores companhias do país transformem e impactem positivamente o mundo. Estamos de portas e braços abertos para todas as pessoas que desejam ser protagonistas de suas vidas e se tornarem tão grandes quanto seus sonhos, independentemente de gênero, orientação sexual, raça, etnia, religião, faixa etária ou deficiência. Afinal, acreditamos que a diversidade e a inclusão favorecem o surgimento de novas ideias, estimulam a criatividade e propiciam um ambiente mais acolhedor e humano. 
+ 
+ 
+Mais que se sentir em casa, desejamos que aqui na NAVA você se sinta livre para escrever o seu próprio código, do seu jeito. 
+Mais que se sentir em casa, desejamos que aqui na 
+ você se sinta livre para escrever o seu próprio código, do seu jeito. 
+ 
+ 
+Se isso faz sentido para você, junte-se a nós.
+Se isso faz sentido para você, junte-se a nós.
+CONECTE-SE COM A NAVA
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

@@ -1,0 +1,133 @@
+link_vaga-https://dock.gupy.io/job/eyJqb2JJZCI6Nzk0NDIzNywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+QA SOFTWARE ENGINEER PLENO (GLOBAL)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Quem é a Dock?
+Há mais de 20 anos, cumprimos a missão de democratizar o acesso a serviços financeiros, tornando experiências financeiras mais simples e acessíveis.
+Há mais de 20 anos, cumprimos a missão de democratizar o acesso a serviços financeiros, tornando experiências financeiras mais simples e acessíveis.
+Somos um time de pessoas obstinadas, que acreditam na tecnologia e nos serviços como os principais facilitadores para a evolução de nossos clientes e a transformação do papel das finanças.
+Somos um time de pessoas obstinadas, que acreditam na tecnologia e nos serviços como os principais facilitadores para a evolução de nossos clientes e a transformação do papel das finanças.
+Atuando em 11 localidades pela América Latina, trabalhamos sob o propósito de desmaterializar o universo financeiro para impulsionar a sociedade.
+Atuando em 11 localidades pela América Latina, trabalhamos sob o propósito de desmaterializar o universo financeiro para impulsionar a sociedade.
+Como é o nosso time de Global Core?
+O time de desenvolvedores da Dock são parte do nosso principal pilar de atuação e foram os responsáveis por trazer a Dock até onde estamos atualmente, construindo todas as nossas APIs internamente, somando milhões de linhas de código que traduzem o universo financeiro para os nossos clientes;
+O time de desenvolvedores da Dock são parte do nosso principal pilar de atuação e foram os responsáveis por trazer a Dock até onde estamos atualmente, construindo todas as nossas APIs internamente, somando milhões de linhas de código que traduzem o universo financeiro para os nossos clientes;
+É um time engajado, com autonomia e que desenvolve uma plataforma em módulos de microsserviços distribuídos de alto desempenho e escalabilidade para clientes nacionais e internacionais da Dock.
+É um time engajado, com autonomia e que desenvolve uma plataforma em módulos de microsserviços distribuídos de alto desempenho e escalabilidade para clientes nacionais e internacionais da Dock.
+Agnósticos de tecnologia e linguagem, acreditamos que para cada solução podemos ter um caminho e estamos sempre abertos às novas ideias que agreguem valor.
+Agnósticos de tecnologia e linguagem, acreditamos que para cada solução podemos ter um caminho e estamos sempre abertos às novas ideias que agreguem valor.
+Como é o nosso time de QA? 🚀
+O time de Qualidade forma uma grande aliança com o time de devs, responsável por garantir que todo o processo seja entregue com excelência;
+Sempre aberto a novas ideias, a trajetória do time é construída com por cada dos QAs da equipe, com colaboração e busca de melhoria contínua de código;
+Participam do processo de desenvolvimento de software do início ao fim, prevenindo bugs mais do que encontrando erros, entendendo tudo sobre a tecnologia e o produto;
+Unificam esforços em criar uma revolução no mercado financeiro, com objetivo de atingirmos zero erros e defeitos em nossas aplicações;
+Acreditamos que para cada solução podemos ter um caminho e estamos sempre abertos às novas ideias que agreguem valor.
+RESPONSABILIDADES E ATRIBUIÇÕES
+E o dia a dia como será? 💼
+💼
+Você terá que resolver problemas de forma rápida e criativa;
+Planejar, criar e executar testes manuais e automatizados
+Planejar, criar e executar testes manuais e automatizados
+Analisar cenários e propor soluções eficientes;
+Criar documentações em formato BDD;
+Experiência comprovada em QA, com foco em testes manuais, automatizados e API
+Experiência comprovada em QA, com foco em testes manuais, automatizados e API
+Construir scripts de testes dentro da aplicação automatizada;
+Realizar testes de regressão, desempenho e segurança
+Realizar testes de regressão, desempenho e segurança
+Validar novas APIs, sendo totalmente responsável pela qualidade do código;
+Participará e terá voz ativa dentro da sua squad/chapter na qualidade de novos produtos.
+
+REQUISITOS E QUALIFICAÇÕES
+O que esperamos de você? 🎓
+Raciocínio lógico acima da média;
+Curiosidade e vontade de aprender novas ferramentas, plataformas e tecnologias;
+Boas habilidades de comunicação e trabalho em equipe;
+Conhecimento com Ruby ou GoLang;
+Conhecimento em Cucumber;
+Conhecimentos versionamento de código (Git/GitHub);
+Conhecimento em AWS será um diferencial;
+Banco de dados (SQL/Postgree);
+⭐ Antes de qualquer coisa saiba que você irá se destacar super bem no nosso time, se:⭐
+Trouxer ideias e inovação técnica;
+Pensar fora da caixa e promover “o novo”;
+Senso de colaboração;
+Ser orientado a processos e ter conhecimento em metodologias ágeis;
+Conhecimento em meios de pagamentos e mercado financeiro transacional.
+INFORMAÇÕES ADICIONAIS
+E quais são os benefícios? 
+
+Remote first*: política flexível de contratação, a depender da função aplicada e necessidade da área; 
+Remote first*: política flexível de contratação, a depender da função aplicada e necessidade da área; 
+Auxílio alimentação (mercado & restaurante);
+Auxílio alimentação (mercado & restaurante);
+Plano de saúde e odontológico;
+Plano de saúde e odontológico;
+Hospital digital;
+Hospital digital;
+Suporte psicológico para psicoterapia online;
+Suporte psicológico para psicoterapia online;
+Orientação ergonômica;
+Orientação ergonômica;
+Wellhub e TotalPass;
+Wellhub e TotalPass;
+Auxílio mensal para despesas remote first;
+Auxílio mensal para despesas remote first;
+Previdência privada após 6 meses de trabalho;
+Previdência privada após 6 meses de trabalho;
+Licença parental estendida;
+Licença parental estendida;
+Auxílio creche;
+Auxílio creche;
+Auxílio para pais de filhos especiais;
+Auxílio para pais de filhos especiais;
+Plataforma de idiomas;
+Plataforma de idiomas;
+Disponibilidade de coworking no Brasil inteiro;
+Disponibilidade de coworking no Brasil inteiro;
+Elegível ao PLR
+Elegível ao PLR
+*A Dock prioriza a política Remote First como modelo de trabalho. Entretanto, em algumas áreas específicas, a atuação presencial pode ser exigida. 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Entrevista People3Entrevista People
+Etapa 3: Entrevista People
+3
+Entrevista People
+Etapa 4: Entrevista Técnica4Entrevista Técnica
+Etapa 4: Entrevista Técnica
+4
+Entrevista Técnica
+Etapa 5: Entrevista Final5Entrevista Final
+Etapa 5: Entrevista Final
+5
+Entrevista Final
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+VÁ MAIS LONGE COM A GENTE
+A Dock respeita a pluralidade de identidades e trabalha para promover uma cultura inclusiva. Não fazemos distinção de raça, cor, religião, identidade de gênero, orientação sexual, nacionalidade, deficiência ou idade em nenhuma etapa do processo seletivo, reforçando nosso compromisso com a diversidade.
+Somos Dockers. Juntos construímos um futuro melhor. Inimaginável. Inesperado. Sem amarras.
+Todos os dias, tornamos o universo financeiro mais simples, fácil e amplamente disponível. Fazemos isso questionando verdades estabelecidas, mudando conceitos e projetando o novo.
+Nós realmente acreditamos na tecnologia para a evolução dos nossos clientes e para transformar o papel das finanças em todo o mundo, impulsionando a sociedade.
+Se você também acredita nesse futuro, vem construir ele com a gente!
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn

@@ -1,0 +1,110 @@
+link_vaga-https://verity.gupy.io/job/eyJqb2JJZCI6Nzk0MDY4Miwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+QA AUTOMATION ANALYST  SR - REMOTO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A Verity está buscando novos talentos!
+Somos uma aceleradora de soluções digitais e buscamos QA Automation Analyst para fazer parte dessa jornada.
+Olha só quais são as experiências e conhecimentos que você precisa ter para acelerar e transformar com a gente:
+Olha só quais são as experiências e conhecimentos que você precisa ter para acelerar e transformar com a gente:
+RESPONSABILIDADES E ATRIBUIÇÕES
+Participar do refinamento das histórias/épicos explorando os cenários de testes funcionais e não funcionais;Elaborar o plano de testes contemplando a abordagem da qualidade e os cenários de testes progressivos e regressivos necessários para a validação de uma versão;Gerenciar a execução de um plano de testes e reportar os resultados da qualidade da versão;Direcionar o time quanto ao uso do framework de automação de testes;Desenvolver os testes automatizados e manter atualizadas as esteiras de testes regressivos;Incrementar, quando necessário, os testes de qualidade a partir dos incidentes identificados em produção;Atualizar e reportar os indicadores de qualidade.
+Participar do refinamento das histórias/épicos explorando os cenários de testes funcionais e não funcionais;
+Elaborar o plano de testes contemplando a abordagem da qualidade e os cenários de testes progressivos e regressivos necessários para a validação de uma versão;
+Gerenciar a execução de um plano de testes e reportar os resultados da qualidade da versão;
+Direcionar o time quanto ao uso do framework de automação de testes;
+Desenvolver os testes automatizados e manter atualizadas as esteiras de testes regressivos;
+Incrementar, quando necessário, os testes de qualidade a partir dos incidentes identificados em produção;
+Atualizar e reportar os indicadores de qualidade.
+REQUISITOS E QUALIFICAÇÕES
+Hard Skills:
+Testes de software: Testes funcionais, regressão, desempenho e segurança.
+Automação de testes: Junit, Postman, Selenium, Appium, Cucumber, RestAssured.
+Testes manuais: identificação de bugs e problemas de usabilidade.
+Estratégia de testes: planos de testes que contemplem casos de testes,resultados e acompanhamento de resolução de bugs para os diferentes aspectos do software.
+Integração contínua: esteiras de validação de qualidade e software.
+Testes de desempenho: JMeter, LoadRunner.
+Testes de segurança: OWASP.
+Ferramentas de agilidade e DevOps: Jira, Git, Jenkins, BDD.
+Linguagens de programação: Java, Python.
+INFORMAÇÕES ADICIONAIS
+Aqui nós somos humanos, somos digitais, somos Verity!Tudo o que fazemos se baseia em nossos 8 POWER PRINCIPLES:Amar tecnologia;Assumir grandes responsabilidades;Cultivar relações de confiança por meio da transparência;Dar atenção e ser orientado pela necessidade e experiência do cliente;Encarar desafios de forma ágil;Colaborar entre pessoas e equipes;Encorajar a autonomia consciente;Atingir resultados de forma consciente.É assim que criamos experiências inovadoras para o mundo digital, inspirando protagonismo e gerando resultados incríveis aos nossos clientes, sempre focados em metodologia, tecnologia e pessoas.Fomos certificados como uma das melhores empresas para se trabalhar pelo Great Place To Work, e a cada dia criamos ações que melhoram ainda mais o ambiente de trabalho, aqui na Verity você tem:Vale refeiçãoVale alimentaçãoAuxílio home officeAssistência médicaAssistência odontológicaSeguro de vidaParcerias de descontosConvênios em estabelecimentos e instituições de ensinoTreinamentos de agilidade recorrentesLicenças AluraIntervalo Verity#VerityComVocêDigital SchoolE aí, topa criar experiências inovadoras para o mundo digital?
+Aqui nós somos humanos, somos digitais, somos Verity!
+Tudo o que fazemos se baseia em nossos 8 POWER PRINCIPLES:
+Amar tecnologia;
+Assumir grandes responsabilidades;
+Cultivar relações de confiança por meio da transparência;
+Dar atenção e ser orientado pela necessidade e experiência do cliente;
+Encarar desafios de forma ágil;
+Colaborar entre pessoas e equipes;
+Encorajar a autonomia consciente;
+Atingir resultados de forma consciente.
+É assim que criamos experiências inovadoras para o mundo digital, inspirando protagonismo e gerando resultados incríveis aos nossos clientes, sempre focados em metodologia, tecnologia e pessoas.
+Fomos certificados como uma das melhores empresas para se trabalhar pelo Great Place To Work, e a cada dia criamos ações que melhoram ainda mais o ambiente de trabalho, aqui na Verity você tem:
+Vale refeição
+Vale alimentação
+Auxílio home office
+Assistência médica
+Assistência odontológica
+Seguro de vida
+Parcerias de descontos
+Convênios em estabelecimentos e instituições de ensino
+Treinamentos de agilidade recorrentes
+Licenças Alura
+Intervalo Verity
+#VerityComVocê
+Digital School
+E aí, topa criar experiências inovadoras para o mundo digital?
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista RH2Entrevista RH
+Etapa 2: Entrevista RH
+2
+Entrevista RH
+Etapa 3: Entrevista Tech3Entrevista Tech
+Etapa 3: Entrevista Tech
+3
+Entrevista Tech
+Etapa 4: Entrevista Final4Entrevista Final
+Etapa 4: Entrevista Final
+4
+Entrevista Final
+Etapa 5: Processo de Contratação5Processo de Contratação
+Etapa 5: Processo de Contratação
+5
+Processo de Contratação
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+SOMOS UMA BOUTIQUE PARA MODERNIZAÇÃO E ACELERAÇÃO DIGITAL_
+A Verity é a mais comprometida e excelente empresa de tecnologia do mercado brasileiro. A partir de sua expertise entende que não é possível acelerar negócios digitalmente sem antes organizar a modernização e usa soluções de ponta a ponta da jornada de tecnologia para entregar experiências que marcam e transformam. ​
+Além de oferecer soluções nas áreas de Estratégia, Experiência, Tecnologia e Hiperautomação, a Verity inovou em 2024 com uma forte ênfase em Inteligência Artificial (IA), apresentando seu framework Verity Quantum. Esse framework foi desenvolvido com foco na eficiência na geração de código e nos testes relacionados à IA. 
+Com um portfólio que inclui grandes clientes como Banco Carrefour, Agibank, SulAmérica, Azul Seguros, Porto Seguro, Hospital Sírio Libanês, Águia Branca, entre outros, a empresa está preparada para atuar em diversos segmentos, demonstrando sua capacidade de adaptação e excelência em atendimento às necessidades do mercado.
+
+
+Aqui na Verity temos diversas ações que estimulam a troca de conhecimento.
+
+
+​Esse é o mantra que nos guia da modernização à aceleração digital para ofereceremos soluções de ponta a ponta da jornada de tecnologia. 
+​
+
+Ser Veriter é ter coragem para evoluir, pensar diferente e contribuir com insights antes nunca imaginados. Aqui na Verity você tem vale refeição e alimentação, assistência médica e odontológica, seguro de vida, parceria com a Total Pass para cuidar da saúde, auxílio home office, acesso a cursos para desenvolvimento, day off no aniversário e outras iniciativas que não param de surgir.​
+
+NOSSAS REDES_
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

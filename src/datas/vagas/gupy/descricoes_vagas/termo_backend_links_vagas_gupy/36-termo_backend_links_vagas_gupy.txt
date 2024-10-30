@@ -1,0 +1,111 @@
+link_vaga-https://vemserolxbrasil.gupy.io/job/eyJqb2JJZCI6Nzg3MDUzNywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA DE SOFTWARE SÊNIOR - BACKEND
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Somos uma empresa 100% digital, com tecnologia desenvolvida localmente e líder no mercado de compra e venda online. Nos tornamos a marca que melhor representa a economia circular no país. 
+Somos uma empresa 100% digital, com tecnologia desenvolvida localmente e líder no mercado de compra e venda online. Nos tornamos a marca que melhor representa a economia circular no país. 
+Hoje contamos com dois escritórios nas cidades de Rio de Janeiro e São Paulo. Nosso modelo de trabalho flexível oferece autonomia e liberdade para que nossas pessoas elaborem seus padrões e rotinas com disciplina e protagonismo na conexão com negócio, as prioridades e o propósito da empresa.
+Hoje contamos com dois escritórios nas cidades de Rio de Janeiro e São Paulo. Nosso modelo de trabalho flexível oferece autonomia e liberdade para que nossas pessoas elaborem seus padrões e rotinas com disciplina e protagonismo na conexão com negócio, as prioridades e o propósito da empresa.
+Construir um ambiente diverso, inclusivo e comprometido com a equidade faz parte do nosso DNA. Entendemos que diversidade, equidade e inclusão são essenciais para criarmos um ambiente seguro com entregas inovadoras e eficientes para nossas pessoas e sociedade.
+Construir um ambiente diverso, inclusivo e comprometido com a equidade faz parte do nosso DNA. Entendemos que diversidade, equidade e inclusão são essenciais para criarmos um ambiente seguro com entregas inovadoras e eficientes para nossas pessoas e sociedade.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Se você quer fazer parte desse desafio, essa oportunidade é a sua chance. Nessa posição de Pessoa Desenvolvedora de Software Sênior - Backend, você irá somar ao time Costumer Experience, que tem como objetivo prover serviços e inteligência para atendimento de usuários OLX.
+No dia a dia você vai:
+Projetar, desenvolver e implementar soluções interativas de backend, com proficiência especial em integração de sistemas e chatbots (Blip / DialogFlow / etc);
+Utilizar ferramentas como GitHub para controle de versão e colaboração em equipe;
+Manter testes de integração e de unidade para garantir a qualidade do código e da integração de sistemas;
+Implementar e manter infraestrutura na AWS usando Terraform ou console panel para automatização e escalabilidade.
+REQUISITOS E QUALIFICAÇÕES
+E o que você precisa ter?
+Sólidos conhecimentos em NodeJS (javascript e/ou typescript);
+Ensino Superior Completo em Engenharia da computação, Análise de sistemas ou áreas correlatas;
+Sólido conhecimento em design patterns de aplicações (principalmente APIs e mensageria) e versionamento de código;
+Experiência com infraestrutura em nuvem na AWS;
+Familiaridade com esteiras de CI/CD, Docker e Terraform;
+Conhecimento de boas práticas de desenvolvimento como SOLID, Clean Code e TDD;
+Familiaridade com metodologias ágeis.
+O que consideramos um diferencial bacana:
+Bom embasamento teórico, habilidade e preocupação com a excelência técnica e domínio de assuntos como DDD, arquitetura, design de código, paradigmas, etc;
+Experiência prévia em linguagens funcionais, como Salesforce ou ferramentas de bot como a Blip;
+Conhecimento em boas práticas DevOps e CI/CD.
+CI/CD.
+INFORMAÇÕES ADICIONAIS
+Mais sobre o Grupo OLX:
+No Brasil desde 2010, o Grupo OLX tem como propósito empoderar as pessoas para que alcancem seus sonhos, reinventando o modelo de consumo. Com a aquisição do Grupo ZAP, concluída em outubro de 2020, a companhia opera a OLX, plataforma horizontal com posição de liderança nas categorias de automóveis, bens de consumo usados e imóveis; e duas plataformas líderes do mercado imobiliário, ZAP e Viva Real.
+No Brasil desde 2010, o Grupo OLX tem como propósito empoderar as pessoas para que alcancem seus sonhos, reinventando o modelo de consumo. Com a aquisição do Grupo ZAP, concluída em outubro de 2020, a companhia opera a OLX, plataforma horizontal com posição de liderança nas categorias de automóveis, bens de consumo usados e imóveis; e duas plataformas líderes do mercado imobiliário, ZAP e Viva Real.
+
+Benefícios:
+Remuneração compatível com o mercado;
+Remuneração compatível com o mercado;
+Plano de Saúde
+Plano Odontológico
+Previdência Privada
+Benefícios flexíveis que se adaptam às suas necessidades;
+Benefícios flexíveis que se adaptam às suas necessidades;
+Auxílio alimentação;
+Auxílio alimentação;
+Aconselhamento financeiro;
+Aconselhamento financeiro;
+Clube de vantagens;
+Clube de vantagens;
+Auxílio Home Office;
+Auxílio Home Office;
+Auxílio Mobilidade;
+Auxílio Mobilidade;
+Auxílio Criança;
+Auxílio Criança;
+Seguro de Vida;
+Seguro de Vida;
+Licenças estendidas;
+Licenças estendidas;
+Incentivo ao esporte, qualidade de vida e bem estar;
+Incentivo ao esporte, qualidade de vida e bem estar;
+Empréstimo consignado com taxas reduzidas.
+Empréstimo consignado com taxas reduzidas.
+Candidate-se e venha fazer parte dessa transformação conosco!
+Candidate-se e venha fazer parte dessa transformação conosco!
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: RH2RH
+Etapa 2: RH
+2
+RH
+Etapa 3: Técnica3Técnica
+Etapa 3: Técnica
+3
+Técnica
+Etapa 4: Gestão4Gestão
+Etapa 4: Gestão
+4
+Gestão
+Etapa 5: Proposta5Proposta
+Etapa 5: Proposta
+5
+Proposta
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+SOMOS O GRUPO OLX 💜
+Uma comunidade vibrante com pessoas conectadas a um propósito de “Empoderar os brasileiros para realizarem seus sonhos, reinventando o modelo de consumo”.
+100% digital, com tecnologia desenvolvida no Brasil, ajudamos os nossos usuários a comprarem e venderem de maneira rápida e segura porque sabemos que para gerar valor, uma boa experiência é a que fica, por isso, atender às necessidades das pessoas, sejam clientes, usuários ou parceiros é nossa premissa. 
+A OLX é líder no mercado de compra e venda online e a marca que maior representa a economia circular no país.
+Todos os dias, conectamos mais de 7 milhões de pessoas. São 500 mil anúncios publicados diariamente. E 70 milhões de visitas em nossas plataformas (OLX, VivaReal e Zap Imóveis) por mês.
+Movidos por resultados, guiados por dados, transformamos resultados que geram impacto para todo o ecossistema!
+CONHEÇA NOSSAS REDES SOCIAIS 💜🚀
+Website
+LinkedIn
+Instagram
+Glassdoor

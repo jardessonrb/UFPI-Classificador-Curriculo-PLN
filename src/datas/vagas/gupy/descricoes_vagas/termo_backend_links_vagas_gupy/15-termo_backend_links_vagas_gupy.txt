@@ -1,0 +1,84 @@
+link_vaga-https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6Nzk5ODcxMiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESARROLLADOR BACKEND .NET BASF
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+¡Sé parte de Stefanini!
+En Stefanini somos más de 30.000 genios, conectados desde 40 países, haciendo lo que les apasiona y co-creando un futuro mejor.
+RESPONSABILIDADES E ATRIBUIÇÕES
+1.     Desarrollo de Microservicios (prioritario)
+Diseño y desarrollo de microservicios utilizando .NET Core 3.1 o versiones superiores.
+Implementación de APIs RESTful con ASP.NET Core.
+Conocimientos de arquitectura de microservicios, principios de desacoplamiento y separación de responsabilidades.
+Manejo de comunicación entre microservicios mediante mensajería (RabbitMQ, Kafka) o APIs REST.
+Contenerización de microservicios utilizando Docker y despliegue en Kubernetes u otros orquestadores de contenedores.
+Patrones de diseño para microservicios como CQRS, event sourcing, circuit breaker, y saga pattern.
+2.     .NET Core 3.1 o superior
+Sólida experiencia en desarrollo con .NET Core 3.1 o versiones superiores (idealmente .NET 6 o 7).
+Creación de aplicaciones web y servicios web escalables con ASP.NET Core.
+Manejo de dependencias y Inyección de dependencias (Dependency Injection).
+Middlewares personalizados y configuración avanzada del pipeline de solicitudes en ASP.NET Core.
+3.     Bases de Datos y ORM
+Experiencia con SQL Server o bases de datos relacionales similares.
+Uso de Entity Framework Core como ORM para interacción con bases de datos.
+Optimización de consultas SQL y manejo de procedimientos almacenados.
+Conocimientos de bases de datos NoSQL como MongoDB o CosmosDB (opcional).
+4.     Comunicación y Seguridad entre Servicios
+Autenticación y autorización con JWT (JSON Web Tokens) y OAuth2.
+Implementación de servicios seguros utilizando HTTPS y políticas CORS.
+Manejo de API Gateway para enrutamiento y autenticación en microservicios.
+Configuración de circuit breakers, retries y timeout policies usando librerías como Polly.
+5.     Despliegue y Automatización
+CI/CD (Integración y despliegue continuo) con herramientas como Azure DevOps, Jenkins, GitLab CI o GitHub Actions.
+Despliegue de aplicaciones en Azure, AWS, o Google Cloud.
+Familiaridad con el despliegue en OpenShift, Kubernetes o cualquier plataforma de orquestación de contenedores.
+6.     Otras habilidades recomendadas (opcionales):
+Testing: Experiencia con pruebas unitarias y de integración utilizando xUnit, NUnit, o Moq.
+Mensajería asincrónica: Uso de tecnologías como RabbitMQ, Apache Kafka, Azure Service Bus, o Amazon SQS.
+Versionado de APIs: Control de versiones para mantener compatibilidad hacia atrás en servicios de microservicios.
+Patrones de diseño: Conocimiento de patrones de diseño comunes en back-end como repository, unit of work, y factory.
+REQUISITOS E QUALIFICAÇÕES
+3+ años de experiencia desarrollando aplicaciones con tecnologías de MS.Radicar en México.Experiencia trabajando en entornos ágiles.
+3+ años de experiencia desarrollando aplicaciones con tecnologías de MS.
+Radicar en México.
+Experiencia trabajando en entornos ágiles.
+INFORMAÇÕES ADICIONAIS
+Home Office 100%
+Home Office 100%
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista2Entrevista
+Etapa 2: Entrevista
+2
+Entrevista
+Etapa 3: Confirmación de candidato3Confirmación de candidato
+Etapa 3: Confirmación de candidato
+3
+Confirmación de candidato
+Etapa 4: Onboarding4Onboarding
+Etapa 4: Onboarding
+4
+Onboarding
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+CONOCE A STEFANINI
+Somos una empresa global con 35 años de experiencia en el mercado, ofrecemos una sólida selección de servicios como: automatización, nube, Internet de las cosas (IoT) y experiencia de usuario (UX).
+Creemos que la tecnología puede revolucionar una empresa y la innovación es fundamental para fomentar el desarrollo y la competitividad. También valoramos las nuevas ideas y el poder de una mente abierta, por lo que reconocemos que cada talento es esencial para la calidad de nuestros proyectos y especialmente para nuestro progreso.
+Creemos que la tecnología puede revolucionar una empresa y la innovación es fundamental para fomentar el desarrollo y la competitividad. También valoramos las nuevas ideas y el poder de una mente abierta, por lo que reconocemos que cada talento es esencial para la calidad de nuestros proyectos y especialmente para nuestro progreso.
+Mantenemos nuestra excelencia invirtiendo en innovaciones tecnológicas, las mejores alianzas, adquisiciones de empresas en todo el mundo y la contratación de profesionales altamente capacitados.
+CONOCE MÁS SOBRE NOSOTROS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

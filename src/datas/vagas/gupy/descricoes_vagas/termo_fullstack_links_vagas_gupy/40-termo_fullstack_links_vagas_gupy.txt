@@ -1,0 +1,108 @@
+link_vaga-https://keepsimple.gupy.io/job/eyJqb2JJZCI6Nzk5MDE4OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR FULLSTACK JAVA + ANGULAR SR (3909)
+Tipo de vaga: Pessoa jurídicaPessoa jurídica
+Tipo de vaga: Pessoa jurídica
+Pessoa jurídica
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+Hello,
+Você Desenvolvedor Fullstack Sênior, que deseja uma oportunidade inovadora, venha atuar em uma instituição responsável por viabilizar a comercialização de energia elétrica no Brasil.
+Estamos buscando um profissional hands on, com foco em desenvolvimento profissional, atualizado e apaixonado por tecnologia.
+Confira os requisitos👇🏻
+RESPONSABILIDADES E ATRIBUIÇÕES
+Responsável pela manutenção e desenvolvimento de novos sistemas, atuando com diversas tecnologias;Fará parte de uma equipe ágil, colaborando ativamente no ciclo de vida de desenvolvimento de software, desde a concepção até a entrega;Desenvolver e manter aplicações backend em Java 1.8 ou superior;Implementar soluções utilizando Spring Boot;Integração com bancos de dados relacionais e não relacionais, como Oracle e DynamoDB;Construir e consumir APIs REST e serviços SOAP;Gerenciar código-fonte utilizando GIT e Bitbucket;Escrever e executar testes unitários e de integração com JUnit;Colaborar com equipes de frontend, utilizando tecnologias como Angular 12+;Participar ativamente das cerimônias ágeis (Scrum) e contribuir para a melhoria contínua do processo de desenvolvimento.
+Responsável pela manutenção e desenvolvimento de novos sistemas, atuando com diversas tecnologias;
+Fará parte de uma equipe ágil, colaborando ativamente no ciclo de vida de desenvolvimento de software, desde a concepção até a entrega;
+Desenvolver e manter aplicações backend em Java 1.8 ou superior;
+Implementar soluções utilizando Spring Boot;
+Integração com bancos de dados relacionais e não relacionais, como Oracle e DynamoDB;
+Construir e consumir APIs REST e serviços SOAP;
+Gerenciar código-fonte utilizando GIT e Bitbucket;
+Escrever e executar testes unitários e de integração com JUnit;
+Colaborar com equipes de frontend, utilizando tecnologias como Angular 12+;
+Participar ativamente das cerimônias ágeis (Scrum) e contribuir para a melhoria contínua do processo de desenvolvimento.
+REQUISITOS E QUALIFICAÇÕES
+Java 8 ou superior;Spring Boot;JPA / Hibernate;DynamoDB;APIs REST;Git;Oracle 12c;Desenvolvimento Orientado a Objetos e Componentização;JUnit;Cloud AWS;Swagger;Docker / OpenShift.Desejáveis:Sparx Enterprise Architect;Archimate;Habilidades de comunicação, negociação, dinamismo e flexibilidade;Experiência com ferramentas de versionamento de código (GIT e Bitbucket);Conhecimento em metodologias ágeis (Scrum/Kanban);Webservices SOAP;Angular 12+;node.js;Angular Material e Bootstrap;HTML5 e SASS.
+Java 8 ou superior;
+Java 8 ou superior;
+Spring Boot;
+Spring Boot;
+JPA / Hibernate;
+JPA / Hibernate;
+DynamoDB;
+DynamoDB;
+APIs REST;
+APIs REST;
+Git;
+Git;
+Oracle 12c;
+Oracle 12c;
+Desenvolvimento Orientado a Objetos e Componentização;
+Desenvolvimento Orientado a Objetos e Componentização;
+JUnit;
+JUnit;
+Cloud AWS;
+Cloud AWS;
+Swagger;
+Swagger;
+Docker / OpenShift.
+Docker / OpenShift.
+Desejáveis:
+Desejáveis:
+Sparx Enterprise Architect;
+Sparx Enterprise Architect;
+Archimate;
+Archimate;
+Habilidades de comunicação, negociação, dinamismo e flexibilidade;
+Habilidades de comunicação, negociação, dinamismo e flexibilidade;
+Experiência com ferramentas de versionamento de código (GIT e Bitbucket);
+Experiência com ferramentas de versionamento de código (GIT e Bitbucket);
+Conhecimento em metodologias ágeis (Scrum/Kanban);
+Conhecimento em metodologias ágeis (Scrum/Kanban);
+Webservices SOAP;
+Webservices SOAP;
+Angular 12+;
+Angular 12+;
+node.js;
+node.js;
+Angular Material e Bootstrap;
+Angular Material e Bootstrap;
+HTML5 e SASS.
+HTML5 e SASS.
+INFORMAÇÕES ADICIONAIS
+Modelo de contratação:
+PJ
+Forma de atuação:
+100% remoto.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Teste Comportamental2Teste Comportamental
+Etapa 2: Teste Comportamental
+2
+Teste Comportamental
+Etapa 3: Avaliação Técnica (TestCode)3Avaliação Técnica (TestCode)
+Etapa 3: Avaliação Técnica (TestCode)
+3
+Avaliação Técnica (TestCode)
+Etapa 4: Entrevista RH 4Entrevista RH 
+Etapa 4: Entrevista RH 
+4
+Entrevista RH 
+Etapa 5: Entrevista Cliente5Entrevista Cliente
+Etapa 5: Entrevista Cliente
+5
+Entrevista Cliente
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+SEJAM BEM VINDOS A KEEP SIMPLE 👇🏽
+Somos uma empresa de consultoria em TI com mais de 10 anos no mercado e contamos com um time de especialistas em recrutamento tech. Nosso processo é 100% focado na experiência de quem tanto importa, o candidato.
+Optamos por fazer a diferença e temos orgulho em dizer que todos que passam pela Keep Simple se sentem especiais. Possuímos um ambiente descontraído, colaborativo, e adotamos o ágil de verdade.
+Faça parte da nossa história, #vemprakeep 💙🚀

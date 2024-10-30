@@ -1,0 +1,117 @@
+link_vaga-https://smarthis.gupy.io/job/eyJqb2JJZCI6Nzk0MDQwOSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE DADOS PLENO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Quem somos 
+ 
+A Smarthis é uma Tech startup que desenvolve soluções feitas de humanos para humanos! Acreditamos que boas soluções surgem de fortes conexões entre pessoas, conhecimentos, ideias e ideais. Por isso, ser Smarther é mais do que fazer parte de uma empresa, é viver verdadeiramente a cultura da colaboração e inovação que pulsa em nosso DNA. 
+ 
+Com um time formado por diferentes gêneros, cores, crenças, culturas e orientações afetivas, que estão espalhados por todo o Brasil (e mundo!), nosso objetivo é auxiliar nossos clientes em seus desafios para a transformação digital. Desenvolvendo produtos e serviços tecnológicos para seus negócios, combinando o melhor do RPA (Robotic Process Automation), Data Analytics e Inteligência Artificial, por um time que tem paixão por inovação, desafios e aprendizado. 
+ 
+ 
+Nossos Diferenciais:
+ 
+Somos Great Place to Work – O respeito e o cuidado com o nosso time foram fundamentais para conquistarmos a premiação: desde 2021, somos reconhecidos anualmente como uma das melhores empresas para se trabalhar no Brasil. Isso é resultado da união de um time com uma cultura alinhada com a nossa visão de crescimento para o futuro.
+ 
+100 Startups to Watch – Estamos na lista das startups mais promissoras e inovadoras do ecossistema do Brasil, segundo a Pequenas Empresas e Grandes Negócios. O desenvolvimento das equipes e a maturidade para encontrar soluções nos trouxeram essa premiação importante. 
+ 
+UiPath Professional Services & Diamond Partner – Somos a primeira empresa da América Latina a alcançar as principais certificações da empresa líder mundial em RPA. 
+ 
+One Hundred Startups – Somos reconhecidos como uma das 100 startups mais relevantes em ecossistemas corporativos de inovação, pela 100 Open Startups, a plataforma pioneira e líder de Open Innovation.
+ 
+Scale-Up Endeavor – Acelerados pela Endeavor, a comunidade global líder de empreendedores de alto impacto, fazemos parte do programa de aceleração das empresas que mais crescem no Brasil, levando a transformação digital para o mercado
+ 
+Onde Estamos:                                 
+Atualmente, temos escritórios no Rio de Janeiro, São Paulo, Miami, Buenos Aires, Madrid, Cidade do México e Perth. Mas não se preocupe! Para os que estiverem trabalhando remotamente, nossa cultura permanece a mesma: Integração total com happy hour online, noite de jogos, lives e outras programações legais! 😉 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Seu trabalho será
+﻿Junto a equipe de projetos, dar suporte aos projetos de Data Analytics da Smarthis;
+Analisar e implementar melhorias nos projetos de automação;
+Criar dashboards através de Power BI;
+Extrair informações de ERPs através de consultas SQL/Python;
+Criar/Acompanhar ETLs para processamento de dados;
+Conectar API no Power BI;
+Consultar banco de dados em nuvens.
+REQUISITOS E QUALIFICAÇÕES
+O que você precisa ter
+Graduação completa em Administração, Engenharias e cursos correlatos;
+Nível de inglês avançado (poderá ser necessário o uso no dia a dia);
+Nível de Excel avançado;
+No mínimo dois anos de experiência com Power BI;
+Conhecimento em manipulação de dados;
+Conhecimento da função Power Query M;
+Conhecimento em relacionamento de tabelas;
+Experiência com SQL;
+Experiência com ETL (Power Query);
+Experiência com linguagem DAX no Power BI;
+Excelente se tiver
+Experiência em Startup;
+Experiência como analista de BI em projetos de TI;
+Conhecimento em Python;
+INFORMAÇÕES ADICIONAIS
+O processo seletivo 
+A transparência é um de nossos princípios e por isso fazemos questão de compartilhar cada etapa da seleção. Dessa forma você já sabe o que esperar! 😊 
+ 
+Primeiro encontro: Alinhamento cultural  
+Segundo encontro: Conversa com o gestor / Alinhamento Técnico
+Ah, e não se preocupe! Prezamos pela cultura do feedback e sabemos como uma resposta, seja ela positiva ou negativa, é fundamental. Portanto, ao final de cada etapa, você será informado se foi ou não aprovado no processo.  
+ 
+Nossos Valores e Incentivos 
+Aqui entendemos que o nosso principal ativo é você. Por isso, fazemos questão de proporcionar um ambiente seguro e confortável onde nossa equipe cresça e se desenvolva tanto pessoal quanto profissionalmente. Pensando nisso, aqui estão alguns incentivos que oferecemos: 
+Participação dos lucros e resultados
+Plano de Saúde e Plano Odontológico
+Gympass
+Cartão de benefícios flexíveis
+Zenklub
+Programa de Idiomas
+Parceria com FIAP Escola de Tecnologia
+Trabalho Remoto
+Programa de treinamento
+Plano de carreira definido
+Horário flexível
+Programa de mentoria
+Licença parental estendida
+Auxílio Creche 
+ 
+Além disso, temos também iniciativas internas de Live coding, Happy hours, esportes ao ar livre, Coding Dojo (treinamento gamificado), rodas de conversa, entre outros. Ou seja, atividades para todos os gostos! 😊 
+ 
+E aí, deu match?! Então vem acelerar a revolução digital com a gente! 🚀💚  
+ 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Confirmação de Candidatura2Confirmação de Candidatura
+Etapa 2: Confirmação de Candidatura
+2
+Confirmação de Candidatura
+Etapa 3: Entrevista com o RH3Entrevista com o RH
+Etapa 3: Entrevista com o RH
+3
+Entrevista com o RH
+Etapa 4: Entrevista com o Gestor4Entrevista com o Gestor
+Etapa 4: Entrevista com o Gestor
+4
+Entrevista com o Gestor
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+QUEM SOMOS
+A Smarthis é uma Tech startup que desenvolve soluções feitas de humanos para humanos! Acreditamos que boas soluções surgem de fortes conexões entre pessoas, conhecimentos, ideias e ideais. Por isso, ser Smart é mais do que fazer parte de uma empresa, é viver verdadeiramente a cultura da colaboração e inovação que pulsa em nosso DNA.
+Com um time formado por diferentes gêneros, cores, crenças, culturas e orientações afetivas, que estão espalhados por todo o Brasil (e mundo!), nosso objetivo é auxiliar nossos clientes em seus desafios para a transformação digital. Desenvolvendo produtos e serviços tecnológicos para seus negócios, combinando o melhor do RPA (Robotic Process Automation), Data Analytics e Inteligência Artificial, por um time que tem paixão por inovação, desafios e aprendizado.
+SIGA NOSSAS REDES
+Website
+LinkedIn
+Instagram
+Glassdoor

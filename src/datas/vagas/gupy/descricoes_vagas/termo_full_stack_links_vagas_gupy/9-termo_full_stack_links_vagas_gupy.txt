@@ -1,0 +1,88 @@
+link_vaga-https://fretadao.gupy.io/job/eyJqb2JJZCI6NzI2ODk3OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR(A) FULL STACK SÊNIOR - RUBY ON RAILS
+Tipo de vaga: AutônomoAutônomo
+Tipo de vaga: Autônomo
+Autônomo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Nós nascemos para revolucionar a mobilidade urbana. Nosso propósito é cuidar de toda gestão de transportes, usando a tecnologia como principal base de apoio para soluções inovadoras e de sucesso.
+Somos mais que uma empresa. Temos uma cultura forte e autêntica que fortalece nossas transformações e nos fazem encarar nossos desafios com coragem e espírito de dono.
+O Fretadão é movido por pessoas e para pessoas. Para fazermos tudo isso acontecer, temos um time que respira nossos valores e os coloca em prática todos os dias.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Propósito do cargo:
+Buscamos um(a) Desenvolvedor(a) Full Stack Sênior especializado(a) em Ruby on Rails para integrar nosso time de tecnologia e liderar o desenvolvimento de soluções inovadoras. O propósito deste cargo é garantir a criação, manutenção e melhoria contínua de aplicações web robustas, escaláveis e de alta performance, com foco em bancos de dados relacionais e não relacionais, bem como em APIs de geolocalização. Nosso objetivo é proporcionar uma experiência excepcional aos usuários finais, mantendo sempre os mais altos padrões de qualidade e segurança.
+Como Fretonauta você será responsável por:
+Desenvolvimento de Aplicações: Contribuir para o desenvolvimento e liderança de novas funcionalidades e melhorias em nossas aplicações web, utilizando Ruby on Rails.
+Manutenção e Suporte: Identificar e resolver problemas técnicos, realizando manutenção preventiva e corretiva das aplicações existentes.
+Integração de APIs: Desenvolver e integrar APIs, com foco especial em APIs de geolocalização, garantindo a troca eficiente e segura de informações.
+Gerenciamento de Bancos de Dados: Trabalhar com bancos de dados relacionais (PostgreSQL) e não relacionais (Redis), garantindo a otimização e eficiência na gestão de dados.
+Qualidade do Código: Escrever código limpo, eficiente e bem documentado, seguindo as melhores práticas de desenvolvimento de software.
+Testes e Validação: Implementar testes automatizados e realizar testes manuais para garantir a qualidade e a estabilidade das funcionalidades desenvolvidas.
+Mentoria e Colaboração: Orientar e apoiar desenvolvedores juniores e plenos, promovendo um ambiente de aprendizado contínuo e colaborativo.
+Atualização e Aprendizado Contínuo: Manter-se atualizado com as últimas tendências e tecnologias em desenvolvimento de software, participando de treinamentos e eventos da área.
+REQUISITOS E QUALIFICAÇÕES
+Requisitos Obrigatórios:
+Formação: Graduação em Ciência da Computação, Engenharia de Software, Sistemas de Informação ou áreas correlatas.
+Experiência: Mínimo de 5 anos de experiência comprovada como Desenvolvedor(a) Full Stack, com pelo menos 3 anos utilizando Ruby on Rails.
+Linguagens de Programação: Proficiência em Ruby on Rails, JavaScript, HTML, CSS, e experiência com frameworks de front-end como React ou Vue.js.
+Banco de Dados: Experiência avançada com PostgreSQL e Redis.
+APIs: Experiência na criação, consumo e integração de APIs, incluindo APIs de geolocalização.
+Controle de Versão: Conhecimento avançado em Git e práticas de versionamento de código.
+Metodologias Ágeis: Experiência em trabalhar com metodologias ágeis (Scrum, Kanban).
+Desenvolvimento de APIs: Experiência na criação e consumo de APIs RESTful e/ou GraphQL.
+Diferenciais:
+Cloud Computing: Experiência com serviços de nuvem (AWS, Azure, Google Cloud).
+DevOps: Conhecimento em CI/CD, Docker, Kubernetes e automação de deploy.
+Segurança: Conhecimento em práticas de segurança de software e PSI.
+Soft Skills: Habilidade para trabalhar em equipe, boa comunicação, proatividade e capacidade de resolução de problemas.
+INFORMAÇÕES ADICIONAIS
+Nossos Benefícios:
+Cartão Flex Food Swile R$770,00 mensais;
+Home office;
+No Dress Code (Não temos um código de vestimenta, você pode trabalhar da forma que se sentir mais confortável);
+Day Off (aniversário);
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista técnica2Entrevista técnica
+Etapa 2: Entrevista técnica
+2
+Entrevista técnica
+Etapa 3: Entrevista comportamental3Entrevista comportamental
+Etapa 3: Entrevista comportamental
+3
+Entrevista comportamental
+Etapa 4: Teste técnico4Teste técnico
+Etapa 4: Teste técnico
+4
+Teste técnico
+Etapa 5: Carta oferta5Carta oferta
+Etapa 5: Carta oferta
+5
+Carta oferta
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+QUEM SOMOS
+O Fretadão surgiu como uma solução de mobilidade corporativa que integra as principais necessidades de transporte de pessoas de uma empresa. 
+Nosso propósito é transformar a experiência de passageiros, parceiros, clientes e colaboradores através da mobilidade. 
+Através das nossas soluções tecnológicas nós reduzimos custos, melhoramos a experiência dos usuários e aumentamos o controle das empresas sobre o transporte de colaboradores.
+Atualmente impactamos milhares de pessoas com nossas soluções, fornecendo mobilidade para as maiores empresas do Brasil, gerando renda e oportunidades para pequenos e médios transportadores. 
+Nossa Missão:
+"Transformar positivamente a experiência de passageiros, parceiros, clientes e colaboradores por meio da tecnologia e disrupção aplicadas à mobilidade urbana.”
+Nossão visão:
+“Ser a referência e líder do mercado brasileiro em soluções para mobilidade corporativa, atendendo diariamente 1 milhão de passageiros até 2033.”
+CONHEÇA MAIS SOBRE O NOSSO NEGÓCIO 💙
+Website
+LinkedIn
+Instagram
+Glassdoor

@@ -1,0 +1,163 @@
+link_vaga-https://grupomag.gupy.io/job/eyJqb2JJZCI6Nzk0MDU0OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE INFORMAÇÕES GERENCIAIS JÚNIOR (ANALISTA DE DADOS)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+#VemSerMAG 
+ 
+ 
+Se você quer trabalhar com propósito, desenvolver sua carreira, mas sem deixar de lado sua saúde e bem-estar, a MAG é o seu lugar! Temos em nosso DNA a inovação e o cuidado com as pessoas. Desde 2016 estamos na lista das melhores empresas para se trabalhar, segundo a Great Place to Work.  
+ 
+ 
+Somos uma empresa PLURAL! 
+ 
+ 
+Diversidade e inclusão estão na pauta constante da MAG. Nos orgulhamos de ser uma companhia formada por mais de 80% de todos os nossos colaboradores pertencentes a, pelo menos, um grupo minorizado. Contamos também com o Plural, programa formal, estruturado e direcionado ao fomento da diversidade e inclusão. 
+ 
+ 
+ 
+ 
+Nosso propósito e valores 
+ 
+ 
+Estamos em busca de pessoas que tenham valores alinhados aos nossos: Atitude de dono, História de transformação, Relações duradouras e Ser presente.  
+ 
+ 
+Na MAG temos o forte propósito de oferecer soluções financeiras nos diversos momentos de vida de todos os brasileiros. Nos últimos três anos, realizamos o pagamento de mais de R$ 1 bilhão em benefícios a milhares de famílias. Dados como esse que nos levam a ser referência no mercado de Vida e Previdência, com quase 200 anos de atuação ininterrupta no Brasil. 
+ 
+ 
+Somos parte do Grupo Aegon, um dos maiores grupos de Seguro de Vida e Previdência do mundo. No Brasil, nossa força também impressiona: temos mais de 5,8 milhões de vidas seguradas e crescemos, em média, 16% ao ano na última década.  
+ 
+   
+ 
+Quer fazer parte dessa história? Conheça a nossa oportunidade. 
+ 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Coletar e consolidar dados de várias fontes para análise, garantindo a qualidade e integridade dos dados;Desenvolver relatórios avançados no Excel para representar visualmente as informações gerenciais de forma clara e eficaz;Utilizar o Power BI de forma avançada para criar dashboards interativos que forneçam insights práticos e auxiliem na tomada de decisões;Executar consultas SQL para extrair, transformar e preparar dados para análise, contribuindo para a construção de bases de dados sólidas;Colaborar com a equipe de planejamento para identificar tendências, padrões e oportunidades por meio da análise de dados;Apoiar na identificação de KPIs relevantes e métricas de desempenho para o negócio;Participar ativamente na manutenção e atualização de bancos de dados, garantindo a integridade dos dados;Ter pensamento analítico e crítico;Habilidade para interpretar os resultados;Comunicar os resultados das análises de forma clara e eficaz, apresentando recomendações acionáveis para a liderança.
+Coletar e consolidar dados de várias fontes para análise, garantindo a qualidade e integridade dos dados;
+Desenvolver relatórios avançados no Excel para representar visualmente as informações gerenciais de forma clara e eficaz;
+Utilizar o Power BI de forma avançada para criar dashboards interativos que forneçam insights práticos e auxiliem na tomada de decisões;
+Executar consultas SQL para extrair, transformar e preparar dados para análise, contribuindo para a construção de bases de dados sólidas;
+Colaborar com a equipe de planejamento para identificar tendências, padrões e oportunidades por meio da análise de dados;
+Apoiar na identificação de KPIs relevantes e métricas de desempenho para o negócio;
+Participar ativamente na manutenção e atualização de bancos de dados, garantindo a integridade dos dados;
+Ter pensamento analítico e crítico;
+Habilidade para interpretar os resultados;
+Comunicar os resultados das análises de forma clara e eficaz, apresentando recomendações acionáveis para a liderança.
+REQUISITOS E QUALIFICAÇÕES
+Bacharelado completo em Estatística, Matemática, Ciência de Dados, Economia, Administração, Engenharia ou área relacionada;Experiência prévia em coleta e análise de dados;Conhecimento avançado em Microsoft Excel;Conhecimento avançado na ferramenta Power BIConhecimento avançado com SQL: essencial para consultas, manipulação de dados;Habilidade de trabalhar de forma independente e em equipe, com forte capacidade de resolução de problemas;Excelentes habilidades de comunicação e apresentação, com a capacidade de traduzir resultados de análises em recomendações acionáveis;Desejável experiência com Python para análises estatísticas mais avançadas, manipulação de grandes conjuntos de dados e automação de tarefas;Atitude proativa e vontade de aprender e se desenvolver constantemente.Será um diferencial ter experiência com:DatabricksAzure AIConceitos de Machine LearningInglês
+Bacharelado completo em Estatística, Matemática, Ciência de Dados, Economia, Administração, Engenharia ou área relacionada;
+Experiência prévia em coleta e análise de dados;
+Conhecimento avançado em Microsoft Excel;
+Conhecimento avançado na ferramenta Power BI
+Conhecimento avançado com SQL: essencial para consultas, manipulação de dados;
+Habilidade de trabalhar de forma independente e em equipe, com forte capacidade de resolução de problemas;
+Excelentes habilidades de comunicação e apresentação, com a capacidade de traduzir resultados de análises em recomendações acionáveis;
+Desejável experiência com Python para análises estatísticas mais avançadas, manipulação de grandes conjuntos de dados e automação de tarefas;
+Atitude proativa e vontade de aprender e se desenvolver constantemente.
+Será um diferencial ter experiência com:
+Databricks
+Azure AI
+Conceitos de Machine Learning
+Inglês
+INFORMAÇÕES ADICIONAIS
+O que temos de bom:  
+ 
+Salário compatível com o mercado 
+Salário compatível com o mercado 
+Vale-transporte 
+Vale-transporte 
+Vale refeição (sem desconto em folha e mantido durante as férias) 
+Vale refeição (sem desconto em folha e mantido durante as férias) 
+Vale alimentação (sem desconto em folha, mantido durante as férias e saldo extra no mês de Dezembro) 
+Vale alimentação (sem desconto em folha, mantido durante as férias e saldo extra no mês de Dezembro) 
+Plano de saúde 
+Plano de saúde 
+Plano odontológico 
+Plano odontológico 
+Auxílio Creche 
+Auxílio Creche 
+Previdência Privada 
+Previdência Privada 
+Assistência funeral (extensivo a dependentes e aos pais) 
+Assistência funeral (extensivo a dependentes e aos pais) 
+PPR 
+PPR 
+Seguro de vida 
+Seguro de vida 
+Gympass 
+Gympass 
+Assistência psicológica, financeira e jurídica para você e seus dependentes 
+Assistência psicológica, financeira e jurídica para você e seus dependentes 
+Atendimento médico e nutricional 
+Atendimento médico e nutricional 
+Happy Day - uma folga no mês do aniversário 
+Happy Day - uma folga no mês do aniversário 
+Universidade corporativa 
+Universidade corporativa 
+Licença maternidade e paternidade estendidas 
+Licença maternidade e paternidade estendidas 
+**Essa é uma posição que segue o modelo híbrido (4 a 8x por mês) no escritório localizado no centro do Rio de Janeiro.**
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Avaliação de Língua Portuguesa2Avaliação de Língua Portuguesa
+Etapa 2: Avaliação de Língua Portuguesa
+2
+Avaliação de Língua Portuguesa
+Etapa 3: Avaliação de Raciocínio Lógico3Avaliação de Raciocínio Lógico
+Etapa 3: Avaliação de Raciocínio Lógico
+3
+Avaliação de Raciocínio Lógico
+Etapa 4: Entrevista Individual4Entrevista Individual
+Etapa 4: Entrevista Individual
+4
+Entrevista Individual
+Etapa 5: Case Técnico5Case Técnico
+Etapa 5: Case Técnico
+5
+Case Técnico
+Etapa 6: Mapeamento Comportamental6Mapeamento Comportamental
+Etapa 6: Mapeamento Comportamental
+6
+Mapeamento Comportamental
+Etapa 7: Entrevista Final7Entrevista Final
+Etapa 7: Entrevista Final
+7
+Entrevista Final
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+SOMOS A MAG!
+Há mais de 185 anos temos como propósito prover soluções financeiras individuais nos diversos momentos de vida de todos os brasileiros. Para isso, contamos com a dedicação de mais de 1.500 colaboradores em todo o país, que vestem a camisa deste time e nos fazem ser uma das melhores companhias para trabalhar no Brasil.
+ 
+Nossos Valores 
+A cultura MAG é formada por nossos valores corporativos, que são reflexo do comportamento que manifestamos, de quem somos e muito nos orgulhamos:
+Ser presente
+Relações Duradouras
+Atitude de Dono
+Uma história de transformação
+Conheça alguns dos nossos benefícios 👍: 
+Vales refeição e alimentação sem desconto
+Planos de saúde e odontológico extensivo a dependentes
+Programa voltado para qualidade de vida e bem-estar, com nutricionista, médica e Gympass
+Programa de Participação nos Resultados
+Desenvolvimento e treinamento contínuos pela MAG Universidade
+Programa estruturado de gestão de carreira
+ACOMPANHE A GENTE!
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

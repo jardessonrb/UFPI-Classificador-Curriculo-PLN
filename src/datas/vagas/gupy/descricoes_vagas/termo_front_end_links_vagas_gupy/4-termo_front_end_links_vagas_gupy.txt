@@ -1,0 +1,83 @@
+link_vaga-https://hypnobox.gupy.io/job/eyJqb2JJZCI6Nzc0NTAyMCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+FRONT END
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Já conhece a Hypnobox?
+Somos uma software company 100% brasileira com foco no mercado de Incorporação. Oferecemos a plataforma mais completa do mercado para incorporadoras, com software, performance digital e consultoria em um único lugar.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Qual será sua jornada como Front End aqui na Hypno?
+Desenvolver e manter aplicações web otimizadas e responsivas, garantindo excelente usabilidade em diferentes navegadores;
+Criar o frontend de aplicativos móveis, seguindo de forma fiel os fluxos, diagramação e layouts definidos pelos processos de criação e UX;
+Construir e implementar interfaces de usuário de alta qualidade utilizando TypeScript e Angular;
+Escrever código eficiente, além de utilizar HTML e CSS para criar interfaces adaptáveis para aplicativos online;
+Trabalhar em conjunto com o time na integração do frontend com serviços do backend e aplicações remotas;
+Buscar e implementar formas aprimoradas de usabilidade, favorecendo uma navegação simples e intuitiva para os usuários;
+Colher feedbacks e trabalhar em melhorias constantes para usuários e clientes;
+Criar mockups e protótipos de alta qualidade;
+Liderar tarefas de análise de produto e conduzir testes de performance;
+Realizar análises complexas de produto, bem como desempenhar funções de desenvolvimento que podem incluir pesquisas e análises significativas;
+Colaborar com outras equipes multifuncionais para garantir o alto desempenho das aplicações;
+Identificar e solucionar problemas com o código frontend.
+Qual será sua jornada aqui na Hypno?
+De segunda à sexta-feira;
+Jornada é híbrida e nosso escritório é open space, ao lado da estação do Metrô Faria Lima (linha amarela) | SP 🤞
+REQUISITOS E QUALIFICAÇÕES
+O que não pode faltar?
+ 🧠 Superior completo ou cursando em Ciência da Computação, Sistemas da Informação, Análise e Desenvolvimento de Sistemas, Engenharia de Software ou áreas correlatas;
+📚 HTML 5/ CSS / Javascript / JQuery;
+💡 Experiência de 3+ anos como desenvolvedor Angular;
+💙 Conhecimentos sólidos em HTML, CSS e JavaScript, bem como suas bibliotecas e frameworks associados;
+ Conhecimento em bancos de dados SQL e NoSQL;
+ Habilidade em consumir e integrar microsserviços (integração entre frontend e backend);
+ Familiaridade com controle de versão, especialmente Git;
+ Experiência com ferramentas de testes de frontend, como Jest, Mocha ou Cypress;
+ Experiência com bundlers para frontend, como Webpack, Rollup ou Vite;
+INFORMAÇÕES ADICIONAIS
+Etapas do nosso processo seletivo:
+ 
+✍️ Inscrição/Hunting
+🎥 Fit cultural com time de People
+🤝 Case
+✍️ Papo com Gestão
+⛳ Feedbacks e/ou contratação
+ 
+E aí, deu match? Se candidate 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Papo People2Papo People
+Etapa 2: Papo People
+2
+Papo People
+Etapa 3: Case3Case
+Etapa 3: Case
+3
+Case
+Etapa 4: Papo Gestão 4Papo Gestão 
+Etapa 4: Papo Gestão 
+4
+Papo Gestão 
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+OLÁ, SOMOS A HYPNOBOX! 🚀
+Aqui na Hypnobox, impulsionamos a transformação digital do mercado imobiliário. Com mais de 14 anos de experiência, ajudamos nossos clientes a atingir o sucesso através de nossas soluções tecnológicas inovadoras. Utilizamos ferramentas de tecnologia, marketing e nosso vasto conhecimento para entregar uma solução completa, focada no aumento de produtividade e vendas, de ponta a ponta. Somos a única empresa 100% dedicada ao mercado de CRM para grandes incorporadoras.
+Na Hypnobox, acreditamos no poder da colaboração, tanto com nossos clientes quanto com nossos colaboradores. Nossa missão faz sentido para aqueles que buscam performance, produtividade e foco nos resultados - valores que são espelhados em nossos times. Somos uma empresa de software 100% brasileira, com um histórico comprovado de entrega de resultados superiores, muitas vezes superando softwares globais.
+Valorizamos pontos de vista diferentes e acreditamos que ter uma equipe diversa é essencial para o nosso sucesso. Aqui, todos são bem-vindos para serem quem realmente são!
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram

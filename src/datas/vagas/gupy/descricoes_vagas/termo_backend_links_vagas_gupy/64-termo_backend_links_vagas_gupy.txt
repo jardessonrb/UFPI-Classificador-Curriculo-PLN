@@ -1,0 +1,130 @@
+link_vaga-https://legatusgrowth.gupy.io/job/eyJqb2JJZCI6Nzg4MDQ4MCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR BACKEND PLENO .NET
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+Somos movidos por grandes desafios e buscamos pessoas que tenham sede de conhecimento, que sonhem grande e que tenham muita vontade em nos ajudar a transformar e crescer.
+Somos movidos por grandes desafios e buscamos pessoas que tenham sede de conhecimento, que sonhem grande e que tenham muita vontade em nos ajudar a 
+Buscamos um Desenvolvedor Backend Pleno .NET para se juntar à nossa equipe, que tenha um perfil motivado por desafios e com forte desejo de aprendizado e crescimento. O candidato ideal será responsável pelo desenvolvimento e manutenção de soluções backend, garantindo a performance e escalabilidade das aplicações. Este profissional deve desenvolver APIs, integrar soluções backend com interfaces de usuário e colaborar com equipes multidisciplinares para entregar produtos que atendam às expectativas dos clientes e do negócio. Também será responsável por assegurar a qualidade do código, participar de revisões e contribuir com práticas de DevOps para garantir um ciclo de desenvolvimento eficiente.
+motivado por 
+e com forte desejo de 
+e 
+.
+desenvolvimento e manutenção de soluções backend, garantindo a performance e escalabilidade das aplicações. Este profissional deve desenvolver APIs, integrar soluções backend com interfaces de usuário e colaborar com equipes multidisciplinares para entregar produtos que atendam às expectativas dos clientes e do negócio. Também será responsável por assegurar a qualidade do código, participar de revisões e contribuir com práticas de DevOps para garantir um ciclo de desenvolvimento eficiente.
+Se você é apaixonado por tecnologia e tem experiência comprovada em desenvolvimento backend .NET, estamos ansiosos para receber sua candidatura. Junte-se a nós para desenvolver soluções inovadoras e catalisar negócios.
+Se você é apaixonado por tecnologia e tem experiência comprovada em desenvolvimento backend .NET, estamos ansiosos para receber sua candidatura. Junte-se a nós para 
+.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver APIs e soluções backend escaláveisAssegurar a segurança e performance das aplicaçõesAssegurar a segurança e otimização de aplicaçõesDesenvolver e implementar estratégias de teste (automatizados e manuais)Contribuir em revisões de código e boas práticas de desenvolvimentoTrabalhar em estreita colaboração com a equipe de frontend para garantir integração eficiente Apoiar o Tech Lead na identificação e solução de desafios técnicos﻿Colaborar com a equipe de frontend para garantir uma integração eficiente
+Desenvolver APIs e soluções backend escaláveis
+Desenvolver APIs e soluções backend escaláveis
+Assegurar a segurança e performance das aplicações
+Assegurar a segurança e performance das aplicações
+Assegurar a segurança e otimização de aplicações
+Assegurar a segurança e otimização de aplicações
+Desenvolver e implementar estratégias de teste (automatizados e manuais)
+Desenvolver e implementar estratégias de teste (automatizados e manuais)
+Contribuir em revisões de código e boas práticas de desenvolvimento
+Contribuir em revisões de código e boas práticas de desenvolvimento
+Trabalhar em estreita colaboração com a equipe de frontend para garantir integração eficiente 
+Trabalhar em estreita colaboração com a equipe de frontend para garantir integração eficiente
+Apoiar o Tech Lead na identificação e solução de desafios técnicos
+Apoiar o Tech Lead na identificação e solução de desafios técnicos
+﻿Colaborar com a equipe de frontend para garantir uma integração eficiente
+﻿Colaborar com a equipe de frontend para garantir uma integração eficiente
+﻿
+REQUISITOS E QUALIFICAÇÕES
+Requisitos mínimos:
+Graduação em áreas correlatas a Sistemas de Informação, Sistemas para Internet, Análise e Desenvolvimento de Sistemas, Engenharia de Software, ou áreas relacionadas. 
+Certificação em C# .NET Core (desejável). 
+Outras certificações relevantes, como Azure Developer Associate.
+Associate
+Inglês técnico
+Experiência mínima de 3 anos com C# .NET Core (NET 6+)
+Experiência com design e implementação de APIs RESTful e microserviços. 
+Conhecimento em bancos de dados SQL e NoSQL. 
+Familiaridade com sistemas de mensageria (ex.: RabbitMQ, Kafka). 
+Entendimento de sistemas distribuídos (escalabilidade, consistência, tolerância a falhas). 
+Práticas de DevOps e CI/CD. 
+Capacidade de escrever documentação técnica clara e concisa. 
+Familiaridade com a implementação e gestão de soluções utilizando serviços do Azure, incluindo Cosmos DB, App Insights, Azure Functions, Azure SQL Database, Azure Storage, e Azure Key Vault. 
+Competências esperadas:
+Foco em resultados e habilidade em priorização de tarefas. 
+Excelente comunicação e capacidade de trabalhar em equipe. 
+Habilidade em coletar feedbacks e levantar necessidades dos stakeholders. 
+Capacidade de tomar decisões baseadas em dados e feedbacks dos usuários. 
+Proatividade e capacidade de resolver problemas complexos.
+INFORMAÇÕES ADICIONAIS
+Nos ajude a acelerar o crescimento de diversas empresas espalhadas pelo Brasil! De startups a negócios em estágios mais avançados.
+Nos ajude a acelerar o crescimento de diversas empresas espalhadas pelo Brasil! De startups a negócios em estágios mais avançados.
+Quer aprender a trabalhar? Quer se desenvolver?
+Quer aprender a trabalhar? Quer se desenvolver?
+Quer gerar valor para diversas empresas de diversos segmentos?
+Quer gerar valor para diversas empresas de diversos segmentos?
+Quer fazer parte de um time que valoriza a evolução da equipe?
+Quer fazer parte de um time que valoriza a evolução da equipe?
+Venha para a Legatus Growth Partners!
+Nossos Benefícios:
+Vale alimentação
+Vale alimentação
+Plano de saúde
+Auxílio Idiomas
+Auxílio Academia
+Política de incentivo financeiro a educação
+Trabalhar com um time incrível!
+obs: mais benefícios sendo implantados!
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Fit Cultural2Fit Cultural
+Etapa 2: Fit Cultural
+2
+Fit Cultural
+Etapa 3: Entrevista People3Entrevista People
+Etapa 3: Entrevista People
+3
+Entrevista People
+Etapa 4: Entrevista gestor4Entrevista gestor
+Etapa 4: Entrevista gestor
+4
+Entrevista gestor
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+SOBRE NÓS
+Nosso propósito é catalisar negócios por meio da redução de custos financeiros, do acesso a conhecimento e da oferta de soluções estratégicas. 
+Para empresas, somos a ponte para oportunidades de crédito diferenciadas, que possibilitam o aumento da rentabilidade, da bancabilidade no mercado e a manutenção de um ciclo virtuoso de resultados e crescimento.  
+Para instituições financeiras, somos parceiros estratégicos ao transformar a necessidade das empresas em oportunidades para geração de novos negócios.  
+Para o mercado, impulsionamos o crescimento de empresas que estão revolucionando os seus setores, gerando empregos e deixando um legado de prosperidade.  
+Nosso time experiente e com vasto histórico de sucesso está pronto para atender empresas de diferentes portes e segmentos, sejam nacionais ou multinacionais, com soluções personalizadas para resolver problemas complexos de negócios. 
+Somos quase 30 pessoas, profissionais com vasto histórico de sucesso que buscam criar parcerias de longo prazo e, ombro a ombro com os nossos clientes, construir um legado financeiro próspero para empresas que estão puxando a transformação nos seus segmentos. 
+﻿
+﻿
+Em São Paulo, coração financeiro do Brasil, com nossa sede no Cubo Itaú, o maior e mais relevante centro de empreendedorismo tecnológico da América Latina. 
+E em Itajaí, estamos localizados no Absolute Business, com espaços incríveis e uma vista de tirar o folego. 
+ 
+Nossos valores e princípios 
+ 
+We are growth hackers 
+We are a company of owners and leaders 
+We are open-minded 
+We seek the objective truth 
+We deliver what we promised 
+We have skin in the game 
+We learn continuously  
+We understand the game and we play by its rules 
+We play the infinite game 
+We brind order to chaos by being resilient and antifragile 
+We build long-term partnerships 
+We are stoic, we live by its 4 main tenets: wisdom, temperance, justice and courage 
+ 
+Conheça um pouco mais sobre nós em nosso site, no YouTube, Linkedin e Instagram 
+ 

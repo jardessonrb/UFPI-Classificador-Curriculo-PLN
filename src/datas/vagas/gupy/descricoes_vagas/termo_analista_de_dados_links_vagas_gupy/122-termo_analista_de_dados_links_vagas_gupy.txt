@@ -1,0 +1,106 @@
+link_vaga-https://uol.gupy.io/job/eyJqb2JJZCI6NjgxNzEyOCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE GOVERNANÇA DE DADOS JR.
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+O UOL Conteúdo e Serviços é muito mais do que a maior empresa de conteúdo, serviços e produtos digitais da América Latina. Já são 25 anos inovando e fazendo acontecer, afinal, para quem foi responsável por conectar a primeira pessoa do Brasil à internet, é essencial continuar criando conteúdo e, mais do que isso, criando conexões. A busca contínua por inovação é o que nos mantêm em movimento, e isso só é possível por causa das pessoas que fazem parte deste universo.
+Aqui, você encontrará um ambiente colaborativo, disruptivo e de aprendizado constante. Quer fazer parte desse time? Então, confira esta oportunidade e #VemProUOL!
+No UOL todas as pessoas são bem-vindas😊, sem distinção de gênero, orientação sexual, etnia, cultura, religião, deficiência etc. O importante é você gostar de desafios, trabalhar bem em equipe, vivenciar nossa cultura e nossa missão de conectar cada brasileiro e brasileira ao seu universo
+RESPONSABILIDADES E ATRIBUIÇÕES
+Manter, revisar e sustentar os processos que envolvem os metadados corporativos garantindo sua qualidade para a usabilidade das áreas consumidoras dos dados do Datalake e disseminar seu uso na Cia.Desenvolver soluções de qualidade de dados conforme boas práticas e processos construídos junto às áreas de Dados e de Negócios (Data Stewards).Apoiar as áreas de dados e negócios para definição de métricas de qualidade de dados e implementar processos de score e selos de qualidade.Promover as diretrizes de governança de dados em toda organização. 
+Manter, revisar e sustentar os processos que envolvem os metadados corporativos garantindo sua qualidade para a usabilidade das áreas consumidoras dos dados do Datalake e disseminar seu uso na Cia.
+Desenvolver soluções de qualidade de dados conforme boas práticas e processos construídos junto às áreas de Dados e de Negócios (Data Stewards).
+Apoiar as áreas de dados e negócios para definição de métricas de qualidade de dados e implementar processos de score e selos de qualidade.
+Promover as diretrizes de governança de dados em toda organização. 
+REQUISITOS E QUALIFICAÇÕES
+Superior em Ciências da Computação, Engenharia da Computação, Sistemas da Informação ou áreas correlatas.Conhecimento básico em conceitos e boas práticas de gestão de metadados (dicionário de dados, glossário de negócios e linhagem de dados).Experiência com programação Python/SQL.Experiência com componentes da GCP (BigQuery, Dataplex e Data Catalog).Experiência com tecnologias Apache Airflow e Jenkins.Conhecimento em metodologia ágil.
+Superior em Ciências da Computação, Engenharia da Computação, Sistemas da Informação ou áreas correlatas.
+Conhecimento básico em conceitos e boas práticas de gestão de metadados (dicionário de dados, glossário de negócios e linhagem de dados).
+Experiência com programação Python/SQL.
+Experiência com componentes da GCP (BigQuery, Dataplex e Data Catalog).
+Experiência com tecnologias Apache Airflow e Jenkins.
+Conhecimento em metodologia ágil.
+INFORMAÇÕES ADICIONAIS
+Para se destacar nesta posição seria legal se você também tivesse:
+Conhecimento básico em framework de governança de dados, preferencialmente, o DAMA.
+Conhecimento básico da Lei Geral de Proteção de Dados (LGPD).
+Conhecimento em ferramenta de qualidade de dados, como Great Expectations.
+Conhecimento básico em conceitos e boas práticas de gestão de metadados (dicionário de dados, glossário de negócios e linhagem de dados).
+Conhecimento básico em banco relacional (Oracle, SQL Server, MySQL e/ou PostgreSQL).
+Experiência com modelagem de dados.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Teste 3Teste 
+Etapa 3: Teste 
+3
+Teste 
+Etapa 4: Entrevista RH4Entrevista RH
+Etapa 4: Entrevista RH
+4
+Entrevista RH
+Etapa 5: Entrevista Gestor5Entrevista Gestor
+Etapa 5: Entrevista Gestor
+5
+Entrevista Gestor
+Etapa 6: Finalistas6Finalistas
+Etapa 6: Finalistas
+6
+Finalistas
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+AQUI VOCÊ VIVE UM UNIVERSO DE POSSIBILIDADES!
+O UOL CS está há mais de duas décadas inovando e impactando a vida de milhões de pessoas! Nos consolidamos pioneiros na internet por meio de produtos e serviços de qualidade, informação com credibilidade e recordes de audiência. Hoje somos a maior empresa de conteúdo, serviços e produtos digitais da América Latina! 
+ 
+O nosso Universo Online 🚀 
+Nosso pioneirismo marca nossa trajetória. Fomos o primeiro portal de notícias online do país a entrar no ar e, atualmente, continuamos na preferência dos brasileiros. Criamos a primeira TV feita especialmente para a internet. Criamos o site que, até hoje, é referência em bate-papo e encontros online. Transmitimos e noticiamos os principais eventos e acontecimentos do mundo. 
+Revolucionamos a internet e seguimos evoluindo no propósito de conectar cada brasileiro e brasileira ao seu universo, oferecendo um mundo de possibilidades com informação, entretenimento e os melhores produtos e serviços digitais. 
+ 
+Tudo isso já é incrível, né? Mas não para por aí. O UOL CS não é feito só de notícias, é feito de tecnologia, inovação e, acima de tudo, de pessoas! Que tal ser uma delas? 
+ 
+Conheça os benefícios do nosso #UniversoOnline 🤩 
+Você terá um pacote de completo de benefícios que fazem toda a diferença: 
+Vale-alimentação e/ou refeição. 
+Vale-transporte. 
+Previdência privada. 
+Plano de saúde e odontológico. 
+Seguro de vida. 
+Parceria com TotalPass. 
+ZenKlub para terapias online.  
+UOL Care: orientação psicológica, nutricional, fisioterapêutica e educação física. 
+Licença maternidade e paternidade estendidas. 
+Auxílio-creche. 
+Parcerias com descontos em grandes instituições como FIA, FAAP, PUCRS e UNINASSAU, além de 50% de desconto em todos os cursos disponíveis na plataforma Portal Educação. 
+Desconto de 70% no curso de Inglês 2.0 na plataforma Portal Educação e 50% de desconto nos cursos da EA Banking School. 
+E ainda tem mais: 
+No dress code: o importante é você usar o que te faz bem. 
+#TáDeParabéns: Day off no aniversário. 
+Baby gift: presente para recém-nascidos. 
+Saiba como funciona nosso processo seletivo 🔎 
+Nem todos os processos seguem o mesmo formato, mas a grande maioria segue um andamento parecido: 
+Inscrição (essa que você completa aqui na Gupy). 
+Entrevista com o time de Recrutamento & Seleção. 
+Desafio técnico, pode ser um teste, case ou apresentação de portfólio. Ou até mesmo um bate-papo técnico com o time. 
+Entrevista com a liderança da área. 
+ 
+Temos uma dica importante para você 📣 
+Capriche nas etapas do processo, principalmente no momento da inscrição! Buscamos analisar todas as candidaturas e isso pode levar algum tempo. Por isso, caso esteja se perguntando sobre o prazo para fazermos contato, pedimos sua empatia. 💜 Todas as pessoas que se candidatam em nossas vagas recebem um retorno por meio da Gupy, seja ele positivo ou negativo. Pedimos que acompanhe sua candidatura por aqui e na sua caixa e-mail, sem esquecer de olhar o spam, combinado? 
+E aí, que tal fazer parte do nosso Universo Online? 
+ 
+#VemProUOL!  

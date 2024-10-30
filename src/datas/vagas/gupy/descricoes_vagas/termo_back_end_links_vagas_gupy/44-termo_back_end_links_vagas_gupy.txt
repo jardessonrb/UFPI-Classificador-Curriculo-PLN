@@ -1,0 +1,81 @@
+link_vaga-https://agrotis.gupy.io/job/eyJqb2JJZCI6Nzc5MTcyNiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR(A) BACK END JAVA (CURITIBA-PR)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Buscamos pessoas apaixonadas por tecnologia e que acreditem que ela é uma ferramenta capaz de transformar a vida de nossos clientes! Queremos um novo talento para atuar dentro do nosso time de Arquitetura que nos ajude a impactar a maneira como o agronegócio brasileiro faz uso de tecnologia.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Analisar soluções com base em requisitos e protótipos previamente fornecidos pelo o time de UX;Modelar dados e codificação de API's em monolitos e microserviços Java que processam regras de negócio complexas de uma forma eficaz, colaborando com nossa arquitetura web;Criar estruturas para atender novas funcionalidades de forma otimizada e organizada;Atuar em correções apontadas pelos clientes ou pela equipe de qualidade;Trabalhar em um processo de desenvolvimento de software altamente ágil e intensamente iterativo;Comunicar de forma clara e concisa sobre problemas técnicos;Trabalhar na criação e evolução de produtos da Agrotis e trabalhar em equipe e inter-times.
+Analisar soluções com base em requisitos e protótipos previamente fornecidos pelo o time de UX;
+Analisar soluções com base em requisitos e protótipos previamente fornecidos pelo o time de UX;
+Modelar dados e codificação de API's em monolitos e microserviços Java que processam regras de negócio complexas de uma forma eficaz, colaborando com nossa arquitetura web;
+Modelar dados e codificação de API's em monolitos e microserviços Java que processam regras de negócio complexas de uma forma eficaz, colaborando com nossa arquitetura web;
+Criar estruturas para atender novas funcionalidades de forma otimizada e organizada;
+Criar estruturas para atender novas funcionalidades de forma otimizada e organizada;
+Atuar em correções apontadas pelos clientes ou pela equipe de qualidade;
+Atuar em correções apontadas pelos clientes ou pela equipe de qualidade;
+Trabalhar em um processo de desenvolvimento de software altamente ágil e intensamente iterativo;
+Trabalhar em um processo de desenvolvimento de software altamente ágil e intensamente iterativo;
+Comunicar de forma clara e concisa sobre problemas técnicos;
+Comunicar de forma clara e concisa sobre problemas técnicos;
+Trabalhar na criação e evolução de produtos da Agrotis e trabalhar em equipe e inter-times.
+Trabalhar na criação e evolução de produtos da Agrotis e trabalhar em equipe e inter-times.
+REQUISITOS E QUALIFICAÇÕES
+Superior completo na área de TI;Experiência com desenvolvimento e consumo de API Rest na arquitetura Java;Experiência com Java 11, EJB, Spring Boot e JPA;Experiência com Testes Unitários (Junit/jupiter/mock) e análise de cobertura de testes;Experiência em modelagem de dados com estrutura e consultas otimizadas ao ganho de desempenho;Conhecimento e boas práticas de desenvolvimento de software, análise de informações e aplicações de soluções baseadas nos requisitos técnicos e novas funcionalidades;Disposto a aprender, interagir e compartilhar;Disponibilidade para viagens a cada 50 dias pelo período de uma semana para Curitiba (gastos custeados pela Agrotis).
+Superior completo na área de TI;
+Superior completo na área de TI;
+Experiência com desenvolvimento e consumo de API Rest na arquitetura Java;
+Experiência com desenvolvimento e consumo de API Rest na arquitetura Java;
+Experiência com Java 11, EJB, Spring Boot e JPA;
+Experiência com Java 11, EJB, Spring Boot e JPA;
+Experiência com Testes Unitários (Junit/jupiter/mock) e análise de cobertura de testes;
+Experiência com Testes Unitários (Junit/jupiter/mock) e análise de cobertura de testes;
+Experiência em modelagem de dados com estrutura e consultas otimizadas ao ganho de desempenho;
+Experiência em modelagem de dados com estrutura e consultas otimizadas ao ganho de desempenho;
+Conhecimento e boas práticas de desenvolvimento de software, análise de informações e aplicações de soluções baseadas nos requisitos técnicos e novas funcionalidades;
+Conhecimento e boas práticas de desenvolvimento de software, análise de informações e aplicações de soluções baseadas nos requisitos técnicos e novas funcionalidades;
+Disposto a aprender, interagir e compartilhar;
+Disposto a aprender, interagir e compartilhar;
+Disponibilidade para viagens a cada 50 dias pelo período de uma semana para Curitiba (gastos custeados pela Agrotis).
+Disponibilidade para viagens a cada 50 dias pelo período de uma semana para Curitiba (gastos custeados pela Agrotis).
+INFORMAÇÕES ADICIONAIS
+CLT
+Vale refeição de R$880,00/mês (desconto de R$176,00 em folha de pagamento);
+Vale transporte (sem desconto);
+Plano de saúde Unimed;
+Plano odontológico DentalUni;
+Seguro de vida;
+GymPass;
+TotalPass;
+Auxílio Educação;
+Ótimo ambiente, espaço para refeições, sala de descompressão com games, biblioteca, tênis de mesa e sinuca, café (nós adoramos café) e toda segunda-feira quitutes deliciosos.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Contratação2Contratação
+Etapa 2: Contratação
+2
+Contratação
+APAIXONADOS POR TECNOLOGIA E AGRONEGÓCIO
+Na Agrotis adoramos desafios pois assim aprimoramos constantemente nosso conhecimento e formas de atuação.
+Temos uma crença forte nos métodos ágeis, mas somos flexíveis o suficiente para adaptá-los quando as necessidades determinam.
+Acreditamos firmemente que a diversidade de experiências, perspectivas e incentivos nos levará a um ambiente melhor para nossos colaboradores e consequentemente um produto melhor para nossos usuários e clientes.
+Prezamos acima de tudo por um time de verdade. Valorizamos relacionamentos e somos orgulhosos em promover um local de trabalho agradável com um pouco de diversão em disputadas partidas de FIFA, tênis de mesa e sinuca. Ah! Também gostamos de cerveja e muito café!
+Valorizamos profundamente a inovação, assim convidamos e encorajamos todos a virem fazer parte da missão de levar a transformação digital para o agronegócio.
+E você, também é apaixonado por tecnologia e agronegócio?
+Então #VemPraAgrotis
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram

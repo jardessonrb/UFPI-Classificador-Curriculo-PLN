@@ -1,0 +1,155 @@
+link_vaga-https://stefanini.gupy.io/job/eyJqb2JJZCI6ODAxNTAyNywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR JAVA SÊNIOR - FULL STACK
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Na Stefanini, acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global.
+Ao se juntar à Stefanini, você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma oportunidade de crescimento profissional em uma empresa que valoriza inovação, respeito, autonomia e parceria, você encontra aqui!
+Junte-se a nós e seja parte da mudança!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Formação e experiência
+ •      Curso superior completo na área de TI
+•       Experiência na área de TI
+ Atividade negocial:
+ •       O candidato selecionado trabalhará com um produto  responsável por prover os serviços de tecnologia para suportar o processo de pagamento água, luz, telefone, tributos (municipais, estatuais e federais), Débito Automático, Serviço Digitais de Crédito(Recarda de Telefone, Uber, ifood, Google Play, Xbox etc.), e o pagamento de benefícios da Previdência Social por meio dos canais de pagamento da rede Sicoob e API’s de Open Banking e Banking As A Service.
+ Atividades técnicas:
+ •       Desenvolvimento e sustentação de soluções corporativas baseadas em arquitetura JEE.
+•       Operar com ferramentas de integração contínua e de implantação, repositório Git, atendimento de níveis aceitáveis de qualidade de código (Sonar).
+•       Confeccionar documentação técnica, construir testes unitários, acompanhar homologação e implantação em produção.
+•       Participar de projetos ágeis de desenvolvimento de software.
+ Conhecimentos técnicos necessários:
+ •       Java EE (sólido conhecimento em EJB, JAXRS, JPA e demais itens da especificação)
+•       Desenvolvimento de aplicativos WEB com arquitetura Restful API.
+•       HTML5/CSS3 e JavaScript.
+•       Bancos de dados relacionais.
+•       SQL ANSI com consultas avançadas.
+•       Repositório Git.
+ Conhecimentos técnicos desejados:
+ •       Arquitetura de aplicativos em alta disponibilidade.
+•       Experiência em servidor de aplicação IBM WAS 9 e Wildfly.
+•       Experiência em integração, entrega contínua e Devops.
+•       Manipulação de dados SQL Server e IBM DB2.
+•       NodeJS.
+Formato de atuação:
+•   Remoto. Preferencialmente residentes em Brasília/DF.
+
+REQUISITOS E QUALIFICAÇÕES
+Formação e experiência
+ •      Curso superior completo na área de TI
+•      Experiência na área de TI
+ Atividade negocial:
+ •       O candidato selecionado trabalhará com um produto responsável por prover os serviços de tecnologia para suportar o processo de pagamento água, luz, telefone, tributos (municipais, estatuais e federais), Débito Automático, Serviço Digitais de Crédito(Recarda de Telefone, Uber, ifood, Google Play, Xbox etc.), e o pagamento de benefícios da Previdência Social por meio dos canais de pagamento da rede Sicoob e API’s de Open Banking e Banking As A Service.
+ Atividades técnicas:
+ •       Desenvolvimento e sustentação de soluções corporativas baseadas em arquitetura JEE.
+•       Operar com ferramentas de integração contínua e de implantação, repositório Git, atendimento de níveis aceitáveis de qualidade de código (Sonar).
+•       Confeccionar documentação técnica, construir testes unitários, acompanhar homologação e implantação em produção.
+•       Participar de projetos ágeis de desenvolvimento de software.
+ Conhecimentos técnicos necessários:
+ •       Java EE (sólido conhecimento em EJB, JAXRS, JPA e demais itens da especificação)
+•       Desenvolvimento de aplicativos WEB com arquitetura Restful API.
+•       HTML5/CSS3 e JavaScript.
+•       Bancos de dados relacionais.
+•       SQL ANSI com consultas avançadas.
+•       Repositório Git.
+ Conhecimentos técnicos desejados:
+ •       Arquitetura de aplicativos em alta disponibilidade.
+•       Experiência em servidor de aplicação IBM WAS 9 e Wildfly.
+•       Experiência em integração, entrega contínua e Devops.
+•       Manipulação de dados SQL Server e IBM DB2.
+•       NodeJS.
+Formato de atuação:
+•   Remoto. Preferencialmente residentes em Brasília/DF.
+INFORMAÇÕES ADICIONAIS
+O que te oferecemos:
+🍛 Vale Alimentação ou Vale Refeição;
+🍛 
+Vale Alimentação ou Vale Refeição;
+👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas; 
+Desconto em cursos, universidades e instituições de idiomas; 
+📚 Academia Stefanini - plataforma com cursos online, gratuitos, atualizados e com certificado; 
+📚 
+Academia Stefanini - plataforma com cursos online, gratuitos, atualizados e com certificado; 
+🗣 Mentoring;
+🗣 
+Mentoring;
+🏫 Auxílio Creche; 
+Auxílio Creche; 
+💉 Clube de vantagens para consultas e exames;
+Clube de vantagens para consultas e exames;
+🏥 Assistência Médica;
+Assistência Médica;
+🦷Assistência Odontológica; 
+Assistência Odontológica; 
+💰 Clube de vantagens e descontos nos melhores estabelecimentos;
+Clube de vantagens e descontos nos melhores estabelecimentos;
+👂🏾 Atendimento psicológico online ao colaborador;
+ 
+Atendimento psicológico online ao colaborador;
+🛫 Clube de viagens;
+Clube de viagens;
+🐶 Convênio para Pet;
+Convênio para Pet;
+e muito mais...
+e muito mais...
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Fit Cultural2Fit Cultural
+Etapa 2: Fit Cultural
+2
+Fit Cultural
+Etapa 3: Bate papo com Gente & Cultura3Bate papo com Gente & Cultura
+Etapa 3: Bate papo com Gente & Cultura
+3
+Bate papo com Gente & Cultura
+Etapa 4: Bate papo com Gestão4Bate papo com Gestão
+Etapa 4: Bate papo com Gestão
+4
+Bate papo com Gestão
+Etapa 5: Carta proposta5Carta proposta
+Etapa 5: Carta proposta
+5
+Carta proposta
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+WE ARE STEFANINI
+Somos uma multinacional brasileira com mais de 30 anos de atuação no ecossistema de inovação. 
+Entregamos soluções eficazes que auxiliam os nossos clientes em suas jornadas digitais, sempre aplicando o nosso propósito de tornar a tecnologia um agente de mudança para um mundo melhor. Você quer transformar o futuro? A gente também. 🚀
+Entregamos soluções eficazes que auxiliam os nossos clientes em suas jornadas digitais, sempre aplicando o nosso propósito de tornar a tecnologia um agente de mudança para um mundo melhor. Você quer transformar o futuro? A gente também. 🚀
+| + de 40 países | + de 30 empresas no Grupo | + de 30 mil colaboradores | + de 80 soluções |
+7 pilares guiam a nossa cultura, são eles:
+⭐ Inovar com o cliente;
+⭐ Inovar com o cliente;
+⭐ Fazer a diferença;
+⭐ Fazer a diferença;
+⭐ Liderar pelo exemplo;
+⭐ Liderar pelo exemplo;
+⭐ Agir como empreendedor;
+⭐ Agir como empreendedor;
+⭐ Ser ético e de acordo com o que fala;
+⭐ Ser ético e de acordo com o que fala;
+⭐ Acreditar e respeitar as pessoas;
+⭐ Acreditar e respeitar as pessoas;
+⭐ Ter humildade em aprender.
+⭐ Ter humildade em aprender.
+Acreditamos que a verdadeira mudança só pode ser alcançada quando observamos o mundo por diferentes perspectivas, aqui a inovação floresce em uma atmosfera de respeito mútuo, em que as ideias são ouvidas e valorizadas independentemente de raça, cor, orientação sexual, ascendência, religião, gênero, nacionalidade, identidade de gênero, deficiência ou idade. 💙 #WeAreStefanini #OrgulhoDeSerStefanini #CarreiraStefanini
+Acreditamos que a verdadeira mudança só pode ser alcançada quando observamos o mundo por diferentes perspectivas, aqui a inovação floresce em uma atmosfera de respeito mútuo, em que as ideias são ouvidas e valorizadas independentemente de raça, cor, orientação sexual, ascendência, religião, gênero, nacionalidade, identidade de gênero, deficiência ou idade. 💙 
+🏆 Prêmio Innovative Workplaces Brasil 2023 pela MIT Technology Review Brasil.
+CONFIRA NOSSAS REDES SOCIAIS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

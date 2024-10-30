@@ -1,0 +1,165 @@
+link_vaga-https://ibluetech.gupy.io/job/eyJqb2JJZCI6NzM1ODA0NSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+[WG] FULLSTACK SENIOR - REMOTO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+DESCRIÇÃO DA VAGAOuvir, criar e inspirar a transformação digital dos nossos clientes é o que nos motiva.crDe pessoas para pessoas 😍Acreditamos que, mais do que tecnologia, a transformação digital é sobre como as pessoas conduzem as mudanças nas empresas. E por entender isso, o fator humano é o que nos faz evoluir e modernizar processos.Não é somente mais uma oportunidade ... e sim um convite para você fazer parte dessa história. Estamos entre as 50 melhores empresas para se trabalhar no Rio de JaneiroNa iblue Consulting você vai trabalhar com uma equipe multidisciplinar, que é responsável por alavancar o crescimento do negocio através das nossas pessoas. 🚀
+
+Ouvir, criar e inspirar a transformação digital dos nossos clientes é o que nos motiva.cr
+cr
+Acreditamos que, mais do que tecnologia, a transformação digital é sobre como as pessoas conduzem as mudanças nas empresas. E por entender isso, o fator humano é o que nos faz evoluir e modernizar processos.
+Não é somente mais uma oportunidade ... e sim um convite para você fazer parte dessa história. Estamos entre as 50 melhores empresas para se trabalhar no Rio de Janeiro
+Na iblue Consulting você vai trabalhar com uma equipe multidisciplinar, que é responsável por alavancar o crescimento do negocio através das nossas pessoas. 🚀
+RESPONSABILIDADES E ATRIBUIÇÕES
+RESPONSABILIDADES E ATRIBUIÇÕESComo será o seu dia a dia 👩‍💻Escrever códigos bem estruturados, eficientes e testáveis utilizando as melhores práticas de desenvolvimento de softwares;Refinar especificações e requisitos com base em necessidades técnicas; Acompanhar e solucionar atividades de desenvolvimento que possam impactar clientes internos, bem como desenvolver módulos de melhorias para o sucesso do projeto;Participar de Daily com equipe;Ler documentações internas e interagir com equipes em busca de informações necessárias para as respostas mais aderentes;Participar de reuniões técnicas com equipes para chegar nas melhores soluções tecnológicas;Desenvolvimento e implementação de aplicações Java;Execução de queries e DDL para criação e manutenção de objetos (procedures, triggers etc);Consumo de API´s;Compreender a arquitetura já utilizada;Identificar e construir os testes de desenvolvedor que cubram o comportamento desejado dos componentes técnicos;Desenvolver funcionalidades com qualidade e manutenibilidade; Trabalhar de forma colaborativa; Atuar com métodos de gestão ágil e com melhoria contínua.
+
+Escrever códigos bem estruturados, eficientes e testáveis utilizando as melhores práticas de desenvolvimento de softwares;
+Refinar especificações e requisitos com base em necessidades técnicas; 
+Acompanhar e solucionar atividades de desenvolvimento que possam impactar clientes internos, bem como desenvolver módulos de melhorias para o sucesso do projeto;
+Participar de Daily com equipe;
+Ler documentações internas e interagir com equipes em busca de informações necessárias para as respostas mais aderentes;
+Participar de reuniões técnicas com equipes para chegar nas melhores soluções tecnológicas;
+Desenvolvimento e implementação de aplicações Java;
+Execução de queries e DDL para criação e manutenção de objetos (procedures, triggers etc);
+Consumo de API´s;
+Compreender a arquitetura já utilizada;
+Identificar e construir os testes de desenvolvedor que cubram o comportamento desejado dos componentes técnicos;
+Desenvolver funcionalidades com qualidade e manutenibilidade; 
+Trabalhar de forma colaborativa; 
+Atuar com métodos de gestão ágil e com melhoria contínua.
+REQUISITOS E QUALIFICAÇÕES
+REQUISITOS E QUALIFICAÇÕESO que esperamos de você 🧐Expertise em ReactJS (Create-React-App / NextJs)Gerenciamento de estado (Redux / MobX / Recoil)Separação e desenvolvimento de componentesIsolamento de responsabilidadeDefinição de estiloBibliotecas de UIFerramentas de testes (Jest / Cypress)Javascript / TypescriptHTML e CSS modernosVersionamento de código com Git e pipeline via GitlabVivência em containers (Docker / Kubernetes)Expertise em desenvolvimento Java (Springboot / Quarkus )JPA / HibernateSeparação em camadas (Clean Architecture, SOLID)Tunning de JVMDesenho de API`s padronizadas (OpenAPI, OAuth / OpenId Connect)Desenvolvimento orientado a testes (Unitários e integrados)Banco de dados relacionais (Oracle/Postgres) e não relacionais (MongoDB, Elasticsearch)Metodologia de desenvolvimento ágil (Scrum / Kanban)Capacidade de Análise (resolução de problemas)Capacidade de inovar/criatividadeComunicaçãoComprometimento com prazos e resultadosFacilitadorFlexibilidadeOrganização
+
+Expertise em ReactJS (Create-React-App / NextJs)
+Gerenciamento de estado (Redux / MobX / Recoil)
+Separação e desenvolvimento de componentes
+Isolamento de responsabilidade
+Definição de estilo
+Bibliotecas de UI
+Ferramentas de testes (Jest / Cypress)
+Javascript / Typescript
+HTML e CSS modernos
+Versionamento de código com Git e pipeline via Gitlab
+Vivência em containers (Docker / Kubernetes)
+Expertise em desenvolvimento Java (Springboot / Quarkus )
+JPA / Hibernate
+Separação em camadas (Clean Architecture, SOLID)
+Tunning de JVM
+Desenho de API`s padronizadas (OpenAPI, OAuth / OpenId Connect)
+Desenvolvimento orientado a testes (Unitários e integrados)
+Banco de dados relacionais (Oracle/Postgres) e não relacionais (MongoDB, Elasticsearch)
+Metodologia de desenvolvimento ágil (Scrum / Kanban)
+Capacidade de Análise (resolução de problemas)
+Capacidade de inovar/criatividade
+Comunicação
+Comprometimento com prazos e resultados
+Facilitador
+Flexibilidade
+Organização
+INFORMAÇÕES ADICIONAIS
+INFORMAÇÕES ADICIONAISO que você terá do lado azul 🚀💙CLT 👇Programa de Sáude e Bem-Estar 🧘‍♀️🧘‍♂️Plano de Saúde SulAmerica para você (cobertura nacional, enfermaria e com coparticipação);Seguro de Vida Icatu;Plano de Academias TotalPass.Para apoiar o seu dia a dia 😁Notebook de última geração;Vale Transporte;Cartão VR - Vale Refeição: R$ 742,28 (média 22 dias úteis/mês )Damos a liberdade de escolher incluir os valores de VR ou no cartão Flash para você utilizar do jeito que você quiser;Bônus por indicação de candidatos;Bônus Anual: Até um salário, de acordo com sua performance na avaliação de desempenho e atingimento de metas;Convênio Financeira Creditas.Se você é do Rio de Janeiro - Sexta é o dia Happy Hour a partir das 17h no nosso escritório.Para sua carreira🚀Avaliação de Desempenho Anual com PDI – Plano de Desenvolvimento Individual;Treinamentos Udemy e Saleforce ; Certificações (AWS, Microsoft e IBM);Parcerias educacionais (com possibilidade de ajuda de custo atrelado a sua avaliação de desempenho e PDI)Trilha de carreira estruturada Y (aqui você pode escolher o caminho para ser Gestor ou EspecialistaPJ (Prestador de Serviços) 👇Para apoiar o seu dia a dia 😁Notebook de última geração;Bônus por indicação de candidatos;Se você é do Rio de Janeiro - Sexta é o dia Happy Hour a partir das 17:00 no nosso escritório.Treinamentos; Certificações (AWS, Microsoft e IBM).CONHEÇA NOSSA HISTÓRIA"O trabalho diz muito sobre você, porque você coloca energia e sentimento no que você faz” - Rafael D’Alessandro, CEO da iblue. Deixa-me fazer uma pergunta: Já sentiu como se algo estivesse faltando na sua carreira e que apesar de toda sua experiência em grandes empresas no mercado, ainda existe um déficit de energia, propósito e direção?Esse incômodo fez com que o nosso fundador e CEO, Rafael D’Alessandro, unisse sua crença pessoal nas metodologias ágeis e na transformação digital, para arriscar seus mais de 20 anos de atuação no mercado de T.I e criar o que somos hoje.A iblue, uma consultoria digital, surge do desejo de formar uma empresa diferente, que acredita no fator humano como principal razão para alavancar resultados. Acreditamos no impacto grandioso de cada pequena decisão, gerada a partir de pessoas que buscam autonomia e sempre questionam processos a fim de otimizá-los.Por aqui, empoderamos cada ibluer para que entendam o poder das microrrevoluções e absorvam que fomentar a inovação depende de cada pequeno ato, a fim de encontrar soluções, errar rápido, aprender com os erros e trabalhar em conjunto para alcançar o sucesso. Quer fazer parte do nosso mundo azul? #vemseribluer 💙🚀
+
+Plano de Saúde SulAmerica para você (cobertura nacional, enfermaria e com coparticipação);
+Plano de Saúde SulAmerica para você (cobertura nacional, enfermaria e com coparticipação);
+Seguro de Vida Icatu;
+Seguro de Vida Icatu;
+Plano de Academias TotalPass.
+Plano de Academias TotalPass.
+Notebook de última geração;
+Notebook de última geração;
+Vale Transporte;
+Vale Transporte;
+Cartão VR - Vale Refeição: R$ 742,28 (média 22 dias úteis/mês )
+Cartão VR - Vale Refeição: R$ 742,28 (média 22 dias úteis/mês )
+Damos a liberdade de escolher incluir os valores de VR ou no cartão Flash para você utilizar do jeito que você quiser;
+Damos a liberdade de escolher incluir os valores de VR ou no cartão Flash para você utilizar do jeito que você quiser;
+Bônus por indicação de candidatos;
+Bônus por indicação de candidatos;
+Bônus Anual: Até um salário, de acordo com sua performance na avaliação de desempenho e atingimento de metas;
+Bônus Anual: Até um salário, de acordo com sua performance na avaliação de desempenho e atingimento de metas;
+Convênio Financeira Creditas.
+Convênio Financeira Creditas.
+Se você é do Rio de Janeiro - Sexta é o dia Happy Hour a partir das 17h no nosso escritório.
+Se você é do Rio de Janeiro - Sexta é o dia Happy Hour a partir das 17h no nosso escritório.
+🚀
+Avaliação de Desempenho Anual com PDI – Plano de Desenvolvimento Individual;
+Avaliação de Desempenho Anual com PDI – Plano de Desenvolvimento Individual;
+Treinamentos Udemy e Saleforce ; 
+Treinamentos Udemy e Saleforce ; 
+Certificações (AWS, Microsoft e IBM);
+Certificações (AWS, Microsoft e IBM);
+Parcerias educacionais (com possibilidade de ajuda de custo atrelado a sua avaliação de desempenho e PDI)
+Parcerias educacionais (com possibilidade de ajuda de custo atrelado a sua avaliação de desempenho e PDI)
+Trilha de carreira estruturada Y (aqui você pode escolher o caminho para ser Gestor ou Especialista
+Notebook de última geração;
+Bônus por indicação de candidatos;
+Se você é do Rio de Janeiro - Sexta é o dia Happy Hour a partir das 17:00 no nosso escritório.
+Treinamentos; 
+Certificações (AWS, Microsoft e IBM).
+
+"O trabalho diz muito sobre você, porque você coloca energia e sentimento no que você faz” - Rafael D’Alessandro, CEO da iblue.
+Rafael D’Alessandro, CEO da iblue.
+ 
+ 
+Deixa-me fazer uma pergunta: Já sentiu como se algo estivesse faltando na sua carreira e que apesar de toda sua experiência em grandes empresas no mercado, ainda existe um déficit de energia, propósito e direção?
+Deixa-me fazer uma pergunta: Já sentiu como se algo estivesse faltando na sua carreira e que apesar de toda sua experiência em grandes empresas no mercado, ainda existe um déficit de energia, propósito e direção?
+Esse incômodo fez com que o nosso fundador e CEO, Rafael D’Alessandro, unisse sua crença pessoal nas metodologias ágeis e na transformação digital, para arriscar seus mais de 20 anos de atuação no mercado de T.I e criar o que somos hoje.
+Esse incômodo fez com que o nosso fundador e CEO, 
+, unisse sua crença pessoal nas metodologias ágeis e na transformação digital, para arriscar seus mais de 20 anos de atuação no mercado de T.I e criar o que somos hoje.
+A iblue, uma consultoria digital, surge do desejo de formar uma empresa diferente, que acredita no fator humano como principal razão para alavancar resultados. Acreditamos no impacto grandioso de cada pequena decisão, gerada a partir de pessoas que buscam autonomia e sempre questionam processos a fim de otimizá-los.
+A iblue, uma consultoria digital, surge do desejo de formar uma empresa diferente, que acredita no fator humano como principal razão para alavancar resultados. Acreditamos no impacto grandioso de cada pequena decisão, gerada a partir de pessoas que buscam autonomia e sempre questionam processos a fim de otimizá-los.
+Por aqui, empoderamos cada ibluer para que entendam o poder das microrrevoluções e absorvam que fomentar a inovação depende de cada pequeno ato, a fim de encontrar soluções, errar rápido, aprender com os erros e trabalhar em conjunto para alcançar o sucesso. 
+Por aqui, empoderamos cada ibluer para que entendam o poder das microrrevoluções e absorvam que fomentar a inovação depende de cada pequeno ato, a fim de encontrar soluções, errar rápido, aprender com os erros e trabalhar em conjunto para alcançar o sucesso. 
+Quer fazer parte do nosso mundo azul? #vemseribluer 💙🚀
+Quer fazer parte do nosso mundo azul? #vemseribluer 💙🚀
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista com o RH2Entrevista com o RH
+Etapa 2: Entrevista com o RH
+2
+Entrevista com o RH
+Etapa 3: Entrevista com o gestor3Entrevista com o gestor
+Etapa 3: Entrevista com o gestor
+3
+Entrevista com o gestor
+Etapa 4: Teste Técnico4Teste Técnico
+Etapa 4: Teste Técnico
+4
+Teste Técnico
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+CONHEÇA NOSSA HISTÓRIA
+"O trabalho diz muito sobre você, porque você coloca energia e sentimento no que você faz” - Rafael D’Alessandro, CEO da iBlue.
+Rafael D’Alessandro, CEO da iBlue.
+ 
+ 
+Deixa-me fazer uma pergunta: Já sentiu como se algo estivesse faltando na sua carreira e que apesar de toda sua experiência em grandes empresas no mercado, ainda existe um déficit de energia, propósito e direção?
+Deixa-me fazer uma pergunta: Já sentiu como se algo estivesse faltando na sua carreira e que apesar de toda sua experiência em grandes empresas no mercado, ainda existe um déficit de energia, propósito e direção?
+Esse incômodo fez com que o nosso fundador e CEO, Rafael D’Alessandro, unisse sua crença pessoal nas metodologias ágeis e na transformação digital, para arriscar seus mais de 20 anos de atuação no mercado de T.I e criar o que somos hoje. 
+Esse incômodo fez com que o nosso fundador e CEO, 
+, unisse sua crença pessoal nas metodologias ágeis e na transformação digital, para arriscar seus mais de 20 anos de atuação no mercado de T.I e criar o que somos hoje. 
+A iBlue, uma consultoria digital, surge do desejo de formar uma empresa diferente, que acredita no fator humano como principal razão para alavancar resultados. Acreditamos no impacto grandioso de cada pequena decisão, gerada a partir de pessoas que buscam autonomia e sempre questionam processos a fim de otimizá-los.
+A iBlue, uma consultoria digital, surge do desejo de formar uma empresa diferente, que acredita no fator humano como principal razão para alavancar resultados. Acreditamos no impacto grandioso de cada pequena decisão, gerada a partir de pessoas que buscam autonomia e sempre questionam processos a fim de otimizá-los.
+Por aqui, empoderamos cada iBluer para que entendam o poder das microrrevoluções e absorvam que fomentar a inovação depende de cada pequeno ato, a fim de encontrar soluções, errar rápido, aprender com os erros e trabalhar em conjunto para alcançar o sucesso. 
+Por aqui, empoderamos cada iBluer para que entendam o poder das microrrevoluções e absorvam que fomentar a inovação depende de cada pequeno ato, a fim de encontrar soluções, errar rápido, aprender com os erros e trabalhar em conjunto para alcançar o sucesso. 
+Quer fazer parte do nosso mundo azul? #vemseriBluer 💙🚀
+Quer fazer parte do nosso mundo azul? #vemseriBluer 💙🚀
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

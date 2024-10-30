@@ -1,0 +1,86 @@
+link_vaga-https://minsait.gupy.io/job/eyJqb2JJZCI6Nzk1Njk4NSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDORES FULLSTACK ANGULAR E JAVA
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Somos aproximadamente 50k Minsaiters no Mundo e mais de 7k Minsaiters no Brasil e estamos presentes nas maiores empresas em todos os setores. Nossa estrutura permite participar de projetos globais e proporciona um ambiente colaborativo que nos certifica em GreatPlacesToWork e planos diferenciados para Jovens Profissionais também reconhecidos pela Employers for Youth. 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolvimento de testes unitários: Experiência em criar e manter testes unitários tanto em Angular quanto em Java, garantindo a qualidade do código.Integração com bancos de dados: Capacidade de desenvolver integrações robustas com bancos de dados utilizando Java.Consumo e integração de APIs: Habilidade comprovada em consumir APIs RESTful, utilizando ferramentas como Postman para testes e depuração.Colaboração com Figma: Familiaridade com Figma para trabalhar de forma colaborativa com equipes de design, garantindo a fidelidade das implementações.Controle de versionamento com Git: Proficiência em Git Flow, garantindo um fluxo de trabalho organizado e eficiente.Integração com filas de mensagens: Experiência no consumo de filas, como RabbitMQ, para arquitetura de sistemas distribuídos.
+Desenvolvimento de testes unitários: Experiência em criar e manter testes unitários tanto em Angular quanto em Java, garantindo a qualidade do código.
+Integração com bancos de dados: Capacidade de desenvolver integrações robustas com bancos de dados utilizando Java.
+Consumo e integração de APIs: Habilidade comprovada em consumir APIs RESTful, utilizando ferramentas como Postman para testes e depuração.
+Colaboração com Figma: Familiaridade com Figma para trabalhar de forma colaborativa com equipes de design, garantindo a fidelidade das implementações.
+Controle de versionamento com Git: Proficiência em Git Flow, garantindo um fluxo de trabalho organizado e eficiente.
+Integração com filas de mensagens: Experiência no consumo de filas, como RabbitMQ, para arquitetura de sistemas distribuídos.
+REQUISITOS E QUALIFICAÇÕES
+Experiência em Angular: Especialmente nas versões 8 ou superiores, com capacidade de se manter atualizado com as versões mais recentes e adotar novas práticas do framework.Experiência em Java: Foco nas versões 5 ou superiores, com aptidão para acompanhar as atualizações da tecnologia e implementar soluções robustas.Conhecimento em Design System: Capacidade de implementar e manter design systems, garantindo a consistência visual e funcional das aplicações.Metodologias Ágeis: Experiência prática com metodologias ágeis, como Scrum e Kanban, para gerenciamento e desenvolvimento de projetos.Bancos de dados: Experiência em bancos de dados relacionais (SQL Server, Oracle) e não-relacionais (MongoDB, Redis), incluindo integração via Java.Superior Completo ou Cursando;Espanhol para comunicação com o time da Espanha;
+Experiência em Angular: Especialmente nas versões 8 ou superiores, com capacidade de se manter atualizado com as versões mais recentes e adotar novas práticas do framework.
+Experiência em Java: Foco nas versões 5 ou superiores, com aptidão para acompanhar as atualizações da tecnologia e implementar soluções robustas.
+Conhecimento em Design System: Capacidade de implementar e manter design systems, garantindo a consistência visual e funcional das aplicações.
+Metodologias Ágeis: Experiência prática com metodologias ágeis, como Scrum e Kanban, para gerenciamento e desenvolvimento de projetos.
+Bancos de dados: Experiência em bancos de dados relacionais (SQL Server, Oracle) e não-relacionais (MongoDB, Redis), incluindo integração via Java.
+Superior Completo ou Cursando;
+Espanhol para comunicação com o time da Espanha;
+INFORMAÇÕES ADICIONAIS
+TRABALHE NA MINSAIT
+ 
+Modelo de contratação CLT.
+Plano de Saúde subsidiado pela empresa para o titular.
+Opção de inclusão de dependentes no Plano de Saúde com desconto em folha de pagamento.
+Assistência Odontológica (opcional).
+Opção de inclusão de dependentes no Plano de Assistência Odontológica com desconto em folha de pagamento.
+Vale Refeição no cartão Flash Benefícios.
+Vale Transporte (opcional).
+POP - Programa de Orientação Pessoal que visa oferecer suporte emocional e aconselhamento com orientação confidencial nas áreas psicológica, jurídica, financeira, social e pet sem custo para titular e dependentes legais.
+Plataforma de Saúde Wellhub-Gympass (Acesso a mais de 700 academias em todo o Brasil com planos descontado em folha de pagamento).
+Parcerias com grandes marcas de consumo.
+Convênio com o SESC para titular e dependentes.
+Convênios para descontos com instituições de ensino (graduação e pós-graduação) e escola de idiomas.
+Seguro de vida em grupo.
+ 
+Nosso compromisso com a diversidade é um elemento-chave da nossa cultura: Igualdade de oportunidades, respeito pelas pessoas e não discriminação são princípios de atuação para todos os profissionais da Minsait. Integramos o Bloomberg Gender-Equality Index (GEI) 2021 em termos de diversidade e igualdade de gênero.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Mapeamento de Perfil 2Mapeamento de Perfil 
+Etapa 2: Mapeamento de Perfil 
+2
+Mapeamento de Perfil 
+Etapa 3: Entrevista RH3Entrevista RH
+Etapa 3: Entrevista RH
+3
+Entrevista RH
+Etapa 4: Entrevista com Gestão4Entrevista com Gestão
+Etapa 4: Entrevista com Gestão
+4
+Entrevista com Gestão
+Etapa 5: Oferta5Oferta
+Etapa 5: Oferta
+5
+Oferta
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+OLÁ, SOMOS A MINSAIT!
+A Minsait é uma empresa do grupo Indra. Somos uma empresa de transformação digital e tecnologia da informação que oferece a seus clientes de diferentes segmentos tecnologias disruptivas e serviços especializados.
+Estamos presentes em mais de 140 países, e combinamos nossa experiência em Cloud, Segurança, Payments e Phygital com a tecnologia mais inovadora para impulsionar nossos negócios, gerando um impacto positivo na sociedade. Nosso objetivo é liderar uma revolução tecnológica mais humana.
+Há mais 25 anos no Brasil, somos reconhecidos por oferecer um ambiente estimulante, aprendizado contínuo, oportunidades de crescimento e mobilidade nacional e internacional para nossos talentos. Nossos mais de 7.000 profissionais espalhados de norte a sul do país, atestam nossa cultura de respeito, diversidade e inclusão.
+Em 2023 conquistamos pelo terceiro ano consecutivo a certificação do Great Place to Work Institute (GPTW), que revela que as pessoas são felizes aqui, graças ao clima positivo que todos nós construímos juntos. Além disso, somos reconhecidos como uma das Melhores Empresas para Jovens Profissionais em Tecnologia, de acordo com o estudo da EFY Tech Brasil, também por três anos seguidos, além de recebermos o selo Bloomberg de igualdade de gênero, uma referência reconhecida para empresas para acompanhar seu progresso na inclusão de gênero.
+Todas as vagas são abertas também para PCDs.
+ Vem ser Minsaiter!
+CONHEÇA MAIS SOBRE A MINSAIT
+Website
+LinkedIn
+Instagram
+Glassdoor

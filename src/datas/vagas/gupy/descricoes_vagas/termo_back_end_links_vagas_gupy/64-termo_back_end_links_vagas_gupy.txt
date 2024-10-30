@@ -1,0 +1,88 @@
+link_vaga-https://77sol.gupy.io/job/eyJqb2JJZCI6NzYyODQ0OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA BACK-END SÊNIOR PHP
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+DESCRIÇÃO DA VAGA
+A 77Sol é uma energytech de energia solar, que através da tecnologia busca oferecer os melhores equipamentos, financiamentos e profissionais para a criação de energia sustentável e infinita.
+A 77Sol é uma energytech de energia solar, que através da tecnologia busca oferecer os melhores equipamentos, financiamentos e profissionais para a criação de energia sustentável e infinita.
+Estamos em busca de uma pessoa pró-ativa, organizada, orientada a metas, capaz de trabalhar em equipe e se comunicar assertivamente, e com muita vontade de aprender para compor o nosso time de Tecnologia. Se você gosta de desafios e quer se desenvolver em uma startup de crescimento acelerado e com propósito, aqui é o seu lugar!
+Se você gosta de desafios e quer se desenvolver em uma startup de crescimento acelerado e com propósito, aqui é o seu lugar!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Criar códigos limpos e com qualidade, a partir de demandas internas, a fim de melhorar a nossa plataforma e auxiliar na criação de novos produtos;Acompanhar o versionamento dos códigos e alinhar as atividades compartilhadas com outros backends a fim de evitar retrabalhos;Realizar o code review das demandas para garantir o cumprimento das regras de negócios e qualidade de código;Solucionar bugs gerais, tanto no momento de produção com os QAs, quanto incidentes, detectados através da usabilidade dos clientes;Acompanhar as solicitações de resolução de incidentes vindas através das áreas internas e repassadas através dos nossos PMs; Orientar e acompanhar os juniores e plenos no desenvolvimento de suas competências técnicas e na evolução de suas responsabilidades;Subir os códigos criados pelo time de back-end para produção nas plataformas internas, bem como a validação das funcionalidades após o deploy;Implementar medidas de segurança, tais como autenticação, autorização e criptografia, para proteger os dados e garantir a integridade do sistema;Otimizar os códigos e infraestrutura para garantir que o aplicativo funcione de uma forma eficiente e escalável;Configurar sistemas de monitoramento e logging para acompanhar o desempenho da aplicação;Realizar testes de unidade e integração para garantir a qualidade do código. 
+Criar códigos limpos e com qualidade, a partir de demandas internas, a fim de melhorar a nossa plataforma e auxiliar na criação de novos produtos;
+Acompanhar o versionamento dos códigos e alinhar as atividades compartilhadas com outros backends a fim de evitar retrabalhos;
+Realizar o code review das demandas para garantir o cumprimento das regras de negócios e qualidade de código;
+Solucionar bugs gerais, tanto no momento de produção com os QAs, quanto incidentes, detectados através da usabilidade dos clientes;
+Acompanhar as solicitações de resolução de incidentes vindas através das áreas internas e repassadas através dos nossos PMs; 
+Orientar e acompanhar os juniores e plenos no desenvolvimento de suas competências técnicas e na evolução de suas responsabilidades;
+Subir os códigos criados pelo time de back-end para produção nas plataformas internas, bem como a validação das funcionalidades após o deploy;
+Implementar medidas de segurança, tais como autenticação, autorização e criptografia, para proteger os dados e garantir a integridade do sistema;
+Otimizar os códigos e infraestrutura para garantir que o aplicativo funcione de uma forma eficiente e escalável;
+Configurar sistemas de monitoramento e logging para acompanhar o desempenho da aplicação;
+Realizar testes de unidade e integração para garantir a qualidade do código. 
+REQUISITOS E QUALIFICAÇÕES
+Profissional com experiência em desenvolvimento back-end com PHP Laravel;4 - 7 anos de experiência com PHP e Laravel;Experiência com Git, Linux, Docker e bancos de dados SQL;Conhecimento sólido em bancos de dados relacionais e NoSQL;Conhecimento em padrões de design e boas práticas para desenvolvimento em Laravel;Capacidade de criar, manter e melhorar APIs RESTful;Expertise em Laravel: Profundo conhecimento e experiência prática com o framework Laravel, incluindo a criação e manutenção de aplicativos robustos e escaláveis.Padrões de Codificação: Familiaridade com padrões de codificação e melhores práticas em PHP e Laravel, incluindo PSR.Habilidade para trabalhar efetivamente em equipe e comunicar ideias de maneira clara;Testes e Depuração: Experiência em escrever testes unitários e funcionais automatizados, bem como habilidades sólidas em depuração e resolução de problemas.Documentação com Swagger: Experiência em documentar APIs utilizando a especificação OpenAPI (anteriormente conhecida como Swagger). Capacidade de criar documentação clara e detalhada para facilitar a integração de front-end e a compreensão dos endpoints disponíveis.Boas Práticas de Segurança: Conhecimento profundo em práticas de segurança para o desenvolvimento de aplicações web, incluindo proteção contra ataques comuns (XSS, CSRF, SQL Injection, etc.) e implementação de autenticação e autorização seguras.Conhecimento em Arquitetura de Software: Capacidade de analisar e propor melhorias na arquitetura atual, garantindo a modularidade, reutilização e manutenção do código.Automatização e CI/CD: Experiência em pipelines de CI/CD e práticas de automação de testes e deploys para garantir entregas contínuas e de qualidade.Performance e Otimização: Experiência em monitoramento de desempenho e otimização de queries, caches e recursos de backend para garantir a alta performance da aplicação.
+Profissional com experiência em desenvolvimento back-end com PHP Laravel;
+4 - 7 anos de experiência com PHP e Laravel;
+Experiência com Git, Linux, Docker e bancos de dados SQL;
+Conhecimento sólido em bancos de dados relacionais e NoSQL;
+Conhecimento em padrões de design e boas práticas para desenvolvimento em Laravel;
+Capacidade de criar, manter e melhorar APIs RESTful;
+Expertise em Laravel: Profundo conhecimento e experiência prática com o framework Laravel, incluindo a criação e manutenção de aplicativos robustos e escaláveis.
+Padrões de Codificação: Familiaridade com padrões de codificação e melhores práticas em PHP e Laravel, incluindo PSR.
+Habilidade para trabalhar efetivamente em equipe e comunicar ideias de maneira clara;
+Testes e Depuração: Experiência em escrever testes unitários e funcionais automatizados, bem como habilidades sólidas em depuração e resolução de problemas.
+Documentação com Swagger: Experiência em documentar APIs utilizando a especificação OpenAPI (anteriormente conhecida como Swagger). Capacidade de criar documentação clara e detalhada para facilitar a integração de front-end e a compreensão dos endpoints disponíveis.
+Boas Práticas de Segurança: Conhecimento profundo em práticas de segurança para o desenvolvimento de aplicações web, incluindo proteção contra ataques comuns (XSS, CSRF, SQL Injection, etc.) e implementação de autenticação e autorização seguras.
+Conhecimento em Arquitetura de Software: Capacidade de analisar e propor melhorias na arquitetura atual, garantindo a modularidade, reutilização e manutenção do código.
+Automatização e CI/CD: Experiência em pipelines de CI/CD e práticas de automação de testes e deploys para garantir entregas contínuas e de qualidade.
+Performance e Otimização: Experiência em monitoramento de desempenho e otimização de queries, caches e recursos de backend para garantir a alta performance da aplicação.
+INFORMAÇÕES ADICIONAIS
+💳 Vale alimentação (cartão flexivel);🏥 Plano de Saúde;🏋🏽‍♂️ Gympass;🏖️ Descanso remunerado;🎂Dayoff de aniversário;🚍 Vale Transporte.Modelo de contratação híbrida (2x presenciais por mês na Vila Olímpia, SP).Contratação CLT.
+💳 Vale alimentação (cartão flexivel);
+💳 Vale alimentação (cartão flexivel);
+🏥 Plano de Saúde;
+🏥 Plano de Saúde;
+🏋🏽‍♂️ Gympass;
+🏋🏽‍♂️ Gympass;
+🏖️ Descanso remunerado;
+🏖️ Descanso remunerado;
+🎂Dayoff de aniversário;
+Dayoff de aniversário;
+🚍 Vale Transporte.
+🚍 Vale Transporte.
+Modelo de contratação híbrida (2x presenciais por mês na Vila Olímpia, SP).
+Modelo de contratação híbrida (
+).
+Contratação CLT.
+Contratação CLT.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Bate-papo com People2Bate-papo com People
+Etapa 2: Bate-papo com People
+2
+Bate-papo com People
+Etapa 3: Case3Case
+Etapa 3: Case
+3
+Case
+Etapa 4: Bate-Papo com Gestor4Bate-Papo com Gestor
+Etapa 4: Bate-Papo com Gestor
+4
+Bate-Papo com Gestor
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+PROFISSIONALIZAÇÃO, INOVAÇÃO E INFORMAÇÃO!
+A 77Sol atende integradores solares, gerando oportunidades de negócios; e consumidores, facilitando o acesso à energia solar.
+ 
+Somos uma startup de tecnologia para o setor de fotovoltaicos que, através de uma plataforma online (saas – software as a service) e parcerias estratégicas, visa entregar soluções simples e inteligentes para quem quer empreender e busca por economia financeira e sustentabilidade!

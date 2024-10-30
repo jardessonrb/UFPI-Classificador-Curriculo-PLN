@@ -1,0 +1,141 @@
+link_vaga-https://ateliware.gupy.io/job/eyJqb2JJZCI6NzgxNzYyNSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+SOFTWARE ENGINEER COM FOCO EM FRONT-END (NÍVEL PLENO/SÊNIOR)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+Quer fazer a diferença e participar da transformação digital junto a nossos clientes e parceiros desenvolvendo produtos digitais e soluções customizadas? 
+Quer fazer a diferença e participar da 
+ junto a nossos clientes e parceiros desenvolvendo produtos digitais e soluções customizadas? 
+Se você se identifica com este desafio e gosta de atuar em projetos que geram impactos positivos de verdade, continue lendo, pois há grandes chances de essa vaga ser SUA.
+Se você se identifica com este desafio e gosta de atuar em projetos que geram impactos positivos de verdade, continue lendo, pois há grandes chances de essa vaga ser 
+.
+A vaga disponível é para Software Engineer com foco em front-end, nível pleno ou sênior. Contamos com sua experiência (hard e soft skills) e vontade de continuar aprendendo todos os dias para, assim, crescermos juntos mais e mais.
+A vaga disponível é para 
+, nível pleno ou sênior. Contamos com sua experiência (
+) e vontade de continuar aprendendo todos os dias para, assim, crescermos juntos mais e mais.
+Aqui na ateliware somos mutáveis, transformadores, potencializadores. Primamos pela colaboração e respeito mútuo, somos muito curiosos e enfrentamos desafios constantemente para que, no final do dia, sejamos grandes resolvedores de problemas.
+Aqui na 
+ somos 
+. Primamos pela colaboração e respeito mútuo, somos muito curiosos e enfrentamos desafios constantemente para que, no final do dia, sejamos grandes resolvedores de problemas.
+Você será parte integrante de uma equipe multidisciplinar de design e desenvolvimento (d&d), cocriando produtos digitais para os nossos clientes e também para o mercado em nosso AteliLAB – laboratório de desenvolvimento de produtos da ateliware.  
+Você será parte integrante de uma equipe multidisciplinar de design e desenvolvimento (d&d), cocriando produtos digitais para os nossos clientes e também para o mercado em nosso AteliLAB – laboratório de desenvolvimento de produtos da ateliware.  
+
+Vale informar que, por aqui, por trabalharmos com software customizado, não temos metodologias e ferramentas de estima, escolhemos o "canhão" certo para cada solução. Além disso, em sua trajetória, você poderá trabalhar também com diferentes tecnologias e linguagens. Por exemplo, no momento, temos produtos sendo desenvolvidos em: Elixir, Python, Javascript e .NET.
+Vale informar que, por aqui, por trabalharmos com software customizado, não temos metodologias e ferramentas de estima, escolhemos o "canhão" certo para cada solução. Além disso, em sua trajetória, você poderá trabalhar também com diferentes tecnologias e linguagens. Por exemplo, no momento, temos produtos sendo desenvolvidos em: Elixir, Python, Javascript e .NET.
+
+Aliás, somos uma empresa Remote First, ou seja, trabalho à distância é o nosso normal – mas, caso esteja em Curitiba, pode optar por um modelo híbrido sem problema algum. De todo modo, todos os processos e ações internas se mantêm 100% remotos, incluindo o processo seletivo, que acontece de forma inteiramente online.
+Aliás, somos uma empresa Remote First, ou seja, trabalho à distância é o nosso normal – mas, caso esteja em Curitiba, pode optar por um modelo híbrido sem problema algum. De todo modo, todos os processos e ações internas se mantêm 100% remotos, incluindo o processo seletivo, que acontece de forma inteiramente online.
+
+Ah, não pense que vão faltar muita troca de conhecimento, parceria e bons papos, seja nos eventos internos ou happy hours com a turma toda em nosso escritório físico e virtual. Somos um time unido e muito colaborativo, e será um prazer receber você em nosso #teamateliware.
+Ah, não pense que vão faltar muita troca de conhecimento, parceria e bons papos, seja nos eventos internos ou happy hours com a turma toda em nosso escritório físico e virtual. Somos um time unido e muito colaborativo, e será um prazer receber você em nosso 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver e manter interfaces de usuário modernas e responsivas utilizando Vue.js;Colaborar com designers e desenvolvedores back-end para transformar conceitos em realidade;Implementar a lógica front-end necessária para interagir com APIs e serviços back-end;Realizar testes e depuração para garantir a qualidade e o desempenho do código;Manter-se atualizado(a) com as últimas tendências e melhores práticas em desenvolvimento front-end;Auxiliar na resolução de problemas e otimização do código back-end, quando necessário.
+Desenvolver e manter interfaces de usuário modernas e responsivas utilizando Vue.js;
+Colaborar com designers e desenvolvedores back-end para transformar conceitos em realidade;
+Implementar a lógica front-end necessária para interagir com APIs e serviços back-end;
+Realizar testes e depuração para garantir a qualidade e o desempenho do código;
+Manter-se atualizado(a) com as últimas tendências e melhores práticas em desenvolvimento front-end;
+Auxiliar na resolução de problemas e otimização do código back-end, quando necessário.
+REQUISITOS E QUALIFICAÇÕES
+Formação
+A graduação NÃO é necessária, seu conhecimento, experiência e gana são mais importantes. 
+A graduação NÃO é necessária, seu conhecimento, experiência e gana são mais importantes. 
+Requisitos indispensáveis:
+Inglês avançado;
+Inglês avançado;
+Experiência com engenharia de front-end web;
+Experiência com engenharia de front-end web;
+Conhecimentos sólidos em Vue, incluindo conhecimento de Vuex e Vue Router;
+Conhecimentos sólidos em Vue, 
+;
+Experiência com HTML, CSS e JavaScript (ES6+);
+Familiaridade com ferramentas de build como Webpack ou Vite;
+Conhecimento básico de Node.js e frameworks back-end como Express.js;
+Experiência com testes unitários e de integração;
+Capacidade de trabalhar em equipe e se comunicar de forma eficaz.
+INFORMAÇÕES ADICIONAIS
+O que vamos te proporcionar para que realize um trabalho maravilhoso?
+Remuneração e incentivos diferenciados :)
+Remuneração e incentivos diferenciados :)
+Trabalhar numa empresa com um ambiente sensacional, flexível e dinâmico;
+Trabalhar numa empresa com um ambiente sensacional, flexível e dinâmico;
+Aqui você pode ser você mesmo, queremos pessoas diferentes com novas ideias e mindsets;
+Aqui você pode ser você mesmo, queremos pessoas diferentes com novas ideias e mindsets;
+Oportunidade de trabalhar sempre em novos projetos e com as mais modernas e diversas tecnologias; 
+Oportunidade de trabalhar sempre em novos projetos e com as mais modernas e diversas tecnologias; 
+Ambiente que proporciona aprendizados constantes, sempre novos desafios e de muita autonomia;
+Ambiente que proporciona aprendizados constantes, sempre novos desafios e de muita autonomia;
+As melhores e mais modernas ferramentas para que você faça o seu trabalho da melhor maneira;
+As melhores e mais modernas ferramentas para que você faça o seu trabalho da melhor maneira;
+Oportunidades e auxílio para que você esteja sempre aprendendo e estudando coisas novas.
+Oportunidades e auxílio para que você esteja sempre aprendendo e estudando coisas novas.
+Acredita em você e sabe que tem potencial? Então cai dentro, vem trabalhar com a gente!
+Acredita em você e sabe que tem potencial? Então cai dentro, vem trabalhar com a gente!
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Conversa inicial com #TeamPeople 🙂2Conversa inicial com #TeamPeople 🙂
+Etapa 2: Conversa inicial com #TeamPeople 🙂
+2
+Conversa inicial com #TeamPeople 🙂
+Etapa 3: Conversa com Gestor & #Teampeople 🤗3Conversa com Gestor & #Teampeople 🤗
+Etapa 3: Conversa com Gestor & #Teampeople 🤗
+3
+Conversa com Gestor & #Teampeople 🤗
+Etapa 4: Proposta 🤝4Proposta 🤝
+Etapa 4: Proposta 🤝
+4
+Proposta 🤝
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+A SOFTWARE HOUSE THAT CREATES CUSTOM DIGITAL SOLUTIONS
+In the market for over 12 years, we are a software atelier that develops tailor-made digital solutions, customized to attend to our clients' needs.
+In the market for over 
+, we are a software atelier that develops tailor-made digital solutions, customized to attend to our clients' needs.
+We are a remote-first company, but we also have our headquarters in Curitiba/PR, in Brazil, which is an option for those interested in a physical workspace and face-to-face meetings. However, if in-person workplace is not your preference, we meet in our virtual office 😉
+We are a 
+, but we also have our headquarters in Curitiba/PR, in Brazil, which is an option for those interested in a physical workspace and face-to-face meetings. However, if in-person workplace is not your preference, we meet in our virtual office 😉
+Here at ateliware, we transform and simplify businesses, making a difference from the very first delivery. We have already served Brazilian, North American, and European companies, and we are ready to act globally, always focusing on building the best solution together with the client.
+Here at 
+, we transform and simplify businesses, making a difference from the very first delivery. We have already served Brazilian, North American, and European companies, and we are ready to act globally, always focusing on building the best solution together with the client.
+Our design and development experts are specialists in digital products, whether for creating mobile applications (web, hybrid, or native), web, or desktop.
+Our design and development experts are specialists in digital products, whether for creating mobile applications (web, hybrid, or native), web, or desktop.
+Our team works together from the initial stage, Discovery, where ideas and investments are mapped and validated, through the Product Concept phase, when all aspects of UX and UI are designed, to the Build stage, the moment that we create the backend and frontend.
+Our team works together from the initial stage, 
+, where ideas and investments are mapped and validated, through the 
+ phase, when all aspects of UX and UI are designed, to the 
+ stage, the moment that we create the backend and frontend.
+We have had small and large Brazilian companies as clients, such as Banco Santander, Creditas and Sicoob, as well as global companies like Amazon, Renault, and Trickle. Currently, we are partners of MatrixCargo, Agrofel, Uninter, Enersee, among others.
+We have had small and large Brazilian companies as clients, such as
+ 
+ and 
+, as well as global companies like 
+, and 
+. Currently, we are partners of 
+, 
+, 
+Uninter, 
+Enersee, among others.
+Furthermore, ateliware worked with three startups from the very beginning: Pipefy, a platform for managing and optimizing work processes that increases agility and efficiency; an e-commerce platform that democratized the creation of online stores, which was incorporated by one of the largest payment methods in Brazil; and Trio, a fintech focused on open banking and open finance.
+Furthermore, 
+ worked with three startups from the very beginning: 
+, a platform for managing and optimizing work processes that increases agility and efficiency; an e-commerce platform that democratized the creation of online stores, which was incorporated by one of the largest payment methods in Brazil; and 
+, a fintech focused on open banking and open finance.
+More than just a software developer supplier, we help clients transform and simplify the business world, with technology as a way, not an end!
+More than just a software developer supplier, we help clients transform and simplify the business world, with technology as a way, not an end!
+If you want to be part of the digital transformation, join our selection process and become part of the #teamateliware!
+If you want to be part of the digital transformation, join our selection process and become part of the 
+CHECK OUT OUR SOCIAL MEDIA CHANNELS ❤️
+Website
+LinkedIn
+Instagram
+Glassdoor

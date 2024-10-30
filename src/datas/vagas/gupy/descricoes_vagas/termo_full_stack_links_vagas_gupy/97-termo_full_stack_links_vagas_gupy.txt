@@ -1,0 +1,125 @@
+link_vaga-https://atmtec.gupy.io/job/eyJqb2JJZCI6NzI5MDA3Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR FULL-STACK SÊNIOR - ESPECIALISTA EM C# E MS AZURE
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+O que é AT&M?
+Hoje entregamos mais de 10 soluções tecnológicas para transportadores e embarcadores — de ponta a ponta, desde processos 100% automatizados até formas manuais de digitações via “web”.
+Possuímos uma equipe altamente qualificada e dedicada, sempre pronta para atendê-lo, nosso suporte técnico funciona 24 horas, todos os dias da semana. Além disso, contamos com uma equipe de outsourcing trabalhando in company em alguns de nossos clientes.
+Inovamos e criamos atendendo as necessidades de nossos clientes e do mercado como um todo, nós nos comprometemos com a criatividade, automação, produtividade, bons treinamentos e muito mais. Podemos prestar consultoria para sua empresa, acreditamos que a tecnologia pode contribuir possibilitando que dedique mais do seu tempo cuidando do relacionamento com seus clientes.
+RESPONSABILIDADES E ATRIBUIÇÕES
+A missão da pessoa que ocupará essa posição será:
+Estamos a procura de um profissional que encare desafios de desacoplar monolitos para uma plataforma performática e escalável;
+Participar ativamente na definição e melhoria da arquitetura dos sistemas novos e legados;
+Queremos alguém que possa discutir com o time visando melhorias e características técnicas focando numa melhor experiencia do usuário orientado aos objetivos do negocio;
+Gostar de trabalhar de forma colaborativa em um ambiente com pluralidade de ideias;
+Trabalhar em larga escala com orquestração de containers, pipelines de CI/CD e serviços em Cloud;
+Estar disposto a conhecer e aprender sobre tecnologias que são menos familiares para você;
+Concordar que as disciplinas de Qualidade e Devops precisam estar presentes todos os dias na rotina de toda organização;
+Desejamos alguém apaixonado por Back-end e com grandes conhecimentos de Arquitetura em Cloud, mas que consiga ser participativo nas discussões sobre Front-end;
+Comunicativo com habilidades de trabalho em equipe, capaz de sugerir mudanças e implementações tanto no back quanto no front, com experiencia no ciclo de desenvolvimento Devops(CI/CD).
+REQUISITOS E QUALIFICAÇÕES
+Para participar você precisa:
+Ter atuado com boas praticas de desenvolvimento (SOLID, Clean Architecture, Clean Code entre outras)
+Versionamento de código (Git & GitHub);
+Linguagem de programação C# e estar aberto a aprender novas linguagens de programação;
+Programação em JavaScript/Typescript para Front-end (preferencialmente com React);
+Bibliotecas de gestão de estado global, como Redux;
+Consumo de APIs RESTful;
+Bancos de dados NoSQL (como MongoDb e DynamoDB) e relacionais (preferencialmente Oracle e SQLServer);
+Cloud e seus produtos serverless (como Azure Functions, Secrets, VPS, Instance Pools);
+Desenvolvimento de serviços distribuídos orientados a eventos;
+Docker e kubernetes;
+Desenvolvimento em pipelines de CI/CD (preferencialmente Azure).
+Não é obrigatório, mas será muito legal se você tiver: 
+Boas práticas de testes em Front-end, utilizando ferramentas como Jest, React Testing Library, Enzyme e/ou Cypress;
+Padrões de arquitetura de sistemas distribuídos na nuvem (Azure);
+Uso de filas e cache/CDN;
+Uso de ferramentas de CI/CD( como GitHubActions, Jenkins, Azure Devops, CircleCI);
+Ferramentas de observabilidade e métricas, exemplo: Prometheus, Grafana, ElasticSearch, etc.
+INFORMAÇÕES ADICIONAIS
+Por que trabalhar na AT&M:
+
+﻿Nossos pilares de cultura e seus atributos são:
+Servir: foco no cliente, humildade, transparência e ética;
+Equipe: é mais importante que o indivíduo, vontade e mão na massa são atributos que valorizamos muito;
+Resultados: agilidade e melhoria contínua, geração de caixa em longo prazo e foco.
+
+Aqui você vai:
+Participar do maior ecossistema de tecnologia para a Logística da América Latina, fazendo parte de uma das empresas do grupo nstech;
+Participar de uma cultura voltada para trabalho em equipe, onde o todo é mais importante do que o indivíduo;
+Estar inserindo em um ambiente hands-on e colaborativo (Mão na massa).
+O que esperamos de você:
+Acreditamos que cultura e pessoas são as duas verticais de maiores vantagens competitivas de negócios vencedores - isso porque, pela sua natureza, é impossível copiar 100% uma cultura, e, as pessoas são a bases de todo e qualquer negócio.
+O que oferecemos também:
+😷 Plano de saúde modalidade Apartamento com coparticipação;
+😁 Plano odontológico;
+🤗 Seguro de vida;
+💳 Cartão de Benefícios (VR/VA, VT);
+💪🏼 Gympass;
+😌 Zenklub, nosso parceiro no seu bem-estar;
+🎈 Day off no Aniversário;
+🚼 Licença Maternidade e Auxílio Creche;
+🫶 Auxílio filhos com deficiência;
+🤩 Temos PLR anual;
+📚 Universidade Corporativa.
+📚 
+
+
+Nossas idas ao escritório no modelo Híbrido são ainda mais agradáveis e energizantes: 
+Nossas idas ao escritório no modelo Híbrido são ainda mais agradáveis e energizantes: 
+🥪☕ Temos café da manhã / lanche da tarde todos os dias!
+
+Queremos que a sua experiência com a nossa jornada de seleção seja incrível!
+Analisaremos todos os perfis com muita atenção e sempre enviamos feedbacks ao final dos nossos processos, independentemente dos resultados.
+A nossa comunicação é feita prioritariamente via e-mail. Por isso, fique de olho à sua caixa de entrada e, também, ao spam.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista com o time de Pessoas2Entrevista com o time de Pessoas
+Etapa 2: Entrevista com o time de Pessoas
+2
+Entrevista com o time de Pessoas
+Etapa 3: Entrevista com o time Técnico3Entrevista com o time Técnico
+Etapa 3: Entrevista com o time Técnico
+3
+Entrevista com o time Técnico
+Etapa 4: Entrevista com a Gestão4Entrevista com a Gestão
+Etapa 4: Entrevista com a Gestão
+4
+Entrevista com a Gestão
+Etapa 5: Proposta5Proposta
+Etapa 5: Proposta
+5
+Proposta
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+JUNTE-SE A NÓS!
+🚀 Como parte integrante deste nosso ecossistema, fornecemos uma suíte completa de soluções para as seguradoras, corretoras e segurados do setor de transportes Brasil e América Latina;
+🚀 Como parte integrante deste nosso ecossistema, fornecemos uma suíte completa de soluções para as seguradoras, corretoras e segurados do setor de transportes Brasil e América Latina;
+💡Estamos criando produtos novos e inovando no widespace do mercado securitário de transportes;
+💡Estamos criando produtos novos e inovando no widespace do mercado securitário de transportes;
+🏆 Somos líderes no Brasil;
+🏆 Somos líderes no Brasil;
+🧡 Temos uma cultura baseada em fortes valores, fomentamos sempre que todos os nstechers IM sejam disseminadores desta cultura, e, vivam esta cultura no seu dia a dia.
+🧡 Temos uma cultura baseada em fortes valores, fomentamos sempre que todos os nstechers IM sejam disseminadores desta cultura, e, vivam esta cultura no seu dia a dia.
+ 
+ 
+ Bora embarcar neste foguete? 👨‍🚀🚀
+ Bora embarcar neste foguete? 👨‍🚀🚀
+ACOMPANHE AS NOVIDADES NAS REDES SOCIAIS
+Website
+LinkedIn
+Glassdoor

@@ -1,0 +1,103 @@
+link_vaga-https://montreal.gupy.io/job/eyJqb2JJZCI6NzkzNDU0Miwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR DE SOFTWARE - SÊNIOR (FULL STACK)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Como Desenvolvedor Full Stack Sênior na Montreal, você fará parte de uma das melhores empresas de tecnologia do Brasil. Nossa trajetória iniciou há mais de trinta anos com uma pequena equipe de engenharia apaixonada por inovação. Em 1986, pessoas visionárias fizeram um compromisso com a tecnologia e sua capacidade de transformar o mundo. Aquele, seria apenas o começo de uma trajetória que nos tornou referência sólida no mercado e uma das melhores empresas para se trabalhar.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Profissional da CONTRATADA responsável pela produção dos artefatos de software a serem entregues pelo Squad.Necessário possuir formação superior completa na área de Tecnologia da Informação (graduação, pós-graduação lato sensu e/ou stricto sensu).Necessário possuir experiência mínima comprovada de 5 anos atuando como desenvolvedor sênior.
+Profissional da CONTRATADA responsável pela produção dos artefatos de software a serem entregues pelo Squad.
+Necessário possuir formação superior completa na área de Tecnologia da Informação (graduação, pós-graduação lato sensu e/ou stricto sensu).
+Necessário possuir experiência mínima comprovada de 5 anos atuando como desenvolvedor sênior.
+REQUISITOS E QUALIFICAÇÕES
+Requisitos necessários:
+Frontend:
+HTML
+CSS
+JavaScript
+Angular
+CSS Grid
+Flexbox
+Bootstrap
+Tailwind CSS
+Backend:
+Python
+PHP
+Java
+Django (Python)
+Laravel (PHP)
+Spring Boot (Java)
+Flask (Python)
+APIs e Serviços Web:
+RESTful APIs
+GraphQL
+WebSockets
+Bases de Dados:
+MySQL
+PostgreSQL
+MongoDB
+Redis
+SQLite
+Autenticação:
+JWT
+OAuth
+SAML
+Testes:
+JUnit
+Power Mockito
+Controle de Versão:
+Git
+GitHub
+GitLab
+Infraestrutura e DevOps:
+Microsoft Azure
+Docker
+Kubernetes
+CI/CD (Jenkins, GitLab CI)
+Nginx
+Apache
+Linux Servers
+Metodologias de Trabalho:
+Agile
+Scrum
+Kanban
+Ferramentas de Administração de Projetos:
+Azure DevOps
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem de perfil2Triagem de perfil
+Etapa 2: Triagem de perfil
+2
+Triagem de perfil
+Etapa 3: Entrevista RH3Entrevista RH
+Etapa 3: Entrevista RH
+3
+Entrevista RH
+Etapa 4: Entrevista Técnica4Entrevista Técnica
+Etapa 4: Entrevista Técnica
+4
+Entrevista Técnica
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+SOMOS UMA DAS MELHORES EMPRESAS PARA SE TRABALHAR!
+Em uma construção contínua, promovemos um ambiente de colaboração, respeito e facilidade. Investimos no desenvolvimento de talentos e na implementação de práticas que otimizam e conectam diferentes aspectos tecnológicos e inovadores.
+Em uma construção contínua, promovemos um ambiente de colaboração, respeito e facilidade.
+ e na implementação de práticas que otimizam e conectam diferentes aspectos tecnológicos e inovadores.
+CONECTE-SE COM A GENTE!
+Website
+LinkedIn
+Facebook
+Instagram

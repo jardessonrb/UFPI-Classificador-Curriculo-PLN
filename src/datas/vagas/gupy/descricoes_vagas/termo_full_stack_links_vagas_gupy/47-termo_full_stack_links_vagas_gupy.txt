@@ -1,0 +1,129 @@
+link_vaga-https://icts.gupy.io/job/eyJqb2JJZCI6NzEzNTA2NCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR(A) PHP FULL STACK PLENO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Criamos produtos e soluções com o propósito de melhorar as relações entre as pessoas e negócios. Como Desenvolvedor, você contribuirá na criação de produtos digitais inovadores, a fim de que nossos clientes mantenham seu ambiente mais ético, em Compliance, sustentável (ESG) e atento aos riscos e a governança de suas empresas.
+Buscamos um profissional para vaga de desenvolvedor em Sustentação e Fast Track/Suporte para nossos Sistemas/Aplicações.
+Nesta função você irá atuar com desenvolvimento de pequenas melhorias, manutenção voltados para ambientes críticos, suporte a aplicações web e desenvolvimento de soluções para resolução de problema.
+Atenderá solicitações via chamados para correções de comportamentos, melhorias de erros de códigos, sustentação e desenvolvimento utilizando as melhores práticas e respeitando a arquitetura cooperativa de desenvolvimento de software.
+sustentação e desenvolvimento 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Investigar, diagnosticar e solucionar chamados das plataformas/sistema;Recepcionar e ajudar a registrar todos os chamados em nosso sistema de tickets com objetivo de direcionar para sua respectiva fila;Realizar o desenvolvimento, correção de erros/bugs/comportamentos, atuando na manutenção front e back das plataformas digitais;Analisar problemas dos clientes e realizar recomendações, de ajustes e melhorias;Identificar oportunidades de evolução e otimização dos processos existentes;Identificar defeitos por meio de depuração de código e análise de log;Documentar processos sistêmicos e manter a base de conhecimento atualizada;Atualizar sistemas existentes para acompanhar as mudanças e necessidades dos usuários;Perfil analítico para identificar problemas do produto suportado;Atuar em conjunto com o time de Cloud & DevOps para gestão de mudanças, gestão de incidentes e gestão de problemas.
+Investigar, diagnosticar e solucionar chamados das plataformas/sistema;
+Recepcionar e ajudar a registrar todos os chamados em nosso sistema de tickets com objetivo de direcionar para sua respectiva fila;
+Realizar o desenvolvimento, correção de erros/bugs/comportamentos, atuando na manutenção front e back das plataformas digitais;
+Analisar problemas dos clientes e realizar recomendações, de ajustes e melhorias;
+Identificar oportunidades de evolução e otimização dos processos existentes;
+Identificar defeitos por meio de depuração de código e análise de log;
+Identificar defeitos por meio de depuração de código e análise de log;
+Documentar processos sistêmicos e manter a base de conhecimento atualizada;
+Atualizar sistemas existentes para acompanhar as mudanças e necessidades dos usuários;
+Perfil analítico para identificar problemas do produto suportado;
+Perfil analítico para identificar problemas do produto suportado;
+Atuar em conjunto com o time de Cloud & DevOps para gestão de mudanças, gestão de incidentes e gestão de problemas.
+REQUISITOS E QUALIFICAÇÕES
+Obrigatório
+Graduação Completa em Engenharia de Software, Ciências da Computação, Engenharia (outras especialidades);
+Experiência em desenvolvimento de aplicação Web (Web App);
+Conhecimento e prática nas tecnologias abaixo:
+HTML5, CSS3, Bootstrap, JQuery, JavaScript, ReactJS;
+PHP com Laravel;
+Conhecimento em base de dados (SQL Server, PostGree SQL, MySQL) e experiência em SQL;
+Frameworks de mercado (RabbitMQ, KeyCloack);
+OOP, Web Services, APIs Restfull, XML, SOA;
+Versionamento de código: GIT
+Conhecimento de arquitetura de aplicações e “Design Patterns”;
+Conhecimento dos processos envolvendo análise de sistemas e troubleshooting;
+Protagonismo (autodidata, assumir desafios, engajado) e capacidade de trabalho em equipes auto gerenciáveis;
+Ser proativo para atuação com senso de urgência.
+Desejável
+Conhecimentos em AWS;
+Conhecimentos em outras linguagens de programação (por ex. Next.JS, Java ou Python);
+Experiência com qualidade de codificação e boas práticas, tais como: TDD, testes unitários;
+Conhecimento/participação de processos ágeis de desenvolvimento com experiência em metodologia ágil Scrum, XP, Agile;
+Ter foco no cliente e resultado para entrega.
+INFORMAÇÕES ADICIONAIS
+NOSSO PACOTE DE REMUNERAÇÃO
+🏥 Seguro Saúde Amil: Cobertura nacional com coparticipação e extensivo aos seus dependentes diretos, garantindo a saúde de quem você ama.
+🏥 Seguro Saúde Amil: Cobertura nacional com coparticipação e extensivo aos seus dependentes diretos, garantindo a saúde de quem você ama.
+🦷 Seguro Dental Bradesco: Cobertura nacional com mensalidade e extensivo aos seus dependentes diretos, garantindo a saúde bucal de quem você ama (contratação opcional).
+🦷 Seguro Dental Bradesco: Cobertura nacional com mensalidade e extensivo aos seus dependentes diretos, garantindo a saúde bucal de quem você ama (contratação opcional).
+💳 Cartão Eletrônico de Benefícios (Swile): Modalidade flexível para gerenciar seu saldo conforme suas preferências. Categorias incluem: refeição, alimentação, home office, entre outros.
+💳 Cartão Eletrônico de Benefícios (Swile): Modalidade flexível para gerenciar seu saldo conforme suas preferências. Categorias incluem: refeição, alimentação, home office, entre outros.
+💪🏼 TotalPass: Acesso a uma variedade de atividades e estabelecimentos para promover o equilíbrio entre trabalho e lazer (contratação opcional).
+💪🏼 TotalPass: Acesso a uma variedade de atividades e estabelecimentos para promover o equilíbrio entre trabalho e lazer (contratação opcional).
+❤️‍🩹 Seguro de Vida: Proteção financeira para você e seus beneficiários.
+❤️‍🩹 Seguro de Vida: Proteção financeira para você e seus beneficiários.
+🚌 Vale Transporte: Conforme previsto em lei ou reembolso.
+🚌 Vale Transporte: Conforme previsto em lei ou reembolso.
+ Auxílio mobilidade: Reembolso de corridas por aplicativo, fretado, passagem intermunicipal ou estacionamento, facilitando seu deslocamento (caso não opte pelo VT).
+ Auxílio mobilidade: Reembolso de corridas por aplicativo, fretado, passagem intermunicipal ou estacionamento, facilitando seu deslocamento (caso não opte pelo VT).
+💰 Participação nos Lucros e Resultados (PLR): Atrelada ao cumprimento de metas, visando reconhecimento pelos esforços dedicados.
+💰 Participação nos Lucros e Resultados (PLR): Atrelada ao cumprimento de metas, visando reconhecimento pelos esforços dedicados.
+📈 Auxílio para Autodesenvolvimento: Valor anual para aquisição de livros, inscrições em treinamentos ou palestras voltadas para autodesenvolvimento.
+📈 Auxílio para Autodesenvolvimento: Valor anual para aquisição de livros, inscrições em treinamentos ou palestras voltadas para autodesenvolvimento.
+🧑‍🎓 Programa de Desenvolvimento: Conforme políticas e condições de elegibilidade vigentes, investimos em seu desenvolvimento profissional. (Pós, Graduação e Cursos de Idioma)
+🧑‍🎓 Programa de Desenvolvimento: Conforme políticas e condições de elegibilidade vigentes, investimos em seu desenvolvimento profissional. (Pós, Graduação e Cursos de Idioma)
+🎂 Day Off de Aniversário: Um dia de folga para tirar no dia ou ao longo do mês do seu aniversário, celebrando momentos especiais.
+🎂 Day Off de Aniversário: Um dia de folga para tirar no dia ou ao longo do mês do seu aniversário, celebrando momentos especiais.
+❤️ Jornada ICTS: Bonificações por tempo de casa, casamento ou nascimento, reconhecendo importantes fases da vida.
+❤️ Jornada ICTS: Bonificações por tempo de casa, casamento ou nascimento, reconhecendo importantes fases da vida.
+🧠 Qualidade de Vida (Eleva): Programas dedicados à saúde física e mental com suporte nutricional, psicológico, treinamento personalizado e acompanhamento especializado para gestantes.
+🧠 Qualidade de Vida (Eleva): Programas dedicados à saúde física e mental com suporte nutricional, psicológico, treinamento personalizado e acompanhamento especializado para gestantes.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista com Recrutador2Entrevista com Recrutador
+Etapa 2: Entrevista com Recrutador
+2
+Entrevista com Recrutador
+Etapa 3: Prova técnica3Prova técnica
+Etapa 3: Prova técnica
+3
+Prova técnica
+Etapa 4: Entrevista com Gestor e Business Partner4Entrevista com Gestor e Business Partner
+Etapa 4: Entrevista com Gestor e Business Partner
+4
+Entrevista com Gestor e Business Partner
+Etapa 5: Compliance Individual5Compliance Individual
+Etapa 5: Compliance Individual
+5
+Compliance Individual
+Etapa 6: Entrevista com Diretor6Entrevista com Diretor
+Etapa 6: Entrevista com Diretor
+6
+Entrevista com Diretor
+Etapa 7: Feedback7Feedback
+Etapa 7: Feedback
+7
+Feedback
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+QUEM SOMOS NÓS
+A ICTS é uma empresa brasileira reconhecida pelos selos Great Place to Work (2021, 2022, 2023 e 2024) e Pró-Ética (desde 2015), presente no mercado através das marcas Aliant, ICTS Security e Protiviti.
+A 
+ é uma empresa brasileira reconhecida pelos selos Great Place to Work (2021, 2022, 2023 e 2024) e Pró-Ética (desde 2015), presente no mercado através das marcas 
+, 
+ e 
+.
+ 
+ 
+Nosso time conta com cerca de 500 profisisonais que atuam em projetos diversos, tendo a ética como cultura e oferecendo um ambiente humano e acolhedor para os nossos profissionais. Possuindo escritórios em São Paulo, Barueri, Rio de Janeiro e Belo Horizonte, nosso time atende todo território nacional, além de projetos internacionais.
+Nosso time conta com cerca de 500 profisisonais que atuam em projetos diversos, tendo a ética como cultura e oferecendo um ambiente humano e acolhedor para os nossos profissionais. Possuindo escritórios em São Paulo, Barueri, Rio de Janeiro e Belo Horizonte, nosso time atende todo território nacional, além de projetos internacionais.
+CONHEÇA MAIS SOBRE NÓS
+Website
+Glassdoor
+CONHEÇA MAIS SOBRE O SELO PRÓ ÉTICA

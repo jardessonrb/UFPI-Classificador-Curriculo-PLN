@@ -1,0 +1,110 @@
+link_vaga-https://vemserakad.gupy.io/job/eyJqb2JJZCI6Nzg4NTAxMCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR(A) BACKEND .NET | PLENO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Você já pensou em trabalhar em uma empresa que surgiu para fazer diferente e ser uma nova forma de pensar em seguros?
+Somos uma seguradora versátil e moderna, que oferece respostas sob medida de maneira simples, justas e transparentes.
+Construiremos o amanhã e caminharemos lado a lado. E faremos isso juntos, pois acreditamos no poder transformador das pessoas.
+Tudo isso para ver gente realizada cuidando dos nossos produtos e soluções. Fazemos tudo para que nossos clientes possam fazer mais!
+Se você deseja trabalhar em uma empresa que sempre está desenvolvendo soluções inovadoras em um mercado cheio de oportunidades, junte-se ao nosso time de Akadians e tenha a experiência de escrever a história conosco!
+Somos uma empresa aberta para todas as pessoas. Trabalhamos em um ambiente que estimula novas ideias, o compartilhamento de experiências e valoriza a pluralidade e diversidade.
+Aqui, nos sentimos à vontade para sermos nós mesmos!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Quais são as principais atividades dessa vaga?﻿
+Irá atuar com várias linguagens de programação, ferramentas, padrões e processos de gestão da qualidade.
+Contribuir para o projeto e design da solução, desenvolver, testar e implantar sistemas e soluções de automação de software e de processos de negócios;
+O que você precisa/deve saber:
+Experiência em desenvolvimento de sistemas Back-end voltado para C#, ASP.Net Core 3.1 e acima;
+Experiência no desenvolvimento de Web APIs
+Experiência com bancos de dados relacionais (SQL Server e PostgreSQL);
+Experiência com Entity Framework;
+Experiência com sistemas e soluções de automação de software e de processos de negócios;
+Conhecimento em GIT;
+Conhecimento em Cloud;
+Alta cobertura de testes unitários;
+Vivência com AI (em projetos ou em usos do dia-a-dia).
+REQUISITOS E QUALIFICAÇÕES
+Você estará em destaque se tiver:
+Experiência com desenvolvimento de software;
+Conhecimento avançado em C# e .NET Core (Programação Orientada a Eventos, Micro serviços, LINQ, ReactJS, etc);
+Azure Devops;
+Serviços de mensageria (RabbitMQ, Kafka, Azure Service Bus);
+Conhecimento em DDD, Clean Code, SOLID, Design Patterns, etc;
+REDIS;
+PostgreSQL;
+Serviços MQ;
+Conhecimento em Cloud;
+Experiência com Metodologias ágeis;
+Inglês Intermediário/avançado.
+INFORMAÇÕES ADICIONAIS
+O que oferecemos?
+Oportunidade de carreira e desenvolvimento;
+Um time de excelência técnica, focado na melhoria contínua e inovação;
+Programa de participação nos resultados atrelado a sua performance individual;
+Benefícios diferenciados;
+Ambiente de trabalho leve, descontraído e flexível;
+Modelo de trabalho 100% Remoto
+Liberdade para ser você mesmo.
+Se identificou? Então venha ser um Akadian e se candidate nessa vaga!😊
+Boa Sorte!
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Bate papo com a equipe de Gente e Gestão2Bate papo com a equipe de Gente e Gestão
+Etapa 2: Bate papo com a equipe de Gente e Gestão
+2
+Bate papo com a equipe de Gente e Gestão
+Etapa 3: Entrevista Técnica 3Entrevista Técnica 
+Etapa 3: Entrevista Técnica 
+3
+Entrevista Técnica 
+Etapa 4: Entrevista com a Liderança4Entrevista com a Liderança
+Etapa 4: Entrevista com a Liderança
+4
+Entrevista com a Liderança
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+CONHEÇA MAIS SOBRE A AKAD
+Viemos para fazer diferente e somos uma nova forma de pensar em seguros!
+ 
+Evoluímos a passos firmes em uma nova direção e miramos no mesmo propósito, que é o resultado com segurança.
+Somos uma seguradora versátil e moderna, que oferece respostas sob medida de maneira simples, justas e transparentes.
+Entendemos as necessidades dos nossos clientes e antecipamos as possibilidades para garantir o cuidado. Visualizamos o amanhã melhor que ontem e pensamos em como enfrentar os obstáculos que nossos clientes ainda não sabem que possam surgir.
+Somos líderes em nossas especialidades e nos atentamos ao que é mais importante: o respeito. Com você, com nossos corretores, segurados e parceiros.
+Construiremos o amanhã e caminharemos lado a lado. E faremos isso juntos, pois acreditamos no poder transformador das pessoas.
+
+Somos os construtores diários de uma empresa melhor para se trabalhar e movidos pelos nossos valores organizacionais: 
+
+Ser humano acima de tudo
+Construa o amanhã hoje
+Cultive lideranças
+Crie coisas de fora para dentro
+Confie no poder da transparência
+Somos todos donos
+ 
+Nosso Propósito: A gente ajuda quem faz. We empower the makers.
+Nossa Missão: Construir relações de confiança através da oferta de seguros simples, justa e personalizada.
+Nossa Visão: Ser reconhecida como a seguradora mais inovadora do Brasil até 2024.
+
+Tudo isso para ver gente realizada cuidando dos nossos produtos e soluções. Fazemos tudo para que nossos clientes possam fazer mais!
+ 
+Venha fazer parte dessa equipe! Juntos somos um time mais completo!
+
+NOSSAS REDES
+Website
+LinkedIn
+Facebook
+Instagram

@@ -1,0 +1,64 @@
+link_vaga-https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6ODAwNzc3OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+FULLSTACK DEVELOPER
+Tipo de vaga: TemporárioTemporário
+Tipo de vaga: Temporário
+Temporário
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+¡Sé parte de Stefanini!​
+En Stefanini somos más de 30.000 genios, conectados desde 41 países, haciendo lo que les apasiona y co-creando un futuro mejor.​
+RESPONSABILIDADES E ATRIBUIÇÕES
+Realizar la configuración del entorno GITHUB para el control de versiones de las aplicaciones WebRealizar el análisis y propuesta de solución de los requerimientos funcionales de los usuarios.Realizar la estimación y programación de los requerimientos que forman parte del backlog de mejoras de las aplicaciones Web.Realizar la publicación de las nuevas versiones.Coordinar las nuevas necesidades tecnológicas con el Jefe de TI.
+Realizar la configuración del entorno GITHUB para el control de versiones de las aplicaciones Web
+Realizar el análisis y propuesta de solución de los requerimientos funcionales de los usuarios.
+Realizar la estimación y programación de los requerimientos que forman parte del backlog de mejoras de las aplicaciones Web.
+Realizar la publicación de las nuevas versiones.
+Coordinar las nuevas necesidades tecnológicas con el Jefe de TI.
+REQUISITOS E QUALIFICAÇÕES
+Microsoft Azure (App Services, base de datos como servicios).Manejo de GITHUBExperiencia en Angular 12 en adelante.Experiencia en backend ASP .Net 6 en adelante.Experiencia desplegando aplicaciones en Azure.Manejo de base de datos elaboración de querys en Redshift y base de datos de Postgre SQL.Conocimientos básicos de power platform (Power Apps y Power Automate)Experiencia mínima de 2 años como desarrollador web full stack en entornos .net y angular.
+Microsoft Azure (App Services, base de datos como servicios).
+Manejo de GITHUB
+Experiencia en Angular 12 en adelante.
+Experiencia en backend ASP .Net 6 en adelante.
+Experiencia desplegando aplicaciones en Azure.
+Manejo de base de datos elaboración de querys en Redshift y base de datos de Postgre SQL.
+Conocimientos básicos de power platform (Power Apps y Power Automate)
+Experiencia mínima de 2 años como desarrollador web full stack en entornos .net y angular.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevistas2Entrevistas
+Etapa 2: Entrevistas
+2
+Entrevistas
+Etapa 3: Confirmación de candidato3Confirmación de candidato
+Etapa 3: Confirmación de candidato
+3
+Confirmación de candidato
+Etapa 4: Onboarding4Onboarding
+Etapa 4: Onboarding
+4
+Onboarding
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+CONOCE A STEFANINI
+Somos una empresa global con 35 años de experiencia en el mercado, ofrecemos una sólida selección de servicios como: automatización, nube, Internet de las cosas (IoT) y experiencia de usuario (UX).
+Creemos que la tecnología puede revolucionar una empresa y la innovación es fundamental para fomentar el desarrollo y la competitividad. También valoramos las nuevas ideas y el poder de una mente abierta, por lo que reconocemos que cada talento es esencial para la calidad de nuestros proyectos y especialmente para nuestro progreso.
+Creemos que la tecnología puede revolucionar una empresa y la innovación es fundamental para fomentar el desarrollo y la competitividad. También valoramos las nuevas ideas y el poder de una mente abierta, por lo que reconocemos que cada talento es esencial para la calidad de nuestros proyectos y especialmente para nuestro progreso.
+Mantenemos nuestra excelencia invirtiendo en innovaciones tecnológicas, las mejores alianzas, adquisiciones de empresas en todo el mundo y la contratación de profesionales altamente capacitados.
+CONOCE MÁS SOBRE NOSOTROS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

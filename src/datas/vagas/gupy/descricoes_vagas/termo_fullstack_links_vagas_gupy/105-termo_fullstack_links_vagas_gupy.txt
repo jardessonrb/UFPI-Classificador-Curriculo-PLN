@@ -1,0 +1,91 @@
+link_vaga-https://spread.gupy.io/job/eyJqb2JJZCI6NzkzNTE4Niwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA SR. FULLSTACK JAVA/ANGULAR - RHA5416
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Venha fazer parte de uma empresa que ama transformar com tecnologia e abraça a diversidade em todas as suas formas!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver, dar suporte, realizar manutenção, configurar e implantar produtos de software, seguindo as práticas e padrões determinados pelo BC.
+Realizar configurações nos ambientes de execução para implantação de software.
+Diagnosticar e solucionar falhas e problemas de desempenho e segurança de software em ambiente de desenvolvimento e de execução.
+Atuar no monitoramento de produtos de software e tratamento de incidentes.
+REQUISITOS E QUALIFICAÇÕES
+Requisitos
+Linguagem e plataforma de programação Java.
+Experiência com Hibernate, Spring/SpringBoot,
+APIs de logging.
+Experiência com ferramentas e técnicas de gerência de configuração (GIT).
+Experiência com ferramentas de automação de construção/build (Maven).
+Tecnologias de containers e orquestração de containers (Docker e Kubernetes).
+Experiência com práticas e ferramentas de Integração Contínua.
+Experiência com técnicas de debugging e diagnóstico de problemas.
+Modelagem e desenvolvimento com banco de dados relacional.
+Desenvolvimento usando metodologias ágeis.
+Experiência com Test Driven Development (TDD).
+Conhecimento sobre Domain Driven Development (DDD).
+Noções sobre DevOps.
+Métricas de qualidade de código.
+Noções sobre técnicas para construção de software seguro (codificação segura).
+Noções sobre Application Servers (Websphere) e Web Containers (Tomcat, Jetty).
+Linguagens de programação para frontend: Javascript, TypeScript, HTML, CSS.
+Bancos de dados NoSQL.
+Graduação em Computação, Tecnologia da Informação ou área correlata
+ 
+Desejável:
+Linguagens de programação para a plataforma Java: Kotlin.
+Frontend Java: Struts, Apache Wicket, JSF.
+Java: experiência com APIs de mensageria.
+Automação de build: Gradle.
+Ferramentas de gerência de configuração: GitHub, GitLab.
+Princípios e práticas de desenvolvimento ágil: manifesto ágil, XP, Scrum.
+Experiência em desenvolvimento em Linux.
+Inglês Leitura: avançado
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triados2Triados
+Etapa 2: Triados
+2
+Triados
+Etapa 3: Entrevista Gente & Gestão3Entrevista Gente & Gestão
+Etapa 3: Entrevista Gente & Gestão
+3
+Entrevista Gente & Gestão
+Etapa 4: Entrevista Técnica4Entrevista Técnica
+Etapa 4: Entrevista Técnica
+4
+Entrevista Técnica
+Etapa 5: Carta Proposta5Carta Proposta
+Etapa 5: Carta Proposta
+5
+Carta Proposta
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+CARREIRAS - SPREAD
+Quer saber mais sobre a gente e fazer parte do time que está construindo o futuro?
+#VemSerSpreader
+Transformando o mundo com tecnologia
+Somos quase 2.000 Spreaders, espalhados em 22 estados brasileiros através do Spread Anywhere, que nos permite trabalhar de forma 100% remota, dependendo do modelo de contrato. Somos digitais, hiperconectados e de onde estivermos colocamos em prática todos os dias um dos valores tão presentes na nossa cultura, que é a #colaboração. 
+Inovação para desenvolver o futuro
+Somos uma empresa de tecnologia com 39 anos de experiência, evolução e uma grande bagagem de conhecimento em diferentes frentes, da infraestrutura com Serviços Gerenciados de TI e de Telecomunicações, passando pela nossa camada de software com Desenvolvimento Ágil, SAP, Salesforce e Testes de Qualidade, até a nossa camada digital, com Automação, Event Mesh, Big Data e Squad Gerenciada.
+Diversidade, Equidade & Inclusão
+Aqui a diversidade e inclusão não é apenas uma palavra, mas sim um compromisso genuíno. Trabalhamos para fazer com que todas as pessoas Spreaders se sintam valorizadas, respeitadas e capacitadas para alcançar o pleno potencial. Reconhecemos que a verdadeira diversidade vai além de questões superficiais e abrange uma ampla gama de características, como gênero, etnia, orientação sexual, idade e habilidades. 
+Agilidade para alavancar negócios
+Respiramos a Cultura da Agilidade, apoiados pela filosofia Lean. Com isso, temos uma metodologia própria para adoção, aprimoramento e propagação de métodos ágeis, que é o SPREAD BUSINESS AGILITY, que visa melhorar o nosso entendimento sobre os desafios dos clientes, acelerar o desenvolvimento das nossas pessoas e estabelecer um novo modelo de crescimento do nosso negócio.
+ACOMPANHE-NOS ATRAVÉS DE NOSSAS REDES SOCIAIS
+Website
+LinkedIn
+Facebook
+Instagram

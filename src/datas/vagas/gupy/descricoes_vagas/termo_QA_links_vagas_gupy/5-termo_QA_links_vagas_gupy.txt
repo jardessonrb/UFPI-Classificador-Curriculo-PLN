@@ -1,0 +1,109 @@
+link_vaga-https://multisoftware.gupy.io/job/eyJqb2JJZCI6NzEzMTQ3OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+QA TESTER
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+O que é a Multisoftware?
+A Multisoftware é uma empresa de tecnologia focada em transporte e logística. Nosso propósito é melhorar o mundo através da tecnologia, afinal, temos a única solução capaz de atender a cadeia end-to-end de grandes embarcadores. 
+A Multisoftware é uma empresa de tecnologia focada em transporte e logística. Nosso propósito é melhorar o mundo através da tecnologia, afinal, temos a única solução capaz de atender a cadeia end-to-end de grandes embarcadores. 
+Atualmente somos líderes de mercado no segmento de TMS para embarcadores, com um sistema especialista em emissão automatizada de documentos de transporte, facilitando a gestão logística de toda a operação.
+Atualmente somos líderes de mercado no segmento de TMS para embarcadores, com um sistema especialista em emissão automatizada de documentos de transporte, facilitando a gestão logística de toda a operação.
+Em pouco mais de 10 anos, a Multisoftware consolidou sua atuação no território nacional e melhorou os resultados de grandes embarcadores e transportadores. Além da matriz, em Chapecó-SC, temos escritórios em São Paulo e Minas Gerais.
+Em pouco mais de 10 anos, a Multisoftware consolidou sua atuação no território nacional e melhorou os resultados de grandes embarcadores e transportadores. Além da matriz, em Chapecó-SC, temos escritórios em São Paulo e Minas Gerais.
+Com a expansão das atividades para a América Latina (LATAM), atendemos também clientes na Colômbia, México, Peru e Chile.
+Com a expansão das atividades para a América Latina (LATAM), atendemos também clientes na Colômbia, México, Peru e Chile.
+Os números confirmam a liderança da Multisoftware. Somos a empresa que mais cresce no segmento. Já são mais de 4 mil clientes utilizando nossas soluções.
+Os números confirmam a liderança da Multisoftware. Somos a empresa que mais cresce no segmento. Já são mais de 4 mil clientes utilizando nossas soluções.
+Estamos em busca de profissionais apaixonados e determinados para se juntarem a nós como QA Tester. Se você tem vontade de aprender, transformar a logística e mobilidade e fazer a diferença, essa é a sua oportunidade!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Estamos em busca de um QA Tester altamente motivado e dedicado para se juntar à nossa equipe e garantir a qualidade e confiabilidade dos nossos produtos digitais. Habilidades sólidas em testes manuais e automatizados, além de experiência em identificar e relatar bugs de forma eficaz.Responsabilidades:Desafios:Desenvolver e executar planos de teste abrangentes, incluindo testes funcionais, de regressão, de desempenho e de usabilidade.Identificar e relatar bugs de forma clara e detalhada, utilizando ferramentas de gerenciamento de bugs.Trabalhar em estreita colaboração com a equipe de desenvolvimento para entender os requisitos do produto e garantir que os padrões de qualidade sejam atendidos.Desenvolver e manter casos de teste detalhados e documentação relacionada.Automatizar testes sempre que possível, utilizando ferramentas e frameworks como Selenium, Appium, ou similar.Analisar métricas de qualidade e performance para identificar áreas de melhoria e oportunidades de otimização.Participar ativamente no processo de revisão de código e colaborar na resolução de problemas técnicos.
+Estamos em busca de um QA Tester altamente motivado e dedicado para se juntar à nossa equipe e garantir a qualidade e confiabilidade dos nossos produtos digitais. Habilidades sólidas em testes manuais e automatizados, além de experiência em identificar e relatar bugs de forma eficaz.
+Responsabilidades:
+Desafios:
+Desenvolver e executar planos de teste abrangentes, incluindo testes funcionais, de regressão, de desempenho e de usabilidade.
+Identificar e relatar bugs de forma clara e detalhada, utilizando ferramentas de gerenciamento de bugs.
+Trabalhar em estreita colaboração com a equipe de desenvolvimento para entender os requisitos do produto e garantir que os padrões de qualidade sejam atendidos.
+Desenvolver e manter casos de teste detalhados e documentação relacionada.
+Automatizar testes sempre que possível, utilizando ferramentas e frameworks como Selenium, Appium, ou similar.
+Analisar métricas de qualidade e performance para identificar áreas de melhoria e oportunidades de otimização.
+Participar ativamente no processo de revisão de código e colaborar na resolução de problemas técnicos.
+REQUISITOS E QUALIFICAÇÕES
+Principais requisitos:
+Experiência comprovada em QA testing, preferencialmente em ambientes ágeis.
+Familiaridade com metodologias de teste de software e processos de garantia de qualidade.
+Capacidade de criar casos de teste detalhados e documentar resultados de testes.
+Experiência em testes manuais e automatizados, utilizando ferramentas como Selenium, Appium, ou similar.
+Excelentes habilidades de comunicação verbal e escrita, com capacidade de relatar bugs de forma clara e concisa.
+Capacidade de trabalhar de forma colaborativa em um ambiente dinâmico e multifuncional.
+Formação em Ciência da Computação, Engenharia de Software, ou área relacionada.
+INFORMAÇÕES ADICIONAIS
+Porque trabalhar na Multisoftware:
+﻿
+Trabalhar na Multisoftware é uma oportunidade única de fazer parte de uma empresa de tecnologia líder no segmento de transporte e logística. Com uma visão voltada para melhorar o mundo por meio da tecnologia, a Multisoftware oferece soluções completas que atendem a cadeia end-to-end de grandes embarcadores. Seu sistema especialista em emissão automatizada de documentos de transporte simplifica a gestão logística de toda a operação, proporcionando resultados significativos para os clientes. Com uma consolidação sólida no território nacional em pouco mais de 10 anos, a Multisoftware expandiu suas atividades para a América Latina, atendendo clientes em países como Colômbia, México, Peru e Chile. Com números que comprovam o crescimento exponencial da empresa, trabalhar na Multisoftware significa fazer parte de uma equipe inovadora e de sucesso, contribuindo para a transformação do setor e impactando positivamente a indústria de transporte e logística.
+O que esperamos de você:
+Disposição e vontade de contribuir
+Interação com o time
+Alinhamento com a cultura organizacional
+
+A Multisoftware é uma empresa de tecnologia focada em transporte e logística. Nosso propósito é melhorar o mundo através da tecnologia, afinal, temos a única solução capaz de atender a cadeia end-to-end de grandes embarcadores. 
+A Multisoftware é uma empresa de tecnologia focada em transporte e logística. Nosso propósito é melhorar o mundo através da tecnologia, afinal, temos a única solução capaz de atender a cadeia end-to-end de grandes embarcadores. 
+Atualmente somos líderes de mercado no segmento de TMS para embarcadores, com um sistema especialista em emissão automatizada de documentos de transporte, facilitando a gestão logística de toda a operação.
+Atualmente somos líderes de mercado no segmento de TMS para embarcadores, com um sistema especialista em emissão automatizada de documentos de transporte, facilitando a gestão logística de toda a operação.
+Em pouco mais de 10 anos, a Multisoftware consolidou sua atuação no território nacional e melhorou os resultados de grandes embarcadores e transportadores. Além da matriz, em Chapecó-SC, temos escritórios em São Paulo e Minas Gerais.
+Em pouco mais de 10 anos, a Multisoftware consolidou sua atuação no território nacional e melhorou os resultados de grandes embarcadores e transportadores. Além da matriz, em Chapecó-SC, temos escritórios em São Paulo e Minas Gerais.
+Com a expansão das atividades para a América Latina (LATAM), atendemos também clientes na Colômbia, México, Peru e Chile.
+Com a expansão das atividades para a América Latina (LATAM), atendemos também clientes na Colômbia, México, Peru e Chile.
+Os números confirmam a liderança da Multisoftware. Somos a empresa que mais cresce no segmento. Já são mais de 4 mil clientes utilizando nossas soluções.
+Os números confirmam a liderança da Multisoftware. Somos a empresa que mais cresce no segmento. Já são mais de 4 mil clientes utilizando nossas soluções.
+Junte-se a nós! Vem ser Multi 💙
+Junte-se a nós! Vem ser Multi 💙
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Entrevista com o time de Pessoas3Entrevista com o time de Pessoas
+Etapa 3: Entrevista com o time de Pessoas
+3
+Entrevista com o time de Pessoas
+Etapa 4: Entrevista com a Gestão Direta4Entrevista com a Gestão Direta
+Etapa 4: Entrevista com a Gestão Direta
+4
+Entrevista com a Gestão Direta
+Etapa 5: Entrevista com a Gestão5Entrevista com a Gestão
+Etapa 5: Entrevista com a Gestão
+5
+Entrevista com a Gestão
+Etapa 6: Proposta6Proposta
+Etapa 6: Proposta
+6
+Proposta
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+A MULTISOFTWARE
+A Multisoftware é uma empresa de tecnologia focada em transporte e logística. Nosso propósito é melhorar o mundo através da tecnologia, afinal, temos a única solução capaz de atender a cadeia end-to-end de grandes embarcadores. 
+A Multisoftware é uma empresa de tecnologia focada em transporte e logística. Nosso propósito é melhorar o mundo através da tecnologia, afinal, temos a única solução capaz de atender a cadeia end-to-end de grandes embarcadores. 
+Atualmente somos líderes de mercado no segmento de TMS para embarcadores, com um sistema especialista em emissão automatizada de documentos de transporte, facilitando a gestão logística de toda a operação.
+Atualmente somos líderes de mercado no segmento de TMS para embarcadores, com um sistema especialista em emissão automatizada de documentos de transporte, facilitando a gestão logística de toda a operação.
+Em pouco mais de 10 anos, a Multisoftware consolidou sua atuação no território nacional e melhorou os resultados de grandes embarcadores e transportadores. Além da matriz, em Chapecó-SC, temos escritórios em São Paulo e Minas Gerais.
+Em pouco mais de 10 anos, a Multisoftware consolidou sua atuação no território nacional e melhorou os resultados de grandes embarcadores e transportadores. Além da matriz, em Chapecó-SC, temos escritórios em São Paulo e Minas Gerais.
+Com a expansão das atividades para a América Latina (LATAM), atendemos também clientes na Colômbia, México, Peru e Chile.
+Com a expansão das atividades para a América Latina (LATAM), atendemos também clientes na Colômbia, México, Peru e Chile.
+Os números confirmam a liderança da Multisoftware. Somos a empresa que mais cresce no segmento. Já são mais de 4 mil clientes utilizando nossas soluções.
+Os números confirmam a liderança da Multisoftware. Somos a empresa que mais cresce no segmento. Já são mais de 4 mil clientes utilizando nossas soluções.
+Junte-se a nós! Vem ser Multi 💙
+Junte-se a nós! Vem ser Multi 💙

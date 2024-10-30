@@ -1,0 +1,153 @@
+link_vaga-https://viasoft.gupy.io/job/eyJqb2JJZCI6NzkxNzE2MSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR JAVASCRIPT BACK-END PLENO - SOLUÇÕES EM GESTÃO DE PESSOAS
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Voors é a nossa solução em Gestão de Pessoas:
+
+O Voors foi desenvolvido para ser uma solução tecnológica única de comunicação, integração e planejamento, desenhada para desenvolver e potencializar os colaboradores de uma empresa.
+O Voors foi desenvolvido para ser uma solução tecnológica única de comunicação, integração e planejamento, desenhada para desenvolver e potencializar os colaboradores de uma empresa.
+Entre suas principais funções estão a rede social corporativa, gestão de feedbacks, análises de desempenho dos colaboradores, agenda, além disso, possibilidade de criar e guardar toda a informação de documentos necessários por times e grupos de usuários, além do processamento de folha de pagamento.
+Entre suas principais funções estão a rede social corporativa, gestão de feedbacks, análises de desempenho dos colaboradores, agenda, além disso, possibilidade de criar e guardar toda a informação de documentos necessários por times e grupos de usuários, além do processamento de folha de pagamento.
+O colaborador tem acesso à toda sua documentação, otimizando os processos do setor de RH na emissão de documentos.
+O colaborador tem acesso à toda sua documentação, otimizando os processos do setor de RH na emissão de documentos.
+
+Desenvolvedor Pleno: 
+
+Como Desenvolvedor Pleno - Back-end no Voors, sua missão é desenvolver e implementar soluções robustas e escaláveis que sustentem a infraestrutura tecnológica da nossa solução de Gestão de Pessoas. Você será crucial para garantir a eficiência, segurança e integridade dos dados, proporcionando uma base sólida para as funcionalidades inovadoras que potencializam os colaboradores das empresas clientes.
+Como Desenvolvedor Pleno - Back-end no Voors, sua missão é desenvolver e implementar soluções robustas e escaláveis que sustentem a infraestrutura tecnológica da nossa solução de Gestão de Pessoas. Você será crucial para garantir a eficiência, segurança e integridade dos dados, proporcionando uma base sólida para as funcionalidades inovadoras que potencializam os colaboradores das empresas clientes.
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver e implementar soluções robustas e escaláveis para o lado do servidor.Colaborar com equipes multidisciplinares para entender requisitos de funcionalidade e integração.Otimizar o desempenho das aplicações por meio de técnicas de programação eficientes.Garantir a segurança e integridade dos dados através de práticas de desenvolvimento seguro.Mapear e documentar arquiteturas de software existentes, propondo melhorias e atualizações conforme necessário.
+Desenvolver e implementar soluções robustas e escaláveis para o lado do servidor.
+Desenvolver e implementar soluções robustas e escaláveis para o lado do servidor.
+Colaborar com equipes multidisciplinares para entender requisitos de funcionalidade e integração.
+Colaborar com equipes multidisciplinares para entender requisitos de funcionalidade e integração.
+Otimizar o desempenho das aplicações por meio de técnicas de programação eficientes.
+Otimizar o desempenho das aplicações por meio de técnicas de programação eficientes.
+Garantir a segurança e integridade dos dados através de práticas de desenvolvimento seguro.
+Garantir a segurança e integridade dos dados através de práticas de desenvolvimento seguro.
+Mapear e documentar arquiteturas de software existentes, propondo melhorias e atualizações conforme necessário.
+Mapear e documentar arquiteturas de software existentes, propondo melhorias e atualizações conforme necessário.
+
+REQUISITOS E QUALIFICAÇÕES
+Experiência comprovada como Programador Back-end ou em posição similar.Conhecimento sólido de linguagens de programação como Python ou Node.js.Familiaridade com frameworks e bibliotecas back-end, como Express ou Graphql.Capacidade de projetar e implementar APIs RESTful ou GraphQL.Excelentes habilidades de resolução de problemas e análise crítica.Experiência em integração de sistemas e bancos de dados relacionais e/ou NoSQL.Capacidade de trabalhar de forma colaborativa em um ambiente ágil.Diferencial ter conhecimento em arquitetura de microsserviços, containers Docker, e ferramentas de orquestração como Kubernetes.Formação em ciências da computação, engenharia de software ou áreas afins.
+Experiência comprovada como Programador Back-end ou em posição similar.
+Experiência comprovada como Programador Back-end ou em posição similar.
+Conhecimento sólido de linguagens de programação como Python ou Node.js.
+Conhecimento sólido de linguagens de programação como Python ou Node.js.
+Familiaridade com frameworks e bibliotecas back-end, como Express ou Graphql.
+Familiaridade com frameworks e bibliotecas back-end, como Express ou Graphql.
+Capacidade de projetar e implementar APIs RESTful ou GraphQL.
+Capacidade de projetar e implementar APIs RESTful ou GraphQL.
+Excelentes habilidades de resolução de problemas e análise crítica.
+Excelentes habilidades de resolução de problemas e análise crítica.
+Experiência em integração de sistemas e bancos de dados relacionais e/ou NoSQL.
+Experiência em integração de sistemas e bancos de dados relacionais e/ou NoSQL.
+Capacidade de trabalhar de forma colaborativa em um ambiente ágil.
+Capacidade de trabalhar de forma colaborativa em um ambiente ágil.
+Diferencial ter conhecimento em arquitetura de microsserviços, containers Docker, e ferramentas de orquestração como Kubernetes.
+Diferencial ter conhecimento em arquitetura de microsserviços, containers Docker, e ferramentas de orquestração como Kubernetes.
+Formação em ciências da computação, engenharia de software ou áreas afins.
+Formação em ciências da computação, engenharia de software ou áreas afins.
+INFORMAÇÕES ADICIONAIS
+Essa oportunidade de carreira só faz sentido para quem:
+
+É apaixonado pela área de tecnologia e almejar construir uma carreira sólida na área de desenvolvimento; 
+É apaixonado pela área de tecnologia e almejar construir uma carreira sólida na área de desenvolvimento; 
+Preza pela excelência, busca um código estável, confiável e de fácil manutenção;
+Preza pela excelência, busca um código estável, confiável e de fácil manutenção;
+Tem uma atitude flexível, que goste de desafios e busque aprendizado constantemente; 
+Tem uma atitude flexível, que goste de desafios e busque aprendizado constantemente; 
+É obcecado por evolução e conhecimento;
+É obcecado por evolução e conhecimento;
+Quer ser protagonista na sua carreira profissional;
+Quer ser protagonista na sua carreira profissional;
+Busca ser eficaz nas atividades, realizando com agilidade, mas também com a acabativa necessária para desenvolver e entregar suas demandas;
+Busca ser eficaz nas atividades, realizando com agilidade, mas também com a acabativa necessária para desenvolver e entregar suas demandas;
+É organizado, realizando as atividades diárias planejadas conforme estimado;
+É organizado, realizando as atividades diárias planejadas conforme estimado;
+É aberto a dar e receber feedbacks (escuta feedbacks, busca por feedbacks, apresenta plano de melhoria pró-ativamente).
+É aberto a dar e receber feedbacks (escuta feedbacks, busca por feedbacks, apresenta plano de melhoria pró-ativamente).
+Trabalhando conosco você terá acesso:
+
+Vale alimentação ou refeição - Você escolhe!
+Vale alimentação ou refeição - Você escolhe!
+Auxílio transporte;
+Auxílio transporte;
+Plano de saúde;
+Plano de saúde;
+Plano odontológico;
+Plano odontológico;
+Auxílio pós graduação de 70% da mensalidade;
+Auxílio pós graduação de 70% da mensalidade;
+Auxílio a cursos online;
+Auxílio a cursos online;
+Cadastro nas plataformas educacionais Alura e DevMedia; 
+Cadastro nas plataformas educacionais Alura e DevMedia; 
+Seguro de vida;
+Seguro de vida;
+Sendo Home Office Full Time haverá auxílio financeiro para os custos;
+Sendo Home Office Full Time haverá auxílio financeiro para os custos;
+Prêmio indicação;
+Prêmio indicação;
+Eventos constantes de desenvolvimento técnico e comportamental;
+Eventos constantes de desenvolvimento técnico e comportamental;
+Gestão de carreira estruturado;
+Gestão de carreira estruturado;
+Programa de análise de desempenho;
+Programa de análise de desempenho;
+Feedbacks e Plano de Desenvolvimento Individual;
+Feedbacks e Plano de Desenvolvimento Individual;
+Programa de mentoria;
+Programa de mentoria;
+Convênios com diversos estabelecimentos.
+Convênios com diversos estabelecimentos.
+ 
+ 
+Super importante: Se você atende os requisitos e vê sentido nessa oportunidade de carreira, isso é tudo o que importa. Aqui procuramos pessoas com capacidade e vontade de transformar, de serem protagonistas, independente do lugar que reside, idade, raça, cor, religião, ser PcD, identidade de gênero ou orientação sexual. Seu perfil e valores condizem com os nossos? Então venha fazer parte da VIASOFT!
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista por competências2Entrevista por competências
+Etapa 2: Entrevista por competências
+2
+Entrevista por competências
+Etapa 3: Avaliação comportamental3Avaliação comportamental
+Etapa 3: Avaliação comportamental
+3
+Avaliação comportamental
+Etapa 4: Teste Técnico4Teste Técnico
+Etapa 4: Teste Técnico
+4
+Teste Técnico
+Etapa 5: Dados para Contratação5Dados para Contratação
+Etapa 5: Dados para Contratação
+5
+Dados para Contratação
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+SOBRE A VIASOFT
+A VIASOFT é especialista em todos os segmentos que atua, o que a torna a escolha mais inteligente às empresas que buscam evolução, inovação e desenvolvimento.
+Somos um time com valores construídos ao longo de mais de 30 anos. Temos uma cultura de resultados, reconhecimento, crescimento e celebrações muito bem consolidada e cheia de orgulho, que chamamos de “DNA VIASOFT". Trabalhamos com foco no sucesso do cliente, inconformismo construtivo e propósitos bem definidos, possuímos uma cultura de aprendizagem e queremos sempre realizar mais.
+Venha realizar mais com a gente!
+Nós acreditamos que os clientes são a razão central da existência dos negócios e da nossa empresa. Que através da superação das expectativas dos clientes advém a capacidade de gerar riquezas. Que primar pela excelência das soluções contribui para que nossos clientes rompam barreiras e realizem mais. Que pessoas comprometidas, dotadas do senso de coesão e cooperação, são a chave para o cumprimento de nossos propósitos. E que o sucesso da nossa empresa é a mola propulsora do crescimento de todos que orbitam seu entorno.
+Nossa missão é fornecer soluções completas, alinhadas e orientadas às melhores práticas de gestão empresarial, para que os nossos clientes realizem mais.
+Nossa visão é ser a escolha mais inteligente para ações de evolução e inovação em gestão empresarial.
+CONECTE-SE COM A GENTE:
+Website
+LinkedIn
+Facebook
+Instagram

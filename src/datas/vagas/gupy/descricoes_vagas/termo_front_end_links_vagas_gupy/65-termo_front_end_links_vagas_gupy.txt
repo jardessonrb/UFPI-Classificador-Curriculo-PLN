@@ -1,0 +1,125 @@
+link_vaga-https://caju.gupy.io/job/eyJqb2JJZCI6Nzk5MTExMiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA FRONT-END REACT SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A Caju é uma empresa brasileira de tecnologia, que busca dar mais sabor à vida profissional, transformando a relação entre empresas e colaboradores por meio de soluções mais inovadoras e seguras como o Cartão Multi Benefícios, Solução em Despesas Corporativas, Premiações e Caju Ciclos.
+Aqui na Caju, aprendemos sempre, e nos tornamos cada vez melhores em um ambiente colaborativo e divertido!
+São muito bem-vindas candidaturas de pessoas negras/pretas, mulheres, indígenas, LGBTQIA+, ou outros grupos minorizados.
+Inscreva-se e conheça mais sobre nosso time 🧡
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolvimento de aplicações web e mobile utilizando tecnologias modernas de desenvolvimento front-end, sempre pensando em manutenibilidade, reusabilidade de componentes com foco em uma ótima experiência para o usuário final;Revisar código produzido pela equipe;Participar das especificações técnicas de novas features;Garantir a qualidade de código, com testes de unidade e integração;Participação nas discussões de solução e arquitetura;
+Desenvolvimento de aplicações web e mobile utilizando tecnologias modernas de desenvolvimento front-end, sempre pensando em manutenibilidade, reusabilidade de componentes com foco em uma ótima experiência para o usuário final;
+Revisar código produzido pela equipe;
+Participar das especificações técnicas de novas features;
+Garantir a qualidade de código, com testes de unidade e integração;
+Participação nas discussões de solução e arquitetura;
+REQUISITOS E QUALIFICAÇÕES
+Experiência necessária com as seguintes tecnologias e técnicas:
+Obrigatórios:
+React;
+Hooks e Custom hooks;
+Javascript (programação assíncrona e Consumo de APIs);
+CSS;
+HTML;
+Testes de unidade e Integração;
+Diferenciais
+Flutter;
+Typescript;
+Material UI;
+Gestão de estado global.
+Soft Skills:
+Ter senso de dono;
+Ser comprometido(a) em resolver as dores do cliente;
+Buscar aprender todo dia;
+Buscar soluções de forma autônoma para os problemas técnicos encontrados;
+Saber trabalhar em equipe;
+Assumir responsabilidade pelo código produzido;
+Gostar de participar da concepção de um novo produto do início ao fim.
+INFORMAÇÕES ADICIONAIS
+💳 Cartão Caju, com mais liberdade para usar seus benefícios (Refeição, Alimentação, Mobilidade, Saúde, Home Office, Cultura e Educação);
+💳 Cartão Caju, com mais liberdade para usar seus benefícios (Refeição, Alimentação, Mobilidade, Saúde, Home Office, Cultura e Educação);
+🏥 Plano de Saúde sem coparticipação;
+🏥 Plano de Saúde sem coparticipação;
+🧘🏿‍♀️ Zenklub, com consultas onlines com terapeutas e coaches para cuidar da sua saúde mental;
+🧘🏿‍♀️ Zenklub, com consultas onlines com terapeutas e coaches para cuidar da sua saúde mental;
+🏋🏿‍♀️ Gympass
+🏋🏿‍♀️ Gympass
+🗣️ Aqui também estimulamos o aprendizado de idiomas, com a parceria da Rosetta Stone;
+🗣️ Aqui também estimulamos o aprendizado de idiomas, com a parceria da Rosetta Stone;
+💆🏽 Dia de recarregar - day off; 
+💆🏽 Dia de recarregar - day off; 
+🧑🏿‍⚕️ Conexa Saúde - consulta médica online;
+🧑🏿‍⚕️ Conexa Saúde - consulta médica online;
+👶🏿 Auxílio Creche;
+👶🏿 Auxílio Creche;
+📚 Parceria com Alura;
+📚 Parceria com Alura;
+👨🏿‍💻 Trabalho Remoto, para você trabalhar de onde quiser dentro do Brasil;
+👨🏿‍💻 Trabalho Remoto, para você trabalhar de onde quiser dentro do Brasil;
+💻 Oferecemos equipamento de trabalho;
+💻 Oferecemos equipamento de trabalho;
+🚀 Muitas possibilidades de crescimento - temos muito a crescer e esperamos fortemente que você nos ajude com isso!
+🚀 Muitas possibilidades de crescimento - temos muito a crescer e esperamos fortemente que você nos ajude com isso!
+A Caju é uma empresa brasileira e aceita pessoas de todas as regiões do país.
+A Caju é uma empresa brasileira e aceita pessoas de todas as regiões do país.
+Trabalhamos em um modelo 100% remoto(quem tiver interesse de conhecer ou trabalhar no escritório, localizado em São Paulo, estaremos de portas abertas) 
+(quem tiver interesse de conhecer ou trabalhar no escritório, localizado em São Paulo, estaremos de portas abertas) 
+Se interessou? #VemSerCaju 🧡
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Case Técnico2Case Técnico
+Etapa 2: Case Técnico
+2
+Case Técnico
+Etapa 3: Entrevista Técnica3Entrevista Técnica
+Etapa 3: Entrevista Técnica
+3
+Entrevista Técnica
+Etapa 4: Papo Final4Papo Final
+Etapa 4: Papo Final
+4
+Papo Final
+Etapa 5: Proposta5Proposta
+Etapa 5: Proposta
+5
+Proposta
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+PRAZER, NÓS SOMOS A CAJU
+Caju é uma empresa de tecnologia, fruto do empreendedorismo brasileiro, criada para transformar a relação entre empresas e colaboradores, com soluções inovadoras e flexíveis.
+Desenvolvemos uma plataforma para que as empresas possam fazer a gestão de diversas soluções no mesmo lugar, e para os colabores um único cartão com diversas possibilidades. 
+Nossos Produtos: 
+Cartão Multibenefícios: Solução para a gestão de até 8 categorias, no mesmo cartão Caju bandeira Visa. Ele conta com um aplicativo fácil de usar para o colaborador, e uma plataforma intuitiva para o RH gerenciar todo o serviço.
+Caju Despesas: Fluxo de adiantamento mais ágil, gestão de gastos corporativos (viagens, material de escritório, serviços terceirizados, e outras despesas do dia a dia) e cartões Caju vinculados. Tudo na mesma plataforma.. Adeus reembolso, olá facilidade no bolso!
+Caju Premiações: É a solução para presentear as pessoas colaboradoras com um saldo extra no cartão, em uma carteira específica.
+Caju Ciclos: Acompanhamento da jornada do colaborador de ponta a ponta, em uma única plataforma para admissão e gestão de dados.
+Caju Mais: Para empresas que querem melhorar a saúde e bem-estar dos seus colaboradores, em parceria com a Gympass, Conexa Saúde e Psicologia Viva.
+Feirinha da Caju: Ofertas exclusivas e cupons nas lojas parceiras da Caju para a pessoa colaboradora e para RH.
+Temos sonhos grandes aqui dentro, e temos orgulho de ter raízes espalhadas por várias partes do Brasil e pessoas que nutrem e colhem frutos com um gostinho único, que só a gente tem.
+⭐Quer saber como é ser Cajuense? Conheça mais sobre a Nossa Cultura.
+ 
+.
+🆘Está com dificuldade para realizar a inscrição ou qualquer outro problema com a plataforma da Gupy? Acesse o suporte aqui.
+Que tal construir junto o nosso cajueiro?
+#VemProCajueiro 🧡 
+🧡 
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

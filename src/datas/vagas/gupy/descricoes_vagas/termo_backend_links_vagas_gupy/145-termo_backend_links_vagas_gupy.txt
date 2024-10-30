@@ -1,0 +1,95 @@
+link_vaga-https://granitopagamentos.gupy.io/job/eyJqb2JJZCI6Mzk5ODk1NSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR BACKEND .NET - BANCO DE TALENTOS
+Tipo de vaga: Banco de talentosBanco de talentos
+Tipo de vaga: Banco de talentos
+Banco de talentos
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+DESCRIÇÃO DA VAGA
+Com a visão voltada para o futuro, estamos preparados para moldar o amanhã das transações financeiras, não apenas atendendo, mas também antecipando as necessidades dos nossos clientes.
+ 
+Inter Pag, a maquininha do Inter.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver features novas em C#.Realizar sustentação nas APIs existentes.Colaborar com a refação das APIs.Realizar code reviews Desenvolvimento de Sistemas para Autorização e Liquidação para bandeiras Mastercard, Visa, Elo, entre outrasIntegração com Banco de Dados e time de DBAsAnálise e elaboração de desenvolvimento de aplicaçõesCriar e manter atualizada a documentação técnica dos sistemas desenvolvidos pela equipeRealização de revisões de código para garantir artefatos padronizados e de qualidadeOrientação nas implementações de testes automatizadosSugestão de modelos de desenvolvimento que aumente a qualidade dos produtos e a agilidade dos timesTrabalho em EquipeComunicação 360 com transparência para identificação de atritos e resolução pacificaDocumentação Técnica com Confluence ou Wiki﻿
+Desenvolver features novas em C#.
+Realizar sustentação nas APIs existentes.
+Colaborar com a refação das APIs.
+Realizar code reviews
+ Desenvolvimento de Sistemas para Autorização e Liquidação para bandeiras Mastercard, Visa, Elo, entre outras
+ Desenvolvimento de Sistemas para Autorização e Liquidação para bandeiras Mastercard, Visa, Elo, entre outras
+Integração com Banco de Dados e time de DBAs
+Análise e elaboração de desenvolvimento de aplicações
+Criar e manter atualizada a documentação técnica dos sistemas desenvolvidos pela equipe
+Criar e manter atualizada a documentação técnica dos sistemas desenvolvidos pela equipe
+Realização de revisões de código para garantir artefatos padronizados e de qualidade
+Realização de revisões de código para garantir artefatos padronizados e de qualidade
+Orientação nas implementações de testes automatizados
+Orientação nas implementações de testes automatizados
+Sugestão de modelos de desenvolvimento que aumente a qualidade dos produtos e a agilidade dos times
+Sugestão de modelos de desenvolvimento que aumente a qualidade dos produtos e a agilidade dos times
+Trabalho em Equipe
+Trabalho em Equipe
+Comunicação 360 com transparência para identificação de atritos e resolução pacifica
+Comunicação 360 com transparência para identificação de atritos e resolução pacifica
+Documentação Técnica com Confluence ou Wiki﻿
+Documentação Técnica com Confluence ou Wiki﻿
+REQUISITOS E QUALIFICAÇÕES
+Sólida experiência com desenvolvimento Back-end plataforma .net (C#)Sólidos fundamentos de Programação Orientada a ObjetosConhecimentos em arquitetura de aplicações RESTfulExperiência com arquitetura de microservicesBons conhecimentos em Clean Code, Design Patterns e conceitos S.O.L.I.DConhecimento em banco de dados SQL ServerMongoDB e NoSQLExperiência com versionamento GitC# (.NET CORE 2.0+), SOLID, DDD, TDD, CLEAN CODE, PADRÕES DE INTEGRAÇÃOEF, EF Core, DapperSQLGITMetodologia ÁgilAplicações REST (Web API)Angular 8+DockerSwaggerBanco de Dados não relacionais (MongoDB, Redis, etc.)ElasticRefitTestes de Integração e AutomatizaçãoRabbitMQ, Kafka
+Sólida experiência com desenvolvimento Back-end plataforma .net (C#)
+Sólida experiência com desenvolvimento Back-end plataforma .net 
+(C#)
+Sólidos fundamentos de Programação Orientada a Objetos
+Sólidos fundamentos de Programação Orientada a Objetos
+Conhecimentos em arquitetura de aplicações RESTful
+Conhecimentos em arquitetura de aplicações RESTful
+Experiência com arquitetura de microservices
+Experiência com arquitetura de microservices
+Bons conhecimentos em Clean Code, Design Patterns e conceitos S.O.L.I.D
+Bons conhecimentos em Clean Code, Design Patterns e conceitos S.O.L.I.D
+Conhecimento em banco de dados SQL Server
+Conhecimento em banco de dados SQL Server
+MongoDB e NoSQL
+MongoDB e NoSQL
+Experiência com versionamento Git
+Experiência com versionamento Git
+C# (.NET CORE 2.0+), SOLID, DDD, TDD, CLEAN CODE, PADRÕES DE INTEGRAÇÃO
+EF, EF Core, Dapper
+SQL
+GIT
+Metodologia Ágil
+Aplicações REST (Web API)
+Angular 8+
+Docker
+Swagger
+Banco de Dados não relacionais (MongoDB, Redis, etc.)
+Elastic
+Refit
+Testes de Integração e Automatização
+RabbitMQ, Kafka
+
+INFORMAÇÕES ADICIONAIS
+Contratação CLT;Vale Transporte/ Auxílio combustível;Vale Refeição e/ou Alimentação;Assistência Médica e Odontológica - SulAmérica;Seguro de Vida;Day off no aniversário;Bônus anual
+Contratação CLT;
+Vale Transporte/ Auxílio combustível;
+Vale Refeição e/ou Alimentação;
+Assistência Médica e Odontológica - SulAmérica;
+Seguro de Vida;
+Day off no aniversário;
+Bônus anual
+NOSSA HISTÓRIA I INTER PAG
+Sobre nós: 
+ 
+ 
+Somos a Inter Pag!
+No mercado há nove anos, somos uma empresa brasileira pioneira em recebimento de pagamentos via transações eletrônicas, que se destacou pela tecnologia completa e se tornou uma importante adquirente no Brasil, ao oferecemos soluções personalizadas e diferenciadas aos nossos clientes.
+Anteriormente como Granito, agora, com a liderança total do Inter, a marca mudou para Inter Pag!
+O que não mudou é que continuamos nossa jornada de inovação, agilidade e acessibilidade, com foco em soluções inteligentes de pagamento para o mercado.
+ 
+Agora, essa tecnologia completa passa a integrar o ecossistema Inter para empresas e, com a visão voltada para o futuro, estamos preparados para moldar o amanhã das transações financeiras, não apenas atendendo, mas também antecipando as necessidades dos nossos clientes.
+VEM SABER MAIS SOBRE A GENTE!
+Website
+LinkedIn
+Facebook
+Instagram

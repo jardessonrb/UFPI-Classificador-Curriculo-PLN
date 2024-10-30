@@ -1,0 +1,93 @@
+link_vaga-https://encantech.gupy.io/job/eyJqb2JJZCI6Nzg2NTUwNCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+CIENTISTA DE DADOS - ESPECIALISTA
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A Lojas Renner está à procura de um Cientista de Dados apaixonado por inovação e tecnologia para integrar nosso time. O profissional será parte essencial da nossa estratégia de transformação digital, atuando em diversos projetos voltados para a aplicação de inteligência artificial, machine learning e ciência de dados em áreas como personalização, otimização de processos, análise preditiva, entre outros. A principal área a ser atendida será o CSC (Centro de Serviços Compartilhados) e seus departamentos. O ambiente é colaborativo e dinâmico, perfeito para quem quer trabalhar com soluções inovadoras e impactar diretamente a experiência do cliente e as operações da empresa.
+Essa vaga é ideal para quem deseja contribuir para projetos inovadores e desafiadores em uma empresa em crescimento e com foco em tecnologia e transformação digital.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver modelos de machine learning e deep learning para otimizar processos de negócio e oferecer insights de valor;Trabalhar com grandes volumes de dados para identificar padrões, gerar predições e soluções que impulsionem a eficiência da empresa;Colaborar com times multidisciplinares, incluindo operações, TI e governança para implementar projetos que utilizam ciência de dados e IA;Definir métricas de sucesso e fazer acompanhamento de performance dos modelos implementados;Automatizar processos e fluxos de trabalho através de algoritmos de IA e ferramentas de análise avançada;Acompanhar as tendências do mercado e identificar novas tecnologias e metodologias que possam ser aplicadas no negócio.
+Desenvolver modelos de machine learning e deep learning para otimizar processos de negócio e oferecer insights de valor;
+Trabalhar com grandes volumes de dados para identificar padrões, gerar predições e soluções que impulsionem a eficiência da empresa;
+Colaborar com times multidisciplinares, incluindo operações, TI e governança para implementar projetos que utilizam ciência de dados e IA;
+Definir métricas de sucesso e fazer acompanhamento de performance dos modelos implementados;
+Automatizar processos e fluxos de trabalho através de algoritmos de IA e ferramentas de análise avançada;
+Acompanhar as tendências do mercado e identificar novas tecnologias e metodologias que possam ser aplicadas no negócio.
+REQUISITOS E QUALIFICAÇÕES
+Formação superior em Ciência de Dados, Estatística, Matemática, Engenharia, ou áreas afins;Experiência sólida com machine learning, deep learning, e técnicas avançadas de modelagem preditiva;Forte conhecimento em Python, R, e bibliotecas populares como TensorFlow, Keras, Scikit-learn, entre outras;Experiência prática em manipulação de grandes volumes de dados (Big Data), utilizando ferramentas como Hadoop, Spark, ou AWS;Domínio de bancos de dados SQL e NoSQL, além de conhecimento em ferramentas de visualização de dados como Tableau ou Power BI;Experiência prévia com projetos de IA focados em personalização, otimização de processos, ou recomendações;Habilidade para trabalhar de forma colaborativa em ambientes multidisciplinares, com boa comunicação e capacidade de traduzir problemas de negócios em soluções técnicas;Domínio em Storytelling;Inglês intermediário.Diferenciais Experiência com desenvolvimento de soluções em ambientes de nuvem;Conhecimento em metodologias ágeis e ferramentas como Kambanize;Pós-graduação ou especialização em áreas correlatas à ciência de dados ou IA.
+Formação superior em Ciência de Dados, Estatística, Matemática, Engenharia, ou áreas afins;
+Experiência sólida com machine learning, deep learning, e técnicas avançadas de modelagem preditiva;
+Forte conhecimento em Python, R, e bibliotecas populares como TensorFlow, Keras, Scikit-learn, entre outras;
+Experiência prática em manipulação de grandes volumes de dados (Big Data), utilizando ferramentas como Hadoop, Spark, ou AWS;
+Domínio de bancos de dados SQL e NoSQL, além de conhecimento em ferramentas de visualização de dados como Tableau ou Power BI;
+Experiência prévia com projetos de IA focados em personalização, otimização de processos, ou recomendações;
+Habilidade para trabalhar de forma colaborativa em ambientes multidisciplinares, com boa comunicação e capacidade de traduzir problemas de negócios em soluções técnicas;
+Domínio em Storytelling;
+Inglês intermediário.
+Diferenciais 
+Experiência com desenvolvimento de soluções em ambientes de nuvem;
+Conhecimento em metodologias ágeis e ferramentas como Kambanize;
+Pós-graduação ou especialização em áreas correlatas à ciência de dados ou IA.
+INFORMAÇÕES ADICIONAIS
+*Inscrições internas até 28/10*
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Elegibilidade (internos)2Elegibilidade (internos)
+Etapa 2: Elegibilidade (internos)
+2
+Elegibilidade (internos)
+Etapa 3: Triagem3Triagem
+Etapa 3: Triagem
+3
+Triagem
+Etapa 4: Entrevista Inicial4Entrevista Inicial
+Etapa 4: Entrevista Inicial
+4
+Entrevista Inicial
+Etapa 5: Entrevista Final5Entrevista Final
+Etapa 5: Entrevista Final
+5
+Entrevista Final
+Etapa 6: Oferta6Oferta
+Etapa 6: Oferta
+6
+Oferta
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+COMUNIDADE ENCANTECH. DADOS, DIGITAL E TECH.
+Desafios aplicados na realidade.
+Códigos que ganham vida e viram experiências.
+Ferramentas de ponta a nível mundial.
+Desafios para aprender, crescer e transformar.
+O que te faz vibrar? Aqui na Lojas Renner SA, nós vibramos quando encantamos. 
+Seja por aprender algo novo no meio da rotina de trabalho ou por lançar uma nova solução que impacta de forma relevante a vida dos nossos clientes.
+Somos a união e conexão das áreas de Dados, Canais Digitais e T.I. 🚀
+Juntos, somos a Comunidade Encantech. Uma comunidade plural de pessoas apaixonadas por superar expectativas.
+Com uma cultura orientada a dados e a diferentes metodologias e frameworks, utilizamos a transformação digital para construir o maior Ecossistema de Moda e Lifestyle das Américas.
+Somos comprometidos com tecnologia, inovação, dados, sustentabilidade.
+Somos comprometidos com o futuro.
+Porque aqui suas ideias geram impacto real na vida das pessoas e valor ao negócio. 
+E assim te fazemos um convite: Construa com a gente, o futuro da moda HOJE!
+Vem transformar! Vem encantar e ser encantado junto com a gente.
+Vem as áreas de tecnologia, dados e digital da Lojas Renner S.A! 😍
+#OQueTeEncantaNosEncanta
+#Encantech
+NOS ACOMPANHE NAS REDES SOCIAIS 📱😍
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

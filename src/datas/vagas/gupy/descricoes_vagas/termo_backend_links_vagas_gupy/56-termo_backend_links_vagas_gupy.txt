@@ -1,0 +1,101 @@
+link_vaga-https://vertigo.gupy.io/job/eyJqb2JJZCI6NzkwMjUyMCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR(A) BACKEND LIFERAY PLENO/SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+Nosso time é composto por pessoas inquietas com foco no resultado e que se interessem pelo ambiente de transformação e inovação digital. 
+Nosso time é composto por pessoas
+com foco no resultado e que se interessem pelo ambiente de 
+Aqui na Vertigo Tecnologia ajudamos a melhorar a vida dos nossos clientes e dos cidadãos como um todo.
+Procuramos por um(a) Desenvolvedor(a) Backend Liferay Pleno/Sênior que queira se desenvolver com a Vertigo! 
+Procuramos por um(a)
+que queira se desenvolver com a Vertigo! 
+#GoVertigo 🚀
+RESPONSABILIDADES E ATRIBUIÇÕES
+Será responsável por desenvolver, testar, depurar e implantar aplicativos, componentes ou funcionalidades em projetos web;Será responsável por versionar corretamente o código criado, de acordo com os padrões definidos no projeto (de modo geral baseado no pattern Gitflow);Será responsável por implementar correções e melhorias em projetos baseados na plataforma Liferay;Contribuir para a inclusão do código produzido no pipeline de CI/CD utilizado no projeto;Contribuir para a preparação e execução de testes (manuais e automatizados);Seguir corretamente as normas e padrões de qualidade e segurança definidos para o projeto;Contribuir com os demais integrantes do time, promovendo um contexto de colaboração e cooperação.
+Será responsável por desenvolver, testar, depurar e implantar aplicativos, componentes ou funcionalidades em projetos web;
+Será responsável por versionar corretamente o código criado, de acordo com os padrões definidos no projeto (de modo geral baseado no pattern Gitflow);
+Será responsável por implementar correções e melhorias em projetos baseados na plataforma Liferay;
+Contribuir para a inclusão do código produzido no pipeline de CI/CD utilizado no projeto;
+Contribuir para a preparação e execução de testes (manuais e automatizados);
+Seguir corretamente as normas e padrões de qualidade e segurança definidos para o projeto;
+Contribuir com os demais integrantes do time, promovendo um contexto de colaboração e cooperação.
+REQUISITOS E QUALIFICAÇÕES
+Formação: Superior completo em ciência de computação/engenharia de sistemas ou qualquer outro curso superior na área de tecnologia;Experiência de 3 anos ou mais em desenvolvimento de software;Experiência de 1 anos ou mais em desenvolvimento de projetos de portais (Liferay v7.1 ou superior e etc);Experiência com Java (OSGI, JAXRS, JAXWS, Spring, Hibernate, entre outros);Experiência com o workflow de versionamento gitflow; Conhecimento de práticas de DevOps (pipelines de CI/CD, entrega contínua, utilização de containers e gerenciadores de containers, utilização de práticas de GitOps, infra-estrutura como código, ferramentas como JENKINS, GitLab CI, Github Actions);Conhecimento em Linux (Ubuntu Server, Debian, Centos);Domínio de SQL;Inglês intermediário (Técnico).
+Formação: Superior completo em ciência de computação/engenharia de sistemas ou qualquer outro curso superior na área de tecnologia;
+Experiência de 3 anos ou mais em desenvolvimento de software;
+Experiência de 1 anos ou mais em desenvolvimento de projetos de portais (Liferay v7.1 ou superior e etc);
+Experiência com Java (OSGI, JAXRS, JAXWS, Spring, Hibernate, entre outros);
+Experiência com o workflow de versionamento gitflow; 
+Conhecimento de práticas de DevOps (pipelines de CI/CD, entrega contínua, utilização de containers e gerenciadores de containers, utilização de práticas de GitOps, infra-estrutura como código, ferramentas como JENKINS, GitLab CI, Github Actions);
+Conhecimento em Linux (Ubuntu Server, Debian, Centos);
+Domínio de SQL;
+Inglês intermediário (Técnico).
+INFORMAÇÕES ADICIONAIS
+E SERÁ AINDA MAIS INCRÍVEL SE VOCÊ TIVER:
+Pós-graduação ou certificação na área de em TI;
+Conhecimento de frameworks SPA como react ou angular;
+Experiência em configuração e tunning de servidores web (Nginx e Apache);
+Experiência em configuração e tunning de servidores de aplicação (Tomcat e JBoss);
+Experiência nas Tecnologias: Kubernetes, Docker;
+Conhecimentos sobre arquiteturas e boas práticas (Design Patterns, Arquitetura MVC, CleanCode, Design Patterns);
+Experiência com automatização de testes e testes de carga;
+Experiência com avaliação de qualidade de código, preferencialmente SONAR;
+Inglês avançado.
+Você quer fazer parte do nosso time?
+Você quer fazer parte do nosso time?
+Se inscreva, e embarque nessa jornada com a gente! 💙
+💙
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Bate Papo com Time de Gente3Bate Papo com Time de Gente
+Etapa 3: Bate Papo com Time de Gente
+3
+Bate Papo com Time de Gente
+Etapa 4: Bate Papo com o Time Técnico4Bate Papo com o Time Técnico
+Etapa 4: Bate Papo com o Time Técnico
+4
+Bate Papo com o Time Técnico
+Etapa 5: Bate Papo com Gestor5Bate Papo com Gestor
+Etapa 5: Bate Papo com Gestor
+5
+Bate Papo com Gestor
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+UM POUCO SOBRE NÓS:
+Somos a Vertigo, uma Consultoria de Tecnologia que, desde 1999, ajuda clientes a acelerarem a Jornada de Transformação Digital.
+Somos a Vertigo, uma 
+ que, desde 1999, ajuda clientes a acelerarem a 
+.
+ 
+ 
+Um dos nossos maiores diferenciais é o lado humano, pois caminhamos sempre junto de nossos colaboradores, além de equipes altamente qualificadas.
+Um dos nossos maiores diferenciais é o 
+, pois caminhamos sempre junto de nossos colaboradores, além de equipes altamente qualificadas.
+ 
+ 
+Atuamos com a definição de estratégia digital nas etapas de planejamento, implantação e sustentação da plataforma tecnológica cloud-native. Possuímos times de especialistas, multidisciplinares independentes e auto- suficientes, que atuam com mitigação de riscos.
+Atuamos com a definição de
+ nas etapas de planejamento, implantação e sustentação da 
+. Possuímos times de especialistas, multidisciplinares independentes e auto- suficientes, que atuam com mitigação de riscos.
+
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

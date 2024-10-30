@@ -1,0 +1,121 @@
+link_vaga-https://afinz.gupy.io/job/eyJqb2JJZCI6Nzc3OTY0OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+CIENTISTA DE DADOS PL
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Fazer parte da Afinz é integrar uma empresa que é 100% a fim de pessoas, afinal, crescer juntos, lado a lado, é o que nos interessa. Por este motivo investimos no crescimento de todos, pois acreditamos que isso é fundamental para a continuação do nosso desenvolvimento como Cia, enquanto, paralelamente, você se torna cada vez mais protagonista da sua própria história.
+Enxergamos os nossos profissionais além de colaboradores ou recursos, mas sim como Gente, que são partes fundamentais em nosso ecossistema, que é vivo e regido por nossa Cultura.
+Pertencer a Afinz é ter espaço para vivenciar formas que unem ideias, pessoas e sonhos.
+ 
+VemPraAfinz aqui a nossa afinidade vai de A a Z.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Construção e aprimoramento de modelos preditivos complexos para avaliação de riscos de crédito.Realização de testes e validações para assegurar a precisão e eficácia dos modelos existentes.Monitoramento do desempenho dos modelos e identificação de melhorias ou ajustes necessários.Participação colaborativa na criação de políticas e estratégias de de crédito com base nas análises realizadas.Construção de análises que demonstrem, tanto tecnicamente quanto financeiramente os ganhos que um novo modelo de crédito pode oferecer.Produtização de modelos em API ou em DAG's utilizando pipelines de CI/CD.Colaboração na otimização de processos e na implementação de soluções inovadoras para melhorar a eficiência na avaliação de crédito.
+Construção e aprimoramento de modelos preditivos complexos para avaliação de riscos de crédito.
+Realização de testes e validações para assegurar a precisão e eficácia dos modelos existentes.
+Monitoramento do desempenho dos modelos e identificação de melhorias ou ajustes necessários.
+Participação colaborativa na criação de políticas e estratégias de de crédito com base nas análises realizadas.
+Construção de análises que demonstrem, tanto tecnicamente quanto financeiramente os ganhos que um novo modelo de crédito pode oferecer.
+Produtização de modelos em API ou em DAG's utilizando pipelines de CI/CD.
+Colaboração na otimização de processos e na implementação de soluções inovadoras para melhorar a eficiência na avaliação de crédito.
+REQUISITOS E QUALIFICAÇÕES
+Ensino superior completo em Estatística, Matemática, Ciência da Computação, Engenharia ou áreas correlatas.Inglês Profissional;Conhecimento avançado das linguagens de programação Python e SQL;Conhecimento dos pacotes em Python: Pandas, Numpy, Scikit-Learn, CatBoost, XGBoost, TensorFlow, Keras ou similares.Conhecimento intermediário em PySpark;Conhecimento intermediário em Serviços Cloud (AWS, GCP, Azure): Máquinas Virtuais, Conteinerização de Serviços e DataLake;Conhecimento intermediário de Docker;Conhecimento intermediário em plataformas Git;Capacidade analítica;Inovação;                             Visão estratégica;                 Pensamento Crítico;
+Ensino superior completo em Estatística, Matemática, Ciência da Computação, Engenharia ou áreas correlatas.
+Inglês Profissional;
+Conhecimento avançado das linguagens de programação Python e SQL;
+Conhecimento dos pacotes em Python: Pandas, Numpy, Scikit-Learn, CatBoost, XGBoost, TensorFlow, Keras ou similares.
+Conhecimento intermediário em PySpark;
+Conhecimento intermediário em Serviços Cloud (AWS, GCP, Azure): Máquinas Virtuais, Conteinerização de Serviços e DataLake;
+Conhecimento intermediário de Docker;
+Conhecimento intermediário em plataformas Git;
+Capacidade analítica;
+Inovação;                             
+Visão estratégica;                 
+Pensamento Crítico;
+INFORMAÇÕES ADICIONAIS
+*Modelo de trabalho Hibrido conforme região e politica interna;
+Benefícios
+Oferecer a melhor experiência de trabalho é um dos nossos maiores objetivos, confira os benefícios que você terá aqui na Afinz:
+.    Vale Refeição e/ou Alimentação
+.    Vale Cultura
+.    Vale Transporte
+.    Assistência Médica
+.    Assistência Odontológica
+.    Seguro de Vida
+ 
+Conheça também:
+·         Gympass:
+Benefício voltado para a saúde e bem-estar, que possibilita acesso a academias, estúdios, apps, além de serviços de personal trainer.
+·         Apoio Pass:
+Acesso gratuito à plataforma de apoio psicológico, jurídico e financeiro.
+·        Box Afinz:
+Para já chegar com a nossa cara, montamos, especialmente para o profissional, a Box Afinz. Nela você vai encontrar tudo o que precisa para as suas atividades e alguns mimos para começar com o pé direito!
+·         Casamento:
+Vai se casar? Você tem alguns dias a mais para aproveitar a sua lua de mel e ainda um vale presente da Afinz!
+·         Aniversário:
+Redução da jornada de trabalho no dia do seu aniversário, para que possa curtir ao lado de quem você mais ama!
+·         Sesc:
+Temos parceria com o Sesc, que possui uma programação diversa em todo o país. São cursos, apresentações culturais, colônias de férias, atividades esportivas, serviços de saúde, excursões, entre outras atividades estendidas para a sua família.
+ 
+Desenvolvimento Profissional:
+·        Educação Corporativa: Fazendo parte da construção do nosso projeto de Educação Corporativa Afinz, dispomos para os nossos profissionais a plataforma de educação Alura (sem nenhum custo), que vem com o propósito de auxiliar no desenvolvimento de novas competências essenciais para o nosso crescimento profissional.
+·          Curso de Idiomas: Ao se tornar um profissional Afinz, você tem direito a realizar um curso completo, do básico ao avançado, da língua inglesa e espanhola. Tudo isso está disponível na Plataforma de cursos de idiomas, Alura. Ah, sem contar que temos inglês para DEV disponível também!
+·        Incentivos educacionais: Parceria com descontos em graduação, pós-graduação e cursos livres.
+ 
+Em nosso escritório você usufrui de:
+·        Sala de amamentação: Espaço reservado para amamentação.
+·        Área de descompressão: Espaço exclusivo para convivência.
+·        Parceria com estacionamentos: Desconto na mensalidade ou diárias em estacionamentos particulares próximos ao prédio.
+
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Fit Cultural2Fit Cultural
+Etapa 2: Fit Cultural
+2
+Fit Cultural
+Etapa 3: Teste de Perfil3Teste de Perfil
+Etapa 3: Teste de Perfil
+3
+Teste de Perfil
+Etapa 4: Entrevista Time Gente4Entrevista Time Gente
+Etapa 4: Entrevista Time Gente
+4
+Entrevista Time Gente
+Etapa 5: Entrevista Gestão5Entrevista Gestão
+Etapa 5: Entrevista Gestão
+5
+Entrevista Gestão
+Etapa 6: Carta Proposta6Carta Proposta
+Etapa 6: Carta Proposta
+6
+Carta Proposta
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+SOMOS AFINZ
+Somos 100% a fim de pessoas.
+Aqui confiamos nas pessoas, que fazem parte da nossa trajetória, nos nossos parceiros, que estão nessa junto com a gente, e nos nossos clientes, que são a razão do nosso empenho. É assim que fortalecemos relacionamentos, com empatia, simplicidade e transparência, porque não parcelamos dedicação.
+Somos criadores.
+Valorizamos e estimulamos o espaço para prototipar! Unimos ideias, pessoas, sonhos, conceitos e crenças. Experimentamos constantemente novas formas de ser e fazer. Temos orgulho de estar junto com nossos clientes de ponta a ponta, oferecendo mais do que produtos e serviços financeiros – promovemos experiências únicas e memoráveis.
+Somos comprometidos com a simplicidade.
+Nosso ecossistema começa aqui! Lançamos mão da tecnologia e da inovação para desfazer impedimentos e tornar o nosso dia a dia cada vez mais simples. Assim, nos sobra tempo para darmos atenção ao que realmente importa.
+Somos fruto da nossa história de sucesso.
+Uma história de tantos anos, que envolveu a todos nós, e que agora começa um novo capítulo de transformação – trajetória que construiremos juntos a partir da nossa coragem, ousadia e dedicação. Somos a fim de fazer diferente e construir o novo, com você e pra você!
+Somos Afinz.
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

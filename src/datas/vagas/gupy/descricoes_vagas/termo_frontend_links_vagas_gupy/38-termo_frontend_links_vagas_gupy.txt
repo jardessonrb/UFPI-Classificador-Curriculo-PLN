@@ -1,0 +1,73 @@
+link_vaga-https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6Nzk5ODcyMSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESARROLLADOR FRONTEND REACT BASF
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+¡Sé parte de Stefanini!
+En Stefanini somos más de 30.000 genios, conectados desde 40 países, haciendo lo que les apasiona y co-creando un futuro mejor.
+RESPONSABILIDADES E ATRIBUIÇÕES
+1.     React con Redux (prioritario)
+Desarrollo de aplicaciones front-end utilizando React.js.
+Gestión del estado global de la aplicación con Redux.
+Uso de herramientas como Redux Toolkit para simplificar la configuración de Redux.
+Implementación de middleware de Redux, como Redux Thunk o Redux-Saga.
+2.     Redux-Saga (secundario)
+Manejo de efectos secundarios asíncronos en aplicaciones React usando Redux-Saga.
+Creación de flujos de trabajo con generators y watchers en Redux-Saga.
+Control de flujo de datos asincrónicos y efectos secundarios complejos en aplicaciones React-Redux.
+3.     Ant Design (terciario)
+Experiencia en el uso de Ant Design como biblioteca de componentes UI.
+Personalización de temas en Ant Design.
+Uso de componentes avanzados y diseño adaptable con Ant Design.
+4.     React con Bootstrap
+Uso de React Bootstrap para crear interfaces responsivas y adaptables.
+Conocimiento de los componentes básicos y utilitarios de Bootstrap en proyectos React.
+Familiaridad con el sistema de grillas de Bootstrap y su implementación en React.
+5.     Otras habilidades recomendadas (opcionales):
+HTML5 & CSS3: Maquetación semántica, diseño adaptable con Flexbox y Grid.
+Git: Control de versiones con Git y colaboración en plataformas como GitHub o GitLab.
+REQUISITOS E QUALIFICAÇÕES
+3+ años de experiencia desarrollando aplicaciones con REACT.Radicar en México.Experiencia trabajando en entornos ágiles.
+3+ años de experiencia desarrollando aplicaciones con REACT.
+Radicar en México.
+Experiencia trabajando en entornos ágiles.
+INFORMAÇÕES ADICIONAIS
+Home Office 100%
+Home Office 100%
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista2Entrevista
+Etapa 2: Entrevista
+2
+Entrevista
+Etapa 3: Confirmación de candidato3Confirmación de candidato
+Etapa 3: Confirmación de candidato
+3
+Confirmación de candidato
+Etapa 4: Onboarding4Onboarding
+Etapa 4: Onboarding
+4
+Onboarding
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+CONOCE A STEFANINI
+Somos una empresa global con 35 años de experiencia en el mercado, ofrecemos una sólida selección de servicios como: automatización, nube, Internet de las cosas (IoT) y experiencia de usuario (UX).
+Creemos que la tecnología puede revolucionar una empresa y la innovación es fundamental para fomentar el desarrollo y la competitividad. También valoramos las nuevas ideas y el poder de una mente abierta, por lo que reconocemos que cada talento es esencial para la calidad de nuestros proyectos y especialmente para nuestro progreso.
+Creemos que la tecnología puede revolucionar una empresa y la innovación es fundamental para fomentar el desarrollo y la competitividad. También valoramos las nuevas ideas y el poder de una mente abierta, por lo que reconocemos que cada talento es esencial para la calidad de nuestros proyectos y especialmente para nuestro progreso.
+Mantenemos nuestra excelencia invirtiendo en innovaciones tecnológicas, las mejores alianzas, adquisiciones de empresas en todo el mundo y la contratación de profesionales altamente capacitados.
+CONOCE MÁS SOBRE NOSOTROS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

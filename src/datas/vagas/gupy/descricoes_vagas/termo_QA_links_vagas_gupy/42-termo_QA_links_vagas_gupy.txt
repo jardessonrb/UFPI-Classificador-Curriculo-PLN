@@ -1,0 +1,88 @@
+link_vaga-https://domo.gupy.io/job/eyJqb2JJZCI6Nzg0MDA4NCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+QUALITY ASSURANCE SÊNIOR (QA)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Venha Ser Domo!
+Quem Somos:
+Um novo hub de inovação com foco na transformação digital que veio pra fazer a diferença. Somos o Domo. Desenvolvemos soluções no presente, conectados com as demandas do futuro. 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Suas atividades do dia a dia serão: 
+﻿Projetar e implementar planos de teste para sistemas ou processos, bem como Identificar procedimentos e cenários de controle de qualidade de produtos e serviços.
+Realizar análises de produtos e informar a equipe de desenvolvimento quanto a defeitos e erros, comunicando a equipe de desenvolvimento as descobertas quantitativas e qualitativas a partir dos resultados dos testes e assegurar que o produto final esteja em conformidade com boas práticas de qualidade e de segurança. Aderentes a nossa governança de DevSecOps.
+Criar casos de teste (manual ou automatizado) e analisar resultados, avaliar o código do produto de acordo com as especificações; criar logs para documentar fases de teste e defeitos; reportar erros para as equipes de desenvolvimento; ajudar a solucionar problemas; realizar testes pós-lançamento / pós-implementação.
+Trabalhar com equipes multifuncionais para garantir a qualidade, segurança e governança corporativa de nosso Pipeline.
+REQUISITOS E QUALIFICAÇÕES
+Requisitos:
+Graduação completa em Ciência da Computação, Sistemas de Informação ou demais cursos voltados à Tecnologia e áreas afins.
+Graduação completa em Ciência da Computação, Sistemas de Informação ou demais cursos voltados à Tecnologia e áreas afins.
+Experiência de 5 anos no desenvolvimento de soluções e projetos de TI.
+Experiência como QA principal ou cargo similar.
+Familiaridade com metodologias ágeis.
+Familiaridade com metodologias ágeis.
+Implementar testes (manuais e automatizados).
+Implementar testes (manuais e automatizados).
+Conhecimento em banco de dados SQL.
+Conhecimento em banco de dados SQL.
+Conhecimento em versionamento de código (GIT)
+Conhecimento em versionamento de código (GIT)
+Conhecimento de ferramentas SAST e DAST de avaliação de Código
+Conhecimento de ferramentas SAST e DAST de avaliação de Código
+Dominio na codificação (desejável em uma dessas: C#, Java, Cobol, Python, Ruby).
+Dominio na codificação (desejável em uma dessas: C#, Java, Cobol, Python, Ruby).
+Desejável familiaridade em codificação em APIs de plataformas de produtos (ex.: Azure Devops, Sonarqube, SQ Windows, IIS, etc).
+Desejável familiaridade em codificação em APIs de plataformas de produtos (ex.: Azure Devops, Sonarqube, SQ Windows, IIS, etc).
+Desejável conhecimento na parte de estatísticas e definição de indicadores.
+Desejável conhecimento na parte de estatísticas e definição de indicadores.
+Desejável conhecimento nas plataformas Azure, Devops, Sonarqube, Visual Studio, Visual Studio Code, SQL Server, Tecnologias de Nuvem.
+Desejável conhecimento nas plataformas Azure, Devops, Sonarqube, Visual Studio, Visual Studio Code, SQL Server, Tecnologias de Nuvem.
+INFORMAÇÕES ADICIONAIS
+Benefícios Domo:
+No dress code
+Assistência Médica
+Assistência Odontológica
+Vale refeição
+Previdência Privada
+Seguro de vida
+Vale transporte
+Gympass
+Day Off
+Todas as nossas vagas também são direcionadas a PCDs. Aqui no Domo ninguém fica de fora!
+Todas as nossas vagas também são direcionadas a PCDs. Aqui no Domo ninguém fica de fora!
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista Talentos2Entrevista Talentos
+Etapa 2: Entrevista Talentos
+2
+Entrevista Talentos
+Etapa 3: Entrevista com Gestor3Entrevista com Gestor
+Etapa 3: Entrevista com Gestor
+3
+Entrevista com Gestor
+Etapa 4: Avaliação Comportamental4Avaliação Comportamental
+Etapa 4: Avaliação Comportamental
+4
+Avaliação Comportamental
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+SOMOS INOVADORES. SEM LIMITAÇÃO.
+Essa é a nossa essência.
+Somos intensos na busca de soluções.
+Queremos transformar e reinventar.
+Vamos nos conectar com o novo
+em um ambiente leve e descontraído,
+com autonomia e trabalho em equipe
+para alcançar grandes resultados.

@@ -1,0 +1,112 @@
+link_vaga-https://geoambiente.gupy.io/job/eyJqb2JJZCI6Nzk4MjM2Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR FULL STACK JÚNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+Sobre a Geoambiente
+Quer transformar o futuro da tecnologia? Junte-se a nós e seja parte de uma equipe que acelera a transformação digital das empresas, oferecendo soluções tecnológicas de ponta!
+Quer transformar o futuro da tecnologia? Junte-se a nós e seja parte de uma equipe que acelera a transformação digital das empresas, oferecendo soluções tecnológicas de ponta!
+Com quase 30 anos de expertise em inteligência de localização, atuamos com serviços de geotecnologias atendendo todo o Brasil. Trabalhamos com os mais elevados padrões, utilizando técnicas avançadas de sensoriamento remoto e sistemas de informação geográfica.
+Com quase 30 anos de expertise em inteligência de localização, atuamos com serviços de geotecnologias atendendo todo o Brasil. Trabalhamos com os mais elevados padrões, utilizando técnicas avançadas de sensoriamento remoto e sistemas de informação geográfica.
+Somos parceiros premier do Google no Brasil, com interface direta ao time e atuando como revendedores oficiais das plataformas Google Maps, Google Workspace e Google Cloud. Nossos times são compostos por especialistas certificados, que colaboram com empresas de destaque nos setores público e privado.
+Somos parceiros premier do Google no Brasil, com interface direta ao time e atuando como revendedores oficiais das plataformas Google Maps, Google Workspace e Google Cloud. Nossos times são compostos por especialistas certificados, que colaboram com empresas de destaque nos setores público e privado.
+Sobre a oportunidade
+Estamos buscando um profissional com capacidade de aprendizado rápido e apaixonado por inovações para nossa área de tecnologia.
+Este profissional deverá aprender sobre arquitetura de projetos e se familiarizar com as necessidades do mercado ligadas a tecnologias. Ele terá a oportunidade de propor novas visões sobre soluções tecnológicas, aprender sobre sistemas de localização, aplicações em nuvem, além de acompanhar a implantação dos projetos.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Construção de APIs RESTful: Desenvolver APIs robustas e eficientes utilizando Node.js e Adonis.js para comunicação entre o front-end e o back-end da aplicação.Desenvolvimento de interfaces de usuário: Criar interfaces web interativas e responsivas utilizando Angular, garantindo uma boa experiência para o usuário.Implementação de lógica de negócios: Traduzir os requisitos de negócio em código funcional, tanto no front-end quanto no back-end.Manipulação de dados: Interagir com o banco de dados PostgreSQL para armazenar, recuperar e manipular dados de forma eficiente e segura.Garantir a qualidade do código: Escrever código limpo, legível e testável, seguindo as melhores práticas de desenvolvimento.Colaborar com a equipe: Trabalhar em conjunto com outros desenvolvedores, designers e stakeholders para entregar soluções completas e de alta qualidade.
+Construção de APIs RESTful: Desenvolver APIs robustas e eficientes utilizando Node.js e Adonis.js para comunicação entre o front-end e o back-end da aplicação.
+Desenvolver APIs robustas e eficientes utilizando Node.js e Adonis.js para comunicação entre o front-end e o back-end da aplicação.
+Desenvolvimento de interfaces de usuário: Criar interfaces web interativas e responsivas utilizando Angular, garantindo uma boa experiência para o usuário.
+Criar interfaces web interativas e responsivas utilizando Angular, garantindo uma boa experiência para o usuário.
+Implementação de lógica de negócios: Traduzir os requisitos de negócio em código funcional, tanto no front-end quanto no back-end.
+Traduzir os requisitos de negócio em código funcional, tanto no front-end quanto no back-end.
+Manipulação de dados: Interagir com o banco de dados PostgreSQL para armazenar, recuperar e manipular dados de forma eficiente e segura.
+Interagir com o banco de dados PostgreSQL para armazenar, recuperar e manipular dados de forma eficiente e segura.
+Garantir a qualidade do código: Escrever código limpo, legível e testável, seguindo as melhores práticas de desenvolvimento.
+Escrever código limpo, legível e testável, seguindo as melhores práticas de desenvolvimento.
+Colaborar com a equipe: Trabalhar em conjunto com outros desenvolvedores, designers e stakeholders para entregar soluções completas e de alta qualidade.
+Trabalhar em conjunto com outros desenvolvedores, designers e stakeholders para entregar soluções completas e de alta qualidade.
+REQUISITOS E QUALIFICAÇÕES
+Quais são os requisitos para você se candidatar?
+Habilidades técnicas:
+JavaScript: Domínio sólido da linguagem JavaScript, incluindo conceitos como ES6+, programação assíncrona (Promises, Async/Await) e manipulação de DOM.
+ Domínio sólido da linguagem JavaScript, incluindo conceitos como ES6+, programação assíncrona (Promises, Async/Await) e manipulação de DOM.
+Node.js: Experiência com desenvolvimento back-end usando Node.js, incluindo construção de APIs RESTful e conhecimento de boas práticas de desenvolvimento.
+ Experiência com desenvolvimento back-end usando Node.js, incluindo construção de APIs RESTful e conhecimento de boas práticas de desenvolvimento.
+Adonis.js: Familiaridade com o framework Adonis.js para Node.js, incluindo seus principais componentes (controllers, models, routes) e recursos.
+ Familiaridade com o framework Adonis.js para Node.js, incluindo seus principais componentes (controllers, models, routes) e recursos.
+Angular: Conhecimento do framework Angular para desenvolvimento front-end, incluindo componentes, templates, roteamento e serviços.
+ Conhecimento do framework Angular para desenvolvimento front-end, incluindo componentes, templates, roteamento e serviços.
+TypeScript: Experiência com TypeScript para desenvolvimento front-end com Angular, incluindo tipagem estática e interfaces.
+ Experiência com TypeScript para desenvolvimento front-end com Angular, incluindo tipagem estática e interfaces.
+PostgreSQL: Conhecimento básico de PostgreSQL, incluindo comandos SQL para consulta e manipulação de dados (CRUD). Compreensão de modelagem de dados relacional.
+Git: Familiaridade com o sistema de controle de versão Git, incluindo comandos básicos para clonagem, commit, push, pull e branch. Conhecimento de fluxos de trabalho como Gitflow.
+ Familiaridade com o sistema de controle de versão Git, incluindo comandos básicos para clonagem, commit, push, pull e branch. Conhecimento de fluxos de trabalho como Gitflow.
+Habilidades Técnicas Desejáveis - Experiência nessas áreas são relevantes, mas não obrigatórias:
+Terraform: Noções básicas de Terraform para provisionamento de infraestrutura na nuvem.
+ Noções básicas de Terraform para provisionamento de infraestrutura na nuvem.
+Docker: Conhecimento básico de Docker para criação e gerenciamento de containers.
+ Conhecimento básico de Docker para criação e gerenciamento de containers.
+Google Cloud Platform (GCP): Familiaridade com os serviços do Google Cloud Platform, como Compute Engine, App Engine, Cloud Storage e Cloud SQL.
+ Familiaridade com os serviços do Google Cloud Platform, como Compute Engine, App Engine, Cloud Storage e Cloud SQL.
+Habilidades comportamentais:
+﻿
+Pensamento crítico e resolução de problemas: ser capaz de analisar problemas complexos, identificar soluções e implementá-las de forma eficaz.
+ ser capaz de analisar problemas complexos, identificar soluções e implementá-las de forma eficaz.
+Comunicação eficaz: É importante ser capaz de comunicar ideias técnicas de forma clara e concisa para stakeholders técnicos e não técnicos.
+ É importante ser capaz de comunicar ideias técnicas de forma clara e concisa para stakeholders técnicos e não técnicos.
+Trabalho em equipe: frequentemente irá trabalhar em equipes multidisciplinares. Portanto, é importante ter boas habilidades de trabalho em equipe e ser colaborativo.
+ frequentemente irá trabalhar em equipes multidisciplinares. Portanto, é importante ter boas habilidades de trabalho em equipe e ser colaborativo.
+Aprendizagem contínua: A área de tecnologia está em constante evolução. Assim, é importante ser um profissional proativo e estar sempre buscando aprender novas tecnologias e técnicas.
+ A área de tecnologia está em constante evolução. Assim, é importante ser um profissional proativo e estar sempre buscando aprender novas tecnologias e técnicas.
+INFORMAÇÕES ADICIONAIS
+Benefícios que a GEOAMBIENTE te proporciona!
+Regime de contratação CLT 
+Regime de contratação CLT 
+Remuneração variável 
+ 
+Vale refeição 
+Vale refeição 
+Plano de Saúde
+Plano Odontológico
+Auxílio Creche
+Auxílio Creche
+Licença Paternidade estendida
+Licença Paternidade estendida
+Seguro de Vida
+Seguro de Vida
+Flexibilidade de horário
+Trabalho Híbrido
+No Dress Code
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Bate Papo com RH2Bate Papo com RH
+Etapa 2: Bate Papo com RH
+2
+Bate Papo com RH
+Etapa 3: Entrevista com Gestor3Entrevista com Gestor
+Etapa 3: Entrevista com Gestor
+3
+Entrevista com Gestor
+Etapa 4: Contratação4Contratação
+Etapa 4: Contratação
+4
+Contratação
+SOBRE A GEOAMBIENTE:
+Nós aceleramos a transformação digital das empresas, oferecendo soluções tecnológicas de ponta. Temos mais de 25 anos de experiência em inteligência de localização.
+Somos parceiros premier do Google e revendedores oficiais das plataformas Google Cloud, Google Maps e Google Workspace. Temos times de especialistas certificados nas tecnologias e atendemos empresas que são referência de mercado (tanto do setor público quanto privado) na sua jornada de migração para nuvem e na transformação digital para empresas Data Driven.
+Oferecemos serviços de geotecnologia com os mais elevados padrões no uso de sensoriamento remoto, dados geoespaciais e inteligência de localização.
+CONHEÇA MAIS SOBRE NÓS:
+Website
+LinkedIn
+Facebook
+Instagram

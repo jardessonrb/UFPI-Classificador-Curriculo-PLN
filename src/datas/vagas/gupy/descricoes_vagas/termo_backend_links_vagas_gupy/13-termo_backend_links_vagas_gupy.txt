@@ -1,0 +1,69 @@
+link_vaga-https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6Nzk4NTE1Miwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+JR. JAVA BACKEND DEVELOPER
+Tipo de vaga: TemporárioTemporário
+Tipo de vaga: Temporário
+Temporário
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+¡Sé parte de Stefanini! En Stefanini somos más de 30.000 genios, conectados desde 41 países, haciendo lo que les apasiona y co-creando un futuro mejor.
+¡Seguro no te quieres quedar fuera!
+¡Desarrollador Java Jr.!
+¿Por qué te elegiremos? ¡Porque los desafíos que asumirás reflejan tus ambiciones!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desarrollar y mantener aplicaciones backend utilizando Java y Spring Boot 2.0.Implementar servicios bajo los principios de microservicios utilizando Spring Boot.Gestionar dependencias y procesos de compilación con Maven.Colaborar con el equipo en el despliegue de aplicaciones en Azure.Participar en pruebas y depuración de errores, asegurando la calidad del código.
+Desarrollar y mantener aplicaciones backend utilizando Java y Spring Boot 2.0.
+Implementar servicios bajo los principios de microservicios utilizando Spring Boot.
+Gestionar dependencias y procesos de compilación con Maven.
+Colaborar con el equipo en el despliegue de aplicaciones en Azure.
+Participar en pruebas y depuración de errores, asegurando la calidad del código.
+REQUISITOS E QUALIFICAÇÕES
+6 meses a 1 año de experiencia en desarrollo con Java (desde JDK 11 o superior).Conocimiento en Spring Boot 2.0 para el desarrollo de microservicios.Experiencia en desarrollo de APIs REST y servicios SOAP.Manejo de dependencias y compilaciones con Maven.Conocimientos en despliegue de aplicaciones en la nube, preferiblemente en Azure.Uso de control de versiones con Git.Deseables:Experiencia práctica en despliegue de aplicaciones en Azure AKS, Azure AppServicesConocimientos de Docker / Kubernetes.Familiaridad con metodologías ágiles como Scrum o Kanban.Conocimientos en seguridad para aplicaciones web y microservicios.
+6 meses a 1 año de experiencia en desarrollo con Java (desde JDK 11 o superior).
+Conocimiento en Spring Boot 2.0 para el desarrollo de microservicios.
+Experiencia en desarrollo de APIs REST y servicios SOAP.
+Manejo de dependencias y compilaciones con Maven.
+Conocimientos en despliegue de aplicaciones en la nube, preferiblemente en Azure.
+Uso de control de versiones con Git.
+Deseables:
+Experiencia práctica en despliegue de aplicaciones en Azure AKS, Azure AppServices
+Conocimientos de Docker / Kubernetes.
+Familiaridad con metodologías ágiles como Scrum o Kanban.
+Conocimientos en seguridad para aplicaciones web y microservicios.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevistas2Entrevistas
+Etapa 2: Entrevistas
+2
+Entrevistas
+Etapa 3: Confirmación de candidato3Confirmación de candidato
+Etapa 3: Confirmación de candidato
+3
+Confirmación de candidato
+Etapa 4: Onboarding4Onboarding
+Etapa 4: Onboarding
+4
+Onboarding
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+CONOCE A STEFANINI
+Somos una empresa global con 35 años de experiencia en el mercado, ofrecemos una sólida selección de servicios como: automatización, nube, Internet de las cosas (IoT) y experiencia de usuario (UX).
+Creemos que la tecnología puede revolucionar una empresa y la innovación es fundamental para fomentar el desarrollo y la competitividad. También valoramos las nuevas ideas y el poder de una mente abierta, por lo que reconocemos que cada talento es esencial para la calidad de nuestros proyectos y especialmente para nuestro progreso.
+Creemos que la tecnología puede revolucionar una empresa y la innovación es fundamental para fomentar el desarrollo y la competitividad. También valoramos las nuevas ideas y el poder de una mente abierta, por lo que reconocemos que cada talento es esencial para la calidad de nuestros proyectos y especialmente para nuestro progreso.
+Mantenemos nuestra excelencia invirtiendo en innovaciones tecnológicas, las mejores alianzas, adquisiciones de empresas en todo el mundo y la contratación de profesionales altamente capacitados.
+CONOCE MÁS SOBRE NOSOTROS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

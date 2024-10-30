@@ -1,0 +1,104 @@
+link_vaga-https://nzn.gupy.io/job/eyJqb2JJZCI6Nzc1NTU5MCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR(A) FULL STACK PL
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A NZN tem mais de 20 anos de expertise além de ser um dos principais players para soluções de publicidade e comunicação online. Proprietária das marcas TecMundo, VOXEL, Minha Série, The BRIEF, Mega Curioso, Baixaki e Click Jogos, a NZN veicula campanhas de mídia e de conteúdo de alto impacto para seus clientes entre marcas e agências de publicidade digital, de forma direta e em parceria com redes programáticas. Além disso, possui mais de 20 milhões de usuários mensais multiplataforma, alcançando 1 em cada 8 usuários da internet brasileira. 
+A NZN, tendo a Diversidade como um de seus sete valores, oferece oportunidades iguais em seus processos seletivos. A candidatura de todas as pessoas é incentivada, independentemente de orientação sexual, identidade de gênero, cultura, cor, etnia, religião, formação ou limitação. Caso você faça parte de algum grupo diverso, pedimos que faça seu cadastro nesta vaga.
+ Qual é o perfil de Desenvolvedor(a) Full Stack PL?
+Estamos em busca de uma pessoa que tenha um perfil dinâmico, proativo, auto gerenciável, comprometido e em constante aprendizado. Essa pessoa terá uma atuação importante em projetos de diversos portes, e o compromisso com os prazos e entendimento das demandas é essencial. Disposição para interagir com o time, aprender, compartilhar conhecimento e promover evolução dentro da empresa, além de agilidade nas tomadas de decisões técnicas e boa comunicação para defendê-las. 
+erfil dinâmico, proativo, auto gerenciável, comprometido e em constante aprendizado. Essa pessoa terá uma atuação importante em projetos de diversos portes, e o compromisso com os prazos e entendimento das demandas é essencial. Disposição para interagir com o time, aprender, compartilhar conhecimento e promover evolução dentro da empresa, além de agilidade nas tomadas de decisões técnicas e boa comunicação para defendê-las. 
+RESPONSABILIDADES E ATRIBUIÇÕES
+ O que um(a) Desenvolvedor Full Stack PL faz na NZN?
+Desenvolve plataformas e serviços na área de conteúdo para web; 
+Projetar, desenvolver e manter aplicações web completas (frontend e backend). 
+Implementa soluções escaláveis e seguras, garantindo a performance e a integridade dos sistemas. 
+Faz manutenção e melhorias em projetos já existentes; 
+Realizar code reviews, orientar desenvolvedores menos experientes e promover as melhores práticas de desenvolvimento. 
+Acompanhamento das entregas monitorando desempenho da aplicação; 
+Enxerga oportunidade de aprimoramento a cada novo projeto; 
+Desenvolve integrações com APIs e ambientes em nuvem; 
+Correção de eventuais bugs e evolução do produto; 
+Participa na definição da arquitetura e na escolha de tecnologias utilizadas nos projetos. 
+Garante a conformidade com os padrões de segurança e privacidade. 
+Trabalha em uma equipe multidisciplinar, com Product Manager, Product Design, Customer Success, além de outros desenvolvedores. 
+REQUISITOS E QUALIFICAÇÕES
+ O que o(a) Desenvolvedor(a) Full Stack PL traz em sua mochila para a NZN?
+ 
+Hardskills:
+Experiência com desenvolvimento de sistemas: .NET Framework, .NET Core, Node.js; 
+Conhecimento em frameworks e bibliotecas: ASP.NET Core, Angular, React native e React; 
+Conhecimento em arquitetura de microserviços; 
+DevOps: Experiência com CI/CD, Kubernetes, 
+APIs: Expertise em design e consumo de APIs RESTful e GraphQL. 
+Cloud: Conhecimento em serviços de cloud como AWS, Azure ou Google Cloud Platform. (adotamos Azure) 
+Frameworks e Bibliotecas: Experiência sólida com frameworks de frontend como React, Angular ou Vue.js, e frameworks de backend como Node.js ou Spring. 
+Experiência em desenvolvimento web: HTML, CSS; 
+Experiência em bancos relacionais e não relacionais: Sql Server, Mysql, MongoDB. 
+ 
+Softskills: 
+Liderança natural: Capacidade de engajar projetos e membros da equipe mais juniores, motivando e orientando-os para alcançar os objetivos. 
+Comunicação: Habilidade para comunicar ideias técnicas de forma clara e eficaz, tanto verbalmente quanto por escrito. 
+Colaboração: Facilidade para trabalhar em equipe, promovendo um ambiente de trabalho harmonioso e produtivo. 
+Resolução de Problemas: Capacidade analítica para identificar problemas complexos e propor soluções eficazes. 
+Adaptabilidade: Flexibilidade para se adaptar a novas tecnologias, metodologias e desafios do ambiente de trabalho. 
+Gestão de Tempo: Capacidade de gerenciar múltiplas tarefas e prazos, priorizando atividades de forma eficaz. 
+ Seria legal se você tivesse:
+ 
+Conhecimento em testes unitários (xUnit, Jest) e e2e (Cypress); 
+Experiência com algum Headless CMS (Wordpress, Strapi); 
+Conhecimento em SEO técnico; 
+Experiência em metodologias ágeis (Scrum, Kanban). 
+INFORMAÇÕES ADICIONAIS
+Benefícios da NZN
+  Assistência Médica Bradesco - Apartamento;
+ Assistência Odontológica Bradesco;
+ Somos uma empresa cidadã que permite aos pais uma licença aplicada pela CLT, incluindo os casos de extensão de adoção; 
+ Gympass;
+ Vale-Refeição ou Vale Alimentação (sem desconto em folha);
+ Auxílio Creche;
+ Seguro de vida;
+PLR;
+ Horário Flexível e Modelo Remoto de Trabalho;
+ Dia de folga de aniversário; 
+ Política de Aprimoramento (ajuda de custo em cursos, treinamentos e livros);
+ Plano de Progressão de Carreira;
+ Auxílio Home Office e Mobilidade;
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista de Fit Cultural2Entrevista de Fit Cultural
+Etapa 2: Entrevista de Fit Cultural
+2
+Entrevista de Fit Cultural
+Etapa 3: Entrevista Técnica3Entrevista Técnica
+Etapa 3: Entrevista Técnica
+3
+Entrevista Técnica
+Etapa 4: Case Técnico4Case Técnico
+Etapa 4: Case Técnico
+4
+Case Técnico
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+POR DENTRO DA NZN!
+Há mais de 20 anos no mercado, somos líder na criação de audiências segmentadas e um dos principais players para soluções de publicidade e produção de conteúdo digital no Brasil. Com três pilares independentes - NZN Media, NZN Content e NZN Services -, oferecemos serviços exclusivos para planejamento e execução de campanhas digitais, com 28 milhões de usuários únicos mensais, alcançando um em cada cinco usuários da internet brasileira.
+Há mais de 20 anos no mercado, somos líder na criação de audiências segmentadas e um dos principais players para soluções de publicidade e produção de conteúdo digital no Brasil. Com três pilares independentes - NZN Media, NZN Content e NZN Services -, oferecemos serviços exclusivos para planejamento e execução de campanhas digitais, com 28 milhões de usuários únicos mensais, alcançando um em cada cinco usuários da internet brasileira.
+SAIBA MAIS SOBRE NÓS!
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

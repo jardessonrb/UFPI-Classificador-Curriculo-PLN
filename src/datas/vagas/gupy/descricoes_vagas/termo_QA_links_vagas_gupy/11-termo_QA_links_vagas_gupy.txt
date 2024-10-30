@@ -1,0 +1,118 @@
+link_vaga-https://codexutilities.gupy.io/job/eyJqb2JJZCI6NzM3NTE0Miwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE QUALIDADE PLENO (QA)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Gosta de garantir entregas com qualidade? Gosta de desafios? Gosta de aprendizado e compartilhamento de conhecimento? Ser Analista qualidade de testes na Codex Utilities é entregar soluções para escalar o negócio, garantir a eficiência operacional e melhorar o retorno sobre o investimento de nossos clientes.
+Hoje, temos uma estrutura organizada em squads onde você pode ter certeza que fará parte de uma equipe com muitos desafios e aprendizados diários ao lado de pessoas incríveis!
+Venha fazer parte de uma equipe multidisciplinar com cultura ágil e colaborativa.
+Venha fazer parte de uma equipe multidisciplinar com cultura ágil e colaborativa.
+O que valorizamos nas pessoas que desejam fazer parte de nosso time:
+Quem participa em comunidades de tecnologia (palestras, meetups, eventos, ...);
+Quem participa em comunidades de tecnologia (palestras, meetups, eventos, ...);
+Quem esteja sempre disposto a analisar nossa situação atual e propor melhorias no dia a dia de trabalho com intuito de facilitar nosso trabalho para alcançar nossos objetivos;
+Quem esteja sempre disposto a analisar nossa situação atual e propor melhorias no dia a dia de trabalho com intuito de facilitar nosso trabalho para alcançar nossos objetivos;
+Quem gosta de navegar em outras especialidades que não estejam diretamente ligadas ao seu dia a dia de trabalho e agregar novos conhecimento ao time em que estará inserido.
+Quem gosta de navegar em outras especialidades que não estejam diretamente ligadas ao seu dia a dia de trabalho e agregar novos conhecimento ao time em que estará inserido.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Planejar os testes, elaborar o plano de testes e quais os resultados são esperados, bem como, validar a configuração do ambiente necessário para realização dos testes;Avaliar os riscos e impactos nos testes;Endereçar as não-conformidades, referentes aos testes executados;Elaborar BDD (Behavior Driven Development);Criar e executar o plano e casos de testes de ponta a ponta juntamente com gerenciamento de defeitos;Escrever casos de teste e executá-los dentro de um ambiente de serviço para testes funcionais e de integração, junto com gerenciamento e resolução de defeitos;Auxiliar os usuários na definição dos testes de aceitação, planos e casos de testes;Criar e manter casos de testes dentro do ciclo de vida da aplicação.
+Planejar os testes, elaborar o plano de testes e quais os resultados são esperados, bem como, validar a configuração do ambiente necessário para realização dos testes;
+Avaliar os riscos e impactos nos testes;
+Endereçar as não-conformidades, referentes aos testes executados;
+Elaborar BDD (Behavior Driven Development);
+Criar e executar o plano e casos de testes de ponta a ponta juntamente com gerenciamento de defeitos;
+Escrever casos de teste e executá-los dentro de um ambiente de serviço para testes funcionais e de integração, junto com gerenciamento e resolução de defeitos;
+Auxiliar os usuários na definição dos testes de aceitação, planos e casos de testes;
+Criar e manter casos de testes dentro do ciclo de vida da aplicação.
+REQUISITOS E QUALIFICAÇÕES
+Requisitos:
+Superior completo na área de Tecnologia.
+Superior completo na área de Tecnologia.
+Conhecimento Desejáveis:
+Conhecimentos em Metodologia de Teste;
+Conhecimento em Metodologias Ágeis (Scrum);
+Azure DevOps;
+Testes mobile, Automação de Testes, Testes de serviços e Arquitetura de testes;
+Automação de Testes, 
+Conhecimento em sistemas para Utilities no mercado de energia elétrica;
+Office;
+Office;
+Ferramentas da ALM;
+Ferramentas da ALM;
+Consultas em banco de dados;
+Consultas em banco de dados;
+Inglês Básico.
+Inglês Básico.
+INFORMAÇÕES ADICIONAIS
+Plano de Saúde; Assistência Odontológica;Vale alimentação ou refeição;Seguro de Vida Individual - sem custos para o colaborador;Cooperativa de crédito;PLR;Incentivo a idiomas: até 2h de estudo durante a semana;Flexibilidade de Horário de até 1 hora na sua jornada;Day off no dia do seu aniversário;Oportunidades de movimentação interna;Programa de Indicação;Um ambiente de trabalho saudável e humanizado, com espaço para inovação e autenticidade.
+Plano de Saúde; 
+Plano de Saúde; 
+Assistência Odontológica;
+Assistência Odontológica;
+Vale alimentação ou refeição;
+Vale alimentação ou refeição;
+Seguro de Vida Individual - sem custos para o colaborador;
+Seguro de Vida Individual - sem custos para o colaborador;
+Cooperativa de crédito;
+Cooperativa de crédito;
+PLR;
+PLR;
+Incentivo a idiomas: até 2h de estudo durante a semana;
+Incentivo a idiomas: até 2h de estudo durante a semana;
+Flexibilidade de Horário de até 1 hora na sua jornada;
+Flexibilidade de Horário de até 1 hora na sua jornada;
+Day off no dia do seu aniversário;
+Day off no dia do seu aniversário;
+Oportunidades de movimentação interna;
+Oportunidades de movimentação interna;
+Programa de Indicação;
+Programa de Indicação;
+Um ambiente de trabalho saudável e humanizado, com espaço para inovação e autenticidade.
+Um ambiente de trabalho saudável e humanizado, com espaço para inovação e autenticidade.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Fit Cultural2Fit Cultural
+Etapa 2: Fit Cultural
+2
+Fit Cultural
+Etapa 3: Entrevista Técnica3Entrevista Técnica
+Etapa 3: Entrevista Técnica
+3
+Entrevista Técnica
+Etapa 4: Avaliação Comportamental4Avaliação Comportamental
+Etapa 4: Avaliação Comportamental
+4
+Avaliação Comportamental
+Etapa 5: Comitê5Comitê
+Etapa 5: Comitê
+5
+Comitê
+Etapa 6: Carta Oferta6Carta Oferta
+Etapa 6: Carta Oferta
+6
+Carta Oferta
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+SOBRE A CODEX UTILITIES
+A Codex Utilities combina um robusto background tecnológico com profundo conhecimento de negócio do setor de utilities para resolver questões estratégicas das principais empresas desse segmento. 
+ 
+Saiba mais em nosso site.
+Saiba mais em 
+.
+VEM CONHECER MAIS SOBRE A GENTE!
+Website
+LinkedIn
+Instagram

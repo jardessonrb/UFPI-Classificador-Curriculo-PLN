@@ -1,0 +1,120 @@
+link_vaga-https://senaicimatec.gupy.io/job/eyJqb2JJZCI6Nzg4NzkwMywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+CONSULTOR III - DESENVOLVEDOR FULLSTACK SR - RP 1200785
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Vamos juntos mudar o mundo? 
+ 
+Você valoriza a Ética acima de tudo, tem Visão Compartilhada, acredita na Sustentabilidade Sistêmica, em entregar resultados com Excelência e é apaixonado por Inovação?
+Se a sua resposta foi SIM, então nós queremos conhecer você! 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Atividades do cargoProjetar, implementar e manter aplicações completas, trabalhando tanto no front-end quanto no back-end, garantindo que a aplicação seja funcional, escalável e eficiente;Realizar revisões de código de desenvolvedores juniores e intermediários, garantindo a qualidade do código e oferecendo orientação técnica e melhores práticas de desenvolvimento;Integrar a aplicação com serviços de terceiros (APIs externas, serviços de pagamento, etc.) e realizar manutenção contínua para garantir que esses serviços funcionem corretamente dentro da aplicação;Identificar gargalos de desempenho tanto no front-end quanto no back-end, implementando otimizações.
+Atividades do cargo
+Projetar, implementar e manter aplicações completas, trabalhando tanto no front-end quanto no back-end, garantindo que a aplicação seja funcional, escalável e eficiente;
+Projetar, implementar e manter aplicações completas, trabalhando tanto no front-end quanto no back-end, garantindo que a aplicação seja funcional, escalável e eficiente;
+Realizar revisões de código de desenvolvedores juniores e intermediários, garantindo a qualidade do código e oferecendo orientação técnica e melhores práticas de desenvolvimento;
+Realizar revisões de código de desenvolvedores juniores e intermediários, garantindo a qualidade do código e oferecendo orientação técnica e melhores práticas de desenvolvimento;
+Integrar a aplicação com serviços de terceiros (APIs externas, serviços de pagamento, etc.) e realizar manutenção contínua para garantir que esses serviços funcionem corretamente dentro da aplicação;
+Integrar a aplicação com serviços de terceiros (APIs externas, serviços de pagamento, etc.) e realizar manutenção contínua para garantir que esses serviços funcionem corretamente dentro da aplicação;
+Identificar gargalos de desempenho tanto no front-end quanto no back-end, implementando otimizações.
+Identificar gargalos de desempenho tanto no front-end quanto no back-end, implementando otimizações.
+REQUISITOS E QUALIFICAÇÕES
+Conhecimentos Técnicos Requeridos
+Experiências nas linguagens de programação, principalmente Angular e Python;
+Experiências nas linguagens de programação, principalmente Angular e Python;
+Experiência com bancos de dados relacionais (MySQL, PostgreSQL) e não-relacionais (MongoDB, Redis);
+Experiência com bancos de dados relacionais (MySQL, PostgreSQL) e não-relacionais (MongoDB, Redis);
+Experiência com Git e plataformas de hospedagem de código como GitHub ou GitLab, incluindo práticas de branching, pull requests, e resolução de conflitos;
+Experiência com Git e plataformas de hospedagem de código como GitHub ou GitLab, incluindo práticas de branching, pull requests, e resolução de conflitos;
+Conhecimento em práticas de DevOps, como CI/CD (Continuous Integration/Continuous Deployment);
+Conhecimento em práticas de DevOps, como CI/CD (Continuous Integration/Continuous Deployment);
+Graduação em TI ou afins com pós-graduação.
+Graduação em TI ou afins com pós-graduação.
+Conhecimentos Desejáveis
+Familiaridade com a arquitetura de microsserviços e práticas associadas;
+Familiaridade com a arquitetura de microsserviços e práticas associadas;
+Inglês intermediário.
+Inglês intermediário.
+INFORMAÇÕES ADICIONAIS
+Essa é uma vaga no formato de Contrato Intermitente e, se você não conhece essa modalidade, a gente te explica!
+Essa é uma vaga no formato de Contrato Intermitente e, se você não conhece essa modalidade, a gente te explica!
+ 
+Você terá um vínculo CLT com uma modalidade de convocação sob demanda para atuar em diferentes projetos.
+Você terá um vínculo CLT com uma modalidade de convocação sob demanda para atuar em diferentes projetos.
+Sempre que houver demanda, a pessoa contratada será convocada com 3 dias de antecedência e poderá avaliar se tem disponibilidade para atuar no período solicitado. Caso aceite a convocação, a cada mês você receberá, além das horas trabalhadas, férias proporcionais ao período trabalhado com acréscimo de um terço; décimo terceiro salário proporcional; repouso semanal remunerado, e adicionais legais.
+Sempre que houver demanda, a pessoa contratada será convocada com 3 dias de antecedência e poderá avaliar se tem disponibilidade para atuar no período solicitado. Caso aceite a convocação, a cada mês você receberá, além das horas trabalhadas, férias proporcionais ao período trabalhado com acréscimo de um terço; décimo terceiro salário proporcional; repouso semanal remunerado, e adicionais legais.
+ 
+Sendo assim, essa é a nossa proposta salarial e benefícios para a vaga em questão com esse tipo de vínculo:
+Sendo assim, essa é a nossa proposta salarial e benefícios para a vaga em questão com esse tipo de vínculo:
+ 
+Salário proposto por hora/Avaliaremos a pretensão salarial;
+Vale Transporte por dia trabalhado;
+Vale Alimentação/Refeição (quando a carga horária diária for superior a 6 horas);
+Seguro contra acidentes pessoais;
+Rede de parceiros CIEB - Convênios e Parcerias com academias, escolas de idiomas, espaços de eventos, seguradoras de veículos, hotéis, entre outros;
+Unindustria - Portal com várias capacitações online e gratuitas para o colaborador.
+ 
+Quer fazer parte da nossa Instituição e mudar o mundo conosco?
+Quer fazer parte da nossa Instituição e mudar o mundo conosco?
+ 
+Inscreva-se e venha fazer parte do nosso time!
+Inscreva-se e venha fazer parte do nosso time!
+ 
+Estamos te aguardando! Vem ser SENAI CIMATEC!
+Estamos te aguardando! Vem ser 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Análise de Requisitos2Análise de Requisitos
+Etapa 2: Análise de Requisitos
+2
+Análise de Requisitos
+Etapa 3: Contratação3Contratação
+Etapa 3: Contratação
+3
+Contratação
+VAMOS JUNTOS FAZER A DIFERENÇA NO MUNDO?
+Quando nascemos, em 2002, éramos 40 colaboradores unidos pelo propósito de formar mão de obra qualificada para impulsionar a indústria baiana. Desde então, tínhamos a certeza de que faríamos parte de uma transformação no mundo. 
+Quando nascemos, em 2002, éramos 40 colaboradores unidos pelo propósito de formar mão de obra qualificada para impulsionar a indústria baiana. Desde então, tínhamos a certeza de que faríamos parte de uma 
+. 
+
+Em 20 anos de trajetória, nós crescemos exponencialmente: avançamos junto com as tecnologias, agregamos pessoas e sonhos. Construímos novas formas de integrar ciência, tecnologia e indústria. Conquistamos a confiança de grandes parceiros no Brasil e no mundo e somos reconhecidos como uma das principais Instituições de Ciência e Tecnologia do país.
+Em 20 anos de trajetória, nós crescemos exponencialmente: avançamos junto com as tecnologias, agregamos pessoas e sonhos. Construímos novas formas de integrar ciência, tecnologia e indústria. 
+Conquistamos a confiança de grandes parceiros no Brasil e no mundo e somos reconhecidos como uma das principais Instituições de Ciência e Tecnologia do país.
+
+E fomos além!  
+E fomos além!  
+
+Hoje, somos um ecossistema de tecnologia e inovação que reúne um Centro Universitário, Escola Técnica para Educação Profissional, projetos de PD&I, serviços e consultoria para indústrias. Temos mais de 40 competências (senaicimatec.com.br/areas-de-interesse) para atender as mais diversas áreas da indústria, desde a manufatura até os mais avançados sistemas em saúde, robótica e inteligência artificial.  
+Hoje, somos um 
+ que reúne um Centro Universitário, Escola Técnica para Educação Profissional, projetos de PD&I, serviços e consultoria para indústrias. Temos mais de 40 competências 
+para atender as mais diversas áreas da indústria, desde a manufatura até os mais avançados sistemas em saúde, robótica e inteligência artificial.  
+
+Contamos com cerca de 1.000 colaboradores empenhados em construir um mundo melhor, com uma indústria mais sustentável que ofereça soluções para problemas reais da sociedade. E você pode fazer parte disso! 
+Contamos com cerca de
+empenhados em construir um mundo melhor, com uma indústria mais sustentável que ofereça soluções para problemas reais da sociedade. E você pode fazer parte disso! 
+
+No SENAI CIMATEC, acreditamos que cada um tem um jeito único de mudar o mundo! 
+No SENAI CIMATEC, acreditamos que 
+ 
+
+Aqui, a diversidade de ideias é sempre bem-vinda. 
+Vem construir o #FuturoDaInovação com a gente! 
+Vem construir o 
+ com a gente! 
+
+FIQUE POR DENTRO DO QUE ACONTECE NO SENAI CIMATEC
+Website
+LinkedIn
+Facebook
+Instagram

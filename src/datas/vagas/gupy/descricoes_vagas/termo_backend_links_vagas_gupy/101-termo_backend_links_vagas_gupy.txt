@@ -1,0 +1,102 @@
+link_vaga-https://vagascompanyhero.gupy.io/job/eyJqb2JJZCI6NzcyOTEyNSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA BACKEND - SR
+Tipo de vaga: Pessoa jurídicaPessoa jurídica
+Tipo de vaga: Pessoa jurídica
+Pessoa jurídica
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+Ter um currículo compatível com a vaga é importante. Mas, existem outros fatores igualmente relevantes na hora de escolher um novo Hero para compor nosso time.
+Cultura Hero é sobre ser uma pessoa cheia de vontade e atitude para fazer acontecer, alguém curioso, que ama aprender, que vai atrás de dados para embasar suas ações, sempre com muito respeito ao próximo e pensamento resolutivo. Nós oferecemos as oportunidades e o espaço para você brilhar e você vem com o protagonismo! 
+Sobre a Company Hero:
+A Company Hero é a primeira plataforma do Brasil que integra soluções para profissionais PJ, desde o momento de abrir o CNPJ até se aposentar com estabilidade financeira!
+Nosso propósito é transformar o medo da instabilidade em tranquilidade financeira e emocional para milhões de profissionais que estão por conta própria. Você não está mais sozinho.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver e manter aplicações web de alta qualidade, escaláveis e de alto desempenho, utilizando tecnologias e frameworks backend;Implementar funcionalidades e melhorias de acordo com as especificações técnicas fornecidas, garantindo a entrega dentro dos prazos estabelecidos;Realizar testes unitários e de integração para garantir a qualidade do código desenvolvido;Otimizar o desempenho das aplicações, identificando e resolvendo gargalos e problemas de escalabilidade;Colaborar com outros desenvolvedores, designers e especialistas em UX/UI para criar soluções eficazes e amigáveis ao usuário;Investigar e resolver problemas relatados pelos usuários, fornecendo suporte técnico e soluções adequadas;Acompanhar as tendências e as melhores práticas do mercado em desenvolvimento backend, propondo inovações e melhorias contínuas;
+Desenvolver e manter aplicações web de alta qualidade, escaláveis e de alto desempenho, utilizando tecnologias e frameworks backend;
+Implementar funcionalidades e melhorias de acordo com as especificações técnicas fornecidas, garantindo a entrega dentro dos prazos estabelecidos;
+Realizar testes unitários e de integração para garantir a qualidade do código desenvolvido;
+Otimizar o desempenho das aplicações, identificando e resolvendo gargalos e problemas de escalabilidade;
+Colaborar com outros desenvolvedores, designers e especialistas em UX/UI para criar soluções eficazes e amigáveis ao usuário;
+Investigar e resolver problemas relatados pelos usuários, fornecendo suporte técnico e soluções adequadas;
+Acompanhar as tendências e as melhores práticas do mercado em desenvolvimento backend, propondo inovações e melhorias contínuas;
+REQUISITOS E QUALIFICAÇÕES
+Experiência comprovada como desenvolvedor backend, com foco na linguagem de programação Python;Clean architecture e DDD;Conhecimento sólido em frameworks e tecnologias backend, com foco em Django;Domínio de bancos de dados relacionais e não relacionais, bem como conhecimento em modelagem e otimização de consultas;Familiaridade com sistemas de controle de versão, principalmente Git;Familiaridade em trabalhar com branches, pull requests, code review e CI/CD;Familiaridade com metologias ágeis, com foco em SCRUM;Experiência em desenvolvimento de APIs RESTful e integração de serviços de terceiros;Capacidade de escrever código limpo, legível e modular, seguindo as melhores práticas de desenvolvimento;Habilidade para solucionar problemas complexos e propor soluções eficientes;Excelentes habilidades de comunicação e trabalho em equipe;Não é obrigatório, mas será muito legal se você tiver:Conhecimentos em cloud computing (AWS, GCP, Azure, etc)Experiência com adquirentes e gateways de pagamento (ex. IUGU)Conhecimentos em funções serverless (Lambda, Cloud Functions, etc)Conhecimentos em Linux e DockerConhecimentos em Wagtail CMSInglês Intermediário
+Experiência comprovada como desenvolvedor backend, com foco na linguagem de programação Python;
+Clean architecture e DDD;
+Conhecimento sólido em frameworks e tecnologias backend, com foco em Django;
+Domínio de bancos de dados relacionais e não relacionais, bem como conhecimento em modelagem e otimização de consultas;
+Familiaridade com sistemas de controle de versão, principalmente Git;
+Familiaridade em trabalhar com branches, pull requests, code review e CI/CD;
+Familiaridade com metologias ágeis, com foco em SCRUM;
+Experiência em desenvolvimento de APIs RESTful e integração de serviços de terceiros;
+Capacidade de escrever código limpo, legível e modular, seguindo as melhores práticas de desenvolvimento;
+Habilidade para solucionar problemas complexos e propor soluções eficientes;
+Excelentes habilidades de comunicação e trabalho em equipe;
+Não é obrigatório, mas será muito legal se você tiver:
+Conhecimentos em cloud computing (AWS, GCP, Azure, etc)
+Experiência com adquirentes e gateways de pagamento (ex. IUGU)
+Conhecimentos em funções serverless (Lambda, Cloud Functions, etc)
+Conhecimentos em Linux e Docker
+Conhecimentos em Wagtail CMS
+Inglês Intermediário
+INFORMAÇÕES ADICIONAIS
+💻 Envio de equipamentos;🛫 Férias remuneradas;🩺 Benefício Saúde;🦷 Benefício Odontológico;🧬Seguro de Vida;💰 Previdência Privada;💲Proteção de Renda;🎂 Day Off no mês do seu aniversário;💪 WellHub;👶 Pausa Baby Hero: aqui você tem dias para ficar com seu bebe após o nascimento dele;💍 Pausa para casamento;🤑 Reembolso creche;🎉 Ótimo ambiente de trabalho com espaço de lazer, sala de jogos e muita descontração!
+💻 Envio de equipamentos;
+🛫 Férias remuneradas;
+🩺 Benefício Saúde;
+🦷 Benefício Odontológico;
+🧬Seguro de Vida;
+🧬
+💰 Previdência Privada;
+💲Proteção de Renda;
+🎂 Day Off no mês do seu aniversário;
+💪 WellHub;
+👶 Pausa Baby Hero: aqui você tem dias para ficar com seu bebe após o nascimento dele;
+👶 
+:
+💍 Pausa para casamento;
+🤑 Reembolso creche;
+🎉 Ótimo ambiente de trabalho com espaço de lazer, sala de jogos e muita descontração!
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Bate-papo cultural 🦸‍♀️2Bate-papo cultural 🦸‍♀️
+Etapa 2: Bate-papo cultural 🦸‍♀️
+2
+Bate-papo cultural 🦸‍♀️
+Etapa 3: Entrevista Técnica 💻3Entrevista Técnica 💻
+Etapa 3: Entrevista Técnica 💻
+3
+Entrevista Técnica 💻
+Etapa 4: Conversa com o Diretor 🚀4Conversa com o Diretor 🚀
+Etapa 4: Conversa com o Diretor 🚀
+4
+Conversa com o Diretor 🚀
+Etapa 5: Conversa Final 🫂5Conversa Final 🫂
+Etapa 5: Conversa Final 🫂
+5
+Conversa Final 🫂
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+SOBRE A COMPANY HERO:
+A Company Hero é a primeira plataforma do Brasil que integra soluções para profissionais PJ, desde o momento de abrir o CNPJ até se aposentar com estabilidade financeira.
+Somos o aliado dos profissionais PJ. O ajudamos a organizar o “Setup PJ”: desde a abertura do CNPJ até a gestão financeira com emissão de notas, impostos e obrigações fiscais em dia, oferecendo segurança e orientação desde o primeiro passo dessa jornada.
+No que acreditamos:
+Queremos guiar o PJ para eliminar vulnerabilidades e tornar a realidade de ser PJ a melhor escolha para 100 milhões de profissionais.
+Cultura Company Hero:
+Ter um currículo compatível com a vaga é importante. Mas, existem outros fatores igualmente relevantes na hora de escolher um novo Hero para compor nosso time.
+Cultura Hero é sobre ser uma pessoa cheia de vontade e atitude para fazer acontecer, alguém curioso, que ama aprender, que vai atrás de dados para embasar suas ações, sempre com muito respeito ao próximo e pensamento resolutivo. Nós oferecemos as oportunidades e o espaço para você brilhar e você vem com o protagonismo!
+E aí, você quer fazer a diferença na vida de MILHARES de pessoas?
+Acesse nossa Página de Carreiras: https://go.companyhero.com/carreiras-company-hero
+CONHEÇA MAIS SOBRE A GENTE
+Website
+LinkedIn
+Facebook
+Instagram

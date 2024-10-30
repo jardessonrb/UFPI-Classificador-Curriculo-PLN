@@ -1,0 +1,101 @@
+link_vaga-https://sicredi.gupy.io/job/eyJqb2JJZCI6NzY0OTYwNywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+CAS | ANALISTA DE GOVERNANÇA DE DADOS SR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+O integrante do time de dados da Diretoria Executiva de Estratégia, Evolução e Dados irá incorporar a cultura data-driven no dia a dia. Nosso intuito é aprimorar todo o pipeline de dados, para garantir a melhor tomada de decisão. Atuando no time de Governança de Dados o integrante poderá ainda apoiar no avanço do tratamento dos dados, de forma eficiente e segura, assegurando um olhar amplo para a todas as áreas do Sicredi e direcionando a construção de planos e ações relevantes para a estratégia. 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Avaliar, estruturar e manter ferramentas de mapeamento, qualidade e catalogação de Dados;Elaborar estudos de cenário e diagnóstico de dados com ênfase em ferramentas de gestão de Dados;Desenvolver, conduzir e apoiar os times na mensuração de resultados, identificando oportunidades, tendências e padrões em conjuntos de dados;Conduzir a construção técnica no desenvolvimento e monitoramento dos principais indicadores de performance dos times de dados (KPIs);Criar, manter e implementar Políticas de Tratamento de Dados;Se comunicar com as pessoas do seu time e dos demais times de forma a promover uma cultura analítica; Interagir com os diferentes papéis do processo de dados (engenheiros, analistas, cientistas de dados);Executar o programa de Privacidade de Dados no que tange ao correto tratamento dos dados;Manter a documentação necessária p/ permitir a gestão da estratégia de dados (democratização, governança, qualidade e etc.);Se manter em constante evolução técnica e do negócio. 
+Avaliar, estruturar e manter ferramentas de mapeamento, qualidade e catalogação de Dados;
+Elaborar estudos de cenário e diagnóstico de dados com ênfase em ferramentas de gestão de Dados;
+Desenvolver, conduzir e apoiar os times na mensuração de resultados, identificando oportunidades, tendências e padrões em conjuntos de dados;
+Conduzir a construção técnica no desenvolvimento e monitoramento dos principais indicadores de performance dos times de dados (KPIs);
+Criar, manter e implementar Políticas de Tratamento de Dados;
+Se comunicar com as pessoas do seu time e dos demais times de forma a promover uma cultura analítica; Interagir com os diferentes papéis do processo de dados (engenheiros, analistas, cientistas de dados);
+Executar o programa de Privacidade de Dados no que tange ao correto tratamento dos dados;
+Manter a documentação necessária p/ permitir a gestão da estratégia de dados (democratização, governança, qualidade e etc.);
+Se manter em constante evolução técnica e do negócio.
+ 
+REQUISITOS E QUALIFICAÇÕES
+Conhecimento em Ferramentas de Mapeamento e Catálogo de Dados;Análise Exploratória;Gestão de versionamento de código;Conceitos de Data Warehouse, Data Lake e Data Lakehouse;Conhecimento em LGPD e legislações correlatas;Conhecimento na gestão de Documentos criação e manutenção de Políticas de Dados.
+Conhecimento em Ferramentas de Mapeamento e Catálogo de Dados;
+Análise Exploratória;
+Gestão de versionamento de código;
+Conceitos de Data Warehouse, Data Lake e Data Lakehouse;
+Conhecimento em LGPD e legislações correlatas;
+Conhecimento na gestão de Documentos criação e manutenção de Políticas de Dados.
+INFORMAÇÕES ADICIONAIS
+No Centro Administrativo Sicredi (CAS), para as posições nas áreas de negócio adotamos o formato de trabalho híbrido que se consolidou em 3 dias presenciais, na Sede da empresa, localizada na Av. Assis Brasil, 3940, São Sebastião, Porto Alegre/RS e 2 dias home office. Nas posições da área Tech adotamos o formato de trabalho home office.
+____________________________________________________
+No Sicredi você vai ter:
+14º e 15º salários fixos;
+Participações nos Lucros (conforme a senioridade);
+Benefício saúde: Plano de Saúde e Odontológico sem coparticipação, Gympass, seguro de vida, Programas de saúde e bem-estar (Nutrição, Psicologia, Laboral, Massagem, Grupos de corrida e academia local);
+Vale Alimentação e Vale Refeição – com flexibilidade de % nos cartões VA/VR, sem coparticipação;
+Licença maternidade e paternidade estendida;
+Auxílio creche ou babá para crianças até 6 anos e 11 meses;
+Auxílio para filhos com deficiência, sem limite de idade;
+Previdência Privada até 6% do salário;
+Plataforma de Treinamentos – Sicredi Aprende, com diversos cursos;
+Carga horária de 40h semanais – Utilizando sistema de banco de horas;
+Auxílio Teletrabalho (exceto para posições com atuação 100% presenciais).
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Avaliando o seu currículo2Avaliando o seu currículo
+Etapa 2: Avaliando o seu currículo
+2
+Avaliando o seu currículo
+Etapa 3: Avaliando suas habilidades3Avaliando suas habilidades
+Etapa 3: Avaliando suas habilidades
+3
+Avaliando suas habilidades
+Etapa 4: Alinhamento de expectativas4Alinhamento de expectativas
+Etapa 4: Alinhamento de expectativas
+4
+Alinhamento de expectativas
+Etapa 5: Bate Papo com GP5Bate Papo com GP
+Etapa 5: Bate Papo com GP
+5
+Bate Papo com GP
+Etapa 6: Identificando o seu perfil (PDA) 6Identificando o seu perfil (PDA) 
+Etapa 6: Identificando o seu perfil (PDA) 
+6
+Identificando o seu perfil (PDA) 
+Etapa 7: Bate Papo com a Área7Bate Papo com a Área
+Etapa 7: Bate Papo com a Área
+7
+Bate Papo com a Área
+Etapa 8: Desafio Técnico8Desafio Técnico
+Etapa 8: Desafio Técnico
+8
+Desafio Técnico
+Etapa 9: Assessment9Assessment
+Etapa 9: Assessment
+9
+Assessment
+Etapa 10: Contratação10Contratação
+Etapa 10: Contratação
+10
+Contratação
+SOMOS O SICREDI, A PRIMEIRA INSTITUIÇÃO FINANCEIRA COOPERATIVA DO BRASIL
+Há mais de 120 anos, nos reinventamos a cada dia e nos desafiamos em tudo o que fazemos, sendo impulsionados pelo trabalho de cada uma das nossas pessoas colaboradoras.
+ 
+Nosso propósito é construir uma sociedade mais próspera ao lado dos mais de 45 mil talentos que também acreditam nessa transformação. Evoluímos constantemente e mantemos a essência do cooperativismo para superar as barreiras, conquistar novos horizontes e desenvolver a sociedade com maior inclusão, diversidade e equidade.
+Não é à toa que somos a Melhor Empresa para se Trabalhar no Brasil 2024, segundo a GPTW!
+ 
+Seguimos buscando talentos que queiram fazer parte da construção de um mundo melhor e queremos contar com você.
+#VemSerSicredi!
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

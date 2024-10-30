@@ -1,0 +1,128 @@
+link_vaga-https://dock.gupy.io/job/eyJqb2JJZCI6NzYzMjUyMCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+SOFTWARE ENGINEER II (BACKEND JAVA - BANKING)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Quem é a Dock?
+Há mais de 20 anos, cumprimos a missão de democratizar o acesso a serviços financeiros, tornando experiências financeiras mais simples e acessíveis.
+Há mais de 20 anos, cumprimos a missão de democratizar o acesso a serviços financeiros, tornando experiências financeiras mais simples e acessíveis.
+Somos um time de pessoas obstinadas, que acreditam na tecnologia e nos serviços como os principais facilitadores para a evolução de nossos clientes e a transformação do papel das finanças.
+Somos um time de pessoas obstinadas, que acreditam na tecnologia e nos serviços como os principais facilitadores para a evolução de nossos clientes e a transformação do papel das finanças.
+Atuando em 11 localidades pela América Latina, trabalhamos sob o propósito de desmaterializar o universo financeiro para impulsionar a sociedade.
+Atuando em 11 localidades pela América Latina, trabalhamos sob o propósito de desmaterializar o universo financeiro para impulsionar a sociedade.
+Como é o nosso time de Banking? 
+Liderança em soluções financeiras: Atuamos como líderes no desenvolvimento de soluções financeiras inovadoras, proporcionando uma experiência de pagamento excepcional para nossos clientes.
+Tradução do universo financeiro: Nosso trabalho é crucial, pois traduzimos o complexo universo financeiro em soluções acessíveis e eficientes.
+Alta performance: Processamos milhões de transações por dia com baixissimo tempo de resposta.
+Tecnologia de ponta: Utilizamos uma arquitetura multi-cloud e multi-DR, Java Spring multi-threading para garantir alta disponibilidade e tolerância a falhas.
+Cultura colaborativa: Somos um time colaborativo, inovador e focado em trabalho em equipe, sempre abertos a novas tecnologias e metodologias.
+RESPONSABILIDADES E ATRIBUIÇÕES
+E o dia a dia, como será? 
+Buscamos por talentos inigualáveis para nos ajudar a espalhar o poder financeiro!
+Buscamos por talentos inigualáveis para nos ajudar a espalhar o poder financeiro!
+Nesta função, você irá: 
+Nesta função, você irá: 
+Construir novas aplicações de diversas naturezas (APIs, consumidores de eventos, etc), sendo totalmente responsável pelo seu código
+Analisar situações e ajudar a propor soluções eficientes
+Resolver problemas de forma rápida e criativa
+Participar da concepção, desenvolvimento e evolução de produtos
+
+REQUISITOS E QUALIFICAÇÕES
+O que esperamos de você?  
+Experiência com Java e NodeJs
+Conhecimento na codificação de testes unitários
+Conhecimento de banco de dados relacionais, especialmente PostgreSQL
+Bom raciocínio lógico
+Buscamos um candidato que não apenas execute tarefas, mas que também tenha a capacidade de identificar oportunidades, propor soluções inovadoras e contribuir ativamente para o crescimento da equipe e da empresa.
+Buscamos um candidato que não apenas execute tarefas, mas que também tenha a capacidade de identificar oportunidades, propor soluções inovadoras e contribuir ativamente para o crescimento da equipe e da empresa.
+Técnicas de desenvolvimento (Clean Code / SOLID)
+Vivência em times que utilizam o Git Flow
+Facilidade de trabalhar em equipe de forma 100% remota
+Curiosidade e vontade de aprender novas ferramentas, plataformas e tecnologias
+É desejável que você tenha: 
+ 
+Conhecimentos de cloud AWS
+Algum conhecimento na criação e consumo de APIs REST
+Conhecimento em meios de pagamentos e mercado financeiro
+Algum conhecimento de automação e/ou infraestrutura como código (vivência em cultura DevOps)
+Algum conhecimento em metodologias ágeis
+INFORMAÇÕES ADICIONAIS
+E quais são os benefícios? 
+
+Remote first*: política flexível de contratação, a depender da função aplicada e necessidade da área; 
+Remote first*: política flexível de contratação, a depender da função aplicada e necessidade da área; 
+Auxílio alimentação (mercado & restaurante);
+Auxílio alimentação (mercado & restaurante);
+Plano de saúde e odontológico;
+Plano de saúde e odontológico;
+Hospital digital;
+Hospital digital;
+Suporte psicológico para psicoterapia online;
+Suporte psicológico para psicoterapia online;
+Orientação ergonômica;
+Orientação ergonômica;
+Wellhub e TotalPass;
+Wellhub e TotalPass;
+Auxílio mensal para despesas remote first;
+Auxílio mensal para despesas remote first;
+Previdência privada após 6 meses de trabalho;
+Previdência privada após 6 meses de trabalho;
+Licença parental estendida;
+Licença parental estendida;
+Auxílio creche;
+Auxílio creche;
+Auxílio para pais de filhos especiais;
+Auxílio para pais de filhos especiais;
+Plataforma de idiomas;
+Plataforma de idiomas;
+Disponibilidade de coworking no Brasil inteiro;
+Disponibilidade de coworking no Brasil inteiro;
+Elegível ao PLR
+Elegível ao PLR
+*A Dock prioriza a política Remote First como modelo de trabalho. Entretanto, em algumas áreas específicas, a atuação presencial pode ser exigida. 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Entrevista People3Entrevista People
+Etapa 3: Entrevista People
+3
+Entrevista People
+Etapa 4: Entrevista Técnica4Entrevista Técnica
+Etapa 4: Entrevista Técnica
+4
+Entrevista Técnica
+Etapa 5: Etapa Case ou Teste5Etapa Case ou Teste
+Etapa 5: Etapa Case ou Teste
+5
+Etapa Case ou Teste
+Etapa 6: Entrevista Final6Entrevista Final
+Etapa 6: Entrevista Final
+6
+Entrevista Final
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+VÁ MAIS LONGE COM A GENTE
+A Dock respeita a pluralidade de identidades e trabalha para promover uma cultura inclusiva. Não fazemos distinção de raça, cor, religião, identidade de gênero, orientação sexual, nacionalidade, deficiência ou idade em nenhuma etapa do processo seletivo, reforçando nosso compromisso com a diversidade.
+Somos Dockers. Juntos construímos um futuro melhor. Inimaginável. Inesperado. Sem amarras.
+Todos os dias, tornamos o universo financeiro mais simples, fácil e amplamente disponível. Fazemos isso questionando verdades estabelecidas, mudando conceitos e projetando o novo.
+Nós realmente acreditamos na tecnologia para a evolução dos nossos clientes e para transformar o papel das finanças em todo o mundo, impulsionando a sociedade.
+Se você também acredita nesse futuro, vem construir ele com a gente!
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn

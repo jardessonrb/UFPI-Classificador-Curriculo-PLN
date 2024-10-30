@@ -1,0 +1,181 @@
+link_vaga-https://grupoboticario.gupy.io/job/eyJqb2JJZCI6NzQzMTE0Mywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA BACKEND JAVA ESPECIALISTA III (LOJAS) ·
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+SOBRE O GRUPO BOTICÁRIO 
+Um dos maiores grupos de beleza do mundo, o Grupo Boticário é uma empresa brasileira presente em mais de 40 países. É dono das marcas O Boticário, Eudora, Quem Disse, Berenice?, Vult, O.U.i, Dr. JONES, Tô.que.tô, TRUSS, e do marketplace Beleza na Web, além de atuar com produtos licenciados como Australian Gold, Bio Oil, Nuxe, e Pampers e sua divisão para o mercado B2B. Essa interação entre diferentes marcas, ativos, plataformas, rede de franqueados, representantes, distribuidores, varejistas, sellers e fornecedores formam o ecossistema de beleza do Grupo Boticário que oferece, ainda, soluções digitais de gestão de negócio para o varejo brasileiro por meio das suas marcas Mooz, Casa Magalhães e GAVB. São mais de 19 mil colaboradores diretos, com mais de 4 mil lojas em 1.780 cidades brasileiras.
+Um dos maiores grupos de beleza do mundo, o Grupo Boticário é uma empresa brasileira presente em mais de 40 países. É dono das marcas O Boticário, Eudora, Quem Disse, Berenice?, Vult, O.U.i, Dr. JONES, 
+, TRUSS, e do marketplace Beleza na Web, além de atuar com produtos licenciados como Australian Gold, Bio Oil, Nuxe, e Pampers e sua divisão para o mercado B2B. Essa interação entre diferentes marcas, ativos, plataformas, rede de franqueados, representantes, distribuidores, varejistas, sellers e fornecedores formam o ecossistema de beleza do Grupo Boticário que oferece, ainda, soluções digitais de gestão de negócio para o varejo brasileiro por meio das suas marcas Mooz, Casa Magalhães e GAVB. São mais de 19 mil colaboradores diretos, com mais de 4 mil lojas em 1.780 cidades brasileiras.
+Vem fazer beleza com a gente! 
+Vem fazer beleza com a gente! 
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+A Gerência SR de Engenharia CM tem como foco escalar com agilidade, segurança, escalabilidade e qualidade a geração de valor para as lojas e franquias por meio de tecnologia. Dentro deste contexto, nossas Squads tem como missão cuidar dos sistemas de PDV (Ponto de Venda) e Backoffice, cuidando para que nosso cliente tenha a melhor experiência na compra multi-canal e o nosso franqueado tenha o melhor controle das suas vendas e seus estoques
+Como Pessoa Especialista III, no seu dia-a-dia você irá:
+Definir soluções tecnológicas para problemas complexos, que exigem o uso regular de criatividade e inovação..
+Liderar, influenciar e compartilhar as decisões na implementação dos produtos, compreendendo o domínio dos produtos onde participa e produtos de equipes pares, promovendo ativamente a cultura de arquitetura que permite o desenvolvimento iterativo e autônomo e escalonado;
+Encorajar a cultura de qualidade no time, visando fomentar e orientar a equipe nas boas práticas de desenvolvimento, como: Code Review , Pair Programming, e Desenvolvimento Seguro;
+Influenciar e orientar a equipe a desenvolver a abordagem de testes, desenvolvendo diversos tipos de testes (testes unitários, integrados, funcionais e de performance);
+Promover uma cultura de monitoramento dos produtos que sua equipe e pares atuam, construindo e melhorando os diversos tipos de monitoramentos dos produtos...
+Liderar a resolução de falhas no domínio da sua equipe e equipe pares, atuando na construção de planos de ação paliativos e estruturantes;
+Conduzir o ciclo de vida das melhorias (sejam em dívidas técnicas, melhorias de processos, relacionamentos com parceiros), medindo os resultados atingidos..
+Criar ambiente de experimentação, fomentando a investigação, testes e documentação para propor o uso de novas tecnologias;
+Trabalhar de forma colaborativa, praticando feedback com pares e líderes, e ajudando a equipe a aprender sobre melhorias práticas e padrões.
+Identificar melhorias nas habilidades técnicas e comportamentais da equipe e influência na evolução das pessoas da equipe;
+Comunicar-se de forma eficaz, clara e concisa por escrito e verbalmente, assuntos técnicos e não técnicos de forma orientada para o público.
+Contribuir e incentivar uma cultura dentro de sua equipe, onde as pessoas são incentivadas a compartilhar suas opiniões e contribuir para as discussões de maneira respeitosa..
+Incentivar a equipe e usar os dados operacionais para melhorar a estabilidade e o desempenho dos domínios da sua equipe e equipes pares.
+REQUISITOS E QUALIFICAÇÕES
+Experiência avançada em programação em Java;Experiência em desenvolvimento de back-end na construção de micro-serviços;Experiência na construção APIs RESTful;Experiência com as abordagens: SOLID, Clean Architecture, Clean Code;Experiência na construção de soluções com bancos de dados NoSQL (com MongoDb e DynamoDB) e relacionais (como PostgresQL);Experiência na construção do desenvolvimento em pipelines de CI/CD;Experiência com as ferramentas de CI / CD, como: GitHub Actions, Jenkins, Azure Devops, CircleCI;Experiência com padrões de arquitetura de sistemas distribuídos na nuvem (AWS Cloud, GCP);Experiência definição e construção de estruturas serverless, com uma ampla variedade de produtos AWS e tecnologias de contêiner, como: Docker; Kubernetes, Lambda, Secrets Manager, SQS;Experiência no desenvolvimento de serviços distribuídos orientados a eventos;Experiência de trabalho em uma equipe multifuncional, distribuída e diversificada.
+Experiência avançada em programação em Java;
+Experiência em desenvolvimento de back-end na construção de micro-serviços;
+Experiência na construção APIs RESTful;
+Experiência com as abordagens: SOLID, Clean Architecture, Clean Code;
+Experiência na construção de soluções com bancos de dados NoSQL (com MongoDb e DynamoDB) e relacionais (como PostgresQL);
+Experiência na construção do desenvolvimento em pipelines de CI/CD;
+Experiência com as ferramentas de CI / CD, como: GitHub Actions, Jenkins, Azure Devops, CircleCI;
+Experiência com padrões de arquitetura de sistemas distribuídos na nuvem (AWS Cloud, GCP);
+Experiência definição e construção de estruturas serverless, com uma ampla variedade de produtos AWS e tecnologias de contêiner, como: Docker; Kubernetes, Lambda, Secrets Manager, SQS;
+Experiência no desenvolvimento de serviços distribuídos orientados a eventos;
+Experiência de trabalho em uma equipe multifuncional, distribuída e diversificada.
+INFORMAÇÕES ADICIONAIS
+NOSSOS BENEFÍCIOS
+Já falamos que o Grupo Boticário é o melhor e maior ecossistema de beleza, né?
+Já falamos que o Grupo Boticário é o 
+ e 
+ ecossistema de beleza, né?
+E quando falamos dos Benefícios, nos preocupamos com as nossas pessoas e por isso, oferecemos um pacote de benefícios* que permite uma vida mais equilibrada e completa:
+E quando falamos dos Benefícios, nos preocupamos com as nossas pessoas e por isso, oferecemos um pacote de benefícios
+que permite uma vida mais equilibrada e completa:
+Aqui, sua Saúde é prioridade
+Aqui, sua 
+ é prioridade
+. Plano médico e odontológico
+. Plano médico e odontológico
+. Auxílio medicamentos
+. Auxílio medicamentos
+. Vale saúde para familiares
+. Vale saúde para familiares
+. Sessões de psicoterapia gratuitas
+. Sessões de psicoterapia gratuitas
+. Telemedicina e 2ª opinião médica
+. Telemedicina e 2ª opinião médica
+. Vacina da gripe e HPV gratuitas
+. Vacina da gripe e HPV gratuitas
+. Programas de cuidado com a saúde
+. Programas de cuidado com a saúde
+Para cuidar da sua Alimentação
+Para cuidar da sua 
+. Vale refeição ou restaurante local (conforme modelo de trabalho)
+. Vale refeição ou restaurante local (conforme modelo de trabalho)
+. Vale alimentação
+. Vale alimentação
+. Vale alimentação de Natal
+. Vale alimentação de Natal
+Garantindo Bem-Estar e Qualidade de Vida em todos os aspectos da vida
+. Plano de academias e estúdios de atividade física
+. 
+Plano de academias e estúdios de atividade física
+. Auxílio home office (modelos de trabalho híbrido e remoto)
+. Auxílio home office (modelos de trabalho híbrido e remoto)
+. Plano de saúde para pets
+. Plano de saúde para pets
+. Day off de aniversário
+. Day off de aniversário
+. Desconto de até 40% em nossos produtos
+. Desconto de até 40% em nossos produtos
+. Associação para colaboradores (convênios e parcerias, loja multimarcas, academias total pass, cursos e muito mais!)
+. Associação para colaboradores (convênios e parcerias, loja multimarcas, academias total pass, cursos e muito mais!)
+. Programa de viagens e hospedagens 
+. Programa de viagens e hospedagens 
+Para a Família, nosso bem mais precioso
+Para a 
+, nosso bem mais precioso
+. Auxílio educação infantil
+. Auxílio educação infantil
+. Crédito nutrição infantil
+. Crédito nutrição infantil
+. Auxílio babá
+. Auxílio babá
+. Auxílio material escolar
+. Auxílio material escolar
+. Orientação jurídica, psicológica e social
+. Orientação jurídica, psicológica e social
+. Apoio para país atípicos
+. Apoio para país atípicos
+. Licença parental estendida (180 dias para mães e 120 dias para pais)
+. Licença parental estendida (180 dias para mães e 120 dias para pais)
+Mobilidade para sua jornada presencial
+para sua jornada presencial
+. Vale Transporte e Estacionamento (modelos híbrido e presencial)
+. Vale Transporte e Estacionamento (modelos híbrido e presencial)
+Seguridade para proteção e tranquilidade financeira
+para proteção e tranquilidade financeira
+. Seguro de Vida
+. Seguro de Vida
+. Apoio ao falecimento de pais
+. Apoio ao falecimento de pais
+. Previdência Privada
+. Previdência Privada
+. Empréstimos consignados
+. Empréstimos consignados
+*Os pacotes de benefícios são configurados conforme regras de elegibilidade.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Entrevista Recrutamento e Seleção3Entrevista Recrutamento e Seleção
+Etapa 3: Entrevista Recrutamento e Seleção
+3
+Entrevista Recrutamento e Seleção
+Etapa 4: Pair Programming4Pair Programming
+Etapa 4: Pair Programming
+4
+Pair Programming
+Etapa 5: System Design5System Design
+Etapa 5: System Design
+5
+System Design
+Etapa 6: Entrevista com Liderança6Entrevista com Liderança
+Etapa 6: Entrevista com Liderança
+6
+Entrevista com Liderança
+Etapa 7: Carta Oferta7Carta Oferta
+Etapa 7: Carta Oferta
+7
+Carta Oferta
+Etapa 8: Processo Admissional8Processo Admissional
+Etapa 8: Processo Admissional
+8
+Processo Admissional
+Etapa 9: Contratação9Contratação
+Etapa 9: Contratação
+9
+Contratação
+GRUPO BOTICÁRIO
+De uma pequena farmácia de manipulação a maior franquia de cosméticos do planeta.
+Somos um Grupo com 15 marcas que está presente em mais de 40 países, com mais de 4.000 lojas físicas, líder de e-commerce de beleza no Brasil e mais de 19.000 colaboradores diretos.
+Temos um ecossistema próprio de beleza, que vai da indústria ao ponto de venda, da logística ao varejo, do laboratório ao coração das consumidoras e das nossas inovações até a palma da sua mão.
+Acreditamos que o futuro mais bonito é aquele que construímos juntos, por isso, até 2030 temos compromissos ambiciosos voltados para o impacto positivo em dimensões humanas, ambientais e em nossos processos produtivos.
+Reinventamos a beleza por meio da tecnologia, inovação diversidade e sustentabilidade com: O Boticário, Eudora, Quem Disse, Berenice?, Vult, O.U.i, Dr. JONES, Tô.que.tô, TRUSS, e do marketplace Beleza na Web, além de atuarmos com produtos licenciados como Australian Gold, Bio Oil, Nuxe, e Pampers.
+Vem fazer beleza com a gente!
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

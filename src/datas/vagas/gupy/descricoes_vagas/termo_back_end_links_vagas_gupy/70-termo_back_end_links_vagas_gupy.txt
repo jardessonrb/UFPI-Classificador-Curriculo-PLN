@@ -1,0 +1,100 @@
+link_vaga-https://vemseromni.gupy.io/job/eyJqb2JJZCI6NzUyNDQ5Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR(A) BACK END JAVA SR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+DESCRIÇÃO DA VAGA
+Procuramos pessoas que queiram fazer parte da construção do nosso banco digital atuando em modelo de squad (multidisciplinar), que acredita que para criar um ambiente inovador é imprescindível que não tenham medo de errar e de arriscar! Que se identifique com um time que valoriza a colaboração e a aprendizagem contínua.
+Eae, quer vir fazer parte disso e voar com a gente??? 🚀🚀🚀🚀
+🚀🚀🚀🚀
+Então, veja abaixo mais detalhes dos desafios que temos para você e o que você precisará possuir de conhecimento para fazer parte disso! 👇
+👇
+RESPONSABILIDADES E ATRIBUIÇÕES
+Você será desafiado à:
+Você será 
+ à:
+Desenvolver soluções tecnológicas atuais de mercado em arquitetura distribuída baseadas em Micros-serviços
+Criação e manutenção de APIs REST, visando escalabilidade e alta disponibilidade
+Atuará com manutenção de legados e novas funcionalidades
+Realizará a Integração com serviços de autenticação, acesso a dados e webservices, especialmente os relacionados a serviços financeiros
+a serviços financeiros
+REQUISITOS E QUALIFICAÇÕES
+Para isso, você precisa saber:
+Analisar, codificar, testar, preparar documentação técnica de sistemas em linguagem orientada a objetos e design Patterns;
+Implementar códigos obedecendo padrões de segurança e diretrizes de código seguro;
+Familiaridade com serviços RESTFULL, Hibernate, JPA, SpringBoot, Spring Data, Swagger, SoapUI
+Desejável conhecimento em JMeter, Docker, Kubernetes; Conexão com bases de dados relacional e não relacionais;
+Conhecimento em Metodologias ágeis e ferramentas como Jenkins, Jira, Bitbucket, Maven; Conhecimentos essenciais de Clouds;
+Desejável conhecimento em Plataformas de API Management. Participar de processo homologatório e acompanhar implantações em ambiente produtivo
+Além disso, você precisará ter:
+Conhecimento em análise ou elaboração de arquiteturas de integração
+Programação em plataforma JAVA;
+Desenho de fluxos de integração e governança de microsserviços.
+Desejável conhecimentos em Frontend
+INFORMAÇÕES ADICIONAIS
+Nossos benefícios:Auxilio creche;Vale alimentação e vale refeição;Vale transporte;Assistência médica e Odontológica;Seguro de vida;Programa de bem estar e saúde;Day off no dia do seu aniversário;Participação nos lucros;Sem dress code: você pode se vestir como preferir;Horário de trabalho Flexível;TotalpassEntre outros.
+Nossos benefícios:
+Auxilio creche;
+Vale alimentação e vale refeição;
+Vale transporte;
+Assistência médica e Odontológica;
+Seguro de vida;
+Programa de bem estar e saúde;
+Day off no dia do seu aniversário;
+Participação nos lucros;
+Sem dress code: você pode se vestir como preferir;
+Horário de trabalho Flexível;
+Totalpass
+Entre outros.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem 2Triagem 
+Etapa 2: Triagem 
+2
+Triagem 
+Etapa 3: Bate Papo Técnico3Bate Papo Técnico
+Etapa 3: Bate Papo Técnico
+3
+Bate Papo Técnico
+Etapa 4: Desafio Técnico 4Desafio Técnico 
+Etapa 4: Desafio Técnico 
+4
+Desafio Técnico 
+Etapa 5: Bate Papo RH5Bate Papo RH
+Etapa 5: Bate Papo RH
+5
+Bate Papo RH
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+SE VOCÊ É APAIXONADO POR NOVOS DESAFIOS E NÃO TEM MEDO DE OUSAR, VENHA FAZER PARTE DO TIME OMNI!
+Somos uma empresa com 30 anos de mercado e que não perde a vontade de crescer e inovar. Nesse tempo, aprendemos uma coisa importante: VOCÊ é o nosso maior patrimônio.
+Chegamos a essa conclusão da nossa maneira, olho no olho, porque o nosso trabalho é oferecer soluções financeiras, do jeito que você precisar. Simples, não é?
+Seja por meio de um Financiamento de Veículos, Crediário Loja, Crédito com Garantia de Veículo, Investimentos Financeiros ou Cartões Private Label. Essa é a nossa forma de ampliar um mundo de opções para você realizar seus objetivos na vida.
+O nosso cliente é aquele que já passou por outros bancos e financeiras e por ter dificuldades de comprovação de renda e baixo score o crédito é negado, aqui no Omni nós trabalhamos para encontrar possibilidades de crédito que se adequem a realidade dos nossos clientes!
+Nossa filosofia está em impactar positivamente o mundo, e assim praticamos o nosso propósito junto aos nossos clientes, nós Omizamos Vidas apoiando famílias inteiras na realização dos seus sonhos, seja na compra de um veículo, na reforma da casa ou até mesmo em uma viagem. 
+Nós queremos e estamos pertinho dos microempreendedores que estão iniciando o seu negócio ou precisam de um capital de giro, nós disponibilizamos crédito para o pipoqueiro (a), para a rendeira (o), para o dono (a) do mercadinho, para a cabeleireira (o) e para o caminhoneiro! Nos orgulhamos disso, pois reconhecemos nossa relevância para tanta gente!  
+Para nós Omnizar é “fazer o melhor hoje, para o seu amanhã ser ainda melhor”! 
+Melhor para os nossos clientes, colaboradores, parceiros e para a sociedade como um todo, pois sabemos da nossa responsabilidade e possibilidades de tornar o mundo um lugar muito melhor. 
+Juntos somos únicos, juntos somos Omni!
+Sim somos únicos! Temos um jeito só nosso. Respiramos a nossa Cultura e nos orgulhamos muito disso! 
+Somos uma empresa humanizada e valorizamos a diversidade de nossos colaboradores como uma verdadeira força, e essa força só poderá ser utilizada se fizermos com que todos sintam que realmente podem ser eles mesmos no dia a dia, independentemente de sua etnia, religião, orientação sexual, gênero, deficiência ou qualquer outra característica pessoal.
+Somos uma 
+ e valorizamos a 
+ de nossos colaboradores como uma verdadeira força, e essa força só poderá ser utilizada se fizermos com que todos sintam que realmente podem ser eles mesmos no dia a dia, independentemente de sua etnia, religião, orientação sexual, gênero, deficiência ou qualquer outra característica pessoal.
+Adoramos a diversidade! E isso é muito natural para nós. Quanto mais diverso, melhor!
+Muito prazer, somos a Omni.
+Conectado com você!
+NOSSOS CANAIS DIGITAIS
+Website
+LinkedIn
+Facebook
+Instagram

@@ -1,0 +1,115 @@
+link_vaga-https://juscash.gupy.io/job/eyJqb2JJZCI6ODAwNDc3MCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+[JUSCASH] DESENVOLVEDOR FULLSTACK PLENO - 100% REMOTO
+Tipo de vaga: Pessoa jurídicaPessoa jurídica
+Tipo de vaga: Pessoa jurídica
+Pessoa jurídica
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A JusCash é uma startup que trabalha na antecipação de créditos judiciais para advogados (conheça detalhes no site www.juscash.com.br). 
+Como Dev. Full Stack Pleno, você irá exercer um papel muito importante no crescimento da JusCash e de nossos produtos, se tornando responsável pelas atividades abaixo. Somos formados por gente inquieta e empreendedora, que valoriza o trabalho em equipe e acredita que o crescimento sustentável se dá a partir de pessoas que amam o que fazem. Estamos em busca de pessoas engajadas, que tenham brilho no olho e muita vontade de se desenvolver e crescer com a gente. 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolvimento de novos módulos e manutenção e evolução do sistema interno da empresa (Front e Back). Desenvolvimento e manutenção da plataforma de clientes (Front e Back). Desenvolvimento de projeto de análise processual (compor a equipe tech responsável). Atender às demandas de produto (Front e Back) solicitadas pelos departamentos internos. Participar ativamente das cerimônias ágeis, como follow-up, planning, review, etc. Resolução de bugs relacionados aos produtos. Desenvolvimento de novos produtos para clientes internos e externos (Front e Back). Colaborar com a squad em tarefas e projetos. Trabalhar em projetos internos de migração e integração com sistemas utilizados pela empresa.
+Desenvolvimento de novos módulos e manutenção e evolução do sistema interno da empresa (Front e Back). 
+Desenvolvimento e manutenção da plataforma de clientes (Front e Back). 
+Desenvolvimento de projeto de análise processual (compor a equipe tech responsável). 
+Atender às demandas de produto (Front e Back) solicitadas pelos departamentos internos. 
+Participar ativamente das cerimônias ágeis, como follow-up, planning, review, etc. 
+Resolução de bugs relacionados aos produtos. 
+Desenvolvimento de novos produtos para clientes internos e externos (Front e Back). 
+Colaborar com a squad em tarefas e projetos. 
+Trabalhar em projetos internos de migração e integração com sistemas utilizados pela empresa.
+REQUISITOS E QUALIFICAÇÕES
+Para ser o nosso novo talento você precisa ter:
+Organização e disciplina; 
+Atenção aos detalhes e dinamicidade; 
+Raciocínio crítico e interpretativo; 
+Proatividade; 
+Comprometimento e responsabilidade; 
+Comunicativo(a) e que goste de trabalhar em equipe 
+Organizado(a) nas suas demandas e na comunicação com os demais
+Curioso(a), que goste de buscar novos conhecimentos e se desenvolver 
+E os seguintes conhecimentos e experiências:
+Ter conhecimento em metodologias ágeis, como Scrum ou Kanban, para gerenciar projetos de desenvolvimento. 
+1. Bancos de Dados (mínimo de 3 anos de experiência) Deve ter sólida experiência com bancos de dados relacionais (PostgreSQL ou MySQL) e não relacionais (MongoDB), especialmente em modelagem de dados. 
+2. Integrações de APIs (mínimo de 3 anos de experiência) Experiência com integração de APIs e serviços externos. 
+3. Automação de Testes (mínimo de 2 anos de experiência) Será responsável por desenvolver testes automatizados (unitários e de integração), garantindo a qualidade do código e evitando problemas de regressão. 
+4. Infraestrutura (mínimo de 3 anos de experiência) Domínio em pipelines de CI/CD, Docker e Kubernetes para automatização e otimização dos processos de deploy. É necessário também experiência em GitHub e configuração de DNS. 
+5. Segurança (mínimo de 2 anos de experiência) Para aplicar práticas de segurança no desenvolvimento, como criptografia, proteção contra vulnerabilidades (SQL Injection, XSS, etc.), especialmente pela manipulação de dados sensíveis
+6. Python (mínimo de 4 anos de experiência) É exigido forte conhecimento em Python, com ênfase em web scraping. 
+7. Large Language Models (LLM), Machine learning e ETL (mínimo de 3 anos de experiência) Responsável por lidar com processos de ETL e Large Language Models, Machine learning devido à nossa forte atuação em automação e dados. 
+8. Front-End -React mínimo de 3 anos de experiência Será necessário colaborar na criação (novos projetos) e na transição para tecnologias como Node e React. E já tenha contato e atuado conjuntamente com UX em figma.
+9. JavaScript (Node.js e TypeScript, 3 anos de experiência) Será responsável pelo desenvolvimento com foco em Node.js, TypeScript, ReactJS e NextJS. 
+10. Boas Práticas de Documentação (mínimo de 3 anos de experiência) Deverá manter uma documentação clara, estruturada e atualizada. 
+11. Arquitetura de Software (mínimo de 3 anos de experiência) Será responsável por garantir uma arquitetura mínima escalável e manutenível, resolvendo gargalos atuais e preparando os sistemas para o crescimento futuro. Noções e conhecimentos aprofundados. 
+12. Clean Code Capacidade de escrever código limpo, legível e fácil de manter, aplicando os princípios de Clean Code. 
+13. Inteligência Artificial (mínimo de 2 anos de experiência) Deverá ter familiaridade com IA, contribuindo com iniciativas inovadoras voltadas ao uso dessas tecnologias. 
+14. Cerimônias Ágeis (mínimo de 4 anos de experiência) O profissional precisa ter experiência em metodologias ágeis como Scrum e Kanban, participando ativamente de reuniões e cerimônias para garantir a fluidez dos projetos. 
+Será considerado diferencial: 
+Desenvolvimento em mobile (interface do usuário). 
+INFORMAÇÕES ADICIONAIS
+VR (R$30,00/por dia);Plano de Saúde;Auxílio Creche;Auxílio Home Office;Day Off | folga para comemorar o seu aniversário;100% Remoto;Empresa em momento de aceleração, o que propicia crescimentos conjuntos;Nossa sede fica em Porto Alegre / RS. É possível que você venha para cá algumas vezes para integrações.
+VR (R$30,00/por dia);
+Plano de Saúde;
+Auxílio Creche;
+Auxílio Home Office;
+Day Off | folga para comemorar o seu aniversário;
+100% Remoto;
+Empresa em momento de aceleração, o que propicia crescimentos conjuntos;
+Empresa em momento de aceleração, o que propicia crescimentos conjuntos;
+Nossa sede fica em Porto Alegre / RS. É possível que você venha para cá algumas vezes para integrações.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Teste de Lógica2Teste de Lógica
+Etapa 2: Teste de Lógica
+2
+Teste de Lógica
+Etapa 3: Teste Técnico JusCash3Teste Técnico JusCash
+Etapa 3: Teste Técnico JusCash
+3
+Teste Técnico JusCash
+Etapa 4: Entrevista com RH + Líder4Entrevista com RH + Líder
+Etapa 4: Entrevista com RH + Líder
+4
+Entrevista com RH + Líder
+Etapa 5: Entrevista com líder + CEO5Entrevista com líder + CEO
+Etapa 5: Entrevista com líder + CEO
+5
+Entrevista com líder + CEO
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+JUSCASH
+A JusCash é uma startup que trabalha na antecipação de créditos judiciais para advogados.
+A JusCash é uma startup que trabalha na antecipação de créditos judiciais para advogados.
+ 
+Somos formados por gente inquieta e empreendedora, que valoriza o trabalho em equipe e acredita que o crescimento sustentável se dá a partir de pessoas que amam o que fazem. Estamos em busca de pessoas engajadas, que tenham brilho no olho e muita vontade de se desenvolver e crescer com a gente.
+Somos formados por gente inquieta e empreendedora, que valoriza o trabalho em equipe e acredita que o crescimento sustentável se dá a partir de pessoas que amam o que fazem. 
+Estamos em busca de pessoas engajadas, que tenham brilho no olho e muita vontade de se desenvolver e crescer com a gente.
+Quer fazer parte do time JusCash? Saiba os valores que você vai encontrar por aqui:
+﻿
+﻿
+#1 ESPÍRITO DE DONO: Encorajamos todos a agirem como donos da empresa, tomando decisões que beneficiem a organização por completo. Acreditamos profundamente em nossos produtos e serviços, buscando aprimorá-los constantemente para melhor servir o cliente.
+: Encorajamos todos a agirem como donos da empresa, tomando decisões que beneficiem a organização por completo. Acreditamos profundamente em nossos produtos e serviços, buscando aprimorá-los constantemente para melhor servir o cliente.
+#2 COLABORAÇÃO E TRABALHO EM EQUIPE: Ninguém alcança resultados espetaculares sozinho, por isso valorizamos a colaboração e o trabalho em equipe, onde todos contribuem ativamente para o sucesso da empresa.
+: Ninguém alcança resultados espetaculares sozinho, por isso valorizamos a colaboração e o trabalho em equipe, onde todos contribuem ativamente para o sucesso da empresa.
+#3 AUTONOMIA COM RESPONSABILIDADE: Promovemos a autonomia, confiando ao nosso time a liberdade para tomar decisões e ações, assumindo a responsabilidade por suas entregas.
+: Promovemos a autonomia, confiando ao nosso time a liberdade para tomar decisões e ações, assumindo a responsabilidade por suas entregas.
+#4 TRANSPARÊNCIA E COMUNICAÇÃO ABERTA: Cultivamos uma cultura de transparência e comunicação aberta, onde compartilhar informações é fundamental para a evolução do time e da empresa. Valorizamos a empatia, honestidade e a troca livre de ideias, fomentando os feedbacks entre todos, independente da posição.
+: Cultivamos uma cultura de transparência e comunicação aberta, onde compartilhar informações é fundamental para a evolução do time e da empresa. Valorizamos a empatia, honestidade e a troca livre de ideias, fomentando os feedbacks entre todos, independente da posição.
+#5 INOVAÇÃO E APRENDIZADO CONTÍNUO: Gostamos de testar o novo, questionar o que está posto como verdade. Somos ágeis: erramos, mas erramos rápido, de forma a aprender e já colocar os aprendizados em prática. Também somos autocríticos, refletimos sobre nossas ações e decisões de forma a evoluirmos constantemente enquanto indivíduos, equipe e empresa.
+: Gostamos de testar o novo, questionar o que está posto como verdade. Somos ágeis: erramos, mas erramos rápido, de forma a aprender e já colocar os aprendizados em prática. Também somos autocríticos, refletimos sobre nossas ações e decisões de forma a evoluirmos constantemente enquanto indivíduos, equipe e empresa.
+Se identificou? Então vem fazer parte do nosso time, estamos ansiosos para te conhecer! ;)
+CONFIRA NOSSO DIA A DIA NAS REDES 😎
+Website
+LinkedIn
+Instagram

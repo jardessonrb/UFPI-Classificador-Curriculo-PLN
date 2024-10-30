@@ -1,0 +1,102 @@
+link_vaga-https://solutis.gupy.io/job/eyJqb2JJZCI6NzcyNDQ0Miwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DEV. BACKEND JAVA (SPRING) - SENIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Estamos em busca de alguém como você, que deseja iniciar uma nova jornada na área de desenvolvimento de Software para impactar pessoas, clientes e sociedade. Nós, da Solutis, temos um desafio apaixonante, com o melhor ecossistema de uma Agile Company.
+Estamos com a posição de Dev. Backend Java (Spring) - Pleno que envolve criatividade, proatividade, desenvolvimento ágil e que permite compartilhamento constante de conhecimentos. Somos um mundo plural, que promove um ambiente descontraído de verdade, flexível e focado no desenvolvimento humano e profissional para que você possa exercer a sua singularidade.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Como será seu dia a dia: (Atividades que vai realizar)
+Responsável pela análise e desenvolvimento de sistema em Java, incluindo a criação de micro serviços, ou APIs, e realizar testes unitários e integrados;
+Prover liderança técnica e colaborar com o time, ao longo do ciclo de desenvolvimento de SW;
+Garantir a viabilidade do desenho de solução e integração com os sistemas e plataformas existentes;
+Trabalhar com a equipe para revisar e validar as funcionalidades chave e integrações;
+Colaborar com outras equipes para endereçar gaps arquiteturais;
+Automatizar os testes de suas entregas;
+Responsável pela configuração, Build e Deploy nos ambientes de desenvolvimento e HK;
+Responsável pelo acompanhamento da implantação de suas entregas, e suporte aos consumidores;
+Apoiar desenvolvedores menos experientes;
+REQUISITOS E QUALIFICAÇÕES
+Pra mandar bem nessa oportunidade você precisa manjar das tecnologias: (Conhecimentos técnicos obrigatórios)
+Experiência em programação utilizando plataforma Java e/ou Spring;
+Experiência com banco de dados relacional e NoSQL;
+Experiência com o Gitlab/Github;
+Experiência com ambientes em nuvem;
+Experiência em desenvolvimento de sistemas utilizando metodologias ágeis;
+Vai ser bom se você também tiver: (Conhecimentos técnicos desejáveis, que serão um diferencial)
+Conhecimento em front Angular ou Python;
+Já ter atuado com soluções de chat ou chatbot.
+O que não abrimos mão: (Soft Skills)
+Mindset focado em construir soluções criativas;
+Proativo;
+Comunicação clara e objetiva;
+Trabalho em equipe;
+Resiliência
+Ser apaixonado por tecnologia;
+INFORMAÇÕES ADICIONAIS
+Para esta posição oferecemos:
+Salário CLT Full;
+Vale Refeição ou Alimentação (Alelo);
+Vale Transporte (sempre que houver o deslocamento);
+Auxílio Home Office (proporcional aos dias em que atuará nesta modalidade);
+Assistência Médica Sulamérica;
+Assistência Odontológica Sulamérica;
+Seguro de Vida;
+Parcerias (Curso de idiomas, ensino, livraria, restaurante, entre outras);
+Gympass;
+Allya;
+Day Off;
+Premiação por indicações;
+Inside Out (Ocorre todas as sextas-feiras. Evento da galera voltado para troca de conhecimento);
+Oportunidade de crescimento profissional.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem de Perfil2Triagem de Perfil
+Etapa 2: Triagem de Perfil
+2
+Triagem de Perfil
+Etapa 3: Entrevista RH3Entrevista RH
+Etapa 3: Entrevista RH
+3
+Entrevista RH
+Etapa 4: Entrevista e Prova Técnica4Entrevista e Prova Técnica
+Etapa 4: Entrevista e Prova Técnica
+4
+Entrevista e Prova Técnica
+Etapa 5: Entrevista Gestor5Entrevista Gestor
+Etapa 5: Entrevista Gestor
+5
+Entrevista Gestor
+Etapa 6: Entrevista com Cliente (opcional)6Entrevista com Cliente (opcional)
+Etapa 6: Entrevista com Cliente (opcional)
+6
+Entrevista com Cliente (opcional)
+Etapa 7: Carta Proposta7Carta Proposta
+Etapa 7: Carta Proposta
+7
+Carta Proposta
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+A SOLUTIS É DIGITAL!
+Somos apaixonados por tecnologia e esse valor está presente em nossas ações e proposta de trabalho. Ambiente descontraído e criativo, horário flexível, possibilidade de trabalho home office, eventos e programas internos com games... Isso faz parte do nosso dia-a-dia.
+Engajamento, busca intensa por conhecimento, empatia e criatividade são a nossa receita para cultivar e colher, sempre, o melhor resultado tecnológico.
+Essa é a Solutis, flexível, acolhedora, inquieta, amante da tecnologia e de tudo que ela nos proporciona de mais incrível.
+Venha fazer parte do nosso time!
+CONHEÇA A SOLUTIS
+Website
+LinkedIn
+Facebook
+Instagram

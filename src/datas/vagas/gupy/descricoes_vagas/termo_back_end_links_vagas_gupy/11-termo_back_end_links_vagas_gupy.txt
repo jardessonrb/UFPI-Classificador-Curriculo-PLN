@@ -1,0 +1,113 @@
+link_vaga-https://brisanet.gupy.io/job/eyJqb2JJZCI6NzY0NTU3Miwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA PROGRAMADORA BACK-END (TELECOMUNIÇÃO & DESENVOLVIMENTO)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A PESSSOA PROGRAMADORA BACK-END PLENO no Grupo Brisanet fará o desenvolvimento de aplicações, fornecendo expertise em todo o ciclo de vida de desenvolvimento de softwares, desde o conceito e projeto até a fase de testes em um ambiente que valoriza as boas práticas de programação e um método de trabalho realmente ágil.
+Você fará parte de uma equipe multidisciplinar, colaborando com as áreas de designer, produto, desenvolvimento front end, mobile e negócios. Se você também possui senso de trabalho em equipe e é apaixonado pelo que faz, a Brisanet é o seu lugar!
+Vamos velejar rumo ao futuro! #VemSerBrisanet 💙🧡
+RESPONSABILIDADES E ATRIBUIÇÕES
+Como será o seu dia a dia?
+Analisar dados, processos e códigos para solucionar problemas e identificar áreas de melhoria;
+Colaborar com os demais desenvolvedores e outros membros da equipe para estabelecer objetivos;
+Projetar códigos mais funcionais e coesos para aprimorar a experiência do usuário;
+Participar do desenvolvimento, implantação e manutenção de sistemas informatizados adequando-os às necessidades das áreas;
+Assessorar e dar suporte aos usuários quanto aos sistemas existentes apoiando o treinamento adequado ao pessoal interno;
+Executa outras tarefas relacionadas com o cargo, a critério do superior.
+REQUISITOS E QUALIFICAÇÕES
+O que buscamos nesse perfil?
+Programação e desenvolvimento de aplicativos;
+Segurança de aplicações web;
+Banco de dados SQL;
+WebServices SOAP (Consumo);
+WebServices Rest (Criação e Consumo);
+Ferramentas Postman;
+TDD, testes unitários e automação de testes;
+Segurança da informação;
+Banco de dados NOSQL;
+Docker;
+Inglês Técnico.
+Clean Code
+Experiência com Microserviços
+Familiaridade com CI/CD
+Experiência com metodologias ágeis (Scrum e/ou Kanban)
+INFORMAÇÕES ADICIONAIS
+No Grupo Brisanet você vai encontrar:
+Cultura de trabalho que respeita e valoriza as pessoas;
+Eventos internos que abordam temas diversos;
+Meio colaborativo que valoriza o desenvolvimento pessoal e profissional; 
+Ambiente horizontal e vertical, ou seja, você é o protagonista de sua carreira! 
+Plano de Saúde Coparticipativo pela Unimed;
+Plano Odontológico pela OdontoSystem;
+Descontos em Instituições de Ensino Superior de até 60%;
+Seguro de Vida;
+Descontos de até 50% nos serviços Brisanet de internet, Telefonia Fixa e TV por assinatura (após o período de experiência);
+Desconto de até 35% no BrisaMusic;
+Alimentação (Através do aplicativo Flash, Alelo ou Refeitório);
+WellHub.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Painel de Entrevistas3Painel de Entrevistas
+Etapa 3: Painel de Entrevistas
+3
+Painel de Entrevistas
+Etapa 4: Oferta de Contratação4Oferta de Contratação
+Etapa 4: Oferta de Contratação
+4
+Oferta de Contratação
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+🧡EXISTIMOS PARA CONECTAR
+Atuamos no segmento de telecomunicações há mais de 25 anos, com a missão de conectar pessoas e promover a inclusão digital e social. Hoje, conectamos cerca de 1,4 milhão de lares por todo o Nordeste, liderando assim o mercado de banda larga na região e obtendo a 5ª posição no Brasil. Nossa trajetória começou em 1998, em Pereiro (CE). Nascemos com o objetivo de oferecer internet via rádio com qualidade e preços acessíveis no interior, impactando positivamente as comunidades atendidas. Hoje, a Companhia está presente em nove estados da região levando conectividade de ponta do interior até as capitais, contribuindo ativamente para o desenvolvimento das cidades nordestinas, por meio da oferta de soluções tecnológicas e da geração de emprego e renda. 🧡 NOSSO JEITO DE SER Ser Brisanet é, acima de tudo, estar aberto a mudanças. É evoluir sempre: na forma como enxergamos o mundo, como conectamos pessoas e alimentamos sonhos.Nossa missão é conectar pessoas, promovendo inclusão digital e social, porque entendemos que nossa atuação vai além de oferecer internet. Trata-se de gerar oportunidades e transformar vidas.Sabemos onde queremos chegar: “Ser a marca mais desejada pela excelência em conectividade e satisfação nas regiões Nordeste e Centro-Oeste.” Com essa visão, buscamos melhorias contínuas, investindo no atendimento ao cliente e na segurança dos nossos times.Nossos valores nos guiam rumo ao futuro: aqui, fazemos acontecer com Inovação. Valorizamos nossas Pessoas e trabalhamos com cooperação. Atuamos com Respeito nas comunidades onde estamos inseridos. Prestamos serviços de qualidade aos nossos Clientes. Sabemos que eles merecem o melhor, por isso, agimos sempre com Excelência e estamos em constante aprimoramento. Ser Brisanet é ter a coragem para inovar porque sabemos que conectamos mais do que redes. Conectamos vidas.Existimos para conectar pessoas e transformar o futuro. Esse é o nosso propósito, o legado que estamos deixando para as atuais e futuras gerações. 🧡 SEJA UM BRISALOVER Hoje, somos mais de 9 mil brisalovers espalhados pelos nove estados do Nordeste! Profissionais das áreas de tecnologia, operacional, comercial, call center, administrativa e dezenas de outros setores que tornam a Brisanet a telecom número 1 em conexões banda larga no Nordeste, de acordo com a Anatel. Existimos para conectar e levar inovação para todos os nossos clientes. A tecnologia que implementamos aqui vai muito além de promover a acessibilidade digital de áreas desprovidas de cobertura. Impactamos positivamente na vida de diversos brisalovers que encontram na Brisanet uma oportunidade de se desenvolver sem precisar sair de sua cidade. Do interior até as grandes capitais, é aqui o lugar certo para você crescer e se desenvolver profissionalmente. Seja com a fibra ou com o 5G, aqui a gente cresce junto da Companhia. SOMOS UMA EMPRESA DO GRUPO BRISANET Site: https://grupo.brisanet.com.br/ Linkedin: www.linkedin.com/company/grupo-brisanet/ 
+Atuamos no segmento de telecomunicações há mais de 25 anos, com a missão de conectar pessoas e promover a inclusão digital e social. Hoje, conectamos cerca de 1,4 milhão de lares por todo o Nordeste, liderando assim o mercado de banda larga na região e obtendo a 5ª posição no Brasil. 
+Nossa trajetória começou em 1998, em Pereiro (CE). Nascemos com o objetivo de oferecer internet via rádio com qualidade e preços acessíveis no interior, impactando positivamente as comunidades atendidas. Hoje, a Companhia está presente em nove estados da região levando conectividade de ponta do interior até as capitais, contribuindo ativamente para o desenvolvimento das cidades nordestinas, por meio da oferta de soluções tecnológicas e da geração de emprego e renda. 
+🧡 NOSSO JEITO DE SER
+
+ é, acima de tudo, estar aberto a mudanças. 
+na forma como enxergamos o mundo, como conectamos pessoas e alimentamos sonhos.
+ é 
+porque entendemos que nossa atuação vai além de oferecer internet. Trata-se de gerar oportunidades e transformar vidas.
+Sabemos onde queremos chegar: 
+ Com essa visão, buscamos melhorias contínuas, investindo no atendimento ao cliente e na segurança dos nossos times.
+ nos guiam rumo ao futuro: aqui, fazemos acontecer com
+. Valorizamos nossas 
+ e trabalhamos com cooperação. Atuamos com 
+ nas comunidades onde estamos inseridos. Prestamos serviços de qualidade aos nossos 
+Sabemos que eles merecem o melhor,
+por isso, agimos sempre com 
+ e estamos em constante aprimoramento. 
+porque sabemos que conectamos mais do que redes. Conectamos vidas.
+ Esse é o nosso 
+, o legado que estamos deixando para as atuais e futuras gerações. 
+🧡 SEJA UM BRISALOVER
+
+Hoje, somos mais de 9 mil brisalovers espalhados pelos nove estados do Nordeste! Profissionais das áreas de tecnologia, operacional, comercial, call center, administrativa e dezenas de outros setores que tornam a Brisanet a telecom número 1 em conexões banda larga no Nordeste, de acordo com a Anatel. Existimos para conectar e levar inovação para todos os nossos clientes. 
+A tecnologia que implementamos aqui vai muito além de promover a acessibilidade digital de áreas desprovidas de cobertura. Impactamos positivamente na vida de diversos brisalovers que encontram na Brisanet uma oportunidade de se desenvolver sem precisar sair de sua cidade. Do interior até as grandes capitais, é aqui o lugar certo para você crescer e se desenvolver profissionalmente. Seja com a fibra ou com o 5G, aqui a gente cresce junto da Companhia. 
+SOMOS UMA EMPRESA DO GRUPO BRISANET
+
+Site: 
+ 
+Linkedin: 
+ 
+🧡 VEM CONHECER NOSSAS REDES
+Website
+LinkedIn
+Facebook
+Instagram

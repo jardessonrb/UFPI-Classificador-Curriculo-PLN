@@ -1,0 +1,152 @@
+link_vaga-https://carreirasomie.gupy.io/job/eyJqb2JJZCI6NzQ2MzA2Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR(A) FULL-STACK (PROJETOS IA)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A Omie tem como propósito trazer prosperidade para o ecossistema empreendedor brasileiro. Por isso, buscamos por pessoas com mentalidade de crescimento, valorizando perfis que tenham capacidade de adaptação, senso colaborativo e sejam motivadas pela inovação e pelo aprendizado contínuo.
+ 
+Faça parte da história de uma das empresas de tecnologia que mais cresce no país! 🚀
+ 
+#VempraOmie
+RESPONSABILIDADES E ATRIBUIÇÕES
+Gerenciamento e Infraestrutura: Criar e gerenciar a infraestrutura de projetos GenAI, garantindo um ambiente robusto, escalável e seguro, e implementar padrões e melhorias visando desempenho, escalabilidade, custo e segurança.Desenvolvimento: Desenvolver em conjunto com o time de devs recursos e funções voltados a IAs dentro de nosso CRM.Monitoramento e Avaliação: Monitorar e avaliar a estrutura técnica das soluções quanto a riscos de segurança e disponibilidade, além de monitorar desempenho, integridade e disponibilidade de informações, bem como logs de dados e análise de eventos.Ações Preventivas e Corretivas: Realizar ações preventivas e corretivas nos ambientes em nuvem, assegurando a continuidade e confiabilidade das operações.Inovação e Melhoria: Estudar e criar padrões de boas práticas para a utilização de IAs dentro do time, desenvolver soluções de negócio utilizando IAs, e avaliar e melhorar ferramentas internas, identificando oportunidades de aprimoramento com o uso de IAs.
+Gerenciamento e Infraestrutura: Criar e gerenciar a infraestrutura de projetos GenAI, garantindo um ambiente robusto, escalável e seguro, e implementar padrões e melhorias visando desempenho, escalabilidade, custo e segurança.
+Gerenciamento e Infraestrutura: Criar e gerenciar a infraestrutura de projetos GenAI, garantindo um ambiente robusto, escalável e seguro, e implementar padrões e melhorias visando desempenho, escalabilidade, custo e segurança.
+Desenvolvimento: Desenvolver em conjunto com o time de devs recursos e funções voltados a IAs dentro de nosso CRM.
+Desenvolvimento: Desenvolver em conjunto com o time de devs recursos e funções voltados a IAs dentro de nosso CRM.
+Monitoramento e Avaliação: Monitorar e avaliar a estrutura técnica das soluções quanto a riscos de segurança e disponibilidade, além de monitorar desempenho, integridade e disponibilidade de informações, bem como logs de dados e análise de eventos.
+Monitoramento e Avaliação: Monitorar e avaliar a estrutura técnica das soluções quanto a riscos de segurança e disponibilidade, além de monitorar desempenho, integridade e disponibilidade de informações, bem como logs de dados e análise de eventos.
+Ações Preventivas e Corretivas: Realizar ações preventivas e corretivas nos ambientes em nuvem, assegurando a continuidade e confiabilidade das operações.
+Ações Preventivas e Corretivas: Realizar ações preventivas e corretivas nos ambientes em nuvem, assegurando a continuidade e confiabilidade das operações.
+Inovação e Melhoria: Estudar e criar padrões de boas práticas para a utilização de IAs dentro do time, desenvolver soluções de negócio utilizando IAs, e avaliar e melhorar ferramentas internas, identificando oportunidades de aprimoramento com o uso de IAs.
+Inovação e Melhoria: Estudar e criar padrões de boas práticas para a utilização de IAs dentro do time, desenvolver soluções de negócio utilizando IAs, e avaliar e melhorar ferramentas internas, identificando oportunidades de aprimoramento com o uso de IAs.
+REQUISITOS E QUALIFICAÇÕES
+Conhecimento em serviços AWS, especificamente Bedrock, SageMaker e Amazon Q.Experiência com infraestrutura como código (IaC).Experiência com monitoramento de aplicações.Experiência com ferramentas de integração e deploy contínuos (CI/CD).Experiência em administração de servidores.Conhecimentos em Backend: Python, FastAPI, SQLAlchemy, AWS (Lambda, CloudWatch, DynamoDB, SQS), API, REST, SQL;Conhecimentos em Frontend: HTML, CSS, JavaScript e Vue.js;Conhecimentos em uso de APIs REST.Conhecimentos em redes.Familiaridade com DevOps e SRE.Experiência com conteinerização e ferramentas de orquestração (Kubernetes).DesejávelFormação: Graduação em Ciência da Computação, Engenharia de Software, ou áreas relacionadas.Experiência em versionamento de código (GitHub).Conhecimento/experiência com a API Gateway.Conhecimento em bancos de dados SQL e NoSQL.
+Conhecimento em serviços AWS, especificamente Bedrock, SageMaker e Amazon Q.
+Conhecimento em serviços AWS, especificamente Bedrock, SageMaker e Amazon Q.
+Experiência com infraestrutura como código (IaC).
+Experiência com infraestrutura como código (IaC).
+Experiência com monitoramento de aplicações.
+Experiência com monitoramento de aplicações.
+Experiência com ferramentas de integração e deploy contínuos (CI/CD).
+Experiência com ferramentas de integração e deploy contínuos (CI/CD).
+Experiência em administração de servidores.
+Experiência em administração de servidores.
+Conhecimentos em Backend: Python, FastAPI, SQLAlchemy, AWS (Lambda, CloudWatch, DynamoDB, SQS), API, REST, SQL;
+Conhecimentos em Backend: Python, FastAPI, SQLAlchemy, AWS (Lambda, CloudWatch, DynamoDB, SQS), API, REST, SQL;
+Conhecimentos em Frontend: HTML, CSS, JavaScript e Vue.js;
+Conhecimentos em Frontend: HTML, CSS, JavaScript e Vue.js;
+Conhecimentos em uso de APIs REST.
+Conhecimentos em uso de APIs REST.
+Conhecimentos em redes.
+Conhecimentos em redes.
+Familiaridade com DevOps e SRE.
+Familiaridade com DevOps e SRE.
+Experiência com conteinerização e ferramentas de orquestração (Kubernetes).
+Experiência com conteinerização e ferramentas de orquestração (Kubernetes).
+Desejável
+Formação: Graduação em Ciência da Computação, Engenharia de Software, ou áreas relacionadas.
+Formação: Graduação em Ciência da Computação, Engenharia de Software, ou áreas relacionadas.
+Experiência em versionamento de código (GitHub).
+Experiência em versionamento de código (GitHub).
+Conhecimento/experiência com a API Gateway.
+Conhecimento/experiência com a API Gateway.
+Conhecimento em bancos de dados SQL e NoSQL.
+Conhecimento em bancos de dados SQL e NoSQL.
+INFORMAÇÕES ADICIONAIS
+Benefício Flexível/VR: R$ 40,00/dia útil.
+Benefício Flexível/VR: R$ 40,00/dia útil.
+ Auxílio-escritório e Auxílio Home office para você melhorar o seu ambiente de trabalho remoto e torná-lo ainda mais confortável.
+ Auxílio-escritório e Auxílio Home office para você melhorar o seu ambiente de trabalho remoto e torná-lo ainda mais confortável.
+ Precisa trabalhar presencialmente? Nós temos vale-transporte. E para você que vem de trem/metrô disponibilizamos um fretado na estação para deslocamento até o escritório.
+ Precisa trabalhar presencialmente? Nós temos vale-transporte. E para você que vem de trem/metrô disponibilizamos um fretado na estação para deslocamento até o escritório.
+ Plano de saúde Bradesco.
+ Plano de saúde Bradesco.
+ Plano odontológico Amil Dental.
+ Plano odontológico Amil Dental.
+ Auxílio Farmácia.
+ Auxílio Farmácia.
+ Auxílio-creche.
+ Auxílio-creche.
+ Day off de aniversário, para você comemorar como quiser!
+ Day off de aniversário, para você comemorar como quiser!
+ Para manter a saúde e o bem-estar físico em dia, contamos com Apps parceiros de academias credenciadas.
+ Para manter a saúde e o bem-estar físico em dia, contamos com Apps parceiros de academias credenciadas.
+ Para relaxar e cuidar da saúde mental, temos parcerias com plataformas de terapia e meditação online.
+ Para relaxar e cuidar da saúde mental, temos parcerias com plataformas de terapia e meditação online.
+ Parceria com o SESC - Credencial Plena
+ Parceria com o SESC - Credencial Plena
+ Descontos exclusivos nas melhores faculdades e instituições de ensino, voltados para cursos de graduação, pós-graduação e MBA. Além de disponibilizarmos o Omie Academy gratuito para colaboradores.
+ Descontos exclusivos nas melhores faculdades e instituições de ensino, voltados para cursos de graduação, pós-graduação e MBA. Além de disponibilizarmos o Omie Academy gratuito para colaboradores.
+ Parceria com cursos de English in Company.
+ Parceria com cursos de English in Company.
+ Programa de descontos em seguros.
+ Programa de descontos em seguros.
+ Empréstimo consignado via Ali Crédito.
+ Empréstimo consignado via Ali Crédito.
+ Swile Shop: plataforma de descontos exclusivos.
+ Swile Shop: plataforma de descontos exclusivos.
+ Parceria com a Dell: cupons de até R$ 2.000,00.
+ Parceria com a Dell: cupons de até R$ 2.000,00.
+ PPRL.
+ PPRL.
+ Global Pass: benefício de viagens.
+ Global Pass: benefício de viagens.
+ Seguro de vida.
+ Seguro de vida.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Teste de Fit Cultural2Teste de Fit Cultural
+Etapa 2: Teste de Fit Cultural
+2
+Teste de Fit Cultural
+Etapa 3: Teste de Habilidades Técnicas3Teste de Habilidades Técnicas
+Etapa 3: Teste de Habilidades Técnicas
+3
+Teste de Habilidades Técnicas
+Etapa 4: Entrevista com RH4Entrevista com RH
+Etapa 4: Entrevista com RH
+4
+Entrevista com RH
+Etapa 5: Entrevista com Gestor5Entrevista com Gestor
+Etapa 5: Entrevista com Gestor
+5
+Entrevista com Gestor
+Etapa 6: Teste Prático - Desenvolvimento6Teste Prático - Desenvolvimento
+Etapa 6: Teste Prático - Desenvolvimento
+6
+Teste Prático - Desenvolvimento
+Etapa 7: Entrevista Final7Entrevista Final
+Etapa 7: Entrevista Final
+7
+Entrevista Final
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+NOSSO PROPÓSITO:
+Somos uma empresa de software que traz prosperidade para o ecossistema empreendedor brasileiro, destravando o crescimento dos negócios por meio de uma plataforma que resolve qualquer complexidade da gestão de forma simples, intuitiva e eficiente.
+Somos uma empresa de software que traz prosperidade para o ecossistema empreendedor brasileiro, destravando o crescimento dos negócios por meio de uma plataforma que resolve qualquer complexidade da gestão de forma simples, intuitiva e eficiente.
+A Omie procura profissionais capazes de potencializar ainda mais os resultados, dentro de uma cultura organizacional que preza pela confiança, a transparência e a lealdade entre equipes, parceiros e clientes. Buscamos pessoas com mentalidade de crescimento, valorizando perfis que tenham capacidade de adaptação, senso colaborativo e sejam motivadas pela inovação e pelo aprendizado contínuo.
+A Omie procura profissionais capazes de potencializar ainda mais os resultados, dentro de uma cultura organizacional que preza pela confiança, a transparência e a lealdade entre equipes, parceiros e clientes. Buscamos pessoas com mentalidade de crescimento, valorizando perfis que tenham capacidade de adaptação, senso colaborativo e sejam motivadas pela inovação e pelo aprendizado contínuo.
+
+Somos todos #OmieLovers!
+Acreditamos que TODOS devem se sentir acolhidos, seguros e realizados sendo sua melhor versão. Por isso, todas as nossas oportunidades são abertas a todos os públicos, valorizando e incentivando a inclusão e a diversidade.
+Acreditamos que 
+ devem se sentir acolhidos, seguros e realizados sendo sua melhor versão. Por isso, todas as nossas oportunidades são abertas a todos os públicos, valorizando e incentivando a inclusão e a diversidade.
+QUER SABER MAIS SOBRE A GENTE? ACOMPANHE AS NOSSAS REDES SOCIAIS!
+Website
+LinkedIn
+Instagram
+Glassdoor

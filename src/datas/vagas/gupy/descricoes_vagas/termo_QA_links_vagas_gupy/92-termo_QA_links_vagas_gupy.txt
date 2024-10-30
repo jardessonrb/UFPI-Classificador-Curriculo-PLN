@@ -1,0 +1,109 @@
+link_vaga-https://solutis.gupy.io/job/eyJqb2JJZCI6Nzk1NTI0Niwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+QA MANUAL - PLENO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Estamos em busca de alguém como você, que deseja iniciar uma nova jornada na área de Desenvolvimento de Software para impactar pessoas, clientes e sociedade. Nós, da Solutis, temos um desafio apaixonante, com o melhor ecossistema de uma Agile Company.
+ 
+Estamos com a posição de QA Manual Pleno  que envolve criatividade, proatividade, desenvolvimento ágil e que permite compartilhamento constante de conhecimentos. Somos um mundo plural, que promove um ambiente descontraído de verdade, flexível e focado no desenvolvimento humano e profissional para que você possa exercer a sua singularidade.
+ 
+Então, se você entende que este é o caminho em direção aos seus sonhos, movido por projetos desafiadores, uma carreira bem desenvolvida e o propósito de impactar uns aos outros, todos os dias: venha fazer parte deste vasto mundo Solutis. 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Como será seu dia a dia: (Atividades que vai realizar)
+Executar testes manuais;
+Executar testes manuais;
+Atuar junto ao PO para levantamento do fluxo de negócio e cenários de testes necessários;
+Atuar junto ao PO para levantamento do fluxo de negócio e cenários de testes necessários;
+Direcionar o time de automação de testes nas necessidades de automação;
+Gerir casos de testes no Jira;
+Gerir casos de testes no Jira;
+Apoiar demais QAs do time;
+Apoiar demais QAs do time;
+Gerir massas de dados;
+Gerir massas de dados;
+Demais atividades inerentes a área de Q.A.
+Demais atividades inerentes a área de Q.A.
+REQUISITOS E QUALIFICAÇÕES
+Pra mandar bem nessa oportunidade você precisa manjar das tecnologias: (Conhecimentos técnicos obrigatórios)
+Experiência no levantamento de cenários de testes baseado em entrevistas com usuários;
+Experiência no levantamento de cenários de testes baseado em entrevistas com usuários
+Experiência com Jira e Confluence;
+Conhecimento em Banco de Dados MongoDB;
+Conhecimento em Banco de Dados 
+Vivencia com mindset Ágil(SCRUM);
+Vivencia com mindset Ágil(SCRUM);
+Vai ser bom se você também tiver: (Conhecimentos técnicos desejáveis, que serão um diferencial)
+Experiência com Automação de testes Web em Java + Cucumber;
+Experiência com Automação de testes Web em Java + Cucumber;
+Experiência com Automação de Testes API em Java + Rest Assured;
+Experiência com Automação de Testes API em Java + Rest Assured;
+Graduação ou pós graduação em andamento em TI.
+O que não abrimos mão: (Soft Skills)
+Mindset focado em construir soluções criativas;
+Compromisso e senso de time;
+Capacidade de aprender com experiências de outros como também compartilhar suas próprias experiências;
+Ser apaixonado por tecnologia;
+Comprometimento em um ambiente voltado a entregas de alta colaboração.
+INFORMAÇÕES ADICIONAIS
+Para esta posição oferecemos:
+Salário CLT Full;
+Vale Refeição ou Alimentação (Alelo);
+Vale Transporte (sempre que houver o deslocamento);
+Auxílio Home Office (proporcional aos dias em que atuará nesta modalidade);
+Assistência Médica Sulamérica;
+Assistência Odontológica Sulamérica;
+Seguro de Vida;
+Parcerias (Curso de idiomas, ensino, livraria, restaurante, entre outras);
+Gympass;
+Allya;
+Day Off;
+Premiação por indicações;
+Inside Out (Ocorre todas as sextas-feiras. Evento da galera voltado para troca de conhecimento);
+Oportunidade de crescimento profissional.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem de Perfil2Triagem de Perfil
+Etapa 2: Triagem de Perfil
+2
+Triagem de Perfil
+Etapa 3: Entrevista RH3Entrevista RH
+Etapa 3: Entrevista RH
+3
+Entrevista RH
+Etapa 4: Entrevista Técnica4Entrevista Técnica
+Etapa 4: Entrevista Técnica
+4
+Entrevista Técnica
+Etapa 5: Entrevista Gestor5Entrevista Gestor
+Etapa 5: Entrevista Gestor
+5
+Entrevista Gestor
+Etapa 6: Carta Proposta6Carta Proposta
+Etapa 6: Carta Proposta
+6
+Carta Proposta
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+A SOLUTIS É DIGITAL!
+Somos apaixonados por tecnologia e esse valor está presente em nossas ações e proposta de trabalho. Ambiente descontraído e criativo, horário flexível, possibilidade de trabalho home office, eventos e programas internos com games... Isso faz parte do nosso dia-a-dia.
+Engajamento, busca intensa por conhecimento, empatia e criatividade são a nossa receita para cultivar e colher, sempre, o melhor resultado tecnológico.
+Essa é a Solutis, flexível, acolhedora, inquieta, amante da tecnologia e de tudo que ela nos proporciona de mais incrível.
+Venha fazer parte do nosso time!
+CONHEÇA A SOLUTIS
+Website
+LinkedIn
+Facebook
+Instagram

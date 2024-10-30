@@ -1,0 +1,112 @@
+link_vaga-https://senff.gupy.io/job/eyJqb2JJZCI6NzUwNjgxMywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR BACKEND SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Estamos em busca de um talentoso desenvolvedor sênior para se integrar à nossa equipe de tecnologia em constante expansão. O profissional ideal traz consigo uma sólida trajetória de liderança em projetos de desenvolvimento de software, demonstrando habilidades excepcionais na condução de projetos e equipes. Se você é apaixonado por tecnologia e possui experiência significativa, esta é uma oportunidade empolgante para fazer parte de nosso time e liderar a inovação em nossa empresa.
+RESPONSABILIDADES E ATRIBUIÇÕES
+ Demonstrar proficiência na Linguagem C# .NET Core e .NET Framework;Supervisionar projetos de desenvolvimento de software, assegurando que sejam entregues pontualmente e dentro do orçamento;Colaborar estreitamente com outros membros da equipe de desenvolvimento para garantir a qualidade do código e o cumprimento das melhores práticas de engenharia de software;Contribuir para a definição e manutenção dos padrões de codificação e documentação;Solucionar desafios técnicos e apresentar soluções eficazes para problemas complexos;Participar ativamente nas revisões de código, oferecendo feedback construtivo aos colegas de equipe.
+ Demonstrar proficiência na Linguagem C# .NET Core e .NET Framework;
+ Demonstrar proficiência na Linguagem C# .NET Core e .NET Framework;
+Supervisionar projetos de desenvolvimento de software, assegurando que sejam entregues pontualmente e dentro do orçamento;
+Supervisionar projetos de desenvolvimento de software, assegurando que sejam entregues pontualmente e dentro do orçamento;
+Colaborar estreitamente com outros membros da equipe de desenvolvimento para garantir a qualidade do código e o cumprimento das melhores práticas de engenharia de software;
+Colaborar estreitamente com outros membros da equipe de desenvolvimento para garantir a qualidade do código e o cumprimento das melhores práticas de engenharia de software;
+Contribuir para a definição e manutenção dos padrões de codificação e documentação;
+Contribuir para a definição e manutenção dos padrões de codificação e documentação;
+Solucionar desafios técnicos e apresentar soluções eficazes para problemas complexos;
+Solucionar desafios técnicos e apresentar soluções eficazes para problemas complexos;
+Participar ativamente nas revisões de código, oferecendo feedback construtivo aos colegas de equipe.
+Participar ativamente nas revisões de código, oferecendo feedback construtivo aos colegas de equipe.
+REQUISITOS E QUALIFICAÇÕES
+    • Mínimo de 4 anos de experiência comprovada em desenvolvimento de software.
+    • Mínimo de 4 anos de experiência comprovada em desenvolvimento de software.
+    • Histórico de liderança em projetos, incluindo a capacidade de orientar e treinar membros mais juniores da equipe.
+    • Histórico de liderança em projetos, incluindo a capacidade de orientar e treinar membros mais juniores da equipe.
+    • Excelentes habilidades de comunicação e aptidão para trabalho colaborativo em equipe.
+    • Excelentes habilidades de comunicação e aptidão para trabalho colaborativo em equipe.
+    • Conhecimento sólido em estruturas de bancos de dados e design de sistemas, com capacidade para tomar decisões de alto nível em sistemas complexos.
+    • Conhecimento sólido em estruturas de bancos de dados e design de sistemas, com capacidade para tomar decisões de alto nível em sistemas complexos.
+    • Experiência comprovada em metodologias ágeis de desenvolvimento de software e gestão de projetos.
+    • Experiência comprovada em metodologias ágeis de desenvolvimento de software e gestão de projetos.
+    • Graduação em Ciência da Computação, Engenharia de Software ou área relacionada.
+    • Graduação em Ciência da Computação, Engenharia de Software ou área relacionada.
+    • Vivência com tecnologias de nuvem e contêineres, como AWS, Docker e Kubernetes.
+    • Vivência com tecnologias de nuvem e contêineres, como AWS, Docker e Kubernetes.
+    • Familiaridade com os princípios de arquitetura de software.
+    • Familiaridade com os princípios de arquitetura de software.
+    • Habilidades de resolução de conflitos, caso seja necessário gerenciar situações desafiadoras dentro da equipe de desenvolvimento.
+    • Habilidades de resolução de conflitos, caso seja necessário gerenciar situações desafiadoras dentro da equipe de desenvolvimento.
+    • Docker
+    • Docker
+    • Testes unitários
+    • Testes unitários
+    • Domain-Driven Design (DDD)
+    • Domain-Driven Design (DDD)
+    
+    
+Conhecimentos Específicos:
+    • C# / .NET
+    • C# / .NET
+    • Princípios de SOLID e Programação Orientada a Objetos (POO)
+    • Princípios de SOLID e Programação Orientada a Objetos (POO)
+    • Banco de dados relacional: SQL Server, PostgreSQL, Oracle ou MySQL
+    • Banco de dados relacional: SQL Server, PostgreSQL, Oracle ou MySQL
+    
+    
+Diferenciais:
+    • Proficiência em automação de processos e práticas de DevOps.
+    • Proficiência em automação de processos e práticas de DevOps.
+    • Compreensão aprofundada de segurança de software e implementação de práticas de segurança.
+    • Compreensão aprofundada de segurança de software e implementação de práticas de segurança.
+    • Habilidades avançadas de resolução de problemas complexos e tomada de decisões críticas.
+    • Habilidades avançadas de resolução de problemas complexos e tomada de decisões críticas.
+    • Atualização constante em relação às últimas tendências tecnológicas e habilidades de gestão do tempo para cumprir prazos e metas de projeto.
+    • Atualização constante em relação às últimas tendências tecnológicas e habilidades de gestão do tempo para cumprir prazos e metas de projeto.
+    • Desenvolvimento front-end (ReactJS ou Angular)
+    • Desenvolvimento front-end (ReactJS ou Angular)
+    • Desenvolvimento mobile (Flutter, Kotlin ou Swift)
+    • Desenvolvimento mobile (Flutter, Kotlin ou Swift)
+INFORMAÇÕES ADICIONAIS
+Trabalho Híbrido das 08:00 às 17:00 de segunda a sexta-feira.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Teste de Perfil2Teste de Perfil
+Etapa 2: Teste de Perfil
+2
+Teste de Perfil
+Etapa 3: Entrevista Gestor + RH3Entrevista Gestor + RH
+Etapa 3: Entrevista Gestor + RH
+3
+Entrevista Gestor + RH
+Etapa 4: Teste Prático da Área4Teste Prático da Área
+Etapa 4: Teste Prático da Área
+4
+Teste Prático da Área
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+QUEM SOMOS
+Somos uma empresa que se dedica a oferecer soluções financeiras para o varejo. Temos um portfólio completo de produtos e serviços alinhados às inovações tecnológicas. Com 4,5 milhões de cartões circulando pelo país, ajudamos nossos parceiros a venderem mais e nossos clientes a realizarem seus sonhos.
+Somos uma empresa que se dedica a oferecer soluções financeiras para o varejo. Temos um portfólio completo de produtos e serviços alinhados às inovações tecnológicas. Com 4,5 milhões de cartões circulando pelo país, ajudamos nossos parceiros a venderem mais e nossos clientes a realizarem seus sonhos.
+Nossa missão é conectar empresas e pessoas por meio de soluções financeiras inovadoras e ágeis. Já nossa visão é ser reconhecida no Brasil pela excelência em nossos serviços. E, claro, nossos valores: confiança, valorização do ser humano, inovação, trabalho em equipe e atitude de dono, são fundamentais para tudo que fazemos.
+Com 130 anos de história, o Grupo Senff começou como uma panificadora em Curitiba, e hoje é um dos principais provedores de soluções financeiras do país. Conquistamos o reconhecimento de importantes instituições do varejo por nossos produtos que atendem com precisão às demandas do mercado e oferecem inúmeros benefícios.
+Seguimos buscando evoluir e oferecer o melhor para nossos parceiros e clientes.
+Junte-se a nós e faça parte dessa história de sucesso! 
+REDES SOCIAIS
+Website
+LinkedIn
+Facebook
+Instagram

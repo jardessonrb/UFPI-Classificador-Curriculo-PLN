@@ -1,0 +1,86 @@
+link_vaga-https://mundiale.gupy.io/job/eyJqb2JJZCI6Nzg3MzMxMCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+SOFTWARE DEVELOPER – BACKEND
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+⚡ Nossa missão aqui na Mundiale é simplificar a relação entre marcas e seus consumidores, proporcionando interações mais humanas, assertivas e fluidas, por meio de tecnologia de ponta e uma metodologia própria. 
+E para isso, buscamos muita gente fera para se juntar ao nosso time de Munders e viver, a cada dia, novos e empolgantes desafios! 
+E aí, curtiu? Se você quer conhecer ainda mais sobre o trabalho que desenvolvemos dentro do time de TECH, nossas soluções, modelo de trabalho e rituais do dia a dia, se inscreva e #VemSerMunder!
+Como SOFTWARE DEVELOPER - BACKEND você vai nos apoiar na criação de novos sistemas e na evolução de sistemas pré-existentes. Para isso precisamos que você seja capaz de traduzir as necessidades em plataformas funcionais e rápidas!
+BACKEND 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Contribuir com a decisão de colocar em produção o que foi desenvolvido;Levantar hipóteses de solução junto ao time objetivando os casos de uso, principais regras de negócio e contexto;Alinhar as demandas não previstas com os Tech Leads;Apoiar no desenvolvimento das estórias e épicos que serão tratados;Apresentar soluções técnicas para a resolução de problemas e evoluções de produtos, demandados pelos Tech Leads;Contribuir, colocar em prática a arquitetura e tecnologia a fim de garantir a escalabilidade, segurança e evolução do projeto;Desenvolver aplicações escaláveis e distribuídas;Participar de times interdisciplinares de projetos e/ou squads, conforme demandas e períodos pré estabelecidos;Usar os padrões, práticas de segurança, deploy e monitoramento para as aplicações.
+Contribuir com a decisão de colocar em produção o que foi desenvolvido;
+Levantar hipóteses de solução junto ao time objetivando os casos de uso, principais regras de negócio e contexto;
+Alinhar as demandas não previstas com os Tech Leads;
+Apoiar no desenvolvimento das estórias e épicos que serão tratados;
+Apresentar soluções técnicas para a resolução de problemas e evoluções de produtos, demandados pelos Tech Leads;
+Contribuir, colocar em prática a arquitetura e tecnologia a fim de garantir a escalabilidade, segurança e evolução do projeto;
+Desenvolver aplicações escaláveis e distribuídas;
+Participar de times interdisciplinares de projetos e/ou squads, conforme demandas e períodos pré estabelecidos;
+Usar os padrões, práticas de segurança, deploy e monitoramento para as aplicações.
+REQUISITOS E QUALIFICAÇÕES
+Experiência em Node.JS;Experiência em banco de dados não relacional (MongoDB);Conhecimento em teste unitário e de integração;Docker;Git.VOCÊ IRÁ SE DESTACAR SE TIVER CONHECIMENTO EM:Fila (RabbitMQ);Microsserviços.
+Experiência em Node.JS;
+Experiência em banco de dados não relacional (MongoDB);
+Conhecimento em teste unitário e de integração;
+Docker;
+Git.
+VOCÊ IRÁ SE DESTACAR SE TIVER CONHECIMENTO EM:
+Fila (RabbitMQ);
+Microsserviços.
+INFORMAÇÕES ADICIONAIS
+E VOCÊ TEM:
+Benefício Flexível (você define como utilizar de acordo com suas necessidades: cultura, app de transporte, assinaturas, academia, alimentação etc.); 🎉🚗💼🏋️🍔
+Plano de Saúde Unimed Unipart; 🏥
+Trilha de carreira; 🚀
+Trabalho Remoto; 🏡
+Day Off; 🌞
+Short Friday; 😎
+Ambiente de trabalho colaborativo e dinâmico. 🤝💼
+Precisamos de pessoas excepcionais, dispostas a fazer o melhor trabalho possível. Se você é legal como a gente e quer rampar sua carreira em uma empresa que não para de crescer, a Mundiale é o lugar certo!  🚀
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Testes comportamentais2Testes comportamentais
+Etapa 2: Testes comportamentais
+2
+Testes comportamentais
+Etapa 3: Entrevista com Talent3Entrevista com Talent
+Etapa 3: Entrevista com Talent
+3
+Entrevista com Talent
+Etapa 4: Entrevista com Gestor4Entrevista com Gestor
+Etapa 4: Entrevista com Gestor
+4
+Entrevista com Gestor
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+SOMOS A MUNDIALE
+Todos os dias, há mais 20 anos, nós na Mundiale iniciamos a jornada de trabalho pensando em como podemos impactar para melhor a experiência de alguém. Desde o início da nossa trajetória, colocamos o olhar voltado para o cliente. Nosso trabalho é assim: times unidos para pensar, construir e revolucionar experiências.
+Todos os dias, há mais 20 anos, nós na Mundiale iniciamos a jornada de trabalho pensando em como podemos impactar para melhor a experiência de alguém. Desde o início da nossa trajetória, colocamos o olhar voltado para o cliente. Nosso trabalho é assim: times unidos para pensar, construir e 
+.
+Somos uma equipe autêntica com mais de 500 Munders espalhados por 19 estados do Brasil. 
+Aliás, Munder é cada um de nós no time Mundiale com liberdade de escolher ser quem você é. Em um ambiente assim, coisas incríveis acontecem a todo momento! Valorizamos times diversos (e com pontos de vistas diversos), inquietos e que constroem soluções criativas e efetivas. Por isso, nos apaixonamos pelos problemas e não pelas soluções. Isso está no nosso Jeito.
+Aliás, 
+é cada um de nós no time Mundiale com liberdade de escolher ser quem você é. Em um ambiente assim, coisas incríveis acontecem a todo momento! Valorizamos times diversos (e com pontos de vistas diversos), inquietos e que constroem soluções criativas e efetivas. Por isso, nos apaixonamos pelos problemas e não pelas soluções. Isso está no nosso 
+O nosso time está em constante construção, trabalhando para 1% melhor a cada dia. E são pessoas como você, que estão dispostas a construir junto, trocar experiências e a aprender, que convidamos a conhecer nossas oportunidades . Se você quer compartilhar da sua carreira em uma empresa que vai crescer com você, vem para a Mundiale!
+O nosso time está em constante construção, trabalhando para 1% melhor a cada dia. E são pessoas como você, que estão dispostas a construir junto, trocar experiências e a aprender, que convidamos a conhecer nossas oportunidades . Se você quer compartilhar da sua carreira em uma empresa que vai crescer com você, vem para a 
+ACOMPANHE A MUNDIALE
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

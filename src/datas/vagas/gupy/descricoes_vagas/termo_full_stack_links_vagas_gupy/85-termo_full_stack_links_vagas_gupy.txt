@@ -1,0 +1,115 @@
+link_vaga-https://estadao.gupy.io/job/eyJqb2JJZCI6NzgzOTM0MSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR FULL STACK SR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+
+Você é o tipo de pessoa encantada por tecnologia e desafios? Gosta de inovação e de trabalhar com equipes multidisciplinares e com pessoas dispostas a aprender e ensinar? Então aqui é o seu lugar! O Estadão é uma das maiores, mais importantes e sólidas empresas de informação e comunicação do Brasil. Acreditamos que a informação é uma poderosa ferramenta de transformação social e que empodera e prepara as pessoas para os desafios do futuro. Com foco na inovação e com os clientes no centro do nosso negócio estamos mudando nossa forma de pensar e trabalhar e passando por um processo de transformação digital que promete impactar (e muito) na vida dos nossos colaboradores e leitores. Quer fazer parte dessa história? Então vem pensar com a gente!
+Você é o tipo de pessoa encantada por tecnologia e desafios? Gosta de inovação e de trabalhar com equipes multidisciplinares e com pessoas dispostas a aprender e ensinar? Então aqui é o seu lugar! O 
+ é uma das maiores, mais importantes e sólidas empresas de informação e comunicação do Brasil. Acreditamos que a informação é uma poderosa ferramenta de transformação social e que empodera e prepara as pessoas para os desafios do futuro. Com foco na inovação e com os clientes no centro do nosso negócio estamos mudando nossa forma de pensar e trabalhar e passando por um processo de transformação digital que promete impactar (e muito) na vida dos nossos colaboradores e leitores. Quer fazer parte dessa história? Então vem pensar com a gente!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Principais atividades:
+Desenvolver aplicativos de acordo com o desenho, dar feedback aos designers e sugerir trade-offs quando necessário.
+Desenvolver aplicativos de acordo com o desenho, dar feedback aos designers e sugerir trade-offs quando necessário.
+Assegurar que o código siga as mais modernas práticas e tendências da indústria.
+Assegurar que o código siga as mais modernas práticas e tendências da indústria.
+Trabalhar em estreita cooperação com os desenvolvedores de backend para entender e usar adequadamente os sistemas de APIs.
+Trabalhar em estreita cooperação com os desenvolvedores de backend para entender e usar adequadamente os sistemas de APIs.
+ Criar testes de unidade e de integração, e desenvolver ferramentas de automação para tarefas diárias.
+ Criar testes de unidade e de integração, e desenvolver ferramentas de automação para tarefas diárias.
+Questionar ideias e opiniões para evitar armadilhas e soluções ineficientes.
+Questionar ideias e opiniões para evitar armadilhas e soluções ineficientes.
+Desenhar e desenvolver a lógica de negócio e sistema backend do produto.
+Desenhar e desenvolver a lógica de negócio e sistema backend do produto.
+Desenvolver APIs funcionais, completas e de bom desempenho.
+Desenvolver APIs funcionais, completas e de bom desempenho.
+Decifrar os atuais sistemas de softwares da empresa e ser capaz de conectar a fontes de dados aplicáveis.
+Decifrar os atuais sistemas de softwares da empresa e ser capaz de conectar a fontes de dados aplicáveis.
+Realizar diversos testes de integração, desenvolvimento de ferramentas de automatização de tarefas diárias.
+Realizar diversos testes de integração, desenvolvimento de ferramentas de automatização de tarefas diárias.
+Desafiar as ideias e opiniões evitando erros e soluções ineficientes.
+Desafiar as ideias e opiniões evitando erros e soluções ineficientes.
+REQUISITOS E QUALIFICAÇÕES
+Esperamos que você tenha:
+Experiencia avançada em desenvolvimento de aplicações web Frontend e Backend.
+ Experiencia com APIs Restfull.
+ Experiencia com Arquiteturas de software de Micro Serviços, Orientadas a Eventos (event-driven) e Model-view-controller (MVC).
+Experiencia com PHP, Node.js, Nest.js e React.
+ Conhecimento em Docker e Kubernetes.
+ Conhecimento em banco de dados SQLSERVER.
+ Experiência com fluxo e implementação de segurança de autenticação como JWT, Cookies, OAuth 2.0, Bearer.
+ Testes e boas práticas de programação (TDD, BDD, SOLID e Design Patterns).
+ Uso de metodologia ágil SCRUM para execução das tarefas.
+ Experiência com versionamento GIT/Bitbucket e Gitflow.
+ Conhecimento com alguma plataforma em Nuvem, Google Cloud Plataform, AWS, Azure.
+Além disso, será incrível se você tiver:
+ Experiência com os frameworks Next.js, Fusion.js e Laravel.
+ Experiência com a utilização do Google Cloud Plataform utilizando ferramentas como Cloud Functions, Cloud Storage e Compute Engine.
+ Conhecimento com ferramentas de observabilidade como Grafana, Prometheus, Elastic APM ou similares.
+ Conhecimento intermediário em DevOps.
+ Experiência com Redis.
+ Conhecimento em Arquiteturas como Publish-Subscribe (Pub/Sub) e Orientada a serviços (SOA).
+INFORMAÇÕES ADICIONAIS
+Nossos benefícios:
+Assistência Médica;
+Assistência Médica;
+Assistência Odontológica;
+Assistência Odontológica;
+Auxílio Creche;
+Auxílio Creche;
+Day off de aniversário;
+Day off de aniversário;
+Casual every day;
+Casual every day;
+Vale Transporte;
+Vale Transporte;
+Restaurante Interno;
+Restaurante Interno;
+Auxílio Psicológico;
+Seguro de Vida;
+Seguro de Vida;
+Acesso ao conteúdo digital completo do Estadão;
+Acesso ao conteúdo digital completo do Estadão;
+Descontos exclusivos em instituições de ensino.
+Descontos exclusivos em instituições de ensino.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Entrevista com RH3Entrevista com RH
+Etapa 3: Entrevista com RH
+3
+Entrevista com RH
+Etapa 4: Entrevista com Gestor4Entrevista com Gestor
+Etapa 4: Entrevista com Gestor
+4
+Entrevista com Gestor
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+#VEMTRABALHARCOMAGENTE
+
+Para captar a atenção do público na era digital, nos últimos anos o Estadão vem investindo pesado em tecnologia de ponta, mudança de cultura e manutenção do jornalismo de qualidade? Sabia que o Estadão é o primeiro grande veículo do Brasil a utilizar a tecnologia desenvolvida pelo Washington Post (sistema de publicação de conteúdo Arc) e que essa inovação trouxe muito mais agilidade e melhor performance para a empresa? Os investimentos em tecnologia e a sincronia entre Redação, Estratégias Digitais e TI nos levaram a alcançar números inéditos e a conquistar alguns recordes e muitos prêmios. Tudo isso mostra que o Estadão não é SÓ um jornal, ele é TAMBÉM um jornal! Somos uma empresa multiplataforma (impresso, online, mídias sociais, rádio, podcast, TV e eventos). O Grupo Estado nasceu em 04 de janeiro de 1875 e hoje é formado por três grandes negócios: Estadão, Agência Estado e Rádio Eldorado. Com sede em São Paulo, o grupo possui sucursais em Brasília e Rio de Janeiro, além de correspondentes e colaboradores dentro e fora do Brasil.
+Para captar a atenção do público na era digital, nos últimos anos o 
+ vem investindo pesado em tecnologia de ponta, mudança de cultura e manutenção do jornalismo de qualidade? Sabia que o 
+é o primeiro grande veículo do Brasil a utilizar a tecnologia desenvolvida pelo 
+ (sistema de publicação de conteúdo Arc) e que essa inovação trouxe muito mais agilidade e melhor performance para a empresa? Os investimentos em tecnologia e a sincronia entre Redação, Estratégias Digitais e TI nos levaram a alcançar números inéditos e a conquistar alguns recordes e muitos prêmios. Tudo isso mostra que o Estadão não é SÓ um jornal, ele é TAMBÉM um jornal! Somos uma empresa multiplataforma (impresso, online, mídias sociais, rádio, podcast, TV e eventos). O Grupo Estado nasceu em 04 de janeiro de 1875 e hoje é formado por três grandes negócios: Estadão, Agência Estado e Rádio Eldorado. Com sede em São Paulo, o grupo possui sucursais em Brasília e Rio de Janeiro, além de correspondentes e colaboradores dentro e fora do Brasil.
+CONHEÇA MAIS SOBRE NÓS!
+Website
+LinkedIn
+Facebook
+Instagram

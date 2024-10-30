@@ -1,0 +1,124 @@
+link_vaga-https://mjvcarreiras.gupy.io/job/eyJqb2JJZCI6NzM0NjA0NSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA TESTER / QA (AUTOMATIZADO)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+Ser MJVer 🤝 é estar em um dos melhores lugares para trabalhar.
+ 
+Nós sabemos que na construção de uma sociedade mais forte a evolução deve vir de dentro para fora. Por isso, um ambiente acolhedor e com o sentimento constante de pertencimento é fundamental para o crescimento individual e coletivo.
+ 
+O esforço é de todos nós, e as conquistas também. Porque ser um MJVer é bem mais do que ser um colaborador: é sobre fazer parte.
+ 
+Somos colaborativos, ágeis, plurais, criativos e inovadores. Somos MJV! 
+ 
+Saiba mais em Quem Somos: https://www.mjvinnovation.com/pt-br/quem-somos/
+RESPONSABILIDADES E ATRIBUIÇÕES
+Descrição da Vaga:Estamos procurando um(a) Desenvolvedor(a) de Software altamente motivado(a) e experiente para se juntar à nossa equipe de tecnologia. O candidato ideal terá um histórico comprovado de sucesso em projetos de desenvolvimento de software, bem como habilidades de comunicação e colaboração em equipe.Projeto:O(a) desenvolvedor(a) selecionado(a) se juntará à nossa equipe de desenvolvimento de software para trabalhar em um projeto de plataforma de bancária.  A plataforma está sendo construída usando tecnologias de ponta e a equipe está trabalhando em estreita colaboração com outras equipes de desenvolvimento, incluindo qualidade de software e engenharia de infraestrutura.Responsabilidades:Como QA focado em testes automatizados, você será encarregado de desenvolver estratégias de automação, criar e manter scripts de testes para validar funcionalidades e regras de negócio, identificar oportunidades de automação, configurar ambientes de testes automatizados e integrá-los com pipelines de CI/CD. Você monitorará os resultados, reportará bugs, e desenvolverá conhecimento profundo sobre as tecnologias e regras de negócio para garantir a qualidade do software. Além disso, executará testes de performance e estresse, atuando como referência técnica, compartilhando melhores práticas e liderando a cultura de qualidade e automação de testes dentro da equipe, visando a entrega contínua de software de alta qualidade. Atribuições:\Colaborar com outros desenvolvedores em projetos de software;\Escrever código limpo e documentado que atenda aos requisitos de negócios e técnicos;\Realizar testes de unidade e integração para garantir a qualidade do software;\Realizar manutenção preventiva e corretiva do software existente;Trabalhar em estreita colaboração com outras equipes, incluindo qualidade de software e engenharia de infraestrutura, para garantir a consistência e a escalabilidade da plataforma.
+Descrição da Vaga:
+Estamos procurando um(a) Desenvolvedor(a) de Software altamente motivado(a) e experiente para se juntar à nossa equipe de tecnologia. O candidato ideal terá um histórico comprovado de sucesso em projetos de desenvolvimento de software, bem como habilidades de comunicação e colaboração em equipe.
+Projeto:
+O(a) desenvolvedor(a) selecionado(a) se juntará à nossa equipe de desenvolvimento de software para trabalhar em um projeto de plataforma de bancária.  A plataforma está sendo construída usando tecnologias de ponta e a equipe está trabalhando em estreita colaboração com outras equipes de desenvolvimento, incluindo qualidade de software e engenharia de infraestrutura.
+Responsabilidades:
+Como QA focado em testes automatizados, você será encarregado de desenvolver estratégias de automação, criar e manter scripts de testes para validar funcionalidades e regras de negócio, identificar oportunidades de automação, configurar ambientes de testes automatizados e integrá-los com pipelines de CI/CD. Você monitorará os resultados, reportará bugs, e desenvolverá conhecimento profundo sobre as tecnologias e regras de negócio para garantir a qualidade do software. Além disso, executará testes de performance e estresse, atuando como referência técnica, compartilhando melhores práticas e liderando a cultura de qualidade e automação de testes dentro da equipe, visando a entrega contínua de software de alta qualidade. 
+Como QA focado em testes automatizados, você será encarregado de desenvolver estratégias de automação, criar e manter scripts de testes para validar funcionalidades e regras de negócio, identificar oportunidades de automação, configurar ambientes de testes automatizados e integrá-los com pipelines de CI/CD. Você monitorará os resultados, reportará bugs, e desenvolverá conhecimento profundo sobre as tecnologias e regras de negócio para garantir a qualidade do software. Além disso, executará testes de performance e estresse, atuando como referência técnica, compartilhando melhores práticas e liderando a cultura de qualidade e automação de testes dentro da equipe, visando a entrega contínua de software de alta qualidade. 
+Atribuições:
+\Colaborar com outros desenvolvedores em projetos de software;
+\Escrever código limpo e documentado que atenda aos requisitos de negócios e técnicos;
+\Realizar testes de unidade e integração para garantir a qualidade do software;
+\Realizar manutenção preventiva e corretiva do software existente;
+Trabalhar em estreita colaboração com outras equipes, incluindo qualidade de software e engenharia de infraestrutura, para garantir a consistência e a escalabilidade da plataforma.
+REQUISITOS E QUALIFICAÇÕES
+Experiência comprovada em Linguagens de Programação, como Java, C++, JavaScript, Ruby, Python, C# ou Pearl.Planejamento e execução de testes de performance / stress / segurança;BDD;Ferramentas de gestão de bugs;Conhecimento em planejamento de testes;Execução de testes manuais e automatizados;RESTful services;Conhecimento de ao menos um framework de automação de testes (Selenium Webdriver, Cucumber, Calabash, Appium, Espresso, XCUITest, HTTParty, Robot Framework);Análise de requisitos;JUnit;SQL;Metodologias ágeis;JSON;Análise de riscos..
+Experiência comprovada em Linguagens de Programação, como Java, C++, JavaScript, Ruby, Python, C# ou Pearl.
+Planejamento e execução de testes de performance / stress / segurança;
+BDD;
+Ferramentas de gestão de bugs;
+Conhecimento em planejamento de testes;
+Execução de testes manuais e automatizados;
+RESTful services;
+Conhecimento de ao menos um framework de automação de testes (Selenium Webdriver, Cucumber, Calabash, Appium, Espresso, XCUITest, HTTParty, Robot Framework);
+Análise de requisitos;
+JUnit;
+SQL;
+Metodologias ágeis;
+JSON;
+Análise de riscos.
+.
+INFORMAÇÕES ADICIONAIS
+💪🏽 TotalPass;
+🍕 Vale Refeição;
+👨🏾‍ 🤝‍👩🏽‍🤝‍👩🏼 Seguro de vida em grupo;
+🏨 Plano de saúde e odontológico - Amil;
+🗣️ Grupos de idiomas;
+✈ People Mobility: damos uma forcinha para pessoas que tem interesse e disponibilidade de atuar em projetos desafiadores em outros estados e países;
+💻 Ações de treinamento: palestras, fóruns, trocas e conversas de conhecimentos relativos ao nosso negócio. Estamos em constante conexão para aprender mais e juntos;
+💲 Parcerias: quer desconto? Temos um grupo no Workplace onde divulgamos parcerias com instituições de ensino, escolas de idiomas, academias, restaurantes, produtos e outros serviços;
+👉 Programa +MJVer: programa interno de indicação onde você indica um colega para trabalhar conosco e se esse relacionamento der match, você ganha um prêmio;
+💡 Co-criação: conectamos talentos para gerar soluções completas. Colaboração está no nosso sangue.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem ⭐2Triagem ⭐
+Etapa 2: Triagem ⭐
+2
+Triagem ⭐
+Etapa 3: Entrevista com people team 💜3Entrevista com people team 💜
+Etapa 3: Entrevista com people team 💜
+3
+Entrevista com people team 💜
+Etapa 4: Entrevista técnica 👥4Entrevista técnica 👥
+Etapa 4: Entrevista técnica 👥
+4
+Entrevista técnica 👥
+Etapa 5: Entrevista com gestor/cliente 🎯5Entrevista com gestor/cliente 🎯
+Etapa 5: Entrevista com gestor/cliente 🎯
+5
+Entrevista com gestor/cliente 🎯
+Etapa 6: Envio de proposta 🎉6Envio de proposta 🎉
+Etapa 6: Envio de proposta 🎉
+6
+Envio de proposta 🎉
+Etapa 7: Dados pré-admissionais 🗃️7Dados pré-admissionais 🗃️
+Etapa 7: Dados pré-admissionais 🗃️
+7
+Dados pré-admissionais 🗃️
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+SOBRE A MJV
+A MJV é mais do que uma simples consultoria de tecnologia e inovação. Somos um grupo de mentes diversas, visionárias e determinadas, combinando design, dados e uma mentalidade ágil para oferecer soluções completas, que vão desde a concepção até a implementação de TI. 
+A 
+é mais do que uma simples consultoria de 
+e 
+. Somos um grupo de mentes diversas, visionárias e determinadas, combinando design, dados e uma mentalidade ágil para oferecer soluções completas, que vão desde a concepção até a implementação de TI. 
+Nosso legado começou há mais de 25 anos, com o propósito de ajudar empresas a prosperar em suas jornadas de transformação. A MJV é composta por um vasto grupo de pessoas que acreditam no trabalho colaborativo. Aplicamos o Design Thinking, as Metodologias Ágeis e a Sustentabilidade em todos os nossos projetos. A transformação digital também é um dos nossos pilares. Nossa equipe multidisciplinar é formada por designers, engenheiros, publicitários, antropólogos, cientistas de dados, desenvolvedores, empreendedores e muito mais. Também expandimos nossa presença global nas Américas e Europa (Estados Unidos, Inglaterra, França, Itália, Portugal e Colômbia) e abrimos um Laboratório de Inovação na UFRJ (Universidade Federal do Rio de Janeiro). 
+Nosso legado começou há mais de 
+, com o propósito de ajudar empresas a prosperar em suas jornadas de transformação. 
+A 
+é composta por um vasto grupo de pessoas que acreditam no trabalho colaborativo. Aplicamos o 
+, as 
+ e a 
+em todos os nossos projetos. A 
+também é um dos nossos pilares. Nossa 
+ é formada por designers, engenheiros, publicitários, antropólogos, cientistas de dados, desenvolvedores, empreendedores e muito mais. Também 
+expandimos nossa presença global nas 
+ (Estados Unidos, Inglaterra, França, Itália, Portugal e Colômbia) e abrimos um 
+ na UFRJ (Universidade Federal do Rio de Janeiro).
+ 
+Se você tem paixão por tecnologia, inovação e deseja fazer a diferença na vida de outras pessoas, venha fazer parte de um time com mais de 1.400 talentos espalhados pelo mundo para transformar negócios e moldar futuros. Fomos certificados com o selo Great Place to Work (GPTW) pelo segundo ano consecutivo.
+Se você tem paixão por tecnologia, inovação e deseja fazer a diferença na vida de outras pessoas, venha fazer parte de um time com mais de 1.400 talentos espalhados pelo mundo para transformar negócios e moldar futuros. Fomos certificados com o selo 
+ pelo segundo ano consecutivo.
+https://www.mjvinnovation.com/pt-br/
+https://www.mjvinnovation.com/pt-br/
+Website
+LinkedIn
+Facebook
+Instagram

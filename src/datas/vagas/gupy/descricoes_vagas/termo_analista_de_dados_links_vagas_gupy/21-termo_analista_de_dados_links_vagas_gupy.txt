@@ -1,0 +1,104 @@
+link_vaga-https://localiza.gupy.io/job/eyJqb2JJZCI6ODAwODU4Miwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE BANCO DE DADOS - PLENO (HÍBRIDO)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+LOCALIZA&CO 
+ 
+ 
+Estar em constante evolução nos trouxe até aqui. Ao lado de talentos e habilidades múltiplas nos conectamos em busca da nossa motivação: construir o futuro da mobilidade sustentável. É por meio da valorização da individualidade de cada um que impulsionamos o nosso movimento para conquistar resultados extraordinários, desenvolver nossas operações e criar soluções para os nossos clientes. 
+Estar em constante evolução nos trouxe até aqui. Ao lado de talentos e habilidades múltiplas nos conectamos em busca da nossa motivação: construir o futuro da mobilidade sustentável. É por meio da valorização da individualidade de cada um que impulsionamos o nosso movimento para conquistar resultados extraordinários, desenvolver nossas operações e criar soluções para os nossos clientes. 
+Somos apaixonados por nossa história, por nossas ideias e pela capacidade de realizá-las. Sabemos que juntos, todos vamos mais longe. 
+Somos apaixonados por nossa história, por nossas ideias e pela capacidade de realizá-las. Sabemos que juntos, todos vamos mais longe. 
+É assim que conectamos a Localiza&Co com o futuro. 
+É assim que conectamos a Localiza&Co com o futuro. 
+RESPONSABILIDADES E ATRIBUIÇÕES
+O QUE VOCÊ IRÁ FAZER 
+ 
+Atuar na administração/operação dos bancos de dados da companhia; 
+Atuar na administração/operação dos bancos de dados da companhia; 
+O Centro de Comandos atua no monitoramento, disponibilidade e estabilidade das aplicações para o negocio; 
+O Centro de Comandos atua no monitoramento, disponibilidade e estabilidade das aplicações para o negocio; 
+Administrar e gerenciar os bancos de dados SQL Server, SQL Server Azure, Sybase, Oracle, no que tange a segurança, performance, rastreabilidade e disponibilidade; Realizar tunning de queries; Participar de War Room´s; Realizar gestão de vulnerabilidades e aplicação de patches; Observabilidade e monitoramento do ambiente; Atendimento a incidentes e requisições; Automatização de tarefas utilizando PowerShell(ou linguagem similar). 
+Administrar e gerenciar os bancos de dados SQL Server, SQL Server Azure, Sybase, Oracle, no que tange a segurança, performance, rastreabilidade e disponibilidade; Realizar tunning de queries; Participar de War Room´s; Realizar gestão de vulnerabilidades e aplicação de patches; Observabilidade e monitoramento do ambiente; Atendimento a incidentes e requisições; Automatização de tarefas utilizando PowerShell(ou linguagem similar). 
+REQUISITOS E QUALIFICAÇÕES
+O QUE PRECISAMOS 
+ 
+ 
+Vivência nas tecnologias: SQL Server; Azure SQL Server; Oracle; Sybase; DataDog; Zabbix Scripting; Azure Devops; RDS; AWS. 
+Vivência nas tecnologias: SQL Server; Azure SQL Server; Oracle; Sybase; DataDog; Zabbix Scripting; Azure Devops; RDS; AWS. 
+INFORMAÇÕES ADICIONAIS
+BENEFÍCIOS DESSA POSIÇÃO 
+ 
+ 
+Participação nos Lucros 
+Participação nos Lucros 
+Vale Alimentação 
+Vale Alimentação 
+Vale Refeição 
+Vale Refeição 
+Convênio Médico 
+Convênio Médico 
+Convênio Odontológico 
+Convênio Odontológico 
+Gympass 
+Gympass 
+Previdência Privada 
+Previdência Privada 
+Auxilio Home office 
+Allya 
+Allya 
+Acesso ilimitado a diversos cursos da nossa Universidade Localiza 
+Acesso ilimitado a diversos cursos da nossa Universidade Localiza 
+Programas internos de treinamento e desenvolvimento 
+Programas internos de treinamento e desenvolvimento 
+Desconto em compra e aluguel de veículos 
+Desconto em compra e aluguel de veículos 
+ 
+Viva a experiência de ser Localiza&Co e venha construir o futuro da mobilidade conosco! 
+ 
+ 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Testes Online2Testes Online
+Etapa 2: Testes Online
+2
+Testes Online
+Etapa 3: Entrevista Atração e Seleção3Entrevista Atração e Seleção
+Etapa 3: Entrevista Atração e Seleção
+3
+Entrevista Atração e Seleção
+Etapa 4: Entrevista Líderes4Entrevista Líderes
+Etapa 4: Entrevista Líderes
+4
+Entrevista Líderes
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+SOBRE A LOCALIZA&CO
+Estar em constante evolução nos trouxe até aqui. Ao lado de talentos e habilidades múltiplas nos conectamos em busca do nosso propósito: simplificar e encantar pra você chegar lá. É por meio da valorização da individualidade de cada um que impulsionamos o nosso movimento para conquistar resultados extraordinários, desenvolver nossas operações e criar soluções para os nossos clientes. Somos apaixonados por nossa história, por nossas ideias e pela capacidade de realizá-las. Sabemos que juntos, todos vamos mais longe. É assim que conectamos a Localiza&Co com o futuro.
+Uma das maiores e mais completas plataformas de soluções de mobilidade do mundo, trazemos em nossa história, 50 anos de protagonismo e inovação. ​Nos dedicamos a proporcionar caminhos simples, práticos e extraordinários, gerando valor para nossos colaboradores, investidores, clientes, parceiros e toda a sociedade.
+ 
+Nosso movimento é feito ao lado de mais de 19 mil colaboradores, que, com entusiasmo e colaboração, nos levaram ao reconhecimento de Empresa do Ano pela revista Exame e estar entre as 10 Melhores Empresa para Trabalhar no Brasil. Um time de alta performance que está sempre em busca de novas rotas para criar soluções inovadoras e eficientes para as necessidades dos nossos mais de 15 milhões de clientes.
+ 
+Estamos em todas as regiões do Brasil, em mais cinco países da América do Sul e agora no México, além de forte presença digital. Somos listados na B3, com elevado nível de governança corporativa, e somos a 4ª marca mais valiosa do país pela IstoÉ Dinheiro.
+ 
+É assim que contribuímos para um mundo mais sustentável, diverso e inclusivo, investindo em iniciativas estruturantes de sustentabilidade e impulsionando o futuro para as próximas gerações.​ Vem com a gente? Conheça mais sobre o nosso ecossistema: https://www.localizaco.com/
+ 
+ACOMPANHE AS NOSSAS NOVIDADES
+Website
+LinkedIn
+Instagram
+Glassdoor

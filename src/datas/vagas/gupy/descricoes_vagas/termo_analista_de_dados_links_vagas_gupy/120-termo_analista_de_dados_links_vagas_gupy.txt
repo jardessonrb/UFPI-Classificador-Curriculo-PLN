@@ -1,0 +1,123 @@
+link_vaga-https://ipiranga.gupy.io/job/eyJqb2JJZCI6NzMyMjk1OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE DADOS
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Já pensou em trabalhar na Ipiranga? Na Ipiranga acreditamos que pessoas com brilho nos olhos, autênticas e engajadas são nosso diferencial competitivo! Atuamos com paixão e propósito, colocando o cliente no centro das nossas decisões. Valorizamos a autonomia, a abertura e a transparência, pois temos certo de que a verdade e o respeito fortalecem relações e geram confiança. Proporcionamos para nosso time um ambiente flexível, de colaboração e bem-estar para plena realização pessoal e profissional. Nosso propósito é “Abastecer a vida em movimento”.Conheça mais sobre a gente: https://portal.ipiranga/wps/portal/ipiranga/a-ipiranga/institucional/carreiras/ Leia nosso relatório de ESG: https://portal.ipiranga/wps/portal/ipiranga/a-ipiranga/institucional/sustentabilidade O que a gente espera de você?·        Pensamento orientado com foco no cliente #OClienteéaRazão·        Mindset ágil, que se adapta rápido à mudança #Leveza·        Foco em soluções e resolução de problemas #SuaVozTemValor·        Autonomia, iniciativa e protagonismo são essenciais #DeixaComigo·        Paixão, brilho nos olhos e autenticidade #SejaVocê!·        Querer fazer parte de uma empresa ética que entrega valor à sociedade #ValeaPena·        Pessoas inconformadas que pensam lá na frente em busca da evolução #SomosIpiranga·        Mentalidade de dono e sede resultados crescentes #FaçoAcontecer
+
+Na Ipiranga acreditamos que pessoas com brilho nos olhos, autênticas e engajadas são nosso diferencial competitivo! Atuamos com paixão e propósito, colocando o cliente no centro das nossas decisões. Valorizamos a autonomia, a abertura e a transparência, pois temos certo de que a verdade e o respeito fortalecem relações e geram confiança. Proporcionamos para nosso time um ambiente flexível, de colaboração e bem-estar para plena realização pessoal e profissional. Nosso propósito é “Abastecer a vida em movimento”.
+Conheça mais sobre a gente: https://portal.ipiranga/wps/portal/ipiranga/a-ipiranga/institucional/carreiras/ 
+Leia nosso relatório de ESG: https://portal.ipiranga/wps/portal/ipiranga/a-ipiranga/institucional/sustentabilidade
+ 
+
+·        Pensamento orientado com foco no cliente #OClienteéaRazão
+·        Mindset ágil, que se adapta rápido à mudança #Leveza
+·        Foco em soluções e resolução de problemas #SuaVozTemValor
+·        Autonomia, iniciativa e protagonismo são essenciais #DeixaComigo
+·        Paixão, brilho nos olhos e autenticidade #SejaVocê!
+·        Querer fazer parte de uma empresa ética que entrega valor à sociedade #ValeaPena
+·        Pessoas inconformadas que pensam lá na frente em busca da evolução #SomosIpiranga
+·        Mentalidade de dono e sede resultados crescentes #FaçoAcontecer
+RESPONSABILIDADES E ATRIBUIÇÕES
+Quais serão suas responsabilidades e desafios? Atuar ativamente como EMBAIXADOR(A) DO USO DE DADOS, FERRAMENTAS DE ANÁLISE E MODELOS dentro da organização, influenciando o ambiente com seu conhecimento e experiência para construir uma cultura baseada em dados e análises;Desenvolver análises, mineração de dados e modelos estatísticos para endereçar desafios de negócio e apoiar a tomada de decisão;Atuar na definição de produtos de dados, apoiar na condução de rituais ágeis (daily, refinamento, planning e review) e na elaboração de reportes a stakeholders e executivos;Apoiar na entrega, por parte de times técnicos de TI e outras áreas, de bases de dado e painéis (dashboards), acompanhando evoluções do ambiente de dados para identificar novas oportunidades;Desenvolver e manter reportes, análises e indicadores relacionados ao universo de clientes e consumidores, tanto para gerar inteligência quanto para avaliar o sucesso de iniciativas e estratégias do negócio;Identificar oportunidades de pesquisas, parcerias com consultorias e outras fontes de benchmark (referências) de mercado para enriquecer recomendações ao time de negócio;Fomentar a democratização e o incentivo ao uso de dados como ferramenta para a tomada de decisão.
+Atuar ativamente como EMBAIXADOR(A) DO USO DE DADOS, FERRAMENTAS DE ANÁLISE E MODELOS dentro da organização, influenciando o ambiente com seu conhecimento e experiência para construir uma cultura baseada em dados e análises;
+Desenvolver análises, mineração de dados e modelos estatísticos para endereçar desafios de negócio e apoiar a tomada de decisão;
+Atuar na definição de produtos de dados, apoiar na condução de rituais ágeis (daily, refinamento, planning e review) e na elaboração de reportes a stakeholders e executivos;
+Apoiar na entrega, por parte de times técnicos de TI e outras áreas, de bases de dado e painéis (dashboards), acompanhando evoluções do ambiente de dados para identificar novas oportunidades;
+Desenvolver e manter reportes, análises e indicadores relacionados ao universo de clientes e consumidores, tanto para gerar inteligência quanto para avaliar o sucesso de iniciativas e estratégias do negócio;
+Identificar oportunidades de pesquisas, parcerias com consultorias e outras fontes de benchmark (referências) de mercado para enriquecer recomendações ao time de negócio;
+Fomentar a democratização e o incentivo ao uso de dados como ferramenta para a tomada de decisão.
+REQUISITOS E QUALIFICAÇÕES
+O que você precisa ter para conquista essa posição?Experiência em funções envolvendo análise de dados e/ou de negócio, com uso de dados para suportar a tomada de decisãoExperiência em linguagens como SQL, Python, R ou similaresConhecimento em ferramentas de visualização e reporte de dados como PowerBI e TableauBoa comunicação e capacidade de construir narrativas (storytelling) capazes de engajar públicos técnicos e não-técnicos a tomar açãoCriatividade para solução de problemas complexosO que será um diferencialExperiência com soluções AWS, Azure, Databricks ou similaresExperiência com metodologias ágeisExperiência consolidada em Marketing, CMI, Ciência de Dados (consultoria ou empresa) ou instituto de PesquisaBoa construção de relacionamento com diferentes áreas de negócio e times multifuncionaisConhecimento sobre a LGPD (Lei Geral de Proteção de Dados) e seus impactos em análises com bases de dado sensíveis
+Experiência em funções envolvendo análise de dados e/ou de negócio, com uso de dados para suportar a tomada de decisão
+Experiência em linguagens como SQL, Python, R ou similares
+Conhecimento em ferramentas de visualização e reporte de dados como PowerBI e Tableau
+Boa comunicação e capacidade de construir narrativas (storytelling) capazes de engajar públicos técnicos e não-técnicos a tomar ação
+Criatividade para solução de problemas complexos
+Experiência com soluções AWS, Azure, Databricks ou similares
+Experiência com metodologias ágeis
+Experiência consolidada em Marketing, CMI, Ciência de Dados (consultoria ou empresa) ou instituto de Pesquisa
+Boa construção de relacionamento com diferentes áreas de negócio e times multifuncionais
+Conhecimento sobre a LGPD (Lei Geral de Proteção de Dados) e seus impactos em análises com bases de dado sensíveis
+INFORMAÇÕES ADICIONAIS
+O que a gente te oferece? 🕗 Horário flexível😋 Vale Alimentação🍴   Vale Refeição🩺 Plano de Saúde e Odontológico💙Auxílio filho com deficiência⌛ Previdência privada💊 Reembolso medicamento (parceiros SEI)👀 Reembolso oftalmológico (parceiros SEI)👨‍🎓 Bolsa de estudos para graduação (parceiros SEI)👶🏻Cesta natalidade 🏋️‍♀️ Gympass❤️ Seguro de Vida💰 Programa de Remuneração Variável💸 Adicional por tempo de serviço📈 Desenvolvimento constante💼 Plano de carreira🏢 Empresa cidadã📚 Universidade corporativa⚰️ Assistência Funeral😇 Shiatsu🎈 Espaço de DescompressãoE aí, topa o desafio? Então se candidata nessa vaga e não deixa essa oportunidade para depois!Acreditamos que a diversidade favorece o ambiente inovador! Estamos de portas abertas para pessoas com desejo de transformação pelo trabalho e dispostas a contribuir para o crescimento e evolução da empresa.
+
+🕗 Horário flexível
+😋 Vale Alimentação
+🍴   Vale Refeição
+🩺 Plano de Saúde e Odontológico
+💙Auxílio filho com deficiência
+💙
+⌛ Previdência privada
+⌛ 
+💊 Reembolso medicamento (parceiros SEI)
+💊 
+👀 Reembolso oftalmológico (parceiros SEI)
+👀 
+👨‍🎓 Bolsa de estudos para graduação (parceiros SEI)
+👨‍🎓 
+👶🏻Cesta natalidade 
+👶🏻
+🏋️‍♀️ Gympass
+❤️ Seguro de Vida
+💰 Programa de Remuneração Variável
+💸 Adicional por tempo de serviço
+💸
+📈 Desenvolvimento constante
+💼 Plano de carreira
+🏢 Empresa cidadã
+📚 Universidade corporativa
+⚰️ Assistência Funeral
+😇 Shiatsu
+😇 
+🎈 Espaço de Descompressão
+E aí, topa o desafio? Então se candidata nessa vaga e não deixa essa oportunidade para depois!
+Acreditamos que a diversidade favorece o ambiente inovador! Estamos de portas abertas para pessoas com desejo de transformação pelo trabalho e dispostas a contribuir para o crescimento e evolução da empresa.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem de currículoss2Triagem de currículoss
+Etapa 2: Triagem de currículoss
+2
+Triagem de currículoss
+Etapa 3: Entrevista com RH3Entrevista com RH
+Etapa 3: Entrevista com RH
+3
+Entrevista com RH
+Etapa 4: Entrevista com a liderança4Entrevista com a liderança
+Etapa 4: Entrevista com a liderança
+4
+Entrevista com a liderança
+Etapa 5: Preenchimento da ficha5Preenchimento da ficha
+Etapa 5: Preenchimento da ficha
+5
+Preenchimento da ficha
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+SOBRE NÓS
+Nós somos a Ipiranga, uma marca brasileira, amada e reconhecida! Facilitamos a jornada de mobilidade e o dia a dia das pessoas. Nosso propósito é abastecer a vida em movimento. Estamos sempre em movimento para te acompanhar. Por isso, queremos ser um parceiro na sua jornada, e não estamos falando só de combustível. Como lugar completo, oferecemos soluções para motoristas que abastecem em nossos postos, caminhoneiros, pedestres, ciclistas e até pets. Nosso estilo é diverso, gostamos de mudança, valorizamos agilidade, autonomia e temos sede de aprendizado.
+ 
+Nosso compromisso com o ESG
+A cultura sustentável na Ipiranga é uma prática diária do nosso time para as tomadas de decisões. Um exemplo disso, é que, desde 2013, somos signatários do Pacto Global, principal agenda de Sustentabilidade e carbono neutro.
+Link para nosso relatório de ESG: clique aqui
+ 
+#Diversidade que nos move
+Como inovação, diversidade e inclusão caminham juntos, incentivamos e promovemos mais equidade e pluralidade nos nossos times. Investimos na construção de um ambiente inclusivo e de respeito à diversidade. Aqui, competência não tem gênero, raça, orientação afetiva-sexual, idade ou deficiência. A diversidade favorece o ambiente inovador!
+Seja quem for, seja você!!
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Instagram
+Glassdoor

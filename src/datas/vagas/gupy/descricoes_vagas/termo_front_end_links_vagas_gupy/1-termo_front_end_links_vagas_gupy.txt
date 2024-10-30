@@ -1,0 +1,110 @@
+link_vaga-https://bandeirantes.gupy.io/job/eyJqb2JJZCI6NzYyODA4NCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR FRONT-END | VIBRA
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Já pensou em fazer parte da empresa que está construindo o futuro de uma das maiores redes de comunicação do país? Então este é o seu lugar! 
+Já pensou em fazer parte da empresa que está construindo o futuro de uma das maiores redes de comunicação do país? Então este é o seu lugar! 
+Estamos em busca de uma pessoa Desenvolvedora Front end  , para atuar na Vibra Digital, spin-off de transformação digital da Rede Bandeirantes de Comunicação. Nossa missão é conhecer as pessoas e gerar conexões relevantes que promovam a transformação. 
+Estamos em busca de uma pessoa 
+Desenvolvedora Front end 
+ , para atuar na Vibra Digital, spin-off de transformação digital da Rede Bandeirantes de Comunicação. Nossa missão é conhecer as pessoas e gerar conexões relevantes que promovam a transformação. 
+Candidate-se!
+Candidate-se!
+ 
+ 
+RESPONSABILIDADES E ATRIBUIÇÕES
+O dia-a-dia será fazendo o seguinte:Desenvolver e manter aplicações utilizando Next.js 14, com foco em Server-Side Rendering (SSR) e Static Site Generation (SSG).Implementar e otimizar rotas dinâmicas e API Routes no Next.js.Gerenciar e realizar operações em bancos de dados MongoDB, incluindo modelagem de dados, operações CRUD, agregação e otimização de consultas.Integrar MongoDB com ElasticSearch, criando e gerenciando índices para buscas rápidas e eficientes.Desenvolver e otimizar APIs RESTful ou GraphQL, com foco em segurança e boas práticas.Implementar bibliotecas de gerenciamento de estado, como Redux ou alternativas mais recentes compatíveis com Next.js 14.Colaborar com equipes multidisciplinares em um ambiente ágil, aplicando metodologias como Scrum ou Kanban.
+Desenvolver e manter aplicações utilizando Next.js 14, com foco em Server-Side Rendering (SSR) e Static Site Generation (SSG).
+Implementar e otimizar rotas dinâmicas e API Routes no Next.js.
+Gerenciar e realizar operações em bancos de dados MongoDB, incluindo modelagem de dados, operações CRUD, agregação e otimização de consultas.
+Integrar MongoDB com ElasticSearch, criando e gerenciando índices para buscas rápidas e eficientes.
+Desenvolver e otimizar APIs RESTful ou GraphQL, com foco em segurança e boas práticas.
+Implementar bibliotecas de gerenciamento de estado, como Redux ou alternativas mais recentes compatíveis com Next.js 14.
+Colaborar com equipes multidisciplinares em um ambiente ágil, aplicando metodologias como Scrum ou Kanban.
+REQUISITOS E QUALIFICAÇÕES
+Para se inscrever a essa vaga, você precisa: Experiência sólida com Next.js 14, incluindo SSR, SSG, e otimizações de desempenho.Profundo conhecimento de MongoDB, incluindo modelagem de dados, operações CRUD, e práticas de otimização.Experiência prática com ElasticSearch, preferencialmente Elastic Cloud, e ferramentas do Elastic Stack como Kibana e Logstash.Capacidade de integrar MongoDB e ElasticSearch, incluindo a criação de pipelines de ETL.Experiência em desenvolvimento de APIs RESTful ou GraphQL, com compreensão de autenticação, autorização e práticas de segurança.Conhecimento em gerenciamento de estado com bibliotecas como Redux.Experiência com provedores de nuvem (AWS, GCP, Azure) e controle de versão com Git.Familiaridade com práticas ágeis e metodologias DevOps.Outros requisitos desejáveis: Experiência com CI/CD, Docker, e práticas de automação.Capacidade de comunicar ideias de forma clara e eficaz.Habilidade para colaborar com equipes multidisciplinares e resolver problemas de forma eficaz.Disposição para aprender novas tecnologias e metodologias conforme necessário.
+
+Experiência sólida com Next.js 14, incluindo SSR, SSG, e otimizações de desempenho.
+Profundo conhecimento de MongoDB, incluindo modelagem de dados, operações CRUD, e práticas de otimização.
+Experiência prática com ElasticSearch, preferencialmente Elastic Cloud, e ferramentas do Elastic Stack como Kibana e Logstash.
+Capacidade de integrar MongoDB e ElasticSearch, incluindo a criação de pipelines de ETL.
+Experiência em desenvolvimento de APIs RESTful ou GraphQL, com compreensão de autenticação, autorização e práticas de segurança.
+Conhecimento em gerenciamento de estado com bibliotecas como Redux.
+Experiência com provedores de nuvem (AWS, GCP, Azure) e controle de versão com Git.
+Familiaridade com práticas ágeis e metodologias DevOps.
+
+Experiência com CI/CD, Docker, e práticas de automação.
+Capacidade de comunicar ideias de forma clara e eficaz.
+Habilidade para colaborar com equipes multidisciplinares e resolver problemas de forma eficaz.
+Disposição para aprender novas tecnologias e metodologias conforme necessário.
+INFORMAÇÕES ADICIONAIS
+Regime de contratação: CLTModelo de trabalho: RemotoE falando em benefícios, você pode contar com:Convênio Médico - Bradesco Saúde;Plano Odontológico - Amil Saúde;Vale Transporte;Vale Refeição;Seguro de Vida em Grupo;Wellhub (Antigo Gympass);Day off no seu aniversário;Desconto em farmácias;Outras parcerias que dão descontos para você!!
+
+
+
+Convênio Médico - Bradesco Saúde;
+Plano Odontológico - Amil Saúde;
+Vale Transporte;
+Vale Refeição;
+Seguro de Vida em Grupo;
+Wellhub (Antigo Gympass);
+Day off no seu aniversário;
+Desconto em farmácias;
+Outras parcerias que dão descontos para você!!
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Carta Proposta2Carta Proposta
+Etapa 2: Carta Proposta
+2
+Carta Proposta
+Etapa 3: Contratação3Contratação
+Etapa 3: Contratação
+3
+Contratação
+SOU BAND
+Somos uma das mais completas redes de comunicação do país e do mundo. Há 87 anos, nosso compromisso é levar informação, esporte e entretenimento a milhões de pessoas. 
+Desde 1937 a Bandeirantes faz parte do dia a dia de milhões de brasileiros.
+Somos uma das mais completas redes de comunicação do país e do mundo, atuando em diversas plataformas (rádios, TV aberta, TV por assinatura e internet) com marcas próprias e parceiras.
+No total, são 43 emissoras de TV (sendo 16 próprias), que cobrem mais de 65 milhões de domicílios, contando com 191 milhões de telespectadores. 
+As redes de rádio somam 149 emissoras que, juntas, contam com 123 milhões de ouvintes. São sete marcas com diferentes conteúdos em todas as plataformas digitais.
+Contamos também com o Bandplay, o superapp de streaming que conecta a audiência a todos os canais de rádio, tv e payTV da Bandeirantes gratuitamente, além de conteúdos próprios.
+E para que possamos levar o melhor conteúdo até você e sua família, contamos com profissionais talentosos, cheios de energia e apaixonados por comunicação, informação, novidades e qualidade. 
+MISSÃO
+Proporcionar a melhor experiência ao público, oferecendo conteúdos de qualidade e credibilidade no universo do entretenimento, jornalismo e esporte.
+Criar conexão com as pessoas por meio de prestação de serviços que contribuam para melhorar a vida dos brasileiros.
+MANIFESTO
+Somos curiosos, atentos aos fatos.
+Somos curiosos, atentos aos fatos.
+Somos pioneiros, carregamos histórias.
+Somos pioneiros, carregamos histórias.
+Transmitimos valores.
+Transmitimos valores.
+Somos inovação, transformação. 
+Somos inovação, transformação. 
+Uma força de trabalho para todo e qualquer desafio.
+Uma força de trabalho para todo e qualquer desafio.
+Somos cada um, somos todos. 
+Somos cada um, somos todos. 
+Uma só voz, do tamanho do Brasil. 
+Uma só voz, do tamanho do Brasil. 
+Confira o nosso Relatório de Transparência e Igualdade Salarial:
+Rádio e Televisão Bandeirantes 
+Vibra
+
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram

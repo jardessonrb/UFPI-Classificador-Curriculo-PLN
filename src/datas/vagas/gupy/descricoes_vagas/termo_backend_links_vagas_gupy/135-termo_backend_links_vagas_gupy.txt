@@ -1,0 +1,91 @@
+link_vaga-https://nelogica.gupy.io/job/eyJqb2JJZCI6NTA5MTk2Niwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR(A) DE SOFTWARE - BACKEND SERVER SIDE
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Aqui na Nelogica, desenvolvemos tecnologias e pessoas de alta performance com o propósito de transformar o futuro do mercado financeiro! 🚀💚💙
+Aqui na Nelogica, desenvolvemos tecnologias e pessoas de alta performance com o propósito de transformar o futuro do mercado financeiro! 🚀💚💙
+Você tem sede de desafios e está a fim de fazer parte de um time que busca a excelência, impactando diretamente milhares de usuários?
+Você tem sede de desafios e está a fim de fazer parte de um time que busca a excelência, impactando diretamente milhares de usuários?
+Estamos sempre com posições abertas nas mais diversas frentes de atuação, para desenvolvedores apaixonados por transformar inteligência em código!
+Estamos sempre com posições abertas nas mais diversas frentes de atuação, para desenvolvedores apaixonados por transformar inteligência em código!
+Nos times de desenvolvimento Server Side, sua missão será implementar e aprimorar arquiteturas e serviços de tempo real com foco no provisionamento de dados de mercado e integração dos nossos sistemas com bolsas de valores, exchanges e corretoras.
+Nos times de desenvolvimento Server Side, sua missão será implementar e aprimorar arquiteturas e serviços de tempo real com foco no provisionamento de dados de mercado e integração dos nossos sistemas com bolsas de valores, exchanges e corretoras.
+As principais atividades são:
+Desenho e desenvolvimento de sistemas Money Critical de baixa latência e tolerantes a falhas em arquitetura de microsserviços altamente distribuídos;  
+Desenho e desenvolvimento de sistemas Money Critical de baixa latência e tolerantes a falhas em arquitetura de microsserviços altamente distribuídos;  
+Implementação de protocolos definidos por bolsas de valores e integração com corretoras e exchanges para envios de ordens de compra e venda para negociação eletrônica de valores;
+Implementação de protocolos definidos por bolsas de valores e integração com corretoras e exchanges para envios de ordens de compra e venda para negociação eletrônica de valores;
+Investigação e tratamento especial de questões/dificuldades apresentadas por clientes internos e externos;
+Investigação e tratamento especial de questões/dificuldades apresentadas por clientes internos e externos;
+Testes e melhorias contínuas de performance e alta disponibilidade dos serviços.
+Testes e melhorias contínuas de performance e alta disponibilidade dos serviços.
+A atuação ainda envolve desafios relacionados a gerenciamento de memória, programação paralela, arquitetura cliente servidor, debugging , binary encode/decode, protobuff, threads, microservices, versionamento de windows service e metodologias ágeis.
+A atuação ainda envolve desafios relacionados a gerenciamento de memória, programação paralela, arquitetura cliente servidor, debugging , binary encode/decode, protobuff, threads, microservices, versionamento de windows service e metodologias ágeis.
+O que é essencial que você apresente:
+Disponibilidade para atuar em modelo 100% presencial no nosso escritório de Porto Alegre;
+Ensino superior completo ou em andamento em Ciência da Computação, Engenharia da Computação, Análise e Desenvolvimento de Sistemas ou áreas afins de Tecnologia da Informação;
+Ensino superior completo ou em andamento em Ciência da Computação, Engenharia da Computação, Análise e Desenvolvimento de Sistemas ou áreas afins de Tecnologia da Informação;
+Conhecimento relacionado ao ciclo de desenvolvimento de software e linguagens de programação com orientação a objetos e baixo nível;
+Conhecimento relacionado ao ciclo de desenvolvimento de software e linguagens de programação com orientação a objetos e baixo nível;
+Desejo de trabalhar em um ambiente ágil e acelerado.
+Desejo de trabalhar em um ambiente ágil e acelerado.
+Você vai se diferenciar se:
+Possuir experiência profissional desenvolvendo sistemas backend de tempo real ou baixa latência, sistemas multithread e arquiteturas cliente-servidor;
+Possuir experiência profissional desenvolvendo sistemas backend de tempo real ou baixa latência, sistemas multithread e arquiteturas cliente-servidor;
+Tiver conhecimento relacionado ao mercado financeiro (ex: ações, opções, renda fixa, macroeconomia, HFT, criptomoedas);
+Tiver conhecimento relacionado ao mercado financeiro (ex: ações, opções, renda fixa, macroeconomia, HFT, criptomoedas);
+Envolvimento em projetos desafiadores e inovadores, com alto grau de complexidade (como projetos de pesquisa, mestrado, doutorado, ou P&D na indústria).
+Envolvimento em projetos desafiadores e inovadores, com alto grau de complexidade (como projetos de pesquisa, mestrado, doutorado, ou P&D na indústria).
+INFORMAÇÕES ADICIONAIS
+Consideramos como diferenciais experiências complementares além da atuação profissional, como o envolvimento acadêmico (PETs, mentorias, cursos, competições etc), ou envolvimento em comunidades de sua área de atuação, trabalho voluntário entre outros. 😉
+Consideramos como diferenciais experiências complementares além da atuação profissional, como o envolvimento acadêmico (PETs, mentorias, cursos, competições etc), ou envolvimento em comunidades de sua área de atuação, trabalho voluntário entre outros. 😉
+Além disso, por aqui jogamos juntos para promover um ambiente cada dia mais inclusivo, que valoriza todas as trajetórias independentemente de gênero, orientação sexual, raça, etnia ou deficiência.
+Além disso, por aqui jogamos juntos para promover um ambiente cada dia mais inclusivo, que valoriza todas as trajetórias independentemente de gênero, orientação sexual, raça, etnia ou deficiência.
+﻿#LI-DNI
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Teste Técnico2Teste Técnico
+Etapa 2: Teste Técnico
+2
+Teste Técnico
+Etapa 3: Entrevista People3Entrevista People
+Etapa 3: Entrevista People
+3
+Entrevista People
+Etapa 4: Entrevista Liderança4Entrevista Liderança
+Etapa 4: Entrevista Liderança
+4
+Entrevista Liderança
+Etapa 5: Comitê5Comitê
+Etapa 5: Comitê
+5
+Comitê
+Etapa 6: Proposta6Proposta
+Etapa 6: Proposta
+6
+Proposta
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+FAÇA PARTE DESSA TRANSFORMAÇÃO!
+A Nelogica nasceu do sonho de dois cientistas da computação apaixonados pelo mercado financeiro e pelo universo da tecnologia que decidiriam unir estes dois mundos e democratizar o acesso à informação para investimentos. Somos hoje a investech brasileira com a maior participação do mercado pago de plataformas de investimento do Brasil e uma das maiores da América Latina.
+Nosso sucesso só é possível porque contamos com pessoas alinhadas ao nosso propósito de transformar o futuro do mercado financeiro.
+Desenvolvemos a tecnologia avançada que conecta todo o sistema financeiro brasileiro, além de ser solução para usuários em mais de 160 países. Ajudamos mais de 2 milhões de usuários em processo de tomada de decisão mais seguro, preciso e estruturado no segmento de investimentos tanto em mercado de capitais quanto em criptoativos. Em nosso portfólio, estão as marcas Profit, Vector, BlackArrow, Comdinheiro, Akeloo, AlgoTools, Invest Academy e HUB3. 🚀
+CONFIRA NOSSAS REDES SOCIAIS:
+Website
+LinkedIn
+Instagram
+Glassdoor

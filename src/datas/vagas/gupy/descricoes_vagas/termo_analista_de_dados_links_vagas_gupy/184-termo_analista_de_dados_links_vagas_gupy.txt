@@ -1,0 +1,112 @@
+link_vaga-https://encantech.gupy.io/job/eyJqb2JJZCI6Nzk3MTI3MCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA EM CIÊNCIA DE DADOS III
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Buscamos um cientista de dados que tenha uma boa multidisciplinaridade para criar análises e modelos preditivos através dos dados estruturados, que seja proativo para entender e buscar soluções para os problemas de negócio e tenha capacidade de liderança para atuar nos projetos com os demais integrantes do time.
+Buscamos um cientista de dados que tenha uma boa multidisciplinaridade para criar análises e modelos preditivos através dos dados estruturados, que seja proativo para entender e buscar soluções para os problemas de negócio e tenha capacidade de liderança para atuar nos projetos com os demais integrantes do time.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Entender qualitativamente e quantitativamente os problemas de negócio, com foco em logística, gestão da cadeia de suprimentos e operação de centro de distribuição.Conversar com áreas de negócio, participar de reuniões e decisões para implementações técnicas.Criar e testar hipóteses a partir das problemáticas.Obter os dados através de queries, realizar análises, preparação e transformação nos dados.Desenvolver modelos estatísticos avaliar e validar os resultados obtidos através das previsões.Apresentar e documentar os resultados para time técnico e área de negócios.Monitorar os resultados obtidos das iniciativas implementadas.
+Entender qualitativamente e quantitativamente os problemas de negócio, com foco em logística, gestão da cadeia de suprimentos e operação de centro de distribuição.
+Entender qualitativamente e quantitativamente os problemas de negócio, com foco em logística, gestão da cadeia de suprimentos e operação de centro de distribuição.
+Conversar com áreas de negócio, participar de reuniões e decisões para implementações técnicas.
+Conversar com áreas de negócio, participar de reuniões e decisões para implementações técnicas.
+Criar e testar hipóteses a partir das problemáticas.
+Criar e testar hipóteses a partir das problemáticas.
+Obter os dados através de queries, realizar análises, preparação e transformação nos dados.
+Obter os dados através de queries, realizar análises, preparação e transformação nos dados.
+Desenvolver modelos estatísticos avaliar e validar os resultados obtidos através das previsões.
+Desenvolver modelos estatísticos avaliar e validar os resultados obtidos através das previsões.
+Apresentar e documentar os resultados para time técnico e área de negócios.
+Apresentar e documentar os resultados para time técnico e área de negócios.
+Monitorar os resultados obtidos das iniciativas implementadas.
+Monitorar os resultados obtidos das iniciativas implementadas.
+REQUISITOS E QUALIFICAÇÕES
+Requisitos e Qualificações 
+Ensino Superior Completo em Economia, Matemática, Estatística, Engenharia ou outra formação científica, ou experiência profissional compatível.
+Conhecimento sólido em algoritmos de Aprendizado de Máquina não-supervisionados e supervisionados, assim como as métricas para avaliar seus resultados.
+Ter conhecimento em aprendizado profundo.
+Experiência em análise de dados, modelagem estatística e programação.
+Experiência em análise de dados, modelagem estatística e programação.
+Amplo conhecimento em Python, PySpark e SQL.
+Amplo conhecimento em Python, PySpark e SQL.
+Conhecimento em versionamento Git.
+Conhecimento em versionamento Git.
+Conhecimentos Adicionais 
+Pós-graduação na área de Aprendizado de Máquina e Ciência de Dados.
+Pós-graduação na área de Aprendizado de Máquina e Ciência de Dados.
+Conhecimento em algoritmos de Aprendizado de Máquina Semi-Supervisionados e Auto-Supervisionados, assim como as métricas para avaliar seus resultados.
+Conhecimento em algoritmos de Aprendizado de Máquina 
+Ter conhecimento em Databricks e MLFlow.
+Ter conhecimento em Databricks e MLFlow.
+Experiência em trabalhar utilizando metodologias ágeis.
+Experiência em trabalhar utilizando metodologias ágeis.
+Experiência anterior em posições altamente analíticas em varejo, startup e/ou consultoria;
+Experiência anterior em posições altamente analíticas em varejo, startup e/ou consultoria;
+INFORMAÇÕES ADICIONAIS
+*Inscrições internas até 05/11/2024*
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Elegibilidade (internos)2Elegibilidade (internos)
+Etapa 2: Elegibilidade (internos)
+2
+Elegibilidade (internos)
+Etapa 3: Triagem3Triagem
+Etapa 3: Triagem
+3
+Triagem
+Etapa 4: Case Técnico4Case Técnico
+Etapa 4: Case Técnico
+4
+Case Técnico
+Etapa 5: Entrevista Inicial5Entrevista Inicial
+Etapa 5: Entrevista Inicial
+5
+Entrevista Inicial
+Etapa 6: Entrevista Final6Entrevista Final
+Etapa 6: Entrevista Final
+6
+Entrevista Final
+Etapa 7: Oferta7Oferta
+Etapa 7: Oferta
+7
+Oferta
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+COMUNIDADE ENCANTECH. DADOS, DIGITAL E TECH.
+Desafios aplicados na realidade.
+Códigos que ganham vida e viram experiências.
+Ferramentas de ponta a nível mundial.
+Desafios para aprender, crescer e transformar.
+O que te faz vibrar? Aqui na Lojas Renner SA, nós vibramos quando encantamos. 
+Seja por aprender algo novo no meio da rotina de trabalho ou por lançar uma nova solução que impacta de forma relevante a vida dos nossos clientes.
+Somos a união e conexão das áreas de Dados, Canais Digitais e T.I. 🚀
+Juntos, somos a Comunidade Encantech. Uma comunidade plural de pessoas apaixonadas por superar expectativas.
+Com uma cultura orientada a dados e a diferentes metodologias e frameworks, utilizamos a transformação digital para construir o maior Ecossistema de Moda e Lifestyle das Américas.
+Somos comprometidos com tecnologia, inovação, dados, sustentabilidade.
+Somos comprometidos com o futuro.
+Porque aqui suas ideias geram impacto real na vida das pessoas e valor ao negócio. 
+E assim te fazemos um convite: Construa com a gente, o futuro da moda HOJE!
+Vem transformar! Vem encantar e ser encantado junto com a gente.
+Vem as áreas de tecnologia, dados e digital da Lojas Renner S.A! 😍
+#OQueTeEncantaNosEncanta
+#Encantech
+NOS ACOMPANHE NAS REDES SOCIAIS 📱😍
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

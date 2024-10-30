@@ -1,0 +1,82 @@
+link_vaga-https://maisaedu-tech.gupy.io/job/eyJqb2JJZCI6NzkxMjUzOCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR FULL STACK  - FREELANCER
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Somos a maior Edtech do Brasil! 
+Em nosso ecossistema, oferecemos soluções que contemplam ambientes virtuais de aprendizagem a produtos que facilitam o desenvolvimento do estudo à distância!
+Atualmente, temos mais de 3,5 milhões de estudantes impactados pelo nosso trabalho, contamos com um time curioso, animado e que busca constante melhoria. Tudo isso em um ambiente ágil, dinâmico e super tecnológico!
+Essa posição faz parte do time de Tecnologia da Algetec, uma das unidades de negócio do nosso ecossistema, que constrói laboratórios virtuais para o ensino superior. Demais, né?!
+Confere a oportunidade abaixo e vem expandir os horizontes do conhecimento com a gente!!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Nestas posições, suas principais responsabilidades serão:
+Desenvolver soluções educacionais;
+Analisar e resolver problemas;
+Acompanhar rotinas de manutenção;
+Acompanhar atividades de terceiros;
+Documentar sistemas existentes ou em desenvolvimento;
+Apoiar na avaliação de novas tecnologias;
+Corrigir erros e propor melhorias em sistemas existentes.
+REQUISITOS E QUALIFICAÇÕES
+Para essas posições, será necessário:
+1 React Js com experiência de no mínimo um ano
+2 Client side JavaScript, HTML5, CSS3, Redux e Webpack
+3 Experiência com processos de desenvolvimento ágil
+4 Conhecer projeto de algoritmos, padrões de projetos, princípios de programação funcional e orientada a objeto
+5 Node JS com experiência de no mínimo um ano
+6 Server side Javascript, ExpressJs, Banco de dados relacionais e não relacionais
+7 Criação de Rest APIs
+8 Conhecimentos em servidores cloud (Aws, Azure)
+9 Programação com Typescript
+10 Prototipação de interfaces para web 
+INFORMAÇÕES ADICIONAIS
+Além de fazer parte de uma empresa dinâmica, que está crescendo em alta velocidade, que oferece oportunidade de aprendizado constante, aqui você contará com os seguintes benefícios:
+Seguro de Vida;
+Home Office
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Screening2Screening
+Etapa 2: Screening
+2
+Screening
+Etapa 3: Entrevista Online3Entrevista Online
+Etapa 3: Entrevista Online
+3
+Entrevista Online
+Etapa 4: Desafio Técnico4Desafio Técnico
+Etapa 4: Desafio Técnico
+4
+Desafio Técnico
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+AJUDE A EXPANDIR OS HORIZONTES DO CONHECIMENTO POR MEIO DA TECNOLOGIA
+Somos edtech de ensino superior e profissional que habilita a transformação digital de seus parceiros, por meio de uma plataforma de experiência educacional. Estamos presente em mais de mil instituições de ensino superior (IESs), contribuindo para impactar mais de 5 milhões de estudantes.
+Atendemos integralmente as necessidades de IESs, sociedades científicas e hospitais, oferecendo um ecossistema integrado de alta tecnologia, conteúdo de qualidade e serviços voltados à educação.
+Para os alunos e professores, proporcionamos uma jornada fluida e envolvente, que contempla todas as etapas do ensino, com soluções digitais super avançadas que vão desde os processos de captação e matrículas, passando pelo ambiente virtual de aprendizagem e relacionamento com estudantes, até as provas e certificações.
+Mas, afinal o que nos torna um Great Place to Work?
+ Apresentamos um propósito forte e inspirador, trabalhar em um setor tão nobre como a educação e a saúde é motivo de muito orgulho.
+Valorizamos o desenvolvimento das pessoas: ciclo de talentos, desconto em cursos de instituições parceiras, biblioteca digital e física, e cupom para compra de livros no nosso e-commerce.
+Promovemos um ambiente aberto a inovação e vemos o erro como aprendizado
+Juntos somos mais fortes e por isso criamos um ambiente favorável a feedback e troca de conhecimento.
+Nossos benefícios
+Contamos com Vale Alimentação, Vale Refeição e Vale Transporte
+Cuidamos da sua saúde! Assistência médica e assistência odontológica com mensalidade paga 100% pela empresa.
+Academia para todos com TotalPass - convênio de academias com mais de 250 modalidades distribuídas em mais de 2000 academias.
+Somos comprometidos com o alcance de objetivos e metas: temos um Programa de Participação nos Resultados.
+Comemore com quem você ama! Um dia de folga no mês do seu aniversário
+Somos apaixonados pelo conhecimento! Disponibilizamos auxílio educação para cursos de graduação, línguas e pós graduação. Além de desconto em instituições parceiras! 
+Na +A Educação, temos como valor a integridade, valorizamos a diversidade e, por isso, não fazemos distinção para candidatos.
+Não é do time de Tecnologia, mas também quer trabalhar na +A Educação? Acesse aqui: https://maisaedu.gupy.io/

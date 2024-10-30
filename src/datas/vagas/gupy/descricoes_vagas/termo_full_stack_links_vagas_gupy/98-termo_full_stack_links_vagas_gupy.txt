@@ -1,0 +1,98 @@
+link_vaga-https://bancodaycoval.gupy.io/job/eyJqb2JJZCI6NzgwNDU4Miwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+SOFTWARE ENGINEER FULL STACK SR.
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+O Grupo Daycoval é formado por um time de pessoas engajadas e de bom astral. Todos imbuídos de fazer diferença nas vidas de nossos clientes. Sabemos o quanto o mercado financeiro é desafiador e de alta demanda – é disso que gostamos.
+Faça parte do time de Tech do Daycoval.
+Estamos à procura de um desenvolvedor Full Stack para integrar nossa equipe de produtos de Investimentos, que traga consigo expertise para atuar nas seguintes tecnologias, tais como .NET, Angular, GitHub, SQL Server e RabbitMQ.
+Se você é entusiasta da criação de soluções inovadoras, possui um profundo domínio dessas tecnologias e está sempre em busca de aprimorar suas habilidades, ficaríamos muito satisfeitos em conhecê-lo(a)!
+**Oferecemos:**
+- Ambiente de trabalho dinâmico e colaborativo.
+- Oportunidade de trabalhar em projetos desafiadores e inovadores.
+- Desenvolvimento profissional contínuo e treinamento.
+- Benefícios competitivos.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Principais atividades:
+- Desenvolver e manter aplicações web utilizando .NET e Angular;
+- Colaborar com outros membros da equipe para projetar e implementar soluções eficientes e escaláveis;
+- Participar ativamente do ciclo de vida completo do desenvolvimento de software, desde a concepção até a implementação;
+- Utilizar práticas de desenvolvimento ágil, garantindo entregas regulares e de alta qualidade;
+- Integrar sistemas por meio de micro serviços, garantindo a eficiência e escalabilidade da arquitetura;
+- Colaborar no design e implementação de APIs e serviços utilizando RabbitMQ para comunicação assíncrona;
+- Manter e aprimorar o controle de versão utilizando o GitHub;
+ 
+REQUISITOS E QUALIFICAÇÕES
+É muito importante que você tenha e/ou saiba:
+   
+- Experiência em desenvolvimento com .NET e Angular;
+- Experiência com desenvolvimento e consumo de micro serviços;
+- Experiência com controle de versão usando o GitHub;
+- Conhecimento profundo em SQL Server e modelagem de bancos de dados;
+- Familiaridade com o uso efetivo do RabbitMQ para comunicação assíncrona;
+Disponibilidade para atuar 3x na região da Av. Paulista;
+INFORMAÇÕES ADICIONAIS
+·      Assistência Médica e Assistência Odontológica;
+·      Vale-refeição e Vale alimentação;
+·      Auxílio creche;
+·      Seguro de Vida;
+·      Vale-transporte;
+·      Previdência Privada;
+·      Participação nos Lucros ou Resultados;
+·      Programa de Participação de Resultados;
+·      Apoio à Educação;
+·      Serviço Social;
+·      Parcerias com desconto.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Avaliação RH 2Avaliação RH 
+Etapa 2: Avaliação RH 
+2
+Avaliação RH 
+Etapa 3: Entrevista com Gestor3Entrevista com Gestor
+Etapa 3: Entrevista com Gestor
+3
+Entrevista com Gestor
+Etapa 4: Contratação4Contratação
+Etapa 4: Contratação
+4
+Contratação
+GRUPO DAYCOVAL
+O que você pensa quando alguém diz que existe uma excelente oportunidade de trabalho em um banco?Um lugar onde as pessoas são secas? Um local onde só existe pressão e mais pressão?Em alguns lugares pode até ser, mas aqui, no Banco Daycoval, existe um clima diferente!O Daycoval é uma instituição financeira com mais de 50 anos, especializada em crédito para empresas, para pessoa física (consignado e financiamento de veículos), produtos de câmbio (comércio exterior e remessa), gestão de recursos e investimentos.Nosso DNA sempre rendeu à companhia grandes reconhecimentos e prêmios, como o de Melhor Banco de Middle Market do Brasil por dois anos, conforme os resultados medidos pela Austin Rating e pelo jornal O Estado de S.Paulo. Esse reconhecimento, vai muito além de um “prêmio”. Para nós, ele demonstra o compromisso de toda a companhia em fazer, dia a dia, um lugar melhor para se trabalhar. E quando pensamos em um lugar melhor, não falamos apenas em benefícios e salários. Falamos em engajamento, em projetos diferenciados e muito mais!Musicantes: leva aulas de música e canto gratuitamente para colaboradores; Brincar de Viver: proporciona dinâmicas de teatro e cotação de histórias para quem tem desejo de ajudar o próximo com essa arte; Programa de Qualidade de Vida: oferece, gratuitamente, projetos e eventos voltados à saúde e qualidade de vida, como a participação em corridas de rua, musicais, peças teatrais e exposições em museus.E essa é só uma pequena parte do que temos por aqui!Também temos uma importante missão com a sociedade! Por isso, promovemos campanhas solidárias e apoio direto, via doação ou lei de incentivo fiscal, para diversas instituições de renome.Tudo isso torna possível a união entre a busca por resultados e o engajamento dos colaboradores com a sustentabilidade.E não poderíamos deixar de falar que nós, do Daycoval, consideramos todos os talentos, independentemente de etnia, religião, cor, sexo, idade, condição de deficiência, nacionalidade, orientação sexual, identidade ou expressão de gênero, ou qualquer outro motivo que caracterize discriminação pela legislação local.Aqui, você pode ser você!🚀Nosso propósitoÉ oferecer soluções financeiras com excelência, segurança e agilidade, contribuindo para o desenvolvimento de seus clientes e parceiros, seguindo preceitos de sustentabilidade econômica e responsabilidade social.💙Nossos negóciosO grupo Daycoval tem outros negócios além do Banco Daycoval:Daycred - https://daycred.gupy.io/ - crédito para pessoa física (pessoal, consignado e financiamento de veículos)Daycâmbio - https://daycambio.gupy.io - produtos de câmbio (comércio exterior e turismo)
+O que você pensa quando alguém diz que existe uma excelente oportunidade de trabalho em um banco?
+Um lugar onde as pessoas são secas? Um local onde só existe pressão e mais pressão?
+Em alguns lugares pode até ser, mas aqui, no Banco Daycoval, existe um clima diferente!
+O Daycoval é uma instituição financeira com mais de 50 anos, especializada em crédito para empresas, para pessoa física (consignado e financiamento de veículos), produtos de câmbio (comércio exterior e remessa), gestão de recursos e investimentos.
+Nosso DNA sempre rendeu à companhia grandes reconhecimentos e prêmios, como o de Melhor Banco de Middle Market do Brasil por dois anos, conforme os resultados medidos pela Austin Rating e pelo jornal O Estado de S.Paulo. 
+Esse reconhecimento, vai muito além de um “prêmio”. Para nós, ele demonstra o compromisso de toda a companhia em fazer, dia a dia, um lugar melhor para se trabalhar. E quando pensamos em um lugar melhor, não falamos apenas em benefícios e salários. Falamos em engajamento, em projetos diferenciados e muito mais!
+Musicantes: leva aulas de música e canto gratuitamente para colaboradores; 
+Brincar de Viver: proporciona dinâmicas de teatro e cotação de histórias para quem tem desejo de ajudar o próximo com essa arte; 
+Programa de Qualidade de Vida: oferece, gratuitamente, projetos e eventos voltados à saúde e qualidade de vida, como a participação em corridas de rua, musicais, peças teatrais e exposições em museus.
+E essa é só uma pequena parte do que temos por aqui!
+Também temos uma importante missão com a sociedade! Por isso, promovemos campanhas solidárias e apoio direto, via doação ou lei de incentivo fiscal, para diversas instituições de renome.
+Tudo isso torna possível a união entre a busca por resultados e o engajamento dos colaboradores com a sustentabilidade.
+E não poderíamos deixar de falar que nós, do Daycoval, consideramos todos os talentos, independentemente de etnia, religião, cor, sexo, idade, condição de deficiência, nacionalidade, orientação sexual, identidade ou expressão de gênero, ou qualquer outro motivo que caracterize discriminação pela legislação local.
+Aqui, você pode ser você!
+🚀Nosso propósito
+É oferecer soluções financeiras com excelência, segurança e agilidade, contribuindo para o desenvolvimento de seus clientes e parceiros, seguindo preceitos de sustentabilidade econômica e responsabilidade social.
+💙Nossos negócios
+O grupo Daycoval tem outros negócios além do Banco Daycoval:
+Daycred - https://daycred.gupy.io/ - crédito para pessoa física (pessoal, consignado e financiamento de veículos)
+Daycâmbio - https://daycambio.gupy.io - produtos de câmbio (comércio exterior e turismo)
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

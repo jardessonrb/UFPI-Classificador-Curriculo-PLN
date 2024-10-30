@@ -1,0 +1,90 @@
+link_vaga-https://inmetrics.gupy.io/job/eyJqb2JJZCI6Nzg0OTMwNSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA FULLSTACK SR - JAVA E REACT
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+Modelo de trabalho: Remoto | CLT 💻
+🎯 O TIME INMETRICS 
+Com maestria técnica e excelência operacional estão sempre buscando entender as necessidades dos nossos clientes para criar e desenvolver os melhores produtos digitais.
+Nosso time é multidisciplinar, dominam metodologias e práticas ágeis, são dedicados a fazerem entregas constantes de valor.
+Diante disso, construímos o produto certo, do jeito correto e operamos para garantir a melhor experiência do cliente, além de estabilidade, qualidade e confiabilidade.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Participar ativamente do ciclo de desenvolvimento de software, desde a concepção até a implementação, garantindo que as soluções sejam robustas, escaláveis e eficientes;Demonstrar proatividade, protagonismo e autonomia para tornar o time mais independente;Manter a comunicação fluida e transparente junto ao time;Participar de reuniões, eventos e atender solicitações conforme a demanda;Identificar e implementar melhorias contínuas na arquitetura e nos processos do time;Revisar o código escrito por outros desenvolvedores, fornecendo feedback construtivo para assegurar que os padrões de codificação e as melhores práticas sejam seguidas;Documentar processos por meio de textos ou diagramas.
+Participar ativamente do ciclo de desenvolvimento de software, desde a concepção até a implementação, garantindo que as soluções sejam robustas, escaláveis e eficientes;
+Demonstrar proatividade, protagonismo e autonomia para tornar o time mais independente;
+Manter a comunicação fluida e transparente junto ao time;
+Participar de reuniões, eventos e atender solicitações conforme a demanda;
+Identificar e implementar melhorias contínuas na arquitetura e nos processos do time;
+Revisar o código escrito por outros desenvolvedores, fornecendo feedback construtivo para assegurar que os padrões de codificação e as melhores práticas sejam seguidas;
+Documentar processos por meio de textos ou diagramas.
+REQUISITOS E QUALIFICAÇÕES
+Experiência com desenvolvimento utilizando Java com Spring Boot (Java 8+);Experiência com desenvolvimento utilizando Node com Express ou NestJS (JavaScript e/ou TypeScript);Experiência com desenvolvimento utilizando ReactJS (TypeScript);Experiência com desenvolvimento de testes unitários e testes de contrato;Experiência com banco de dados Oracle;Experiência com banco de dados MongoDB;Experiência com mensageria utilizando RabbitMQ;Escrever códigos limpos, fáceis de manter e seguindo padrões como SOLID e Clean Code;Conhecimento sobre a arquitetura de microserviços e microfrontends;Conhecimento sobre o Sonar e análises de código estático no geral;Versionamento de códigos utilizando o Git.
+Experiência com desenvolvimento utilizando Java com Spring Boot (Java 8+);
+Experiência com desenvolvimento utilizando Node com Express ou NestJS (JavaScript e/ou TypeScript);
+Experiência com desenvolvimento utilizando ReactJS (TypeScript);
+Experiência com desenvolvimento de testes unitários e testes de contrato;
+Experiência com banco de dados Oracle;
+Experiência com banco de dados MongoDB;
+Experiência com mensageria utilizando RabbitMQ;
+Escrever códigos limpos, fáceis de manter e seguindo padrões como SOLID e Clean Code;
+Conhecimento sobre a arquitetura de microserviços e microfrontends;
+Conhecimento sobre o Sonar e análises de código estático no geral;
+Versionamento de códigos utilizando o Git.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Bate papo com o time de Atração e Gestão de Talentos2Bate papo com o time de Atração e Gestão de Talentos
+Etapa 2: Bate papo com o time de Atração e Gestão de Talentos
+2
+Bate papo com o time de Atração e Gestão de Talentos
+Etapa 3: Bate papo técnico3Bate papo técnico
+Etapa 3: Bate papo técnico
+3
+Bate papo técnico
+Etapa 4: Bate papo sobre o projeto4Bate papo sobre o projeto
+Etapa 4: Bate papo sobre o projeto
+4
+Bate papo sobre o projeto
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+QUEM SOMOS?
+A Inmetrics nasceu em 2002, fundada por engenheiros, nos corredores da Unicamp. Durante esses 20 anos de história, nosso maior compromisso sempre foi com o sucesso de nossos clientes. Juntos, acumulamos a experiência de mais de 25 milhões de horas em projetos de Tecnologia, com forte presença e unidades no Brasil, Chile, Colômbia e República Dominicana.
+Em nossos times você vai encontrar pessoas apaixonadas por inovação com excelência técnica e muita troca de experiência, num ambiente ágil, diverso e colaborativo. Nosso compromisso é gerar valor para todo o ecossistema de negócios transformando estratégias em resultados, construindo junto com nossos clientes, as capacidades necessárias para a transformação digital. 
+A Inmetrics é reconhecida com a nota 4,1 no Glassdoor, um dos maiores sites de recrutamento e vagas do mundo, obtém a certificação de “Lugares Incríveis para Trabalhar” em 2021 e 2022, pesquisa oferecida pelo UOL e pela FIA para as maiores empresas do Brasil e em 2023 recebeu a Certificação do GPTW (Great Place to Work) consolidando ainda mais sua reputação como um ambiente de trabalho excepcional.
+
+Descrição imagem: Agilidade (Transformação Digital), Analytics, Arquitetura de Soluções, Infraestrutura (DevOps/SRE), Corporativo (People, Marketing, Finanças, Administrativo), Engenharia de Qualidade, Engenharia de Software, Estratégia e Governança, Desenvolvimento.
+● Plano de Saúde Bradesco (Coparticipação de 30%)
+● Odontológico Bradesco (Sem contribuição)
+● Seguro de Vida
+● Gympass
+● Auxílio Creche
+● Apoio Pass
+● Convênio Pet
+● Convênio Pet
+● Vale-alimentação
+● Vale-refeição
+● Auxílio Combustível
+● Auxílio Home Office
+● Previdência privada
+● Upgrade de convênio médico
+💛 
+● Programa de apoio: psicológico, jurídico e social
+● Crédito consignado
+● Somos uma Empresa Cidadã: licença maternidade e paternidade prolongadas
+● Desenvolvimento Profissional: cursos disponíveis na universidade interna
+● Avaliação de desempenho semestral
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

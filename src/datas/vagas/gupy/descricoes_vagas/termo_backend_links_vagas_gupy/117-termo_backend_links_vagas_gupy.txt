@@ -1,0 +1,78 @@
+link_vaga-https://rposolutions.gupy.io/job/eyJqb2JJZCI6NzM2MDU5Miwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ENGENHEIRO DE SOFTWARE SÊNIOR | BACKEND
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Estamos com vagas em um consolidado banco do país!
+Buscamos você, que tem grande capacidade de realização, gosta de desafios e oportunidades de crescimento profissional e pessoal. Que é protagonista, sonha grande e tem paixão pelos clientes.
+Tem essa chama dentro de você? Então, comece a fazer parte da nossa história!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Fará muita integração com outras equipes para explorar como é feito hoje;Conseguir traduzir o que foi identificado para como deve ser implementado em uma solução futura;Manter alinhamento com equipe de arquitetura do banco;Acompanhar e trabalhar junto com fornecedor de core bancário para atingir as datas comprometidas;Desenvolver e ajustar sistemas para conviver com novo core bancário;
+Fará muita integração com outras equipes para explorar como é feito hoje;
+Conseguir traduzir o que foi identificado para como deve ser implementado em uma solução futura;
+Manter alinhamento com equipe de arquitetura do banco;
+Acompanhar e trabalhar junto com fornecedor de core bancário para atingir as datas comprometidas;
+Desenvolver e ajustar sistemas para conviver com novo core bancário;
+REQUISITOS E QUALIFICAÇÕES
+Experiência anterior com Sistemas Matera para core bancário;Sólida experiência com desenvolvimento de aplicações backend robustas, seguras e escaláveis;Experiência com implementação de estratégias resiliência, mitigando riscos associados à segurança, performance e disponibilidade do sistema;Atuação prévia em escrever testes unitários e de integração para assegurar a qualidade e a confiabilidade do código;Conhecimento e vivência no modelo DevOps; Conhecimento em metodologia Ágil com SCRUM;Conhecimento e experiência com DDD e TDD;Conhecimento e experiência com micro serviços; Arquitura: Clean Code e Clean Arch, Microserviços (conhecer ao menos o conceito e empregabilidade);Desenvolvimento: Visual Studio, DotNet 7, C#, ASP.Net, WebAPI, REST, JSON e XML;Cloud AWS: Lambda, SQS, SNS, S3, EC2, ECS, CDF Banco de Dados: Sql Server, Oracle e Dynamo Ferramentas: Jira, Confluence, GitLab, Docker, MSBuild, xUnit.net, Selenium, Nuget. Diferencial: Ter atuado no ramo financeiro/bancário;Disponibilidade para atuar de forma híbrida na região da Av. Paulista;
+Experiência anterior com Sistemas Matera para core bancário;
+Sólida experiência com desenvolvimento de aplicações backend robustas, seguras e escaláveis;
+Experiência com implementação de estratégias resiliência, mitigando riscos associados à segurança, performance e disponibilidade do sistema;
+Atuação prévia em escrever testes unitários e de integração para assegurar a qualidade e a confiabilidade do código;
+Conhecimento e vivência no modelo DevOps;
+ Conhecimento em metodologia Ágil com SCRUM;
+Conhecimento e experiência com DDD e TDD;
+Conhecimento e experiência com micro serviços; 
+Arquitura: Clean Code e Clean Arch, 
+Microserviços (conhecer ao menos o conceito e empregabilidade);
+Desenvolvimento: Visual Studio, DotNet 7, C#, ASP.Net, WebAPI, REST, JSON e XML;
+Cloud AWS: Lambda, SQS, SNS, S3, EC2, ECS, CDF 
+Banco de Dados: Sql Server, Oracle e Dynamo 
+Ferramentas: Jira, Confluence, GitLab, Docker, MSBuild, xUnit.net, Selenium, Nuget. 
+Diferencial: Ter atuado no ramo financeiro/bancário;
+Disponibilidade para atuar de forma híbrida na região da Av. Paulista;
+INFORMAÇÕES ADICIONAIS
+Oportunidade CLT
+Benefícios:
+Vale Refeição/Alimentação de R$ 1.896,83/mês, sem desconto;
+13ª Cesta de Vale Alimentação de R$ 835,99 no mês de dezembro;
+Plano de Saúde e Odontológico com abrangência Nacional;
+Auxílio Creche para filhos de até 5 anos e 11 meses;
+Seguro de Vida em grupo, sem custo;
+Bolsa Auxílio Educação e/ou Incentivo Profissional;
+Parceria com a Zenklub;
+Parceria com planos de academias;
+Participação nos Lucros e Resultados (PLR) - conforme convenção coletiva.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista RH2Entrevista RH
+Etapa 2: Entrevista RH
+2
+Entrevista RH
+Etapa 3: Entrevistas com Gestão3Entrevistas com Gestão
+Etapa 3: Entrevistas com Gestão
+3
+Entrevistas com Gestão
+Etapa 4: Contratação4Contratação
+Etapa 4: Contratação
+4
+Contratação
+SOBRE NÓS
+A RPO Solutions surgiu da necessidade de entregar para cada cliente uma solução que realmente atenda às necessidades do seu processo de Atração de Talentos.
+Com uso de uma metodologia proprietária, entregamos uma consultoria e curadoria personalizadas, não apenas para entregar os melhores candidatos, mas também para solucionar problemas estruturais na atração de talentos do seu negócio.
+Entendemos que cada cliente tem uma necessidade e, pensando nisso, desenvolvemos um modelo de atuação focado em auxiliar e colaborar com a estratégia e gestão de cada empresa respeitando sua cultura e ambições, oferecendo soluções e melhorias ordenadas, controladas numa metodologia ágil e transparente, com resultados consistentes, sem abrir mão do fator humano e da colaboração.
+Fator humano aliás, que é um dos nossos pilares fundamentais! Trabalhamos com pessoas, para pessoas, e através delas realizamos os anseios que deram origem a RPO Solutions – compreender, transformar e humanizar processos de Atração de Talentos das empresas.
+Acreditamos no poder transformador da cooperação, aliada à expertise e interpretação. Nossas soluções buscam diagnosticar dores, detectar oportunidades e agir de forma embasada nos processos de recrutamento e seleção dos nossos clientes e parceiros.
+Nossos valores visam encorajar parcerias a fim de criar conexões com empresas comprometidas, gerando engajamento e desenvolvimento mútuo, gerando respeito e confiança, preservando o resultado, assegurando nossa qualidade e cultivando a transformação da realidade das empresas e o destino das pessoas.
+Conheça mais sobre nós: https://rposolutions.com.br/

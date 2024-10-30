@@ -1,0 +1,169 @@
+link_vaga-https://agrotools.gupy.io/job/eyJqb2JJZCI6Nzc4ODEwMywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA ANALISTA DE BANCO DE DADOS - VAGA EXCLUSIVA PARA PESSOA COM DEFICIÊNCIA
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Aqui na Agrotools é assim…
+A cada dia, um novo desafio surge, um novo projeto inovador começa.
+A cada dia, um novo desafio surge, um novo projeto inovador começa.
+Somos ousados para buscar superar nossos objetivos e crescer exponencialmente.
+Somos ousados para buscar superar nossos objetivos e crescer exponencialmente.
+Entregamos resultados de excelência, comprometidos em atingir um crescimento sustentável e rentável.
+Entregamos resultados de excelência, comprometidos em atingir um crescimento sustentável e rentável.
+Nós acertamos e erramos como equipe e crescemos com a empresa.
+Nós acertamos e erramos como equipe e crescemos com a empresa.
+Assumimos riscos, valorizamos a experimentação e incentivamos fazer coisas que nunca foram feitas antes.
+Assumimos riscos, valorizamos a experimentação e incentivamos fazer coisas que nunca foram feitas antes.
+Adaptação e aprendizado contínuo é como vamos sobreviver e prosperar juntos.
+Adaptação e aprendizado contínuo é como vamos sobreviver e prosperar juntos.
+Caminhamos unidos na mesma direção para alcançar nosso propósito.
+Caminhamos unidos na mesma direção para alcançar nosso propósito.
+Sabemos que a força da Agrotools está na experiência e conhecimento de cada Agrotooler de forma combinada e que nossos melhores resultados são produzidos quando atuamos de forma integrada e colaborativa.
+Sabemos que a força da Agrotools está na experiência e conhecimento de cada Agrotooler de forma combinada e que nossos melhores resultados são produzidos quando atuamos de forma integrada e colaborativa.
+Aqui você vai ser quem você é... Afinal, nossa gente é o que nos torna únicos!
+Aqui você vai ser quem você é... Afinal, nossa gente é o que nos torna únicos!
+Na Agrotools nós sonhamos grande! 
+Na Agrotools nós sonhamos grande! 
+Junte-se a nós para construir e fazer parte dessa história! 
+Junte-se a nós para construir e fazer parte dessa história! 
+#VenhaSerUmAgrotooler
+RESPONSABILIDADES E ATRIBUIÇÕES
+Gerenciamento de banco de dados;Criação, configuração e manutenção do banco dados de clientes internos ou externos;Gerenciamento de acesso a plataformas, ferramentas e dados por meio de controle via banco de dados;Desenvolvimento de serviços e sistemas que visam a automatização dos processos manuais pertinentes a banco de dados;Elaboração de ações de melhorias, configuração e manutenção de serviços e sistemas relacionados ao gerenciamento de banco de dados já existentes;Análise de reports diários e indicadores, visando validar o correto funcionamento dos serviços e sistemas em operação;Geração, otimização e exportação de dados conforme necessidade internas ou externas;Executar atividades de monitoramento, administração, performance, segurança e aperfeiçoamento contínuo dos BDs;Análise de dados e relacionamentos;Modelagem de dados.
+Gerenciamento de banco de dados;
+Gerenciamento de banco de dados;
+Criação, configuração e manutenção do banco dados de clientes internos ou externos;
+Criação, configuração e manutenção do banco dados de clientes internos ou externos;
+Gerenciamento de acesso a plataformas, ferramentas e dados por meio de controle via banco de dados;
+Gerenciamento de acesso a plataformas, ferramentas e dados por meio de controle via banco de dados;
+Desenvolvimento de serviços e sistemas que visam a automatização dos processos manuais pertinentes a banco de dados;
+Desenvolvimento de serviços e sistemas que visam a automatização dos processos manuais pertinentes a banco de dados;
+Elaboração de ações de melhorias, configuração e manutenção de serviços e sistemas relacionados ao gerenciamento de banco de dados já existentes;
+Elaboração de ações de melhorias, configuração e manutenção de serviços e sistemas relacionados ao gerenciamento de banco de dados já existentes;
+Análise de reports diários e indicadores, visando validar o correto funcionamento dos serviços e sistemas em operação;
+Análise de reports diários e indicadores, visando validar o correto funcionamento dos serviços e sistemas em operação;
+Geração, otimização e exportação de dados conforme necessidade internas ou externas;
+Geração, otimização e exportação de dados conforme necessidade internas ou externas;
+Executar atividades de monitoramento, administração, performance, segurança e aperfeiçoamento contínuo dos BDs;
+Executar atividades de monitoramento, administração, performance, segurança e aperfeiçoamento contínuo dos BDs;
+Análise de dados e relacionamentos;
+Análise de dados e relacionamentos;
+Modelagem de dados.
+Modelagem de dados.
+REQUISITOS E QUALIFICAÇÕES
+Residir em São José dos Campos / São Paulo Capital ou Região;Conhecimentos de modelagem, extração e manipulação de dados;Conhecimentos de instruções SQL intermediário;PostgreSQL;Conhecimentos sobre Big Data e Analytics;Análise exploratória Python;Experiência com manipulação de grandes volumes de dados;Análise exploratória R é diferencial;Conhecimento em cartucho espacial Postgis será diferencial;Certificação profissional em trilha de banco de dados é diferencial.
+Residir em São José dos Campos / São Paulo Capital ou Região;
+Residir em São José dos Campos / São Paulo Capital ou Região;
+Conhecimentos de modelagem, extração e manipulação de dados;
+Conhecimentos de modelagem, extração e manipulação de dados;
+Conhecimentos de instruções SQL intermediário;
+Conhecimentos de instruções SQL intermediário;
+PostgreSQL;
+PostgreSQL;
+Conhecimentos sobre Big Data e Analytics;
+Conhecimentos sobre Big Data e Analytics;
+Análise exploratória Python;
+Análise exploratória Python;
+Experiência com manipulação de grandes volumes de dados;
+Experiência com manipulação de grandes volumes de dados;
+Análise exploratória R é diferencial;
+Análise exploratória R é diferencial;
+Conhecimento em cartucho espacial Postgis será diferencial;
+Conhecimento em cartucho espacial Postgis será diferencial;
+Certificação profissional em trilha de banco de dados é diferencial.
+Certificação profissional em trilha de banco de dados é diferencial.
+INFORMAÇÕES ADICIONAIS
+Queremos que sua história na Agrotools seja marcada por experiências únicas. 
+Queremos que sua história na 
+seja marcada por experiências únicas. 
+Aqui o nosso regime de contratação é pela CLT e preparamos um conjunto de benefícios para você! 
+ preparamos um
+Confira o que oferecemos para sua saúde ficar em dia e o bem-estar lá em cima!
+🩺Saúde é o que interessa e priorizamos a sua! Pensando nisso, oferecemos o convênio médico Bradesco Saúde, com cobertura nacional;
+Saúde é o que interessa e priorizamos a sua! Pensando nisso, oferecemos o convênio médico 
+, com cobertura nacional;
+🦷 E como sabemos que a vida fica mais alegre com sorrisos, você também pode ter o convênio odontológico Bradesco Dental;
+ E como sabemos que a vida fica mais alegre com sorrisos, você também pode ter o convênio odontológico 
+;
+🙏🏻Queremos estar sempre por perto, dando suporte até em momentos mais desafiadores. Conte com seguro de vida e assistência funeral;
+Queremos estar sempre por perto, dando suporte até em momentos mais desafiadores. Conte com 
+;
+🏋🏻‍♀️Para o seu bem-estar ser completo, escolha aquela atividade que mais te deixa feliz no Gympass.
+Para o seu bem-estar ser completo, escolha aquela atividade que mais te deixa feliz no 
+.
+Alimentação ou refeição? Você divide como quiser!
+😋 Temos o Cartão Flash, para você decidir onde e como usar. Seja alimentação ou refeição, no seu mercado preferido ou naquele restaurante especial.
+ Temos o 
+, para você decidir onde e como usar. Seja alimentação ou refeição, no seu mercado preferido ou naquele restaurante especial.
+Vem decolar com a Agrotools!
+🚀 Seja o protagonista da sua jornada profissional! Oferecemos oportunidades integradas a um plano de carreira que identifica seus talentos e destaca o melhor que há em você;
+🎓 Queremos seu desenvolvimento a todo vapor. Por isso, temos parceria com instituições de ensino.
+ Queremos seu desenvolvimento a todo vapor. Por isso, temos 
+.
+De conforto nós entendemos!
+💻 Aquela área de trabalho remoto bem equipada fica por nossa conta. Enviamos para você notebook, mouse, mousepad e fone de ouvido; 
+ Aquela área de trabalho remoto bem equipada fica por nossa conta. Enviamos para você notebook, mouse, mousepad e fone de ouvido; 
+✌🏻 Alô, descansinho! Todo esforço deve ser recompensado, não é? Por isso, nós trabalhamos com banco de horas a cada 6 meses, de modo flexível e acordado;
+Alô, descansinho! Todo esforço deve ser recompensado, não é? Por isso, nós trabalhamos com 
+, de modo flexível e acordado;
+🏡 Também tem auxílio home office mensal de R$ 100 esperando por você.
+ Também tem 
+ mensal de R$ 100 esperando por você.
+👶🏻 Hey, papais!! Não se preocupa com a logística da creche, a gente tá aqui pra ajudar, oferecemos um auxilio creche no valor de R$ 250;
+🎈 Quem quer se preocupar com compromissos quando pode estar celebrando a própria existência, né? Que tal pegar um dia útil do mês de seu aniversário e curtir com zero responsabilidades;
+👊🏼É aquilo né, gente boa só conhece gente boa! Então, bora indicar quem você conhece? Além de indicar novos talentos para uma AgTech, você ainda ganha R$400,00.
+Além de indicar novos talentos para uma AgTech, 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Bate-papo com Gente e Gestão  2Bate-papo com Gente e Gestão  
+Etapa 2: Bate-papo com Gente e Gestão  
+2
+Bate-papo com Gente e Gestão  
+Etapa 3: Entrevista Técnica e Final com Gestor3Entrevista Técnica e Final com Gestor
+Etapa 3: Entrevista Técnica e Final com Gestor
+3
+Entrevista Técnica e Final com Gestor
+Etapa 4: Contratação4Contratação
+Etapa 4: Contratação
+4
+Contratação
+O QUE NOS MOVE?
+Há mais de 16 anos, iniciamos a revolução do novo agro, mais tech, mais verde, mais justo.
+Há mais de 16 anos, iniciamos a revolução do novo agro, mais tech, mais verde, mais justo.
+Hoje somos o maior ecossistema tecnológico do agronegócio, com soluções digitais para tornar o agro cada vez mais sustentável. E para isso, utilizamos a inteligência de dados em mais de 200 clientes pelo mundo.
+Hoje somos o maior ecossistema tecnológico do agronegócio, com soluções digitais para tornar o agro cada vez mais sustentável. E para isso, utilizamos a inteligência de dados em mais de 200 clientes pelo mundo.
+Nossas soluções estão fazendo a diferença no Brasil, Argentina, Paraguai, Bolívia e Austrália. E agora começamos a expandir para o território norte-americano. Somos mais de 230 Agrotoolers para fazer esse trabalho aqui e no exterior.
+Nossas soluções estão fazendo a diferença no Brasil, Argentina, Paraguai, Bolívia e Austrália. E agora começamos a expandir para o território norte-americano. Somos mais de 230 Agrotoolers para fazer esse trabalho aqui e no exterior.
+É do Brasil para o mundo que queremos democratizar o acesso à tecnologia que vai construir o agro do futuro.
+É do Brasil para o mundo que queremos democratizar o acesso à tecnologia que vai construir o agro do futuro.
+Faça parte desse movimento!
+Faça parte desse movimento!
+#VenhaSerUmAgrotooler
+Comitê de Diversidade & Inclusão e ESG
+“Para além de negócios e territórios, conectamos pessoas.”
+Como uma Empresa B, acreditamos que o verdadeiro progresso não é apenas medido pelos números, mas também pela nossa capacidade de criar um ambiente de trabalho diverso, inclusivo e sustentável.
+Como uma Empresa B, acreditamos que o verdadeiro progresso não é apenas medido pelos números, mas também pela nossa capacidade de criar um ambiente de trabalho diverso, inclusivo e sustentável.
+Por isso, estabelecemos o Comitê de Diversidade & Inclusão e ESG, para acolher e promover causas, além de orientar as práticas relacionadas a questões de sustentabilidade, responsabilidade social corporativa e governança empresarial. 
+Por isso, estabelecemos o
+, para acolher e promover causas, além de o
+rientar as práticas relacionadas a questões de sustentabilidade, responsabilidade social corporativa e governança empresarial. 
+Acreditamos que a diversidade é uma força inigualável. Nosso Comitê de Diversidade & Inclusão e ESG trabalha incansavelmente para celebrar as diferenças, desenvolvendo um ambiente em que a singularidade de cada indivíduo é valorizada e respeitada. 
+Acreditamos que a diversidade é uma força inigualável. Nosso 
+ 
+trabalha incansavelmente para celebrar as diferenças, desenvolvendo um ambiente em que a singularidade de cada indivíduo é valorizada e respeitada. 
+A Agrotools está comprometida com a criação de um ambiente mais diverso, ético e socialmente responsável, gerando e fortalecendo experiências positivas para os Agrotoolers, além de reforçar nosso compromisso com a pauta ESG e com os Objetivos de Desenvolvimento Sustentável. 
+A Agrotools está comprometida com a criação de um ambiente mais diverso, ético e socialmente responsável, gerando e fortalecendo experiências positivas para os Agrotoolers, além de reforçar nosso compromisso com a pauta ESG e com os Objetivos de Desenvolvimento Sustentável. 
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Instagram

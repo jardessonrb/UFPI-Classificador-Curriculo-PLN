@@ -1,0 +1,79 @@
+link_vaga-https://onset.gupy.io/job/eyJqb2JJZCI6ODAyNDIzNCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR ASP.NET BACKEND
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Temos a missão de fornecer serviços diferenciados e soluções eficientes e inovadoras, crescendo de forma sustentável como uma empresa de excelência em serviços de TI, reconhecida por seus clientes e por seus colaboradores como uma excelente empresa para se trabalhar. Sempre com ética e transparência nos negócios, respeito aos clientes, fornecedores, parceiros e colaboradores.
+E por isto, buscamos um profissional criativo, comprometido e proativo para agregar ao nosso time!
+Venha fazer parte da Onset!!!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Estamos em busca de um Desenvolvedor de Sistemas C# / ASP.NET Core para atuar em um ambiente de alta complexidade e contribuir no desenvolvimento, manutenção e melhoria contínua de sistemas críticos.
+ Desenvolver código limpo, eficiente e escalável para aplicações e sistemas de grande porte.
+Criar e realizar testes unitários e integrados para assegurar a qualidade do software.
+Pesquisar e aplicar modelos e padrões que otimizem o processo de desenvolvimento.
+Buscar continuamente melhorias no processo de desenvolvimento e na arquitetura do sistema.
+Experiência em Projetos de Desenvolvimento: Participação prévia em projetos de sistemas complexos, atuando em todas as fases do ciclo de desenvolvimento. Experiência em metodologias ágeis.
+Metodologias Ágeis: Experiência com frameworks ágeis como Scrum ou Kanban, visando uma entrega contínua e eficiente.Experiência em desenvolvimento backend
+Cloud Microsoft Azure: Experiência com ambientes e soluções em cloud, com ênfase em Microsoft Azure.
+Desenvolvimento Backend: Sólida experiência em desenvolvimento de sistemas backend, especialmente com .NET Core.
+Desenvolvimento Frontend (Desejável): Familiaridade com frameworks JavaScript e bibliotecas como jQuery ou Bootstrap.
+Boas Práticas em Testes Unitários e Integrados: Experiência com testes automatizados, práticas de desenvolvimento seguro e metodologias de DevOps.  
+Análise e Solução de Problemas: Realizar investigações detalhadas para identificar e solucionar problemas recorrentes, bugs e falhas relatadas por usuários, propondo soluções inovadoras.
+Inovação e Melhoria Contínua: Contribuir com melhorias tanto em subsistemas quanto no sistema geral, sempre visando a eficiência e o desempenho.
+Documentação e Controle de Versões: Seguir rigorosamente as práticas de controle de versão e documentação, garantindo a qualidade e rastreabilidade do código.
+Colaboração e Mentoria: Orientar e apoiar outros membros da equipe no uso de boas práticas de codificação, desenvolvimento e teste.
+Suporte DevOps junto ao PO: Dimensionar complexidade, propor soluções técnicas, avaliar prioridades e estimativas de tempos de desenvolvimento de PBIs.
+
+REQUISITOS E QUALIFICAÇÕES
+C# / .NET Core 6 (Avançado): Conhecimento profundo de .NET Core 6 e sua aplicação em sistemas de grande escala.SQL Server e T-SQL: Experiência com bancos de dados SQL Server e habilidade em T-SQL para escrita de consultas, otimização de performance e administração básica.Testes Unitários: Capacidade de desenvolver e manter testes unitários eficazes, garantindo a estabilidade do códigoDiferenciaisConhecimento em Frontend: Embora o foco principal seja o backend, é desejável que o profissional tenha familiaridade com desenvolvimento frontend para colaborar em tarefas relacionadas à interface do usuário. Conhecimento em frameworks e bibliotecas como jQuery e Bootstrap será útil. Experiência com frameworks modernos como Angular, React ou Vue.js será considerada um diferencial importante, mas não é obrigatório.Familiaridade com DevOps: Experiência em integração contínua e entrega contínua (CI/CD), automação de pipelines e monitoramento de performance.
+C# / .NET Core 6 (Avançado): Conhecimento profundo de .NET Core 6 e sua aplicação em sistemas de grande escala.
+SQL Server e T-SQL: Experiência com bancos de dados SQL Server e habilidade em T-SQL para escrita de consultas, otimização de performance e administração básica.
+Testes Unitários: Capacidade de desenvolver e manter testes unitários eficazes, garantindo a estabilidade do código
+Diferenciais
+Conhecimento em Frontend: Embora o foco principal seja o backend, é desejável que o profissional tenha familiaridade com desenvolvimento frontend para colaborar em tarefas relacionadas à interface do usuário. Conhecimento em frameworks e bibliotecas como jQuery e Bootstrap será útil. Experiência com frameworks modernos como Angular, React ou Vue.js será considerada um diferencial importante, mas não é obrigatório.
+Familiaridade com DevOps: Experiência em integração contínua e entrega contínua (CI/CD), automação de pipelines e monitoramento de performance.
+
+INFORMAÇÕES ADICIONAIS
+Contrato PJ ou Cooperativa
+Jornada de trabalho: 8h/dia
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Qualificação2Qualificação
+Etapa 2: Qualificação
+2
+Qualificação
+Etapa 3: Testes3Testes
+Etapa 3: Testes
+3
+Testes
+Etapa 4: Entrevista R&S4Entrevista R&S
+Etapa 4: Entrevista R&S
+4
+Entrevista R&S
+Etapa 5: Entrevista com o Gestor5Entrevista com o Gestor
+Etapa 5: Entrevista com o Gestor
+5
+Entrevista com o Gestor
+Etapa 6: Finalista6Finalista
+Etapa 6: Finalista
+6
+Finalista
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+SOBRE NÓS
+Somos uma empresa de Serviços em TI&C (Tecnologia da Informação), capaz de suprir todas as necessidades de TI da sua empresa. Contamos com profissionais especializados em Suporte Técnico, PMOaaS (Gerenciamento de Projetos como Serviço), PMO (Escritório de Projetos), Desenvolvimento de Sistemas e Aplicativos, Análise de Riscos, Monitoramento da Infraestrutura, Soluções em Cloud Computing, Gerenciamento de Redes, Segurança da Informação e Adequação a LGPD.
+A OnSet atua desde 1996 no mercado de Tecnologia da Informação e tem como principal compromisso levar às empresas serviços de TI baseados nas melhores práticas de gestão (ITIL, SCRUM, AGILE, PMP), com foco na geração de valor, otimização e redução de custos.
+As ofertas diferenciadas da OnSet ajudam o cliente a planejar, implementar e operar seu ambiente tecnológico, com a máxima otimização dos recursos, potencializando o uso das tecnologias e desenvolvimento de talentos humanos.

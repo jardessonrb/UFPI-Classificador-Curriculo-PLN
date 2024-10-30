@@ -1,0 +1,81 @@
+link_vaga-https://webmotors.gupy.io/job/eyJqb2JJZCI6Nzk3NDc2Mywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR(A) FRONT-END SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Aqui na Webmotors, o(a) Front-end precisa ser curioso(a) e gostar de interagir com pessoas, principalmente com clientes (internos e externos), além do próprio time.  
+Somos responsáveis por definir as melhores práticas de desenvolvimento de front-end, escolha de linguagens e padrões de desenvolvimento. Identificar riscos, trabalhar junto com o time na discussão das histórias até definirmos a melhor solução de negócio e técnica. 
+Trabalhar muito próximo a liderança técnica e time de arquitetura de software para garantirmos a sustentabilidade técnica dos produtos. Em resumo, precisa ser dinâmico(a), não ficar sentado(a) na cadeira e fazer as coisas acontecerem.  
+Precisa ser decisivo(a) e incisivo(a) nas discussões sempre dando seu pitaco no que acredita ser o melhor caminho ou a melhor solução, o foco é o desenvolvimento ágil de soluções com qualidade.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Identificar e atuar nos impactos do projeto e/ou histórias que afetem o time, o produto ou a organização;Quando necessário, levantar riscos e atuar na mitigação, aceite ou resolução dos mesmos;Orientar profissionais de menor nível de experiência;Acompanhar problemas em produção do produto e atuar em melhorias para mitigação dos problemas;Atuar no desenvolvimento de novas features e manutenção dos produtos;Participar de plannings, retrospectivas e outras reuniões com o time;Definir práticas de desenvolvimento de front-end, linguagem, sugerir novas arquiteturas ou melhorias pontuais;Colaborar com equipes de produto e design para manter a consistência visual e usabilidade das interfaces;Identificar e implementar melhorias contínuas de otimização de performance front-end;
+Identificar e atuar nos impactos do projeto e/ou histórias que afetem o time, o produto ou a organização;
+Quando necessário, levantar riscos e atuar na mitigação, aceite ou resolução dos mesmos;
+Orientar profissionais de menor nível de experiência;
+Acompanhar problemas em produção do produto e atuar em melhorias para mitigação dos problemas;
+Atuar no desenvolvimento de novas features e manutenção dos produtos;
+Participar de plannings, retrospectivas e outras reuniões com o time;
+Definir práticas de desenvolvimento de front-end, linguagem, sugerir novas arquiteturas ou melhorias pontuais;
+Colaborar com equipes de produto e design para manter a consistência visual e usabilidade das interfaces;
+Identificar e implementar melhorias contínuas de otimização de performance front-end;
+REQUISITOS E QUALIFICAÇÕES
+React;Dynamic Rendering React;Zustand / Redux;JavaScript e TypeScript;SCSS, MaterialUI e CSS Modules;Cloud AWS;Criação e utilização de Design SystemsTestes de software;Design Patterns;Code Quality / Clean code;Esteira de CI/CD;Diferenciais:Conhecimento em StencilJS e Web Components.Conhecimento em backend, especialmente Node.js e .NET.
+React;
+Dynamic Rendering React;
+Zustand / Redux;
+JavaScript e TypeScript;
+SCSS, MaterialUI e CSS Modules;
+Cloud AWS;
+Criação e utilização de Design Systems
+Testes de software;
+Design Patterns;
+Code Quality / Clean code;
+Esteira de CI/CD;
+Diferenciais:
+Conhecimento em StencilJS e Web Components.
+Conhecimento em backend, especialmente Node.js e .NET.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista RH2Entrevista RH
+Etapa 2: Entrevista RH
+2
+Entrevista RH
+Etapa 3: Entrevista Gestor3Entrevista Gestor
+Etapa 3: Entrevista Gestor
+3
+Entrevista Gestor
+Etapa 4: Contratação4Contratação
+Etapa 4: Contratação
+4
+Contratação
+A WEBMOTORS
+Aqui na Webmotors respeito e inclusão fazem parte dos nossos itens de série. Acreditamos que as diferenças somam e por isso, #diversidade é um de nossos pilares. Então, candidaturas de pessoas #pretas, #mulheres, #PCD, #LGBTQIA+ e #melhoridade são muito bem-vindas! ;)
+Aqui na Webmotors respeito e inclusão fazem parte dos nossos itens de série. Acreditamos que as diferenças somam e por isso, #diversidade é um de nossos pilares. Então, candidaturas de pessoas #pretas, #mulheres, #PCD, #LGBTQIA+ e #melhoridade são muito bem-vindas! ;)
+Estamos há 29 anos na estrada e fomos a primeira startup brasileira a inovar na forma de comprar e vender carros e motos. Nesses anos, não paramos de acelerar e evoluímos para muuuuito além dos classificados! Contamos com acionistas super estratégicos e robustos, o Grupo Santander e australiana Car Sales, e juntos criamos um ecossistema de soluções, uma vez que queremos estar com os nossos clientes ao longo da sua jornada de compra, venda e uso de veículos.
+ 
+Hoje somos líderes de mercado e o ecossistema mais completo do segmento! Mas fica tranquilo, porque o que não falta é combustível para acelerar ainda mais. Com uma visão consolidada, nós queremos ganhar o mundo (e já estamos acelerando nesse percurso).
+ 
+Somos um time de pilotos movido pela inovação e pelo entusiasmo. Ninguém gosta de mesmice e o nosso motor é um v8 pulsante com mais de 200 cavalos. Aceleramos juntos pelo mesmo objetivo, afinal aqui ninguém é passageiro!
+ 
+Na Web a gente une o melhor de dois mundos: a inovação e fluidez de uma startup, e a solidez financeira de um grande banco. E as 6 marchas que nos guiam no dia a dia, para mudar, crescer, melhorar e fazer mais, são: diversidade, excelência, empatia, ousadia, transparência e inconformismo.
+ 
+E você? Também acredita que a criatividade, inovação e a mobilidade podem nos levar mais longe?
+ 
+Então aperta o cinto e bora pisar fundo, porque aqui é do melhor jeito. O seu jeito! ;)
+CONHEÇA UM POUCO MAIS A GENTE :)
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

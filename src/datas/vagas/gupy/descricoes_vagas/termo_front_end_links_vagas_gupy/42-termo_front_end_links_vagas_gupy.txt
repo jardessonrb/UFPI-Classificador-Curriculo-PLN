@@ -1,0 +1,71 @@
+link_vaga-https://gruposoma.gupy.io/job/eyJqb2JJZCI6NzUxOTE4NCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+GRUPO SOMA | SOMALABS | DESENVOLVEDOR FRONT END PLENO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Inquietos e Acelerados. Criativos ou Cartesianos. Talentosos e Autodidatas. Artesanais ou Tecnológicos.
+Não importa: gostamos de diversidade e de quem está aqui para agregar.
+Porque GENTE É O QUE SOMA.
+ 
+O Desenvolvedor Front End irá Facilitar a comunicação digital do Grupo Soma.        
+ 
+QUER FAZER PARTE DESTA JORNADA COM A GENTE?
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver novas interfaces gráficasGarantir otimizações de performance de ferramentas existentesGarantir consultas a APIs (Interface de Programação de Aplicativos)Garantir o uso de melhores práticas para o desenvolvimento do front-end dos nossos sites.Garantir a migração para estrutura de componentização da intercaceGarantir que o código desenvolvido interna e externamente esteja bem documentadoDocumentar algoritmos no código Apoiar o treinamento de novos colaboradores
+Desenvolver novas interfaces gráficas
+Garantir otimizações de performance de ferramentas existentes
+Garantir consultas a APIs (Interface de Programação de Aplicativos)
+Garantir o uso de melhores práticas para o desenvolvimento do front-end dos nossos sites.
+Garantir a migração para estrutura de componentização da intercace
+Garantir que o código desenvolvido interna e externamente esteja bem documentado
+Documentar algoritmos no código
+ Apoiar o treinamento de novos colaboradores
+REQUISITOS E QUALIFICAÇÕES
+Conhecimentos em Javascript, CSS, HTMLConhecimentos em Angular.js, Vue.js, React.js,Conhecimento com processadores de estilo (less e sass)Conhecimentos em VtexConhecimento em API (Rest e GraphQL)Conhecimentos em webpack, gulp ou gruntConhecimento em Microserviços e Arquitetura HeadlessGitflow
+Conhecimentos em Javascript, CSS, HTML
+Conhecimentos em Angular.js, Vue.js, React.js,
+Conhecimento com processadores de estilo (less e sass)
+Conhecimentos em Vtex
+Conhecimento em API (Rest e GraphQL)
+Conhecimentos em webpack, gulp ou grunt
+Conhecimento em Microserviços e Arquitetura Headless
+Gitflow
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista G&G2Entrevista G&G
+Etapa 2: Entrevista G&G
+2
+Entrevista G&G
+Etapa 3: Entrevista Gestor3Entrevista Gestor
+Etapa 3: Entrevista Gestor
+3
+Entrevista Gestor
+Etapa 4: Contratação4Contratação
+Etapa 4: Contratação
+4
+Contratação
+SOMOS O MAIOR GRUPO DE MODA DO BRASIL
+Por aqui, a gente inova e renova o mercado da moda do nosso jeito, arregaçando as mangas e fazendo os resultados acontecerem na nossa frente. Somos uma grande e eficiente união de talentos e expertises.
+Por aqui, a gente inova e renova o mercado da moda do nosso jeito, arregaçando as mangas e fazendo os resultados acontecerem na nossa frente. Somos uma grande e eficiente união de talentos e expertises.
+
+Seja nos times criativos, escritórios, lojas e fábricas, cada pessoa aqui é muito importante no nosso universo. E acreditamos de verdade que o brilho no olho do nosso time é o que faz a gente ir cada vez mais longe.
+Seja nos times criativos, escritórios, lojas e fábricas, cada pessoa aqui é muito importante no nosso universo. E acreditamos de verdade que o brilho no olho do nosso time é o que faz a gente ir cada vez mais longe.
+
+Nossa missão é sonhar grande e fazer gigante. Porque gente é o que SOMA.
+Nossa missão é sonhar grande e fazer gigante. 
+VEM ACOMPANHAR OS NOSSOS BASTIDORES!
+Website
+LinkedIn
+Instagram
+Glassdoor

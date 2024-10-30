@@ -1,0 +1,124 @@
+link_vaga-https://sidi.gupy.io/job/eyJqb2JJZCI6NzgyMDczNiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR DE SOFTWARE CLOUD/BACKEND - PL
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Se você tem o espírito criativo e inovador e quer trabalhar em um dos maiores institutos de ciência e tecnologia do Brasil essa é a sua chance! Venha conhecer o SiDi, e saiba mais sobre esta oportunidade. Estamos em busca de profissionais proativos, dinâmicos, comunicativos, e que gostem de trabalho em equipe, para fazerem parte do nosso time de #SiDiers. O que valorizamos além de seu conhecimento técnico: Que seja apaixonado por tecnologia Valorizamos o conceito de aprendizado contínuo, a vontade de aprender e compartilhar conhecimento adquirido Que seja questionador, atuante e pró-ativo, conheça diferentes tecnologias e tenha interesse em descobrir novas abordagens Que identifique pontos de melhoria e automação de processos já existentes Que trabalham de forma colaborativa e integrada com os demais membros da equipe Motivado por desafios de larga escala Olhar crítico nos detalhes
+RESPONSABILIDADES E ATRIBUIÇÕES
+Participar em todas os fases do ciclo de desenvolvimento de software (concepção, arquitetura, implementação, testes automatizados, documentação e manutenção);Projetar e implementar software para ambientes de Computação Distribuída (Cloud Services);Interagir tecnicamente com equipes internas e externas;Participar na elaboração de documentação e relatórios técnicos sobre os resultados do projeto, também com o objetivo de melhorar a qualidade e o processo de desenvolvimento;Trabalhar sempre de forma colaborativa, desde a análise de requisitos, execução, até a conclusão final dos projetos.
+Participar em todas os fases do ciclo de desenvolvimento de software (concepção, arquitetura, implementação, testes automatizados, documentação e manutenção);
+Projetar e implementar software para ambientes de Computação Distribuída (Cloud Services);
+Interagir tecnicamente com equipes internas e externas;
+Participar na elaboração de documentação e relatórios técnicos sobre os resultados do projeto, também com o objetivo de melhorar a qualidade e o processo de desenvolvimento;
+Trabalhar sempre de forma colaborativa, desde a análise de requisitos, execução, até a conclusão final dos projetos.
+REQUISITOS E QUALIFICAÇÕES
+Experiência em desenvolvimento de software e design. Experiência com desenvolvimento para sistemas distribuídos de software/Cloud Services (Containeres, Microsserviços, Serviços de Mensageria). Experiência em codificação, estruturas de dados, algoritmos, orientadas a objetos e sistemas operacionais. Conhecimento com pelo menos um dos provedores de serviços de nuvem (AWS, Google Cloud ou Azure). Excelente comunicação escrita e agilidade verbal são ativos fortes. Experiência com o desenvolvimento de sistemas orientados para escalabilidade, desempenho e confiabilidade.Diferencial para a vaga:Experiência em desenvolvimento de software seguro;Capacidade de tomar os requisitos do produto e atuar junto ao arquiteto para desenvolver a arquitetura de software. Conhecimento em algum framework de Frontend (JavaScript, React, Angular). Experiência com Engenharia de Dados.Formação Acadêmica:Graduação completa em Engenharia ou Ciências da Computação e áreas correlatas.Idioma:Inglês avançado (conversação, escrita e leitura).
+Experiência em desenvolvimento de software e design. 
+Experiência com desenvolvimento para sistemas distribuídos de software/Cloud Services (Containeres, Microsserviços, Serviços de Mensageria). 
+Experiência em codificação, estruturas de dados, algoritmos, orientadas a objetos e sistemas operacionais. 
+Conhecimento com pelo menos um dos provedores de serviços de nuvem (AWS, Google Cloud ou Azure). 
+Excelente comunicação escrita e agilidade verbal são ativos fortes. 
+Experiência com o desenvolvimento de sistemas orientados para escalabilidade, desempenho e confiabilidade.
+Diferencial para a vaga:
+Experiência em desenvolvimento de software seguro;
+Capacidade de tomar os requisitos do produto e atuar junto ao arquiteto para desenvolver a arquitetura de software. 
+Conhecimento em algum framework de Frontend (JavaScript, React, Angular). 
+Experiência com Engenharia de Dados.
+Formação Acadêmica:
+Graduação completa em Engenharia ou Ciências da Computação e áreas correlatas.
+Idioma:
+Inglês avançado (conversação, escrita e leitura).
+Inglês avançado (conversação, escrita e leitura).
+INFORMAÇÕES ADICIONAIS
+Oportunidade para Campinas/SP para trabalho no modelo Híbrido.
+O que esperamos de todos os #SiDiers:
+Abrir a mente para o novo
+Abrir a mente para o novo
+Manter diálogo aberto e direto
+Manter diálogo aberto e direto
+Desenvolver-se continuamente
+Desenvolver-se continuamente
+Fazer o melhor, sempre
+Fazer o melhor, sempre
+Construir em parceria
+Construir em parceria
+Pensar grande, fazer rápido
+Pensar grande, fazer rápido
+O que oferecemos?
+- Qualidade de vida: Jornada de 40 horas semanais com regime CLT, horário flexível, possibilidade de atuação híbrida e auxilio home-office
+- Qualidade de vida: Jornada de 40 horas semanais com regime CLT, horário flexível, possibilidade de atuação híbrida e auxilio home-office
+- Bem-Estar: Gympass, Ginástica Laboral, Massagista e Apoio Psicológico
+- Bem-Estar: Gympass, Ginástica Laboral, Massagista e Apoio Psicológico
+- Saúde: Convênio Médico e Odontológico para você e sua família
+- Saúde: Convênio Médico e Odontológico para você e sua família
+- Filhos: Auxílio creche para os miniSiDiers, licença-maternidade de 120 dias e licença-paternidade estendida
+- Filhos: Auxílio creche para os miniSiDiers, licença-maternidade de 120 dias e licença-paternidade estendida
+- Futuro: Aqui, o SiDi investe com vocês na Previdência Privada
+- Futuro: Aqui, o SiDi investe com vocês na Previdência Privada
+- Educação: Programa de incentivo para a continuidade dos estudos e especialização, incentivo para que nossos SiDiers se tornem fluentes em outras línguas e ciclos de palestras semanais sobre trend topics mundiais
+- Educação: Programa de incentivo para a continuidade dos estudos e especialização, incentivo para que nossos SiDiers se tornem fluentes em outras línguas e ciclos de palestras semanais sobre trend topics mundiais
+- Alimentação: Vale Refeição e Vale Alimentação flexíveis
+- Alimentação: Vale Refeição e Vale Alimentação flexíveis
+- Transporte: Vale-transporte e estacionamento para quem for trabalhar no escritório
+- Transporte: Vale-transporte e estacionamento para quem for trabalhar no escritório
+- Reconhecimento: Bônus anual por desempenho e premiações para SiDiers que fizeram algo incrível
+- Reconhecimento: Bônus anual por desempenho e premiações para SiDiers que fizeram algo incrível
+- Diversidade: Comitês sobre Bem-estar, Diversidade, Saúde Mental, Social, Sustentabilidade e Inclusão das mulheres na tecnologia
+- Diversidade: Comitês sobre Bem-estar, Diversidade, Saúde Mental, Social, Sustentabilidade e Inclusão das mulheres na tecnologia
+- Escritórios Modernos: Ambientes descontraídos e colaborativos com espaços de convivência, sala de descompressão, copas, máquina de café e snacks, etc
+- Escritórios Modernos: Ambientes descontraídos e colaborativos com espaços de convivência, sala de descompressão, copas, máquina de café e snacks, etc
+- Ainda quer mais? Dezenas de parcerias com benefícios e descontos!
+- Ainda quer mais? Dezenas de parcerias com benefícios e descontos!
+Para nós, inclusão não é apenas somar mais um ao nosso time, é somar diferenças e particularidades. É justamente dessa mistura de técnicas, habilidades e histórias que nos inspiramos para fazer diferentes pontos de vista olharem para um mesmo horizonte, sempre para frente.
+Para nós, inclusão não é apenas somar mais um ao nosso time, é somar diferenças e particularidades. É justamente dessa mistura de técnicas, habilidades e histórias que nos inspiramos para fazer diferentes pontos de vista olharem para um mesmo horizonte, sempre para frente.
+Trabalhamos em um ambiente de oportunidades iguais, independente de gênero, orientação sexual, religião ou deficiência.
+Trabalhamos em um ambiente de oportunidades iguais, independente de gênero, orientação sexual, religião ou deficiência.
+Todas as nossas vagas estão disponíveis para PCDs.
+Todas as nossas vagas estão disponíveis para PCDs.
+CÓDIGO DA VAGA: 4016 - N2
+CÓDIGO DA VAGA: 
+4016 - N2
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Mapeamento Comportamental2Mapeamento Comportamental
+Etapa 2: Mapeamento Comportamental
+2
+Mapeamento Comportamental
+Etapa 3: Avaliação RH3Avaliação RH
+Etapa 3: Avaliação RH
+3
+Avaliação RH
+Etapa 4: Avaliação Técnica4Avaliação Técnica
+Etapa 4: Avaliação Técnica
+4
+Avaliação Técnica
+Etapa 5: Entrevista SiDi5Entrevista SiDi
+Etapa 5: Entrevista SiDi
+5
+Entrevista SiDi
+Etapa 6: Envio Carta Oferta6Envio Carta Oferta
+Etapa 6: Envio Carta Oferta
+6
+Envio Carta Oferta
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+MAIS QUE UM TIME, #SIDIERS 💜💚
+Somos um dos maiores institutos de ciência e tecnologia do Brasil e, com um time com mais de 800 SiDiers que não para de crescer, já estamos em Campinas, Manaus e Recife, os maiores parques tecnológicos e de inovações do Brasil. Pois quem tem a vontade de criar projetos que irão transformar o mundo, não pode parar de se transformar. Em 20 anos de história, nos especializamos em solucionar problemas e trazemos em nossa bagagem mais de 1.100 projetos que impactam a vida de milhões de pessoas, levando inovação e fazendo o futuro acontecer agora.
+QUER SABER MAIS SOBRE O NOSSO DIA A DIA ? 👉 @SEGUEOSIDI
+Website
+LinkedIn
+Facebook
+Instagram

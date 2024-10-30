@@ -1,0 +1,95 @@
+link_vaga-https://inmetrics.gupy.io/job/eyJqb2JJZCI6NzkxMTQ1OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA FULLSTACK SR - JAVA E REACT
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+🎯 O TIME INMETRICS 
+Com maestria técnica e excelência operacional estão sempre buscando entender as necessidades dos nossos clientes para criar e desenvolver os melhores produtos digitais.
+Nosso time é multidisciplinar, dominam metodologias e práticas ágeis, são dedicados a fazerem entregas constantes de valor.
+Diante disso, construímos o produto certo, do jeito correto e operamos para garantir a melhor experiência do cliente, além de estabilidade, qualidade e confiabilidade.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Colaborar com equipes multifuncionais para definir, projetar e lançar novos recursos;Elaborar e conduzir refinamentos técnicos de demandas trazidas pelo time de produtos;Atuar na manutenção da saúde e qualidade do codebase, equilibrando novas funcionalidades com resolução de débitos técnicos;Atuar na manutenção dos testes automatizados, incluindo criação de novos;Orientar desenvolvedores de menor senioridade e auxiliar no desenvolvimento destes;Traduzir designs em código de alta qualidade;Ser crítico em relação a Observabilidade;Ser o guardião do fluxo de release do produto do cliente;Participar das cerimônias junto com os demais integrantes da equipe.
+Colaborar com equipes multifuncionais para definir, projetar e lançar novos recursos;
+Elaborar e conduzir refinamentos técnicos de demandas trazidas pelo time de produtos;
+Atuar na manutenção da saúde e qualidade do codebase, equilibrando novas funcionalidades com resolução de débitos técnicos;
+Atuar na manutenção dos testes automatizados, incluindo criação de novos;
+Orientar desenvolvedores de menor senioridade e auxiliar no desenvolvimento destes;
+Traduzir designs em código de alta qualidade;
+Ser crítico em relação a Observabilidade;
+Ser o guardião do fluxo de release do produto do cliente;
+Participar das cerimônias junto com os demais integrantes da equipe.
+REQUISITOS E QUALIFICAÇÕES
+Experiência em desenvolvimento de aplicativos/front-end com React Native e React;Experiência com Javascript/Typescript;Experiencia com Next.js, React Hooks, Styled Components, Axios;Experiência com Java 17+ (11, 8), Spring Boot e Hibernate;Experiência com NodeJS + NestJS;Experiência Bancos de Dados (SQL e NoSQL);Experiência com Git e Versionamento de Código;Experiência com Testes Unitários (Jest) e TDD; Experiência com Html e CSS; Experiência com arquitetura de Microfrontend (MFE);Conhecimento de Clean Code, Clean Architecture e Modularização; Gerenciamento de memória;Persistência de dados;Firebase (Remote Config);Boas práticas de código, documentação e desenvolvimento de telas e componentes; Experiência com em metodologias ágeis; Experiência com Selenium + Cucumber ou framework semelhante para testes automatizados;Excelentes habilidades para resolução de problemas e atenção aos detalhes; Estar disposto a buscar novos conhecimentos e encarar novos desafios;
+Experiência em desenvolvimento de aplicativos/front-end com React Native e React;
+Experiência com Javascript/Typescript;
+Experiencia com Next.js, React Hooks, Styled Components, Axios;
+Experiência com Java 17+ (11, 8), Spring Boot e Hibernate;
+Experiência com NodeJS + NestJS;
+Experiência Bancos de Dados (SQL e NoSQL);
+Experiência com Git e Versionamento de Código;
+Experiência com Testes Unitários (Jest) e TDD; 
+Experiência com Html e CSS; 
+Experiência com arquitetura de Microfrontend (MFE);
+Conhecimento de Clean Code, Clean Architecture e Modularização; 
+Gerenciamento de memória;
+Persistência de dados;
+Firebase (Remote Config);
+Boas práticas de código, documentação e desenvolvimento de telas e componentes; 
+Experiência com em metodologias ágeis; 
+Experiência com Selenium + Cucumber ou framework semelhante para testes automatizados;
+Excelentes habilidades para resolução de problemas e atenção aos detalhes; 
+Estar disposto a buscar novos conhecimentos e encarar novos desafios;
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Bate papo com T&A e Gestor3Bate papo com T&A e Gestor
+Etapa 3: Bate papo com T&A e Gestor
+3
+Bate papo com T&A e Gestor
+Etapa 4: Contratação4Contratação
+Etapa 4: Contratação
+4
+Contratação
+QUEM SOMOS?
+A Inmetrics nasceu em 2002, fundada por engenheiros, nos corredores da Unicamp. Durante esses 20 anos de história, nosso maior compromisso sempre foi com o sucesso de nossos clientes. Juntos, acumulamos a experiência de mais de 25 milhões de horas em projetos de Tecnologia, com forte presença e unidades no Brasil, Chile, Colômbia e República Dominicana.
+Em nossos times você vai encontrar pessoas apaixonadas por inovação com excelência técnica e muita troca de experiência, num ambiente ágil, diverso e colaborativo. Nosso compromisso é gerar valor para todo o ecossistema de negócios transformando estratégias em resultados, construindo junto com nossos clientes, as capacidades necessárias para a transformação digital. 
+A Inmetrics é reconhecida com a nota 4,1 no Glassdoor, um dos maiores sites de recrutamento e vagas do mundo, obtém a certificação de “Lugares Incríveis para Trabalhar” em 2021 e 2022, pesquisa oferecida pelo UOL e pela FIA para as maiores empresas do Brasil e em 2023 recebeu a Certificação do GPTW (Great Place to Work) consolidando ainda mais sua reputação como um ambiente de trabalho excepcional.
+
+Descrição imagem: Agilidade (Transformação Digital), Analytics, Arquitetura de Soluções, Infraestrutura (DevOps/SRE), Corporativo (People, Marketing, Finanças, Administrativo), Engenharia de Qualidade, Engenharia de Software, Estratégia e Governança, Desenvolvimento.
+● Plano de Saúde Bradesco (Coparticipação de 30%)
+● Odontológico Bradesco (Sem contribuição)
+● Seguro de Vida
+● Gympass
+● Auxílio Creche
+● Apoio Pass
+● Convênio Pet
+● Convênio Pet
+● Vale-alimentação
+● Vale-refeição
+● Auxílio Combustível
+● Auxílio Home Office
+● Previdência privada
+● Upgrade de convênio médico
+💛 
+● Programa de apoio: psicológico, jurídico e social
+● Crédito consignado
+● Somos uma Empresa Cidadã: licença maternidade e paternidade prolongadas
+● Desenvolvimento Profissional: cursos disponíveis na universidade interna
+● Avaliação de desempenho semestral
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

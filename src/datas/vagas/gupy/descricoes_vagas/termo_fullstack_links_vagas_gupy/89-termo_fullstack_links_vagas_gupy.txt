@@ -1,0 +1,108 @@
+link_vaga-https://vempraponta.gupy.io/job/eyJqb2JJZCI6Nzc4NTAyNSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR(A) FULLSTACK SR. - JAVA
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+O propósito é o que nos guia e nos faz avançar! Conectar o nosso propósito ao seu é o que transforma a pecuária de ponta a ponta. Por isso, queremos catalisar a transformação tecnológica no agronegócio brasileiro e mundial com informação de confiança que gera sustentabilidade e inteligência estratégica. 🚀🐂
+Se você quer crescer junto com a gente, tem uma oportunidade que pode ser para você!
+Estamos com vaga para Desenvolvedor(a) Java Sr., confira logo abaixo as informações! 👇
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver aplicações em Java e o framework Spring, incluindo Spring Boot, Spring Security, Spring Data, e Spring Cache;Aprimorar o desempenho das nossas aplicações, resolvendo bugs das aplicações Java;Aprimorar e gerar consultas SQL para uso otimizado nos sistemas;Criar APIs REST robustas e eficazes para suportar o backend das nossas aplicações;Participar da migração de sistemas legados, trazendo novos ares e tecnologia para nossos sistemas antigos;Documentar suas aplicações em código com clareza, arquivos README em Markdown, e diagramas quando necessário.
+Desenvolver aplicações em Java e o framework Spring, incluindo Spring Boot, Spring Security, Spring Data, e Spring Cache;
+Aprimorar o desempenho das nossas aplicações, resolvendo bugs das aplicações Java;
+Aprimorar e gerar consultas SQL para uso otimizado nos sistemas;
+Criar APIs REST robustas e eficazes para suportar o backend das nossas aplicações;
+Participar da migração de sistemas legados, trazendo novos ares e tecnologia para nossos sistemas antigos;
+Documentar suas aplicações em código com clareza, arquivos README em Markdown, e diagramas quando necessário.
+REQUISITOS E QUALIFICAÇÕES
+Para essa função, é essencial que tenha conhecimento em:
+Java 8 ou Superior: Experiência em desenvolvimento;
+Spring Framework: Conhecimento em Boot, Security, Data, etc;
+Logs de Aplicação: Experiência em produção;
+Documentação de API: Proficiência em Swagger;
+Banco de Dados Relacionais: Preferencialmente Postgres;
+Orientação a Objetos: Boa lógica de programação e uso de design patterns;
+APIs REST: Boas práticas HTTP e produção;
+Docker: Compreensão básica de conteinerização;
+Arquitetura de Código: Conhecimento em Solid, Clean Arch, MVC;
+Ferramentas de Teste de API: Experiência com Swagger, Postman, Insomnia;
+Documentação de Sistemas: Produção de diagramas e documentos claros;
+Testes Automatizados: Noções de TDD;
+Ciclo de Vida da Aplicação: Entendimento do acesso a recursos do sistema operacional.
+E será considerado diferencial se você tiver conhecimento em:
+Metodologias Ágeis: Scrum e Kanban.
+Docker: Conhecimento consolidado.
+Cloud e AWS: Conceitos e serviços como RDS, EC2, S3, CloudFront, Route53.
+Migração de Banco de Dados: Ferramenta Liquibase.
+Bancos de Dados Não Relacionais: Noções básicas.
+Testes Automatizados: Familiaridade.
+Java Antigo: Experiência com versões mais antigas.
+Servidores Web e Proxy Reverso: Noção sobre Nginx, Apache, Caddy.
+Infraestrutura como Código: Conhecimento básico em Terraform.
+Automação de Deploy (DevOps): Entendimento dos processos.
+Liderança Técnica: Condução de Provas de Conceito (POC) e inovações.
+INFORMAÇÕES ADICIONAIS
+Informações:
+👩‍💻 Local de trabalho: Home Office;
+👉 Modelo de Contrato: CLT;
+🕐 Horário de trabalho: Segunda à Quinta 08h às 18h e Sextas 08h às 17h.
+Nossos benefícios são incríveis, olha só! 👇
+🍕 Vale Alimentação/Refeição no cartão Flash: você escolhe se vai usar no mercado ou em restaurantes;
+🔒 Seguro de Vida;
+🏥 Plano de Saúde;
+🦷 Plano Odontológico;
+🥳 Dayoff no mês do aniversário + um crédito no cartão Flash de presente pra aproveitar da forma como quiser!
+💰 Ajuda de Custo Home Office;
+🧘 Wellhub (Gympass): Pra você e seus dependentes cuidarem da saúde física e mental;
+🎯 E a chance de você crescer aqui dentro é grande: temos plano de carreira!
+Deu match? Então se inscreve aí! 💚
+#VemPraPonta
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Mapeamento Comportamental2Mapeamento Comportamental
+Etapa 2: Mapeamento Comportamental
+2
+Mapeamento Comportamental
+Etapa 3: Entrevista com o time de Gente3Entrevista com o time de Gente
+Etapa 3: Entrevista com o time de Gente
+3
+Entrevista com o time de Gente
+Etapa 4: Desafio Técnico 4Desafio Técnico 
+Etapa 4: Desafio Técnico 
+4
+Desafio Técnico 
+Etapa 5: Entrevista com Gestor5Entrevista com Gestor
+Etapa 5: Entrevista com Gestor
+5
+Entrevista com Gestor
+Etapa 6: Entrevista de Alinhamento/Feedback (Fechamento)6Entrevista de Alinhamento/Feedback (Fechamento)
+Etapa 6: Entrevista de Alinhamento/Feedback (Fechamento)
+6
+Entrevista de Alinhamento/Feedback (Fechamento)
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+VEM SER PONTA!
+GA+Intergado agora é Ponta. A fusão da inteligência de gestão e de precisão conectou a pesquisa, a genética, a produção e o mercado para catalisar a transformação da pecuária.
+Duas marcas viraram uma só para gerar mais resultados para todos. Com liderança absoluta em seleção genética para Eficiência Alimentar e em tecnologia de gestão pecuária, conectamos as pontas para que pesquisadores, melhoradores, criadores e produtores cumpram seu propósito de tornar a pecuária mais lucrativa e sustentável.
+Combinando tecnologia de ponta com uma abordagem centrada no cliente, a Ponta está redefinindo o que é possível na pecuária brasileira. 
+Fazemos a pecuária brasileira e mundial despontar, abrindo um novo caminho para transformar: a integração de toda a cadeia produtiva através da informação da Ponta. 
+
+Vocês estão preparados para viver o novo com a gente? 
+FIQUE CONECTADO NA GENTE!
+Website
+LinkedIn
+Facebook
+Instagram

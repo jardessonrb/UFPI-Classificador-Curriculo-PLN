@@ -1,0 +1,154 @@
+link_vaga-https://cresolcarreiras.gupy.io/job/eyJqb2JJZCI6NzY1ODEwNCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE DADOS (ENGENHEIRO DE DADOS) | CRESOL CONFEDERAÇÃO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Estamos em busca de um Engenheiro de Dados para somar no nosso time!
+Buscamos profissionais com propósito, que sonham grande e que acreditam na força da Cooperação! 
+Buscamos profissionais com propósito, que sonham grande e que acreditam na força da Cooperação! 
+Nossa cultura é focada em um ambiente inclusivo, diverso e colaborativo, permitindo que as pessoas possam ser elas mesmas! Juntos, construímos valores que são aplicados em nosso dia a dia, no relacionamento com cada cooperado, com o compromisso de tornar a Cresol cada vez mais forte! 
+Nossa cultura é focada em um ambiente inclusivo, diverso e colaborativo, permitindo que as pessoas possam ser elas mesmas! 
+Juntos, construímos valores que são aplicados em nosso dia a dia, no relacionamento com cada cooperado, com o compromisso de tornar a Cresol cada vez mais forte! 
+ 
+Vem ser Cresol você também! 
+Vem ser Cresol você também! 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Implementação de projetos de DW, Data Lake e Data Lakehouse;Desenvolvimento de Pipelines de Dados: Projetar, implementar e manter pipelines de dados eficientes e escaláveis utilizando ambiente cloud e ambiente on-premisse;Integração de Dados: Integrar dados de diversas fontes, garantindo a consistência, integridade e qualidade dos dados, bem como a conformidade com as políticas de segurança e privacidade;Otimização de Desempenho: Realizar ajustes de desempenho nos pipelines de dados, identificando e resolvendo gargalos e otimizando consultas;
+Implementação de projetos de DW, Data Lake e Data Lakehouse;
+Desenvolvimento de Pipelines de Dados: Projetar, implementar e manter pipelines de dados eficientes e escaláveis utilizando ambiente cloud e ambiente on-premisse;
+Integração de Dados: Integrar dados de diversas fontes, garantindo a consistência, integridade e qualidade dos dados, bem como a conformidade com as políticas de segurança e privacidade;
+Otimização de Desempenho: Realizar ajustes de desempenho nos pipelines de dados, identificando e resolvendo gargalos e otimizando consultas;
+REQUISITOS E QUALIFICAÇÕES
+Experiencia sólida com as tecnologias; Docker, Airflow, GitHub, Python, SQL, Pentaho Data Integration;Perfil inovador, analítico e comprometido com qualidade;Facilidade para se relacionar com as áreas de negócio;Desejável conhecimento em produtos e serviços financeiros;Trabalhar em equipe e disseminar conhecimento; Conhecimentos que podem fazer a diferença:Experiência em ambientes cloud (Azure, GCP ou AWS);Experiência em plataformas de processamentos de dados voltados para Big Data & Analytics (Databricks, GCP Bigquery, Snowflake);Experiencia em Spark;
+Experiencia sólida com as tecnologias; Docker, Airflow, GitHub, Python, SQL, Pentaho Data Integration;
+Perfil inovador, analítico e comprometido com qualidade;
+Facilidade para se relacionar com as áreas de negócio;
+Desejável conhecimento em produtos e serviços financeiros;
+Trabalhar em equipe e disseminar conhecimento;
+ Conhecimentos que podem fazer a diferença:
+Experiência em ambientes cloud (Azure, GCP ou AWS);
+Experiência em plataformas de processamentos de dados voltados para Big Data & Analytics (Databricks, GCP Bigquery, Snowflake);
+Experiencia em Spark;
+
+INFORMAÇÕES ADICIONAIS
+Benefícios:
+Vale Transporte - com ele garantimos condições de ir e vir de casa para o trabalho por meio do sistema de transporte coletivo público;
+- com ele garantimos condições de ir e vir de casa para o trabalho por meio do sistema de transporte coletivo público;
+Vale Alimentação e/ou Refeição – para comprar seu alimento e aproveitar do seu jeito;
+ – para comprar seu alimento e aproveitar do seu jeito;
+Seguro de Vida - um cuidado a mais que também pode ser acionado em casos de Doenças Graves e Auxílio Funeral, aquela ajuda na hora que mais precisamos;
+ - um cuidado a mais que também pode ser acionado em casos de Doenças Graves e Auxílio Funeral, aquela ajuda na hora que mais precisamos;
+Plano de Saúde - a mensalidade é um presente da Cresol para o colaborador, estamos sempre juntos;
+ - a mensalidade é um presente da Cresol para o colaborador, estamos sempre juntos;
+Plano Odontológico - a mensalidade é um presente da Cresol para o colaborador;
+a mensalidade é um presente da Cresol para o colaborador;
+Auxílio Pós-Graduação - a Cresol acredita e investe no desenvolvimento dos seus colaboradores; 
+a Cresol acredita e investe no desenvolvimento dos seus colaboradores; 
+Previdência Privada - a Cresol se preocupa com seu futuro;
+ - a Cresol se preocupa com seu futuro;
+PPR (Programa de Participação nos Resultados) – conquistamos juntos e celebramos juntos;  
+conquistamos juntos e celebramos juntos;  
+Cartão Natal – a Cresol fornece um cartão no Natal no final do ano, assim a ceia é do jeito que o colaborador gosta;
+ – a Cresol fornece um cartão no Natal no final do ano, assim a ceia é do jeito que o colaborador gosta;
+Adicional por Tempo de Serviço - porque nosso desejo é que o colaborador faça sua carreira na Cresol;
+porque nosso desejo é que o colaborador faça sua carreira na Cresol;
+Auxílio Creche - a Cresol cuida também do bem estar dos filhos dos colaboradores; 
+a Cresol cuida também do bem estar dos filhos dos colaboradores; 
+Licenças Estendidas – a Cresol possui licença maternidade e paternidade estendidas, para aproveitar ao máximo esse momento; 
+a Cresol possui licença maternidade e paternidade estendidas, para aproveitar ao máximo esse momento; 
+Auxílio Casamento - a Cresol apoia o casamento e celebra esse momento junto com o colaborador;  
+ a Cresol apoia o casamento e celebra esse momento junto com o colaborador;  
+Bônus Papai e Mamãe – a Cresol apoia esse momento na vida dos colaboradores; 
+ – a Cresol apoia esse momento na vida dos colaboradores; 
+Desenvolvimento – a Cresol acredita no desenvolvimento dos colaboradores e investe nele durante o ano; 
+a Cresol acredita no desenvolvimento dos colaboradores e investe nele durante o ano; 
+Cresol Acolhe – para o colaborador e sua Família, aqui oferecemos desde suporte a dúvidas jurídicas como dicas para seu Pet, por meio de ligações de qualquer lugar do Brasil;
+– para o colaborador e sua Família
+aqui oferecemos desde suporte a dúvidas jurídicas como dicas para seu Pet, por meio de ligações de qualquer lugar do Brasil;
+Licença Luto - em caso de morte de pais, filhos, irmãos ou cônjuge são concedidos mais 3 dias uteis de licença, além dos 2 dias previstos em lei;
+Férias – a Cresol disponibiliza também a possibilidade dos colaboradores tirarem suas férias em até 3 períodos; 
+Prêmio de Reconhecimento - é uma ação voltada para reconhecer os profissionais que atuam na Cresol e que completam tempo de casa, as premiações acontecem quando os colaboradores completam 1, 5, 10, 15, 20, 25 e 30 anos de Cresol;
+Cresol Longevidade - incentivo aos colaboradores a realizarem uma reserva para o futuro;
+ - incentivo aos colaboradores a realizarem uma reserva para o futuro;
+ Day off de Aniversário - para o colaborador aproveitar um dia do seu jeito, é um benefício concedido no mês do aniversário do colaborador, sendo um dia de folga dentro do mês;
+ - para o colaborador aproveitar um dia do seu jeito, é um benefício concedido no mês do aniversário do colaborador, sendo um dia de folga dentro do mês;
+Gympass - acesso a academias físicas e aulas de Yoga, Meditação e Funcional ao vivo, um benefício completo para o seu Bem Estar;
+- acesso a academias físicas e aulas de Yoga, Meditação e Funcional ao vivo, um benefício completo para o seu Bem Estar;
+Kit do Bebê - no nascimento do filho(a) dos colaboradores, seja Papai ou Mamães, eles irão receber um presente da Cresol para alegrar ainda mais esse momento especial;
+ - no nascimento do filho(a) dos colaboradores, seja Papai ou Mamães, eles irão receber um presente da Cresol para alegrar ainda mais esse momento especial;
+Auxílio Material Escolar - este é um benefício pago no mês de janeiro, para apoiar na vida de ensino dos filhos dos colaboradores de até 12 anos de idade matriculados em uma instituição de ensino;
+- este é um benefício pago no mês de janeiro, para apoiar na vida de ensino dos filhos dos colaboradores de até 12 anos de idade matriculados em uma instituição de ensino;
+Licença PETernidade - a nossa Cresol é para todos, e quando se fala em Família existem vários formatos de Famílias! Por isso, ao adotar um animal de estimação (cães ou gatos), o colaborador terá direito a dois dias de folga (limitado a até 2 adoções no ano); 
+ - 
+a nossa Cresol é para todos, e quando se fala em Família existem vários formatos de Famílias! Por isso, ao adotar um animal de estimação (cães ou gatos), o colaborador terá direito a dois dias de folga (limitado a até 2 adoções no ano); 
+Doação de Sangue - para salvar vidas e fazer uma corrente do bem, fomentando cada vez mais a Cooperação, a Cresol fornece um incentivo em forma de cartão presente para o colaborador que doar sangue durante o ano;
+- para salvar vidas e fazer uma corrente do bem, fomentando cada vez mais a Cooperação, a Cresol fornece um incentivo em forma de cartão presente para o colaborador que doar sangue durante o ano;
+Auxílio Falecimento - este benefício é disponibilizado aos dependentes declarados pelo INSS do colaborador falecido em forma de cartão, com auxílio mensal podendo chegar até um ano; 
+este benefício é disponibilizado aos dependentes declarados pelo INSS do colaborador falecido em forma de cartão, com auxílio mensal podendo chegar até um ano; 
+Uniforme - pensando também no conforto e no fortalecimento da nossa marca, a Cresol disponibiliza uniformes para todos os colaboradores do sistema;
+pensando também no conforto e no fortalecimento da nossa marca, a Cresol disponibiliza uniformes para todos os colaboradores do sistema;
+Ginástica Laboral - a Cresol proporciona momentos de alongamento durante o horário de trabalho, a fim de melhorar a saúde dos colaboradores e evitar lesões pelo esforço diário, e com isso busca incentivar que os colaboradores pratiquem e criem esse hábito diário.
+ a Cresol proporciona momentos de alongamento durante o horário de trabalho, a fim de melhorar a saúde dos colaboradores e evitar lesões pelo esforço diário, e com isso busca incentivar que os colaboradores pratiquem e criem esse hábito diário.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Fit Cultural2Fit Cultural
+Etapa 2: Fit Cultural
+2
+Fit Cultural
+Etapa 3: Análise de Currículo 3Análise de Currículo 
+Etapa 3: Análise de Currículo 
+3
+Análise de Currículo 
+Etapa 4: Entrevista Breve4Entrevista Breve
+Etapa 4: Entrevista Breve
+4
+Entrevista Breve
+Etapa 5: Formulários5Formulários
+Etapa 5: Formulários
+5
+Formulários
+Etapa 6: Etapa Presencial 6Etapa Presencial 
+Etapa 6: Etapa Presencial 
+6
+Etapa Presencial 
+Etapa 7: Entrevista com Gente&Gestão7Entrevista com Gente&Gestão
+Etapa 7: Entrevista com Gente&Gestão
+7
+Entrevista com Gente&Gestão
+Etapa 8: Entrevista com Gestor8Entrevista com Gestor
+Etapa 8: Entrevista com Gestor
+8
+Entrevista com Gestor
+Etapa 9: Feedback Processo Seletivo (Para quem participou de todas as etapas)9Feedback Processo Seletivo (Para quem participou de todas as etapas)
+Etapa 9: Feedback Processo Seletivo (Para quem participou de todas as etapas)
+9
+Feedback Processo Seletivo (Para quem participou de todas as etapas)
+Etapa 10: Contratação10Contratação
+Etapa 10: Contratação
+10
+Contratação
+BEM-VINDO À CRESOL 🧡💚
+Em 24 de junho de 1995, nasceu a Cresol no interior do Paraná com o desafio de ser e fazer a diferença. Hoje, somos uma das principais Cooperativas de Crédito do Brasil. 🚀
+Temos mais de 900 mil cooperados em 19 estados brasileiros, com a missão de oferecer soluções financeiras com excelência por meio do relacionamento para gerar desenvolvimento dos cooperados, de seus empreendimentos e da comunidade.
+ 
+Acreditamos no poder do cooperativismo e no potencial das pessoas. Promovemos conhecimento, desenvolvemos lideranças e participamos de ações voluntárias para transformar o mundo em um lugar melhor. 🌲🌲
+ 
+A Cresol é para todos! Criamos um ambiente inclusivo, diversificado e colaborativo, onde cada pessoa pode ser verdadeiramente ela mesma.
+Venha fazer parte do nosso time! 😍
+SAIBA MAIS SOBRE A CRESOL NAS REDES SOCIAIS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

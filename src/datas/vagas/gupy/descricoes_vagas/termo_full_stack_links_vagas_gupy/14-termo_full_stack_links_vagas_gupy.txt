@@ -1,0 +1,71 @@
+link_vaga-https://cxpbrasil.gupy.io/job/eyJqb2JJZCI6NzQwODY1MSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR FULL STACK SÊNIOR
+Tipo de vaga: Pessoa jurídicaPessoa jurídica
+Tipo de vaga: Pessoa jurídica
+Pessoa jurídica
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+DESCRIÇÃO DA VAGA
+Buscamos profissional com perfil de Desenvolvedor Full stack Sênior para atuar em um dos nossos clientes, localizado na Vila Olímpia-SP.
+RESPONSABILIDADES E ATRIBUIÇÕES
+* Manter e expandir o Front-end desenvolvido em React.js ;
+* Implementar telas com foco na experiência do usuário, seguindo boas práticas de UX;
+* Sólido conhecimento em Programação em C, C++
+ * Desenvolver telas fiéis aos protótipos de design;
+ * Manter a aplicação saudável com código limpo;
+ * Desenvolver sempre com boas práticas e princípios SOLID;
+ * Conhecimentos em comunicação cliente-servidor (ser capaz de compreender o fluxo de dados e consumir informações de uma API REST);
+* Conhecimentos de e/ou experiência com TypeScript;
+ * Conhecimentos de e/ou experiência com Next.js;
+ * Experiência com aplicações escaláveis;
+ * Experiência com testes (unitários, de integração e afins);
+ * Conhecimentos de arquitetura e manutenibilidade de software;
+ * PostgreSQL
+REQUISITOS E QUALIFICAÇÕES
+Mínimo de 5 anos de experiência com React já em produção;Experiência mínima de 3 anos com TypeScript;Conhecimento em JavaScript e CSS;Ter experiência de uso do Git
+Mínimo de 5 anos de experiência com React já em produção;
+Experiência mínima de 3 anos com TypeScript;
+Conhecimento em JavaScript e CSS;
+Ter experiência de uso do Git
+INFORMAÇÕES ADICIONAIS
+15 dias de recesso remunerado
+Acesso à plataforma Udemy
+Day Off
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: triagem2triagem
+Etapa 2: triagem
+2
+triagem
+Etapa 3: entrevista RH3entrevista RH
+Etapa 3: entrevista RH
+3
+entrevista RH
+Etapa 4: enviar CV ao cliente4enviar CV ao cliente
+Etapa 4: enviar CV ao cliente
+4
+enviar CV ao cliente
+Etapa 5: entrevista com gestor5entrevista com gestor
+Etapa 5: entrevista com gestor
+5
+entrevista com gestor
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+JUNTE-SE À NOSSA EQUIPE! 🤩
+A CXP surgiu para manter vivo nosso lema:
+"o seu desafio é o que nos move."
+Idealizada por sócios que vivenciaram em sua ampla experiência uma dedicação a dois pontos importantes: o cliente no centro de tudo e a valorização das pessoas. Desta forma tinham como resultado uma união entre a equipe comercial e de operações.
+O sucesso nos clientes que vivenciamos teve como base um trabalho engajado, trazendo audição ao que realmente importa: como podemos fazer a diferença em cada oportunidade.
+Desta forma, com a união dessas pessoas criamos a CXP que tem como objetivo unir o mundo digital com o atendimento diferenciado, na velocidade que a tecnologia nos permite alcançar, trazendo a melhor experiência do cliente na sua transformação digital.
+ACOMPANHE NOSSOS CANAIS :) 💻
+Website
+LinkedIn
+Instagram
+Glassdoor

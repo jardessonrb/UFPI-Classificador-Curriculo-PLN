@@ -1,0 +1,131 @@
+link_vaga-https://psycheaerospace.gupy.io/job/eyJqb2JJZCI6ODAyODY5Mywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+GERENTE DE PRODUTO - DESENVOLVEDOR FULL STACK
+Tipo de vaga: Pessoa jurídicaPessoa jurídica
+Tipo de vaga: Pessoa jurídica
+Pessoa jurídica
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+DESCRIÇÃO DA VAGA
+Na Psyche Aerospace, estamos revolucionando o setor agro brasileiro através de inovações tecnológicas que visam transformar a produtividade e a sustentabilidade no campo. Somos uma startup dinâmica, comprometida em desafiar o sistema e criar soluções disruptivas que atendam às necessidades do setor. Estamos sediados em São José dos Campos e buscamos um profissional dinâmico e engajado para se juntar à nossa equipe de Produto.
+Na Psyche Aerospace, estamos revolucionando o setor agro brasileiro através de inovações tecnológicas que visam transformar a produtividade e a sustentabilidade no campo. Somos uma startup dinâmica, comprometida em desafiar o sistema e criar soluções disruptivas que atendam às necessidades do setor. Estamos sediados em São José dos Campos e buscamos um profissional dinâmico e engajado para se juntar à nossa equipe de Produto.
+Sobre a Vaga:
+O Gerente de Produto - Desenvolvedor Full Stack da Psyche Aerospace terá a oportunidade de liderar o desenvolvimento e a evolução de produtos inovadores, integrando dados de dispositivos IoT de forma segura e eficiente. Se você possui experiência em desenvolvimento full stack, com habilidades em C++ e Python para back-end e em criação de interfaces front-end responsivas para web e aplicativos móveis, essa é sua chance de contribuir com um ambiente dinâmico e desafiador.
+Local: Presencial, São José dos Campos
+Modalidade: PJ (Pessoa Jurídica)
+Disponibilidade: Início Imediato
+RESPONSABILIDADES E ATRIBUIÇÕES
+Principais Responsabilidades 📝:
+📝
+Desenvolvimento e Evolução de Produto 📈: Liderar o desenvolvimento e aprimoramento do produto, garantindo a integração eficiente de dados provenientes de dispositivos IoT.
+Arquitetura Back-End 🛠️: Desenvolver e manter a arquitetura back-end em C++ e Python, com foco em performance e escalabilidade.
+Desenvolvimento de Interfaces Front-End 💻📱: Projetar e implementar interfaces responsivas e intuitivas para web e aplicativos móveis.
+Integração e Gerenciamento de Dados IoT 🔗☁️: Integrar e gerenciar dados transmitidos via IoT, assegurando armazenamento seguro em nuvem e comunicação em tempo real com plataformas web e móveis.
+Otimização de Algoritmos em Python 🧠: Utilizar e otimizar bibliotecas avançadas de Python para processamento de dados e algoritmos de inteligência artificial.
+Colaboração Multidisciplinar 🤝: Trabalhar com equipes de diferentes áreas para alinhar requisitos técnicos e de negócios.
+Exploração de Novas Tecnologias 🚀: Analisar e implementar novas tecnologias para maximizar a eficiência e inovação no desenvolvimento.
+Qualidade e Revisão de Código ✅: Garantir a qualidade do código e das soluções através de revisões e testes rigorosos.
+REQUISITOS E QUALIFICAÇÕES
+Qualificações e Requisitos🎯:
+🎯
+Mestrado ou Doutorado completo em Ciência da Computação, Engenharia de Software, Inteligência Artificial, Machine Learning;
+Mestrado ou Doutorado completo em Ciência da Computação, Engenharia de Software, Inteligência Artificial, Machine Learning;
+Pesquisa acadêmica ou publicações relevantes em inteligência artificial, IoT ou sistemas distribuídos;
+Pesquisa acadêmica ou publicações relevantes em inteligência artificial, IoT ou sistemas distribuídos;
+Experiência anterior em desenvolvimento full stack, com foco em projetos de alta complexidade e escalabilidade;
+Experiência anterior em desenvolvimento full stack, com foco em projetos de alta complexidade e escalabilidade;
+Experiência em comunicação em tempo real e sincronização de dados entre dispositivos;
+Experiência em comunicação em tempo real e sincronização de dados entre dispositivos;
+Fortes habilidades de resolução de problemas e pensamento analítico;
+Fortes habilidades de resolução de problemas e pensamento analítico;
+Capacidade de liderança e gerenciamento de projetos, com foco em resultados e prazos curtos;
+Capacidade de liderança e gerenciamento de projetos, com foco em resultados e prazos curtos;
+Inglês Fluente;
+Inglês Fluente;
+Certificações em arquitetura de software, como Certified Software Architect;
+Certificações em arquitetura de software, como Certified Software Architect;
+Certificações em nuvem (AWS Solutions Architect Professional, Azure Solutions Architect Expert);
+Certificações em nuvem (AWS Solutions Architect Professional, Azure Solutions Architect Expert);
+Cursos avançados ou especializações em sistemas distribuídos, inteligência artificial, IoT;
+Cursos avançados ou especializações em sistemas distribuídos, inteligência artificial, IoT;
+Domínio avançado de C++: Experiência sólida em programação avançada, incluindo gerenciamento de memória, otimização de desempenho e programação multithread; Conhecimento em templates, STL (Standard Template Library) e padrões modernos da linguagem (C++11/14/17); Familiaridade com bibliotecas como Boost e frameworks para desenvolvimento de sistemas de alto desempenho.
+Experiência sólida em programação avançada, incluindo gerenciamento de memória, otimização de desempenho e programação multithread; Conhecimento em templates, STL (Standard Template Library) e padrões modernos da linguagem (C++11/14/17); Familiaridade com bibliotecas como Boost e frameworks para desenvolvimento de sistemas de alto desempenho.
+Domínio avançado de Python: Proficiência em desenvolvimento back-end utilizando frameworks como Django, Flask ou FastAPI; Experiência com programação assíncrona em Python (asyncio, Aiohttp); Conhecimento em bibliotecas para processamento de dados e machine learning, como NumPy, Pandas, Scikit-learn; Expertise em bibliotecas e frameworks Python como TensorFlow, PyTorch, NumPy, Pandas, entre outros, incluindo otimização de desempenho, gestão de memória e programação paralela.
+Proficiência em desenvolvimento back-end utilizando frameworks como Django, Flask ou FastAPI; Experiência com programação assíncrona em Python (asyncio, Aiohttp); Conhecimento em bibliotecas para processamento de dados e machine learning, como NumPy, Pandas, Scikit-learn; Expertise em bibliotecas e frameworks Python como TensorFlow, PyTorch, NumPy, Pandas, entre outros, incluindo otimização de desempenho, gestão de memória e programação paralela.
+Design de Arquiteturas Escaláveis e Distribuídas: Capacidade de projetar sistemas distribuídos, resilientes e tolerantes a falhas; Experiência com arquiteturas de microserviços, incluindo comunicação inter-serviços e orquestração; Conhecimento em CQRS (Command Query Responsibility Segregation) e Event Sourcing.
+Capacidade de projetar sistemas distribuídos, resilientes e tolerantes a falhas; Experiência com arquiteturas de microserviços, incluindo comunicação inter-serviços e orquestração; Conhecimento em CQRS (Command Query Responsibility Segregation) e Event Sourcing.
+Integração e Processamento de Dados de IoT: Profundo entendimento de protocolos de comunicação IoT (MQTT, CoAP, AMQP); Experiência na ingestão, processamento e armazenamento de grandes volumes de dados em tempo real provenientes de dispositivos IoT; Conhecimento em middleware e plataformas IoT (e.g., AWS IoT Core, Azure IoT Hub); Sólidos conhecimentos em integração de dados via IoT e protocolos de comunicação (e.g., MQTT, HTTP, WebSockets); Sólida experiência com bancos de dados relacionais (PostgreSQL, MySQL) e não relacionais (MongoDB, Cassandra, InfluxDB); Capacidade de projetar esquemas de dados eficientes e escaláveis, incluindo sharding e replicação; Habilidade em desenvolvimento front-end utilizando HTML5, CSS3, JavaScript e frameworks como React, Angular ou Vue.js; Conhecimento em desenvolvimento de aplicativos móveis (iOS e Android) e tecnologias híbridas (e.g., React Native, Flutter).
+Profundo entendimento de protocolos de comunicação IoT (MQTT, CoAP, AMQP); Experiência na ingestão, processamento e armazenamento de grandes volumes de dados em tempo real provenientes de dispositivos IoT; Conhecimento em middleware e plataformas IoT (e.g., AWS IoT Core, Azure IoT Hub); Sólidos conhecimentos em integração de dados via IoT e protocolos de comunicação (e.g., MQTT, HTTP, WebSockets); Sólida experiência com bancos de dados relacionais (PostgreSQL, MySQL) e não relacionais (MongoDB, Cassandra, InfluxDB); Capacidade de projetar esquemas de dados eficientes e escaláveis, incluindo sharding e replicação; Habilidade em desenvolvimento front-end utilizando HTML5, CSS3, JavaScript e frameworks como React, Angular ou Vue.js; Conhecimento em desenvolvimento de aplicativos móveis (iOS e Android) e tecnologias híbridas (e.g., React Native, Flutter).
+APIs e Serviços Web: Expertise na criação de APIs RESTful robustas e eficientes; Conhecimento em GraphQL e arquitetura orientada a eventos; Implementação de mecanismos de segurança (OAuth, JWT) e práticas de versionamento de APIs.
+Expertise na criação de APIs RESTful robustas e eficientes; Conhecimento em GraphQL e arquitetura orientada a eventos; Implementação de mecanismos de segurança (OAuth, JWT) e práticas de versionamento de APIs.
+Padrões de Design e Melhores Práticas: Domínio de padrões de design de software (Singleton, Factory, Observer, etc.); Aplicação de princípios SOLID, DRY, KISS e YAGNI; Capacidade de avaliar e implementar arquiteturas hexagonais e orientadas a domínio (DDD).
+Domínio de padrões de design de software (Singleton, Factory, Observer, etc.); Aplicação de princípios SOLID, DRY, KISS e YAGNI; Capacidade de avaliar e implementar arquiteturas hexagonais e orientadas a domínio (DDD).
+Segurança da Aplicação e Dados: Conhecimento aprofundado em criptografia, gestão de identidade e controle de acesso; Implementação de práticas de segurança desde o design (Security by Design); Conformidade com regulamentos de proteção de dados (LGPD, GDPR).
+Conhecimento aprofundado em criptografia, gestão de identidade e controle de acesso; Implementação de práticas de segurança desde o design (Security by Design); Conformidade com regulamentos de proteção de dados (LGPD, GDPR).
+Computação em Nuvem e Infraestrutura: Proficiência em serviços de nuvem (AWS, Azure, Google Cloud), incluindo computação, armazenamento, rede e serviços gerenciados; Experiência com conteinerização e orquestração usando Docker e Kubernetes; Implementação de arquiteturas serverless e funções como serviço (FaaS).
+Proficiência em serviços de nuvem (AWS, Azure, Google Cloud), incluindo computação, armazenamento, rede e serviços gerenciados; Experiência com conteinerização e orquestração usando Docker e Kubernetes; Implementação de arquiteturas serverless e funções como serviço (FaaS).
+Desempenho e Escalabilidade: Experiência em otimização de desempenho, profiling e resolução de gargalos; Implementação de estratégias de caching distribuído (Redis, Memcached); 
+Experiência em otimização de desempenho, profiling e resolução de gargalos; Implementação de estratégias de caching distribuído (Redis, Memcached); 
+Capacidade de projetar sistemas que suportem alta carga e escalabilidade horizontal.
+Capacidade de projetar sistemas que suportem alta carga e escalabilidade horizontal.
+Integração Contínua e Entrega Contínua (CI/CD): Configuração de pipelines automatizados para build, teste e deploy; Conhecimento em ferramentas como Jenkins, GitLab CI/CD, CircleCI; 
+Configuração de pipelines automatizados para build, teste e deploy; Conhecimento em ferramentas como Jenkins, GitLab CI/CD, CircleCI; 
+Experiência com infraestrutura como código (IaC) usando Terraform ou Ansible.
+Experiência com infraestrutura como código (IaC) usando Terraform ou Ansible.
+Monitoramento e Observabilidade: Implementação de sistemas de monitoramento e alertas (Prometheus, Grafana, ELK Stack); Experiência com tracing distribuído e logging estruturado; 
+Implementação de sistemas de monitoramento e alertas (Prometheus, Grafana, ELK Stack); Experiência com tracing distribuído e logging estruturado; 
+Capacidade de analisar métricas e logs para prevenção e resolução de problema
+Capacidade de analisar métricas e logs para prevenção e resolução de problema
+Testes e Garantia de Qualidade: Implementação de testes unitários, de integração e funcionais; Uso de metodologias TDD (Test-Driven Development) e BDD (Behavior-Driven Development); 
+Implementação de testes unitários, de integração e funcionais; Uso de metodologias TDD (Test-Driven Development) e BDD (Behavior-Driven Development); 
+Experiência com frameworks de teste como pytest, Google Test, Selenium.
+Experiência com frameworks de teste como pytest, Google Test, Selenium.
+Projetos de Grande Escala: Histórico de participação em projetos que envolveram a construção de plataformas com milhões de usuários ou dispositivos conectados; Experiência em sistemas de missão crítica onde disponibilidade e confiabilidade são essenciais.
+Histórico de participação em projetos que envolveram a construção de plataformas com milhões de usuários ou dispositivos conectados; Experiência em sistemas de missão crítica onde disponibilidade e confiabilidade são essenciais.
+Inovação e Melhorias Contínuas: Proatividade na introdução de novas tecnologias e práticas que geraram melhorias significativas em produtos ou processos; Patentes, publicações ou contribuições relevantes para a comunidade tecnológica.
+Proatividade na introdução de novas tecnologias e práticas que geraram melhorias significativas em produtos ou processos; Patentes, publicações ou contribuições relevantes para a comunidade tecnológica.
+Visão Sistêmica e Estratégica: Capacidade de alinhar decisões técnicas com objetivos de negócio; Habilidade para avaliar trade-offs entre diferentes soluções arquiteturais; 
+Capacidade de alinhar decisões técnicas com objetivos de negócio; Habilidade para avaliar trade-offs entre diferentes soluções arquiteturais; 
+Experiência na definição de roadmaps técnicos e planos de evolução da arquitetura.
+Experiência na definição de roadmaps técnicos e planos de evolução da arquitetura.
+Mentoria e Desenvolvimento de Equipe: Habilidade para liderar times técnicos, promovendo melhores práticas e cultura de excelência; Experiência em conduzir code reviews, sessões de pair programming e workshops técnicos; Capacidade de inspirar e motivar a equipe para alcançar altos padrões de desempenho.
+Habilidade para liderar times técnicos, promovendo melhores práticas e cultura de excelência; Experiência em conduzir code reviews, sessões de pair programming e workshops técnicos; Capacidade de inspirar e motivar a equipe para alcançar altos padrões de desempenho.
+Comunicação e Colaboração: Excelente habilidade de comunicação para traduzir conceitos técnicos complexos para stakeholders não técnicos; Experiência em trabalhar colaborativamente com equipes multidisciplinares (produto, UX/UI, negócios).
+Excelente habilidade de comunicação para traduzir conceitos técnicos complexos para stakeholders não técnicos; Experiência em trabalhar colaborativamente com equipes multidisciplinares (produto, UX/UI, negócios).
+Experiência Internacional e Multicultural (desejável): Experiência Profissional Internacional, trabalhando em projetos globais ou em empresas de tecnologia de ponta no exterior; Fluência em Múltiplos Idiomas, facilitando a comunicação com equipes e parceiros internacionais; Compreensão de Mercados Globais, adaptando soluções para diferentes contextos culturais e regulatórios.
+INFORMAÇÕES ADICIONAIS
+Benefícios:Cartão Flash: Auxilio refeição/alimentação + Mobilidade 💳Ambiente Inovador: Oportunidade de trabalhar em um ambiente dinâmico e inovador, diretamente no setor de tecnologia aeroespacial 🚀.Impacto Direto: Influenciar diretamente o sucesso e a eficiência das nossas operações recrutando os melhores talentos do mercado 🎯.Equipe de Alto Desempenho: Colaborar com uma equipe experiente e engajada, comprometida com a excelência e inovação 🌟.
+BENEFÍCIOS:
+Cartão Flash: Auxilio refeição/alimentação + Mobilidade 💳
+💳
+Ambiente Inovador: Oportunidade de trabalhar em um ambiente dinâmico e inovador, diretamente no setor de tecnologia aeroespacial 🚀.
+Impacto Direto: Influenciar diretamente o sucesso e a eficiência das nossas operações recrutando os melhores talentos do mercado 🎯.
+Equipe de Alto Desempenho: Colaborar com uma equipe experiente e engajada, comprometida com a excelência e inovação 🌟.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista com RH2Entrevista com RH
+Etapa 2: Entrevista com RH
+2
+Entrevista com RH
+Etapa 3: Entrevista com Gerente3Entrevista com Gerente
+Etapa 3: Entrevista com Gerente
+3
+Entrevista com Gerente
+Etapa 4: Contratação4Contratação
+Etapa 4: Contratação
+4
+Contratação
+TRANSFORME O FUTURO DA AGRICULTURA COM A PSYCHE AEROSPACE!
+Na Psyche Aerospace, estamos revolucionando a agricultura brasileira com tecnologias de ponta que elevam a produtividade e a sustentabilidade no campo 🌾. Como uma startup pioneira, desafiamos o convencional para criar soluções verdadeiramente disruptivas.
+Temos orgulho de produzir o maior drone agrícola autônomo do mundo, o Harpia P-71. Nossa inovação 100% autônoma transformará a pulverização em grandes lavouras com a capacidade de cobrir até 5.000 hectares em apenas 24 horas ⏳. A tecnologia de pulverização eletrostática do Harpia P-71 garante uma aplicação precisa e econômica de defensivos, maximizando a eficácia no controle de pragas, aumentando a sustentabilidade e minimizando desperdícios 💧.
+Se você quer fazer parte de uma equipe que está moldando o futuro da agricultura com inovação e impacto, explore nossas oportunidades de carreira 🌟.
+Junte-se a nós e ajude a escrever o próximo capítulo da revolução agro!
+SIGA-NOS!
+Website
+LinkedIn
+Facebook
+Instagram

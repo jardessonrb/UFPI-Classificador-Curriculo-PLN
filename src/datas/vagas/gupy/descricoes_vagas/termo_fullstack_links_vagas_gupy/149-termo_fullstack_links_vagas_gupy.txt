@@ -1,0 +1,123 @@
+link_vaga-https://kmm.gupy.io/job/eyJqb2JJZCI6Nzk4NTUwMCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR FULLSTACK JR (REACT/NODE)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Mais do que simples fornecedores de tecnologia, nos destacamos como verdadeiros especialistas em logística. Nossas soluções são moldadas pela vasta experiência que acumulamos ao longo dos anos, refletindo a sabedoria e os aprendizados adquiridos ao longo de nossa jornada. É essa expertise que nos capacita a oferecer uma abordagem personalizada e altamente eficaz para cada cliente. 
+Mais do que simples fornecedores de tecnologia, nos destacamos como verdadeiros especialistas em logística. Nossas soluções são moldadas pela vasta experiência que acumulamos ao longo dos anos, refletindo a sabedoria e os aprendizados adquiridos ao longo de nossa jornada. É essa expertise que nos capacita a oferecer uma abordagem personalizada e altamente eficaz para cada cliente. 
+ 
+ 
+Por mais de 25 anos, trabalhamos com operações logísticas de grande escala, servindo a uma variedade de setores, incluindo indústrias, varejistas, operadores logísticos e transportadoras. Mantendo um olhar perspicaz sobre as tendências do mercado, desenvolvemos sistemas adaptáveis que se ajustam às necessidades em constante evolução de nossos clientes. 
+Por mais de 25 anos, trabalhamos com operações logísticas de grande escala, servindo a uma variedade de setores, incluindo indústrias, varejistas, operadores logísticos e transportadoras. Mantendo um olhar perspicaz sobre as tendências do mercado, desenvolvemos sistemas adaptáveis que se ajustam às necessidades em constante evolução de nossos clientes. 
+ 
+Nossa trajetória de pioneirismo ao longo dos últimos anos nos proporcionou um amplo know-how e expertise em todas as nuances do setor logístico. Essa jornada nos permitiu acumular valiosa experiência e nos destacar como líderes em oferecer as melhores práticas do mercado. 
+Nossa trajetória de pioneirismo ao longo dos últimos anos nos proporcionou um amplo know-how e expertise em todas as nuances do setor logístico. Essa jornada nos permitiu acumular valiosa experiência e nos destacar como líderes em oferecer as melhores práticas do mercado. 
+ 
+Além de nosso conhecimento aprofundado, a segurança é uma prioridade essencial para nós. Somos certificados pela ISO/IEC 27001, garantindo que adotemos os mais rigorosos padrões em segurança da informação, demonstrando nosso compromisso com a proteção de nossos parceiros e clientes. 
+Além de nosso conhecimento aprofundado, a segurança é uma prioridade essencial para nós. 
+, garantindo que adotemos os mais rigorosos padrões em segurança da informação, demonstrando nosso compromisso com a proteção de nossos parceiros e clientes. 
+ 
+Estamos em busca de profissionais apaixonados e determinados para se juntarem a nós como ***Desenvolvedor Jr***. Se você tem vontade de aprender, transformar a logística e mobilidade e fazer a diferença, essa é a sua oportunidade! 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolvimento de aplicações web fullstack utilizando React no frontend e Node.js no backend.Integração de APIs RESTful e serviços web com foco em performance e escalabilidade.Desenvolvimento de consultas, procedimentos e manutenção de bancos de dados utilizando SQL Server.Colaborar com equipes de design e produto para transformar requisitos de negócios em soluções técnicas eficientes.Garantir a qualidade do código através de testes unitários e de integração.Participar de revisões de código, propondo melhorias e boas práticas de desenvolvimento.Resolver problemas técnicos e implementar novas funcionalidades com eficiência.
+Desenvolvimento de aplicações web fullstack utilizando React no frontend e Node.js no backend.
+Integração de APIs RESTful e serviços web com foco em performance e escalabilidade.
+Desenvolvimento de consultas, procedimentos e manutenção de bancos de dados utilizando SQL Server.
+Colaborar com equipes de design e produto para transformar requisitos de negócios em soluções técnicas eficientes.
+Garantir a qualidade do código através de testes unitários e de integração.
+Participar de revisões de código, propondo melhorias e boas práticas de desenvolvimento.
+Resolver problemas técnicos e implementar novas funcionalidades com eficiência.
+REQUISITOS E QUALIFICAÇÕES
+Experiência comprovada em desenvolvimento fullstack utilizando React e Node.js.Domínio em SQL Server para manipulação de dados e consultas complexas.Conhecimentos sólidos em HTML5, CSS3, JavaScript (ES6+).Experiência com desenvolvimento e integração de APIs RESTful.Familiaridade com controle de versão utilizando Git.Noções de segurança em aplicações web e boas práticas de codificação.Experiência com metodologias ágeis, como Scrum ou Kanban.
+Experiência comprovada em desenvolvimento fullstack utilizando React e Node.js.
+Domínio em SQL Server para manipulação de dados e consultas complexas.
+Conhecimentos sólidos em HTML5, CSS3, JavaScript (ES6+).
+Experiência com desenvolvimento e integração de APIs RESTful.
+Familiaridade com controle de versão utilizando Git.
+Noções de segurança em aplicações web e boas práticas de codificação.
+Experiência com metodologias ágeis, como Scrum ou Kanban.
+INFORMAÇÕES ADICIONAIS
+O que esperamos de você: 
+ 
+No KMM by nstech, temos uma cultura baseada em valores e esperamos que todos os nstechers não apenas se identifiquem, mas também vivam essa cultura em seu dia a dia.  
+ 
+Acreditamos que a cultura é uma das maiores vantagens competitivas para negócios bem-sucedidos, pois é algo que não pode ser copiado integralmente. 
+ 
+Nossos pilares culturais e seus atributos são: 
+ 
+• Servir: foco no cliente, humildade, transparência e ética; 
+• Equipe: valorizamos o trabalho em equipe, a vontade de colocar a mão na massa e o espírito colaborativo; 
+• Resultados: buscamos agilidade, melhoria contínua, geração de valor a longo prazo e foco nos resultados. 
+ 
+Por que fazer parte da nstech? 
+ 
+Temos a visão de ser a plataforma de tecnologia para logística e mobilidade que conecta os elos e gera mais valor para os negócios da rede integrada de logística da América Latina.  
+ 
+Atualmente, contamos com uma equipe de mais de 5 mil nstechers comprometidos em melhorar o mundo por meio da tecnologia aplicada à logística e mobilidade.  
+ 
+Estamos empenhados em gerar impacto para a sociedade, clientes, colaboradores e acionistas, e queremos somar forças com pessoas cheias de energia e propósito para fazer parte de nossa equipe e dessa transformação. Além disso: 
+ 
+🌎 Você trabalhará com uma equipe que desenvolve a maior plataforma de logística da América Latina. 
+ 
+🤓 Nosso ambiente de trabalho é altamente colaborativo, e adoramos compartilhar conhecimentos. Aqui, você terá oportunidades de desenvolvimento técnico.  
+ 
+🪪 A vaga é para contratação CLT, com todos os benefícios dessa modalidade. 
+ 
+💚 Plano de saúde com baixa coparticipação. 
+ 
+🦷 Convênio odontológico totalmente custeado pela empresa. 
+ 
+❤️ Seguro de vida para proteção e tranquilidade, também totalmente custeado pela empresa. 
+ 
+💳 Você também receberá um benefício flexível para usar em refeições ou alimentação 
+ 
+💆🏋️‍♂️ Para promover um ambiente equilibrado e cuidar do seu bem-estar, incluímos o Gympass e o Zenklub em nossos benefícios, proporcionando acesso a atividades físicas e serviços de bem-estar mental. 
+ 
+🥳 No dia do seu aniversário, você terá um dia de folga para aproveitar. 
+ 
+Vem fazer parte da nstech e dessa transformação! 🚀 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista Gente e Gestão2Entrevista Gente e Gestão
+Etapa 2: Entrevista Gente e Gestão
+2
+Entrevista Gente e Gestão
+Etapa 3: Entrevista com Head da área3Entrevista com Head da área
+Etapa 3: Entrevista com Head da área
+3
+Entrevista com Head da área
+Etapa 4: Carta Proposta4Carta Proposta
+Etapa 4: Carta Proposta
+4
+Carta Proposta
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+JUNTE-SE A NÓS! 🚀
+Somos nstech, a mais completa plataforma open logistics do mundo e estamos construindo o futuro digital do transporte de cargas junto a todo o ecossistema logístico. Nosso objetivo é impactar a sociedade de forma positiva, reduzindo a poluição, o trânsito, as mortes nas estradas e os custos logísticos. Além disso, impulsionamos o crescimento econômico, a equidade salarial, a diversidade e o desenvolvimento pessoal e profissional.
+ 
+Pensamos grande e temos um sonho ousado: melhorar o mundo através da tecnologia para logística e mobilidade. Já estamos presentes em 11 países - Brasil, EUA, México, Colômbia, Peru, Equador, Bolívia, Chile, Argentina, Portugal, Angola - e continuamos expandindo nosso impacto pelo mundo.
+ 
+Ao se juntar à nstech, você fará parte de uma equipe apaixonada por inovação, tecnologia e transformação. Terá a oportunidade de trabalhar em projetos desafiadores e de grande escala, colaborando com profissionais talentosos e diversificados. Aqui, valorizamos o aprendizado contínuo, o crescimento profissional e o ambiente de trabalho colaborativo.
+ 
+Se você está em busca de um ambiente dinâmico, onde suas habilidades e paixão pela tecnologia podem fazer a diferença, venha ser nstecher e fazer parte da construção do futuro da logística e mobilidade!
+ 
+CERTIFICAÇÃO QMS: A nstech é certificada pelo Selo ESG de Negócio Sustentável. Esse registro destaca empresas que oferecem benefícios sociais e ambientais e atuam efetivamente na construção de um sistema econômico mais inclusivo, equitativo e regenerativo para as pessoas e para o planeta.
+DESEJA SABER MAIS SOBRE O KMM BY NSTECH?
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

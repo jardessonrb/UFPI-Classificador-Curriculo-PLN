@@ -1,0 +1,106 @@
+link_vaga-https://desenvolvimento-web.gupy.io/job/eyJqb2JJZCI6ODAzMzQ5OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+FULL STACK (FRONT END E BACK END) - ARACAJU - SE
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+DESCRIÇÃO DA VAGA
+Estamos à procura de um Desenvolvedor Full Stack (Front End e Back End) dinâmico e proativo para integrar nossa equipe de Desenvolvimento / Suporte e atendimento a clientes em Sergipe. O profissional será responsável por fornecer suporte técnico e manutenção em projetos de sites e landing pages, garantindo a satisfação dos nossos clientes e a resolução eficaz de problemas técnicos.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Responsabilidades e atribuições (principais):Prestar suporte técnico a clientes, respondendo a dúvidas e resolvendo problemas relacionados a sites e landing pages.Manter e atualizar sites e landing pages, corrigindo bugs e otimizando o desempenho.Desenvolver e implementar soluções tanto no front-end quanto no back-end para atender às necessidades dos clientes.Colaborar com a equipe de desenvolvimento para resolver problemas técnicos complexos e implementar melhorias.Realizar testes e validações em diferentes navegadores e dispositivos para garantir a compatibilidade e a funcionalidade.Documentar processos de suporte, atualizações realizadas e soluções implementadas.Participar de reuniões com clientes para entender suas necessidades e fornecer feedback técnico.Contribuir para a melhoria contínua dos processos de suporte e atendimento.
+Responsabilidades e atribuições (principais):
+Prestar suporte técnico a clientes, respondendo a dúvidas e resolvendo problemas relacionados a sites e landing pages.
+Prestar suporte técnico a clientes, respondendo a dúvidas e resolvendo problemas relacionados a sites e landing pages.
+Manter e atualizar sites e landing pages, corrigindo bugs e otimizando o desempenho.
+Manter e atualizar sites e landing pages, corrigindo bugs e otimizando o desempenho.
+Desenvolver e implementar soluções tanto no front-end quanto no back-end para atender às necessidades dos clientes.
+Desenvolver e implementar soluções tanto no front-end quanto no back-end para atender às necessidades dos clientes.
+Colaborar com a equipe de desenvolvimento para resolver problemas técnicos complexos e implementar melhorias.
+Colaborar com a equipe de desenvolvimento para resolver problemas técnicos complexos e implementar melhorias.
+Realizar testes e validações em diferentes navegadores e dispositivos para garantir a compatibilidade e a funcionalidade.
+Realizar testes e validações em diferentes navegadores e dispositivos para garantir a compatibilidade e a funcionalidade.
+Documentar processos de suporte, atualizações realizadas e soluções implementadas.
+Documentar processos de suporte, atualizações realizadas e soluções implementadas.
+Participar de reuniões com clientes para entender suas necessidades e fornecer feedback técnico.
+Participar de reuniões com clientes para entender suas necessidades e fornecer feedback técnico.
+Contribuir para a melhoria contínua dos processos de suporte e atendimento.
+Contribuir para a melhoria contínua dos processos de suporte e atendimento.
+REQUISITOS E QUALIFICAÇÕES
+Indispensável:Experiência sólida em desenvolvimento front-end com HTML, CSS e JavaScript.Experiência sólida em desenvolvimento back-end com PHP ou outras linguagens.Experiência sólida com sistemas de controle de versão, como Git.Experiência sólida com frameworks e bibliotecas como Bootstrap.Experiência com bancos de dados (MySQL)Conhecimentos de conceitos de orientação a objetos e estrutura de dados.Habilidade para solucionar problemas técnicos de forma eficiente e eficaz.Excelentes habilidades de comunicação verbal e escrita.Capacidade de trabalhar em equipe e colaborar com a equipe de desenvolvimento para resolver problemas técnicos e implementar melhorias.Desejo de aprender e se desenvolver na área de suporte e atendimento técnico.Atenção aos detalhes e compromisso com a qualidade do trabalho.Capacidade de trabalhar de forma colaborativa em equipe, comunicar-se efetivamente e gerenciar prazos.Desejável:Experiência com frameworks e bibliotecas como, jQuery, React ou Vue.jsExperiência prévia em atendimento ao cliente ou suporte técnico.Experiência em otimização de performance e SEO para websites.Conhecimento em metodologias ágeis;Conhecimento em tecnologias IA;Conhecimento em ferramentas de Automação (Zapier, N8N, Make)Conhecimento de boas práticas de acessibilidade na web.Ter experiência com alguma ferramenta de UI Design (de preferência Figma)
+Indispensável:
+Experiência sólida em desenvolvimento front-end com HTML, CSS e JavaScript.
+Experiência sólida em desenvolvimento front-end com HTML, CSS e JavaScript.
+Experiência sólida em desenvolvimento back-end com PHP ou outras linguagens.
+Experiência sólida em desenvolvimento back-end com PHP ou outras linguagens.
+Experiência sólida com sistemas de controle de versão, como Git.
+Experiência sólida com sistemas de controle de versão, como Git.
+Experiência sólida com frameworks e bibliotecas como Bootstrap.
+Experiência sólida com frameworks e bibliotecas como Bootstrap.
+Experiência com bancos de dados (MySQL)
+Experiência com bancos de dados (MySQL)
+Conhecimentos de conceitos de orientação a objetos e estrutura de dados.
+Conhecimentos de conceitos de orientação a objetos e estrutura de dados.
+Habilidade para solucionar problemas técnicos de forma eficiente e eficaz.
+Habilidade para solucionar problemas técnicos de forma eficiente e eficaz.
+Excelentes habilidades de comunicação verbal e escrita.
+Excelentes habilidades de comunicação verbal e escrita.
+Capacidade de trabalhar em equipe e colaborar com a equipe de desenvolvimento para resolver problemas técnicos e implementar melhorias.
+Capacidade de trabalhar em equipe e colaborar com a equipe de desenvolvimento para resolver problemas técnicos e implementar melhorias.
+Desejo de aprender e se desenvolver na área de suporte e atendimento técnico.
+Desejo de aprender e se desenvolver na área de suporte e atendimento técnico.
+Atenção aos detalhes e compromisso com a qualidade do trabalho.
+Atenção aos detalhes e compromisso com a qualidade do trabalho.
+Capacidade de trabalhar de forma colaborativa em equipe, comunicar-se efetivamente e gerenciar prazos.
+Capacidade de trabalhar de forma colaborativa em equipe, comunicar-se efetivamente e gerenciar prazos.
+Desejável:
+Experiência com frameworks e bibliotecas como, jQuery, React ou Vue.js
+Experiência com frameworks e bibliotecas como, jQuery, React ou Vue.js
+Experiência prévia em atendimento ao cliente ou suporte técnico.
+Experiência prévia em atendimento ao cliente ou suporte técnico.
+Experiência em otimização de performance e SEO para websites.
+Experiência em otimização de performance e SEO para websites.
+Conhecimento em metodologias ágeis;
+Conhecimento em metodologias ágeis;
+Conhecimento em tecnologias IA;
+Conhecimento em tecnologias IA;
+Conhecimento em ferramentas de Automação (Zapier, N8N, Make)
+Conhecimento em ferramentas de Automação (Zapier, N8N, Make)
+Conhecimento de boas práticas de acessibilidade na web.
+Conhecimento de boas práticas de acessibilidade na web.
+Ter experiência com alguma ferramenta de UI Design (de preferência Figma)
+Ter experiência com alguma ferramenta de UI Design (de preferência Figma)
+INFORMAÇÕES ADICIONAIS
+Vale alimentação (Cartão Flash);Plano de saúde Unimed;Plano odontológico;Auxilio home office;Folga na data do aniversário;Ambiente inovador, excelente clima organizacional e cultura forte;Desenvolvimento pessoal e profissional acelerado;Trabalhar com pessoas super talentosas;Adquirir conhecimentos e habilidades sobre empresas de tecnologia e Experiência do Cliente;
+Vale alimentação (Cartão Flash);
+Plano de saúde Unimed;
+Plano odontológico;
+Auxilio home office;
+Folga na data do aniversário;
+Ambiente inovador, excelente clima organizacional e cultura forte;
+Desenvolvimento pessoal e profissional acelerado;
+Trabalhar com pessoas super talentosas;
+Adquirir conhecimentos e habilidades sobre empresas de tecnologia e Experiência do Cliente;
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista com o RH2Entrevista com o RH
+Etapa 2: Entrevista com o RH
+2
+Entrevista com o RH
+Etapa 3: Avaliação Técnica3Avaliação Técnica
+Etapa 3: Avaliação Técnica
+3
+Avaliação Técnica
+Etapa 4: Entrevista com Gestor4Entrevista com Gestor
+Etapa 4: Entrevista com Gestor
+4
+Entrevista com Gestor
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação

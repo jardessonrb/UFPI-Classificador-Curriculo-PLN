@@ -1,0 +1,87 @@
+link_vaga-https://webmotors.gupy.io/job/eyJqb2JJZCI6Nzc4OTQ2Miwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE DADOS PLENO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+DESCRIÇÃO DA VAGA
+Procuramos uma pessoa Analista de Dados Pleno para se juntar ao nosso time de dados da Webmotors! Estamos em busca de pessoas que compartilhem nossa paixão por dados e inovação. Nosso ambiente é dinâmico, colaborativo e centrado no cliente.
+Procuramos uma pessoa Analista de Dados Pleno para se juntar ao nosso time de dados da Webmotors! Estamos em busca de pessoas que compartilhem nossa paixão por dados e inovação. Nosso ambiente é dinâmico, colaborativo e centrado no cliente.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Responsável pelo self service dos dados da squad;Responsável por projetar, criar, manter e aprimorar pipelines de dados escaláveis, monitoráveis e eficientes, garantindo a integridade e disponibilidade dos dados no Lake;Responsável por coletar, limpar e preparar dados, garantindo a precisão e o formato adequado para análise;Responsável por gerar visualizações de dados, desenvolvendo dashboards de fácil compreensão e que gerem insights.Traduzir as necessidades de negócios em soluções e produtos alinhados com as ferramentas e que gerem resultado;Contribuir estrategicamente para a jornada data driven, promovendo a cultura de dados e tomando decisões baseadas em dados;Trabalhar sempre em parceria com os times de Ciência de Dados, Analytics Engineer, Web Analytics e Governança de Dados;Documenta aprendizados e evidências que podem ser úteis para outras soluções;Faz a comunicação para os stakeholders das evoluções do backlog;Criação e atualização de documentação de regras de negócio;Acompanhamento da concorrência, mercado e visitas clientes para gerar insights para o negócio.
+Responsável pelo self service dos dados da squad;
+Responsável pelo self service dos dados da squad;
+Responsável por projetar, criar, manter e aprimorar pipelines de dados escaláveis, monitoráveis e eficientes, garantindo a integridade e disponibilidade dos dados no Lake;
+Responsável por coletar, limpar e preparar dados, garantindo a precisão e o formato adequado para análise;
+Responsável por gerar visualizações de dados, desenvolvendo dashboards de fácil compreensão e que gerem insights.
+Traduzir as necessidades de negócios em soluções e produtos alinhados com as ferramentas e que gerem resultado;
+Contribuir estrategicamente para a jornada data driven, promovendo a cultura de dados e tomando decisões baseadas em dados;
+Trabalhar sempre em parceria com os times de Ciência de Dados, Analytics Engineer, Web Analytics e Governança de Dados;
+Documenta aprendizados e evidências que podem ser úteis para outras soluções;
+Faz a comunicação para os stakeholders das evoluções do backlog;
+Criação e atualização de documentação de regras de negócio;
+Acompanhamento da concorrência, mercado e visitas clientes para gerar insights para o negócio.
+REQUISITOS E QUALIFICAÇÕES
+Ter ano menos 2 anos de experiência como analista de dados;Conhecimento avançado em SQL;Conhecimento avançado em Powerbi;Conhecimentos sobre diferentes técnicas de arquitetura e modelagem de Banco de Dados para fins analíticos (Ex. Data Mart, Data Lake, Data Warehouse, etc);Conhecimento intermediário com ferramentas de orquestração de pipelines de dados;Boas habilidades de apresentação executiva;Boas habilidades de comunicação para lidar com as partes interessadas de áreas técnicas e áreas de negócios;Capacidade de abstrair conceitos de negócios em métricas quantitativas;Protagonismo;Boa organização e gestão do tempo;Criatividade para propor novas iniciativas e curiosidade para ir além dos modelos atuais;Flexibilidade e capacidade de se adaptar em cenários adversos;Ter senso de urgência para atuar em imprevistos.Diferencial:Ter atuado no mercado automotivo;Ter atuado com Databricks;Conhecimento em Spark;Conhecimento de Delta Table;Conhecimento em Python.
+Ter ano menos 2 anos de experiência como analista de dados;
+Conhecimento avançado em SQL;
+Conhecimento avançado em Powerbi;
+Conhecimentos sobre diferentes técnicas de arquitetura e modelagem de Banco de Dados para fins analíticos (Ex. Data Mart, Data Lake, Data Warehouse, etc);
+Conhecimentos sobre diferentes técnicas de arquitetura e 
+ (Ex. Data Mart, Data Lake, Data Warehouse, etc);
+Conhecimento intermediário com ferramentas de orquestração de pipelines de dados;
+Conhecimento intermediário com ferramentas de
+;
+Boas habilidades de apresentação executiva;
+Boas habilidades de comunicação para lidar com as partes interessadas de áreas técnicas e áreas de negócios;
+Boas habilidades de comunicação para lidar com as partes interessadas de áreas técnicas e áreas de negócios;
+Capacidade de abstrair conceitos de negócios em métricas quantitativas;
+Capacidade de abstrair conceitos de negócios em métricas quantitativas;
+Protagonismo;
+Boa organização e gestão do tempo;
+Criatividade para propor novas iniciativas e curiosidade para ir além dos modelos atuais;
+Flexibilidade e capacidade de se adaptar em cenários adversos;
+Ter senso de urgência para atuar em imprevistos.
+Diferencial:
+Diferencial:
+Ter atuado no mercado automotivo;
+Ter atuado com Databricks;
+Ter atuado com Databricks;
+Conhecimento em Spark;
+Conhecimento em Spark;
+Conhecimento de Delta Table;
+Conhecimento de Delta Table;
+Conhecimento em Python.
+Conhecimento em Python.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Contratação2Contratação
+Etapa 2: Contratação
+2
+Contratação
+A WEBMOTORS
+Aqui na Webmotors respeito e inclusão fazem parte dos nossos itens de série. Acreditamos que as diferenças somam e por isso, #diversidade é um de nossos pilares. Então, candidaturas de pessoas #pretas, #mulheres, #PCD, #LGBTQIA+ e #melhoridade são muito bem-vindas! ;)
+Aqui na Webmotors respeito e inclusão fazem parte dos nossos itens de série. Acreditamos que as diferenças somam e por isso, #diversidade é um de nossos pilares. Então, candidaturas de pessoas #pretas, #mulheres, #PCD, #LGBTQIA+ e #melhoridade são muito bem-vindas! ;)
+Estamos há 29 anos na estrada e fomos a primeira startup brasileira a inovar na forma de comprar e vender carros e motos. Nesses anos, não paramos de acelerar e evoluímos para muuuuito além dos classificados! Contamos com acionistas super estratégicos e robustos, o Grupo Santander e australiana Car Sales, e juntos criamos um ecossistema de soluções, uma vez que queremos estar com os nossos clientes ao longo da sua jornada de compra, venda e uso de veículos.
+ 
+Hoje somos líderes de mercado e o ecossistema mais completo do segmento! Mas fica tranquilo, porque o que não falta é combustível para acelerar ainda mais. Com uma visão consolidada, nós queremos ganhar o mundo (e já estamos acelerando nesse percurso).
+ 
+Somos um time de pilotos movido pela inovação e pelo entusiasmo. Ninguém gosta de mesmice e o nosso motor é um v8 pulsante com mais de 200 cavalos. Aceleramos juntos pelo mesmo objetivo, afinal aqui ninguém é passageiro!
+ 
+Na Web a gente une o melhor de dois mundos: a inovação e fluidez de uma startup, e a solidez financeira de um grande banco. E as 6 marchas que nos guiam no dia a dia, para mudar, crescer, melhorar e fazer mais, são: diversidade, excelência, empatia, ousadia, transparência e inconformismo.
+ 
+E você? Também acredita que a criatividade, inovação e a mobilidade podem nos levar mais longe?
+ 
+Então aperta o cinto e bora pisar fundo, porque aqui é do melhor jeito. O seu jeito! ;)
+CONHEÇA UM POUCO MAIS A GENTE :)
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

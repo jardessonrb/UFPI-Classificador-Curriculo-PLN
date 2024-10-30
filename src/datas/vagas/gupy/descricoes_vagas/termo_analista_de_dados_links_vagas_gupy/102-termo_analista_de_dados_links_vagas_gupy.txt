@@ -1,0 +1,96 @@
+link_vaga-https://clinicorp.gupy.io/job/eyJqb2JJZCI6NzYyMzI1MSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE BANCO DE DADOS SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A Clinicorp é uma empresa de tecnologia que oferece uma plataforma de gestão de clinicas para clinicas odontológicas e estética, para isso possui áreas de tecnologia como: Desenvolvimento de software, Arquitetura de sistemas, DevOps, Infraestrutura, QA, Segurança da Informação e SRE.
+Nossa plataforma está disponível no modelo SaaS e atuamos ajudando os profissionais de odontologia e estética na gestão de clinicas em todo o Brasil.
+Como Analista de banco de Dados Sênior, você atuará como responsável por projetar, implementar e manter sistemas de banco de dados críticos para o funcionamento eficiente e seguro da empresa.
+RESPONSABILIDADES E ATRIBUIÇÕES
+• Administrar e manter Banco de Dados, incluindo Cloud SQL, Scanner, MySql, PostgreSQ, Big query;• Provisionará instâncias e integração com serviços e ferramentas;• Monitorar o desempenho;• Realizará estudo e definição de estratégias de uso e armazenamento com base nas melhores práticas;• Habilidade em desenvolver desenho de arquitetura da infraestrutura dos bancos e suas dependências;• Atuação em melhoria contínua na infraestrutura e processos;• Realizar backup e recuperação de dados, garantindo a continuidade dos negócios;• Colaborar com equipes de desenvolvimento para otimizar consultas e garantir a eficiência dos sistemas;• Gerenciar a capacidade de armazenamento e realizar previsões de crescimento;• Fornecer suporte técnico e resolver problemas relacionados aos bancos de dados.
+• Administrar e manter Banco de Dados, incluindo Cloud SQL, Scanner, MySql, PostgreSQ, Big query;
+• Provisionará instâncias e integração com serviços e ferramentas;
+• Monitorar o desempenho;
+• Realizará estudo e definição de estratégias de uso e armazenamento com base nas melhores práticas;
+• Habilidade em desenvolver desenho de arquitetura da infraestrutura dos bancos e suas dependências;
+• Atuação em melhoria contínua na infraestrutura e processos;
+• Realizar backup e recuperação de dados, garantindo a continuidade dos negócios;
+• Colaborar com equipes de desenvolvimento para otimizar consultas e garantir a eficiência dos sistemas;
+• Gerenciar a capacidade de armazenamento e realizar previsões de crescimento;
+• Fornecer suporte técnico e resolver problemas relacionados aos bancos de dados.
+REQUISITOS E QUALIFICAÇÕES
+• Formação Superior em áreas de Ciências da computação, Engenharia de software, Analise de sistemas, Sistemas de informação, Gestão de Banco de dados e outras relacionadas; 
+• Vivência sólida em ambientes de Cloud GCP e AWS;
+• Vivência sólida em administração de banco de dados;
+• Vivência sólida em Banco de Dados SQL server, NoSQL, Postgree, RDS e outros;
+• Vivência sólida em modelagem de dados;
+• Vivência sólida em linguagem procedural;
+• Vivência sólida em migração de dados;
+• Vivência sólida em rotinas de movimentação de dados backup/restore e procedimento failover;
+• Vivência sólida em monitoramento, performance e tunning de desempenho e otimização de consultas;
+• Vivência sólida em práticas de segurança de banco de dados;
+• Habilidade de resolução de problemas e pensamento crítico.
+Diferencial:
+• Conhecimento em banco de dados GCP: Cloud SQL, Spanner, Datastore, Big query;
+﻿• Certificação em banco de dados
+INFORMAÇÕES ADICIONAIS
+E quais os benefícios eu terei como Clinicorper na modalidade CLT? São v-á-r-i-o-s!
+Área de alimentação com frutas e café*
+Aulas de inglês - In Company 
+Auxílio creche para filhos entre 0 e 6 anos
+Auxílio Cultura
+Auxílio estudo
+Bônus anual
+Cartão Alimentação Caju
+CliniLounge (área de descompressão para descanso e jogos)*
+Convênio rede Droga Raia e Drogasil para compra de medicamentos
+Consultoria financeira BTG
+Day Off no mês do aniversário
+Kit licença maternidade e paternidade
+Parcerias exclusivas: descontos em estabelecimentos comerciais de Jaraguá do Sul e região, como restaurantes, faculdades, entre outros*
+Plano de Saúde e Odontológico Bradesco
+Plano de Saúde Unimed Personal*
+Programa Empresa Cidadã (licença maternidade e paternidade estendida)
+Seguro de Vida
+Vale Transporte
+Wellhub (rede de academias e aplicativos de bem-estar), um ambiente incrível e muito mais 🧡
+Deu match? Se inscreve aí 🧡
+* Benefícios disponíveis na cidade de Jaraguá do Sul (SC)
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Meeting com o Talent Acquisition 😉2Meeting com o Talent Acquisition 😉
+Etapa 2: Meeting com o Talent Acquisition 😉
+2
+Meeting com o Talent Acquisition 😉
+Etapa 3: Conhecendo a liderança… 🗣️3Conhecendo a liderança… 🗣️
+Etapa 3: Conhecendo a liderança… 🗣️
+3
+Conhecendo a liderança… 🗣️
+Etapa 4: Mostre suas habilidades.... Vamos para o desafio! 💪 4Mostre suas habilidades.... Vamos para o desafio! 💪 
+Etapa 4: Mostre suas habilidades.... Vamos para o desafio! 💪 
+4
+Mostre suas habilidades.... Vamos para o desafio! 💪 
+Etapa 5: Último alinhamento 🤞5Último alinhamento 🤞
+Etapa 5: Último alinhamento 🤞
+5
+Último alinhamento 🤞
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+CONHEÇA NOSSO TIME
+A Clinicorp busca entregar uma solução de gerenciamento completa para clínicas de saúde, beleza e bem-estar.
+Todos os Clinicorpers carregam consigo os valores daquilo que fazemos, que é solucionar as dores de nossos clientes com foco na entrega de resultados e no sucesso do cliente.
+Somos uma empresa repleta de oportunidades incríveis e a jornada é intensa. Estamos em crescimento constante, por isso gostamos de adquirir e desenvolver talentos.
+Quer fazer parte desse time que faz a diferença? Então fique ligado nas vagas disponíveis em nosso #teamclinicorp.

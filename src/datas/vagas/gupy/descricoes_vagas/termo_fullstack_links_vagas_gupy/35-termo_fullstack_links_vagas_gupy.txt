@@ -1,0 +1,112 @@
+link_vaga-https://paytrack.gupy.io/job/eyJqb2JJZCI6Nzk3MDcyNSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR(A) FULLSTACK PLENO {OFFERS}
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Se você é apaixonado por resolver problemas e desenvolver soluções, e quer trabalhar com tecnologias de ponta em um ambiente dinâmico, esta vaga é para você!
+Somos uma scale-up com resultados incríveis, crescendo rápido e ainda com muito a ser estruturado, criado, testado, adaptado, expandido - grande oportunidade para colocar em prática seus conhecimentos, ser muito reconhecido, deixar sua marca na nossa história (e uma marcona no seu currículo). Buscamos resultados ambiciosos para os próximos anos e atingi-los só depende de nós - trabalhando juntos e próximos.
+Você se juntará à equipe Offers, um time multidisciplinar dedicado a transformar a experiência de viagens. Nosso objetivo é oferecer aos viajantes uma vasta gama de ofertas, com preços competitivos e informações detalhadas, garantindo uma jornada incrível desde a pesquisa até a finalização da compra.
+Trabalhar conosco significa estar envolvido em todas as fases do desenvolvimento do produto, desde a concepção até a entrega e o pós-entrega. Utilizamos Kanban e valorizamos a colaboração em cada etapa. Nosso ambiente é 100% na nuvem (AWS), e você trabalhará com tecnologias modernas e desafiadoras.
+Somos uma empresa de pessoas inovadoras, criativas e diversas, então estamos super abertos a recebê-lo(a) com a sua diversidade 🚀
+💡 Nossa stack tecnológica é:
+Backend: Java 17 (Springboot e Quarkus)
+Frontend: React e AngularJS
+Nuvem: AWS (100% Cloud)
+App: Flutter
+RESPONSABILIDADES E ATRIBUIÇÕES
+🎯 Fará parte do seu dia a dia
+Desenvolver e aprimorar o produto, identificando e resolvendo problemas em produção;
+Desenvolver e aprimorar o produto, identificando e resolvendo problemas em produção;
+Criar código limpo, testável e de fácil manutenção;
+Criar código limpo, testável e de fácil manutenção;
+Participar ativamente das discussões técnicas e colaborar na resolução de desafios;
+Participar ativamente das discussões técnicas e colaborar na resolução de desafios;
+Realizar revisões de código e fornecer feedback construtivo aos colegas.
+Realizar revisões de código e fornecer feedback construtivo aos colegas.
+REQUISITOS E QUALIFICAÇÕES
+✔️ O que eu preciso saber?
+Experiência comprovada em desenvolvimento de software/sistemas web;
+Experiência comprovada em desenvolvimento de software/sistemas web;
+Conhecimento em Java, APIs REST, HTML5, CSS;
+Conhecimento em Java, APIs REST, HTML5, CSS;
+Conhecimento em Angular e/ou preferencialmente com React;
+Conhecimento em Angular e/ou preferencialmente com React;
+Ser autodidata, apaixonado por desenvolvimento de software e gostar de trabalhar em equipe;
+Ser autodidata, apaixonado por desenvolvimento de software e gostar de trabalhar em equipe;
+Ter comprometimento com qualidade e cumprimento de prazos, e a vontade de encarar desafios e propor soluções.
+Ter comprometimento com qualidade e cumprimento de prazos, e a vontade de encarar desafios e propor soluções.
+INFORMAÇÕES ADICIONAIS
+O que você ganha sendo Paytracker? 
+💪 Plano de Saúde Unimed (mensalidade por nossa conta😉);
+💪 Plano de Saúde Unimed (mensalidade por nossa conta
+;
+🍽️ Vale refeição ou alimentação flexível (R$1.200);
+🍽️ Vale refeição ou alimentação flexível (R$1.200);
+🚌 Vale transporte;
+🚌 Vale transporte;
+💊 Convênio farmácia;
+💊 Convênio farmácia;
+🏋️ Convênio SESC;
+🏋️ Convênio SESC;
+🎓 Auxílio educação;
+🎓 Auxílio educação;
+👨‍👩‍👦‍👦 Auxílio Creche/Babá (R$450,00 por filho);
+👨‍👩‍👦‍👦 Auxílio Creche/Babá (R$450,00 por filho);
+🎉 Day off no aniversário; 
+🎉 Day off no aniversário; 
+💅 Auxílio bem-estar (R$100,00).                      
+💅 Auxílio bem-estar (R$100,00).   
+Entre outros mimos 🚀
+🍌 Frutas e lanchinhos cortesia;
+🍻 Happy hour, comemorações de resultados;
+🤝 Premiação de indicação de novos colaboradores;
+🎯 Comemoração de incentivo a projetos e entregas excepcionais.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Entrevista de Cultura3Entrevista de Cultura
+Etapa 3: Entrevista de Cultura
+3
+Entrevista de Cultura
+Etapa 4: Entrevista com Gestor 4Entrevista com Gestor 
+Etapa 4: Entrevista com Gestor 
+4
+Entrevista com Gestor 
+Etapa 5: Entrevista com Gerência5Entrevista com Gerência
+Etapa 5: Entrevista com Gerência
+5
+Entrevista com Gerência
+Etapa 6: Entrevista com Diretor6Entrevista com Diretor
+Etapa 6: Entrevista com Diretor
+6
+Entrevista com Diretor
+Etapa 7: Proposta7Proposta
+Etapa 7: Proposta
+7
+Proposta
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+PAYTRACK | SIMPLES E EFICIENTE
+A Paytrack nasceu para revolucionar a rotina de gestão de despesas e viagens corporativas. Transformamos diariamente empresas de todo o Brasil com a nossa solução. Conquistamos muito espaço de mercado, resultados incríveis e estamos crescendo rápido. Por isso, queremos conhecer gente interessante e interessada, pra ver se damos match nos nossos objetivos, valores, necessidades e habilidades!
+CONECTE-SE COM A GENTE!
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

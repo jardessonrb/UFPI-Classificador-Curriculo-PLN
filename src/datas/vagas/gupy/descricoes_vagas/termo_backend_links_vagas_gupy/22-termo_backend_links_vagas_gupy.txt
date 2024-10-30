@@ -1,0 +1,170 @@
+link_vaga-https://gavb.gupy.io/job/eyJqb2JJZCI6Nzk2OTkzMiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA BACKEND JAVA III (GAVB)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+SOBRE O GRUPO BOTICÁRIO 
+SOBRE O GRUPO BOTICÁRIO 
+Um dos maiores grupos de beleza do mundo, o Grupo Boticário é uma empresa brasileira presente em mais de 40 países. É dono das marcas O Boticário, Eudora, Quem Disse, Berenice?, Vult, O.U.i, Dr. JONES, Tô.que.tô, TRUSS, e do marketplace Beleza na Web, além de atuar com produtos licenciados como Australian Gold, Bio Oil, Nuxe, e Pampers e sua divisão para o mercado B2B. Essa interação entre diferentes marcas, ativos, plataformas, rede de franqueados, representantes, distribuidores, varejistas, sellers e fornecedores formam o ecossistema de beleza do Grupo Boticário que oferece, ainda, soluções digitais de gestão de negócio para o varejo brasileiro por meio das suas marcas Mooz, Casa Magalhães e GAVB. São mais de 19 mil colaboradores diretos, com mais de 4 mil lojas em 1.780 cidades brasileiras.
+Vem fazer beleza com a gente! 
+Vem fazer beleza com a gente! 
+Conheça o time da GAVB
+Somos especialistas em transformar dados em inteligência para impulsionar o sucesso dos nossos clientes. Com expertise em Data & Analytics e um time de mais de 500 consultores, oferecemos soluções personalizadas que potencializam resultados e aceleram o crescimento das empresas do futuro.
+Somos especialistas em transformar dados em inteligência para impulsionar o sucesso dos nossos clientes. Com expertise em Data & Analytics e um time de mais de 500 consultores, oferecemos soluções personalizadas que potencializam resultados e aceleram o crescimento das empresas do futuro.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver e manter aplicações back-end robustas utilizando Java 11/17 e Spring Boot.
+Implementar soluções de segurança em sistemas utilizando Spring Security e Keycloak para autenticação e autorização.
+Projetar e manter pipelines de dados e sistemas de mensageria usando Kafka. Trabalhar com containers e orquestração de containers, utilizando Docker e Kubernetes, para garantir a escalabilidade e a portabilidade das aplicações.
+Colaborar com as equipes de arquitetura de software para projetar soluções escaláveis e modulares.
+Escrever código limpo, testável e eficiente, seguindo as melhores práticas de desenvolvimento.
+Contribuir para a implementação de integrações contínuas e práticas DevOps, garantindo automação e eficiência no ciclo de desenvolvimento.
+Realizar revisões de código e colaborar com outros desenvolvedores para garantir a consistência e a qualidade das entregas.
+Participar ativamente em discussões sobre arquitetura e design de software, propondo soluções inovadoras e escaláveis.
+REQUISITOS E QUALIFICAÇÕES
+Experiência sólida em desenvolvimento com Java 8 ou superior (mínimo de 5 anos).
+Proficiência em Spring Boot para desenvolvimento de microsserviços.
+Conhecimento avançado em Spring Security para implementação de autenticação e autorização.
+Experiência com Keycloak para gerenciamento de identidade e controle de acesso.
+Experiência prática com Kafka para mensageria e streaming de dados.
+Conhecimentos em Docker e Kubernetes para containerização e orquestração de aplicações.
+Experiência em DevOps, especialmente em práticas de integração e entrega contínua.
+Compreensão de arquitetura de software, incluindo princípios SOLID, design patterns e boas práticas de desenvolvimento.
+Experiência com versionamento de código usando Git e metodologias ágeis (Scrum/Kanban).
+INFORMAÇÕES ADICIONAIS
+NOSSOS BENEFÍCIOS
+Já falamos que o Grupo Boticário é o melhor e maior ecossistema de beleza, né?
+Já falamos que o Grupo Boticário é o 
+ e 
+ ecossistema de beleza, né?
+E quando falamos dos Benefícios, nos preocupamos com as nossas pessoas e por isso, oferecemos um pacote de benefícios* que permite uma vida mais equilibrada e completa:
+E quando falamos dos Benefícios, nos preocupamos com as nossas pessoas e por isso, oferecemos um pacote de benefícios
+que permite uma vida mais equilibrada e completa:
+Aqui, sua Saúde é prioridade
+Aqui, sua 
+ é prioridade
+. Plano médico e odontológico
+. Plano médico e odontológico
+. Auxílio medicamentos
+. Auxílio medicamentos
+. Vale saúde para familiares
+. Vale saúde para familiares
+. Sessões de psicoterapia gratuitas
+. Sessões de psicoterapia gratuitas
+. Telemedicina e 2ª opinião médica
+. Telemedicina e 2ª opinião médica
+. Vacina da gripe e HPV gratuitas
+. Vacina da gripe e HPV gratuitas
+. Programas de cuidado com a saúde
+. Programas de cuidado com a saúde
+Para cuidar da sua Alimentação
+Para cuidar da sua 
+. Vale refeição ou restaurante local (conforme modelo de trabalho)
+. Vale refeição ou restaurante local (conforme modelo de trabalho)
+. Vale alimentação
+. Vale alimentação
+. Vale alimentação de Natal
+. Vale alimentação de Natal
+Garantindo Bem-Estar e Qualidade de Vida em todos os aspectos da vida
+. Plano de academias e estúdios de atividade física
+. 
+Plano de academias e estúdios de atividade física
+. Auxílio home office (modelos de trabalho híbrido e remoto)
+. Auxílio home office (modelos de trabalho híbrido e remoto)
+. Plano de saúde para pets
+. Plano de saúde para pets
+. Day off de aniversário
+. Day off de aniversário
+. Desconto de até 40% em nossos produtos
+. Desconto de até 40% em nossos produtos
+. Associação para colaboradores (convênios e parcerias, loja multimarcas, academias total pass, cursos e muito mais!)
+. Associação para colaboradores (convênios e parcerias, loja multimarcas, academias total pass, cursos e muito mais!)
+. Programa de viagens e hospedagens 
+. Programa de viagens e hospedagens 
+Para a Família, nosso bem mais precioso
+Para a 
+, nosso bem mais precioso
+. Auxílio educação infantil
+. Auxílio educação infantil
+. Crédito nutrição infantil
+. Crédito nutrição infantil
+. Auxílio babá
+. Auxílio babá
+. Auxílio material escolar
+. Auxílio material escolar
+. Orientação jurídica, psicológica e social
+. Orientação jurídica, psicológica e social
+. Apoio para país atípicos
+. Apoio para país atípicos
+. Licença parental estendida (180 dias para mães e 120 dias para pais)
+. Licença parental estendida (180 dias para mães e 120 dias para pais)
+Mobilidade para sua jornada presencial
+para sua jornada presencial
+. Vale Transporte e Estacionamento (modelos híbrido e presencial)
+. Vale Transporte e Estacionamento (modelos híbrido e presencial)
+Seguridade para proteção e tranquilidade financeira
+para proteção e tranquilidade financeira
+. Seguro de Vida
+. Seguro de Vida
+. Apoio ao falecimento de pais
+. Apoio ao falecimento de pais
+. Previdência Privada
+. Previdência Privada
+. Empréstimos consignados
+. Empréstimos consignados
+*Os pacotes de benefícios são configurados conforme regras de elegibilidade.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Entrevista Recrutamento e Seleção3Entrevista Recrutamento e Seleção
+Etapa 3: Entrevista Recrutamento e Seleção
+3
+Entrevista Recrutamento e Seleção
+Etapa 4: Entrevista com Liderança4Entrevista com Liderança
+Etapa 4: Entrevista com Liderança
+4
+Entrevista com Liderança
+Etapa 5: Entrevista Interface5Entrevista Interface
+Etapa 5: Entrevista Interface
+5
+Entrevista Interface
+Etapa 6: Carta Oferta6Carta Oferta
+Etapa 6: Carta Oferta
+6
+Carta Oferta
+Etapa 7: Processo Admissional7Processo Admissional
+Etapa 7: Processo Admissional
+7
+Processo Admissional
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+GAVB CONSULTING
+A GAVB é uma empresa brasileira de tecnologia que faz parte do Grupo Boticário #UmSóGrupo
+Essa parceria nasceu com um propósito de ajudar a transformar o GB no melhor e maior ecossistema de beleza do mundo!
+Somos especializados em soluções de Inteligência Artificial e Big Data, Business Intelligence, Cloud, RPA e DevOps.
+Apoiamos empresas e organizações a inovarem com práticas data-driven business, oferecendo serviços de consultoria e desenvolvimento para projetos de transformação tecnológica, inovação dos negócios e jornada para a nuvem.
+Nosso propósito é emponderar pessoas e empresas a atingir mais, com o uso de dados e tecnologia, gerando vantagem competitiva através da tomada de decisões baseadas em dados. E para isso, contamos com um time de mais de 400 Ninjas engajados com a nossa cultura e valores: Espírito empreendedor, Mente aberta e Sonho grande!
+Estamos presentes em projetos do Grupo Boticário e nos mais variados segmentos (Varejo, Financeiro, Indústria, Bens de consumo, Logística, Construtoras e Serviços) em projetos nacionais e internacionais. Além disso, somos parceiros estratégicos de empresas globais como; Google, AWS, Microsoft, Oracle, Red Hat e UiPath. 
+Atuamos em gestão, armazenamento, transformação e processamento de dados utilizando tecnologias de Big Data, Inteligência Artificial e Machine Learning e Business Intelligence, em nuvem ou local, transformação de ambientes de tecnologia através de soluções Cloud e DevOps.
+Aqui, você é protagonista da sua jornada. Venha fazer parte dessa cultura colaborativa! 
+ACOMPANHE A GAVB NAS REDES SOCIAIS 🚀
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

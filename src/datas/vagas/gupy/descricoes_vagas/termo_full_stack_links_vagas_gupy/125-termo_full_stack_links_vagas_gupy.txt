@@ -1,0 +1,101 @@
+link_vaga-https://leega.gupy.io/job/eyJqb2JJZCI6ODAxMDE0MSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ENGENHEIRO DE SOFTWARE FULL STACK SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+A Leega é uma empresa focada no atendimento eficiente e inovador em seus clientes. 
+A Leega é uma empresa focada no atendimento eficiente e inovador em seus clientes. 
+Isso não poderia ser diferente com o nosso principal combustível: as pessoas!  
+Isso não poderia ser diferente com o nosso principal combustível: as pessoas!
+  
+Nossa cultura é inspiradora e nossos valores estão presentes no dia a dia: ética e transparência, excelência de qualidade, trabalho em equipe, responsabilidade econômica, social e ambiental, relações humanas e credibilidade.
+Nossa cultura é inspiradora e nossos valores estão presentes no dia a dia: ética e transparência, excelência de qualidade, trabalho em equipe, responsabilidade econômica, social e ambiental, relações humanas e credibilidade.
+Buscamos profissionais inovadores que sejam movidos por desafios e focados em resultados.
+Buscamos profissionais inovadores que sejam movidos por desafios e focados em resultados.
+Se você busca uma empresa dinâmica e parceira e que investe em seus colaboradores através de capacitação constante, a Leega é o lugar para você!
+Se você busca uma empresa dinâmica e parceira e que investe em seus colaboradores através de capacitação constante, a Leega é o lugar para você!
+Ficaremos muito felizes em ter você em nosso time. Venha fazer parte da nossa história e da construção do nosso futuro. 
+ 
+Cadastre-se agora mesmo em nossas vagas!
+Cadastre-se agora mesmo em nossas vagas!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver Backend: Participar ativamente do ciclo de desenvolvimento de software, desde a concepção até a implementação utilizando Java/Spring, garantindo que as soluções sejam robustas, escaláveis e eficientes.Apoiar Frontend: Contribuir para o desenvolvimento de interfaces de usuário utilizando React.js e TypeScript, garantindo a integração eficaz com os serviços backend.Trabalhar com Sistemas Orientados a Eventos: Contribuir no desenvolvimento de sistemas orientados a eventos, utilizando tecnologias como Kafka, RabbitMQ.Testar: Criar e manter testes automatizados para backend e frontend, assegurando que as funcionalidades atendam aos requisitos e estejam livres de bugs.Manter a Qualidade: Colaborar com a equipe para garantir que o código seja bem testado, documentado e siga as melhores práticas.Colaborar: Participar de revisões de código, pair programming, e discussões de arquitetura com foco na melhoria contínua de nossas soluções.Inovar: Trazer ideias para melhorias na arquitetura e processos de desenvolvimento tanto no backend quanto no frontend, mantendo-se atualizado com as melhores práticas e novas tecnologias.Apoiar no Code Review: Revisar o código escrito por outros desenvolvedores, fornecendo feedback construtivo para assegurar que os padrões de codificação e as melhores práticas sejam seguidas.
+Desenvolver Backend: Participar ativamente do ciclo de desenvolvimento de software, desde a concepção até a implementação utilizando Java/Spring, garantindo que as soluções sejam robustas, escaláveis e eficientes.
+Desenvolver 
+: Participar ativamente do ciclo de desenvolvimento de software, desde a concepção até a implementação utilizando Java/Spring, garantindo que as soluções sejam robustas, escaláveis e eficientes.
+Apoiar Frontend: Contribuir para o desenvolvimento de interfaces de usuário utilizando React.js e TypeScript, garantindo a integração eficaz com os serviços backend.
+Apoiar 
+: Contribuir para o desenvolvimento de interfaces de usuário utilizando React.js e TypeScript, garantindo a integração eficaz com os serviços backend.
+Trabalhar com Sistemas Orientados a Eventos: Contribuir no desenvolvimento de sistemas orientados a eventos, utilizando tecnologias como Kafka, RabbitMQ.
+Trabalhar com Sistemas Orientados a Eventos: Contribuir no desenvolvimento de sistemas orientados a eventos, utilizando tecnologias como 
+Testar: Criar e manter testes automatizados para backend e frontend, assegurando que as funcionalidades atendam aos requisitos e estejam livres de bugs.
+Testar: Criar e manter 
+Manter a Qualidade: Colaborar com a equipe para garantir que o código seja bem testado, documentado e siga as melhores práticas.
+Manter a Qualidade: Colaborar com a equipe para garantir que o código seja bem testado, documentado e siga as melhores práticas.
+Colaborar: Participar de revisões de código, pair programming, e discussões de arquitetura com foco na melhoria contínua de nossas soluções.
+Colaborar: Participar de revisões de código, pair programming, e discussões de arquitetura com foco na melhoria contínua de nossas soluções.
+Inovar: Trazer ideias para melhorias na arquitetura e processos de desenvolvimento tanto no backend quanto no frontend, mantendo-se atualizado com as melhores práticas e novas tecnologias.
+Inovar: Trazer ideias para melhorias na arquitetura e processos de desenvolvimento tanto no backend quanto no frontend, mantendo-se atualizado com as melhores práticas e novas tecnologias.
+Apoiar no Code Review: Revisar o código escrito por outros desenvolvedores, fornecendo feedback construtivo para assegurar que os padrões de codificação e as melhores práticas sejam seguidas.
+Apoiar no Code Review: Revisar o código escrito por outros desenvolvedores, fornecendo feedback construtivo para assegurar que os padrões de codificação e as melhores práticas sejam seguidas.
+REQUISITOS E QUALIFICAÇÕES
+Experiência em desenvolvimento backend com Java e Spring Framework.Conhecimento em desenvolvimento front-end utilizando React.js e TypeScript.Compreensão básica de padrões de projetos e arquitetura.Noções de desenvolvimento multi-threaded em Java (diferencial).Familiaridade com serviços de cloud, especialmente AWS e GCP.Conhecimentos em sistemas orientados a eventos (Kafka, RabbitMQ, AWS) (diferencial).Conhecimentos em ferramentas de front-end como Vite, ESLint, Prettier, e Styled-components serão considerados diferenciais.
+Experiência em desenvolvimento backend com Java e Spring Framework.
+Experiência em desenvolvimento 
+Conhecimento em desenvolvimento front-end utilizando React.js e TypeScript.
+Conhecimento em desenvolvimento 
+Compreensão básica de padrões de projetos e arquitetura.
+Compreensão básica de padrões de projetos e arquitetura.
+Noções de desenvolvimento multi-threaded em Java (diferencial).
+Noções de desenvolvimento 
+Familiaridade com serviços de cloud, especialmente AWS e GCP.
+Familiaridade com serviços de cloud, especialmente 
+Conhecimentos em sistemas orientados a eventos (Kafka, RabbitMQ, AWS) (diferencial).
+Conhecimentos em sistemas orientados a eventos 
+Conhecimentos em ferramentas de front-end como Vite, ESLint, Prettier, e Styled-components serão considerados diferenciais.
+Conhecimentos em ferramentas de
+INFORMAÇÕES ADICIONAIS
+Modelo de trabalho 100% Remoto
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Avaliação de Perfil3Avaliação de Perfil
+Etapa 3: Avaliação de Perfil
+3
+Avaliação de Perfil
+Etapa 4: Entrevista Gestor4Entrevista Gestor
+Etapa 4: Entrevista Gestor
+4
+Entrevista Gestor
+Etapa 5: Entrevista Cliente5Entrevista Cliente
+Etapa 5: Entrevista Cliente
+5
+Entrevista Cliente
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+VEM TRABALHAR COM A GENTE!
+A LEEGA é referência em consultoria e outsourcing para soluções de Data Analytics .
+Temos 14 ANOS de mercado e mais de 20 ANOS de experiência em soluções de Business Intelligence, Data Integration e Analytics, atendendo grandes empresas dos mais diversos segmentos do mercado e contamos com mais de 400 colaboradores.
+Conquistamos capacidade técnica e reunimos as melhores pessoas para proporcionar aos nossos clientes a melhor experiência.
+Brasileiros, com escritório de projetos, fábrica de software e centro de treinamento em São Paulo (capital) , atuação internacional com escritório também em Portugal, somos conhecidos por viver e respirar Analytics e Big Data, inovando nossa tecnologia, compartilhando conhecimento, evoluindo talentos e entregando VALOR.
+ 
+Em nosso porftólio de serviços ofertamos consultoria especializada, alocação de profissionais, treinamento e desenvolvimento de soluções customizadas para Cloud Computing, Business Intelligence, Big Data, Data Analytics, Machine Learning, Inteligência Artificial, Data Quality, MDM, Governança de Dados e demais soluções de dados
+A LEEGA EM OUTRAS PLATAFORMAS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

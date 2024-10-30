@@ -1,0 +1,111 @@
+link_vaga-https://ignicaodigital.gupy.io/job/eyJqb2JJZCI6Nzg5MTkzMywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+CIENTISTA DE DADOS
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+Estamos em busca de uma pessoa que seja apaixonada por dados, curiosa e que goste de entender como, pra quê e por que as coisas são como são. 
+Estamos em busca de uma pessoa que seja 
+, curiosa e que goste de entender como, pra quê e por que as coisas são como são. 
+Se você possui experiência na área, curte analisar dados, interpretá-los e, ainda, apresentá-los de forma clara e organizada, essa vaga é pra você!
+Se você possui experiência na área, curte analisar dados, interpretá-los e, ainda, apresentá-los de forma clara e organizada, essa vaga é pra você!
+
+Quer saber mais sobre esse desafio? Então dá uma conferida nas responsabilidades e requisitos dessa posição.
+Quer saber mais sobre esse desafio? Então dá uma conferida nas responsabilidades e requisitos dessa posição.
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+Colaborar no desenvolvimento de estudos e modelos estatísticos, matemáticos e/ou de Machine Learning, assegurando sua viabilidade técnica e estratégica;Garantir a qualidade de código, padronização, versionamento, documentação e monitoramento em suas entregasComunicar-se com as equipes de Desenvolvimento de Sistemas, DevOps e Produtos, propondo soluções e direcionamentos ao negócio;Garantir que as soluções entregues sigam as melhores práticas como prototipagem da solução, testes de hipótese, treinamento e validação da solução sobre o negócio;Ser mantenedor das boas práticas de ciência de dados e difundir a filosofia Data-Centric/Data-Driven por meio do do conhecimento;Encontrar tendências e/ou oportunidades de análise, através da análise exploratória dos dados;Extrair e consolidar grandes volumes de dados (estruturados e não estruturados), pela consulta a fontes existentes, sejam elas Bancos de Dados (SQL ou No-SQL), APIs, logs, scraping de páginas web;Disponibilizar os modelos desenvolvidos, através de dashboards/relatórios, APIs e outros meios;Sugerir e fomentar a implantação de novas tecnologias, compartilhando seu conhecimento e experiências.IMPORTANTÍSSIMO: É necessário estar disposto(a) a aprender com profundidade sobre os nossos produtos e serviços, bem como manter-se atualizado e em constante aprendizado.
+Colaborar no desenvolvimento de estudos e modelos estatísticos, matemáticos e/ou de Machine Learning, assegurando sua viabilidade técnica e estratégica;
+Garantir a qualidade de código, padronização, versionamento, documentação e monitoramento em suas entregas
+Comunicar-se com as equipes de Desenvolvimento de Sistemas, DevOps e Produtos, propondo soluções e direcionamentos ao negócio;
+Garantir que as soluções entregues sigam as melhores práticas como prototipagem da solução, testes de hipótese, treinamento e validação da solução sobre o negócio;
+Ser mantenedor das boas práticas de ciência de dados e difundir a filosofia Data-Centric/Data-Driven por meio do do conhecimento;
+Encontrar tendências e/ou oportunidades de análise, através da análise exploratória dos dados;
+Extrair e consolidar grandes volumes de dados (estruturados e não estruturados), pela consulta a fontes existentes, sejam elas Bancos de Dados (SQL ou No-SQL), APIs, logs, scraping de páginas web;
+Disponibilizar os modelos desenvolvidos, através de dashboards/relatórios, APIs e outros meios;
+Sugerir e fomentar a implantação de novas tecnologias, compartilhando seu conhecimento e experiências.
+IMPORTANTÍSSIMO: É necessário estar disposto(a) a aprender com profundidade sobre os nossos produtos e serviços, bem como manter-se atualizado e em constante aprendizado.
+ É necessário estar disposto(a) a aprender 
+sobre os nossos produtos e serviços, bem como manter-se atualizado e em constante aprendizado.
+REQUISITOS E QUALIFICAÇÕES
+Experiência em Python e Javascript;Experiência em Data Lake e Data Warehouse;Experiência com Linux e Shell script;Experiência dos pipelines de desenvolvimento de MLops e DataOps;Experiência com banco de dados SQL e ou No-SQL;Experiência com Cloud Computing, preferencialmente AWS nas seguintes ferramentas (S3, RDS);Experiência com sistema de controle de versões (Git);Experiência com automação de processos (CI/CD);Experiência com Docker;Experiência no desenvolvimento de pipelines de ETL e ELT utilizando ferramentas como DBT e Apache Airflow.  Será um diferencial:Experiência em Databricks;Experiência em R;Experiência com Cloud Computing, preferencialmente AWS nas seguintes ferramentas (EC2, VPC, Lambda);Experiência no desenvolvimento de pipelines de ETL e ELT utilizando ferramentas como Apache NiFI e/ou Apache Spark.
+Experiência em Python e Javascript;
+Experiência em Data Lake e Data Warehouse;
+Experiência com Linux e Shell script;
+Experiência dos pipelines de desenvolvimento de MLops e DataOps;
+Experiência com banco de dados SQL e ou No-SQL;
+Experiência com Cloud Computing, preferencialmente AWS nas seguintes ferramentas (S3, RDS);
+Experiência com sistema de controle de versões (Git);
+Experiência com automação de processos (CI/CD);
+Experiência com Docker;
+Experiência no desenvolvimento de pipelines de ETL e ELT utilizando ferramentas como DBT e Apache Airflow.
+ 
+ 
+ 
+ 
+Será um diferencial:
+Experiência em Databricks;
+Experiência em R;
+Experiência com Cloud Computing, preferencialmente AWS nas seguintes ferramentas (EC2, VPC, Lambda);
+Experiência no desenvolvimento de pipelines de ETL e ELT utilizando ferramentas como Apache NiFI e/ou Apache Spark.
+INFORMAÇÕES ADICIONAIS
+Essa é uma vaga de contratação CLT e para atuar remotamente. 
+Horário: 40h semanais, de segunda a sexta das 9h às 18h.
+﻿
+Benefícios:
+Plano de Saúde e Plano odontológico integrais (sem descontos e coparticipação);
+Plano de Saúde e Plano odontológico integrais (sem descontos e coparticipação);
+Vale Refeição (compra em restaurante) ou Vale Alimentação (compra em supermercado);
+Vale Refeição (compra em restaurante) 
+ Vale Alimentação (compra em supermercado);
+Ajuda de Custo Home Office no Cartão Caju;
+Ajuda de Custo Home Office no Cartão Caju;
+Auxílio creche para crianças de até 6 anos de idade;
+Auxílio creche para crianças de até 6 anos de idade;
+Verba anual para treinamentos;
+Verba anual para treinamentos;
+Convênio com SESC;
+Convênio com SESC;
+Para sua saúde física e mental oferecemos Wellhub;
+Para sua saúde física e mental oferecemos 
+Day off no mês do seu aniversário.
+Day off no mês do seu aniversário.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Mapeamento de Perfil - Big 52Mapeamento de Perfil - Big 5
+Etapa 2: Mapeamento de Perfil - Big 5
+2
+Mapeamento de Perfil - Big 5
+Etapa 3: Entrevista 3Entrevista 
+Etapa 3: Entrevista 
+3
+Entrevista 
+Etapa 4: Conhecendo o seu perfil comportamental 4Conhecendo o seu perfil comportamental 
+Etapa 4: Conhecendo o seu perfil comportamental 
+4
+Conhecendo o seu perfil comportamental 
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+QUEM SOMOS NÓS?
+Nós acreditamos que o empreendedorismo pode mudar o mundo. 
+E a nossa missão é transformar vidas por meio de negócios digitais.
+Queremos contribuir com a transformação de milhares de pessoas. 
+Queremos melhorar o futuro do nosso país. 
+Para isso, contamos com um time de colaboradores encantadores, íntegros, cooperativos e que lutam pelo nosso propósito diariamente!
+Se você também tem o propósito de TRANSFORMAR VIDAS junte-se a nós!
+Você sabia que:
+Somos certificados pela Great Place To Work como melhores empresas para se trabalhar no Brasil.
+Isso significa que somos reconhecidos por ser uma organização que valoriza pessoas.
+CONHEÇA MAIS SOBRE O GRUPO IGD
+LinkedIn
+Facebook
+Instagram

@@ -1,0 +1,114 @@
+link_vaga-https://vagas-bling.gupy.io/job/eyJqb2JJZCI6Nzg5MjE5NCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA BACK-END | PLENO | FOCO EM APIS
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Descomplicamos a vida de milhares de empreendedores. Somos um sistema ERP para micro e pequenas empresas, com ferramentas que possibilitam uma gestão operacional e financeira mais integrada, simples e prática. 
+ 
+Nosso time de tecnologia é responsável por concretizar as necessidades e desejos dos nossos clientes e parceiros de mercado!
+O que você precisa ter:
+Experiência de desenvolvimento de software web com linguagens como Golang e Python e frameworks relacionados;
+Conhecimento em metodologias ágeis (Kanban, Scrum, etc);
+Domínio em versionamento de código via Gitlab/Github;
+Conhecimento em banco de dados relacionais e não relacionais (MySQL, MongoDB, DocumentDB). Habilidade em modelagem de dados e otimização de consultas.
+Conhecimento de testes automatizados de integração e unitários, práticas de TDD (Test-Driven Development);
+Familiaridade com esteiras de CI/CD, Docker ou Kubernetes;
+Inglês técnico;
+Compreensão básica a intermediária de princípios de arquitetura de software, como design modular, padrões de projeto e práticas de refatoração.
+Experiência no desenvolvimento e consumo de APIs Rest;
+Será um diferencial:
+Conhecimento em arquitetura de microsserviços;
+Ter experiência em outras linguagens programação, como: Java, PySpark, etc
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver soluções back-end fazendo uso de frameworks, padrões de projetos e tecnologias envolvidas no projeto;Compreender a arquitetura do software e ser capaz de atuar nela através da análise de seus componentes, organização e funcionalidades;Trabalhar com o time de desenvolvimento para encontrar soluções de negócio e arquitetura que sejam escaláveis e confiáveis através da comunicação e trocas de conhecimento;Manter a qualidade do software verificando os processos, ferramentas, padrões e a aplicação de testes automatizados;Capacidade de trabalhar com equipes multidisciplinares de alto desempenho, onde se valoriza a comunicação, participação e evolução do grupo;Colaborar com ideias e sugestões para soluções eficazes e criativas, pensando sempre na evolução dos produtos.
+Desenvolver soluções back-end fazendo uso de frameworks, padrões de projetos e tecnologias envolvidas no projeto;
+Compreender a arquitetura do software e ser capaz de atuar nela através da análise de seus componentes, organização e funcionalidades;
+Trabalhar com o time de desenvolvimento para encontrar soluções de negócio e arquitetura que sejam escaláveis e confiáveis através da comunicação e trocas de conhecimento;
+Manter a qualidade do software verificando os processos, ferramentas, padrões e a aplicação de testes automatizados;
+Capacidade de trabalhar com equipes multidisciplinares de alto desempenho, onde se valoriza a comunicação, participação e evolução do grupo;
+Colaborar com ideias e sugestões para soluções eficazes e criativas, pensando sempre na evolução dos produtos.
+INFORMAÇÕES ADICIONAIS
+Temos uma cultura honesta, transparente e que evolui constantemente. Por aqui, acreditamos que a diversidade e inclusão são essenciais para que tenhamos uma equipe cada vez mais plural e representativa. Somos comprometidos em tornar o Bling um ambiente seguro e acolhedor para todas as pessoas, valorizando e respeitando a singularidade de cada uma.
+Nosso Blingverso é composto por pessoas:
+💚Desbravadores;
+💚Presentes;
+💚Descomplicadores;
+💚Protagonistas;
+💚Autênticos;
+💚Iguais só que diferentes;
+💚Para frente. 
+Quem é Blinger tem como benefícios:
+✔️ Auxílio alimentação;
+✔️ Auxílio home office e apoio na estrutura de trabalho;
+✔️ PLR - Participação nos Lucros e Resultados;
+✔️ Zenklub (psicoterapia/atendimento nutricional);
+✔️ Gympass;
+✔️ Férias&Co;
+✔️ Plano de Saúde | Unimed Nacional;
+✔️ Plano Odontológico | SulAmérica;
+✔️ Seguro de Vida;
+✔️ Day Off no mês de aniversário;
+✔️ Auxílio educação;
+✔️ Auxílio idiomas;
+✔️ Licença maternidade de 6 meses e paternidade de 20 dias;
+✔️ Auxílio creche;
+Essa oportunidade é para atuação no regime CLT, com uma jornada de 40 horas semanais e trabalho remoto! 
+
+Prezada pessoa candidata, é importante ressaltarmos a transparência em nosso processo e responsabilidade com o uso e proteção das informações fornecidas por você. O preenchimento do seu cadastro dá o consentimento à empresa para o uso dos seus dados.
+Fará parte do processo seletivo, para melhor conhecer a pessoa candidata, uma pesquisa em fontes públicas, a fim de avaliar o risco reputacional para o nosso grupo, com o objetivo de manter a seriedade, integridade e segurança dos nossos processos.
+Você poderá pedir a exclusão do cadastro a qualquer momento. Dúvidas ou esclarecimentos, envie um e-mail para oportunidades@bling.com.br.
+Quer conhecer sobre a política de privacidade do grupo LWSA? Acesse https://lwsa.tech/politicas/
+ Está com dificuldade para realizar a inscrição ou qualquer outro problema com a plataforma da Gupy? Acesse o suporte aqui.
+.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista com área de Gestão de Pessoas2Entrevista com área de Gestão de Pessoas
+Etapa 2: Entrevista com área de Gestão de Pessoas
+2
+Entrevista com área de Gestão de Pessoas
+Etapa 3: Atividade técnica3Atividade técnica
+Etapa 3: Atividade técnica
+3
+Atividade técnica
+Etapa 4: Entrevista com a área!4Entrevista com a área!
+Etapa 4: Entrevista com a área!
+4
+Entrevista com a área!
+Etapa 5: Carta Proposta5Carta Proposta
+Etapa 5: Carta Proposta
+5
+Carta Proposta
+Etapa 6: Admissão: envio dos documentos6Admissão: envio dos documentos
+Etapa 6: Admissão: envio dos documentos
+6
+Admissão: envio dos documentos
+Etapa 7: Admissão: exame admissional7Admissão: exame admissional
+Etapa 7: Admissão: exame admissional
+7
+Admissão: exame admissional
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+MUITO PRAZER, SOMOS O BLING 💚
+Nascemos com o propósito de democratizar a gestão de negócio dos pequenos e médios empreendedores, apoiando no crescimento das empresas e realização de sonhos.
+Nossa história começou em 2008, na cidade de Bento Gonçalves onde fica localizada nossa sede. Nos transformamos, evoluímos e hoje somos uma unidade do grupo LWSA, com mais de 300 colaboradores distribuídos em mais de 10 estados do Brasil e também no México.
+Temos orgulho de estar entre as mais conhecidas empresas desenvolvedoras de softwares de gestão do país e de ser, segundo a Associação Brasileira de Comércio Eletrônico - ABComm, uma das melhores tecnologias para e-commerce do Brasil!
+Além disso, somos certificados como Great Place To Work (GPTW), uma conquista que reflete um ambiente de trabalho acolhedor, desenvolvedor e próspero! 
+E tudo isso é possível graças a uma equipe diversa, apaixonada por tecnologia, repleta de pessoas protagonistas, engajadas e que colaboram todos os dias para desenvolver soluções inovadoras.
+SEGUE A GENTE POR AÍ!
+Website
+LinkedIn
+Facebook
+Instagram

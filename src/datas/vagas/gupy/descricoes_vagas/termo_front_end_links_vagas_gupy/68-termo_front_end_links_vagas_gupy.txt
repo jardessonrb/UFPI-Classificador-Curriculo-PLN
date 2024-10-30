@@ -1,0 +1,93 @@
+link_vaga-https://pagseguro.gupy.io/job/eyJqb2JJZCI6NzI4ODExOSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ENGENHEIRO DE SOFTWARE PL. (FRONT END)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Nascemos para democratizar os serviços bancários e de pagamentos!
+ 
+Pioneirismo, tecnologia, inovação e resultados sustentáveis são constantes da nossa trajetória. Lançamos a primeira maquininha de cartão sem aluguel do Brasil e ao longo dos anos seguimos evoluindo para ampliar nosso ecossistema de soluções financeiras.
+ 
+Somos o 2º maior banco digital do país e a fintech mais rentável do segmento, resultado do trabalho de um time formado por pessoas talentosas e criativas, que atuam com dedicação, paixão e vontade de fazer acontecer.
+ 
+Se você ama tecnologia, curte um bom desafio e acredita no poder da colaboração para fazer grandes entregas, o Pags é pra você! Então, confira essa oportunidade e vem pintar o Brasil de amarelo com a gente💛!
+ 
+No PagBank todas as pessoas são bem-vindas 😊, sem distinção de gênero, orientação sexual, etnia, cultura, religião, deficiência etc. O importante é você gostar de desafios, trabalhar bem em equipe, vivenciar nossa cultura e nossa missão de transformar e democratizar os serviços bancários e de pagamentos no Brasil.
+ 
+#VemProPags
+ 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Atuar com entregas para a evolução do produto buscando a melhor experiência do usuário com o canal.Atuar como agente integrador, com comunicação eficiente para unir as ideias de desenvolvedores de back-end, POs, UI e UX, entre outros envolvidos nos projetos.Avaliar, discutir e definir arquiteturas de sistemas novos e propor melhorias para os atuais.Monitorar o ambiente que garanta a sua estabilidade.Manter contato com a equipe de segurança da informação para garantir a confiabilidade dos sistemas.Atuar com métodos de gestão ágil e com melhoria contínua.
+Atuar com entregas para a evolução do produto buscando a melhor experiência do usuário com o canal.
+Atuar como agente integrador, com comunicação eficiente para unir as ideias de desenvolvedores de back-end, POs, UI e UX, entre outros envolvidos nos projetos.
+Avaliar, discutir e definir arquiteturas de sistemas novos e propor melhorias para os atuais.
+Monitorar o ambiente que garanta a sua estabilidade.
+Manter contato com a equipe de segurança da informação para garantir a confiabilidade dos sistemas.
+Atuar com métodos de gestão ágil e com melhoria contínua.
+REQUISITOS E QUALIFICAÇÕES
+Superior (completo ou cursando) em Tecnologia da Informação ou áreas correlatas. Experiência com desenvolvimento de aplicações web, utilizando JavaScript e ES6+.Experiência com React e Redux.Experiência com formatação CSS3 e Sass.Experiência com integrações utilizando APIs RESTful.Conhecimentos em testes unitários, utilizando Jest e Enzyme.Experiência com a aplicação de versionamento com Git.
+Superior (completo ou cursando) em Tecnologia da Informação ou áreas correlatas. 
+Superior (completo ou cursando) em Tecnologia da Informação ou áreas correlatas. 
+Experiência com desenvolvimento de aplicações web, utilizando JavaScript e ES6+.
+Experiência com React e Redux.
+Experiência com formatação CSS3 e Sass.
+Experiência com integrações utilizando APIs RESTful.
+Conhecimentos em testes unitários, utilizando Jest e Enzyme.
+Experiência com a aplicação de versionamento com Git.
+INFORMAÇÕES ADICIONAIS
+Para se destacar nesta posição seria legal se você também tivesse: 
+ 
+Experiência com ferramentas de automação de build e empacotamento como Gulp e Webpack.
+Experiência com programação funcional, mindset reativo.
+Conhecimento em Design Patterns.
+Experiência com Next.js e Server Side Rendering (SSR).
+Experiência em arquitetura de integração com microsserviços (API Gateways, servidores web, BFF e Express.js).
+Experiência com formatações avançadas: BEM e CSS Modules.
+Conhecimento em boas práticas de usabilidade.
+Conhecimento de tendências em tecnologias e engajamento na comunidade.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Entrevista RH3Entrevista RH
+Etapa 3: Entrevista RH
+3
+Entrevista RH
+Etapa 4: Entrevista Gestor4Entrevista Gestor
+Etapa 4: Entrevista Gestor
+4
+Entrevista Gestor
+Etapa 5: Finalistas5Finalistas
+Etapa 5: Finalistas
+5
+Finalistas
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+SOBRE NÓS
+Nascemos em 2006 para revolucionar o mercado de meios de pagamento e democratizar o acesso aos serviços financeiros.
+Nascemos em 2006 para revolucionar o mercado de meios de pagamento e democratizar o acesso aos serviços financeiros.
+Foi com a gente que os consumidores passaram a comprar e vender – dentro e fora da internet – de forma rápida, simples e segura. Fizemos história lançando a 1ª maquininha de cartão sem aluguel, possibilitando as pessoas venderem mais e em qualquer lugar 💳.
+Foi com a gente que os consumidores passaram a comprar e vender – dentro e fora da internet – de forma rápida, simples e segura. Fizemos história lançando a 1ª maquininha de cartão sem aluguel, possibilitando as pessoas venderem mais e em qualquer lugar 💳.
+Em 2019 expandimos e criamos o nosso banco digital, reforçando a nossa crença no potencial transformador da tecnologia. 
+Em 2019 expandimos e criamos o nosso banco digital, reforçando a nossa crença no potencial transformador da tecnologia. 
+Hoje somos um dos maiores bancos digitais do país e uma das fintechs mais rentáveis do segmento, resultado do trabalho de um time de mais de 7 mil profissionais.
+Hoje 
+, resultado do trabalho de um time de mais de 7 mil profissionais.
+ 
+Aqui no Pags, a pesquisa e a inovação fazem parte do nosso DNA. Compartilhamos experiências com profissionais talentosos e criativos em um ambiente colaborativo, onde o aprendizado é garantido.
+ 
+Quer fazer parte dessa história? Confira nossas vagas e #VemProPags, o banco completo. 

@@ -1,0 +1,122 @@
+link_vaga-https://solutis.gupy.io/job/eyJqb2JJZCI6NzczMzYyMSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DEV. BACKEND (JAVA) SR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Estamos em busca de alguém como você, que deseja iniciar uma nova jornada na área de desenvolvimento de software para impactar pessoas, clientes e sociedade. Nós, da Solutis, temos um desafio apaixonante, com o melhor ecossistema de uma Agile Company.
+ 
+Estamos com a posição de Dev. Backend (Java) Sr que envolve criatividade, proatividade, desenvolvimento ágil e que permite compartilhamento constante de conhecimentos. Somos um mundo plural, que promove um ambiente descontraído de verdade, flexível e focado no desenvolvimento humano e profissional para que você possa exercer a sua singularidade.
+ 
+Então, se você entende que este é o caminho em direção aos seus sonhos, movido por projetos desafiadores, uma carreira bem desenvolvida e o propósito de impactar uns aos outros, todos os dias: venha fazer parte deste vasto mundo Solutis. 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Como será seu dia a dia: (Atividades que vai realizar)
+Desenvolvimento e suporte a aplicações Backend em canais digitais com o produto Open Finance.
+Colaborar com o entendimento de aplicações bastante diversas que fazem integrações únicas com diferentes bancos, instituições financeiras.
+Responsável por participar ativamente em cerimônias de agilidade que incluem, mas não se restringem a, Daily, Refinamento Funcional, Refinamento Técnico, Retrospectiva e Review.
+Responsável pela qualidade de software a partir de testes integrados, homologação funcional e testes unitários.
+Colaborar com todo o ciclo de vida de desenvolvimento de uma aplicação, iniciando em sua catalogação, planejamento, escrita de requisitos, contratos; passando pelo desenvolvimento em si, catalogação nas ferramentas internas e eventual deploy da mesma em produção.
+Investigar problemas e propor soluções técnicas criativas.
+Defesa de soluções para comitês Sêniors
+Servir como referência para outros Devs e até mesmo outras áreas.
+REQUISITOS E QUALIFICAÇÕES
+Pra mandar bem nessa oportunidade você precisa manjar das tecnologias: (Conhecimentos técnicos obrigatórios)
+Conhecimentos avançados de Java 11 e/ou Java 17
+Spring Boot
+Escrita de API
+Testes unitários
+Testes integrados
+Exception Handling
+Integração com banco de dados para cache
+Resiliência de Software
+Implementação de Logs técnicos e de negócios
+CI/CD
+Gitflow
+ 
+Vai ser bom se você também tiver: (Conhecimentos técnicos desejáveis, que serão um diferencial)
+Experiência com Akamai
+Experiência com Cloud através de Kubernetes
+Experiência com cache usando Redis
+Experiência com Camel
+Conhecimentos de Frontend Angular
+Experiência com monitoração usando Grafana, Kibana
+Conhecimentos de SRE
+Disposição para atuar presencial duas vezes na semana;
+O que não abrimos mão: (Soft Skills)
+Mindset focado em construir soluções criativas;
+Capacidade de aprender com experiências de outros como também compartilhar suas próprias experiências;
+Ser apaixonado por tecnologia;
+Comprometimento em um ambiente voltado a entregas de alta colaboração.
+Comunicação técnica clara
+Escrita de documentação
+Trabalho Colaborativo
+INFORMAÇÕES ADICIONAIS
+Para esta posição oferecemos:
+Salário CLT Full;
+Vale Refeição ou Alimentação (Alelo);
+Vale Transporte (sempre que houver o deslocamento);
+Auxílio Home Office (proporcional aos dias em que atuará nesta modalidade);
+Assistência Médica Sulamérica;
+Assistência Odontológica Sulamérica;
+Seguro de Vida;
+Parcerias (Curso de idiomas, ensino, livraria, restaurante, entre outras);
+Gympass;
+Allya;
+Day Off;
+Premiação por indicações;
+Inside Out (Ocorre todas as quartas-feiras. Evento da galera voltado para troca de conhecimento);
+Oportunidade de crescimento profissional.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem de Perfil2Triagem de Perfil
+Etapa 2: Triagem de Perfil
+2
+Triagem de Perfil
+Etapa 3: Entrevista RH3Entrevista RH
+Etapa 3: Entrevista RH
+3
+Entrevista RH
+Etapa 4: Entrevista Técnica4Entrevista Técnica
+Etapa 4: Entrevista Técnica
+4
+Entrevista Técnica
+Etapa 5: Teste Técnico (opcional)5Teste Técnico (opcional)
+Etapa 5: Teste Técnico (opcional)
+5
+Teste Técnico (opcional)
+Etapa 6: Entrevista Gestor6Entrevista Gestor
+Etapa 6: Entrevista Gestor
+6
+Entrevista Gestor
+Etapa 7: Entrevista com Cliente (opcional)7Entrevista com Cliente (opcional)
+Etapa 7: Entrevista com Cliente (opcional)
+7
+Entrevista com Cliente (opcional)
+Etapa 8: Carta Proposta8Carta Proposta
+Etapa 8: Carta Proposta
+8
+Carta Proposta
+Etapa 9: Contratação9Contratação
+Etapa 9: Contratação
+9
+Contratação
+A SOLUTIS É DIGITAL!
+Somos apaixonados por tecnologia e esse valor está presente em nossas ações e proposta de trabalho. Ambiente descontraído e criativo, horário flexível, possibilidade de trabalho home office, eventos e programas internos com games... Isso faz parte do nosso dia-a-dia.
+Engajamento, busca intensa por conhecimento, empatia e criatividade são a nossa receita para cultivar e colher, sempre, o melhor resultado tecnológico.
+Essa é a Solutis, flexível, acolhedora, inquieta, amante da tecnologia e de tudo que ela nos proporciona de mais incrível.
+Venha fazer parte do nosso time!
+CONHEÇA A SOLUTIS
+Website
+LinkedIn
+Facebook
+Instagram

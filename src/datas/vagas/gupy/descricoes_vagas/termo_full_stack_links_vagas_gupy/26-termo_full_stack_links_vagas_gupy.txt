@@ -1,0 +1,128 @@
+link_vaga-https://vindi.gupy.io/job/eyJqb2JJZCI6Nzk4OTE5Mywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA DE SOFTWARE FULL STACK - PLENO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Estamos em busca de alguém apaixonado por tecnologia, pronto para se juntar a nós na missão de tornar empréstimos cada vez mais vantajosos! Sua principal responsabilidade será o desenvolvimento de software, utilizando lógica e linguagens de programação específicas para o produto, seguindo os padrões de qualidade da empresa e as melhores práticas de mercado.
+Como membro do time de desenvolvimento, você desempenhará um papel essencial na criação de novas funcionalidades para nossa Plataforma de Empréstimos. Seu dia a dia incluirá a colaboração com outras áreas internas para entender as necessidades de novas funcionalidades, seguido pelo ciclo completo de desenvolvimento, testes e deply, bem como o acompanhamento das entregas em produção.
+Somos uma empresa inclusiva, diversa e respeitosa, queremos mostrar que aqui existem grandes oportunidades para todas as pessoas, um ambiente seguro para você ser quem é! Independente de idade, raça, gênero, identidade de gênero, orientação sexual ou deficiência.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Compreensão do negócio e dos processos: Manter uma estreita colaboração com todas as partes envolvidas, tanto internas quanto externas, para captar plenamente as necessidades das tarefas. Trabalhar em conjunto com as equipes de desenvolvimento e produto para conceber soluções de software inovadoras;Documentação: Redigir documentação técnica para repasse à equipe ou clientes internos;Desenvolvimento: Desenvolver e implementar funcionalidades de acordo com as especificações de negócios. Criar interfaces de usuário (web) atraentes e funcionais, garantindo uma experiência de usuário intuitiva. Realizar o desenvolvimento completo de backend, desde a criação de APIs até a gestão de banco de dados. Identificar, depurar e otimizar aplicações e serviços para garantir um desempenho robusto e contínuo.Testes: Testar e garantir o funcionamento da solução para assegurar capacidade de resposta e eficiência do código desenvolvido. Sugerir abordagens alternativas para melhorar o desempenho. Criar testes automatizados, quando necessário;
+Compreensão do negócio e dos processos: Manter uma estreita colaboração com todas as partes envolvidas, tanto internas quanto externas, para captar plenamente as necessidades das tarefas. Trabalhar em conjunto com as equipes de desenvolvimento e produto para conceber soluções de software inovadoras;
+Documentação: Redigir documentação técnica para repasse à equipe ou clientes internos;
+ Redigir documentação técnica para repasse à equipe ou clientes internos;
+Desenvolvimento: Desenvolver e implementar funcionalidades de acordo com as especificações de negócios. Criar interfaces de usuário (web) atraentes e funcionais, garantindo uma experiência de usuário intuitiva. Realizar o desenvolvimento completo de backend, desde a criação de APIs até a gestão de banco de dados. Identificar, depurar e otimizar aplicações e serviços para garantir um desempenho robusto e contínuo.
+ 
+Testes: Testar e garantir o funcionamento da solução para assegurar capacidade de resposta e eficiência do código desenvolvido. Sugerir abordagens alternativas para melhorar o desempenho. Criar testes automatizados, quando necessário;
+Testar e garantir o funcionamento da solução para assegurar capacidade de resposta e eficiência do código desenvolvido. Sugerir abordagens alternativas para melhorar o desempenho. Criar testes automatizados, quando necessário;
+REQUISITOS E QUALIFICAÇÕES
+Requisitos e Qualificações:
+Front-End: Experiência sólida em desenvolvimento de interfaces de usuário com Spring MVC, implementando soluções web responsivas e eficientes. Conhecimento em Vue.js será considerado um diferencial para a criação de interfaces dinâmicas e interativas, proporcionando uma melhor experiência ao usuário.
+Back-End: Proficiência em Java para desenvolvimento de soluções robustas e escaláveis, utilizando JPA/Hibernate para persistência de dados e Spring Boot para desenvolvimento de aplicações back-end modernas e performáticas. Conhecimento de bancos de dados relacionais, especialmente MySQL.
+Proficiência em 
+Controle de Versão com Git
+Conhecimento de Padrões de Design e Orientação a Objetos
+Diferenciais:
+Experiência com serviços na AWS (como EC2, S3, Lambda, RDS) para deploy e escalabilidade de aplicações em nuvem.
+Experiência com serviços na 
+Conhecimento em Apache Camel para integração e roteamento de mensagens entre diferentes sistemas.
+Certificações em Java (como Oracle Certified Professional Java SE Programmer).
+Certificações em AWS (como AWS Certified Developer ou AWS Certified Solutions Architect).
+Cursos ou treinamentos em Spring Framework, Vue.js, Hibernate e boas práticas de design de software.
+INFORMAÇÕES ADICIONAIS
+Confira nosso pacote benefícios:
+🍲 Pra quem gosta de preparar a própria comida ou quer pedir aquele delivery, temos o Cartão Flash;
+🍲 Pra quem gosta de preparar a própria comida ou quer pedir aquele delivery, temos o 
+;
+🏥 Queremos te ver bem, com a saúde em dia com o Plano de saúde;
+🏥 Queremos te ver bem, com a saúde em dia com o 
+;
+🦷 Aqui gostamos de sorrir à toa, para isso temos o Plano Odontológico;
+🦷 Aqui gostamos de sorrir à toa, para isso temos o 
+;
+💻 Uma forcinha no mês vai bem né?! Então conte com nosso Auxílio Home Office;
+💻 Uma forcinha no mês vai bem né?! Então conte com nosso 
+;
+🤑 Programa de Participação de Resultados (PPR);
+🤑 Programa de Participação de Resultados 
+;
+🎂 Para celebrar o seu aniversário, já que você está de Parabéns, temos Day Off;
+🎂 Para celebrar o seu aniversário, já que você está de Parabéns, temos 
+;
+🔐 Aquele benefício que a gente tem, mas não quer usar, Seguro de Vida em Grupo;
+🔐 Aquele benefício que a gente tem, mas não quer usar, 
+;
+🧒 Para ajudar com as crianças, Auxílio creche;
+🧒 Para ajudar com as crianças, 
+;
+🍼 E para curtir ainda mais esse momento, licença maternidade e paternidade estendida;
+🍼 E para curtir ainda mais esse momento, 
+;
+🏋️ Pra cuidar do corpo, Gympass (Wellhub);
+🏋️ Pra cuidar do corpo, 
+;
+💚 E pra cuidar da mente, Conexão Saúde;
+💚 E pra cuidar da mente, 
+;
+👕 Pra quem é do time “roupas leves e tênis” , "chique e elegante" ou qualquer outro lookinho, aqui nós somos No dress code;
+👕 Pra quem é do time “roupas leves e tênis” , "chique e elegante" ou qualquer outro lookinho, aqui nós somos 
+📚 A Vindi cresce e você cresce junto com a gente, para isso temos parcerias com universidades e escolas de idiomas;
+📚 A Vindi cresce e você cresce junto com a gente, para isso temos 
+🌴 E para aproveitar melhor seus momentos de descanso e lazer fazendo uma das melhores coisas da vida, viajar, temos o Férias & Co.
+🌴 E para a
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Bate Papo com Cultura e Pessoas3Bate Papo com Cultura e Pessoas
+Etapa 3: Bate Papo com Cultura e Pessoas
+3
+Bate Papo com Cultura e Pessoas
+Etapa 4: Bate Papo com a Liderança4Bate Papo com a Liderança
+Etapa 4: Bate Papo com a Liderança
+4
+Bate Papo com a Liderança
+Etapa 5: Proposta5Proposta
+Etapa 5: Proposta
+5
+Proposta
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+PRAZER, SOMOS A VINDI! 💙
+Na Vindi, somos mais do que uma empresa de serviços financeiros; somos uma potência em soluções integradas. Com funcionalidades abrangentes, nossas plataformas oferecem recursos inteligentes para pagamentos avulsos ou recorrentes e a possibilidade de ingressar no mercado de embedded finance, construindo soluções de crédito sob medida para empresas financeiras e não financeiras.
+Na Vindi, somos mais do que uma empresa de serviços financeiros; somos uma potência em soluções integradas. Com funcionalidades abrangentes, nossas plataformas oferecem recursos inteligentes para 
+ ou 
+e a possibilidade de ingressar no mercado de 
+, construindo 
+para empresas financeiras e não financeiras.
+Nossos 11 anos de história carregam diversas conquistas, jornadas e trajetórias que, ao longo do tempo, se fundiram para se tornar uma verdadeira potência no mercado financeiro. Somos movidos pela paixão pelo que fazemos, trabalhamos incansavelmente para otimizar processos e promover a excelência em serviços financeiros, sempre guiados pelos valores da colaboração, compromisso com o resultado, atitude positiva, ética e transparência, criatividade e inovação, diversidade e inclusão.
+Nossos 
+ carregam diversas conquistas, jornadas e trajetórias que, ao longo do tempo, se fundiram para se tornar uma verdadeira potência no mercado financeiro. Somos movidos pela paixão pelo que fazemos, trabalhamos incansavelmente para otimizar processos e promover a 
+, sempre guiados pelos valores da colaboração, compromisso com o resultado, atitude positiva, ética e transparência, criatividade e inovação, diversidade e inclusão.
+Na Vindi, cada colaborador é parte fundamental do nosso sucesso. Com um time diverso e inclusivo, valorizamos a contribuição única de cada indivíduo, promovendo um ambiente de colaboração, autonomia e respeito mútuo. Aqui, trabalhamos unidos por um propósito comum: ser a referência em serviços financeiros no Brasil.
+Na Vindi, 
+Com um time diverso e inclusivo, valorizamos a contribuição única de cada indivíduo, promovendo um ambiente de colaboração, autonomia e respeito mútuo. Aqui, trabalhamos unidos por um propósito comum: 
+Junte-se a nós e faça parte dessa jornada de transformação. Se você é uma pessoa apaixonada por desafios, venha fazer a diferença na Vindi e ajudar-nos a construir o futuro dos serviços financeiros no Brasil.﻿
+ Se você é uma pessoa apaixonada por desafios, venha fazer a diferença na Vindi e ajudar-nos a construir o futuro dos serviços financeiros no Brasil.﻿
+#SomosTodosVindi
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

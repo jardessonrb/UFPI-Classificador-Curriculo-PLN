@@ -1,0 +1,118 @@
+link_vaga-https://invillia.gupy.io/job/eyJqb2JJZCI6NzI4NDYwNiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+MID FULLSTACK DEVELOPER - XAMARIN / .NET - (100% REMOTO)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Estamos buscando um profissional que antes de qualquer coisa ame programar e inovar.
+Trabalhamos em um ambiente com total autonomia para novas soluções disruptivas e valorizamos isso, por isso estamos procurando alguém que compartilhe desse mindset.
+Devido a essa autonomia, precisamos estar sempre em sintonia, por isso uma boa comunicação é muito importante para nós.
+RESPONSABILIDADES E ATRIBUIÇÕES
+O profissional será responsável em prover soluções técnicas para novas features e dar o suporte necessário as features já existentes, afinal, nem tudo são flores.
+Esperamos também que essa pessoa auxilie os outros membros do time em questões técnicas não esquecendo de fornecer a melhor solução para o negócio.
+Algo que prezamos bastante é qualidade, isso inclui um código limpo e legível (clean code).
+Também é desejável que o mesmo tenha um perfil intra-empreendedor, onde seus objetivos estejam alinhados com os objetivos da empresa, afinal, temos muito orgulho do que fazemos aqui!
+
+REQUISITOS E QUALIFICAÇÕES
+Conhecimentos e experiência em Xamarin
+Conhecimentos e experiência em .Net
+Desenvolvimento Ágil - Scrum, Kanban
+Conhecimentos de ferramentas de integração continua (Bitbucket Pipeline)
+Experiência com webservices REST/SOAP
+Desenvolvimento de testes automatizados
+Conhecimento em banco de dados SQL Server e MySQL  
+Diferencial conhecimento de Docker
+Diferencial conhecer arquitetura serverless (AWS Lambda)
+
+INFORMAÇÕES ADICIONAIS
+A experiência de trabalhar na Invillia é única. E global. Temos o nosso próprio jeito de conectar talentos e construir inovações.
+Revolucionamos o ambiente de trabalho #Instation + somos experts em desenvolver soluções complexas para #GameChangers + temos uma metodologia única #EngagedbyDataPeopleAction + investimos em pessoas #InvilliaAcademy
+Alguns diferenciais Invillia:
+_inovamos lado-a-lado com #GameChangersGlobais
+_cultura de trabalho distribuído #inStation
+_metodologia exclusiva #GlobalGrowthFramework
+_benefícios únicos entre as techs #InfinitePowers
+Faça uma imersão aqui https://invillia.com/
+Então, se você busca uma oportunidade de trabalhar de onde estiver, em uma empresa dedicada em recriar a sensação de proximidade, de conexão humana, e de se sentir acolhido a qualquer momento, mesmo com todos distribuídos, aqui é o lugar certo.
+Então, se você busca uma oportunidade de trabalhar de onde estiver, em uma empresa dedicada em recriar a sensação de proximidade, de conexão humana, e de se sentir acolhido a qualquer momento, mesmo com todos distribuídos, aqui é o lugar certo.
+
+Aproxime-se. A Invillia não apenas transformou a forma como as empresas mais revolucionárias do mundo criam e desenvolvem negócios e produtos digitais.
+Inovou também a maneira como apaixonadas e apaixonados por tecnologia, de qualquer lugar do planeta, podem interagir, evoluir, mais conectados do que nunca.
+Para a Invillia, não importa onde você está. Se é um país grande. Ou uma cidade pequena. E sim a sua vontade. As suas ideias. O tamanho do seu talento_
+Alguns insights sobre as pessoas que nos inspiram:
+Alguns insights sobre as pessoas que nos inspiram:
+_as com vontade, como nós, de crescer. Sem receio de ousar.
+_as com vontade, como nós, de crescer. Sem receio de ousar.
+_as que adoram aprender e ensinar.
+_as que adoram aprender e ensinar.
+_as que valorizam o trabalho próximo, independente de distâncias.
+_as que valorizam o trabalho próximo, independente de distâncias.
+_as que reconhecem a importância dos princípios ágeis e da melhoria contínua.
+_as que reconhecem a importância dos princípios ágeis e da melhoria contínua.
+_as que sabem que o inovar é coletivo. Ideias só se multiplicam com colaboração e dedicação.
+_as que sabem que o inovar é coletivo. Ideias só se multiplicam com colaboração e dedicação.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: ENTREVISTA HUNTER2ENTREVISTA HUNTER
+Etapa 2: ENTREVISTA HUNTER
+2
+ENTREVISTA HUNTER
+Etapa 3: ENTREVISTA TÉCNICA3ENTREVISTA TÉCNICA
+Etapa 3: ENTREVISTA TÉCNICA
+3
+ENTREVISTA TÉCNICA
+Etapa 4: CONVERSA COM TIME4CONVERSA COM TIME
+Etapa 4: CONVERSA COM TIME
+4
+CONVERSA COM TIME
+Etapa 5: CHECKLIST & OFFER5CHECKLIST & OFFER
+Etapa 5: CHECKLIST & OFFER
+5
+CHECKLIST & OFFER
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+{* INFINITE.DIGITAL.POWER _ TRABALHE DE QUALQUER LUGAR DO PLANETA COM GAME CHANGERS GLOBAIS_
+Se uma luz bem forte aparecer bem acima da sua cabeça, não se preocupe: somos nós. 
+Se uma luz bem forte aparecer bem acima da sua cabeça, não se preocupe: somos nós. 
+E estamos aqui para convidar você a conhecer à nossa maneira de inovar. 
+E estamos aqui para convidar você a conhecer à nossa maneira de inovar. 
+Afinal, a Invillia não apenas transformou a forma como as empresas mais revolucionárias 
+Afinal, a Invillia não apenas transformou a forma como as empresas mais revolucionárias 
+do mundo desenvolvem produtos digitais. Inovou também como apaixonadas e apaixonados 
+do mundo desenvolvem produtos digitais. Inovou também como apaixonadas e apaixonados 
+por tecnologia, de uma cidade enorme ou de um vilarejo perdido no espaço, podem interagir, 
+por tecnologia, de uma cidade enorme ou de um vilarejo perdido no espaço, podem interagir, 
+evoluir, mais conectados do que nunca_
+evoluir, mais conectados do que nunca_
+Alguns insights sobre as pessoas que nos inspiram:
+As que tem vontade, como nós, de crescer. Sem receio de ousar_ 
+As que tem vontade, como nós, de crescer. Sem receio de ousar_ 
+As que adoram aprender e ensinar_ 
+As que adoram aprender e ensinar_ 
+As que valorizam o trabalho próximo, independente de distâncias_
+As que valorizam o trabalho próximo, independente de distâncias_
+ As que reconhecem a importância dos princípios ágeis e da melhoria contínua_ 
+ As que reconhecem a importância dos princípios ágeis e da melhoria contínua_ 
+As que sabem que o inovar é coletivo. Ideias só se multiplicam com colaboração e dedicação.
+As que sabem que o inovar é coletivo. Ideias só se multiplicam com colaboração e dedicação.
+ 
+ 
+ 
+ 
+CONHEÇA MAIS SOBRE NÓS_
+Website
+LinkedIn
+Facebook
+Instagram

@@ -1,0 +1,159 @@
+link_vaga-https://arvore.gupy.io/job/eyJqb2JJZCI6ODAwNzUxOSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA FRONTEND SÊNIOR | AFIRMATIVA PARA MULHERES
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Somos a Árvore, a plataforma gamificada de leitura, que por meio de uma experiência lúdica, incentiva o prazer em aprender.
+Somos a Árvore, a plataforma gamificada de leitura, que por meio de uma experiência lúdica, incentiva o prazer em aprender.
+ 
+ 
+Atualmente, o Brasil é um dos países que menos lê no mundo. São menos de 3 livros anuais por habitante, e no PISA, Programa Internacional de Avaliação de Alunos, o nosso desempenho cai ano após ano. 
+Atualmente, o Brasil é um dos países que menos lê no mundo. São menos de 3 livros anuais por habitante, e no PISA, Programa Internacional de Avaliação de Alunos, o nosso desempenho cai ano após ano. 
+
+Na Árvore, acreditamos que a leitura é um superpoder que facilita o aprendizado, ajuda no entendimento do mundo e potencializa habilidades importantes para o futuro. Trabalhamos diariamente para que todos os alunos do país, tenham acesso à leitura, já impactamos mais de dois milhões de alunos e sabemos que podemos ir mais longe.
+Na Árvore, acreditamos que a leitura é um 
+que facilita o aprendizado, ajuda no entendimento do mundo e potencializa habilidades importantes para o futuro. Trabalhamos diariamente para que todos os alunos do país, tenham acesso à leitura, já impactamos mais de dois milhões de alunos e sabemos que podemos ir mais longe.
+
+Tecnologia e inovação fazem parte das nossas raízes. Jogamos junto de escolas e famílias no desafio de educar em um dia-a-dia ultraconectado. 
+Tecnologia e inovação fazem parte das nossas raízes. Jogamos junto de escolas e famílias no desafio de educar em um dia-a-dia ultraconectado. 
+
+Somos plurais e empáticos, nos adaptamos e encaramos os desafios do futuro com curiosidade e entusiasmo. Somos apaixonados por nossos clientes e comprometidos com resultados e entregas melhores todos os dias. 
+Somos plurais e empáticos, nos adaptamos e encaramos os desafios do futuro com curiosidade e entusiasmo. Somos apaixonados por nossos clientes e comprometidos com resultados e entregas melhores todos os dias. 
+
+Com as nossas soluções, somos vencedores há 4 anos seguidos do prêmio Top Educação, finalistas do EdtechX, vencedores do prêmio 100 Statups to Watch, vencedores do Pitch Gov SP e Pitch Gov Santo André. 
+Com as nossas soluções, somos vencedores há 4 anos seguidos do prêmio Top Educação, finalistas do EdtechX, vencedores do prêmio 100 Statups to Watch, vencedores do Pitch Gov SP e Pitch Gov Santo André. 
+
+Aqui você vai encontrar um ambiente de crescimento, dinâmico e com aprendizados constantes. Esse desafio faz sentido para você? Vem pra Árvore. 
+Aqui você vai encontrar um ambiente de crescimento, dinâmico e com aprendizados constantes. Esse desafio faz sentido para você? Vem pra Árvore. 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Você, enquanto Frontend, fará parte de nosso Time de Devs. Atualmente, temos duas plataformas diferentes com quatro estruturas de frontend em nossos apps e serviços. Mais do que integrar todas as frentes, é essencial a integração entre nossas linguagens (TypeScript/JavaScript ES6/ES7, React, React Native, Context API, GraphQL) para melhorar a performance e estabilidade de nossas telas e componentes.
+Você, enquanto Frontend, fará parte de nosso Time de Devs. Atualmente, temos duas plataformas diferentes com quatro estruturas de frontend em nossos apps e serviços. Mais do que integrar todas as frentes, é essencial a integração entre nossas linguagens (TypeScript/JavaScript ES6/ES7, React, React Native, Context API, GraphQL) para melhorar a performance e estabilidade de nossas telas e componentes.
+
+Você terá total liberdade de sugerir novas arquiteturas escaláveis, práticas, metodologias, linguagens e novas funcionalidades para as plataformas. Quanto mais ousadia você tiver, melhor! Temos muito espaço para isso.
+Você terá total liberdade de sugerir novas arquiteturas escaláveis, práticas, metodologias, linguagens e novas funcionalidades para as plataformas. Quanto mais ousadia você tiver, melhor! Temos muito espaço para isso.
+REQUISITOS E QUALIFICAÇÕES
+Experiência em React.js;Experiência com TypeScript;Conhecimento em HTML, CSS e pré-processadores;Gerenciamento de estado com Context API e Redux;Styled components (estilização de componentes);Experiência em desenvolvimento de aplicações responsivas;Familiaridade com controle de versão (Git);Conhecimentos em testes automatizados (Jest é uma vantagem);Boas práticas de desenvolvimento;Habilidades de solução de problemas e depuração;Boas habilidades de comunicação e trabalho em equipe.
+Experiência em React.js;
+Experiência em 
+Experiência com TypeScript;
+Experiência com TypeScript;
+Conhecimento em HTML, CSS e pré-processadores;
+Conhecimento em HTML, CSS e pré-processadores;
+Gerenciamento de estado com Context API e Redux;
+Gerenciamento de estado com Context API e Redux;
+Styled components (estilização de componentes);
+Styled components (estilização de componentes);
+Experiência em desenvolvimento de aplicações responsivas;
+Experiência em desenvolvimento de aplicações responsivas;
+Familiaridade com controle de versão (Git);
+Familiaridade com controle de versão (Git);
+Conhecimentos em testes automatizados (Jest é uma vantagem);
+Conhecimentos em testes automatizados (Jest é uma vantagem);
+Boas práticas de desenvolvimento;
+Boas práticas de desenvolvimento;
+Habilidades de solução de problemas e depuração;
+Habilidades de solução de problemas e depuração;
+Boas habilidades de comunicação e trabalho em equipe.
+Boas habilidades de comunicação e trabalho em equipe.
+INFORMAÇÕES ADICIONAIS
+Seria legal que você tivesse também: 
+Conhecimento em React Native para o desenvolvimento de aplicativos móveis é um plus;
+Conhecimento em React Native para o desenvolvimento de aplicativos móveis é um plus;
+Conhecimento em Apollo (graphQL);
+Conhecimento em Apollo (graphQL);
+Conhecimento em Firebase;
+Conhecimento em Firebase;
+@testing-library/react-native para testes;
+@testing-library/react-native para testes;
+Testes automatizados com Cypress e Playwright;
+Testes automatizados com Cypress e Playwright;
+React Navigation (navegação entre telas);
+React Navigation (navegação entre telas);
+Conhecimento em JavaScript (ES6/ES7);
+Conhecimento em JavaScript (ES6/ES7);
+Conhecimento em Babel, Jest, Husky, Eslint, Luxo, Parcel, etc.
+Conhecimento em Babel, Jest, Husky, Eslint, Luxo, Parcel, etc.
+O que você vai encontrar aqui:
+Salário Compatível com Mercado;
+Salário Compatível com Mercado;
+Flexibilidade de horário;
+Flexibilidade de horário;
+Autonomia;
+Autonomia;
+Ambiente de trabalho descontraído e agradável;
+Ambiente de trabalho descontraído e agradável;
+Cultura colaborativa;
+Cultura colaborativa;
+Auxílio creche;
+Auxílio creche;
+Vale alimentação ou refeição;
+Vale alimentação ou refeição;
+Plano de saúde;
+Plano de saúde;
+Plano odontológico;
+Plano odontológico;
+Vale transporte para os momentos presenciais;
+Vale transporte para os momentos presenciais;
+Crédito Consignado;
+Crédito Consignado;
+Auxílio Farmácia;
+Auxílio Farmácia;
+Gympass;
+Gympass;
+Desconto em universidades e cursos;
+Desconto em universidades e cursos;
+Ambiente seguro para você ser quem realmente é. Não toleramos absolutamente nenhum tipo de discriminação, seja sexual, racial, social, religiosa, etc.
+Ambiente seguro para você ser quem realmente é. Não toleramos absolutamente nenhum tipo de discriminação, seja sexual, racial, social, religiosa, etc.
+Outras informações importantes para você:
+Trabalho 100% remoto, com alguns encontros presenciais ao longo do ano no escritório, localizado no Rio de Janeiro.
+Por que trabalhar com a gente?
+Acreditamos no potencial transformador da educação para a criação de uma sociedade mais justa e crítica. Hoje, somos uma plataforma gamificada de leitura, que por meio de uma experiência lúdica, incentiva o prazer em aprender, já impactamos muitos alunos e sonhamos em alcançar muitos outros. Para isso precisamos de grandes talentos para fazermos ainda mais!
+Acreditamos no potencial transformador da educação para a criação de uma sociedade mais justa e crítica. Hoje
+, somos uma plataforma gamificada de leitura, que por meio de uma experiência lúdica, incentiva o prazer em aprender, 
+já impactamos muitos alunos e sonhamos em alcançar muitos outros. Para isso precisamos de grandes talentos para fazermos ainda mais!
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: entrevista com Tech Managers2entrevista com Tech Managers
+Etapa 2: entrevista com Tech Managers
+2
+entrevista com Tech Managers
+Etapa 3: teste de Arquitetura3teste de Arquitetura
+Etapa 3: teste de Arquitetura
+3
+teste de Arquitetura
+Etapa 4: entrevista com time de Gente4entrevista com time de Gente
+Etapa 4: entrevista com time de Gente
+4
+entrevista com time de Gente
+Etapa 5: entrevista final com Head de tecnologia5entrevista final com Head de tecnologia
+Etapa 5: entrevista final com Head de tecnologia
+5
+entrevista final com Head de tecnologia
+Etapa 6: Papo de proposta6Papo de proposta
+Etapa 6: Papo de proposta
+6
+Papo de proposta
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+VENHA TRANSFORMAR A EDUCAÇÃO DO BRASIL!
+Trabalhamos todos os dias para levar a leitura para milhares de escolas públicas e privadas de todos os cantos do Brasil. Desde 2014, já impactamos mais de 2 milhões de alunos com as nossas soluções e queremos atingir muitos outros. Vamos transformar a educação! Porque leitura transforma.
+Trabalhamos todos os dias para levar a leitura para milhares de escolas públicas e privadas de todos os cantos do Brasil. Desde 2014, já impactamos mais de 2 milhões de alunos com as nossas soluções e queremos atingir muitos outros. Vamos transformar a educação! Porque leitura transforma.
+
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram

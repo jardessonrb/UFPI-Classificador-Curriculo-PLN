@@ -1,0 +1,83 @@
+link_vaga-https://sidi.gupy.io/job/eyJqb2JJZCI6OTAzODA2LCJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR CLOUD - FRONTEND
+Tipo de vaga: Banco de talentosBanco de talentos
+Tipo de vaga: Banco de talentos
+Banco de talentos
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Quer trabalhar em um dos maiores institutos de ciência e tecnologia do Brasil?
+
+Nós valorizamos o conceito de aprendizado contínuo (o candidato ideal não é aquele que sabe tudo mas sim aquele que tem a habilidade de aprender rapidamente o que não sabe, de praticar e de compartilhar com outros o que aprendeu).
+
+Você é questionador, atuante e pró-ativo, conhece diferentes tecnologias e tem interesse em descobrir novas abordagens? Identifica pontos de melhoria e automação de processos já existentes?
+Se você gosta de trabalhar de forma colaborativa e integrada com os demais membros da equipe, então venha conhecer o SiDi, e saiba mais sobre esta oportunidade.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolvimento de aplicações webManutenção de sistemas para correção de falhas/errosImplementação de melhoriasAtuar como parte da equipe ágilArquitetar, projetar, desenvolver, implantar e operar aplicações na cultura DevOpsDesenvolver as funcionalidades de contato com o usuárioOtimizar a aplicação para melhor velocidade e escalabilidadeGarantir a validação dos dados fornecidos pelos usuáriosCriar código e bibliotecas reutilizáveis para uso futuroColaborar com outros membros da equipe para resolver os desafios existentes
+Desenvolvimento de aplicações web
+Manutenção de sistemas para correção de falhas/erros
+Implementação de melhorias
+Atuar como parte da equipe ágil
+Arquitetar, projetar, desenvolver, implantar e operar aplicações na cultura DevOps
+Desenvolver as funcionalidades de contato com o usuário
+Otimizar a aplicação para melhor velocidade e escalabilidade
+Garantir a validação dos dados fornecidos pelos usuários
+Criar código e bibliotecas reutilizáveis para uso futuro
+Colaborar com outros membros da equipe para resolver os desafios existentes
+REQUISITOS E QUALIFICAÇÕES
+Experiência em desenvolvimento Frontend com algum framework (Angular, Angular.js, React.js ou Vue.js)Preocupação com fidelidade das telas em relação aos protótiposBoa modularização e reuso de códigoExperiência de HTML5, CSS3, Javascript, ES6Experiência com desenvolvimento de sites responsivosConhecimento em:Gerenciamento de estado de SPA'sAPIs RESTTestes unitários, performance e integradosBancos de dados relacionais e não relacionaisArquitetura e configuração de aplicações em CloudCultura DEVOPS (Jenkins, Pipeline scripts)Formação Acadêmica:Graduação completa em Engenharia da Computação, Ciência da Computação, Engenharia Elétrica e/ou áreas correlatas.Idiomas:Inglês avançado
+Experiência em desenvolvimento Frontend com algum framework (Angular, Angular.js, React.js ou Vue.js)
+Preocupação com fidelidade das telas em relação aos protótipos
+Boa modularização e reuso de código
+Experiência de HTML5, CSS3, Javascript, ES6
+Experiência com desenvolvimento de sites responsivos
+Conhecimento em:
+Gerenciamento de estado de SPA's
+APIs REST
+Testes unitários, performance e integrados
+Bancos de dados relacionais e não relacionais
+Arquitetura e configuração de aplicações em Cloud
+Cultura DEVOPS (Jenkins, Pipeline scripts)
+Formação Acadêmica:
+Graduação completa em Engenharia da Computação, Ciência da Computação, Engenharia Elétrica e/ou áreas correlatas.
+Idiomas:
+Inglês avançado
+INFORMAÇÕES ADICIONAIS
+O que esperamos de todos os #SiDiers:
+Abrir a mente para o novo
+Manter diálogo aberto e direto
+Desenvolver-se continuamente
+Fazer o melhor, sempre
+Construir em parceria
+Pensar grande, fazer rápido
+ 
+O que oferecemos?
+ 
+• Qualidade de vida: Jornada de 40 horas semanais com regime CLT, horário flexível e banco de horas trimestral
+• Bem-Estar: Gympass, Ginástica Laboral, Massagista e Apoio Psicológico
+• Saúde: Convênio Médico e Odontológico para você e sua família
+• Filhos: Auxílio creche até 4 anos, licença-maternidade de 120 dias e licença-paternidade estendida
+• Educação: Programa de incentivo para a continuidade dos estudos e especialização, incentivo para que nossos SiDiers se tornem fluentes em outras línguas e ciclos de palestras semanais sobre trend topics mundiais
+• Alimentação: Vale Refeição e Vale Alimentação flexíveis;
+• Reconhecimento: Bônus anual por desempenho e premiações para SiDiers que fizeram algo incrível
+• Diversidade: Comitês sobre Bem-estar, Diversidade, Saúde Mental, Social, Sustentabilidade e Inclusão das mulheres na tecnologia
+• Escritórios Modernos: Ambientes descontraídos e colaborativos com espaços de convivência, minimercado, copas, refeitório*, cestas de frutas*, bebidas à base de café*, etc
+• Ainda quer mais? Dezenas de parcerias com benefícios e descontos!
+ 
+ 
+Para nós, inclusão não é apenas somar mais um ao nosso time, é somar diferenças e particularidades. É justamente dessa mistura de técnicas, habilidades e histórias que nos inspiramos para fazer diferentes pontos de vista olharem para um mesmo horizonte, sempre para frente.
+Trabalhamos em um ambiente de oportunidades iguais, independente de gênero, orientação sexual, religião ou deficiência.
+ 
+Todas as nossas vagas estão disponíveis para PCDs.
+MAIS QUE UM TIME, #SIDIERS 💜💚
+Somos um dos maiores institutos de ciência e tecnologia do Brasil e, com um time com mais de 800 SiDiers que não para de crescer, já estamos em Campinas, Manaus e Recife, os maiores parques tecnológicos e de inovações do Brasil. Pois quem tem a vontade de criar projetos que irão transformar o mundo, não pode parar de se transformar. Em 20 anos de história, nos especializamos em solucionar problemas e trazemos em nossa bagagem mais de 1.100 projetos que impactam a vida de milhões de pessoas, levando inovação e fazendo o futuro acontecer agora.
+QUER SABER MAIS SOBRE O NOSSO DIA A DIA ? 👉 @SEGUEOSIDI
+Website
+LinkedIn
+Facebook
+Instagram

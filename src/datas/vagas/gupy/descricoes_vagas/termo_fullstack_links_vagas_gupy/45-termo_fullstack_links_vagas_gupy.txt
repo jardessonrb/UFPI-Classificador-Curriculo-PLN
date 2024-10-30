@@ -1,0 +1,95 @@
+link_vaga-https://pageoutsourcingbr.gupy.io/job/eyJqb2JJZCI6NzMyNTI4Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+BRADESCO | ESPECIALISTA SISTEMAS - FULLSTACK
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Sobre o Bradesco
+Pensamos em estratégias que sejam capazes de criar oportunidades para a realização das pessoas e para o desenvolvimento sustentável de empresas e sociedade. Ao longo de oito décadas, com pioneirismo e inovação, contribuímos com a democratização do acesso aos serviços bancários no Brasil e fomos além, nos tornamos um dos maiores grupos financeiros da América Latina.
+Sobre a oportunidade
+Atuar com times de desenvolvimento na Vila Investimentos, responsavel pela distribuição de produtos de investimentos no Canal PF (APP e Desktop), no Invest+, e Portal SINV de especialista de investimentos. Na Vila Investimentos temos orgulho de ser um time que preza pela excelência e muito colaborativo, com gestão de portas abertas. Acreditamos em um ambiente onde temos segurança psicologica para o discutirmos os problemas e oportunidades. O desafio de 2024 e 2025 será a pavimentação do Canal PJ, e a migração do workload para a cloud replataformando as funcionalidades atuais do PF. 
+🚗 ATUAÇÃO HÍBRIDA: 3 dias remotos e 2 dias presenciais em:
+Osasco/SP;
+Barueri/SP;
+Uberlândia/MG;
+Curitiba/PR.
+🚗 ATUAÇÃO HÍBRIDA: 2 dias remotos e 3 dias presenciais em:
+Recife/PE.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Suas atividades com a gente envolvem:
+▪ Atuar de forma cross visando a integração entre os times de desenvolvimento e de infraestrutura, e junto ao DA
+ ▪ Responsável pelo direcionamento técnico, de ponta a ponta, no desenvolvimento de uma solução digital ‒ do back-end ao front-end.
+ ▪ Garantir a avaliação da qualidade do código produzido pelo time, através de Code Reviews, dando feedbacks ao time de como melhorar o código.
+▪ Acompanhar e validar o refinamento técnico e design com qualidade e ensinar o processo.
+▪ Garantir a aplicação das práticas e ferramentas da Engenharia de Sistemas Cloud (componentes de automação CLI e Terraform, plataformas de virtualização e Kubernetes, troubleshooting, debugging e patching)
+REQUISITOS E QUALIFICAÇÕES
+Para essa oportunidade você precisa:
+Experiência backend com Java (Spring Boot);
+Experiência frontend com: Javascript (Angular, React JS, CSS e HTML);
+Experiência com Docker e Kubernetes;
+Experiência com Microsserviços;
+Design e Desenvolvimento de APIs;
+Experiência em microsserviços Java SE 8 e superior (incluindo lambda) e suas APIs principais (java.lang, Collections, streams, etc.);
+SQL, React, Domain Driven Design (DDD);
+Metodologias de Test Driven Design (TDD) e Behavior Driven Design (BDD);
+Bancos de Dados SQL, Redis e NoSQL;
+Desenvolvimento de aplicações em Cloud Pública (essencial);
+Experiência em Cloud Azure (diferencial);
+Conceitos de Desenvolvimento Seguro de Software (DevSecOps);
+Conhecimentos em OWASP e Inteligência Artificial aplicada ao desenvolvimento;
+Arquitetura Hexagonal, C4, Arquitetura Orientada a Eventos;
+Experiência como programador, implementando código em ambientes open, entregando códigos precisos, testados e funcionais;
+Experiência desenho de soluções e especificações funcionais e não funcionais;
+Experiência com metodologias ágeis de gestão de projetos, como Scrum ou SAFe;
+Conhecimento e consciência da necessidade de testes unitários, de integração e aceitação.
+Desejável:
+Experiência com Visual Studio, IntelliJ, Jira, Confluence, Git, Maven, Sonar, JUnit, JMeter, Jenkins, Mockito, SQL Studio, Oracle; 
+Certificações AZ-900, DP-900, AZ-204 e AZ-305.
+INFORMAÇÕES ADICIONAIS
+O que nós oferecemos:
+Contratação CLT;
+💰 Remuneração - Aderente às melhores práticas de mercado;
+💰 PLR de 2.2 salários;
+🥗 Auxílios - Refeição de R$ 1.060,84, 🥗 Alimentação de R$ 835,99 (VA/VR total de R$ 1.896.83), 🥗 13ª Cesta: R$ 835,99 e Transporte;
+🩺 Saúde - Plano de saúde, odontológico e seguro de vida, além de descontos em farmácias;
+🏛 Previdência – Plano opcional e exclusivo para funcionários, com participação financeira da Organização Bradesco;
+😀 Bem-Estar - O programa interno Viva Bem Bradesco conta com diversas iniciativas para prevenção de doenças e promoção de hábitos, atitudes e comportamentos saudáveis, além de oferecer orientação e aconselhamento para resolução de problemas pessoais, familiares, legais e financeiros;
+📚 Capacitação - Por meio da Universidade Corporativa Bradesco, a Unibrad, investimos no aprendizado pessoal e profissional do nosso time, promovendo soluções de aprendizagem e parcerias com instituições de ensino;
+🎯 Isenção de Tarifas – Cesta de serviços bancários exclusiva, com descontos e condições especiais em diversos produtos e serviços da Organização Bradesco;
+👨‍👩‍👧‍👦 Mães, Pais e Filhos - Auxílio Creche/Babá de R$ 602,81, licença paternidade e licença maternidade estendida, além de acompanhamento assistencial da gestação até o pós-parto.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista Page2Entrevista Page
+Etapa 2: Entrevista Page
+2
+Entrevista Page
+Etapa 3: Avaliação Cliente3Avaliação Cliente
+Etapa 3: Avaliação Cliente
+3
+Avaliação Cliente
+Etapa 4: Ultima Etapa4Ultima Etapa
+Etapa 4: Ultima Etapa
+4
+Ultima Etapa
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+QUEM SOMOS
+A Page Outsourcing faz parte do Page Group, um dos líderes mundiais em recrutamento especializado!
+Colaborando com grandes players do mercado brasileiro para potencializar estratégias de desenvolvimento, implementação de sistemas e expansão de operações através do recrutamento e seleção assertiva de profissionais, a Page Outsourcing traz o DNA do Page Group em amplo conhecimento de mercado e papel consultivo para seus parceiros, ampliando-o em processos de contratação em larga escala, com eficiência e assertividade.
+NOSSAS MÍDIAS SOCIAIS
+Website
+LinkedIn
+Facebook
+Glassdoor

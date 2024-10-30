@@ -1,0 +1,119 @@
+link_vaga-https://ploomes.gupy.io/job/eyJqb2JJZCI6Nzk2Nzg0MSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA BACK-END C# JR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A Ploomes é a maior empresa de CRM da América Latina.
+Nosso objetivo é centralizar toda a operação comercial possibilitando a visão 360º dos clientes. 🌎
+Para isso, desenvolvemos um produto que combina robustez e facilidade de implementação, utilização e manutenção, com vários módulos que vão auxiliar o dia a dia do time comercial.
+Acreditamos na autonomia, na força das nossas conexões e na atitude que é a chave para gerar o impacto que queremos no mercado. 👊
+Valorizamos um ambiente plural e diverso, por isso, candidaturas de pessoas pretas/negras, mulheres, indígenas, pessoas com deficiências, LGBTQIA+ ou outros grupos minorizados são muito bem vindas!
+Inscreva-se e venha fazer parte do nosso time! 💜
+Praticamente todo novo cliente da Ploomes possui demandas que são requisitos para que possamos atendê-lo, como por exemplo:
+Integrar com sistemas terceiros
+Automatizar processos
+Customizar o comportamento do Ploomes
+Para estas demandas, é necessário utilizar a API do Ploomes para desenvolver o projeto. Geralmente, quando se trata de Integrações, é necessário desenvolver um Middleware que seja capaz de:
+Consultar a fonte (sistema 1) em busca de dados que possam ter sido atualizados
+Validar se os dados encontrados estão dentro do critério definido para a integração
+Tratar eventuais exceções
+Transformar os dados (tipos, Identificadores, entre outros) para o formato esperado pelo destino (sistema 2)
+Fazer o envio da informação para o destino
+Para Automações de rotinas, por exemplo, é necessário criar middlewares ou usar Webhooks para integração do Ploomes com o próprio Ploomes, no estilo "If this then that". Ou seja, quando determinado evento acontecer (gatilho), um outro deve acontecer automaticamente. Exemplos reais:
+Quando uma negociação atingir determinado estágio, uma tarefa de Follow Up deve ser criada ao vendedor responsável;
+Quando um cliente ficar sem vendas realizadas por mais do que 3 meses, converte-lo em "inativo" e disparar uma notificação para o responsável pelo cliente;
+Customizações, por sua vez, podem envolver:
+Criar telas novas especificamente para um cliente, utilizando a API do Ploomes para criar novas capacidades para o sistema
+Criar ferramentas de exportação de relatórios customizados
+RESPONSABILIDADES E ATRIBUIÇÕES
+Gerenciamento das entregas dentro dos prazos e cronograma estabelecido; Estudo de API e possibilidades de desenvolvimento com ferramentas de terceiros;Relacionamento próximo com o cliente durante a execução do projeto;Customizações e integrações em projetos de implantação do Ploomes.
+Gerenciamento das entregas dentro dos prazos e cronograma estabelecido; 
+Gerenciamento das entregas dentro dos prazos e cronograma estabelecido; 
+Estudo de API e possibilidades de desenvolvimento com ferramentas de terceiros;
+Estudo de API e possibilidades de desenvolvimento com ferramentas de terceiros;
+Relacionamento próximo com o cliente durante a execução do projeto;
+Relacionamento próximo com o cliente durante a execução do projeto;
+Customizações e integrações em projetos de implantação do Ploomes.
+Customizações e integrações em projetos de implantação do Ploomes.
+REQUISITOS E QUALIFICAÇÕES
+Conhecimento em C#;SQL;Conhecimento em Git.Diferenciais 🎯Conhecimentos em:Docker;Kubernetes;Helm;HTML/CSS/JS;PHP.
+Conhecimento em C#;
+Conhecimento em C#;
+SQL;
+SQL;
+Conhecimento em Git.
+Conhecimento em Git.
+Diferenciais 🎯
+Conhecimentos em:
+Docker;
+Docker;
+Kubernetes;
+Kubernetes;
+Helm;
+Helm;
+HTML/CSS/JS;
+HTML/CSS/JS;
+PHP.
+PHP.
+INFORMAÇÕES ADICIONAIS
+Plano de saúde e odontológico;Seguro de vida;Zenklub;Gympass/ TotalPass;Vale Alimentação/Refeição flexíveis (iFood Benefícios);Ajuda de Custo Home Office;Auxílio Mobilidade;Auxílio Creche;Day Off de Aniversário.Modelo de contratação 💜:Para pessoas de fora de São Paulo: 100% home office;Para pessoas que moram em São Paulo: Híbrido, 1x por semana presencial.
+Plano de saúde e odontológico;
+Seguro de vida;
+Zenklub;
+Gympass/ TotalPass;
+Vale Alimentação/Refeição flexíveis (iFood Benefícios);
+Ajuda de Custo Home Office;
+Auxílio Mobilidade;
+Auxílio Creche;
+Day Off de Aniversário.
+Modelo de contratação 💜:
+Para pessoas de fora de São Paulo: 100% home office;
+Para pessoas que moram em São Paulo: Híbrido, 1x por semana presencial.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Teste de Raciocínio Lógico2Teste de Raciocínio Lógico
+Etapa 2: Teste de Raciocínio Lógico
+2
+Teste de Raciocínio Lógico
+Etapa 3: Entrevista com Talent3Entrevista com Talent
+Etapa 3: Entrevista com Talent
+3
+Entrevista com Talent
+Etapa 4: Desafio Técnico 4Desafio Técnico 
+Etapa 4: Desafio Técnico 
+4
+Desafio Técnico 
+Etapa 5: Entrevista com Pessoa Gestora5Entrevista com Pessoa Gestora
+Etapa 5: Entrevista com Pessoa Gestora
+5
+Entrevista com Pessoa Gestora
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+SOBRE NÓS
+Muito prazer, somos a Ploomes: a maior empresa de CRM da América Latina! Criamos a primeira plataforma que uniu CRM, automação de processos e geração de propostas e fizemos isso para centralizar toda a operação comercial, do lead gerado à sua conversão e fidelização, nos tornando o único ambiente de trabalho do vendedor e possibilitando a visão 360º de clientes. Prático, né? 🤗
+Nós queremos tornar empresas escaláveis e gerenciáveis a partir da orquestração e automação da jornada dos seus clientes. Convidamos você para fazer parte dessa jornada! 💜
+Bateu a curiosidade de saber como é trabalhar na Ploo? Dá uma olhada 🧐:
+Paixão pelo Entendimento 🧠: Não basta apenas conhecer o mercado, o produto e os clientes. É necessário mergulhar de cabeça, questionar os fatos, organizar as ideias e compreender que o controle só pode ser alcançado através do entendimento real.
+Foco no Core 🎯: O "Core" representa a essência de qualquer coisa, a razão pela qual algo foi concebido e o objetivo final de tudo aquilo que fazemos. Direcionamos nossas decisões e esforços com base no Core da Ploomes, com destaque à entrega de sucesso e experiência aos nossos clientes;
+Atitude que Gera Impacto 🤘: Sabemos que a atitude é a chave para gerar impacto. Assim, assumimos a responsabilidade pelos nossos erros e agimos de forma proativa para minimizar seus impactos. Acreditamos na autonomia! Concedemos autonomia devido à confiança que temos uns nos outros e, ao mesmo tempo, recebemos essa mesma confiança devido à nossa responsabilidade e habilidade para agir de forma independente;
+Conexão que Transforma 🤝: Nossa cultura é focada em fazer conexões. Fortalecemos nossos vínculos, compartilhamos momentos de diversão e mantemos relações leves e transparentes. Somos claros, objetivos e autênticos, garantindo que a outra pessoa entenda o que queremos comunicar. Através de encantamento, inspiração e energia, proporcionamos uma verdadeira experiência a nossos clientes, parceiros e nossos próprios colaboradores.
+Por aqui é assim: Estamos sempre construindo, juntos! 💜
+NOSSAS REDES SOCIAIS
+Website
+LinkedIn
+Facebook
+Instagram
+CONHEÇA A PLOOMES, MAIOR EMPRESA DE CRM DA AMÉRICA LATINA

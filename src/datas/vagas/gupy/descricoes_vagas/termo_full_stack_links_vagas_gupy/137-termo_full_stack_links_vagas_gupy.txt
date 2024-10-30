@@ -1,0 +1,77 @@
+link_vaga-https://gradus.gupy.io/job/eyJqb2JJZCI6Nzg5ODYwNiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR FULL STACK
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A Gradus Tech, empresa de tecnologia com enorme potencial de crescimento, ligada à Gradus Consultoria, está buscando um profissional com energia para somar ao time de Produtos. Nós da Gradus Tech, somos especialistas em soluções e aplicativos voltados ao aumento de produtividade e rentabilidade. Venha construir essa história de sucesso com a gente!
+Como Desenvolvedor Full Stack em nossa equipe, você terá a oportunidade de trabalhar em estreita colaboração com times multidisciplinares para desenvolver e implementar soluções abrangentes para nossos softwares, desde a concepção até a entrega final. 
+Ficha técnica:
+Departamento: Área de Produtos
+Nível: Senior/Pleno/Júnior
+Modelo de contratação: CLT
+Local de trabalho: Híbrido em São Paulo
+RESPONSABILIDADES E ATRIBUIÇÕES
+O que você vai fazer:
+Construção de aplicações web
+Modelagem de dados
+Criação de testes automatizados
+Execução de tarefas com metodologias ágeis
+REQUISITOS E QUALIFICAÇÕES
+O que esperamos de você:
+Formação em Engenharia da Computação, Engenharia de Sistemas, Ciência da Computação ou Sistemas de Informação
+Experiência no desenvolvimento de aplicações web
+Interesse na linguagem Java e Javascript
+Também valorizamos:
+Entusiasta de TDD, integração contínua, testes automatizados e outras técnicas para aumentar a produtividade da equipe e qualidade do produto
+Desejável conhecimento de modelagem e de sistemas de banco de dados e técnicas de programação (MySQL)
+Familiaridade em frameworks web (AngularJS, Angular)
+Entusiasmo em soluções open source
+Conhecimento de metodologias ágeis
+Familiaridade com AWS
+Fluência em Inglês
+INFORMAÇÕES ADICIONAIS
+O que a Gradus Tech oferece:
+Empresa multidisciplinar, que mistura simultaneamente o melhor dos mundos dos negócios, tecnologia e pessoas
+Atuação nas maiores empresas do Brasil e em projetos internacionais
+Exposição constante à direção das empresas
+Ambiente acolhedor, com um time extremamente competente
+Constante investimento na equipe, através de treinamentos, palestras, eventos e material para aprimoramento dos profissionais
+Meritocracia e Remuneração competitiva: Salário, PLR, Convênio médico e odontológico, Gympass, Auxílio Home Office e VR (Cartão Flash)
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: 1ª entrevista21ª entrevista
+Etapa 2: 1ª entrevista
+2
+1ª entrevista
+Etapa 3: Teste técnico3Teste técnico
+Etapa 3: Teste técnico
+3
+Teste técnico
+Etapa 4: 2ª entrevista42ª entrevista
+Etapa 4: 2ª entrevista
+4
+2ª entrevista
+Etapa 5: 3ª entrevista53ª entrevista
+Etapa 5: 3ª entrevista
+5
+3ª entrevista
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+SOBRE NÓS
+Somos especializados em rentabilidade, aumento de produtividade e transformação organizacional. Nosso objetivo é assessorar os gestores de empresas líderes em seus desafios empresariais.Temos como princípio atuar em projetos de alto impacto/retorno com resultados mensuráveis, trabalhando em conjunto com os executivos das empresas na implantação das principais iniciativas para garantir a captura de resultados.A Gradus é composta por 3 unidades de negócio com competências complementares:Gradus Consultoria: Consultoria de gestão especializada no aumento de rentabilidade de empresas através da produtividade. Conheça mais em: www.gradusconsultoria.com.brGradus Analytics: Serviços analíticos contínuos e apps de produtividade desenvolvidos para resolver complexos desafios de negócios.Gradus Tech: Softwares proprietários, transformando metodologias comprovadas em soluções que aumentam em grande escala a eficiência de nossos clientes. Conheça mais em: www.gradustech.com.br 
+
+
+

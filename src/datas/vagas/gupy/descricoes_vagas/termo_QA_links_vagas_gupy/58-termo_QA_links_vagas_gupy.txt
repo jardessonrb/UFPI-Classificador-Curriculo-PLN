@@ -1,0 +1,69 @@
+link_vaga-https://db.gupy.io/job/eyJqb2JJZCI6NzIwNTMzNCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+QA AUTOMAÇÃO PL - PROJETO VAREJISTA
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+O que vamos construir juntos?
+Nosso time é preocupado em propor as melhores soluções baseado em excelência técnica, pensando em alternativas que agreguem valor, com mindset ágil e cultura de colaboração. Nós respeitamos a diversidade e acreditamos que times diversos contribuem para construir ideias mais inovadoras. 
+Nosso time é preocupado em propor as melhores soluções baseado em excelência técnica, pensando em alternativas que agreguem valor, com mindset ágil e cultura de colaboração. Nós respeitamos a diversidade e acreditamos que times diversos contribuem para construir ideias mais inovadoras.
+ 
+ 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Nos ajude a desenhar a solução!
+Se você é uma pessoa de QA, não tem medo de botar a mão na massa e de desafios, está MUITO perto de integrar nosso time DB. Você será a pessoa responsável por realizar testes automatizados e ajudar garantir a qualidade do seu projeto. Esse projeto você atuará em um grande cliente do ramo varejista.
+Se você é uma pessoa de QA, não tem medo de botar a mão na massa e de desafios, está MUITO perto de integrar nosso time DB. Você será a pessoa responsável por realizar testes automatizados e ajudar garantir a qualidade do seu projeto. Esse projeto você atuará em um grande cliente do ramo varejista
+REQUISITOS E QUALIFICAÇÕES
+Requisitos para se candidatar a vaga:
+Experiência com testes API, Web e UI;
+Automatização de testes (Cucumber, Rest Assured, Selenium, MochaJs, JAVA)
+Testes manuais (Postman);
+Levantamento de casos de testes, requisitos funcionais e regras de negócios;
+Experiência em planejamento e execução de testes automatizados;
+Criar e manter as suite de testes automatizados e os testes manuais;
+Metodologia Ágil, Scrum, Kanban;
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista de Pessoas2Entrevista de Pessoas
+Etapa 2: Entrevista de Pessoas
+2
+Entrevista de Pessoas
+Etapa 3: Entrevista Técnica3Entrevista Técnica
+Etapa 3: Entrevista Técnica
+3
+Entrevista Técnica
+Etapa 4: Proposta 4Proposta 
+Etapa 4: Proposta 
+4
+Proposta 
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+PRAZER, SOMOS A DB!
+Da garagem de casa para o mundo: assim começa a história da DB. Nascemos com desejo de mudança, nosso propósito é ser uma empresa de tecnologia centrada nas pessoas, com colaboração, inclusão e diversidade. Em 1993, iniciamos como consultores de um dos grandes bancos de dados da época, que nos deu o nome de DBServer (data base server) e aos poucos fomos construindo a DB (Design + Build the future) que você conhece hoje, a que gera mudança através de inovação e humanidade.
+Da garagem de casa para o mundo: assim começa a história da DB. Nascemos com desejo de mudança, nosso propósito é ser uma empresa de tecnologia centrada nas pessoas, com colaboração, inclusão e diversidade. Em 1993, iniciamos como consultores de um dos grandes bancos de dados da época, que nos deu o nome de DBServer (data base server) e aos poucos fomos construindo a DB (Design + Build the future) que você conhece hoje, a que gera mudança através de inovação e humanidade.
+Nós desenvolvemos pessoas que impactam os negócios com tecnologia e inovação, participando de forma flexível e articulada em squads, consultorias e capacitações em todas as etapas do ciclo de vida, do Discovery ao Delivery e sustentação.
+Nós desenvolvemos pessoas que impactam os negócios com tecnologia e inovação, participando de forma flexível e articulada em squads, consultorias e capacitações em todas as etapas do ciclo de vida, do Discovery ao Delivery e sustentação.
+Um olhar para a Diversidade & Inclusão
+A DB tem constituído uma jornada composta por marcadores culturais com profundo significado humano e que fazem parte do nosso dia a dia. Com coragem e empatia, colaboração, senso coletivo e de comunidade, estamos evoluindo na direção de uma cultura centrada nas pessoas.
+A DB tem constituído uma jornada composta por marcadores culturais com profundo significado humano e que fazem parte do nosso dia a dia. Com coragem e empatia, colaboração, senso coletivo e de comunidade, estamos evoluindo na direção de uma cultura centrada nas pessoas.
+Estamos orgulhosos de promover um ambiente de trabalho livre de discriminação. Acreditamos que a diversidade de experiências, perspectivas e histórico transforma nosso ambiente de trabalho. Estamos empenhados a construir esse legado com a sua parceria! 
+Estamos orgulhosos de promover um ambiente de trabalho livre de discriminação. Acreditamos que a diversidade de experiências, perspectivas e histórico transforma nosso ambiente de trabalho. Estamos empenhados a construir esse legado com a sua parceria! 
+Conheça nosso Marco Ético: https://bit.ly/MarcoEtico
+CONECTE-SE COM A DB!
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

@@ -1,0 +1,154 @@
+link_vaga-https://logcomex.gupy.io/job/eyJqb2JJZCI6NzQ0OTE4OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR FULL STACK SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Somos uma empresa apaixonada por tecnologia, inovação e pessoas!
+Somos uma empresa apaixonada por tecnologia, inovação e pessoas!
+Somos movidos por desafios. Transformamos problemas em soluções e somos facilitadores da vida dos nossos clientes. Desenvolvemos uma tecnologia que ajuda as empresas a planejar, monitorar e automatizar o seu supply chain global. Organizamos as informações do comércio global e transformamos a maneira como as empresas fazem negócios.
+Somos movidos por desafios. Transformamos problemas em soluções e somos facilitadores da vida dos nossos clientes. Desenvolvemos uma tecnologia que ajuda as empresas a planejar, monitorar e automatizar o seu supply chain global. Organizamos as informações do comércio global e transformamos a maneira como as empresas fazem negócios.
+A Logcomex está voando!
+A Logcomex está voando!
+Já somos mais de 300 Loggers e já fomos premiados como Melhor Empresa Para se Trabalhar (GPTW) por seis anos consecutivos. No ano de 2023, conquistamos a posição de 20° melhor empresa para se trabalhar no estado do Paraná! Demais, né?
+Já somos mais de 300 Loggers e já fomos premiados como Melhor Empresa Para se Trabalhar (GPTW) por seis anos consecutivos. No ano de 2023, conquistamos a posição de 20° melhor empresa para se trabalhar no estado do Paraná! Demais, né?
+Além disso, somos uma empresa que busca constantemente construir e promover uma cultura diversa e inclusiva. Aqui, você tem um espaço seguro para ser quem é com respeito, humildade e colaboração. Entendemos que a equação perfeita é quando temos pessoas com diferentes experiências que estão juntas, trabalhando, compartilhando conhecimentos e competências.
+Além disso, somos uma empresa que busca constantemente construir e promover uma cultura diversa e inclusiva. Aqui, você tem um espaço seguro para ser quem é com respeito, humildade e colaboração. Entendemos que a equação perfeita é quando temos pessoas com diferentes experiências que estão juntas, trabalhando, compartilhando conhecimentos e competências.
+Acreditamos que a tecnologia é o meio para conectar o mundo. Somos autoridade e referência naquilo que fazemos. Somos a tecnologia que move o comércio global. 
+Acreditamos que a tecnologia é o meio para conectar o mundo. Somos autoridade e referência naquilo que fazemos. Somos a tecnologia que move o comércio global. 
+E aí, topa transformar o comércio exterior com a gente?
+RESPONSABILIDADES E ATRIBUIÇÕES
+Você irá...
+Você irá...
+Manter o funcionamento dos sistemas em produção;
+Manter o funcionamento dos sistemas em produção;
+Desenvolvimento com testes unitários;
+Desenvolvimento com testes unitários;
+Desenvolver e implementar em PHP (Laravel) e VueJS;
+Desenvolver e implementar em PHP (Laravel) e VueJS;
+Desenvolver novos produtos utilizando estrutura de micro serviços;
+Desenvolver novos produtos utilizando estrutura de micro serviços;
+Desenvolvimento de código com alta disponibilidade;
+Desenvolvimento de código com alta disponibilidade;
+Utilizar Docker para fazer conteinerização de ambiente de desenvolvimento;
+Utilizar Docker para fazer conteinerização de ambiente de desenvolvimento;
+Utilizar o Git para versionamento de código;
+Utilizar o Git para versionamento de código;
+Trabalhar com o Jira;
+Trabalhar com o Jira;
+Utilizar metodologias ágeis para apoiar as atividades;
+Utilizar metodologias ágeis para apoiar as atividades;
+REQUISITOS E QUALIFICAÇÕES
+Será legal se você conhecer...
+Será legal se você conhecer...
+Python;
+Python;
+AWS
+AWS
+ElasticSearch;
+ElasticSearch;
+Looker;
+Looker;
+Microsserviços;
+Microsserviços;
+K8s
+K8s
+Testes de mutação;
+Testes de mutação;
+Mensageria.
+Mensageria.
+INFORMAÇÕES ADICIONAIS
+Nossos Benefícios: 
+ Benefícios Caju no valor fixo de R$1.600 mês (alimentação, mobilidade, saldo livre e auxílio home office);
+Benefícios Caju no valor fixo de R$1.600 mês (alimentação, mobilidade, saldo livre e auxílio home office);
+ Plano de saúde Unimed ou Amil com abrangência Nacional;
+ Plano de saúde Unimed ou Amil com abrangência Nacional;
+ Plano odontológico Odontoprev;
+ Plano odontológico Odontoprev;
+ Seguro de vida - Metlife;
+ Seguro de vida - Metlife;
+ Wellhub;
+ Wellhub;
+ Keikein (plataforma de apoio psicológico);
+ Keikein (plataforma de apoio psicológico);
+ Convênio farmácia Panvel;
+ Convênio farmácia Panvel;
+ Licença maternidade e paternidade estendida pelo Programa Empresa Cidadã; 
+ Licença maternidade e paternidade estendida pelo Programa Empresa Cidadã; 
+Subsídio para desenvolvimento, com a parceria com a Unico Skill, que oferece diversas opções de graduação, pós-graduação, idiomas, mentorias, etc;
+Subsídio para desenvolvimento, com a parceria com a Unico Skill, que oferece diversas opções de graduação, pós-graduação, idiomas, mentorias, etc;
+🤓 Aulas de inglês particulares para liderança e especs nível II para cima
+🤓 Aulas de inglês particulares para liderança e especs nível II para cima
+ Parceria PetLove
+ Parceria PetLove
+ Auxilio Escola/Educação
+ Auxilio Escola/Educação
+Mimos: (sim, porque somos destes!)
+ Frutas frescas, cookies, café, chá e energéticos disponíveis a qualquer momento, além de Pizza toda sexta-feira no nosso Office;
+ Frutas frescas, cookies, café, chá e energéticos disponíveis a qualquer momento, além de Pizza toda sexta-feira no nosso Office;
+🎉 Happy hours, eventos de integração e team buildings
+🎉 Happy hours, eventos de integração e team buildings
+✈️ Viagens para o escritório dos Loggers de fora são custeadas pela empresa
+✈️ Viagens para o escritório dos Loggers de fora são custeadas pela empresa
+🤝 Parceria com Uneed e KÜK Station para oferecer o melhor aos nossos logger em dia de escritório
+🤝 Parceria com Uneed e KÜK Station para oferecer o melhor aos nossos logger em dia de escritório
+ Sem dress code: aqui você pode ser você e usar o que te deixa mais confortável;
+ Sem dress code: aqui você pode ser você e usar o que te deixa mais confortável;
+ Ambiente descontraído, cheio de desafios e campeonatos de videogame;
+ Ambiente descontraído, cheio de desafios e campeonatos de videogame;
+Rede de descanso para um respiro no meio da correria do dia
+Rede de descanso para um respiro no meio da correria do dia
+ Biblioteca da Log com livros incríveis para todos os loggers se desenvolverem
+ Biblioteca da Log com livros incríveis para todos os loggers se desenvolverem
+ Massagem in company;
+ Massagem in company;
+ Day off de aniversário;
+ Day off de aniversário;
+ Presente de aniversário;
+ Presente de aniversário;
+ Presentes incríveis a cada ano de Logger;
+ Presentes incríveis a cada ano de Logger;
+ Recruta Loggers (programa de indicação com bonificação $).
+ Recruta Loggers (programa de indicação com bonificação $).
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Bate-papo com Pessoas & Cultura2Bate-papo com Pessoas & Cultura
+Etapa 2: Bate-papo com Pessoas & Cultura
+2
+Bate-papo com Pessoas & Cultura
+Etapa 3: Mão na Massa - Engenharia3Mão na Massa - Engenharia
+Etapa 3: Mão na Massa - Engenharia
+3
+Mão na Massa - Engenharia
+Etapa 4: Bate-papo com o Gestor4Bate-papo com o Gestor
+Etapa 4: Bate-papo com o Gestor
+4
+Bate-papo com o Gestor
+Etapa 5: Bate-papo com C Level5Bate-papo com C Level
+Etapa 5: Bate-papo com C Level
+5
+Bate-papo com C Level
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+NOSSA TECNOLOGIA CONECTA. VENHA FAZER PARTE DESSA TRANSFORMAÇÃO.
+Aqui na Logcomex nossa missão é transformar a maneira que as empresas fazem o comércio global. Somos uma plataforma única que conecta todo o ecossistema do comércio global, desde o planejamento com analytics até a visibilidade avançada de toda a cadeia do supply chain. Mas, antes de conectar fronteiras, precisamos conectar pessoas! Estamos revolucionando o comércio exterior e, para fazer isso, precisamos de um time comprometido em inovar com a gente. Sabemos também que para inovar, é essencial ter uma cultura forte que possibilita um ambiente transparente e colaborativo. Um lugar em que podemos sugerir, errar, aprimorar, ouvir, ensinar e assim chegar mais longe.
+Quer fazer parte da nossa transformação? Então corre lá se inscrever para participar dos nossos processos seletivos!
+CONHEÇA MAIS SOBRE A LOGCOMEX
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor
+SOLUÇÕES EM BIG DATA PRONTAS PARA REVOLUCIONAR O COMÉRCIO EXTERIOR!

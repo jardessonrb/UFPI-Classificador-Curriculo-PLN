@@ -1,0 +1,74 @@
+link_vaga-https://fcamara.gupy.io/job/eyJqb2JJZCI6Nzk0NDAwOSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA FULL STACK JUNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Estamos em busca de profissionais excepcionais para se juntarem ao nosso time de desenvolvimento para um projeto que está transformando o setor de marketing por meio de soluções tecnológicas inovadoras. Trabalhar conosco significa enfrentar desafios empolgantes, envolvendo arquiteturas modernas, automação de processos, e desenvolvimento de interfaces intuitivas que impactam diretamente nossos clientes. Utilizamos uma stack robusta, incluindo AWS como cloud provider, para garantir que nossas soluções sejam escaláveis, seguras e eficientes.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Auxiliar no desenvolvimento de soluções Full Stack utilizando Node.js e React.Aprender e implementar microserviços com AWS, incluindo Lambda, API Gateway e RDS.Participar na automação de pipelines e deploys com o framework SST DevOps e AWS (CodePipeline, S3).Colaborar com o time no desenvolvimento de soluções de alta qualidade e segurança na nuvem.
+Auxiliar no desenvolvimento de soluções Full Stack utilizando Node.js e React.
+Aprender e implementar microserviços com AWS, incluindo Lambda, API Gateway e RDS.
+Participar na automação de pipelines e deploys com o framework SST DevOps e AWS (CodePipeline, S3).
+Colaborar com o time no desenvolvimento de soluções de alta qualidade e segurança na nuvem.
+REQUISITOS E QUALIFICAÇÕES
+Conhecimento básico em Node.js e React.Interesse em aprender sobre microserviços, DevOps e AWS.Vontade de aprender a trabalhar com ferramentas AWS, como S3, Lambda e CloudFormation.Capacidade de trabalhar em equipe e vontade de aprender com profissionais mais experientes.
+Conhecimento básico em Node.js e React.
+Interesse em aprender sobre microserviços, DevOps e AWS.
+Vontade de aprender a trabalhar com ferramentas AWS, como S3, Lambda e CloudFormation.
+Capacidade de trabalhar em equipe e vontade de aprender com profissionais mais experientes.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista R&S2Entrevista R&S
+Etapa 2: Entrevista R&S
+2
+Entrevista R&S
+Etapa 3: Entrevista Técnica3Entrevista Técnica
+Etapa 3: Entrevista Técnica
+3
+Entrevista Técnica
+Etapa 4: Entrevista Cliente4Entrevista Cliente
+Etapa 4: Entrevista Cliente
+4
+Entrevista Cliente
+Etapa 5: Carta Proposta5Carta Proposta
+Etapa 5: Carta Proposta
+5
+Carta Proposta
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+TRANSFORMAMOS MUNDOS SONHADOS EM TRAJETÓRIAS REAIS.🧡🚀
+Aqui somos #SangueLaranja!Estamos há 17 anos no mercado, lado a lado com nossos clientes, proporcionando experiências transformadoras. Somos um ecossistema de tecnologia e inovação, com expansão global; Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda. 🌎  F de Formação: acreditamos na prática da cultura do compartilhamento, no senso de comunidade, e que o conhecimentotem o poder da transformação! Possuímos iniciativas, e ações sociais, que promovem o desenvolvimento, como a comunidade tech Orange Juice, o Programa de Formação,nossa escola de liderança e diversas parcerias com ONGs e Edtechs.   Na FCamara todos são bem-vindos, para nós, Diversidade, Respeito e Ética, são elementos inegociáveis e fazem parte do nosso DNA.   E aí, está pronto para fazer parte de um time incrível e ser protagonista da própria história?    
+Aqui somos #SangueLaranja!
+Estamos há 17 anos no mercado, lado a lado com nossos clientes, proporcionando experiências transformadoras. 
+Somos um ecossistema de tecnologia e inovação, com expansão global; Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda. 🌎
+Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda.
+  
+F de Formação: acreditamos na prática da cultura do compartilhamento, no senso de comunidade, e que o conhecimento
+tem o poder da transformação!
+ 
+Possuímos iniciativas, e ações sociais, que promovem o desenvolvimento, como a comunidade tech Orange Juice, o Programa de Formação,
+nossa escola de liderança e diversas parcerias com ONGs e Edtechs. 
+  
+Na FCamara todos são bem-vindos, para nós, Diversidade, Respeito e Ética, são elementos inegociáveis e fazem parte do nosso DNA. 
+  
+E aí, está pronto para fazer parte de um time incrível e ser protagonista da própria história? 
+   
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

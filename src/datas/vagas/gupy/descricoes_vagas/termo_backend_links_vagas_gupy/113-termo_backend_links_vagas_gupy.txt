@@ -1,0 +1,129 @@
+link_vaga-https://jazztech.gupy.io/job/eyJqb2JJZCI6NzQ5NDIzMiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR(A) BACKEND SENIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Olá, nós somos a Jazz! 
+ 
+Uma Buildtech Financeira que constrói e agrega valor aos nossos parceiros de forma 
+Uma Buildtech Financeira que constrói e agrega valor aos nossos parceiros de forma 
+estratégica por meio de uma avançada biblioteca de API’s. Ofertamos a capacidade de integrar soluções tecnológicas e financeiras a diferentes frentes de negócios, construindo produtos de forma completa ou modular e entregando a experiência do usuário de ponta a ponta nos segmentos:
+estratégica por meio de uma avançada biblioteca de API’s. Ofertamos a capacidade de integrar soluções tecnológicas e financeiras a diferentes frentes de negócios, construindo produtos de forma completa ou modular e entregando a experiência do usuário de ponta a ponta nos segmentos:
+• Payroll
+• Payroll
+• BaaS
+• BaaS
+• T&E
+• T&E
+Estamos procurando uma pessoa para a posição de Desenvolvedor Backedn Senior para nosso time.
+Estamos procurando uma pessoa para a posição de 
+para nosso time.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Construir códigos ou componentes garantindo o reuso e facilidade de manutenção; Atuar no desenvolvimento de soluções críticas e complexas; Identificar causas-raízes de problemas no software e garantir a correção de forma definitiva; Executar a cultura de Code Review proativamente; Garantir a criação de solução resiliente e escalável, observando a adaptabilidade e performance do software; Realizar a publicação das aplicações em ambiente produtivo e acompanhar o seu ciclo evolutivo; Seguir as diretrizes de segurança e dar apoio técnico para que o time a faça o mesmo; Compartilhar conhecimento e aprendizados; Apoiar a contratação de outros desenvolvedores.
+Construir códigos ou componentes garantindo o reuso e facilidade de manutenção; 
+Construir códigos ou componentes garantindo o reuso e facilidade de manutenção; 
+Atuar no desenvolvimento de soluções críticas e complexas; 
+Atuar no desenvolvimento de soluções críticas e complexas; 
+Identificar causas-raízes de problemas no software e garantir a correção de forma definitiva; 
+Identificar causas-raízes de problemas no software e garantir a correção de forma definitiva; 
+Executar a cultura de Code Review proativamente; 
+Executar a cultura de Code Review proativamente; 
+Garantir a criação de solução resiliente e escalável, observando a adaptabilidade e performance do software; 
+Garantir a criação de solução resiliente e escalável, observando a adaptabilidade e performance do software; 
+Realizar a publicação das aplicações em ambiente produtivo e acompanhar o seu ciclo evolutivo; 
+Realizar a publicação das aplicações em ambiente produtivo e acompanhar o seu ciclo evolutivo; 
+Seguir as diretrizes de segurança e dar apoio técnico para que o time a faça o mesmo; 
+Seguir as diretrizes de segurança e dar apoio técnico para que o time a faça o mesmo; 
+Compartilhar conhecimento e aprendizados; 
+Compartilhar conhecimento e aprendizados; 
+Apoiar a contratação de outros desenvolvedores.
+Apoiar a contratação de outros desenvolvedores.
+REQUISITOS E QUALIFICAÇÕES
+Conhecimento e experiência em desenvolvimento de software utilizando os principais padrões de projetos e boas práticas de desenvolvimento orientado a domínio (DDD); Sólida experiência com software backend utilizando tecnologia .Net e linguagem C#; Experiência com frameworks ORM (Entity Framework, Dapper); Ter uma visão completa de engenharia de software (dados, cloud, código, segurança e observabilidade); Experiência em ferramentas de testes unitários, frameworks de testes e ferramentas de teste de desempenho; Conhecimento em GIT e ferramentas de CI/CD; Experiência com APIs REST; Experiência com metodologias ágeis. Desejável:Experiência em desenvolvimento de soluções em nuvem.
+Conhecimento e experiência em desenvolvimento de software utilizando os principais padrões de projetos e boas práticas de desenvolvimento orientado a domínio (DDD); 
+Conhecimento e experiência em desenvolvimento de software utilizando os principais padrões de projetos e boas práticas de desenvolvimento orientado a domínio (DDD); 
+Sólida experiência com software backend utilizando tecnologia .Net e linguagem C#; 
+Sólida experiência com software backend utilizando tecnologia .Net e linguagem C#; 
+Experiência com frameworks ORM (Entity Framework, Dapper); 
+Experiência com frameworks ORM (Entity Framework, Dapper); 
+Ter uma visão completa de engenharia de software (dados, cloud, código, segurança e observabilidade); 
+Ter uma visão completa de engenharia de software (dados, cloud, código, segurança e observabilidade); 
+Experiência em ferramentas de testes unitários, frameworks de testes e ferramentas de teste de desempenho; 
+Experiência em ferramentas de testes unitários, frameworks de testes e ferramentas de teste de desempenho; 
+Conhecimento em GIT e ferramentas de CI/CD; 
+Conhecimento em GIT e ferramentas de CI/CD; 
+Experiência com APIs REST; 
+Experiência com APIs REST; 
+Experiência com metodologias ágeis. 
+Experiência com metodologias ágeis. 
+Desejável:
+Experiência em desenvolvimento de soluções em nuvem.
+INFORMAÇÕES ADICIONAIS
+O que oferecemos:
+O que oferecemos:
+Regime de contratação CLT;
+Regime de contratação CLT;
+Alelo Refeição; 
+Alelo Refeição; 
+Alelo Alimentação; 
+Alelo Alimentação; 
+Plano de saúde e odontológico Amil, para cuidar da sua saúde e dos seus dependentes;
+Plano de saúde e odontológico Amil, para cuidar da sua saúde e dos seus dependentes;
+Aproveite as vantagens do Jazz+, o seu benefício de antecipação salarial;
+Aproveite as vantagens do Jazz+, o seu benefício de antecipação salarial;
+Aqui você conta com a Sanus, seu concierge de saúde personalizado que pesquisa, agenda e acompanha o status de suas consultas, exames e tratamentos;
+Aqui você conta com a Sanus, seu concierge de saúde personalizado que pesquisa, agenda e acompanha o status de suas consultas, exames e tratamentos;
+Horário flexível, porque qualidade de vida importa para a gente; 
+Horário flexível, porque qualidade de vida importa para a gente; 
+Gympass;
+Gympass;
+Auxílio creche;
+Auxílio creche;
+Day off no mês do aniversário para aproveitar o seu dia; 
+Day off no mês do aniversário para aproveitar o seu dia; 
+Da área da educação à alimentação, aproveite os descontos com parceiros.
+Da área da educação à alimentação, aproveite os descontos com parceiros.
+ 
+ 
+﻿Por que vir para Jazz Tech?
+﻿Por que vir para Jazz Tech?
+ 
+ 
+Você fará parte de uma empresa em acelerada ascensão e de grandes oportunidades de crescimento. Trabalhará em um ambiente descontraído, que estimula e valoriza atitudes inovadoras, criativas e te dá total autonomia para fazer acontecer.
+Você fará parte de uma empresa em acelerada ascensão e de grandes oportunidades de crescimento. Trabalhará em um ambiente descontraído, que estimula e valoriza atitudes inovadoras, criativas e te dá total autonomia para fazer acontecer.
+ 
+Aqui, acreditamos na diversidade como ferramenta para fomentar o enriquecimento e a inovação por meio de diferentes perspectivas e ideias. São bem-vindas candidaturas de pessoas LGBTQIA+, indígenas, pessoas negras, pessoas 50+ ou outros grupos minorizados.
+E aí, bora entrar no ritmo da Jazz? Candidate-se agora!
+E aí, bora entrar no ritmo da Jazz? Candidate-se agora!
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Mapeamento Comportamental2Mapeamento Comportamental
+Etapa 2: Mapeamento Comportamental
+2
+Mapeamento Comportamental
+Etapa 3: Entrevista RH 3Entrevista RH 
+Etapa 3: Entrevista RH 
+3
+Entrevista RH 
+Etapa 4: Entrevista Gestor4Entrevista Gestor
+Etapa 4: Entrevista Gestor
+4
+Entrevista Gestor
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+SOBRE
+Nós somos uma Buildtech financeira que constrói soluções em Cloud Native e agrega valor aos nossos parceiros, por meio de uma avançada biblioteca de API’s.
+Somos capazes de gerar soluções B2B práticas e modulares para nossos parceiros crescerem com escalabilidade e segurança. Tudo isso, entregando ao cliente final uma experiência de ponta a ponta!

@@ -1,0 +1,122 @@
+link_vaga-https://tempest.gupy.io/job/eyJqb2JJZCI6NzczMTkwMywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+SENIOR QA SOFTWARE ENGINEER
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Nós construímos soluções web escaláveis para a segurança de infraestrutura, segurança de sistemas e prevenção de cyber fraudes. No time buscamos cuidar das pessoas, garantir o desenvolvimento e excelência técnica. Valorizamos o trabalho em equipe e o compartilhamento de conhecimento e ideias onde tod@s têm voz ativa, independente do cargo ou experiência. Sempre procuramos questionar números e métodos além de utilizar as boas práticas de engenharia de software e segurança, como:
+No time buscamos cuidar das pessoas, garantir o desenvolvimento e excelência técnica. Valorizamos o trabalho em equipe e o compartilhamento de conhecimento e ideias onde tod@s têm voz ativa, independente do cargo ou experiência. Sempre procuramos questionar números e métodos além de utilizar as boas práticas de engenharia de software e segurança, como:
+Ciclo de desenvolvimento ágil;
+Ciclo de desenvolvimento ágil;
+Revisão de código;
+Revisão de código;
+Integração contínua;
+Integração contínua;
+Testes automatizados;
+Testes automatizados;
+Monitoramento dos patches de segurança das principais tecnologias utilizadas;
+Monitoramento dos patches de segurança das principais tecnologias utilizadas;
+Testes de segurança;
+Testes de segurança;
+Treinamentos de segurança.
+Treinamentos de segurança.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Trabalhar com times multidisciplinares;Trabalhar com o time de Product Design e Product Owner na definição e criação dos cenários de testes;Realizar testes de qualidade nos nossos produtos;Participar de reuniões de planejamento e definição de projetos;Configurar ferramentas de automação;Realizar construção dos ambientes de testes e homologação.
+Trabalhar com times multidisciplinares;
+Trabalhar com o time de Product Design e Product Owner na definição e criação dos cenários de testes;
+Realizar testes de qualidade nos nossos produtos;
+Participar de reuniões de planejamento e definição de projetos;
+Configurar ferramentas de automação;
+Realizar construção dos ambientes de testes e homologação.
+REQUISITOS E QUALIFICAÇÕES
+Hard skills:
+Bacharel em Ciência da Computação, Engenharia de Computação ou equivalente;
+Análise e elaboração de cenários de teste com uso de Cucumber/Gherkin;
+Experiência na análise e implementação de requisitos;
+Conhecimento em testes funcionais (regressão, teste e performance);
+Experiência na metodologia de QA.
+Soft skills:
+Trabalhar em equipe, compartilhar conhecimentos e trazer novas ideias;
+Ser orientado a resultado;
+Ser flexível e adaptável às mudanças;
+Saber como motivar e engajar os times;
+Estar sempre atualizado quanto à novas tecnologias;
+Realizar feedbacks tanto horizontalmente quanto verticalmente.
+INFORMAÇÕES ADICIONAIS
+Mestrado ou Doutorado em Ciências da Computação ou áreas relacionadas;Experiência no desenvolvimento de projetos de SW com metodologias ágeis (Kanban/Scrum);Conhecimento em ferramentas de testes de API;Prática em projetos de carga analítica, tais como Selenium, Webdriver, Cypress e etc;Conhecimento em sistemas de controle de versão Git;Experiência com plataforma de automação continua utilizando gitflow.
+Mestrado ou Doutorado em Ciências da Computação ou áreas relacionadas;
+Experiência no desenvolvimento de projetos de SW com metodologias ágeis (Kanban/Scrum);
+Conhecimento em ferramentas de testes de API;
+Prática em projetos de carga analítica, tais como Selenium, Webdriver, Cypress e etc;
+Conhecimento em sistemas de controle de versão Git;
+Experiência com plataforma de automação continua utilizando gitflow.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem + Teste de Fit2Triagem + Teste de Fit
+Etapa 2: Triagem + Teste de Fit
+2
+Triagem + Teste de Fit
+Etapa 3: Entrevista RH + Mapeamento comportamental3Entrevista RH + Mapeamento comportamental
+Etapa 3: Entrevista RH + Mapeamento comportamental
+3
+Entrevista RH + Mapeamento comportamental
+Etapa 4: Entrevista Técnica + Case técnico4Entrevista Técnica + Case técnico
+Etapa 4: Entrevista Técnica + Case técnico
+4
+Entrevista Técnica + Case técnico
+Etapa 5: Entrevista Gerencial5Entrevista Gerencial
+Etapa 5: Entrevista Gerencial
+5
+Entrevista Gerencial
+Etapa 6: Proposta6Proposta
+Etapa 6: Proposta
+6
+Proposta
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+A CIBERSEGURANÇA É UM DIREITO DE TODO MUNDO E NÓS ACREDITAMOS NISSO!🌴
+A Tempest Security Intelligence é a maior empresa especializada em cibersegurança do Brasil, com uma experiência de mais de 22 anos de atuação. Referência no mercado de segurança digital e prevenção a fraudes, a Tempest alia tecnologia de ponta com a expertise do maior time técnico da América Latina para entregar mais de 70 soluções nas categorias Consultoria Estratégica, Serviços Gerenciados de Segurança, Integração de Softwares e Identidade Digital.
+Hoje, somos mais de 450 profissionais trabalhando para desenvolver e pesquisar novas soluções de proteção e prevenção a ameaças digitais nos escritórios de Recife, São Paulo e Londres.
+ 
+Nossa Essência
+Coletivo de protagonistas
+Somos partes diferentes de algo maior. Organicamente unidos por ideais inabaláveis, somos autênticos e determinamos o futuro que queremos para nós e para a sociedade.
+Hacking & engineering
+Combinando a disciplina de Engineering com a subversão do Hacking, é possível chegar a soluções ainda não pensadas.
+Profundos, sem perder o bom humor
+Escolhemos resolver problemas complexos sem abrir mão da leveza e do bom humor.
+Simples na complexidade
+Nossa linguagem nasce da empatia. Ela mescla negócios com técnico-cibernética, para explicar temas complexos de segurança com simplicidade
+ 
+Tempest e Embraer
+Desde 2020 somos parceiros da Embraer, uma das maiores empresas do setor de engenharia aeroespacial do mundo, resultando em um dos maiores investimentos já realizados na história do setor de cibersegurança na América Latina, além de abrir novos mercados para a companhia, tais como defesa e indústria aeroespacial.
+Construímos a operação com a Embraer de modo que a Tempest continue sendo uma empresa independente, com autonomia, agilidade e motivação empreendedora do nosso time.
+ 
+ 
+Programas internos de desenvolvimento
+Na Tempest, acreditamos que conhecimento deve ser compartilhado, por isso, oferecemos diversos cursos e capacitações de hard e soft skills para os Tempesters, a fim de contribuir com sua evolução.
+Esses programas envolvem cursos, financiamento de pesquisas, palestras técnicas, eventos internos e outras ações educativas.
+ 
+Benefícios para os Tempesters!
+ 
+Saúde e Bem-estar: Nos preocupamos com a saúde física e com o bem-estar de nossos Tempesters, por isso oferecemos benefícios como Assistência Médica e Odontológica, Seguro de Vida e nossa parceria com a VidaLink, que proporciona descontos em medicações e oferece também serviços de profissionais que cuidam da nossa saúde mental!
+Somos flexíveis: Através da parceria com a Flash, proporcionamos para nossos Tempesters uma maior flexibilidade para utilização de seus benefícios!
+Valorizamos os resultados: Oferecemos PLR de acordo com as metas atingidas!
+CONHEÇA MAIS SOBRE NÓS!
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

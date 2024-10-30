@@ -1,0 +1,95 @@
+link_vaga-https://sicredi.gupy.io/job/eyJqb2JJZCI6NzkzMzQ0OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+CAS | PESSOA DESENVOLVEDORA BACKEND II - INVESTIMENTOS - VAGA AFIRMATIVA PARA PESSOAS COM DEFICIÊNCIAS
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Você já pensou em desenvolver uma nova experiência de uma instituição financeira? O Sicredi é uma empresa que valoriza o relacionamento e atendimento ao usuário de forma próxima. Nessa oportunidade, convidamos você a compor um time de produto e construir a nossa experiência.
+ 
+Tudo isso, em um ambiente com pessoas inspiradas por tecnologia, por inovação e por fazer o bem, capazes e engajadas para construir uma plataforma digital cooperativa para o futuro. Temos o desafio de reescrever e modernizar todo o nosso Core Bancário e estamos aproveitando esse momento para fazer uma mudança cultural, mais horizontal, simples e participativa.
+ 
+Por isso, queremos compartilhar o nosso dia-a-dia de trabalho complexo e dinâmico com pessoas com habilidades técnicas, que tenham visão de dono sobre o negócio e que dediquem sua energia para fazer algo com um propósito que impactará a comunidade como um todo. Comprometimento e vontade de fazer acontecer são essenciais!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Experiência há mais de 3 anos no desenvolvimento em Java;
+Experiência com programação Java orientada a objetos, Design Patterns;
+Desenvolvimento de aplicações e serviços REST;
+Arquitetura e melhores práticas de desenvolvimento;
+Kubernetes e Spring Cloud;
+Integrações com Kafka;
+Conceitos de testes unitários, micro serviços e arquitetura distribuída.
+REQUISITOS E QUALIFICAÇÕES
+Desejável conhecimento em banco de dados Relacional e Não Relacional (NOSQL);
+Desejável conhecimento em arquitetura orientada a eventos;
+Desejável conhecimento em integração contínua, automação;
+Trabalho com times que utilizam métodos ágeis para desenvolvimento;
+Concepção colaborativa de produtos;
+Já ter ouvido falar sobre desenvolvimento de Software seguro;
+Trabalha para seu auto-desenvolvimento em tecnologia.
+Outros conhecimentos importantes pra gente e que são diferenciais:
+Jenkins;
+Consul;
+Amazon (AWS): ECS, SQS, S3;
+Spring Cloud Stream;
+Metodologia ágil;
+CI/CD;
+Spring Webflux;
+INFORMAÇÕES ADICIONAIS
+____________________________________________________
+No Sicredi você vai ter:
+14º e 15º salários fixos;
+Participações nos Lucros (conforme a senioridade);
+Benefício saúde: Plano de Saúde e Odontológico sem coparticipação, Gympass, seguro de vida, Programas de saúde e bem-estar (Nutrição, Psicologia, Laboral, Massagem, Grupos de corrida e academia local);
+Vale Alimentação e Vale Refeição – com flexibilidade de % nos cartões VA/VR, sem coparticipação;
+Licença maternidade e paternidade estendida;
+Auxílio creche ou babá para crianças até 6 anos e 11 meses;
+Auxílio para filhos com deficiência, sem limite de idade;
+Previdência Privada até 6% do salário;
+Plataforma de Treinamentos – Sicredi Aprende, com diversos cursos;
+Carga horária de 40h semanais – Utilizando sistema de banco de horas;
+Auxílio Teletrabalho (exceto para posições com atuação 100% presenciais).
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Alinhamento de expectativas2Alinhamento de expectativas
+Etapa 2: Alinhamento de expectativas
+2
+Alinhamento de expectativas
+Etapa 3: Bate Papo com GP3Bate Papo com GP
+Etapa 3: Bate Papo com GP
+3
+Bate Papo com GP
+Etapa 4: Identificando o seu perfil (PDA) 4Identificando o seu perfil (PDA) 
+Etapa 4: Identificando o seu perfil (PDA) 
+4
+Identificando o seu perfil (PDA) 
+Etapa 5: Bate Papo com a Área5Bate Papo com a Área
+Etapa 5: Bate Papo com a Área
+5
+Bate Papo com a Área
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+SOMOS O SICREDI, A PRIMEIRA INSTITUIÇÃO FINANCEIRA COOPERATIVA DO BRASIL
+Há mais de 120 anos, nos reinventamos a cada dia e nos desafiamos em tudo o que fazemos, sendo impulsionados pelo trabalho de cada uma das nossas pessoas colaboradoras.
+ 
+Nosso propósito é construir uma sociedade mais próspera ao lado dos mais de 45 mil talentos que também acreditam nessa transformação. Evoluímos constantemente e mantemos a essência do cooperativismo para superar as barreiras, conquistar novos horizontes e desenvolver a sociedade com maior inclusão, diversidade e equidade.
+Não é à toa que somos a Melhor Empresa para se Trabalhar no Brasil 2024, segundo a GPTW!
+ 
+Seguimos buscando talentos que queiram fazer parte da construção de um mundo melhor e queremos contar com você.
+#VemSerSicredi!
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

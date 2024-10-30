@@ -1,0 +1,156 @@
+link_vaga-https://vemprabip.gupy.io/job/eyJqb2JJZCI6Nzc1MTcxOSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE DADOS PL - PROCESS MINING
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Estamos à procura de um profissional com experiência em visualização de dados, responsável por diversas tarefas essenciais, como coletar, tratar e carregar dados, desenvolver integrações entre plataformas e construir plataformas de BI. Além disso, garantirá a qualidade das entregas por meio de revisões meticulosas. É fundamental ter amplo domínio em Programação Orientada a Objetos (POO), Pandas e SQL, além de habilidade para criar KPIs relevantes para análises. O conhecimento em Excel e a capacidade de trabalhar em ambientes rápidos são indispensáveis. Também é valorizado o conhecimento em plataformas de ETL, nuvem e metodologias de desenvolvimento como AGILE, Prototipagem e Modelo em Cascata. Outras habilidades desejáveis incluem o levantamento de requisitos, validação de tratamentos de dados, conhecimento em ferramentas como Power BI, Tableau e PySpark, familiaridade com requisições HTTP, fluência em inglês, compreensão de estatística amostral e capacidade de contar histórias com dados.
+Estamos à procura de um profissional com experiência em visualização de dados, responsável por diversas tarefas essenciais, como coletar, tratar e carregar dados, desenvolver integrações entre plataformas e construir plataformas de BI. Além disso, garantirá a qualidade das entregas por meio de revisões meticulosas. É fundamental ter amplo domínio em Programação Orientada a Objetos (POO), Pandas e SQL, além de habilidade para criar KPIs relevantes para análises. O conhecimento em Excel e a capacidade de trabalhar em ambientes rápidos são indispensáveis. Também é valorizado o conhecimento em plataformas de ETL, nuvem e metodologias de desenvolvimento como AGILE, Prototipagem e Modelo em Cascata. Outras habilidades desejáveis incluem o levantamento de requisitos, validação de tratamentos de dados, conhecimento em ferramentas como Power BI, Tableau e PySpark, familiaridade com requisições HTTP, fluência em inglês, compreensão de estatística amostral e capacidade de contar histórias com dados.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Principais atividades:
+Coletar, processar e carregar dados de fontes diversas;
+Coletar, processar e carregar dados de fontes diversas;
+Realizar levantamento de requisitos junto aos stakeholders;
+Realizar levantamento de requisitos junto aos stakeholders;
+Desenvolver integrações entre diferentes plataformas;
+Desenvolver integrações entre diferentes plataformas;
+Criar e aprimorar plataformas de Business Intelligence;
+Criar e aprimorar plataformas de Business Intelligence;
+Assegurar a qualidade das entregas por meio de revisões rigorosas;
+Assegurar a qualidade das entregas por meio de revisões rigorosas;
+REQUISITOS E QUALIFICAÇÕES
+Competências esperadas:
+Experiência avançada em Programação Orientada a Objetos (POO);
+Experiência avançada em Programação Orientada a Objetos (POO);
+Proficiência em Pandas e SQL;
+Proficiência em Pandas e SQL;
+Capacidade de criar KPIs relevantes para análises;
+Capacidade de criar KPIs relevantes para análises;
+Conhecimento sólido em Excel;
+Conhecimento sólido em Excel;
+ Habilidade para trabalhar em ambientes rápidos;
+ Habilidade para trabalhar em ambientes rápidos;
+Familiaridade com plataformas de ETL (BigQuery/SAS);
+Familiaridade com plataformas de ETL (BigQuery/SAS);
+Conhecimento em Plataformas de Nuvem;
+Conhecimento em Plataformas de Nuvem;
+Domínio de metodologias de desenvolvimento (AGILE, Prototipagem, Modelo em Cascata, etc.);
+Domínio de metodologias de desenvolvimento (AGILE, Prototipagem, Modelo em Cascata, etc.);
+Experiência em levantamento de requisitos e validação de tratamentos de dados;
+Experiência em levantamento de requisitos e validação de tratamentos de dados;
+Competências desejáveis:
+Experiência em Power BI (PBI) e Tableau;
+Experiência em Power BI (PBI) e Tableau;
+Conhecimento em PySpark;
+Conhecimento em PySpark;
+Familiaridade com requisições HTTP;
+Familiaridade com requisições HTTP;
+Proficiência em inglês;
+Proficiência em inglês;
+Compreensão de estatística amostral;
+Compreensão de estatística amostral;
+Capacidade de contar histórias com dados (Data storytelling).
+Capacidade de contar histórias com dados (Data storytelling).
+INFORMAÇÕES ADICIONAIS
+CONHEÇA NOSSOS BENEFÍCIOS
+Alguns dos nossos benefícios são flexíveis para que você possa distribuí-los de acordo com suas necessidades, interesses e momento de vida. São eles:
+ All Points (Programa de pontos para passagens áreas e hospedagens);
+Assistência Médica;
+Assistência Odontológica;
+Seguro de vida;
+Convênio para Pet;
+Mobilidade (incluindo opção de combustível e Uber, 99);
+Reembolso Flex (óculos, vacinas, educação, shows e outros);
+Vale Refeição e/ou Vale Alimentação.
+ 
+Outros benefícios:
+ Birthday off;
+Gympass;
+Consultoria financeira e empréstimo facilitado;
+Clube Alelo com diversos descontos em lojas e farmácias;
+Licença Maternidade de 180 dias;
+Licença Paternidade de 30 dias;
+Auxílio creche no primeiro ano do bebê;
+Vale Transporte conforme a demanda do projeto ou área;
+Programa de bônus anual;
+Comissionamento por indicação de novos clientes.
+ 
+PROGRAMAS DE DESENVOLVIMENTO
+ 
+Um dos pontos fortes de ser Biper é que ousamos em pensar como empreendedores e moldamos nosso futuro com nossa capacidade de pensar minuciosamente e agir com três passos à frente, pavimentando o caminho para o futuro que nossos clientes querem viver.
+E para isso, precisamos estar constantemente aprendendo e reaprendendo, somos #LifeLongLearning.
+Na BIP temos programas consolidados a nível Global e nacional para que você tenha uma jornada de desenvolvimento, crescimento e liberdade para você conquistar o que sonha. Aqui você é o protagonista da sua carreira!
+Vamos juntos nessa? Confere os principais programas que a BIP pode te oferecer para você chegar aonde deseja:
+Um centro de CAPACITAÇÃO e FORMAÇÃO Global com os conteúdos e cursos mais atualizados do mercado;
+Flex Time - um momento da sua semana dedicado para o seu desenvolvimento;
+Programas de mentoria com Líderes referências em sua atuação;
+Avaliação de Desempenho semestral;
+Cultura de Feedback e 1:1 recorrentes com sua liderança e time;
+Acompanhamento de um Plano de Desenvolvimento personalizado pra você e com seus objetivos;
+Darwin - Programa global de formação de jovens talentos, para desenvolver soft e hard skills;
+Grounding – Um programa Global de formação para os profissionais recém contratados em todo o mundo que estão no começo da carreira de consultoria;
+Induction - Onboarding Internacional conduzido por Heads de RH e negócio para os novos entrantes da Bip de todos os países para promover nossa cultura, valores, proposito e apresentar nossos programas de iniciativa Global. 
+Spinnaker: Treinamento focado em aprimorar habilidades estratégicas de Gerentes e Gerentes Seniores, apoiando e facilitando o desenvolvimento de negócios dentro de um ecossistema complexo.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Queremos te conhecer um pouco melhor! :)2Queremos te conhecer um pouco melhor! :)
+Etapa 2: Queremos te conhecer um pouco melhor! :)
+2
+Queremos te conhecer um pouco melhor! :)
+Etapa 3: Agora é com a gente! Vamos analisar a sua inscrição :)3Agora é com a gente! Vamos analisar a sua inscrição :)
+Etapa 3: Agora é com a gente! Vamos analisar a sua inscrição :)
+3
+Agora é com a gente! Vamos analisar a sua inscrição :)
+Etapa 4: Bate papo com o time de People!4Bate papo com o time de People!
+Etapa 4: Bate papo com o time de People!
+4
+Bate papo com o time de People!
+Etapa 5: Bate papo com a pessoa gestora do time!5Bate papo com a pessoa gestora do time!
+Etapa 5: Bate papo com a pessoa gestora do time!
+5
+Bate papo com a pessoa gestora do time!
+Etapa 6: Offer6Offer
+Etapa 6: Offer
+6
+Offer
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+SOMOS DIFERENTES DE TUDO O QUE VOCÊ JÁ VIU!
+Faça parte da BIP: Um ecossistema inovador, humano, ousado e revolucionário. 
+ 
+ 
+Somos uma consultoria internacional de transformação de negócios, fundada na Itália em 2003, há 20 anos impactando milhares de pessoas através do nosso trabalho.  
+Somos uma consultoria internacional de transformação de negócios, fundada na Itália em 2003, há 20 anos impactando milhares de pessoas através do nosso trabalho.  
+Com nosso espírito jovem, vivemos em um ecossistema em evolução que entrega transformação significativa por meio de uma abordagem personalizada. 
+Com nosso espírito jovem, vivemos em um ecossistema em evolução que entrega transformação significativa por meio de uma abordagem personalizada. 
+ 
+Por aqui, não falta oportunidade para você crescer.
+ESTAMOS PRESENTE EM DIVERSOS LOCAIS DO MUNDO! 
+ 
+ 
++40 países de atuação    + 5000 Bipers pelo mundo    +700 projetos no mercado
+ 
+Tudo o que temos e construímos para um futuro que se aproxima, é guiado pelo nosso PROPÓSITO: 
+ 
+Pursuing Changes, Nurturing Progress
+ 
+ 
+A mudança é a base de nossa mentalidade, aprendemos e reaprendemos constantemente. Somos desafiadores, assumimos o risco de explorar novas formas de tornar as coisas melhores, inovadoras e sustentáveis para nós, para os nossos clientes e para a sociedade a qual pertencemos. Esforçamo-nos para criar o que ainda não existe, bem como para cuidar e fazer crescer o que existe. Não deixamos pedra sobre pedra – isso é o quão longe ousamos ir. 
+ 
+NOS ACOMPANHE NAS REDES:
+Website
+LinkedIn
+Instagram
+Glassdoor

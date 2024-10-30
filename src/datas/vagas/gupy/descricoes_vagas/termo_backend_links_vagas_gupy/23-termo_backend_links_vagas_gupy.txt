@@ -1,0 +1,113 @@
+link_vaga-https://phoebus.gupy.io/job/eyJqb2JJZCI6Nzk5MDYyMiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ENGENHEIRO DE SOFTWARE BACKEND PLENO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A Phoebus prioriza a valorização e bem estar do seu colaborador. Trabalhamos com flexibilidade de horários, ambiente dinâmico e aberto a compartilhamento de ideias. Buscamos profissionais apaixonados por tecnologia, que gostem de aprender e compartilhar conhecimentos. Junte-se a nós para fazer a diferença! 
+A Phoebus prioriza a valorização e bem estar do seu colaborador. Trabalhamos com flexibilidade de horários, ambiente dinâmico e aberto a compartilhamento de ideias. Buscamos profissionais apaixonados por tecnologia, que gostem de aprender e compartilhar conhecimentos. 
+Junte-se a nós para fazer a diferença! 
+Vem fazer parte da #PhamíliaPhoebus!
+Vem fazer parte da
+!
+ 
+ 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Compreender os produtos da empresa bem como suas regras de negócio;Desenvolver os requisitos dos produtos com base na especificação;Reportar resultados de atividades bem como tirar dúvidas com o líder técnico e PO;Identificar, reportar e tratar dívidas técnicas;Análise e correção de problemas em ambiente produtivo.
+Compreender os produtos da empresa bem como suas regras de negócio;
+Desenvolver os requisitos dos produtos com base na especificação;
+Reportar resultados de atividades bem como tirar dúvidas com o líder técnico e PO;
+Identificar, reportar e tratar dívidas técnicas;
+Análise e correção de problemas em ambiente produtivo.
+REQUISITOS E QUALIFICAÇÕES
+Conhecimentos Técnicos Necessários:
+Graduado em Ciências da Computação e afins (Análise e Desenvolvimento de Sistemas, Sistemas da Informação e Engenharia da Computação);
+Java 8;
+Spring Boot;
+Sprint Data;
+Arquitetura de Micro-Serviços;
+Flyway;
+Sistemas de alta performance e baixa latência;
+Docker;
+Conhecimento em SQL ANSI.
+Conhecimentos Técnicos Desejáveis:
+Testes unitários, de serviço e integração;
+Princípios de código limpo (SOLID);
+Schedule Quartz;
+Java 11+;
+Reactive-WebFlux;
+Oracle;
+Netty Framework para tratamento de comunicação;
+MongoDB Cluster;
+AWS;
+Conhecimento de utilização de datas zonadas;
+Ferramentas ( IntelliJ, Eclipse, Visual Studio Code, TeamCity, Sonarqube, Nexus).
+ 
+Habilidades Gerais:
+Facilidade de Trabalhar em Equipe;
+Automotivação;
+Senso de responsabilidade;
+Resiliência;
+Facilidade de absorção de conhecimento, iniciativa e proatividade.
+INFORMAÇÕES ADICIONAIS
+Vale Alimentação;Plano de Saúde e Plano Odontológico (sem custo para o colaborador);Auxílio Home Office;GymPass com coparticipação;Horário flexível (Banco de Horas), com carga horária semanal de 40h;Seguro de vida em grupo;Vale Transporte (caso necessite).
+Vale Alimentação;
+Vale Alimentação;
+Plano de Saúde e Plano Odontológico (sem custo para o colaborador);
+Plano de Saúde e Plano Odontológico (sem custo para o colaborador);
+Auxílio Home Office;
+Auxílio Home Office;
+GymPass com coparticipação;
+GymPass com coparticipação;
+Horário flexível (Banco de Horas), com carga horária semanal de 40h;
+Horário flexível (Banco de Horas), com carga horária semanal de 40h;
+Seguro de vida em grupo;
+Seguro de vida em grupo;
+Vale Transporte (caso necessite).
+Vale Transporte (caso necessite).
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Teste Técnico2Teste Técnico
+Etapa 2: Teste Técnico
+2
+Teste Técnico
+Etapa 3: Entrevista com o DH3Entrevista com o DH
+Etapa 3: Entrevista com o DH
+3
+Entrevista com o DH
+Etapa 4: Entrevista com o Gestor 4Entrevista com o Gestor 
+Etapa 4: Entrevista com o Gestor 
+4
+Entrevista com o Gestor 
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+REINVENTAR MEIOS DE PAGAMENTO É O NOSSO DIA A DIA!
+QUEM SOMOS 
+
+A Phoebus atua no mercado de meios de pagamento há mais de 25 anos e a cada dia tem evoluído o conceito de redes de captura de transações de forma revolucionária, fazendo parte do cotidiano de milhões de brasileiros.
+A Phoebus atua no mercado de meios de pagamento há mais de 25 anos e a cada dia tem evoluído o conceito de redes de captura de transações de forma revolucionária, fazendo parte do cotidiano de milhões de brasileiros.
+Somos referência no desenvolvimento de tecnologias de Captura e Processamento de Transações para Redes Adquirentes e Programas de Fidelidade. Oferecemos também soluções de TEF Dedicado com foco em empresas de automação comercial e estabelecimentos comerciais que desejam realizar vendas com cartões de crédito e débito.
+Somos referência no desenvolvimento de tecnologias de Captura e Processamento de Transações para Redes Adquirentes e Programas de Fidelidade. Oferecemos também soluções de TEF Dedicado com foco em empresas de automação comercial e estabelecimentos comerciais que desejam realizar vendas com cartões de crédito e débito.
+Priorizamos a valorização e bem estar dos nossos colaboradores. Trabalhamos com flexibilidade de horários, ambiente dinâmico e aberto ao compartilhamento de ideias. Buscamos profissionais apaixonados por tecnologia, que gostem de aprender e compartilhar conhecimentos.
+Priorizamos a valorização e bem estar dos nossos colaboradores. Trabalhamos com flexibilidade de horários, ambiente dinâmico e aberto ao compartilhamento de ideias. Buscamos profissionais apaixonados por tecnologia, que gostem de aprender e compartilhar conhecimentos.
+
+Aqui na Phoebus, estimulamos criatividade e inteligência holística, vislumbramos resiliência e muita energia positiva para impulsionar a integridade e o amor que cada colaborador transmite a cada novo dia.
+Aqui na Phoebus, estimulamos criatividade e inteligência holística, vislumbramos resiliência e muita energia positiva para impulsionar a integridade e o amor que cada colaborador transmite a cada novo dia.
+Vem fazer parte do #PhoebusTeam!
+Vem fazer parte do 
+
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn

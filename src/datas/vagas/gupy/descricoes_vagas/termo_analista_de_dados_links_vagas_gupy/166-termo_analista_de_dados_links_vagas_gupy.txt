@@ -1,0 +1,126 @@
+link_vaga-https://mindlab.gupy.io/job/eyJqb2JJZCI6Nzg0MjUwNCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE DADOS
+Tipo de vaga: Pessoa jurídicaPessoa jurídica
+Tipo de vaga: Pessoa jurídica
+Pessoa jurídica
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Estamos em busca de um Analista de Dados para integrar nossa equipe. O profissional será responsável por apoiar na análise de dados, desenvolvimento de dashboards em Power BI e criação de automações básicas em Python.
+A missão do Analista de Dados é fornecer insights estratégicos e operacionais por meio da coleta, transformação e análise de dados, apoiando a tomada de decisões baseada em dados.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver e manter dashboards e relatórios utilizando Power BI, aplicando análises visuais eficientes para tomada de decisões;Manipular e transformar dados com Power Query e funções DAX, assegurando a qualidade e consistência das informações;Automação de processos e realização de análises em Python, aplicando scripts para simplificar o tratamento e análise de grandes volumes de dados;Trabalhar com dados em Excel e Google Sheets, utilizando fórmulas avançadas e ferramentas para extrair insights relevantes;Aplicar lógica de programação para desenvolver soluções criativas e eficientes, que otimizem fluxos e processos;Demonstrar proatividade e abertura para aprender novas tecnologias e metodologias, garantindo melhoria contínua nas atividades realizadas;Colaborar ativamente com a equipe em diversas demandas, contribuindo para um ambiente de trabalho integrado, colaborativo e orientado a dados.
+Desenvolver e manter dashboards e relatórios utilizando Power BI, aplicando análises visuais eficientes para tomada de decisões;
+Manipular e transformar dados com Power Query e funções DAX, assegurando a qualidade e consistência das informações;
+Automação de processos e realização de análises em Python, aplicando scripts para simplificar o tratamento e análise de grandes volumes de dados;
+Trabalhar com dados em Excel e Google Sheets, utilizando fórmulas avançadas e ferramentas para extrair insights relevantes;
+Aplicar lógica de programação para desenvolver soluções criativas e eficientes, que otimizem fluxos e processos;
+Demonstrar proatividade e abertura para aprender novas tecnologias e metodologias, garantindo melhoria contínua nas atividades realizadas;
+Colaborar ativamente com a equipe em diversas demandas, contribuindo para um ambiente de trabalho integrado, colaborativo e orientado a dados.
+REQUISITOS E QUALIFICAÇÕES
+Curso superior em áreas de Exatas (Engenharias, Matemática, Estatística), Administração ou áreas afins (cursando ou concluído);Conhecimento em Power BI, incluindo Power Query e funções DAX;Familiaridade com Python para automações e webscraping;Domínio de Excel e Google Sheets;Boa noção algorítmica e lógica de programação;Senso investigativo e habilidade para buscar soluções de forma autônoma, solicitando ajuda quando necessário.Desejáveis:Conhecimento em SQL e bancos de dados relacionais (PostgreSQL);Noções sobre o uso de funções Lambda (AWS) em Python;Noções de Google Apps Script (JavaScript);Conhecimento básico em GitHub para controle de versões e colaboração em projetos;Experiência com metodologias ágeis, especialmente SCRUM;Noções básicas de estatística descritiva e inferencial, com foco na aplicação em scripts;Versatilidade e disposição para colaborar em diferentes tarefas dentro de uma equipe com visão global, comprometida em garantir a qualidade dos dados em todo o processo;Vivência na área da educação ou em plataformas de ensino.
+Curso superior em áreas de Exatas (Engenharias, Matemática, Estatística), Administração ou áreas afins (cursando ou concluído);
+Conhecimento em Power BI, incluindo Power Query e funções DAX;
+Conhecimento em Power BI, incluindo Power Query e funções DAX;
+Familiaridade com Python para automações e webscraping;
+Familiaridade com Python para automações e webscraping;
+Domínio de Excel e Google Sheets;
+Domínio de Excel e Google Sheets;
+Boa noção algorítmica e lógica de programação;
+Boa noção algorítmica e lógica de programação;
+Senso investigativo e habilidade para buscar soluções de forma autônoma, solicitando ajuda quando necessário.
+Senso investigativo e habilidade para buscar soluções de forma autônoma, solicitando ajuda quando necessário.
+Desejáveis:
+Conhecimento em SQL e bancos de dados relacionais (PostgreSQL);
+Conhecimento em SQL e bancos de dados relacionais (PostgreSQL);
+Noções sobre o uso de funções Lambda (AWS) em Python;
+Noções sobre o uso de funções Lambda (AWS) em Python;
+Noções de Google Apps Script (JavaScript);
+Noções de Google Apps Script (JavaScript);
+Conhecimento básico em GitHub para controle de versões e colaboração em projetos;
+Conhecimento básico em GitHub para controle de versões e colaboração em projetos;
+Experiência com metodologias ágeis, especialmente SCRUM;
+Experiência com metodologias ágeis, especialmente SCRUM;
+Noções básicas de estatística descritiva e inferencial, com foco na aplicação em scripts;
+Noções básicas de estatística descritiva e inferencial, com foco na aplicação em scripts;
+Versatilidade e disposição para colaborar em diferentes tarefas dentro de uma equipe com visão global, comprometida em garantir a qualidade dos dados em todo o processo;
+Versatilidade e disposição para colaborar em diferentes tarefas dentro de uma equipe com visão global, comprometida em garantir a qualidade dos dados em todo o processo;
+Vivência na área da educação ou em plataformas de ensino.
+Vivência na área da educação ou em plataformas de ensino.
+INFORMAÇÕES ADICIONAIS
+O que oferecemos: 
+💵Bônus anual;
+👩‍⚕️Plano de Saúde Porto Seguro 100% custeado pela empresa (titular);
+😎Recesso remunerado;
+👨‍💻Notebook;
+🦷Plano Odontológico (opcional);
+🏃‍♀️Totalpass (opcional);
+🫱Modelo de contratação: Pessoa Jurídica
+🖥️Modelo de trabalho: Remoto
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Bate-papo Pessoas e Cultura2Bate-papo Pessoas e Cultura
+Etapa 2: Bate-papo Pessoas e Cultura
+2
+Bate-papo Pessoas e Cultura
+Etapa 3: Mapeamento Comportamental3Mapeamento Comportamental
+Etapa 3: Mapeamento Comportamental
+3
+Mapeamento Comportamental
+Etapa 4: Bate-papo Gestor4Bate-papo Gestor
+Etapa 4: Bate-papo Gestor
+4
+Bate-papo Gestor
+Etapa 5: Teste Técnico5Teste Técnico
+Etapa 5: Teste Técnico
+5
+Teste Técnico
+Etapa 6: Bate-papo Final6Bate-papo Final
+Etapa 6: Bate-papo Final
+6
+Bate-papo Final
+Etapa 7: Carta Oferta7Carta Oferta
+Etapa 7: Carta Oferta
+7
+Carta Oferta
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+PIONEIRISMO NA EDUCAÇÃO SOCIOEMOCIONAL E IMPACTO SOCIAL
+Somos uma empresa líder em Tecnologias de Impacto Social, e nossa metodologia é a espinha dorsal que une esses dois objetivos: o Programa MenteInovadora e a eduK. Essas iniciativas refletem nosso compromisso em criar um impacto real e duradouro na sociedade, dando oportunidade para as pessoas terem acesso à uma vida digna por meio da educação e do trabalho. 
+Somos uma empresa líder em 
+, e nossa metodologia é a espinha dorsal que une esses dois objetivos
+ o 
+ e a 
+. Essas iniciativas refletem nosso compromisso em criar um impacto real e duradouro na sociedade, dando oportunidade para as pessoas terem 
+.
+ 
+Nosso propósito é: educar para um futuro incerto, resolvendo os débitos do passado, promovendo a geração de renda e quebrando o ciclo de pobreza intergeracional. Com esse propósito em mente, buscamos constantemente maneiras de melhorar a vida das pessoas.
+Nosso propósito é: 
+, promovendo a geração de renda e quebrando o ciclo de pobreza intergeracional. Com esse propósito em mente, buscamos constantemente maneiras de 
+.
+Aqui na Mind Lab, nossa cultura é uma extensão de nosso propósito. Valorizamos a autonomia com responsabilidade, incentivamos a inovação e experimentação, promovemos uma aprendizagem ampla e longa, respeitamos a diversidade de ideias e cultivamos uma cultura de colaboração e parceria.
+Aqui na 
+, nossa cultura é uma extensão de nosso propósito. Valorizamos a 
+, incentivamos a 
+, promovemos uma 
+, respeitamos a 
+ e cultivamos uma cultura de 
+.
+Se você quer fazer parte de uma equipe comprometida em transformar o mundo por meio da educação e tecnologia, venha conhecer mais sobre os Princípios Mind Lab. Juntos, podemos criar um futuro melhor para todos. 🚀
+Se você quer fazer parte de uma 
+ em transformar o mundo por meio da educação e tecnologia, venha conhecer mais sobre os 
+. Juntos, 
+. 🚀
+﻿Apoiada por: Monashees, Meritech, Accel, Península, Stanford University
+: Monashees, Meritech, Accel, Península, Stanford University
+ #VemSerMindLaber

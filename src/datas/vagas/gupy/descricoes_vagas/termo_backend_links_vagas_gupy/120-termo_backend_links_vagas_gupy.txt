@@ -1,0 +1,49 @@
+link_vaga-https://gruposbftalentos.gupy.io/job/eyJqb2JJZCI6NzMwNTM2Mywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA ENGENHEIRA DE SOFTWARE BACKEND III - SÊNIOR
+Tipo de vaga: Banco de talentosBanco de talentos
+Tipo de vaga: Banco de talentos
+Banco de talentos
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+O esporte nos move e acreditamos no seu poder de transformar vidas. Estamos construindo um ecossistema para integrar a experiência do atleta amador, profissional ou ocasional, aquele que busca o esporte por bem-estar, diversão ou como estilo de vida. Esse Grupo, que segue em constante expansão para os apaixonados por esporte, conta hoje com a Centauro, a maior varejista esportiva multimarcas da América Latina, a Fisia, com a distribuição oficial da marca Nike no Brasil, a FitDance, referência no ensino e prática de dança, a NWB, a maior produtora de conteúdo de esporte na internet, a OneFan, que conecta clubes de futebol a torcedores e a X3m, de sportainment com grandes eventos esportivos em seu portfólio. Todos têm lugar em nosso time! Nós queremos ser referência para toda e qualquer pessoa que pensar em esporte no Brasil. E aí, que tal vestir a nossa camisa? #SomosSBF
+RESPONSABILIDADES E ATRIBUIÇÕES
+O seu papel como Software Engineering Backend: 
+Desenvolver programação do início ao fim, incluindo definições de arquitetura, testes e rollout em produção
+Desenvolvimento de projetos com arquitetura de microserviços, consumo e geração de eventos em Streaming, API's.
+Garantir a funcionalidade, manutenibilidade e velocidade, além de práticas de teste e qualidade;
+Garantir que todas as soluções técnicas estejam alinhadas a estratégia do negócio e entender iniciativas relacionadas ao produto;
+Ajudar o time no desenho de soluções com arquitetura evolutiva, além de investigar constantemente novas tecnologias e formas de trabalho;
+Colaborar com a evolução das habilidades técnicas do time e esforços de melhoria contínua que impactam vários times;
+Trabalhar em um ambiente colaborativo, em que práticas de pareamento, feedbacks e motivação para se desenvolver são comuns a todos os squads.
+REQUISITOS E QUALIFICAÇÕES
+O que você precisa para essa posição no jogo: 
+Conhecimento em desenvolvimento em linguagens backend (para essa posição precisamos de conhecimentos em Golang).
+Conhecimento sobre desenvolvimento de consumidores e produtores de eventos para Event Streaming (Kafka);
+Conhecimento sobre testes unitários e de integração.
+Preocupação com a qualidade e desempenho das soluções propostas;
+Capacidade de trabalhar em um ambiente multifuncional e colaborativo, de maneira autônoma;
+Conhecimento sobre desenvolvimento e implementação de APIs;
+Conhecimento sobre desenvolvimento de microsserviços distribuídos;
+Embasamento teórico, habilidade e preocupação com a excelência técnica e boas práticas de desenvolvimento (DDD, Arquitetura, Design de Código, Paradigmas, etc.);
+Familiaridade com metodologias ágeis;
+INFORMAÇÕES ADICIONAIS
+Seria legal se você conhecesse:
+Docker, Kubernetes, Google Cloud Continuous Integration e Continuous Delivery.
+PRAZER, GRUPO SBF
+Para nós, esporte é mais que só a prática: é movimento. Ele tem o poder de mover as pessoas pelo exercício, pela paixão pelo time do coração, pela diversão de uma aula de dança, pela força de marcas icônicas. 
+Para nós, esporte é mais que só a prática: é movimento. Ele tem o poder de mover as pessoas pelo exercício, pela paixão pelo time do coração, pela diversão de uma aula de dança, pela força de marcas icônicas. 
+
+Por vermos a potência do esporte em todas as suas expressões, trabalhamos juntos com garra e energia para construir o primeiro ecossistema de esporte do mundo, reunindo diversas possibilidades para que as pessoas sejam envolvidas e impactadas pelo poder de se movimentar.
+Por vermos a potência do esporte em todas as suas expressões, trabalhamos juntos com garra e energia para construir o primeiro ecossistema de esporte do mundo, reunindo diversas possibilidades para que as pessoas sejam envolvidas e impactadas pelo poder de se movimentar.
+ 
+ 
+Quando você pensar em esporte, pode ter certeza: o Grupo SBF estará ali. Seja por meio das lojas e do e-commerce da Centauro, a maior varejista esportiva multimarcas da América Latina; da Fisia, distribuidora oficial da Nike no Brasil, da FitDance, da NWB, do Studio 7.8, da OneFan e da X3M, aqui o movimento não para. 
+Quando você pensar em esporte, pode ter certeza: o Grupo SBF estará ali. Seja por meio das lojas e do e-commerce da Centauro, a maior varejista esportiva multimarcas da América Latina; da Fisia, distribuidora oficial da Nike no Brasil, da FitDance, da NWB, do Studio 7.8, da OneFan e da X3M, aqui o movimento não para. 
+
+Praticante ou entusiasta, fã ou apaixonado: o Grupo SBF é pra você. Somos saudavelmente inconformados, fazedores e convictos da importância de levar o movimento para cada vez mais gente. 
+Praticante ou entusiasta, fã ou apaixonado: o Grupo SBF é pra você. Somos saudavelmente inconformados, fazedores e convictos da importância de levar o movimento para cada vez mais gente. 
+Se você se move por esporte, ou é movido por ele, temos um convite: que tal também trabalhar por ele?
+Se você se move por esporte, ou é movido por ele, temos um convite: que tal também trabalhar por ele?

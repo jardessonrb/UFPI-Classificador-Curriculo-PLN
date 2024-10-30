@@ -1,0 +1,121 @@
+link_vaga-https://jdctech.gupy.io/job/eyJqb2JJZCI6Nzk3NDI3OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR BACK END SÊNIOR (JAVA) - VAGA TEMPORÁRIA
+Tipo de vaga: TemporárioTemporário
+Tipo de vaga: Temporário
+Temporário
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A JDC tech & People está em busca de um Desenvolvedor Back End Sênior!
+
+Conectar pessoas, tecnologias e necessidades das empresas é o desafio que nos move, proporcionando a melhor experiência de trabalho e conhecimento através da tecnologia, aproximando pessoas e empresas.
+ 
+
+Construímos relações baseadas no respeito e transparência, investindo em práticas que criam e reforçam um ambiente acolhedor, no qual todos trabalham com autonomia e responsabilidade.
+
+Vem ser #TeamJDC!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Atuação em projetos e sustentação da aplicação;Análise e melhoria de performance das aplicações;Garantir a estabilidade do ambiente produtivo;Acompanhar as métricas da aplicação e observabilidade;Participação nas cerimonias ágeis do time;Acompanhamento de homologação junto aos usuários e implantação das correções dos erros identificados em ambiente produtivo;Apoiar em soluções técnicas e Discovery de projetos estruturantes;Refinamento técnico e quebra de atividades dentro da squad;
+Atuação em projetos e sustentação da aplicação;
+Análise e melhoria de performance das aplicações;
+Garantir a estabilidade do ambiente produtivo;
+Acompanhar as métricas da aplicação e observabilidade;
+Participação nas cerimonias ágeis do time;
+Acompanhamento de homologação junto aos usuários e implantação das correções dos erros identificados em ambiente produtivo;
+Apoiar em soluções técnicas e Discovery de projetos estruturantes;
+Refinamento técnico e quebra de atividades dentro da squad;
+REQUISITOS E QUALIFICAÇÕES
+Experiência comprovada como Desenvolvedor(a) Back-end;Experiência em trabalhar com metodologias ágeis de gestão e desenvolvimento de sistemas;Experiência mínima de 5 anos em desenvolvimento de aplicações Java;Conhecimento em versionamento de código (Git/GitHub);Bom raciocínio lógico;Boas habilidades de comunicação e trabalho em equipe;Experiência com Pipeline CI/CDExperiência em Bancos relacionais e não relacionais;Conhecimento em Azure DevOps, Jenkins, Graylog e Grafana;Java (8, 11, 17, 21) (Feign, Lombook, cafeine, ehCache, JWT, Retryable, Log4J2, modelmapper, swagger, log aspect, Mockito);Redis e cafeine (cache);AWS Bucket, SQS;Kafka;Sensedia (API Gatway);OpenShift AWS e on premice (Deployments, CronJobs, Secrets);Oracle SQL, Mongo DB;WebService (SOAP/REST);Maven;Jacoco;Sonar;Azure AD;Azure devops;
+Experiência comprovada como Desenvolvedor(a) Back-end;
+Experiência em trabalhar com metodologias ágeis de gestão e desenvolvimento de sistemas;
+Experiência mínima de 5 anos em desenvolvimento de aplicações Java;
+Conhecimento em versionamento de código (Git/GitHub);
+Bom raciocínio lógico;
+Boas habilidades de comunicação e trabalho em equipe;
+Experiência com Pipeline CI/CD
+Experiência em Bancos relacionais e não relacionais;
+Conhecimento em Azure DevOps, Jenkins, Graylog e Grafana;
+Java (8, 11, 17, 21) (Feign, Lombook, cafeine, ehCache, JWT, Retryable, Log4J2, modelmapper, swagger, log aspect, Mockito);
+Redis e cafeine (cache);
+AWS Bucket, SQS;
+Kafka;
+Sensedia (API Gatway);
+OpenShift AWS e on premice (Deployments, CronJobs, Secrets);
+Oracle SQL, Mongo DB;
+WebService (SOAP/REST);
+Maven;
+Jacoco;
+Sonar;
+Azure AD;
+Azure devops;
+INFORMAÇÕES ADICIONAIS
+Vantagens e benefícios de fazer parte do #teamJDC:
+🏠 Vaga 100% home office;
+
+🍛 Vale alimentação e/ou refeição no cartão Flash, valor 30,00 por dia;
+🩺 Plano de saúde SulAmérica;
+🦷 Plano odontológico SulAmérica;
+🎓Programa de Educação Continuada, com auxílio em graduação, pós-graduação, certificação, treinamentos, eventos, workshops;
+🏆 Programa Indique e Ganhe: indicando aquele (a) profissional fera, caso ele seja contratado, você é reconhecido por isso;
+📚 Parceria com faculdades, como Estácio e PUC;
+💪TOTALPASS (descontos em planos de academia);
+🚙 Desconto no aluguel de carros;
+🌻 Desconto na sessão de psicoterapia;
+🍏 Desconto na consulta com Nutricionista;
+💰 Consultoria Financeira;
+⛱️ Parceria com Sesc;
+⛑️ Seguro de vida em grupo;
+⌚️ Carga horária de 40h semanais;
+🧸 Licença Maternidade estendida;
+💻 Alugamos o seu notebook por 200,00 reais ou enviamos a máquina;
+💰 PLR;
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista A&S JDC2Entrevista A&S JDC
+Etapa 2: Entrevista A&S JDC
+2
+Entrevista A&S JDC
+Etapa 3: 1º Etapa Avaliação Técnica - Avaliação Currículo pelo Gestor31º Etapa Avaliação Técnica - Avaliação Currículo pelo Gestor
+Etapa 3: 1º Etapa Avaliação Técnica - Avaliação Currículo pelo Gestor
+3
+1º Etapa Avaliação Técnica - Avaliação Currículo pelo Gestor
+Etapa 4: 2º Etapa da Avaliação Técnica - Entrevista com Gestor42º Etapa da Avaliação Técnica - Entrevista com Gestor
+Etapa 4: 2º Etapa da Avaliação Técnica - Entrevista com Gestor
+4
+2º Etapa da Avaliação Técnica - Entrevista com Gestor
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+SEJA BEM-VINDO(A) À JDC!
+A JDC foi criada em 2008 com o ideal de aproximar pessoas apaixonadas por tecnologia com a necessidade crescente do mercado por soluções inovadoras e customizadas.
+A JDC foi criada em 2008 com o ideal de
+com a necessidade crescente do mercado por soluções inovadoras e customizadas.
+Ao longo da nossa trajetória ficamos cada vez melhores em conectar pessoas e negócios, construindo relações baseadas no respeito e transparência, investindo em práticas que criam e reforçam um ambiente acolhedor, no qual todos trabalham com autonomia e responsabilidade.
+Ao longo da nossa trajetória ficamos cada vez melhores em conectar pessoas e negócios, 
+, investindo em práticas que criam e reforçam um ambiente acolhedor, no qual todos trabalham com autonomia e responsabilidade.
+Conectar pessoas, tecnologias e necessidades das empresas é o desafio que nos move, constituindo nosso propósito em proporcionar a melhor experiência de trabalho e conhecimento através da tecnologia, aproximando pessoas e empresas.
+Conectar pessoas, tecnologias e necessidades das empresas
+, constituindo nosso propósito em proporcionar a melhor experiência de trabalho e conhecimento através da tecnologia, aproximando pessoas e empresas.
+
+Proporcionar a melhor experiência de trabalho e conhecimento através da tecnologia, aproximando pessoas e empresas.
+
+• Respeito e transparência
+• Autonomia e responsabilidade
+• Inovação
+Seguimos proporcionando conhecimento e inovação , além de ambiente diverso, humano e descontraído. O que importa, é você!
+ 
+Deu match com o nosso jeito de ser? #VemPraJDC
+SAIBA MAIS
+Website
+LinkedIn
+Facebook
+Instagram

@@ -1,0 +1,84 @@
+link_vaga-https://granitopagamentos.gupy.io/job/eyJqb2JJZCI6NzkxMjE0Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE DADOS SÊNIOR - (SQL E AWS)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Com a visão voltada para o futuro, estamos preparados para moldar o amanhã das transações financeiras, não apenas atendendo, mas também antecipando as necessidades dos nossos clientes.
+
+Inter Pag, a maquininha do Inter 🧡
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver consultas SQL  e AWS avançadas.Criação e manutenção de scripts ETL/ELT e workflow para processamento de dados.Implantar trabalhos de processamento de dados em produção, configurar e agendar pipelines de dados.Garantir que as soluções apresentem altos níveis de desempenho, segurança, escalabilidade, manutenibilidade, reusabilidade adequada e confiabilidade após a implantação.Capaz de documentar claramente o fluxo de dados e os pipelines de ETL.Capaz de realizar testes unitários nas soluções.Atuar como multiplicador de conhecimento sobre melhores práticas de engenharia e governança de dados
+Desenvolver consultas SQL  e AWS avançadas.
+Criação e manutenção de scripts ETL/ELT e workflow para processamento de dados.
+Implantar trabalhos de processamento de dados em produção, configurar e agendar pipelines de dados.
+Garantir que as soluções apresentem altos níveis de desempenho, segurança, escalabilidade, manutenibilidade, reusabilidade adequada e confiabilidade após a implantação.
+Capaz de documentar claramente o fluxo de dados e os pipelines de ETL.
+Capaz de realizar testes unitários nas soluções.
+Atuar como multiplicador de conhecimento sobre melhores práticas de engenharia e governança de dados
+REQUISITOS E QUALIFICAÇÕES
+Experiência prática em otimização de pipelines ETL e ajuste de desempenho de consultas.Forte em ajuste de desempenho, especialmente consultas complexas, procedimentos armazenados e estratégias de indexação.Habilidades avançadas em análise, validação e processamento de dados.Fortes habilidades de resolução de problemas e solução de falhas.Aptidão técnica e experiência para aprender novas tecnologias e compreender tendências relevantes de nuvem.Familiaridade com o Python.Familiaridade com o AWS, Athena, Glue e Airflow.Modelagem Conceitual, Lógica e Física de Dados Estruturados e Não-EstruturadosConhecimentos básicos sobre arquitetura de soluções AWS
+Experiência prática em otimização de pipelines ETL e ajuste de desempenho de consultas.
+Forte em ajuste de desempenho, especialmente consultas complexas, procedimentos armazenados e estratégias de indexação.
+Habilidades avançadas em análise, validação e processamento de dados.
+Fortes habilidades de resolução de problemas e solução de falhas.
+Aptidão técnica e experiência para aprender novas tecnologias e compreender tendências relevantes de nuvem.
+Familiaridade com o Python.
+Familiaridade com o AWS, Athena, Glue e Airflow.
+Modelagem Conceitual, Lógica e Física de Dados Estruturados e Não-Estruturados
+Conhecimentos básicos sobre arquitetura de soluções AWS
+INFORMAÇÕES ADICIONAIS
+Contratação CLT;Vale transporte e/ou combustível - Flash Benefícios;Vale Refeição/Alimentação - Flash Benefícios;Assistência médica e odontológica - SulAmérica;Seguro de Vida;Day Off no mês de aniversário;Parceria com TotalPass;Bônus anual.
+Contratação CLT;
+Vale transporte e/ou combustível - Flash Benefícios;
+Vale Refeição/Alimentação - Flash Benefícios;
+Assistência médica e odontológica - SulAmérica;
+Seguro de Vida;
+Day Off no mês de aniversário;
+Parceria com TotalPass;
+Bônus anual.
+Bônus anual.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Entrevista com o RH 3Entrevista com o RH 
+Etapa 3: Entrevista com o RH 
+3
+Entrevista com o RH 
+Etapa 4: Entrevista com o gestor4Entrevista com o gestor
+Etapa 4: Entrevista com o gestor
+4
+Entrevista com o gestor
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+NOSSA HISTÓRIA I INTER PAG
+Sobre nós: 
+ 
+ 
+Somos a Inter Pag!
+No mercado há nove anos, somos uma empresa brasileira pioneira em recebimento de pagamentos via transações eletrônicas, que se destacou pela tecnologia completa e se tornou uma importante adquirente no Brasil, ao oferecemos soluções personalizadas e diferenciadas aos nossos clientes.
+Anteriormente como Granito, agora, com a liderança total do Inter, a marca mudou para Inter Pag!
+O que não mudou é que continuamos nossa jornada de inovação, agilidade e acessibilidade, com foco em soluções inteligentes de pagamento para o mercado.
+ 
+Agora, essa tecnologia completa passa a integrar o ecossistema Inter para empresas e, com a visão voltada para o futuro, estamos preparados para moldar o amanhã das transações financeiras, não apenas atendendo, mas também antecipando as necessidades dos nossos clientes.
+VEM SABER MAIS SOBRE A GENTE!
+Website
+LinkedIn
+Facebook
+Instagram

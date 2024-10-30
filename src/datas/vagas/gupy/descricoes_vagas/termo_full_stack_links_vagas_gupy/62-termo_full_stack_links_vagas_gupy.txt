@@ -1,0 +1,117 @@
+link_vaga-https://vindi.gupy.io/job/eyJqb2JJZCI6ODAwMzU4Niwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA DE SOFTWARE (FULL STACK) - JÚNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Estamos em busca de uma pessoa apaixonada por tecnologia, pronta para se juntar a nós na missão de tornar empréstimos cada vez mais vantajosos! Sua principal responsabilidade será o desenvolvimento de software, utilizando lógica e linguagens de programação específicas para o produto, seguindo os padrões de qualidade da empresa e as melhores práticas de mercado.
+Como membro do time de desenvolvimento, você desempenhará um papel essencial na criação de novas funcionalidades para nossa Plataforma de Empréstimos. Seu dia a dia incluirá a colaboração com outras áreas internas para entender as necessidades de novas funcionalidades, seguido pelo ciclo completo de desenvolvimento, testes e deploy, bem como o acompanhamento das entregas em produção.
+Somos uma empresa inclusiva, diversa e respeitosa. Queremos mostrar que aqui existem grandes oportunidades para todas as pessoas, um ambiente seguro para você ser quem é, independentemente de idade, raça, gênero, identidade de gênero, orientação sexual ou deficiência. Venha fazer parte da nossa equipe e contribuir para o sucesso da Vindi!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Compreensão do negócio e dos processos: Colaborar com as partes envolvidas, tanto internas quanto externas, para entender as necessidades das tarefas. Trabalhar em conjunto com as equipes de desenvolvimento e produto para ajudar na concepção de soluções de software;Documentação: Auxiliar na criação de documentação técnica para repasse à equipe ou clientes internos;Desenvolvimento: Apoiar no desenvolvimento de funcionalidades com base em especificações de negócio. Contribuir para o desenvolvimento de front-end de aplicações (mobile e web) com design visual simples. Participar no desenvolvimento backend, auxiliando na criação de APIs e banco de dados. Ajudar na identificação e resolução de problemas em aplicações/serviços;Testes: Auxiliar na realização de testes para garantir o funcionamento básico da solução e sugerir melhorias quando necessário. Contribuir na criação de testes automatizados, quando aplicável.
+Compreensão do negócio e dos processos: Colaborar com as partes envolvidas, tanto internas quanto externas, para entender as necessidades das tarefas. Trabalhar em conjunto com as equipes de desenvolvimento e produto para ajudar na concepção de soluções de software;
+Documentação: Auxiliar na criação de documentação técnica para repasse à equipe ou clientes internos;
+Desenvolvimento: Apoiar no desenvolvimento de funcionalidades com base em especificações de negócio. Contribuir para o desenvolvimento de front-end de aplicações (mobile e web) com design visual simples. Participar no desenvolvimento backend, auxiliando na criação de APIs e banco de dados. Ajudar na identificação e resolução de problemas em aplicações/serviços;
+Testes: Auxiliar na realização de testes para garantir o funcionamento básico da solução e sugerir melhorias quando necessário. Contribuir na criação de testes automatizados, quando aplicável.
+REQUISITOS E QUALIFICAÇÕES
+Formação:
+Graduação em andamento em Ciências da Computação, Análise e Desenvolvimento de Sistemas ou áreas afins.
+Experiência:
+Conhecimento em desenvolvimento backend de APIs Rest e frontend com Vue.js (ou algum outro como Angular, React, Svelte).
+Familiaridade com Java, JPA/Hibernate, Spring Boot e MySQL (ou outros bancos relacionais).
+Conhecimento básico de Git.
+Noções de orientação a objetos e padrões de design de software.
+Diferencial: Conhecimento básico em AWS e Apache Camel.
+INFORMAÇÕES ADICIONAIS
+Confira nosso pacote benefícios:
+🍲 Pra quem gosta de preparar a própria comida ou quer pedir aquele delivery, temos o Cartão Flash;
+🍲 Pra quem gosta de preparar a própria comida ou quer pedir aquele delivery, temos o 
+;
+🏥 Queremos te ver bem, com a saúde em dia com o Plano de saúde;
+🏥 Queremos te ver bem, com a saúde em dia com o 
+;
+🦷 Aqui gostamos de sorrir à toa, para isso temos o Plano Odontológico;
+🦷 Aqui gostamos de sorrir à toa, para isso temos o 
+;
+💻 Uma forcinha no mês vai bem né?! Então conte com nosso Auxílio Home Office;
+💻 Uma forcinha no mês vai bem né?! Então conte com nosso 
+;
+🤑 Programa de Participação de Resultados (PPR);
+🤑 Programa de Participação de Resultados 
+;
+🎂 Para celebrar o seu aniversário, já que você está de Parabéns, temos Day Off;
+🎂 Para celebrar o seu aniversário, já que você está de Parabéns, temos 
+;
+🔐 Aquele benefício que a gente tem, mas não quer usar, Seguro de Vida em Grupo;
+🔐 Aquele benefício que a gente tem, mas não quer usar, 
+;
+🧒 Para ajudar com as crianças, Auxílio creche;
+🧒 Para ajudar com as crianças, 
+;
+🍼 E para curtir ainda mais esse momento, licença maternidade e paternidade estendida;
+🍼 E para curtir ainda mais esse momento, 
+;
+🏋️ Pra cuidar do corpo, Gympass (Wellhub);
+🏋️ Pra cuidar do corpo, 
+;
+💚 E pra cuidar da mente, Conexão Saúde;
+💚 E pra cuidar da mente, 
+;
+👕 Pra quem é do time “roupas leves e tênis” , "chique e elegante" ou qualquer outro lookinho, aqui nós somos No dress code;
+👕 Pra quem é do time “roupas leves e tênis” , "chique e elegante" ou qualquer outro lookinho, aqui nós somos 
+📚 A Vindi cresce e você cresce junto com a gente, para isso temos parcerias com universidades e escolas de idiomas;
+📚 A Vindi cresce e você cresce junto com a gente, para isso temos 
+🌴 E para aproveitar melhor seus momentos de descanso e lazer fazendo uma das melhores coisas da vida, viajar, temos o Férias & Co.
+🌴 E para a
+
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Fit Cultural2Fit Cultural
+Etapa 2: Fit Cultural
+2
+Fit Cultural
+Etapa 3: Bate Papo com Cultura e Pessoas3Bate Papo com Cultura e Pessoas
+Etapa 3: Bate Papo com Cultura e Pessoas
+3
+Bate Papo com Cultura e Pessoas
+Etapa 4: Bate Papo com a Liderança4Bate Papo com a Liderança
+Etapa 4: Bate Papo com a Liderança
+4
+Bate Papo com a Liderança
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+PRAZER, SOMOS A VINDI! 💙
+Na Vindi, somos mais do que uma empresa de serviços financeiros; somos uma potência em soluções integradas. Com funcionalidades abrangentes, nossas plataformas oferecem recursos inteligentes para pagamentos avulsos ou recorrentes e a possibilidade de ingressar no mercado de embedded finance, construindo soluções de crédito sob medida para empresas financeiras e não financeiras.
+Na Vindi, somos mais do que uma empresa de serviços financeiros; somos uma potência em soluções integradas. Com funcionalidades abrangentes, nossas plataformas oferecem recursos inteligentes para 
+ ou 
+e a possibilidade de ingressar no mercado de 
+, construindo 
+para empresas financeiras e não financeiras.
+Nossos 11 anos de história carregam diversas conquistas, jornadas e trajetórias que, ao longo do tempo, se fundiram para se tornar uma verdadeira potência no mercado financeiro. Somos movidos pela paixão pelo que fazemos, trabalhamos incansavelmente para otimizar processos e promover a excelência em serviços financeiros, sempre guiados pelos valores da colaboração, compromisso com o resultado, atitude positiva, ética e transparência, criatividade e inovação, diversidade e inclusão.
+Nossos 
+ carregam diversas conquistas, jornadas e trajetórias que, ao longo do tempo, se fundiram para se tornar uma verdadeira potência no mercado financeiro. Somos movidos pela paixão pelo que fazemos, trabalhamos incansavelmente para otimizar processos e promover a 
+, sempre guiados pelos valores da colaboração, compromisso com o resultado, atitude positiva, ética e transparência, criatividade e inovação, diversidade e inclusão.
+Na Vindi, cada colaborador é parte fundamental do nosso sucesso. Com um time diverso e inclusivo, valorizamos a contribuição única de cada indivíduo, promovendo um ambiente de colaboração, autonomia e respeito mútuo. Aqui, trabalhamos unidos por um propósito comum: ser a referência em serviços financeiros no Brasil.
+Na Vindi, 
+Com um time diverso e inclusivo, valorizamos a contribuição única de cada indivíduo, promovendo um ambiente de colaboração, autonomia e respeito mútuo. Aqui, trabalhamos unidos por um propósito comum: 
+Junte-se a nós e faça parte dessa jornada de transformação. Se você é uma pessoa apaixonada por desafios, venha fazer a diferença na Vindi e ajudar-nos a construir o futuro dos serviços financeiros no Brasil.﻿
+ Se você é uma pessoa apaixonada por desafios, venha fazer a diferença na Vindi e ajudar-nos a construir o futuro dos serviços financeiros no Brasil.﻿
+#SomosTodosVindi
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

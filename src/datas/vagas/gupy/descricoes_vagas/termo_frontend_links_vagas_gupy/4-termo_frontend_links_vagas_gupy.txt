@@ -1,0 +1,77 @@
+link_vaga-https://avitaseg.gupy.io/job/eyJqb2JJZCI6Nzg4MDQ5Miwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DEVELOPER FRONTEND SR.
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Sobre a vaga:
+Você é um desenvolvedor frontend habilidoso e entusiasmado, com paixão por criar interfaces de usuário excepcionais? A Avita, uma empresa de tecnologia dinâmica, está em busca de um desenvolvedor frontend senior para se juntar à nossa equipe. Essa posição é fundamental para impulsionar o desenvolvimento frontend e guiar nossa equipe rumo ao sucesso.
+Sua missão:
+Apoiar equipe de desenvolvedores frontend a alcançar a excelência técnica e resultados bem-sucedidos nos projetos;
+Projetar e implementar aplicações web colaborando estreitamente com equipes multidisciplinares (squads), incluindo desenvolvedores de backend, designers, arquitetos, UX, UI e gerentes de produto.
+Reunir requisitos e entregar soluções de primeira classe analisando e otimizando os códigos frontend existentes a fim de garantir desempenho e escalabilidade.
+Requisitos técnicos:
+Angular 6+;
+APIs RESTfulGit;
+MVVM (Model-View-ViewModel) ou Redux;
+Gerenciamento de estado (NgRx);
+Testes Unitários.
+Habilidades e Experiência:
+Compreensão profunda da arquitetura baseada em componentes do framework, permitindo o desenvolvimento modular e escalável de aplicações;
+Experiência prática em desenvolvimento frontend, com foco nos frameworks Angular e construção de aplicações complexas, incluindo gerenciamento de estado e tratamento de dados;
+Experiência na criação de componentes e serviços reutilizáveis, bem como a utilização de diretivas e pipes no Angular;
+Forte compreensão do fluxo de dados e tratamento de eventos em aplicações Angular, garantindo experiências de usuário eficientes e responsivas;
+Familiaridade com renderização lado cliente e lado servidor em aplicações otimizando o desempenho das aplicações;
+Experiência com micro-frontends e habilidade para projetar módulos frontend coesos, porém independentemente implementáveis em Angular;
+Manter-se atualizado com as últimas tendências e tecnologias frontend, implementando as melhores práticas de forma proativa.
+O que oferecemos:
+Assistência Médica SulAmérica sem custo para a pessoa colaboradora;
+Assistência Odontológica Bradesco sem custo para a pessoa colaboradora;
+Alimentação no modelo Flexível;
+Convênio com o Sesc;
+Gympass;
+Acesso a trilhas de aprendizagem em parceria com a Alura;
+Day off no mês de Aniversário;
+Horário flexível;
+Trabalho híbrido (presencialmente 2 vezes por semana em escritório na Zona Oeste de São Paulo).
+ 
+Respeitamos a pluralidade de identidades e trabalhamos para promover uma cultura inclusiva. Não fazemos distinção de raça, cor, religião, identidade de gênero, orientação sexual, nacionalidade, deficiência ou idade em nenhuma etapa do processo seletivo, reforçando nosso compromisso com a diversidade.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Analisando seu currículo 2Analisando seu currículo 
+Etapa 2: Analisando seu currículo 
+2
+Analisando seu currículo 
+Etapa 3: Um desafio para você!3Um desafio para você!
+Etapa 3: Um desafio para você!
+3
+Um desafio para você!
+Etapa 4: Bate-papo time de people4Bate-papo time de people
+Etapa 4: Bate-papo time de people
+4
+Bate-papo time de people
+Etapa 5: Bate-papo líder da área5Bate-papo líder da área
+Etapa 5: Bate-papo líder da área
+5
+Bate-papo líder da área
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+QUEM SOMOS
+A AVITA é a primeira Insurtech Brasileira a desenvolver uma plataforma on-line de emissão automática, controle e gestão de seguro garantia e fiança locatícia, e em pouco tempo se tornou a maior emissora de seguro garantia judicial do país. Nosso sistema realiza cotações em todo o mercado segurador e apresenta, em segundos, as melhores possibilidades e valores.
+O sistema permite ainda consolidar e controlar todas as apólices e minutas emitidas, vencimentos, renovações, cancelamentos e limites com cada seguradora de forma 100% automática, desburocratizando toda a cadeia envolvida na contratação das apólices. E, por estar ligado com os Tribunais Brasileiros, acompanha os movimentos de cada processo em tempo real, dando previsibilidade jurídica e financeira aos nossos clientes.
+CONHEÇA MAIS SOBRE A AVITA
+Website
+LinkedIn
+Glassdoor

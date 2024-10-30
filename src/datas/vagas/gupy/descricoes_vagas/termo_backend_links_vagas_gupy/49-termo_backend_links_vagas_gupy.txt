@@ -1,0 +1,89 @@
+link_vaga-https://fcamara.gupy.io/job/eyJqb2JJZCI6NzkxOTgyOSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA BACKEND SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A FCamara está em busca de uma pessoa Desenvolvedora Backend Sênior para atuar em parceria com uma grande empresa do segmento de Tecnologia da informação e serviços, com mais de 40 anos no mercado, está presente no dia a dia de milhares de brasileiros, desenvolvendo soluções em benefícios que oferecem cuidado com alimentação, saúde, transporte e cultura para garantir mais tempo e uma vida melhor para empresas, trabalhadores e suas famílias.
+Desenvolvedora Backend Sênior 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolvimento Java 11 a 2110 anos de experiência no mínimo (para sênior)Spring BootAPI's padrão REST, Swagger e criação de clientes SOAPBancos de dados: Oracle e MySqlMockito, JUnit e outras ferramentas de testes e TDD;Experiência com princípios de desenvolvimento orientado a objetos e DDDConhecimentos em Padrões de Projeto e de microsserviços (Circuit Breaker, API Gateway, Backend for Frontend) e SOLID
+Desenvolvimento Java 11 a 21
+10 anos de experiência no mínimo (para sênior)
+Spring Boot
+API's padrão REST, Swagger e criação de clientes SOAP
+Bancos de dados: Oracle e MySql
+Mockito, JUnit e outras ferramentas de testes e TDD;
+Experiência com princípios de desenvolvimento orientado a objetos e DDD
+Conhecimentos em Padrões de Projeto e de microsserviços (Circuit Breaker, API Gateway, Backend for Frontend) e SOLID
+REQUISITOS E QUALIFICAÇÕES
+Diferencial
+Conhecimento em Conteineres
+AWS
+Conhecimentos em servidores Web apache
+Multi-threads
+Experiência com mensageria (Kafka, RabbitMQ).
+Comportamental/Processos
+Estar envolvido com desenvolvimento Ágil/Cultura de Squads/participação de cerimônias/senso de dono do produto e colaboração entre pares e áreas
+Pair Programming/XP
+Cultura Devops
+Busca por automação, CI/CD
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista R&S2Entrevista R&S
+Etapa 2: Entrevista R&S
+2
+Entrevista R&S
+Etapa 3: Entrevista Técnica3Entrevista Técnica
+Etapa 3: Entrevista Técnica
+3
+Entrevista Técnica
+Etapa 4: CV enviado ao Cliente4CV enviado ao Cliente
+Etapa 4: CV enviado ao Cliente
+4
+CV enviado ao Cliente
+Etapa 5: Entrevista Cliente5Entrevista Cliente
+Etapa 5: Entrevista Cliente
+5
+Entrevista Cliente
+Etapa 6: Carta Proposta6Carta Proposta
+Etapa 6: Carta Proposta
+6
+Carta Proposta
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+TRANSFORMAMOS MUNDOS SONHADOS EM TRAJETÓRIAS REAIS.🧡🚀
+Aqui somos #SangueLaranja!Estamos há 17 anos no mercado, lado a lado com nossos clientes, proporcionando experiências transformadoras. Somos um ecossistema de tecnologia e inovação, com expansão global; Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda. 🌎  F de Formação: acreditamos na prática da cultura do compartilhamento, no senso de comunidade, e que o conhecimentotem o poder da transformação! Possuímos iniciativas, e ações sociais, que promovem o desenvolvimento, como a comunidade tech Orange Juice, o Programa de Formação,nossa escola de liderança e diversas parcerias com ONGs e Edtechs.   Na FCamara todos são bem-vindos, para nós, Diversidade, Respeito e Ética, são elementos inegociáveis e fazem parte do nosso DNA.   E aí, está pronto para fazer parte de um time incrível e ser protagonista da própria história?    
+Aqui somos #SangueLaranja!
+Estamos há 17 anos no mercado, lado a lado com nossos clientes, proporcionando experiências transformadoras. 
+Somos um ecossistema de tecnologia e inovação, com expansão global; Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda. 🌎
+Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda.
+  
+F de Formação: acreditamos na prática da cultura do compartilhamento, no senso de comunidade, e que o conhecimento
+tem o poder da transformação!
+ 
+Possuímos iniciativas, e ações sociais, que promovem o desenvolvimento, como a comunidade tech Orange Juice, o Programa de Formação,
+nossa escola de liderança e diversas parcerias com ONGs e Edtechs. 
+  
+Na FCamara todos são bem-vindos, para nós, Diversidade, Respeito e Ética, são elementos inegociáveis e fazem parte do nosso DNA. 
+  
+E aí, está pronto para fazer parte de um time incrível e ser protagonista da própria história? 
+   
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

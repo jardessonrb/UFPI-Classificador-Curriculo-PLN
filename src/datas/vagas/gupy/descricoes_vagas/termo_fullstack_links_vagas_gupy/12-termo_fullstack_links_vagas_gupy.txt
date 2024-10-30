@@ -1,0 +1,136 @@
+link_vaga-https://vagas-bling.gupy.io/job/eyJqb2JJZCI6Nzc4OTY3Miwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA FULLSTACK | SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Descomplicamos a vida de milhares de empreendedores. Somos um sistema ERP para micro e pequenas empresas, com ferramentas que possibilitam uma gestão operacional e financeira mais integrada, simples e prática. 
+Descomplicamos a vida de milhares de empreendedores. Somos um sistema ERP para micro e pequenas empresas, com ferramentas que possibilitam uma gestão operacional e financeira mais integrada, simples e prática. 
+Como Pessoa Desenvolvedora Fullstack | Sênior você fará parte de um time com mais de 80 profissionais de desenvolvimento. 
+Como 
+ você fará parte de um time com mais de 80 profissionais de desenvolvimento. 
+Nosso time de tecnologia é responsável por concretizar as necessidades e desejos dos nossos clientes e parceiros de mercado!
+Nosso time de tecnologia é responsável por concretizar as necessidades e desejos dos nossos clientes e parceiros de mercado!
+Vem ser Blinger!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenho e construção de soluções evolutivas e resilientes;Acompanhar e controlar débitos técnicos das soluções;Participar ativamente na estratégia com o time de produto/negócio;Controlar os níveis de obsolescência da plataforma;Orientar os membros da equipe por meio de práticas como programação em pares e revisões de código;Buscar evolução contínua da tecnologia e solução utilizada;Fomentar cultura de revisão de código, DevOps e desenvolvimento seguro;Participar de todas as fases do design de sistemas de alta criticidade, analisando os requisitos, propondo novas soluções que agreguem valor para as áreas técnica e de negócios e visando obter melhorias para o produto;Garantir a qualidade do código e a observabilidade das métricas de negócio e sistêmicas;Estabelecer rotinas de teste unitários e automatizados dos produtos desenvolvidos;Prover suporte técnico L3.
+Desenho e construção de soluções evolutivas e resilientes;
+Desenho e construção de soluções evolutivas e resilientes;
+Acompanhar e controlar débitos técnicos das soluções;
+Acompanhar e controlar débitos técnicos das soluções;
+Participar ativamente na estratégia com o time de produto/negócio;
+Participar ativamente na estratégia com o time de produto/negócio;
+Controlar os níveis de obsolescência da plataforma;
+Controlar os níveis de obsolescência da plataforma;
+Orientar os membros da equipe por meio de práticas como programação em pares e revisões de código;
+Orientar os membros da equipe por meio de práticas como programação em pares e revisões de código;
+Buscar evolução contínua da tecnologia e solução utilizada;
+Buscar evolução contínua da tecnologia e solução utilizada;
+Fomentar cultura de revisão de código, DevOps e desenvolvimento seguro;
+Fomentar cultura de revisão de código, DevOps e desenvolvimento seguro;
+Participar de todas as fases do design de sistemas de alta criticidade, analisando os requisitos, propondo novas soluções que agreguem valor para as áreas técnica e de negócios e visando obter melhorias para o produto;
+Participar de todas as fases do design de sistemas de alta criticidade, analisando os requisitos, propondo novas soluções que agreguem valor para as áreas técnica e de negócios e visando obter melhorias para o produto;
+Garantir a qualidade do código e a observabilidade das métricas de negócio e sistêmicas;
+Garantir a qualidade do código e a observabilidade das métricas de negócio e sistêmicas;
+Estabelecer rotinas de teste unitários e automatizados dos produtos desenvolvidos;
+Estabelecer rotinas de teste unitários e automatizados dos produtos desenvolvidos;
+Prover suporte técnico L3.
+Prover suporte técnico L3.
+REQUISITOS E QUALIFICAÇÕES
+O que você precisa ter:
+Experiência em arquitetura de microsserviços;
+Experiência com sistemas de grande complexidade e escala;
+Experiência de desenvolvimento de software web com linguagens como PHP, Golang e frameworks relacionados;
+Conhecimento em metodologias ágeis (Kanban, Scrum, etc);
+Domínio em versionamento de código via Gitlab/Github;
+Experiência com Design Patterns; boas práticas de código (SOLID, Clean code), padrões de projetos (MVC), modelagem de banco de dados (SQL) e orientação a objetos;
+Experiência em banco de dados relacionais e não relacionais (MySQL, DynamoDB, DocumentDB);
+Desejável experiência em banco de dados chave-valor, como o Redis, e banco de dados de série temporal, como o InfluxDB;
+Conhecimento de HTML, CSS e frameworks de front-end;
+Conhecimento de mensageria e orientação a eventos (Kafka, AMQ, SQS, SNS.. etc);
+Experiência em criação de componentes de interface (Javascript/Vue.js);
+Conhecimento de testes automatizados e testes unitários e conceitos de desenvolvimento seguro;
+Familiaridade com esteiras de CI/CD, Docker e Terraform;
+Inglês técnico;
+Experiência em arquitetura event-driven e soluções Cloud (AWS);
+Programação de sistemas de grande complexidade;
+Desejável experiência em outras linguagens programação, como: Node.js, Python, Java, etc;
+INFORMAÇÕES ADICIONAIS
+Temos uma cultura honesta, transparente e que evolui constantemente. Por isso, acreditamos que a diversidade e inclusão são essenciais para que tenhamos uma equipe cada vez mais plural e representativa e estamos comprometidos em tornar o Bling um ambiente seguro e acolhedor para todas as pessoas, valorizando e respeitando a singularidade de cada uma.
+Nosso Blingverso é composto por pessoas:
+💚Desbravadoras;
+💚Presentes;
+💚Descomplicadoras;
+💚Protagonistas;
+💚Autênticas;
+💚Iguais só que diferentes;
+💚Para frente. 
+Quem é Blinger tem como benefícios:
+✔️ Auxílio alimentação;
+✔️ Auxílio home office e apoio na estrutura de trabalho;
+✔️ PLR - Participação nos Lucros e Resultados;
+✔️ Zenklub (psicoterapia/atendimento nutricional);
+✔️ Gympass;
+✔️ Plano de Saúde | Unimed Nacional;
+✔️ Plano Odontológico | SulAmérica Nacional;
+✔️ Seguro de Vida;
+✔️ Day Off no mês de aniversário;
+✔️ Auxílio educação;
+✔️ Auxílio idiomas;
+✔️ Licença maternidade de 6 meses e paternidade de 20 dias;
+✔️ Auxílio creche;
+✔️ Férias & Co.
+OUTRAS INFORMAÇÕES
+Prezada pessoa candidata, é importante ressaltarmos a transparência em nosso processo e responsabilidade com o uso e proteção das informações fornecidas por você. O preenchimento do seu cadastro, dá o consentimento à empresa para o uso dos seus dados.
+Fará parte do processo seletivo, para melhor conhecer a pessoa candidata, uma pesquisa em fontes públicas, a fim de avaliar o risco reputacional para o nosso grupo, com o objetivo de manter a seriedade, integridade e segurança dos nossos processos.
+Você poderá pedir a exclusão do cadastro a qualquer momento. Dúvidas ou esclarecimentos, envie um e-mail para oportunidades@bling.com.br.
+Quer conhecer sobre a política de privacidade do grupo LWSA? Acesse https://lwsa.tech/politicas/
+ Está com dificuldade para realizar a inscrição ou qualquer outro problema com a plataforma da Gupy? Acesse o suporte aqui.
+.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista com a área de pessoas2Entrevista com a área de pessoas
+Etapa 2: Entrevista com a área de pessoas
+2
+Entrevista com a área de pessoas
+Etapa 3: Entrevista com a área!3Entrevista com a área!
+Etapa 3: Entrevista com a área!
+3
+Entrevista com a área!
+Etapa 4: Carta Proposta 4Carta Proposta 
+Etapa 4: Carta Proposta 
+4
+Carta Proposta 
+Etapa 5: Admissão: envio dos documentos5Admissão: envio dos documentos
+Etapa 5: Admissão: envio dos documentos
+5
+Admissão: envio dos documentos
+Etapa 6: Admissão: exame admissional6Admissão: exame admissional
+Etapa 6: Admissão: exame admissional
+6
+Admissão: exame admissional
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+MUITO PRAZER, SOMOS O BLING 💚
+Nascemos com o propósito de democratizar a gestão de negócio dos pequenos e médios empreendedores, apoiando no crescimento das empresas e realização de sonhos.
+Nossa história começou em 2008, na cidade de Bento Gonçalves onde fica localizada nossa sede. Nos transformamos, evoluímos e hoje somos uma unidade do grupo LWSA, com mais de 300 colaboradores distribuídos em mais de 10 estados do Brasil e também no México.
+Temos orgulho de estar entre as mais conhecidas empresas desenvolvedoras de softwares de gestão do país e de ser, segundo a Associação Brasileira de Comércio Eletrônico - ABComm, uma das melhores tecnologias para e-commerce do Brasil!
+Além disso, somos certificados como Great Place To Work (GPTW), uma conquista que reflete um ambiente de trabalho acolhedor, desenvolvedor e próspero! 
+E tudo isso é possível graças a uma equipe diversa, apaixonada por tecnologia, repleta de pessoas protagonistas, engajadas e que colaboram todos os dias para desenvolver soluções inovadoras.
+SEGUE A GENTE POR AÍ!
+Website
+LinkedIn
+Facebook
+Instagram

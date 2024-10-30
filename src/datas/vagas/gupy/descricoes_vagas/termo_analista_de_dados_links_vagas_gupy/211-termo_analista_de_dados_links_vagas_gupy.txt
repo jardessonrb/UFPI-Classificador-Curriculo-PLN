@@ -1,0 +1,90 @@
+link_vaga-https://vempralanlink.gupy.io/job/eyJqb2JJZCI6NjczMDE1Niwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE BANCO DE DADOS
+Tipo de vaga: Banco de talentosBanco de talentos
+Tipo de vaga: Banco de talentos
+Banco de talentos
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+O Analista de Banco de Dados deverá atuar junto com a equipe de DBAs do Sistema de Arrecadação Tributária nos processos que envolverem a migração de dados e ajustes da plataforma de hiperconvergência, referente à implantação do Analitcys integrado ao sistema transacional. Deverá suportar os bancos de dados presentes nos objetos adquiridos nesse certame, de acordo com as especificações e atender solicitações como implantações de novas funcionalidades, melhorias e orientações para a instituição e/ou órgão. A prestação dos serviços de sustentação dos bancos de dados será executada de forma presencial, através da execução de atividades, tais como: Manutenções Preventivas, Operações de Backup e Atividades em Banco de Dados.
+
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+ Administração dos bancos de dados no Oracle Exadata Database Machine (site Principal e Backup), execução de atividades de administração do armazenamento dos bancos de dados, reorganização de índices, atualização de estatísticas, aplicação de profiles, verificação e análise de logs de alerta ou qualquer outra atividade com intuito de garantir o melhor desempenho dos ambientes de banco de dados no Exadata Database Machine;  Administração da aplicação de patches pelo suporte Oracle nos appliances:  Exadata Database Machine Zero Data Loss Recovery Appliance Aplicação de patches de Banco de Dados;  Análise de consumo de recursos via Oracle Enterprise Manager Cloud Control;  Análise e Tunning de consultas nas instâncias de banco de dados do cliente.  Administração do ambiente Zero Data Loss Recovery Appliance Oracle; Controle dos relatórios de backups de bancos de dados Oracle do cliente a fim de garantir o sucesso do plano de rollback sempre que necessário; Realizar atualização de bases de dados, schemas ou instâncias de banco de dados do negócio (produção ou desenvolvimento);Checagem de erros e verificação de melhorias no plano de execução de backups de banco de dadosCriação e gerenciamento de jobs;Aplicação de scripts;Gerenciamento de usuários e políticas de privilégios;  Auditoria das atividades de usuários;Criação de relatórios para acompanhamento de atividades; Instalação de novos bancos de dados single instance ou cluster (RAC); Administração da replicação via Oracle Data Guard entre o site principal e o site de backup do cliente. 
+ Administração dos bancos de dados no Oracle Exadata Database Machine (site Principal e Backup), execução de atividades de administração do armazenamento dos bancos de dados, reorganização de índices, atualização de estatísticas, aplicação de profiles, verificação e análise de logs de alerta ou qualquer outra atividade com intuito de garantir o melhor desempenho dos ambientes de banco de dados no Exadata Database Machine; 
+Administração dos bancos de dados no Oracle Exadata Database Machine (site Principal e Backup), execução de atividades de administração do armazenamento dos bancos de dados, reorganização de índices, atualização de estatísticas, aplicação de profiles, verificação e análise de logs de alerta ou qualquer outra atividade com intuito de garantir o melhor desempenho dos ambientes de banco de dados no Exadata Database Machine; 
+ Administração da aplicação de patches pelo suporte Oracle nos appliances: 
+Administração da aplicação de patches pelo suporte Oracle nos appliances: 
+ Exadata Database Machine
+Exadata Database Machine
+ Zero Data Loss Recovery Appliance
+ Zero Data Loss Recovery Appliance
+ Aplicação de patches de Banco de Dados; 
+ Aplicação de patches de Banco de Dados; 
+ Análise de consumo de recursos via Oracle Enterprise Manager Cloud Control; 
+ Análise de consumo de recursos via Oracle Enterprise Manager Cloud Control; 
+ Análise e Tunning de consultas nas instâncias de banco de dados do cliente. 
+ Análise e Tunning de consultas nas instâncias de banco de dados do cliente. 
+ Administração do ambiente Zero Data Loss Recovery Appliance Oracle; 
+Administração do ambiente Zero Data Loss Recovery Appliance Oracle; 
+Controle dos relatórios de backups de bancos de dados Oracle do cliente a fim de garantir o sucesso do plano de rollback sempre que necessário; 
+Controle dos relatórios de backups de bancos de dados Oracle do cliente a fim de garantir o sucesso do plano de rollback sempre que necessário; 
+Realizar atualização de bases de dados, schemas ou instâncias de banco de dados do negócio (produção ou desenvolvimento);
+Realizar atualização de bases de dados, schemas ou instâncias de banco de dados do negócio (produção ou desenvolvimento);
+Checagem de erros e verificação de melhorias no plano de execução de backups de banco de dados
+Checagem de erros e verificação de melhorias no plano de execução de backups de banco de dados
+Criação e gerenciamento de jobs;
+Criação e gerenciamento de jobs;
+Aplicação de scripts;
+Aplicação de scripts;
+Gerenciamento de usuários e políticas de privilégios; 
+Gerenciamento de usuários e políticas de privilégios; 
+ Auditoria das atividades de usuários;
+Auditoria das atividades de usuários;
+Criação de relatórios para acompanhamento de atividades;
+Criação de relatórios para acompanhamento de atividades;
+ Instalação de novos bancos de dados single instance ou cluster (RAC);
+Instalação de novos bancos de dados single instance ou cluster (RAC);
+ Administração da replicação via Oracle Data Guard entre o site principal e o site de backup do cliente. 
+Administração da replicação via Oracle Data Guard entre o site principal e o site de backup do cliente. 
+REQUISITOS E QUALIFICAÇÕES
+Formação Acadêmica:
+Superior completo na área de Tecnologia
+Cerificações/Conhecimentos:
+Certificação Oracle Database 19 c ou superior
+Conhecer e atuar com Banco de Dados
+Experiência Profissional:
+Experiência anterior em Exadata; Zero Data Loss; Oracle RAC.
+INFORMAÇÕES ADICIONAIS
+Indispensável morar em Florianópolis ou região próxima.
+Atuação presencial.
+Nossos benefícios:
+Plano de saúde Hapvida, Bradesco ou Unimed (aplicáveis de acordo com a região);
+Plano odontológico Hapvida Odonto ou Bradesco Dental;
+Vale Alimentação ou Refeição;
+Seguro de vida 100% custeado pela Lanlink;
+Vale transporte;
+Gympass;
+Auster;
+Convênio farmácia;
+Convênio faculdades;
+Plataforma de Educação Corporativa;
+Kit Bem-vindo ao mundo bebê;
+Plataforma Moodar.
+VEM PRA CÁ! VEM ESCREVER CONOSCO HISTÓRIAS DE SUCESSO.
+Que bom que você veio nos visitar virtualmente! Vamos nos conhecer melhor? 
+O Grupo Lanlink vem há mais de 35 anos construindo experiências que transformam não só empresas, mas a vida das pessoas, nas 5 regiões do Brasil. Pensamos o futuro com o intuito de impactar vidas e ser o porto seguro da inovação. Nossos espaços são construídos por nossos colaboradores, que vestem a camisa, e constroem diariamente um ambiente de trabalho alegre e colaborativo.  
+Acreditamos que a confiança é o alicerce do relacionamento com a nossa gente e com nossos clientes, que ela é cultivada através de práticas como: contratar e receber, inspirar, falar, escutar, agradecer, desenvolver, cuidar, celebrar e compartilhar. 
+Somos muitos, somos diversos, #nossomosLanlink. Agora é sua vez! Deixa a gente te conhecer também?  Vem pra Lanlink você também.  
+EI, TODAS AS NOSSAS VAGAS SÃO PREFERENCIAIS PARA PCD! 🤖💙
+🤖💙
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram

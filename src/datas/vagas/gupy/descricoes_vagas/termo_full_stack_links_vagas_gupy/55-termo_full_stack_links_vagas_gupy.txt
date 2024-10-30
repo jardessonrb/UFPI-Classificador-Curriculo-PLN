@@ -1,0 +1,68 @@
+link_vaga-https://norsul.gupy.io/job/eyJqb2JJZCI6NzkwNzcxMCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR WEB FULL STACK
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Atuação como Desenvolvedor Full stack na gerência de TI da Norsul.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Atuação na implementação de demandas corretivas e evolutivas em solução três camadas (BD + Backend + Frontend);Tecnologias: SQL Server + .NET 8 (webApi) + AngularManutenção e implementação de melhorias em pipelines CI/Cd em um cenário de arquiettura híbrida com componentes/serviços em cloud e componentes/serviços on premise;Responsável pela aprovação, revisão, Pull Request e gerenciamento do código fonte dos projeto.
+Atuação na implementação de demandas corretivas e evolutivas em solução três camadas (BD + Backend + Frontend);
+Atuação na implementação de demandas corretivas e evolutivas em solução três camadas (BD + Backend + Frontend);
+Tecnologias: SQL Server + .NET 8 (webApi) + Angular
+Tecnologias: SQL Server + .NET 8 (webApi) + Angular
+Manutenção e implementação de melhorias em pipelines CI/Cd em um cenário de arquiettura híbrida com componentes/serviços em cloud e componentes/serviços on premise;
+Manutenção e implementação de melhorias em pipelines CI/Cd em um cenário de arquiettura híbrida com componentes/serviços em cloud e componentes/serviços on premise;
+Responsável pela aprovação, revisão, Pull Request e gerenciamento do código fonte dos projeto.
+Responsável pela aprovação, revisão, Pull Request e gerenciamento do código fonte dos projeto.
+REQUISITOS E QUALIFICAÇÕES
+Pré-requisitos:
+Back End 
+.NET 8.0 
+.NET 8.0 
+Entity Framework
+Entity Framework
+ASP Net Core Web API
+ASP Net Core Web API
+SQL (SQL Server)
+SQL (SQL Server)
+Front End
+Angular V16 >
+Desejável:
+ Devops
+Gerenciamento de Código: Git (Azure Devops)
+Cloud: Azure Pipelines
+Cloud: Azure Container Registry
+On Premise: Jenkins
+Docker
+INFORMAÇÕES ADICIONAIS
+Vaga para o Rio de Janeiro.
+Todas as nossas vagas são inclusivas para Pessoas com Deficiência (PCDs).
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevistas2Entrevistas
+Etapa 2: Entrevistas
+2
+Entrevistas
+Etapa 3: Contratação3Contratação
+Etapa 3: Contratação
+3
+Contratação
+SOMOS A NORSUL
+Somos a Norsul, uma das maiores empresas privadas de cabotagem do país. Com solidez e credibilidade, nós cuidamos de cargas de norte a sul, integrando a logística a partir da navegação.
+Agregamos mais de seis décadas de expertise, trazendo solidez e credibilidade, às necessidades do mercado. De forma ampla e estratégica, contribuímos com soluções para a cadeia logística de nossos clientes. 
+Temos um olhar atencioso sobre negócios, pessoas e sociedade. O nosso cuidado se traduz em dedicação, em fazer bem feito e impactar positivamente os nossos parceiros. Nascemos de um propósito claro de movimentar o mundo e inspirar pessoas e negócios a irem além.
+Website
+LinkedIn
+Facebook
+Instagram

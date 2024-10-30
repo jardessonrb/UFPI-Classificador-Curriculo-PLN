@@ -1,0 +1,150 @@
+link_vaga-https://omnibees-bee2pay-niara.gupy.io/job/eyJqb2JJZCI6NjkzMzg4OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR(A) FULL STACK INTERMEDIO OU SÉNIOR (DOTNET | ANGULAR 2+) - OMNIBEES PORTUGAL
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+DESCRIÇÃO DA VAGA
+O Departamento de Tecnologia da Omnibees é focado em levar inovação e agilidade para o cliente de maneira única. O principal objetivo é dar manutenção e suporte, além de realizar evoluções tecnológicas aos diferentes departamentos e produtos do grupo.
+anutenção e suporte, além de realizar evoluções tecnológicas aos diferentes departamentos e produtos do grupo.
+O nosso dia a dia é orientado para realizar entregas de qualidade, tendo um bom trabalho em equipa, onde todos trabalham para o mesmo objetivo: crescermos como empresa e profissionalmente aqui dentro de casa! 💪🏼🎖️
+Trabalhamos com muita inovação para sermos líderes no mercado global, não só pela quantidade de clientes, mas também por fazer a diferença naquilo que somos bons, e atender como ninguém atende!
+Prezamos por trabalhar com tecnologias modernas e estamos sempre abertos a trazer novas ferramentas que nos proporcionem alta performance e qualidade.
+Quer fazer parte do Departamento de Tecnologia da maior TravelTech da América Latina? 🏆🚀🐝
+🏆🚀🐝
+Estamos a crescer a todo vapor e a procura de pessoas com perfil Full Stack focado em .NET com Angular 2+, e que tenham autonomia e vontade para criar coisas novas, sempre contribuindo com ideias.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Definir e criar soluções técnicas de acordo com a tecnologia utilizada no projeto;Compreender a arquitetura e adaptar-se a ela;Identificar e construir os testes unitários que cubram o comportamento desejado dos componentes técnicos;Assegurar a qualidade de código, implementação das arquiteturas definidas, segurança, escalabilidade e performance em todas as aplicações;Identificar boas práticas de engenharia de software e sua implementação;Desenvolver ou apoiar o desenvolvimento em áreas de grande complexidade técnica;Rever código;Integrar o sistema com os novos componentes de software produzidos ou alterados;Elaborar e garantir soluções para o desenvolvimento dos sistemas.
+Definir e criar soluções técnicas de acordo com a tecnologia utilizada no projeto;
+Compreender a arquitetura e adaptar-se a ela;
+Identificar e construir os testes unitários que cubram o comportamento desejado dos componentes técnicos;
+Assegurar a qualidade de código, implementação das arquiteturas definidas, segurança, escalabilidade e performance em todas as aplicações;
+Identificar boas práticas de engenharia de software e sua implementação;
+Desenvolver ou apoiar o desenvolvimento em áreas de grande complexidade técnica;
+Rever código;
+Integrar o sistema com os novos componentes de software produzidos ou alterados;
+Elaborar e garantir soluções para o desenvolvimento dos sistemas.
+REQUISITOS E QUALIFICAÇÕES
+Requisitos Obrigatórios:
+
+Experiência consolidada em desenvolvimento;
+Boas noções de Padrões de Desenvolvimento / Arquitetura de Software;
+Experiência em .Net / .Net Core, Angular 2+ e HTML5 / CSS3;
+Vivência com metodologia ágil e banco de dados (sql server);
+Experiência com Protocolos de Comunicação (SOAP / REST).
+
+Requisitos Desejáveis:
+
+Experiência em Cloud Computing;
+Conhecimentos MSMQ \ Kafka;
+Conhecimento com UML / Use Cases;
+ Sistemas de cache;
+Optimização de SQL;
+Conhecimentos de processos ágeis;
+Preferencialmente residir na região de Faro - Portugal.
+
+INFORMAÇÕES ADICIONAIS
+Fazer parte do Grupo Hive significa que vivemos e respiramos os valores fundamentais da nossa empresa, e nos divertimos enquanto fazemos aquilo que amamos:
+TRABALHO: somos comprometidos com as nossas entregas. Para nós, é fundamental:
+Fazer simples e bem-feito
+Fazer, melhorar e aprender
+Concluir o que começa
+Dedicar-se diariamente para encantar nossos clientes (internos e externos)
+Ser ambicioso nos objetivos e eficiente na execução
+TRANSPARÊNCIA: é a base de todas as relações. Não abrimos mão de:
+Confiar nas pessoas
+Ajudar e pedir ajuda
+Ser você mesmo e se expressar de forma transparente, sem ter medo de errar.
+Construir relações sólidas e duradouras
+Evoluir com base da transparência dada e recebida
+FELICIDADE: acreditamos que bons resultados dependem de um ambiente saudável e colaborativo. Por isso, é preciso de:
+Confiar em si mesmo
+Ser resiliente e adaptável
+Não ter medo de tomar decisões
+Estar aberto para diferentes pontos de vista
+Ter a sensação de progresso pessoal e profissional
+Nosso horário de trabalho é das 9h às 18h30, com 1h30 de intervalo. Prezamos muito o equilíbrio de nossa vida pessoal e profissional, e somos muito produtivos. Nosso escritório fica localizado na Visualforma - em frente ao Shopping Fórum, na cidade de Faro.
+Gostamos de interagir em eventos de tecnologia e turismo e o diálogo com nossos gestores é aberto e franco.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Entrevista - RH3Entrevista - RH
+Etapa 3: Entrevista - RH
+3
+Entrevista - RH
+Etapa 4: Entrevista - Técnica4Entrevista - Técnica
+Etapa 4: Entrevista - Técnica
+4
+Entrevista - Técnica
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+QUEM SOMOS?
+O maior grupo de tecnologia para hotéis na América Latina, presente em quatro países: Portugal, Brasil, Colômbia e México.
+ 
+Nossa organização é composta pela Omnibees, líder em soluções de distribuição, vendas e marketing; Bee2Pay, Travel Fintech especializada em pagamentos e serviços financeiros; e Niara, criadora de soluções para conectar novos compradores aos hotéis.
+ 
+Juntos, oferecemos um ecossistema virtuoso que simplifica, torna seguro e escalável o processo de reserva de hotéis. Oferecemos soluções completas de distribuição, vendas, marketing, CRM, e-commerce, inteligência de dados, preços e pagamentos para uma ampla gama de empresas do setor hoteleiro.
+ 
+A Omnibees, nossa principal empresa, tornou-se líder no Brasil e na América Latina em poucos anos. Com um marketplace de mais de 7.000 hotéis e 750 canais de vendas conectados, ultrapassamos a marca de 15 bilhões de transações anuais, impulsionando a digitalização do setor de turismo.
+ 
+Desde o início, entendemos que a inovação é fundamental, crescendo e atendendo milhares de clientes e parceiros de forma próxima e conjunta.
+ 
+A cada dia, escrevemos mais um capítulo de nossa história, confiando no fator humano que define o sucesso de nossa empresa: nossos BeeHivers!
+Nossa Cultura no Dia a Dia: Trabalho, Transparência e Felicidade
+Somos comprometidos com nossas entregas. Para nós, isso significa:
+Fazer as coisas de forma simples e bem-feita.
+Estar sempre buscando melhorar e aprender.
+Concluir tudo o que começamos.
+Dedicar-nos para encantar nossos clientes, sejam eles internos ou externos.
+Ser ambiciosos em nossos objetivos e eficientes na execução.
+A transparência é a base de todas as nossas relações. Valorizamos:
+Confiar nas pessoas ao nosso redor.
+Ajudar e pedir ajuda sempre que necessário.
+Ser autêntico e se expressar de forma transparente, sem medo de errar.
+Construir relações sólidas e duradouras.
+Evoluir com base na transparência, tanto ao dar quanto ao receber feedback.
+Acreditamos que bons resultados vêm de um ambiente saudável e colaborativo. Por isso, incentivamos:
+Confiar em si mesmo.
+Ser resiliente e adaptável.
+Não ter medo de tomar decisões.
+Estar aberto a diferentes pontos de vista.
+Sentir progresso tanto social quanto profissional.
+Estamos juntos nessa jornada, criando um espaço onde o trabalho, a transparência e a felicidade se entrelaçam para nos levar cada vez mais longe.
+Qual o segredo de nosso sucesso? 
+Somos um time composto por mais de 400 profissionais. Contamos com especialistas em tecnologia, hotelaria, design, marketing e vendas que desenvolvem soluções completas e inovadoras para o turismo. Estamos em constante evolução e em treinamento contínuo para entregar excelentes resultados e transformar o seu negócio.
+Somos uma empresa especializada em hotelaria e apaixonada por entregar excelentes resultados.
+O segredo do sucesso está no trabalho de uma grande equipe!
+
+
+Uma das maiores Travel Tech da América Latina, que desenvolve 
+soluções de vendas, distribuição, marketing e inteligência 
+para Hotéis e Compradores Corporativos.
+ 
+
+A mais nova Travel Fintech da América Latina, que une
+segurança e eficiência em pagamentos exclusivo para o mercado de Viagens.
+ 
+exclusivo para o mercado de Viagens.
+ 
+
+Plataforma com soluções que trazem 
+Plataforma com soluções que trazem 
+mais compradores corporativos para o seu Hotel. 
+﻿
+﻿
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram

@@ -1,0 +1,161 @@
+link_vaga-https://mtpbrasil.gupy.io/job/eyJqb2JJZCI6NzUzNjIwMCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+7536200 - DESENVOLVEDOR FULL-STACK SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+DESCRIÇÃO DA VAGA
+Com 25 anos de experiência no mercado de Tecnologia da Informação, a MTP é uma empresa multinacional com mais de 1.000 colaboradores espalhados em mais de 11 unidades em nível global, o que nos permite promover o crescimento e intercâmbio profissional. A MTP é líder no fornecimento de serviços e soluções de TI com foco em Quality Assurance. Possuímos mais de 10 certificações, incluindo o TMMI - level 5, o mais alto nível da categoria. Oferecendo um dos mais amplos portfólios, entregamos soluções inovadoras e flexíveis para ajudar empresas a resolver seus desafios mais complexos. Atuando em projetos em mais de 14 países, tais como: Alemanha, Reino Unido, Japão, Suécia, Coréia do Sul, Moçambique, Guatemala, Argentina, Chile, Peru, entre outros.
+Com 25 anos de experiência no mercado de Tecnologia da Informação, a 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Você gosta de criar ferramentas e infraestrutura que permitem que os engenheiros sejam mais produtivos e felizes? Se orgulha de construir interfaces simples e intuitivas? Você tem o dom de ajudar usuários a processar informações e tomar decisões com o menor número de cliques? Se sim, a nossa equipe de ferramentas é o lugar para você expressar suas ideias e mostrar seu processo de design.A nossa equipe está à procura de um Desenvolvedor experiente e que seja apaixonado por construir interface de usuários para sistemas. Bem como nossa estrutura de CI/CD, geração de dados, testes, painéis, relatórios em tempo real e ferramentas de suporte de nível II.Você desenvolverá novos recursos de maneira interativa que coletivamente formará um aplicativo maior, modificará e aprimorará o software existente adicionando ou alterando recursos, enquanto aprimora a base de código.Criará soluções de ponta a ponta, gerenciando a complexidade e engajando diretamente com todas as partes interessadas, pensando em tudo, desde a coleta de requisitos, design, planejamento, até a liberação para a produção.Resolver problemas com seus conhecimentos em JS, ter paixão por trabalho em equipe e inovação.Ter capacidade de solucionar problemas e otimizar páginas da web com segurança e responsividade.
+Você gosta de criar ferramentas e infraestrutura que permitem que os engenheiros sejam mais produtivos e felizes? Se orgulha de construir interfaces simples e intuitivas? Você tem o dom de ajudar usuários a processar informações e tomar decisões com o menor número de cliques? Se sim, a nossa equipe de ferramentas é o lugar para você expressar suas ideias e mostrar seu processo de design.
+A nossa equipe está à procura de um Desenvolvedor experiente e que seja apaixonado por construir interface de usuários para sistemas. Bem como nossa estrutura de CI/CD, geração de dados, testes, painéis, relatórios em tempo real e ferramentas de suporte de nível II.
+Você desenvolverá novos recursos de maneira interativa que coletivamente formará um aplicativo maior, modificará e aprimorará o software existente adicionando ou alterando recursos, enquanto aprimora a base de código.
+Criará soluções de ponta a ponta, gerenciando a complexidade e engajando diretamente com todas as partes interessadas, pensando em tudo, desde a coleta de requisitos, design, planejamento, até a liberação para a produção.
+Resolver problemas com seus conhecimentos em JS, ter paixão por trabalho em equipe e inovação.
+Ter capacidade de solucionar problemas e otimizar páginas da web com segurança e responsividade.
+REQUISITOS E QUALIFICAÇÕES
+   
+Ensino superior em áreas relacionadas a TI;
+Ter sólida experiência na construção de UIs, com ferramentas como: Javascript/Typescript, React, redux. Post, CSS, Flow e webpack;
+Sólida experiência com HTML/ CSS, incluindo conceitos de layout, especificamente compatibilidade entre navegadores e acessibilidade;
+Experiência com estruturas de testes de unidade para JavaScript/TypeScript (por exemplo: mocha, Jasmine, tape jest);
+Experiência na implantação de código usando containers como Docker;
+Habilidade com desenvolvedor Full Stack, com grande foco em front-end e boa compreensão em back-end;
+Experiência com testes A/B de aplicações web;
+Portifólio com exemplos e amostras de código;
+Inglês fluente
+INFORMAÇÕES ADICIONAIS
+Atuação:
+CLT
+CLT
+Híbrido 1x a cada 15 dias – Região do Socorro - SP
+Benefícios:
+Plano de saúde;
+Plano odontológico;
+Vale alimentação;
+Vale refeição;
+Vale mobilidade;
+Vale cultura;
+Vale saúde;
+Vale educação;
+Seguro de vida;
+Auxílio creche;
+Descontos em parceiros.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triados2Triados
+Etapa 2: Triados
+2
+Triados
+Etapa 3: Entrevista Comportamental3Entrevista Comportamental
+Etapa 3: Entrevista Comportamental
+3
+Entrevista Comportamental
+Etapa 4: Entrevista Técnica4Entrevista Técnica
+Etapa 4: Entrevista Técnica
+4
+Entrevista Técnica
+Etapa 5: Entrevista com Cliente5Entrevista com Cliente
+Etapa 5: Entrevista com Cliente
+5
+Entrevista com Cliente
+Etapa 6: Você foi aprovado(a)!6Você foi aprovado(a)!
+Etapa 6: Você foi aprovado(a)!
+6
+Você foi aprovado(a)!
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+FAÇA PARTE DE UMA EQUIPE DE EXCELÊNCIA!
+A MTP Group é uma multinacional espanhola fundada em 1997, com experiência mundial nos setores:
+A 
+ é uma multinacional espanhola fundada em 1997, com experiência mundial nos setores:
+Garantia de Qualidade (QA);
+Garantia de Qualidade (QA);
+Automação;
+Automação;
+Performance em Cybersecurity;
+Performance em Cybersecurity;
+Transformação Digital;
+Transformação Digital;
+User Experience (UX);
+User Experience (UX);
+DevOps;
+DevOps;
+Agile Development;
+Agile Development;
+Big Data.
+Big Data.
+Presente no país desde 2007, a MTP Brasil presta serviços de Consultoria, alocação e treinamentos com um serviço profissional dedicado.
+Presente no país desde 2007, a MTP Brasil presta serviços de Consultoria, alocação e treinamentos com um serviço profissional dedicado.
+Nossa proposta, integrada ao ambiente do Digital Business Assurance, baseia-se em três fatores principais:
+Nossa proposta, integrada ao ambiente do Digital Business Assurance, baseia-se em três fatores principais:
+Profundo conhecimento na garantia da qualidade de soluções e sistemas de TI.
+Profundo conhecimento na garantia da qualidade de soluções e sistemas de TI.
+Forte compromisso com a inovação e a excelência operacional.
+Forte compromisso com a inovação e a excelência operacional.
+Experiência comprovada no trabalho de adaptação às mudanças do mercado e ao crescente peso da tecnologia nos processos de negócio.
+Experiência comprovada no trabalho de adaptação às mudanças do mercado e ao crescente peso da tecnologia nos processos de negócio.
+A MTP Group está sediada em Madri e possui escritórios próprios na Cidade do México, São Paulo, Argentina e EUA. Sendo uma empresa de capital privado.
+A MTP Group está sediada em Madri e possui escritórios próprios na Cidade do México, São Paulo, Argentina e EUA. Sendo uma empresa de capital privado.
+Missão, Visão e Valores:
+ 
+Missão:
+Criar serviços de alto valor agregado, com soluções tecnológicas inovadoras.
+Criar serviços de alto valor agregado, com soluções tecnológicas inovadoras.
+Visão:
+Fornecer as soluções para o futuro pensadas hoje.
+Fornecer as soluções para o futuro pensadas hoje.
+Valores:
+              Excelência...
+Em busca de superar as expectativas do cliente. Tratando o cliente com cortesia, respeito e atenção genuína. Ouvindo atentamente suas necessidades e respondendo com ideias relevantes e assertivas.
+Em busca de superar as expectativas do cliente. Tratando o cliente com cortesia, respeito e atenção genuína. Ouvindo atentamente suas necessidades e respondendo com ideias relevantes e assertivas.
+Oferecendo soluções e sugestões que possam ajudar o cliente a resolver seus problemas ou atingir seus objetivos de forma mais eficiente e/ou econômica.
+Oferecendo soluções e sugestões que possam ajudar o cliente a resolver seus problemas ou atingir seus objetivos de forma mais eficiente e/ou econômica.
+              Transparência...
+ Sendo honesto, íntegro, confiável em todas suas ações.
+ Sendo honesto, íntegro, confiável em todas suas ações.
+ Ser honesto: dizendo a verdade, não enganando ou mentindo, em todas as suas ações e palavras.
+ Ser honesto: dizendo a verdade, não enganando ou mentindo, em todas as suas ações e palavras.
+ Ser íntegro: seguindo de acordo com os valores e princípios, mesmo em situações difíceis.
+ Ser íntegro: seguindo de acordo com os valores e princípios, mesmo em situações difíceis.
+ Ser confiável: sendo responsável, pontual e não decepcionando as expectativas dos outros.
+ Ser confiável: sendo responsável, pontual e não decepcionando as expectativas dos outros.
+              Transformação...
+Buscando a evolução e aprimoramento constante.
+Buscando a evolução e aprimoramento constante.
+ Evolução: processo que promove a mudança de um estágio para outro.
+ Evolução: processo que promove a mudança de um estágio para outro.
+ Aprimoramento: refinamento de algo existente, com o objetivo de evoluir para algo melhor e mais eficiente.
+ Aprimoramento: refinamento de algo existente, com o objetivo de evoluir para algo melhor e mais eficiente.
+              Performance...
+ Atuando com eficácia e eficiência, alcançando a efetividade.
+ Atuando com eficácia e eficiência, alcançando a efetividade.
+ Eficácia: fazendo o certo, com foco no objetivo. 
+ Eficácia: fazendo o certo, com foco no objetivo. 
+ Eficiência: fazendo mais com menos.
+ Eficiência: fazendo mais com menos.
+ Efetividade: confluência entre eficácia e eficiência, atingindo o melhor resultado da melhor forma possível.
+ Efetividade: confluência entre eficácia e eficiência, atingindo o melhor resultado da melhor forma possível.
+              Inovação...
+ Priorizamos a entrega de valor com soluções criativas.
+ Priorizamos a entrega de valor com soluções criativas.
+ A arte de desafiar a gravidade das ideias.
+ A arte de desafiar a gravidade das ideias.
+ Criatividade + coragem = O segredo para rescrever o futuro.
+ Criatividade + coragem = O segredo para rescrever o futuro.
+FIQUE LIGADO NAS NOTÍCIAS SOBRE A MTP BRASIL
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

@@ -1,0 +1,102 @@
+link_vaga-https://softdesign.gupy.io/job/eyJqb2JJZCI6Nzk4NjQ0NCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+SOFTWARE ENGINEER | FULLSTACK | PHP SYMFONY
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+O que buscamos?
+Buscamos uma Pessoa Desenvolvedora FullStack PHP Symfony, para trabalhar em nosso parceiro. Nossa área de Gestão de Outsourcing estará próxima a você, realizando reuniões 1:1 para garantir o alinhamento estratégico, absorção da nossa cultura e a evolução da sua carreira.
+RESPONSABILIDADES E ATRIBUIÇÕES
+O que você irá fazer:
+Desenvolver e manter aplicações web utilizando PHP Symfony para o backend e React/Angular para o frontend;
+Colaborar com a equipe de desenvolvimento para projetar e implementar novas funcionalidades;
+Solucionar problemas e depurar códigos de maneira eficiente;
+Manter-se atualizado com as novas tendências e melhores práticas de desenvolvimento.
+Desejáveis:
+Boas práticas de código limpo;
+REQUISITOS E QUALIFICAÇÕES
+O que você precisa ter:
+Desenvolvimento com PHP e experiência prática com o framework Symfony;
+Experiência com JavaScript;
+Banco de dados MySQL;
+Programar em VScode, versionamento de código no GitHub;
+Boas práticas de documentação no confluence;
+Gerenciar as tarefas no Jira e leitura do projeto no Figma;
+Conhecimentos em API’s para integração de sistemas, estilização de componentes, Redux.
+Formação e engajamento desejáveis:
+Formação em Análise e Desenvolvimento de Sistemas, Ciência da Computação, Sistemas de Informação ou cursos relacionados;
+Participação em grupos de tecnologias ou envolvimento com algum tipo de comunidade.
+INFORMAÇÕES ADICIONAIS
+O que oferecemos:
+Contratação CLT com benefícios flexíveis ou PJ;
+Trabalho remoto;
+Acompanhamento 1:1;
+Plano de desenvolvimento pessoal;
+Cultura de colaboração e aprendizado;
+Comunidades de Prática;
+Programa de Progressão de Carreira;
+Eventos de integração e celebrações.
+Estamos empenhados em construir uma empresa cada vez mais diversa e inclusiva. A vaga é aberta para todas as pessoas. Queremos muita diversidade e conhecimento compartilhado!
+diversidade e conhecimento compartilhado!
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista comportamental2Entrevista comportamental
+Etapa 2: Entrevista comportamental
+2
+Entrevista comportamental
+Etapa 3: Desafio técnico3Desafio técnico
+Etapa 3: Desafio técnico
+3
+Desafio técnico
+Etapa 4: Entrevista técnica4Entrevista técnica
+Etapa 4: Entrevista técnica
+4
+Entrevista técnica
+Etapa 5: Proposta5Proposta
+Etapa 5: Proposta
+5
+Proposta
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+VEM PRA SOFT! 💙
+Existimos para transformar pessoas e negócios.
+ 
+Somos uma empresa global de desenvolvimento de software com competências avançadas em estratégia e design. Nossos times missionários contribuem em um processo end-to-end que permite criar soluções inovadoras de forma ágil, incremental e colaborativa.
+ 
+Somos exploradores, transformadores, responsáveis e cocriadores. Nossos projetos ultrapassam fronteiras: temos atuação no Brasil, América do Norte e Europa e pessoas colaboradoras em diversos locais do mundo.
+ 
+Aliamos experiência de 26 anos, cultura de aprendizado contínuo e espírito curioso para contribuir com startups em fase de crescimento a enterprises que têm inovação por meio de tecnologia no centro de sua estratégia.
+ 
+Nossa cultura
+ 
+Somos Human-centered
+Nossa cultura é centrada nas pessoas. Valorizamos a perspectiva humana em todas as nossas ações e decisões: sejam relacionadas às pessoas colaboradoras ou aos usuários das nossas soluções.
+ 
+Somos Remote-first
+Nosso trabalho acontece on-line e é realizado por pessoas espalhadas pelo mundo. Podemos estar em casa, em um café, na universidade ou até na sede da empresa. Liberdade aqui é lei!
+ 
+Somos Colaborativos
+Sabemos que juntos vamos mais longe. Trabalhamos em equipe, com empatia, transparência e diálogo. Nossos desafios são enfrentados em conjunto e nossas conquistas são coletivas.
+ 
+Somos Aprendizes
+Acreditamos que o conhecimento nos transforma e nos leva além. Estamos sempre aprendendo sobre métodos, ferramentas e tecnologias. Encorajamos a curiosidade, o questionamento e a troca de aprendizados.
+ 
+Vem fazer parte do jeito soft de ser! 🚀
+Missão: Nós existimos para transformar pessoas e negócios, construindo um espaço colaborativo para cocriar e aprender, sustentado por experiência e conhecimento.
+ 
+ 
+CONECTE-SE CONOSCO
+Website
+LinkedIn
+Facebook
+Instagram
+---------------

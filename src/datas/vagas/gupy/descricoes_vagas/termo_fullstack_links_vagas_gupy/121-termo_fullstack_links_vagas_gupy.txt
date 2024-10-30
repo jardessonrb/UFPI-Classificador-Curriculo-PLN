@@ -1,0 +1,92 @@
+link_vaga-https://deliverit.gupy.io/job/eyJqb2JJZCI6Nzk1OTc3Miwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR FULLSTACK .NET/REACT SÊNIOR - PROJETO INTERNACIONAL
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Você se considera uma pessoa que tem sede por aprendizado, atua no dia a dia de forma proativa e independente? Então essa oportunidade é para você! 
+Estamos em busca de um Desenvolvedor Fullstack .Net/React Sênior com sólida experiência em projetos complexos, capaz de atuar com diversas tecnologias e profundo conhecimento em AWS. atendendo a um projeto Internacional. É indispensável que o profissional cosiga se comunicar em inglês.
+ atendendo a um projeto Internacional. É indispensável que o profissional cosiga se comunicar em inglês.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Na sua rotina de trabalho, você vai se deparar com as seguintes atividades: 
+O profissional será responsável por fazer parte das equipes de desenvolvimento, garantindo a excelência técnica dos projetos e promovendo a melhoria contínua. Este papel exige um domínio completo das tecnologias envolvidas, habilidade de comunicação para interagir com diversas áreas da empresa, além de garantir a entrega de soluções robustas e escaláveis.
+REQUISITOS E QUALIFICAÇÕES
+Confere abaixo o que você vai precisar saber pra se dar bem nessa oportunidade!
+CONHECIMENTOS EXIGIDOS 
+.NET Core, C# e tecnologias relacionadas;
+Forte experiência com tecnologias de front-end, como React, StencilJS, Web-components e TypeScript;
+AWS (ECS, S3, Lambda, RDS, API Gateway, CDK);
+APIs RESTful e arquitetura de microsserviços;
+SQL e NoSQL (SQL Server, PostgreSQL, DynamoDB);
+Tecnologias de containerização (Docker);
+Princípios SOLID e TDD.
+CONHECIMENTOS DESEJÁVEIS 
+Testes automatizados e infraestrutura como código (IaC) usando ferramentas como AWS CDK, Terraform;
+Certificações AWS (AWS Solutions Architect, AWS Developer);
+Inglês Fluente.
+INFORMAÇÕES ADICIONAIS
+A Deliver IT vai deixar a digital nesse projeto e quer convidar você para fazer parte dessa construção! 🙆‍♀️
+Temos uma cultura leve, descontraída, colaborativa e diversa, além de um ambiente enriquecedor, com muitos colegas feras em diversos segmentos e muitos desafios. Aqui você vai encontrar projetos inovadores, conexão e muita troca de conhecimento! 😊
+⭐Fomos eleitos pela GPTW a 5° Melhor empresa para se trabalhar no RS. 🤩 
+Todas as nossas posições seguem o modelo de contrato CLT em 44h/semanais.
+CONFIRA NOSSOS BENEFÍCIOS
+Modalidade: 100% Remoto
+VA e/ou VR
+Programa Bem-Estar: apoio psicológico, apoio jurídico, apoio social, apoio financeiro e ginástica laboral. 
+Plano de Saúde e Plano Odontológico
+Seguro de Vida
+Incentivo ao inglês
+Workshops mensais
+Parcerias que te dão desconto: Sucesu, Target Trust, Sesc e Seprorgs
+Premiação por aniversário de empresa
+Premiação por indicação contratada
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Screening/Conversa com RH 2Screening/Conversa com RH 
+Etapa 2: Screening/Conversa com RH 
+2
+Screening/Conversa com RH 
+Etapa 3: Entrevista Técnica3Entrevista Técnica
+Etapa 3: Entrevista Técnica
+3
+Entrevista Técnica
+Etapa 4: Entrevista com o Cliente4Entrevista com o Cliente
+Etapa 4: Entrevista com o Cliente
+4
+Entrevista com o Cliente
+Etapa 5: Carta Oferta5Carta Oferta
+Etapa 5: Carta Oferta
+5
+Carta Oferta
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+JUNTE-SE A NÓS
+O universo da tecnologia é gigante, assim como as nossas oportunidades de carreira e os motivos que você tem para ser Deliver IT. Descubra e trilhe seu futuro com a gente.
+VALORES QUE ENTREGAMOS PARA VOCÊ
+ 
+IT IS TECH
+Aqui utilizamos a tecnologia para fortalecer as relações entre pessoas e negócios.
+IT IS COLLABORATION
+O nosso espírito de colaboração promove um ambiente produtivo, leve, transparente e humano.
+IT IS RESPONSIBILITY
+Sabemos que para ter liberdade e autonomia para criar soluções inovadoras tem que ter responsabilidade.
+IT IS OPPORTUNITIES
+Somos valorizados por nossas capacidades e temos o estímulo necessário para desenvolver nossos talentos.
+QUER SABER MAIS SOBRE A GENTE? NOS ACOMPANHE NAS REDES.
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

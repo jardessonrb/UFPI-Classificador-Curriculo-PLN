@@ -1,0 +1,158 @@
+link_vaga-https://claro.gupy.io/job/eyJqb2JJZCI6Nzg4MjY5Mywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR (A) FULL STACK (INFRAESTRUTURA)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+RESPONSABILIDADES E ATRIBUIÇÕES
+O que te espera no dia a dia:Desenvolver e manter aplicações web utilizando PHP, garantindo a integração com APIs de terceiros e aimplementação de práticas de segurança.· Atuar no desenvolvimento front-end com JavaScript, manipulando o DOM e consumindo APIs para criarinterfaces dinâmicas e responsivas.· Gerenciar e otimizar bancos de dados SQL, criando queries complexas, procedures e implementandobackups regulares.· Utilizar o Pacote Office para integrar dados e gerar relatórios e dashboards que auxiliem na análise dedesempenho e indicadores.· Aplicar boas práticas de programação, incluindo o uso de versionamento de código e padrões de design.· Colaborar com a equipe para identificar e solucionar problemas técnicos, além de oferecer suportequando necessário.· Documentar o código de forma clara e organizada, facilitando a manutenção e entendimento por outrosdesenvolvedores.
+
+Desenvolver e manter aplicações web utilizando PHP, garantindo a integração com APIs de terceiros e a
+implementação de práticas de segurança.
+· Atuar no desenvolvimento front-end com JavaScript, manipulando o DOM e consumindo APIs para criar
+interfaces dinâmicas e responsivas.
+· Gerenciar e otimizar bancos de dados SQL, criando queries complexas, procedures e implementando
+backups regulares.
+· Utilizar o Pacote Office para integrar dados e gerar relatórios e dashboards que auxiliem na análise de
+desempenho e indicadores.
+· Aplicar boas práticas de programação, incluindo o uso de versionamento de código e padrões de design.
+· Colaborar com a equipe para identificar e solucionar problemas técnicos, além de oferecer suporte
+quando necessário.
+· Documentar o código de forma clara e organizada, facilitando a manutenção e entendimento por outros
+desenvolvedores.
+
+
+
+REQUISITOS E QUALIFICAÇÕES
+Buscamos alguém que: Pensa e age a partir das perspectivas dos clientes. Demonstra interesse e curiosidade de conhecer os clientes, seus comportamentos e preferências para atender e superar suas expectativas; Demonstra compromisso permanente em aprender, ensinar e desenvolver, contribuindo para um ambiente descontraído, respeitoso e colaborativo, incentivando a diversidade; É flexível para se desprender de paradigmas e modelos mentais existentes. Busca soluções inovadoras e sustentáveis, para criar vantagens competitivas para o negócio, equilibrando os interesses econômicos, ambientais e sociais. Para fazer parte do nosso time, é essencial: Residir em Campinas SP ou São Paulo/ SPGraduação em Engenharia /Análise de Sistemas e afinsConhecimento em PHP: Desenvolvimento de aplicações web, integração com APIs, e implementação de segurança; JavaScript: Front-end development, manipulação do DOM, e consumo de APIs;SQL: Criação e otimização de bancos de dados, queries, procedures e backup; Pacote Office: integração de dados, criação de relatórios e dashboards; Conhecimento em boas práticas de programação, versionamento de código, e suporte técnico; Experiência com frameworksÉ diferencial:Inglês intermediário
+ 
+Pensa e age a partir das perspectivas dos clientes. Demonstra interesse e curiosidade de conhecer os clientes, seus comportamentos e preferências para atender e superar suas expectativas; 
+Demonstra compromisso permanente em aprender, ensinar e desenvolver, contribuindo para um ambiente descontraído, respeitoso e colaborativo, incentivando a diversidade; 
+É flexível para se desprender de paradigmas e modelos mentais existentes. Busca soluções inovadoras e sustentáveis, para criar vantagens competitivas para o negócio, equilibrando os interesses econômicos, ambientais e sociais. 
+
+
+
+
+Residir em Campinas SP ou São Paulo/ SP
+Graduação em Engenharia /Análise de Sistemas e afins
+Engenharia /Análise de Sistemas e afins
+Conhecimento em PHP: Desenvolvimento de aplicações web, integração com APIs, e implementação de segurança;
+ JavaScript: Front-end development, manipulação do DOM, e consumo de APIs;
+SQL: Criação e otimização de bancos de dados, queries, procedures e backup;
+ Pacote Office: integração de dados, criação de relatórios e dashboards;
+ Conhecimento em boas práticas de programação, versionamento de código, e suporte técnico;
+ Experiência com frameworks
+
+Inglês intermediário
+Inglês intermediário
+
+
+INFORMAÇÕES ADICIONAIS
+Na Claro, pessoas é um dos nossos valores. Com este pensamento, investimos sempre no cuidado com a saúde, bem-estar e qualidade de vida dos nossos colaboradores! Para que você tenha a melhor experiência em sua jornada com a gente, oferecemos um atraente pacote de benefícios. Veja só:
+Jornada Flexível;
+Jornada Flexível;
+Vale-Refeição e Alimentação;
+V
+ale-Refeição e Alimentação;
+Assistência Médica e Odontológica;
+Assistência Médica e Odontológica;
+Auxílio para patologias graves;
+Auxílio para patologias graves;
+Auxílio ao dependente com deficiência;
+Auxílio ao dependente com deficiência;
+Benefício Farmácia;
+Benefício Farmácia;
+Auxílio Creche/Babá;
+Auxílio Creche/Babá;
+Programa de Apoio Pessoal;
+Programa de Apoio Pessoal;
+Claro Running;
+Claro Running;
+Previdência Privada;
+Previdência Privada;
+Seguro de Vida;
+Seguro de Vida;
+Combo Colaborador;
+Combo Colaborador;
+Convênios e Parcerias;
+Convênios e Parcerias;
+Programa de Reconhecimento por tempo de casa;
+Programa de Reconhecimento por tempo de casa;
+E muito mais!
+E muito mais!
+
+Na nossa empresa, valorizamos um ambiente inclusivo, diverso, ético, colaborativo e harmônico. Não fazemos distinção de gênero, raça, cor, orientação sexual, posição social ou deficiências. Todos e todas são bem-vindos(as)!
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem 2Triagem 
+Etapa 2: Triagem 
+2
+Triagem 
+Etapa 3: Avaliação comportamental 3Avaliação comportamental 
+Etapa 3: Avaliação comportamental 
+3
+Avaliação comportamental 
+Etapa 4: Entrevista RH4Entrevista RH
+Etapa 4: Entrevista RH
+4
+Entrevista RH
+Etapa 5: Entrevista Gestor 5Entrevista Gestor 
+Etapa 5: Entrevista Gestor 
+5
+Entrevista Gestor 
+Etapa 6: Carta Oferta 6Carta Oferta 
+Etapa 6: Carta Oferta 
+6
+Carta Oferta 
+Etapa 7: Exame médico 7Exame médico 
+Etapa 7: Exame médico 
+7
+Exame médico 
+Etapa 8: Orientações Finais 8Orientações Finais 
+Etapa 8: Orientações Finais 
+8
+Orientações Finais 
+Etapa 9: Contratação9Contratação
+Etapa 9: Contratação
+9
+Contratação
+PRAZER, SOMOS A CLARO! 🔆
+Aqui, temos um grande time que faz tudo acontecer! 
+
+É com o esforço e a dedicação de cada uma de nossas Pessoas que somos hoje referência no que fazemos, atuando unidos no nosso propósito, que é “Conectar para uma vida mais divertida e produtiva”.
+É com o esforço e a dedicação de cada uma de nossas Pessoas que somos hoje referência no que fazemos, atuando unidos no nosso propósito, que é 
+
+Somamos todas as tecnologias para criar a melhor e mais completa infraestrutura de conectividade do País. Somos multicampeões confirmado pelo Speedtest como Internet móvel mais rápida e estável e com rede wi-fi mais estável do Brasil, entre tantos outros reconhecimentos. Também somos a 4º marca mais valiosa do Brasil (BrandZ).
+Somamos todas as tecnologias para criar a melhor e mais completa infraestrutura de conectividade do País. Somos multicampeões confirmado pelo Speedtest como Internet móvel mais rápida e estável e com rede wi-fi mais estável do Brasil, entre tantos outros reconhecimentos. Também somos a 4º marca mais valiosa do Brasil (BrandZ).
+
+No Brasil, estamos presentes em mais de 4.800 municípios, somando mais de 83 milhões de clientes. Lideramos o saldo de portabilidade há mais de 5 anos, sendo que, em 2022, tivemos 1,2 milhão de linhas portadas.
+No Brasil, estamos presentes em mais de 4.800 municípios, somando mais de 83 milhões de clientes. Lideramos o saldo de portabilidade há mais de 5 anos, sendo que, em 2022, tivemos 1,2 milhão de linhas portadas.
+
+E tem mais: inovamos nossos produtos e serviços para atender cada vez melhor nossos usuários! Por isso, hoje, contamos com soluções de entretenimento (Claro música, Claro tv+, Claro livros, Claro vídeo e Claro gaming), finanças (Claro pay) e muito mais! Temos presença aeroespacial (com 5 satélites em órbita pela Embratel) e somos referência em conectividade industrial, automotiva, agronegócio e outros. Também temos um ambiente de conexão entre nossos negócios e o ecossistema de inovação, que é o beOn, o hub de inovação da Claro e Embratel.
+E tem mais: 
+ nossos produtos e serviços para atender cada vez melhor nossos usuários! Por isso, hoje, contamos com soluções de 
+ (Claro música, Claro tv+, Claro livros, Claro vídeo e Claro gaming), 
+(Claro pay) e muito mais! Temos presença 
+ (com 5 satélites em órbita pela Embratel) e somos referência em 
+ e outros. Também temos um ambiente de conexão entre nossos negócios e o ecossistema de inovação, que é o 
+, o hub de inovação da Claro e Embratel.
+Sustentabilidade é um valor para a Claro. Investimos no desenvolvimento ambiental, econômico e social, prezando sempre pela governança, responsabilidade ambiental, proteção de dados e impacto social. Por meio do Instituto Claro, conectamos pessoas para um futuro melhor, aliando os serviços prestados a investimentos sociais em projetos de educação e cidadania. 
+Sustentabilidade é um valor para a Claro.
+prezando sempre pela governança, responsabilidade ambiental, proteção de dados e impacto social. Por meio do Instituto Claro, conectamos pessoas para um futuro melhor, aliando os serviços prestados a investimentos sociais em projetos de 
+ 
+E aí, deu match? #VempraClaro construir o novo com a gente! ❤️
+ACOMPANHE A GENTE! 🔆
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

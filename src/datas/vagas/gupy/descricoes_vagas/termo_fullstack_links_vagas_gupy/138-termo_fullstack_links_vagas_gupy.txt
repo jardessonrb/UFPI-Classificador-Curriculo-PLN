@@ -1,0 +1,108 @@
+link_vaga-https://clinicorp.gupy.io/job/eyJqb2JJZCI6Nzg5ODkxMSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR DE SISTEMAS FULLSTACK PLENO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+DESCRIÇÃO DA VAGA
+Resumindo bem, a Clinicorp é uma empresa com seu próprio software. Trabalhamos no modelo SaaS, como Netflix e Spotify, ou seja, nossos clientes pagam mensalmente pelo nosso software e oferecemos ele como um serviço. 
+Resumindo bem, a Clinicorp é uma empresa com seu próprio software. Trabalhamos no modelo SaaS, como Netflix e Spotify, ou seja, nossos clientes pagam mensalmente pelo nosso software e oferecemos ele como um serviço. 
+Temos vários times aqui dentro que prestam serviço ao cliente. Equipe de Vendas, Onboarding, Suporte, Marketing e o melhor time da empresa, o time de Produto! Atuamos dentro do time de produto, junto com os Product Managers. O time de produto somos responsáveis pela concepção, arquitetura, testes, e desenvolvimento em si de todas as features da nossa plataforma. 
+Temos vários times aqui dentro que prestam serviço ao cliente. Equipe de Vendas, Onboarding, Suporte, Marketing e o melhor time da empresa, o time de Produto! Atuamos dentro do time de produto, junto com os Product Managers. O time de produto somos responsáveis pela concepção, arquitetura, testes, e desenvolvimento em si de todas as features da nossa plataforma. 
+No quesito software, temos um sistema web e trabalhamos com a inovação incremental. Todos os trimestres analisamos o que nossos clientes precisam, fazemos brainstorms, desenhamos as novas features para serem desenvolvidas. O Clinicorp Dev Team participa de ponta a ponta desses projetos, desde a concepção da ideia até o desenvolvimento, testes e entrega. Nossa stack se resume em Javascript, trabalhando com React e Node, mas também utilizando SQL, API REST, React Native e hospedamos toda nossa aplicação na GCP (Google Cloud Platform).
+No quesito software, temos um sistema web e trabalhamos com a inovação incremental. Todos os trimestres analisamos o que nossos clientes precisam, fazemos brainstorms, desenhamos as novas features para serem desenvolvidas. O Clinicorp Dev Team participa de ponta a ponta desses projetos, desde a concepção da ideia até o desenvolvimento, testes e entrega. Nossa stack se resume em Javascript, trabalhando com React e Node, mas também utilizando SQL, API REST, React Native e hospedamos toda nossa aplicação na GCP (Google Cloud Platform).
+Na estrutura do time temos arquitetos, QA, DevOps entre outras responsabilidades. Trabalhamos com squad, seguindo o modelo horizontal onde todos contribuem de maneira ativa para a criação dos projetos. Temos um ambiente muito inclusivo e queremos que todos sintam que estão no melhor lugar do mundo! Sem brincadeira, esse é mesmo nosso objetivo.
+Na estrutura do time temos arquitetos, QA, DevOps entre outras responsabilidades. Trabalhamos com squad, seguindo o modelo horizontal onde todos contribuem de maneira ativa para a criação dos projetos. Temos um ambiente muito inclusivo e queremos que todos sintam que estão no melhor lugar do mundo! Sem brincadeira, esse é mesmo nosso objetivo.
+Nossa missão consiste em:
+Nossa missão consiste em:
+ENTREGAR TECNOLOGIA PARA MELHORAR A EXPERIÊNCIA DOS NOSSOS USUÁRIOS!
+ENTREGAR TECNOLOGIA PARA MELHORAR A EXPERIÊNCIA DOS NOSSOS USUÁRIOS!
+RESPONSABILIDADES E ATRIBUIÇÕES
+• Desenvolver sistemas e aplicações conforme requisitos especificados e prazos estipulados, utilizando as ferramentas necessários, buscando atender as necessidades do projeto;
+• Projetar e executar testes unitários, baseados no levantamento de requisitos, visando garantir a qualidade dos desenvolvimentos entregues;
+REQUISITOS E QUALIFICAÇÕES
+Qualificações/conhecimento: 
+• Ensino Médio Completo ou Superior em Andamento;
+• Ensino Médio Completo ou Superior em Andamento;
+• Vivência na função de no mínimo 3 anos;
+• Vivência na função de no mínimo 3 anos;
+• Vivência em Node.js ou React.js;
+• Vivência em Node.js ou React.js;
+• Vivência do Swagger ou POSTMAN;
+• Vivência do Swagger ou POSTMAN;
+• Vivência em Estrutura de Dados e Algoritmos;
+• Vivência em Estrutura de Dados e Algoritmos;
+• Vivência em Testes Unitários, Testes de Integração;
+• Vivência em Testes Unitários, Testes de Integração;
+• Vivência com serviços em nuvem GCP e Grafana;
+• Vivência com serviços em nuvem GCP e Grafana;
+• Vivência com API Rest;
+• Vivência com API Rest;
+• Vivência em versionamento de código;
+• Vivência em versionamento de código;
+• Vivência em metodologias ágeis;
+• Vivência em metodologias ágeis;
+• Vivência com JIRA;
+• Vivência com JIRA;
+• Desejável vivência com Webpack;
+• Desejável vivência com Webpack;
+• Desejável vivência com build de frontend; 
+• Desejável vivência com build de frontend; 
+• Desejável conhecimento em Docker e Kubernets;
+• Desejável conhecimento em Docker e Kubernets;
+• Desejável conhecimento em CI/CD.
+• Desejável conhecimento em CI/CD.
+Skills:
+• Capacidade de realizar code-review de qualquer membro do time;
+• Capacidade de realizar code-review de qualquer membro do time;
+• Capacidade de implementar e dar manutenção em um projeto de CI de ponta a ponta;
+• Capacidade de implementar e dar manutenção em um projeto de CI de ponta a ponta;
+• Boa comunicação falada e escrita;
+• Boa comunicação falada e escrita;
+• Curiosidade genuína pelo negócio, entendo aspectos gerais da estratégia e atuação de outras áreas, entendendo seus impactos;
+• Curiosidade genuína pelo negócio, entendo aspectos gerais da estratégia e atuação de outras áreas, entendendo seus impactos;
+• Absorver e compartilhar conhecimento;
+• Absorver e compartilhar conhecimento;
+• Capacidade de analisar mais criticamente as atividades, ponderando e fazendo questionamentos relevantes sobre as atividades que lhe são passadas;
+• Capacidade de analisar mais criticamente as atividades, ponderando e fazendo questionamentos relevantes sobre as atividades que lhe são passadas;
+• Entender impactos e gestão de risco e tempo;
+• Entender impactos e gestão de risco e tempo;
+• Maturidade para propor melhorias de processo, otimizando tempo e recursos.
+• Maturidade para propor melhorias de processo, otimizando tempo e recursos.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Meeting com o Talent Acquisition 😉3Meeting com o Talent Acquisition 😉
+Etapa 3: Meeting com o Talent Acquisition 😉
+3
+Meeting com o Talent Acquisition 😉
+Etapa 4: G-384G-38
+Etapa 4: G-38
+4
+G-38
+Etapa 5: Conhecendo a liderança… 🗣️5Conhecendo a liderança… 🗣️
+Etapa 5: Conhecendo a liderança… 🗣️
+5
+Conhecendo a liderança… 🗣️
+Etapa 6: Mostre suas habilidades.... Vamos para o desafio! 💪 6Mostre suas habilidades.... Vamos para o desafio! 💪 
+Etapa 6: Mostre suas habilidades.... Vamos para o desafio! 💪 
+6
+Mostre suas habilidades.... Vamos para o desafio! 💪 
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+CONHEÇA NOSSO TIME
+A Clinicorp busca entregar uma solução de gerenciamento completa para clínicas de saúde, beleza e bem-estar.
+Todos os Clinicorpers carregam consigo os valores daquilo que fazemos, que é solucionar as dores de nossos clientes com foco na entrega de resultados e no sucesso do cliente.
+Somos uma empresa repleta de oportunidades incríveis e a jornada é intensa. Estamos em crescimento constante, por isso gostamos de adquirir e desenvolver talentos.
+Quer fazer parte desse time que faz a diferença? Então fique ligado nas vagas disponíveis em nosso #teamclinicorp.

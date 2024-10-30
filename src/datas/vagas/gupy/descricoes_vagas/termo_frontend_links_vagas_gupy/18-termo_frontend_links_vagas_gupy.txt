@@ -1,0 +1,84 @@
+link_vaga-https://senff.gupy.io/job/eyJqb2JJZCI6NzgwNjg4MSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR FRONTEND SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Trabalhar com a parte de programação, também precisará analisar projetos e suas execuções, por isso trabalhará em conjunto com desenvolvedores, arquitetos e Analista de negocios. 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Responsabilidades:Desenvolvimento e Implementação: Criar e manter interfaces de usuário responsivas e interativas para aplicações web, utilizando tecnologias modernas.Arquitetura e Design: Participar na definição da arquitetura de front-end, garantindo a escalabilidade e a performance das aplicações.Colaboração com Equipes: Trabalhar de forma colaborativa com equipes de design, back-end e produto para implementar soluções eficazes.Manutenção e Otimização: Identificar e corrigir problemas de desempenho e bugs, mantendo a qualidade e a estabilidade das aplicações.Código Limpo e Manutenível: Escrever código limpo, reutilizável e bem documentado, seguindo as melhores práticas de desenvolvimento.Mentoria e Treinamento: Orientar e mentor junior developers e estagiários, compartilhando conhecimentos e melhores práticas.Análise de Requisitos: Compreender e transformar requisitos de negócios em soluções técnicas eficientes e eficazes.Inovação e Melhoria Contínua: Promover e implementar novas tecnologias e abordagens para melhorar a eficiência e a qualidade das aplicações.Segurança: Garantir que as aplicações sigam as melhores práticas de segurança para proteger dados e informações do usuário.Documentação: Contribuir para a documentação técnica do projeto, garantindo que as informações sejam claras e úteis para a equipe.Requisitos:Mínimo de 3 anos de experiência com desenvolvimento front-end.Graduação em Ciência da Computação, Engenharia de Software ou áreas correlatas, ou experiência equivalente.Demonstração de trabalhos anteriores através de um portfólio ou projetos open-source.Tecnologias: HTML5, CSS3, JavaScript/Typescript e Tailwind.Experiência avançada com Flutter, React, Vue.js ou Angular.Conhecimento em ferramentas de build (Webpack, Babel), controle de versão (Git) e gerenciamento de pacotes (npm, Yarn).Experiência em criar layouts responsivos e acessíveis.Familiaridade com metodologias ágeis, princípios de design e melhores práticas de desenvolvimento.Experiência com frameworks de testes como Jest, Testing Library, ou similares.Diferenciais:Experiência com design de interfaces e princípios de experiência do usuário (UX).Experiência no setor financeiro.Participação em projetos open source ou contribuições para a comunidade.
+RESPONSABILIDADES:
+Desenvolvimento e Implementação: Criar e manter interfaces de usuário responsivas e interativas para aplicações web, utilizando tecnologias modernas.
+Arquitetura e Design: Participar na definição da arquitetura de front-end, garantindo a escalabilidade e a performance das aplicações.
+Colaboração com Equipes: Trabalhar de forma colaborativa com equipes de design, back-end e produto para implementar soluções eficazes.
+Manutenção e Otimização: Identificar e corrigir problemas de desempenho e bugs, mantendo a qualidade e a estabilidade das aplicações.
+Código Limpo e Manutenível: Escrever código limpo, reutilizável e bem documentado, seguindo as melhores práticas de desenvolvimento.
+Mentoria e Treinamento: Orientar e mentor junior developers e estagiários, compartilhando conhecimentos e melhores práticas.
+Análise de Requisitos: Compreender e transformar requisitos de negócios em soluções técnicas eficientes e eficazes.
+Inovação e Melhoria Contínua: Promover e implementar novas tecnologias e abordagens para melhorar a eficiência e a qualidade das aplicações.
+Segurança: Garantir que as aplicações sigam as melhores práticas de segurança para proteger dados e informações do usuário.
+Documentação: Contribuir para a documentação técnica do projeto, garantindo que as informações sejam claras e úteis para a equipe.
+REQUISITOS:
+Mínimo de 3 anos de experiência com desenvolvimento front-end.
+Graduação em Ciência da Computação, Engenharia de Software ou áreas correlatas, ou experiência equivalente.
+Demonstração de trabalhos anteriores através de um portfólio ou projetos open-source.
+Tecnologias: HTML5, CSS3, JavaScript/Typescript e Tailwind.
+Experiência avançada com Flutter, React, Vue.js ou Angular.
+Conhecimento em ferramentas de build (Webpack, Babel), controle de versão (Git) e gerenciamento de pacotes (npm, Yarn).
+Experiência em criar layouts responsivos e acessíveis.
+Familiaridade com metodologias ágeis, princípios de design e melhores práticas de desenvolvimento.
+Experiência com frameworks de testes como Jest, Testing Library, ou similares.
+DIFERENCIAIS:
+Experiência com design de interfaces e princípios de experiência do usuário (UX).
+Experiência no setor financeiro.
+Participação em projetos open source ou contribuições para a comunidade.
+
+REQUISITOS E QUALIFICAÇÕES
+Superior completo em Tecnologia da Informação/Informática/Engenharia de Software ou área relacionada;Bom conhecimento da Linguagem C# .NET Core e .NET Framework;Bom conhecimento de SQL;Analise de requisitos;Manipulação de base de dados;Integração de Web Service Soap e API Rest;GIT.
+Superior completo em Tecnologia da Informação/Informática/Engenharia de Software ou área relacionada;
+Bom conhecimento da Linguagem C# .NET Core e .NET Framework;
+Bom conhecimento de SQL;
+Analise de requisitos;
+Manipulação de base de dados;
+Integração de Web Service Soap e API Rest;
+GIT.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Teste de Perfil2Teste de Perfil
+Etapa 2: Teste de Perfil
+2
+Teste de Perfil
+Etapa 3: Entrevista Gestor + RH3Entrevista Gestor + RH
+Etapa 3: Entrevista Gestor + RH
+3
+Entrevista Gestor + RH
+Etapa 4: Teste Prático4Teste Prático
+Etapa 4: Teste Prático
+4
+Teste Prático
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+QUEM SOMOS
+Somos uma empresa que se dedica a oferecer soluções financeiras para o varejo. Temos um portfólio completo de produtos e serviços alinhados às inovações tecnológicas. Com 4,5 milhões de cartões circulando pelo país, ajudamos nossos parceiros a venderem mais e nossos clientes a realizarem seus sonhos.
+Somos uma empresa que se dedica a oferecer soluções financeiras para o varejo. Temos um portfólio completo de produtos e serviços alinhados às inovações tecnológicas. Com 4,5 milhões de cartões circulando pelo país, ajudamos nossos parceiros a venderem mais e nossos clientes a realizarem seus sonhos.
+Nossa missão é conectar empresas e pessoas por meio de soluções financeiras inovadoras e ágeis. Já nossa visão é ser reconhecida no Brasil pela excelência em nossos serviços. E, claro, nossos valores: confiança, valorização do ser humano, inovação, trabalho em equipe e atitude de dono, são fundamentais para tudo que fazemos.
+Com 130 anos de história, o Grupo Senff começou como uma panificadora em Curitiba, e hoje é um dos principais provedores de soluções financeiras do país. Conquistamos o reconhecimento de importantes instituições do varejo por nossos produtos que atendem com precisão às demandas do mercado e oferecem inúmeros benefícios.
+Seguimos buscando evoluir e oferecer o melhor para nossos parceiros e clientes.
+Junte-se a nós e faça parte dessa história de sucesso! 
+REDES SOCIAIS
+Website
+LinkedIn
+Facebook
+Instagram

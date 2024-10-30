@@ -1,0 +1,103 @@
+link_vaga-https://vempralanlink.gupy.io/job/eyJqb2JJZCI6NzkyNzg3NSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE BANCO DE DADOS
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+O Analista de Banco de Dados tem como premissa utilizar seus conhecimentos técnicos na camada na camada de
+processamento e armazenamento de dados em tecnologia Oracle na modalidade de nuvem híbrida
+(privada e pública), expansão do armazenamento da camada de dados, para a exploração analítica dos dados presentes na CONTRATANTE, sendo o mesmo responsável por atender as demandas das áreas de negócios que buscam através do cruzamento de informações estruturadas e não estruturadas presentes em dispersas fontes de informações, buscar indicadores ou outras informações pertinentes para dar continuidade ao processo de melhoria do negócio da CONTRATANTE. 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Instalar, criar e configurar as soluções de Banco de Dados;
+Criar e manter a estrutura de objetos;
+Gerenciamento de usuários, privilégios e segurança;
+Integração da autenticação de usuários com Windows Active Directory;
+Criar, manter e gerenciar as soluções de Banco de Dados Distribuído;
+Planejar e implementar projetos;
+Configurar o ambiente (Tuning) das soluções de Banco de Dados e Aplicações;
+Definir e implantar políticas de Backup e Recovery de Banco de Dados;
+Definir e implantar de estratégias de Auditoria e Segurança envolvendo ambientes de Banco de
+Dados;
+Definir e implantar estratégias de Alta Disponibilidade com Oracle Data Guard;
+Definir e implantar estratégias de Alta Disponibilidade com Oracle RAC (Real Application Cluster);
+Aplicar de upgrades e atualizações de segurança;
+Construir scripts personalizados visando atender necessidades ao ambiente;
+Efetuar e manter a documentação do ambiente;
+Suporte nas necessidades da equipe de desenvolvimento de software da SEF, referente às
+tecnologias Oracle;
+Prestar suporte em programação em SQL e PL-SQL;
+Prestar suporte em programação Shell Script;
+Planejar e monitorar as capacidades (Capacity Planning) das soluções de bancos de dados;
+Instalar, configurar e prestar suporte ao SQL Developer e PL-SQL Developer;
+Apresentar relatórios sazonais sobre o ambiente mostrando aspectos como: estatísticas de
+crescimento da Base de Dados e as estatísticas de desempenho;
+Analisar diariamente o funcionamento do banco de dados Oracle;
+Diagnóstico e resolução de problemas referente ao objeto deste edital;
+Gestão e acompanhamento das atualizações realizadas pela Oracle nos equipamentos Exadata
+Cloud at Customer e Zero Data Loss;
+Gestão e administração dos Clusters Virtuais do Exadata Cloud at Customer;
+Gestão e administração dos Backups utilizando o Zero Data Loss Recovery Appliance;
+Gestão e administração do equipamento Exadata Cloud at Customer;
+Gestão e administração do equipamento Zero Data Loss Recovery Appliance;
+Construção/Atualização de ambiente de homologação e desenvolvimento;
+Implementação de estratégias de mascaramento de dados;
+Diagnóstico e implementação de medidas e ferramentas protetivas para a segurança dos dados;
+REQUISITOS E QUALIFICAÇÕES
+Requisitos Obrigatórios – Formação Acadêmica, Cursos ou Certificações:
+Certificação técnica denominada “Oracle Certified Professional 19c” (OCP) ou superior;
+Experiência Profissional:
+Possuir experiência anterior como DBAs, comprovada através de currículo
+INFORMAÇÕES ADICIONAIS
+Benefícios:
+Plano de saúde Hapvida, Bradesco Saúde ou Unimed(de acordo com a disponibilidade do local);
+Plano odontológico Hapvida Odonto ou Bradesco dental;
+Vale Alimentação ou Refeição Alelo;
+Seguro de vida 100% custeado pela Lanlink;
+Vale transporte;
+Convênio farmácia;
+Convênio faculdades;
+Gympass;
+Auster;
+Plataforma de educação interna;
+Kit Bem-vindo ao mundo bebê;
+Plataforma Moodar(Plataforma para Terapia com valores diferenciados para colaboradores Lanlink)
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Teste Comportamental2Teste Comportamental
+Etapa 2: Teste Comportamental
+2
+Teste Comportamental
+Etapa 3: Bate-papo com a Gestão de Pessoas3Bate-papo com a Gestão de Pessoas
+Etapa 3: Bate-papo com a Gestão de Pessoas
+3
+Bate-papo com a Gestão de Pessoas
+Etapa 4: Bate-papo com o Líder Técnico4Bate-papo com o Líder Técnico
+Etapa 4: Bate-papo com o Líder Técnico
+4
+Bate-papo com o Líder Técnico
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+VEM PRA CÁ! VEM ESCREVER CONOSCO HISTÓRIAS DE SUCESSO.
+Que bom que você veio nos visitar virtualmente! Vamos nos conhecer melhor? 
+O Grupo Lanlink vem há mais de 35 anos construindo experiências que transformam não só empresas, mas a vida das pessoas, nas 5 regiões do Brasil. Pensamos o futuro com o intuito de impactar vidas e ser o porto seguro da inovação. Nossos espaços são construídos por nossos colaboradores, que vestem a camisa, e constroem diariamente um ambiente de trabalho alegre e colaborativo.  
+Acreditamos que a confiança é o alicerce do relacionamento com a nossa gente e com nossos clientes, que ela é cultivada através de práticas como: contratar e receber, inspirar, falar, escutar, agradecer, desenvolver, cuidar, celebrar e compartilhar. 
+Somos muitos, somos diversos, #nossomosLanlink. Agora é sua vez! Deixa a gente te conhecer também?  Vem pra Lanlink você também.  
+EI, TODAS AS NOSSAS VAGAS SÃO PREFERENCIAIS PARA PCD! 🤖💙
+🤖💙
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram

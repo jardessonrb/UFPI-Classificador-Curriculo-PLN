@@ -1,0 +1,155 @@
+link_vaga-https://darede.gupy.io/job/eyJqb2JJZCI6Nzg0MTM5Niwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+CIENTISTA DE DADOS SÊNIOR
+Tipo de vaga: Pessoa jurídicaPessoa jurídica
+Tipo de vaga: Pessoa jurídica
+Pessoa jurídica
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A Darede tem o objetivo de continuar revolucionando os negócios em Cloud no Brasil e nos tornarmos a mais
+A Darede tem o objetivo de continuar revolucionando os negócios em Cloud no Brasil e nos tornarmos a mais
+relevante consultoria do segmento afinal THE FUTURE IS CLOUD!
+relevante consultoria do segmento afinal THE FUTURE IS CLOUD!
+Nosso(a) Cientista de Dados será responsável por desenvolver, implementar e otimizar modelos de aprendizado de máquina para resolver problemas complexos e extrair insights valiosos de grandes volumes de dados.
+Se você tem curiosidade e vontade de aprender novas ferramentas, plataformas e tecnologias, é Data Driven e HandsOn, é uma pessoa sempre antenada nas novidades do Mundo Cloud e Devops, essa vaga é para você!
+Candidate-se, queremos te conhecer!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Liderar e orientar projetos complexos de Machine Learning:
+Desenvolver e implementar modelos avançados de Machine Learning e Deep learning.
+Liderar a seleção de algoritmos e abordagens mais adequadas para resolver problemas de negócios complexos.
+Supervisionar e mentorar cientistas de dados juniores e plenos no desenvolvimento e implementação de modelos.
+Realizar análises avançadas e gerar insights estratégicos:
+Conduzir análises preditivas e prescritivas sofisticadas para informar decisões estratégicas de negócios.
+Desenvolver metodologias inovadoras para extrair insights de dados complexos e não estruturados.
+Apresentar descobertas e recomendações para a alta administração, influenciando decisões estratégicas.
+Arquitetar soluções de dados em larga escala:
+Projetar e implementar arquiteturas de dados e ML robustas e escaláveis para suportar aplicações de missão crítica.
+Otimizar pipelines de dados e modelos para alto desempenho e eficiência em ambientes de produção.
+Liderar a integração de soluções de ML/AI em sistemas e processos de negócios existentes.
+Liderar iniciativas de inovação em IA:
+Conduzir pesquisas aplicadas em técnicas avançadas de ML/AI, incluindo aprendizado por reforço, processamento de linguagem natural e visão computacional.
+Desenvolver provas de conceito (PoCs) para novas tecnologias e abordagens de IA.
+Colaborar com parceiros acadêmicos e da indústria em projetos de pesquisa e desenvolvimento.
+Promover a excelência técnica e melhores práticas:
+Estabelecer padrões e melhores práticas para desenvolvimento, teste e implantação de modelos de ML.
+Liderar revisões de código e design de soluções para garantir qualidade e alinhamento com as melhores práticas da indústria.
+Desenvolver e ministrar treinamentos avançados em ciência de dados, ML e IA para equipes técnicas e não técnicas.
+ 
+Liderar colaborações multifuncionais:
+Atuar como ponte entre equipes de ciência de dados, engenharia de software, produto e negócios.
+Traduzir requisitos de negócios complexos em soluções técnicas viáveis e inovadoras.
+Orientar stakeholders sobre as capacidades e limitações das tecnologias de ML/AI.
+ 
+ 
+Manter-se na atualizado no universo de IA e LLMs:
+Pesquisar e implementar as mais recentes técnicas em IA generativa
+Desenvolver estratégias eficientes de prompt engineering para otimizar o desempenho de modelos de linguagem.
+Explorar e implementar técnicas de otimização para LLMs
+Manter-se atualizado com os últimos avanços acadêmicos e da indústria, participando de conferências, workshops e revisando literatura científica relevante.
+Liderar a aplicação de técnicas de IA responsável e ética no desenvolvimento e implantação de soluções de IA.
+ 
+REQUISITOS E QUALIFICAÇÕES
+Formação
+Superior Completo em Sistemas de Informação, Análise e Desenvolvimento de Sistemas, Ciência da Computação ou áreas correlatas.
+Pós-graduação ou especialização em Ciência de Dados, Machine Learning ou áreas relacionadas é um diferencial.
+ 
+ 
+ 
+Hard Skills
+Domínio de Python e bibliotecas pandas, NumPy, scikit-learn, Boto3, Llama index e LangChain.
+Domínio de Machine learning e Deep Learning
+Conhecimento em bancos de dados de Vetor, SQL e NoSQL.
+Experiência com ferramentas de cloud computing (AWS, Azure, GCP).
+Sólidos conhecimentos em estatística e matemática.
+Conhecimento em técnicas de aprendizado de máquina (regressão, classificação, clustering, etc.).
+Experiência em projetos de ciência de dados do mundo real.
+AWS.
+INFORMAÇÕES ADICIONAIS
+BENEFÍCIOS
+🏢 Presencial ou Remoto
+⏰ Flexibilidade de horário
+📚 Incentivos Educacionais (Parcerias com Instituições de Ensino)
+🌴 Férias Remuneradas
+🏋️ TotalPass
+🎂 Birthday off
+🎂 
+🏥 Assistência Médica
+🦷 Assistência Odontológica
+🤰 Licença Maternidade
+👨‍👩‍👧‍👦 Licença Paternidade
+🌟 Reembolso em Certificações AWS
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Bate papo com RH2Bate papo com RH
+Etapa 2: Bate papo com RH
+2
+Bate papo com RH
+Etapa 3: Bate papo com Gestores3Bate papo com Gestores
+Etapa 3: Bate papo com Gestores
+3
+Bate papo com Gestores
+Etapa 4: Contratação4Contratação
+Etapa 4: Contratação
+4
+Contratação
+THE FUTURE IS CLOUD
+Somos uma empresa jovem, dinâmica e com foco em inovação! Nosso objetivo é estar entre as maiores e melhores empresas de TI do Brasil, oferecendo o que há de mais inovador aos nossos clientes, parceiros, colaboradores e comunidade.
+Somos uma empresa jovem, dinâmica e com foco em inovação! 
+, oferecendo o que há de mais inovador aos nossos clientes, parceiros, colaboradores e comunidade.
+Temos feito um trabalho significativo ao longo desses 10 anos, transformando não só negócios mas principalmente histórias! Através do alinhamento de objetivos de vida e de carreira, temos muito orgulho de contar que JUNTOS conquistamos diversos prêmios, reconhecimentos, selos e parceiras através da força do nosso trabalho coletivo. 
+Temos feito um trabalho significativo ao longo desses 10 anos, transformando não só negócios mas principalmente histórias! Através do alinhamento de objetivos de vida e de carreira, temos muito orgulho de contar que 
+, reconhecimentos, selos e parceiras através da força do nosso trabalho coletivo. 
+Só nos últimos dois anos, tivemos:
+Só nos últimos dois anos, tivemos:
+·       Parceira Premier AWS (mais alto nível de parceria com a maior plataforma de serviços em cloud do mundo)
+·       
+ (mais alto nível de parceria com a maior plataforma de serviços em cloud do mundo)
+·       20ª colocada no Ranking das Melhores Empresas para Trabalhar 2022 (GPTW) - Barueri e Região
+·       
+ - Barueri e Região
+·       2022 AWS Well Architected Partner of the Year
+·       
+·       2022 AWS Public Sector Rising Star of the Year
+·       
+·       2022 AWS Enterprise Workloads of the Year – Microsoft
+·       
+·       2021 AWS Consulting Partner of the Year
+·       
+·       Líder em três quadrantes no relatório ISG Provider Lens AWS Ecosystem Partners
+·       
+·       Reconhecimento AWS: 1º no mundo em contribuições à comunidade na categoria webinars
+·       Reconhecimento AWS: 
+·       Reconhecimento AWS: 1º lugar entre os embaixadores LATAM à um dos nossos #CloudSpecialists
+·       Reconhecimento AWS: 
+·       Ranking GPTW 2022 - Destaque em Saúde Emocional
+·       Ranking GPTW 2022 - 
+·       Selo Gupy “Empresa que dá feedback”
+·       Selo Gupy 
+ Ainda sobre acreditar no potencial humano, apoiamos ativamente projetos sociais como a Escola da Nuvem, Cloudelas e Transformar Tech, porque queremos ser os melhores com os melhores!
+ Ainda sobre acreditar no potencial humano, apoiamos ativamente projetos sociais como a Escola da Nuvem, Cloudelas e Transformar Tech, porque queremos ser os melhores com os melhores!
+Se você busca um local onde possa colocar seu conhecimento técnico em prática, adquirir novos conhecimentos, evoluir na carreira profissional, impactar a sociedade, desenvolver pessoas, transformar contextos e mudar o mundo: aqui é o seu lugar!
+Para saber um pouco mais sobre nós:
+Para saber um pouco mais sobre nós:
+Instagram
+Linkedin
+Site
+Glassdoor
+Youtube
+Blog
+Facebook
+Nossos Cases
+Conheça o CAAS
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

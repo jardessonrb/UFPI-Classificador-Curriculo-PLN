@@ -1,0 +1,110 @@
+link_vaga-https://kirvano.gupy.io/job/eyJqb2JJZCI6Nzg3MDc1Mywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR(A) FULL-STACK PLENO A SÊNIOR
+Tipo de vaga: Pessoa jurídicaPessoa jurídica
+Tipo de vaga: Pessoa jurídica
+Pessoa jurídica
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Estamos crescendo rapidamente e buscamos um Desenvolvedor(a) Fullstack Sênior/Pleno para se juntar ao nosso time de tecnologia e contribuir com a construção de sistemas escaláveis e de alto desempenho.
+Estamos crescendo rapidamente e buscamos um Desenvolvedor(a) Fullstack Sênior/Pleno para se juntar ao nosso time de tecnologia e contribuir com a construção de sistemas escaláveis e de alto desempenho.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver e manter aplicações web fullstack utilizando Node.js no backend e ReactJS e Next.js no frontend.Participar ativamente no processo de arquitetura de software, garantindo escalabilidade, performance e segurança das aplicações.Implementar APIs RESTful, integrando-as com bancos de dados relacionais e não relacionais (e.g., MySQL, MongoDB).Trabalhar em conjunto com times de design e produto para transformar requisitos de negócio em soluções técnicas eficazes.Revisar e fornecer feedback sobre o código de colegas, promovendo boas práticas de desenvolvimento, como código limpo, testes unitários e integração contínua.Realizar otimizações de performance, tanto no lado do servidor quanto no lado do cliente, garantindo uma experiência de usuário fluida.Contribuir para a documentação técnica dos projetos, facilitando a manutenção e a colaboração entre os times.Monitorar e solucionar problemas em produção, implementando melhorias contínuas para evitar recorrências.
+Desenvolver e manter aplicações web fullstack utilizando Node.js no backend e ReactJS e Next.js no frontend.
+Desenvolver e manter aplicações web fullstack utilizando Node.js no backend e ReactJS e Next.js no frontend.
+Participar ativamente no processo de arquitetura de software, garantindo escalabilidade, performance e segurança das aplicações.
+Participar ativamente no processo de arquitetura de software, garantindo escalabilidade, performance e segurança das aplicações.
+Implementar APIs RESTful, integrando-as com bancos de dados relacionais e não relacionais (e.g., MySQL, MongoDB).
+Implementar APIs RESTful, integrando-as com bancos de dados relacionais e não relacionais (e.g., MySQL, MongoDB).
+Trabalhar em conjunto com times de design e produto para transformar requisitos de negócio em soluções técnicas eficazes.
+Trabalhar em conjunto com times de design e produto para transformar requisitos de negócio em soluções técnicas eficazes.
+Revisar e fornecer feedback sobre o código de colegas, promovendo boas práticas de desenvolvimento, como código limpo, testes unitários e integração contínua.
+Revisar e fornecer feedback sobre o código de colegas, promovendo boas práticas de desenvolvimento, como código limpo, testes unitários e integração contínua.
+Realizar otimizações de performance, tanto no lado do servidor quanto no lado do cliente, garantindo uma experiência de usuário fluida.
+Realizar otimizações de performance, tanto no lado do servidor quanto no lado do cliente, garantindo uma experiência de usuário fluida.
+Contribuir para a documentação técnica dos projetos, facilitando a manutenção e a colaboração entre os times.
+Contribuir para a documentação técnica dos projetos, facilitando a manutenção e a colaboração entre os times.
+Monitorar e solucionar problemas em produção, implementando melhorias contínuas para evitar recorrências.
+Monitorar e solucionar problemas em produção, implementando melhorias contínuas para evitar recorrências.
+REQUISITOS E QUALIFICAÇÕES
+Experiência comprovada como desenvolvedor(a) fullstack, com foco em Node.js, ReactJS e Next.js. Forte conhecimento em JavaScript/TypeScript, tanto no lado do cliente quanto no servidor. Experiência com frameworks e bibliotecas de frontend, Tailwind, biblioteca de componentes. Sólido entendimento de bancos de dados, incluindo modelagem e otimização de consultas. Habilidade de resolver problemas de forma independente e trabalhar bem em equipe. Boa comunicação, proatividade e capacidade de lidar com prazos apertados e demandas dinâmicas.
+Experiência comprovada como desenvolvedor(a) fullstack, com foco em Node.js, ReactJS e Next.js. 
+Experiência comprovada como desenvolvedor(a) fullstack, com foco em Node.js, ReactJS e Next.js. 
+Forte conhecimento em JavaScript/TypeScript, tanto no lado do cliente quanto no servidor. 
+Forte conhecimento em JavaScript/TypeScript, tanto no lado do cliente quanto no servidor. 
+Experiência com frameworks e bibliotecas de frontend, Tailwind, biblioteca de componentes. 
+Experiência com frameworks e bibliotecas de frontend, Tailwind, biblioteca de componentes. 
+Sólido entendimento de bancos de dados, incluindo modelagem e otimização de consultas. 
+Sólido entendimento de bancos de dados, incluindo modelagem e otimização de consultas. 
+Habilidade de resolver problemas de forma independente e trabalhar bem em equipe. 
+Habilidade de resolver problemas de forma independente e trabalhar bem em equipe. 
+Boa comunicação, proatividade e capacidade de lidar com prazos apertados e demandas dinâmicas.
+Boa comunicação, proatividade e capacidade de lidar com prazos apertados e demandas dinâmicas.
+INFORMAÇÕES ADICIONAIS
+Remuneração competitiva com base na experiência;Benefícios adicionais como assistência médica, odontológica e vale-refeição;Possibilidade de crescimento na empresa e de participação em projetos estratégicos;Ambiente de trabalho dinâmico e desafiador;Oportunidade de trabalhar em uma das principais empresas do mercado em plena expansão.
+Remuneração competitiva com base na experiência;
+Remuneração competitiva com base na experiência;
+Benefícios adicionais como assistência médica, odontológica e vale-refeição;
+Benefícios adicionais como assistência médica, odontológica e vale-refeição;
+Possibilidade de crescimento na empresa e de participação em projetos estratégicos;
+Possibilidade de crescimento na empresa e de participação em projetos estratégicos;
+Ambiente de trabalho dinâmico e desafiador;
+Ambiente de trabalho dinâmico e desafiador;
+Oportunidade de trabalhar em uma das principais empresas do mercado em plena expansão.
+Oportunidade de trabalhar em uma das principais empresas do mercado em plena expansão.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista com RH 2Entrevista com RH 
+Etapa 2: Entrevista com RH 
+2
+Entrevista com RH 
+Etapa 3: Entrevista Técnica3Entrevista Técnica
+Etapa 3: Entrevista Técnica
+3
+Entrevista Técnica
+Etapa 4: Contratação4Contratação
+Etapa 4: Contratação
+4
+Contratação
+JUNTE-SE À NOSSA EQUIPE!
+Olá!
+Olá!
+Tudo certo por aí?
+Tudo certo por aí?
+Deixe-nos apresentar! Somos a Kirvano, uma plataforma digital criada para transformar negócios online em grandes histórias de sucesso. Nosso propósito é claro: dar poder para empreendedores e criadores de conteúdo tirarem seus projetos do papel e crescerem no mercado digital.
+Deixe-nos apresentar! Somos a Kirvano, uma plataforma digital criada para transformar negócios online em grandes histórias de sucesso. Nosso propósito é claro: dar poder para empreendedores e criadores de conteúdo tirarem seus projetos do papel e crescerem no mercado digital.
+Nascemos com a missão de facilitar a vida de quem vende infoprodutos e serviços online, oferecendo uma plataforma completa e acessível. Aqui, acreditamos que conhecimento vale ouro, e estamos aqui para garantir que nossos usuários consigam transformar esse conhecimento em renda, impactando vidas e negócios.
+Nascemos com a missão de facilitar a vida de quem vende infoprodutos e serviços online, oferecendo uma plataforma completa e acessível. Aqui, acreditamos que conhecimento vale ouro, e estamos aqui para garantir que nossos usuários consigam transformar esse conhecimento em renda, impactando vidas e negócios.
+Mas para isso, precisamos de gente que acredite no nosso propósito e queira crescer com a gente. Somos centenas de Kirvaners espalhados por todo o Brasil, atuando de forma remota e presencial (cidade de São Paulo), mas sempre conectados pelo nosso espírito inovador e colaborativo.
+Mas para isso, precisamos de gente que acredite no nosso propósito e queira crescer com a gente. Somos centenas de Kirvaners espalhados por todo o Brasil, atuando de forma remota e presencial (cidade de São Paulo), mas sempre conectados pelo nosso espírito inovador e colaborativo.
+Nosso time é diverso e cheio de vontade de fazer acontecer! Sabemos que o sucesso do negócio está diretamente ligado ao sucesso das pessoas que fazem parte dele. Por isso, aqui, a cultura é simples: juntos, vamos mais longe.
+Nosso time é diverso e cheio de vontade de fazer acontecer! Sabemos que o sucesso do negócio está diretamente ligado ao sucesso das pessoas que fazem parte dele. Por isso, aqui, a cultura é simples: juntos, vamos mais longe.
+O que buscamos em quem trabalha com a gente?
+Assumir a responsabilidade: Aqui, cada um faz a diferença.
+ Aqui, cada um faz a diferença.
+Ter empatia: Entender o outro é o primeiro passo para crescer junto.
+ Entender o outro é o primeiro passo para crescer junto.
+Colaboração: Jogar em equipe é o que nos leva ao próximo nível.
+ Jogar em equipe é o que nos leva ao próximo nível.
+Fazer acontecer: Não esperamos o tempo passar, nós movemos o ponteiro.
+ Não esperamos o tempo passar, nós movemos o ponteiro.
+Comunicar com clareza: Falar e ouvir, sempre com foco em construir.
+ Falar e ouvir, sempre com foco em construir.
+A Kirvano está crescendo, e nosso time reflete o Brasil que queremos ver: mais diverso e inclusivo. Estamos no caminho para representar ainda mais a pluralidade do nosso país.
+A Kirvano está crescendo, e nosso time reflete o Brasil que queremos ver: mais diverso e inclusivo. Estamos no caminho para representar ainda mais a pluralidade do nosso país.
+Curtiu? Vem fazer parte dessa revolução digital e crescer junto com a Kirvano! Veja nossas vagas e venha transformar o mercado digital com a gente!
+Curtiu? Vem fazer parte dessa revolução digital e crescer junto com a Kirvano! Veja nossas vagas e venha transformar o mercado digital com a gente!
+﻿#VemSerKirvano
+﻿#VemSerKirvano
+CONFIRA NOSSAS REDES SOCIAIS!
+Website
+LinkedIn
+Instagram

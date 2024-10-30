@@ -1,0 +1,95 @@
+link_vaga-https://ploomes.gupy.io/job/eyJqb2JJZCI6NzQ0MTU3Mywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA FRONT-END SR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A Ploomes é a maior empresa de CRM da América Latina.
+Nosso objetivo é centralizar toda a operação comercial possibilitando a visão 360º dos clientes. 🌎
+Para isso, desenvolvemos um produto que combina robustez e facilidade de implementação, utilização e manutenção, com vários módulos que vão auxiliar o dia a dia do time comercial.
+Acreditamos na autonomia, na força das nossas conexões e na atitude que é a chave para gerar o impacto que queremos no mercado. 👊
+Valorizamos um ambiente plural e diverso, por isso, candidaturas de pessoas pretas/negras, mulheres, indígenas, pessoas com deficiências, LGBTQIA+ ou outros grupos minorizados são muito bem vindas!
+Inscreva-se e venha fazer parte do nosso time! 💜
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desempenhar papel de gestão e liderança técnica no desenvolvimento de soluções front-end complexas, demonstrando domínio técnico, colaborando com a equipe e mentorando membros juniores. Arquitetando, planejando e conduzindo projetos em conjunto com o techlead, e contribuindo para o direcionamento estratégico e de inovação na área.
+Arquitetar, planejar e conduzir projetos em conjunto com o techlead;
+Desenvolver e resolver problemas de alta complexidade;
+Revisar e garantir a qualidade dos códigos escritos pelos demais desenvolvedores;
+Mentorar ativamente os desenvolvedores de sua squad;
+Participar de decisões estratégicas e de inovação na área;
+Participação ativa em reuniões de equipe e projetos;
+Ter profundo entendimento das regras de negócio e seus propósitos.
+REQUISITOS E QUALIFICAÇÕES
+Experiência atuando como sênior;Bom conhecimento de React com Typescript;Conhecimento e apreço por testes;Disponibilidade para aprender AngularJS e dar manutenção em código legado.Diferenciais 🎯:Vivência com Figma;Familiaridade com AngularJS;Conhecimento de CI/CD;Conhecimento de Github Actions;Conhecimento de Microfrontends.
+Experiência atuando como sênior;
+Bom conhecimento de React com Typescript;
+Conhecimento e apreço por testes;
+Disponibilidade para aprender AngularJS e dar manutenção em código legado.
+Diferenciais 🎯:
+Vivência com Figma;
+Familiaridade com AngularJS;
+Conhecimento de CI/CD;
+Conhecimento de Github Actions;
+Conhecimento de Microfrontends.
+INFORMAÇÕES ADICIONAIS
+Plano de saúde e odontológico;Seguro de vida;Zenklub;Gympass;Vale Alimentação/Refeição flexíveis (iFood Benefícios);Ajuda de Custo Home Office;Auxílio Mobilidade;Auxílio Creche;Day Off de Aniversário.Modelo de contratação 💜:Para pessoas de fora de São Paulo: 100% home office;Para pessoas que moram em São Paulo: Híbrido, 1x por semana presencial (Nosso escritório fica em Pinheiros - São Paulo!).
+Plano de saúde e odontológico;
+Seguro de vida;
+Zenklub;
+Gympass;
+Vale Alimentação/Refeição flexíveis (iFood Benefícios);
+Ajuda de Custo Home Office;
+Auxílio Mobilidade;
+Auxílio Creche;
+Day Off de Aniversário.
+Modelo de contratação 💜:
+Para pessoas de fora de São Paulo: 100% home office;
+Para pessoas que moram em São Paulo: Híbrido, 1x por semana presencial (Nosso escritório fica em Pinheiros - São Paulo!).
+(Nosso escritório fica em Pinheiros - São Paulo!)
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Teste de Raciocínio Lógico2Teste de Raciocínio Lógico
+Etapa 2: Teste de Raciocínio Lógico
+2
+Teste de Raciocínio Lógico
+Etapa 3: Entrevista com Talent3Entrevista com Talent
+Etapa 3: Entrevista com Talent
+3
+Entrevista com Talent
+Etapa 4: Teste Prático4Teste Prático
+Etapa 4: Teste Prático
+4
+Teste Prático
+Etapa 5: Entrevista Pessoa Gestora (Live Coding)5Entrevista Pessoa Gestora (Live Coding)
+Etapa 5: Entrevista Pessoa Gestora (Live Coding)
+5
+Entrevista Pessoa Gestora (Live Coding)
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+SOBRE NÓS
+Muito prazer, somos a Ploomes: a maior empresa de CRM da América Latina! Criamos a primeira plataforma que uniu CRM, automação de processos e geração de propostas e fizemos isso para centralizar toda a operação comercial, do lead gerado à sua conversão e fidelização, nos tornando o único ambiente de trabalho do vendedor e possibilitando a visão 360º de clientes. Prático, né? 🤗
+Nós queremos tornar empresas escaláveis e gerenciáveis a partir da orquestração e automação da jornada dos seus clientes. Convidamos você para fazer parte dessa jornada! 💜
+Bateu a curiosidade de saber como é trabalhar na Ploo? Dá uma olhada 🧐:
+Paixão pelo Entendimento 🧠: Não basta apenas conhecer o mercado, o produto e os clientes. É necessário mergulhar de cabeça, questionar os fatos, organizar as ideias e compreender que o controle só pode ser alcançado através do entendimento real.
+Foco no Core 🎯: O "Core" representa a essência de qualquer coisa, a razão pela qual algo foi concebido e o objetivo final de tudo aquilo que fazemos. Direcionamos nossas decisões e esforços com base no Core da Ploomes, com destaque à entrega de sucesso e experiência aos nossos clientes;
+Atitude que Gera Impacto 🤘: Sabemos que a atitude é a chave para gerar impacto. Assim, assumimos a responsabilidade pelos nossos erros e agimos de forma proativa para minimizar seus impactos. Acreditamos na autonomia! Concedemos autonomia devido à confiança que temos uns nos outros e, ao mesmo tempo, recebemos essa mesma confiança devido à nossa responsabilidade e habilidade para agir de forma independente;
+Conexão que Transforma 🤝: Nossa cultura é focada em fazer conexões. Fortalecemos nossos vínculos, compartilhamos momentos de diversão e mantemos relações leves e transparentes. Somos claros, objetivos e autênticos, garantindo que a outra pessoa entenda o que queremos comunicar. Através de encantamento, inspiração e energia, proporcionamos uma verdadeira experiência a nossos clientes, parceiros e nossos próprios colaboradores.
+Por aqui é assim: Estamos sempre construindo, juntos! 💜
+NOSSAS REDES SOCIAIS
+Website
+LinkedIn
+Facebook
+Instagram
+CONHEÇA A PLOOMES, MAIOR EMPRESA DE CRM DA AMÉRICA LATINA

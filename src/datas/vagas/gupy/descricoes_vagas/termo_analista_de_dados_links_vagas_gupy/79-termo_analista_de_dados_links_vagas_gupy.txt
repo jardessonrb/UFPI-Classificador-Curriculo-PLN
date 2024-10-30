@@ -1,0 +1,96 @@
+link_vaga-https://aegea.gupy.io/job/eyJqb2JJZCI6Nzk4NjkwOCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE DADOS II
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A Aegea
+Criada em 2010, a Aegea é líder no setor privado de saneamento básico no Brasil. Em cada município onde atua, leva mais saúde e qualidade de vida para a população, respeitando sempre o meio ambiente e a cultura local.
+Criada em 2010, a Aegea é líder no setor privado de saneamento básico no Brasil. Em cada município onde atua, leva mais saúde e qualidade de vida para a população, respeitando sempre o meio ambiente e a cultura local.
+
+Programa Respeito dá o Tom
+O programa nasceu com a meta de espelhar a demografia da população brasileira no quadro de funcionários da empresa. 
+Em 2022 a Aegea emitiu um título sustentável atrelado a metas que incluem alcançar 45% de mulheres e 27% de negros em cargos de liderança até 2030, sendo pioneira em se comprometer com meta de diversidade racial em cargos de liderança.
+
+A Aegea tem o compromisso com a promoção de um ambiente de trabalho mais igualitário, diverso e inclusivo, e estimula o respeito e a valorização das diferenças.
+Aqui, todos os candidatos qualificados serão considerados no processo seletivo, independentemente de raça, gênero, orientação sexual, religião, naturalidade, nacionalidade, deficiência, idade ou outras características.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Atuar na área de Tecnologia Informação, exercendo a o trabalho de engenharia de dados e analista de dados, conhecimento sobre as ferramentas e tecnologias relacionadas à Análise de Dados trabalhando no desenvolvimento de pipeline de ingestão de dados usando linguagem de programação Python ou Scale desenvolver os produtos de dados e buscar o entendimento da solução para melhor estratégia dos conceitos de Data Mesh.
+ 	
+Programação em  Phyton 
+Construção de relatórios 
+Apoiar a gestão dos bancos de dados, prestando informações para a definição de atributos, padrões de nomenclaturas de dados e procedimentos relativos a modificações e inovações na estrutura atual e/ou criação de novas estruturas de dados, com foco na melhoria dos processos e qualidade dos dados;
+Apoiar a gestão dos bancos de dados, prestando informações para a definição de atributos, padrões de nomenclaturas de dados e procedimentos relativos a modificações e inovações na estrutura atual e/ou criação de novas estruturas de dados, com foco na melhoria dos processos e qualidade dos dados;
+Atuar no desenvolvimento de projetos relacionados a dados, como os de manipulação e automação de dados para extração de insights para a empresa;
+Atuar no desenvolvimento de projetos relacionados a dados, como os de manipulação e automação de dados para extração de insights para a empresa;
+Atuar nas diversas etapas de análise de dados, como na coleta, limpeza, organização, compilação e análise, com vistas a subsidiar a tomada de decisão com base nas informações obtidas;
+Atuar nas diversas etapas de análise de dados, como na coleta, limpeza, organização, compilação e análise, com vistas a subsidiar a tomada de decisão com base nas informações obtidas;
+Sintetizar bases de dados na forma de gráficos, tabelas ou dashboards;
+Sintetizar bases de dados na forma de gráficos, tabelas ou dashboards;
+Manusear bancos de dados e desenvolver scripts úteis para a análise de dados;
+Manusear bancos de dados e desenvolver scripts úteis para a análise de dados;
+REQUISITOS E QUALIFICAÇÕES
+PhytonDatabricks / SparkPipeline de dadosSuperior Completo - Eng. da Computação, Ciência da Computação, Análise de Sistemas; 
+Phyton
+Databricks / Spark
+Spark
+Pipeline de dados
+Superior Completo - Eng. da Computação, Ciência da Computação, Análise de Sistemas; 
+INFORMAÇÕES ADICIONAIS
+Assistência médica;Assistência odontológica;Zenklub (atendimento direcionado à saúde mental e nutricional);Serviço de assistência gratuito (social, jurídico e financeiro);Seguro de vida;Vale transporte;Gympass;Vale alimentação e/ou refeição;Participação nos Lucros e Resultados;Kit office.
+Assistência médica;
+Assistência médica;
+Assistência odontológica;
+Assistência odontológica;
+Zenklub (atendimento direcionado à saúde mental e nutricional);
+Serviço de assistência gratuito (social, jurídico e financeiro);
+Serviço de assistência gratuito (social, jurídico e financeiro);
+Seguro de vida;
+Seguro de vida;
+Vale transporte;
+Vale transporte;
+Gympass;
+Gympass;
+Vale alimentação e/ou refeição;
+Vale alimentação e/ou refeição;
+Participação nos Lucros e Resultados;
+Participação nos Lucros e Resultados;
+Kit office.
+Kit office.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista com Atração & Seleção2Entrevista com Atração & Seleção
+Etapa 2: Entrevista com Atração & Seleção
+2
+Entrevista com Atração & Seleção
+Etapa 3: Entrevista com a Área Requisitante3Entrevista com a Área Requisitante
+Etapa 3: Entrevista com a Área Requisitante
+3
+Entrevista com a Área Requisitante
+Etapa 4: Mapeamento de perfil - Mindsight4Mapeamento de perfil - Mindsight
+Etapa 4: Mapeamento de perfil - Mindsight
+4
+Mapeamento de perfil - Mindsight
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+SOMOS UM TIME DE PROFISSIONAIS ALÉM DA CONTA!
+A Aegea é a empresa líder no setor privado de saneamento básico no Brasil. Trabalhamos por um futuro sustentável, colocando nossa paixão na prática fazendo a diferença nos 507 municípios em que atuamos. Levamos saúde, qualidade de vida e dignidade para mais de aproximadamente 31 milhões de pessoas de norte a sul do Brasil. Empenhamos todos os esforços para contribuir com a sociedade por meio de inovações e serviços que vão além do tratamento e da distribuição de água e esgotamento sanitário. Nossa paixão é tornar cada dia melhor tanto o ambiente que oferecemos aos nossos colaboradores, bem como nos serviços que entregamos. Somos uma marca que pede licença para melhorar a vida da população de centenas de cidades, levando bem estar e prosperidade.
+Nossos talentos são o que a Aegea Saneamento e suas concessionárias tem de único. Somos formados por mais de 19.000 colaboradores espalhados por diversos cantos do Brasil, levando soluções de saneamento eficiente e sob medida, respeitando as peculiaridades dos locais onde estamos presentes. Trabalhamos diariamente na construção de uma empresa eficiente, diversa, ética e sólida, buscando aprender e evoluir constantemente.  
+CONHEÇA A AEGEA
+LinkedIn
+Facebook
+Instagram
+Glassdoor
+NOSSA NATUREZA MOVIMENTA A VIDA

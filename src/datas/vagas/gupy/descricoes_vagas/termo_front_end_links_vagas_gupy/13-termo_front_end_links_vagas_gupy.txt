@@ -1,0 +1,105 @@
+link_vaga-https://pagseguro.gupy.io/job/eyJqb2JJZCI6NzM0NjA2Miwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ESPECIALISTA FRONT-END I
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Nascemos para democratizar os serviços bancários e de pagamentos!
+ 
+Pioneirismo, tecnologia, inovação e resultados sustentáveis são constantes da nossa trajetória. Lançamos a primeira maquininha de cartão sem aluguel do Brasil e ao longo dos anos seguimos evoluindo para ampliar nosso ecossistema de soluções financeiras.
+ 
+Somos o 2º maior banco digital do país e a fintech mais rentável do segmento, resultado do trabalho de um time formado por pessoas talentosas e criativas, que atuam com dedicação, paixão e vontade de fazer acontecer.
+ 
+Se você ama tecnologia, curte um bom desafio e acredita no poder da colaboração para fazer grandes entregas, o Pags é pra você! Então, confira essa oportunidade e vem pintar o Brasil de amarelo com a gente💛!
+ 
+No PagBank todas as pessoas são bem-vindas 😊, sem distinção de gênero, orientação sexual, etnia, cultura, religião, deficiência etc. O importante é você gostar de desafios, trabalhar bem em equipe, vivenciar nossa cultura e nossa missão de transformar e democratizar os serviços bancários e de pagamentos no Brasil.
+ 
+#VemProPags
+ 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver e manter as aplicações web, utilizando tecnologias e boas práticas de ecossistemas em React.Avaliar, discutir e desenvolver em arquitetura de sistemas (servidor web, HTTP, BFF e Node.js).Propor melhorias e promover coesão técnica e consistência dos processos de negócio e apresentar alternativas para os diversos desafios.Trabalhar com técnicas e ferramentas de automação de testes.Participar da pesquisa e implantação de novas tecnologias.Monitorar ambiente e criar ações proativas que garantam a sua estabilidade.Garantir a confiabilidade dos sistemas junto à equipe de Segurança.Participar no desenvolvimento e acompanhamento técnico de times.
+Desenvolver e manter as aplicações web, utilizando tecnologias e boas práticas de ecossistemas em React.
+Avaliar, discutir e desenvolver em arquitetura de sistemas (servidor web, HTTP, BFF e Node.js).
+Propor melhorias e promover coesão técnica e consistência dos processos de negócio e apresentar alternativas para os diversos desafios.
+Trabalhar com técnicas e ferramentas de automação de testes.
+Participar da pesquisa e implantação de novas tecnologias.
+Monitorar ambiente e criar ações proativas que garantam a sua estabilidade.
+Garantir a confiabilidade dos sistemas junto à equipe de Segurança.
+Participar no desenvolvimento e acompanhamento técnico de times.
+REQUISITOS E QUALIFICAÇÕES
+Superior em Tecnologia da Informação, Ciência da Computação, Engenharia, Sistemas de Informação ou áreas correlatas.Experiência com HTML5, sintaxe, semântica e boas práticas de desenvolvimento web.Experiência com CSS, web design responsivo, pré-processadores (Sass).Experiência com Javascript (ES6+, node/npm, React, Redux e Next.js).Experiência com ferramentas de testes (Jest e React Testing Library).Experiência com ferramentas de monitoramento, tais como Google Analytics, Newrelic e Splunk.Experiência com versionamento Git e Github.Conhecimento em ESLint/stylelint.Conhecimento em CI/CD (Jenkins, Docker e AWS).Conhecimento em testes E2E, boas práticas de segurança/qualidade.Conhecimento em estrutura de dados, algoritmos e análises de complexidade.Conhecimento em programação concorrente e técnicas para depuração de código.Conhecimento em ferramentas e práticas de monitoração de sistemas como New Relic e Open Telemetry.Conhecimento em plataformas de automação contínua como Jenkins.Conhecimento em JavaScript, BFF e arquitetura de front-end.Experiência com desenvolvimento e padrões de arquitetura em microsserviços.Experiência com desenvolvimento e acompanhamento técnico de times.Experiência com desenvolvimento de sistemas altamente escaláveis.Experiência com linguagens de programação Javascript e Typescript.Experiência com programação orientada a objetos, Design Patterns, SOLID, APIs e RESTful.Experiência com AWS, DevOps, Mesos e Docker.Experiência com testes unitários, testes integrados e E2E.Experiência com refactoring de código.Experiência com Scrum, Lean ou Kanban.Inglês técnico.
+Superior em Tecnologia da Informação, Ciência da Computação, Engenharia, Sistemas de Informação ou áreas correlatas.
+Experiência com HTML5, sintaxe, semântica e boas práticas de desenvolvimento web.
+Experiência com CSS, web design responsivo, pré-processadores (Sass).
+Experiência com Javascript (ES6+, node/npm, React, Redux e Next.js).
+Experiência com ferramentas de testes (Jest e React Testing Library).
+Experiência com ferramentas de monitoramento, tais como Google Analytics, Newrelic e Splunk.
+Experiência com versionamento Git e Github.
+Conhecimento em ESLint/stylelint.
+Conhecimento em CI/CD (Jenkins, Docker e AWS).
+Conhecimento em testes E2E, boas práticas de segurança/qualidade.
+Conhecimento em estrutura de dados, algoritmos e análises de complexidade.
+Conhecimento em programação concorrente e técnicas para depuração de código.
+Conhecimento em ferramentas e práticas de monitoração de sistemas como New Relic e Open Telemetry.
+Conhecimento em plataformas de automação contínua como Jenkins.
+Conhecimento em JavaScript, BFF e arquitetura de front-end.
+Experiência com desenvolvimento e padrões de arquitetura em microsserviços.
+Experiência com desenvolvimento e acompanhamento técnico de times.
+Experiência com desenvolvimento de sistemas altamente escaláveis.
+Experiência com linguagens de programação Javascript e Typescript.
+Experiência com programação orientada a objetos, Design Patterns, SOLID, APIs e RESTful.
+Experiência com AWS, DevOps, Mesos e Docker.
+Experiência com testes unitários, testes integrados e E2E.
+Experiência com refactoring de código.
+Experiência com Scrum, Lean ou Kanban.
+Inglês técnico.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Teste 3Teste 
+Etapa 3: Teste 
+3
+Teste 
+Etapa 4: Entrevista RH4Entrevista RH
+Etapa 4: Entrevista RH
+4
+Entrevista RH
+Etapa 5: Entrevista Gestor5Entrevista Gestor
+Etapa 5: Entrevista Gestor
+5
+Entrevista Gestor
+Etapa 6: Finalistas6Finalistas
+Etapa 6: Finalistas
+6
+Finalistas
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+SOBRE NÓS
+Nascemos em 2006 para revolucionar o mercado de meios de pagamento e democratizar o acesso aos serviços financeiros.
+Nascemos em 2006 para revolucionar o mercado de meios de pagamento e democratizar o acesso aos serviços financeiros.
+Foi com a gente que os consumidores passaram a comprar e vender – dentro e fora da internet – de forma rápida, simples e segura. Fizemos história lançando a 1ª maquininha de cartão sem aluguel, possibilitando as pessoas venderem mais e em qualquer lugar 💳.
+Foi com a gente que os consumidores passaram a comprar e vender – dentro e fora da internet – de forma rápida, simples e segura. Fizemos história lançando a 1ª maquininha de cartão sem aluguel, possibilitando as pessoas venderem mais e em qualquer lugar 💳.
+Em 2019 expandimos e criamos o nosso banco digital, reforçando a nossa crença no potencial transformador da tecnologia. 
+Em 2019 expandimos e criamos o nosso banco digital, reforçando a nossa crença no potencial transformador da tecnologia. 
+Hoje somos um dos maiores bancos digitais do país e uma das fintechs mais rentáveis do segmento, resultado do trabalho de um time de mais de 7 mil profissionais.
+Hoje 
+, resultado do trabalho de um time de mais de 7 mil profissionais.
+ 
+Aqui no Pags, a pesquisa e a inovação fazem parte do nosso DNA. Compartilhamos experiências com profissionais talentosos e criativos em um ambiente colaborativo, onde o aprendizado é garantido.
+ 
+Quer fazer parte dessa história? Confira nossas vagas e #VemProPags, o banco completo. 

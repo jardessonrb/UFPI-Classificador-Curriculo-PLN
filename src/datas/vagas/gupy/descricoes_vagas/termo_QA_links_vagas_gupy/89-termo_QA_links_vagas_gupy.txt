@@ -1,0 +1,122 @@
+link_vaga-https://viceri-vagas.gupy.io/job/eyJqb2JJZCI6Nzg2MDA3OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA ANALISTA DE QUALIDADE (QA) TRAINEE - (HÍBRIDO - JUNDIAÍ/SP)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Quem somos!
+Tornamos as pessoas melhores através da tecnologia.
+As novas tecnologias estão transformando o nosso mundo. As nossas expectativas estão se redefinindo, mudando a maneira como vivemos e trabalhamos.
+As novas tecnologias estão transformando o nosso mundo. As nossas expectativas estão se redefinindo, mudando a maneira como vivemos e trabalhamos.
+A transformação digital vem com um imenso potencial para mudar as nossas vidas, criar valor para os negócios e trazer benefícios sociais muito mais amplos.
+A transformação digital vem com um imenso potencial para mudar as nossas vidas, criar valor para os negócios e trazer benefícios sociais muito mais amplos.
+É tempo de rever conceitos, investir no novo para criar novos níveis de eficiência, melhorar a experiência e construir novos modelos de negócios.
+É tempo de rever conceitos, investir no novo para criar novos níveis de eficiência, melhorar a experiência e construir novos modelos de negócios.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver e executar casos de teste, garantindo a qualidade do software e a conformidade com os requisitos;Colaborar com equipes de desenvolvimento para identificar e resolver problemas de qualidade em todas as fases do ciclo de vida do produto;Criar scripts de automação de testes utilizando ferramentas de automação adequadas;Executar testes funcionais e manuais para garantir o bom desempenho e a estabilidade dos sistemas;Aplicar técnicas de IA para otimizar processos de testes, identificando padrões e automações mais eficientes;Reportar e documentar defeitos, bem como acompanhar sua resolução;Contribuir para a melhoria contínua dos processos de teste e automação.
+Desenvolver e executar casos de teste, garantindo a qualidade do software e a conformidade com os requisitos;
+Colaborar com equipes de desenvolvimento para identificar e resolver problemas de qualidade em todas as fases do ciclo de vida do produto;
+Criar scripts de automação de testes utilizando ferramentas de automação adequadas;
+Executar testes funcionais e manuais para garantir o bom desempenho e a estabilidade dos sistemas;
+Aplicar técnicas de IA para otimizar processos de testes, identificando padrões e automações mais eficientes;
+Reportar e documentar defeitos, bem como acompanhar sua resolução;
+Contribuir para a melhoria contínua dos processos de teste e automação.
+REQUISITOS E QUALIFICAÇÕES
+Conhecimentos Básicos
+Automação de testes (Selenium, Cypress, ou ferramentas similares);
+Inteligência Artificial aplicadas ao processo de automação de testes;
+
+Conhecimentos Intermediários
+Formação em andamento ou concluída em Ciência da Computação, Engenharia de Software, Sistemas de Informação ou áreas correlatas;
+Testes funcionais e manuais;
+Habilidades analíticas e atenção aos detalhes;
+Proatividade, vontade de aprender e espírito de equipe.
+
+Diferenciais
+Testes de performance e carga;
+Ferramentas de integração contínua (Jenkins, GitLab CI, etc.);
+Certificações relacionadas a QA ou automação de testes;
+Metodologias ágeis (Scrum/Kanban);
+Ciclo de vida de desenvolvimento de software (SDLC).
+
+INFORMAÇÕES ADICIONAIS
+O que você encontra na Viceri:
+- Trabalho híbrido
+- Trabalho híbrido
+- Projetos por tempo indeterminado
+- Projetos por tempo indeterminado
+- Plano de Carreira
+- Plano de Carreira
+- Cultura de Feedback
+- Cultura de Feedback
+- Estrutura horizontal
+- Estrutura horizontal
+- Avaliação de Desempenho
+- Avaliação de Desempenho
+- Aulas de Inglês e Espanhol
+- Aulas de Inglês e Espanhol
+- Programa INDICA (indicação premiada de profissionais)
+- Programa INDICA (indicação premiada de profissionais)
+- Dress Code livre
+- Dress Code livre
+Benefícios CLT: 
+Plano de Saúde
+Plano de Saúde
+Plano Odontológico
+Plano Odontológico
+Seguro de Vida
+Seguro de Vida
+Vale Alimentação/Refeição
+Vale Alimentação/Refeição
+Vale Transporte
+Vale Transporte
+Auxílio Creche
+Auxílio Creche
+Auxílio Dependentes PCD
+Auxílio Dependentes PCD
+Parceria SESC
+Parceria SESC
+ 
+ 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem - RH2Triagem - RH
+Etapa 2: Triagem - RH
+2
+Triagem - RH
+Etapa 3: Análise de CV – Líder3Análise de CV – Líder
+Etapa 3: Análise de CV – Líder
+3
+Análise de CV – Líder
+Etapa 4: Mapeamento Comportamental + Testes de Atenção e Raciocínio Lógico4Mapeamento Comportamental + Testes de Atenção e Raciocínio Lógico
+Etapa 4: Mapeamento Comportamental + Testes de Atenção e Raciocínio Lógico
+4
+Mapeamento Comportamental + Testes de Atenção e Raciocínio Lógico
+Etapa 5: Entrevista Técnica + RH5Entrevista Técnica + RH
+Etapa 5: Entrevista Técnica + RH
+5
+Entrevista Técnica + RH
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+PREPARE-SE PARA IR ALÉM, PARA CONECTAR-SE COM O INIMAGINÁVEL!
+A melhor solução pode vir de algo inimaginável, por isso a Viceri SEIDOR busca todos os dias, a cada entrega, a cada solução, pensar primeiramente nas pessoas, na sua cadeia de valor, indo além do olhar da eficiência corporativa. Queremos conectar as pessoas com a revolução digital para entregar soluções inimagináveis, implantando assim um Mindset disruptivo e de alto impacto.
+A melhor solução pode vir de algo inimaginável, por isso a Viceri SEIDOR busca todos os dias, a cada entrega, a cada solução, pensar primeiramente nas pessoas, na sua cadeia de valor, indo além do olhar da eficiência corporativa. Queremos conectar as pessoas com a revolução digital para entregar soluções inimagináveis, implantando assim um Mindset disruptivo e de alto impacto.
+Site oficial: www.viceri.com.br
+Site oficial: 
+CONHEÇA MAIS SOBRE NÓS!
+Website
+LinkedIn
+Facebook
+Instagram

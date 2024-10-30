@@ -1,0 +1,124 @@
+link_vaga-https://vemserwill.gupy.io/job/eyJqb2JJZCI6NzkwNzEwNywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+SENIOR BACKEND SOFTWARE ENGINEER [CYBER SECURITY]
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Como é a nossa área de Secutiry Engineering? 
+Um dos maiores desafios na construção de soluções seguras é a distância entre a definição dos requisitos pela equipe de Cyber e a implementação destes pelos times de tecnologia. No will, estamos buscando reduzir essa separação através do desenvolvimento de soluções que simplifiquem a entrega de produtos mais seguros.
+Para isso, buscamos profissionais para produtização de soluções de segurança para emprego pelos demais times de desenvolvimento, bem como servir como influenciadores, guiando-os nas melhores práticas de desenvolvimento seguro.
+Os valores culturais do will são os pilares em cima dos quais nosso time atua, assim buscamos um(a/e) profissional que "assume a responsa", tomando para si a solução dos problemas, "age com empatia", entendendo o contexto dos demais na discussão das ações necessárias, "joga junto", buscando soluções que não impactem negativamente os demais times, "mexe o ponteiro", indo além da execução de suas atividades, mas propondo melhorias e criando soluções novas, e que "comunica de forma assertiva", deixando claro suas motivações.   
+RESPONSABILIDADES E ATRIBUIÇÕES
+﻿Quais serão os seus desafios?
+Criar e manter produtos que simplifiquem a adoção de melhores práticas de segurança pelas demais equipes de desenvolvimento do will;
+Evoluir controles de segurança, incluindo autenticação forte, autorização, assinatura digital, mecanismos de não repúdio e prevenção a ataques (ex. Replay, Identity Spoofing, etc);
+Idealização de novos mecanismos de segurança;
+Assessoramento de outros times nas melhores práticas de desenvolvimento seguro.
+REQUISITOS E QUALIFICAÇÕES
+ Para isso, você vai precisar ter experiência com:
+Princípios de desenvolvimento seguro;
+Desenvolvimento de micro serviços Java e/ou node;
+Desenvolvimento de soluções para Cloud;
+Frameworks (Spring Boot, Express);
+APIs REST;
+Programação concorrente;
+Banco de dados relacionais e NoSQL (PostgreSQL, MongoDB, Redis...);
+TDD;
+Metodologias de desenvolvimento ágil.
+E será um diferencial se você tiver experiência com:
+Desenvolvimento em mobile (Swift, Kotlin ou Dart/Flutter);
+Desenvolvimento em mobile (Swift, Kotlin ou Dart/Flutter);
+Kong;
+Kong;
+OAuth/OpenID;
+OAuth/OpenID;
+JWT/JWE/JWS;
+JWT/JWE/JWS;
+Oath/TOTP;
+Oath/TOTP;
+Aplicação de algoritmos de criptografia;
+Aplicação de algoritmos de criptografia;
+INFORMAÇÕES ADICIONAIS
+Gostou? Isso porque você ainda não viu os benefícios de ser um willer:
+ Cartão Flash para seus gastos flexíveis: Com valores compatíveis com o mercado, destinados a Vale Alimentação/Refeição, home office, parte totalmente flexível para uso em aplicativos de mobilidade, farmácias, cultura, educação, alimentação e refeições.
+ Saúde de qualidade com a Amil: Tenha acesso a uma rede de saúde e odontológica de primeira linha através da Amil Saúde.
+ Benefícios que fazem a diferença: Oferecemos seguro de vida, auxílio creche, auxílio para dependentes com deficiência, um dia de folga especial no seu aniversário, além de descontos em farmácias e parcerias com o Sesc em todo o Brasil.
+ Bem-Estar é prioridade: Cuide da sua saúde mental e física com as parcerias que temos. Acesse serviços profissionais de psicologia com o C4life e Psicologia Viva, e tenha acesso a academias e aulas online através do Wellhub e Totalpass.
+ Educação é essencial: Descontos em instituições de ensino, como SkillHub, Faculdade São Judas, Estácio de Sá, Ibemec, EnglishBay, LingoPass e muito mais.
+ Programa Distribuwill: Faça parte do nosso Programa de Participação nos Resultados, o Distribuwill!
+ Inclusão e diversidade: Oferecemos reembolso para a retificação de nomes para pessoas trans, e acreditamos em uma licença parental de 180 dias para um cuidado igualitário em todas as configurações familiares.
+ Clube will by coClub: Participe do Clube will, uma plataforma exclusiva que conecta nossa comunidade com interesses em comum, desafios, benefícios, experiências e celebrações!
+Confira nossas outras oportunidades :)
+#LI-REMOTE #LI-IS1
+#LI-REMOTE 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Coding Skills2Coding Skills
+Etapa 2: Coding Skills
+2
+Coding Skills
+Etapa 3: System Design3System Design
+Etapa 3: System Design
+3
+System Design
+Etapa 4: Papo com o time4Papo com o time
+Etapa 4: Papo com o time
+4
+Papo com o time
+Etapa 5: Papo com talent 5Papo com talent 
+Etapa 5: Papo com talent 
+5
+Papo com talent 
+Etapa 6: Papo com a liderança 6Papo com a liderança 
+Etapa 6: Papo com a liderança 
+6
+Papo com a liderança 
+Etapa 7: Proposta7Proposta
+Etapa 7: Proposta
+7
+Proposta
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+OLÁ,
+E aí, tudo bem? 
+E aí, tudo bem? 
+Primeiro eu vou me apresentar! Eu sou um banco digital, mas pode me chamar de will. Sou a segunda maior instituição de pagamento do Brasil com mais de cinco milhões de clientes! Nasci com um propósito muito claro: democratizar o mundo financeiro e mostrar que crédito é um voto de confiança que todos e todas merecem, e podem ter. 
+Primeiro eu vou me apresentar! Eu sou um banco digital, mas pode me chamar de will. Sou a segunda maior instituição de pagamento do Brasil com mais de cinco milhões de clientes! Nasci com um propósito muito claro: democratizar o mundo financeiro e mostrar que crédito é um voto de confiança que 
+ merecem, e podem ter. 
+Eu tenho como intenção dar a possibilidade de todas as pessoas nesse Brasil terem direito ao crédito. Você tem noção que a maioria das pessoas nem tem acesso a instituições financeiras? Eu tô aqui pra mudar isso! Quero tornar o mundo financeiro mais simples e mais acessível. 
+Eu tenho como intenção dar a possibilidade de todas as pessoas nesse Brasil terem direito ao crédito. Você tem noção que a maioria das pessoas nem tem acesso a instituições financeiras? Eu tô aqui pra mudar isso! 
+ 
+E para multiplicar o crédito e conquistar esse sonho, precisamos de pessoas que multipliquem o melhor delas. E para isso é preciso ter atitudes multiplicadoras. As pessoas que trabalham comigo são Willers. Já são mais de 1300 que estão espalhadas e espalhados pelos quatro cantos do Brasil. Isso mesmo, atuamos em regime de trabalho remoto e temos um pilar cultural focado em multiplicar o melhor das pessoas.
+E para multiplicar o crédito e conquistar esse sonho, precisamos de pessoas que multipliquem o melhor delas. E para isso é preciso ter atitudes multiplicadoras. 
+As pessoas que trabalham comigo são Willers. Já são mais de 1300 que estão espalhadas e espalhados pelos quatro cantos do Brasil. Isso mesmo, atuamos em regime de trabalho remoto e temos um pilar cultural focado em multiplicar o melhor das pessoas.
+Multiplicar o melhor de mim é multiplicar o will, multiplicar o will é multiplicar o melhor de mim. 
+Busco atrair pessoas que estão dispostas a crescer comigo, porque aqui não existe crescimento do negócio sem o crescimento das pessoas. E para isso acredito que cinco atitudes podem ajudar a multiplicar o seu melhor por aqui:
+Assumir a responsa
+Agir com empatia
+Jogar Junto
+Mexer o ponteiro
+Comunicar de forma assertiva
+Já são mais de 1300 que estão espalhadas e espalhados pelos quatro cantos do Brasil multiplicando o melhor deles e delas. E além disso, estamos caminhando para atingir os dados demográficos que representam a população brasileira, onde 57% da população se declara como negra. Hoje, +44% de willers que se autodeclaram pessoas não brancas e 51% são mulheres. Eu quero ser tão diverso como o Brasil, sei que é desafiador, mas eu não tô nessa sozinho, tem um monte de gente me ajudando a chegar lá. 
+Já são mais de 1300 que estão espalhadas e espalhados pelos quatro cantos do Brasil multiplicando o melhor deles e delas. E além disso, e
+Hoje, 
+. Eu quero ser tão diverso como o Brasil, sei que é desafiador, mas eu não tô nessa sozinho, tem um monte de gente me ajudando a chegar lá. 
+E aí, me curtiu? Corre pra ver as minhas vagas e fazer parte dessa história de democratizacão do crédito! #VemSerWill
+E aí, me curtiu? Corre pra ver as minhas vagas e fazer parte dessa história de democratizacão do crédito! 
+NOSSAS REDES
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

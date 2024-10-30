@@ -1,0 +1,141 @@
+link_vaga-https://fcamara.gupy.io/job/eyJqb2JJZCI6Nzk3MzIyNSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA FULLSTACK .NET PLENO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A FCamara está em busca de uma Pessoa Desenvolvedora Fullstack .NET ou React Pleno, para atuar em parceria com o maior Banco de Investimentos da América Latina, especializado em capital de investimento, de risco, além de gerenciamento de patrimônio e ativos globais.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolvimento de aplicações em .NET e React;Participação em todo o ciclo de desenvolvimento, desde o levantamento de requisitos até a entrega final e sustentação;Autonomia para definição da abordagem de design e arquitetura na resolução de problemas, tanto no front-end quanto no back-end;Ownership da infraestrutura e pipelines das aplicações, incluindo integração contínua e entrega contínua (CI/CD);Contato direto com áreas de negócio e stakeholders, garantindo uma boa comunicação para o alinhamento de requisitos;Colaboração com equipes ágeis e multidisciplinares.
+Desenvolvimento de aplicações em .NET e React;
+Participação em todo o ciclo de desenvolvimento, desde o levantamento de requisitos até a entrega final e sustentação;
+Autonomia para definição da abordagem de design e arquitetura na resolução de problemas, tanto no front-end quanto no back-end;
+Ownership da infraestrutura e pipelines das aplicações, incluindo integração contínua e entrega contínua (CI/CD);
+Contato direto com áreas de negócio e stakeholders, garantindo uma boa comunicação para o alinhamento de requisitos;
+Colaboração com equipes ágeis e multidisciplinares.
+REQUISITOS E QUALIFICAÇÕES
+Tecnologias de conhecimento obrigatório:
+Tecnologias de conhecimento obrigatório:
+Frontend:
+Frontend:
+Pelo menos 3 anos de experiência em desenvolvimento frontend com foco em React;
+Pelo menos 3 anos de experiência em desenvolvimento frontend com foco em React;
+Domínio de princípios do React, incluindo Hooks, Class Components, Function Components, e Ciclo de Vida de Componentes (React Lifecycle);
+Domínio de princípios do React, incluindo Hooks, Class Components, Function Components, e Ciclo de Vida de Componentes (React Lifecycle);
+Domínio de quesitos de performance em JavaScript e React;
+Domínio de quesitos de performance em JavaScript e React;
+Experiência com Microfrontends;
+Experiência com Microfrontends;
+Conhecimento em Single SPA (desejável);
+Conhecimento em Single SPA (desejável);
+Experiência com Angular (opcional);
+Experiência com Angular (opcional);
+Conhecimento em Next.js (opcional).
+Conhecimento em Next.js (opcional).
+ 
+ 
+Backend:
+Backend:
+Pelo menos 5 anos de experiência com desenvolvimento em .NET, incluindo desenvolvimento de APIs (WebAPI);
+Pelo menos 5 anos de experiência com desenvolvimento em .NET, incluindo desenvolvimento de APIs (WebAPI);
+Experiência com filas e mensagerias como RabbitMQ, SQS ou SNS;
+Experiência com filas e mensagerias como RabbitMQ, SQS ou SNS;
+Conhecimento de bancos de dados relacionais como PostgreSQL, MySQL e SQL Server;
+Conhecimento de bancos de dados relacionais como PostgreSQL, MySQL e SQL Server;
+Conhecimento de bancos de dados não relacionais como MongoDB e Redis;
+Conhecimento de bancos de dados não relacionais como MongoDB e Redis;
+Experiência com Cache Distribuído.
+Experiência com Cache Distribuído.
+ 
+ 
+Outras Tecnologias Utilizadas:
+Outras Tecnologias Utilizadas:
+RabbitMQ;
+RabbitMQ;
+AWS;
+AWS;
+Windows Forms (com DevExpress) (opcional);
+Windows Forms (com DevExpress) (opcional);
+Redis.
+Redis.
+ 
+ 
+Soft Skills:
+Soft Skills:
+Boa comunicação;
+Boa comunicação;
+Espírito de equipe e capacidade de resolução de conflitos;
+Espírito de equipe e capacidade de resolução de conflitos;
+Habilidade de trabalhar em equipes ágeis e multidisciplinares;
+Habilidade de trabalhar em equipes ágeis e multidisciplinares;
+Criatividade e proatividade para imaginar diferentes cenários de uso das aplicações;
+Criatividade e proatividade para imaginar diferentes cenários de uso das aplicações;
+Raciocínio lógico e capacidade analítica;
+Raciocínio lógico e capacidade analítica;
+Organização.
+Organização.
+ 
+ 
+Diferencial:
+Diferencial:
+Experiência no mercado financeiro.
+Experiência no mercado financeiro.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Entrevista R&S3Entrevista R&S
+Etapa 3: Entrevista R&S
+3
+Entrevista R&S
+Etapa 4: Entrevista Técnica4Entrevista Técnica
+Etapa 4: Entrevista Técnica
+4
+Entrevista Técnica
+Etapa 5: Entrevista Cliente5Entrevista Cliente
+Etapa 5: Entrevista Cliente
+5
+Entrevista Cliente
+Etapa 6: Carta Proposta6Carta Proposta
+Etapa 6: Carta Proposta
+6
+Carta Proposta
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+TRANSFORMAMOS MUNDOS SONHADOS EM TRAJETÓRIAS REAIS.🧡🚀
+Aqui somos #SangueLaranja!Estamos há 17 anos no mercado, lado a lado com nossos clientes, proporcionando experiências transformadoras. Somos um ecossistema de tecnologia e inovação, com expansão global; Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda. 🌎  F de Formação: acreditamos na prática da cultura do compartilhamento, no senso de comunidade, e que o conhecimentotem o poder da transformação! Possuímos iniciativas, e ações sociais, que promovem o desenvolvimento, como a comunidade tech Orange Juice, o Programa de Formação,nossa escola de liderança e diversas parcerias com ONGs e Edtechs.   Na FCamara todos são bem-vindos, para nós, Diversidade, Respeito e Ética, são elementos inegociáveis e fazem parte do nosso DNA.   E aí, está pronto para fazer parte de um time incrível e ser protagonista da própria história?    
+Aqui somos #SangueLaranja!
+Estamos há 17 anos no mercado, lado a lado com nossos clientes, proporcionando experiências transformadoras. 
+Somos um ecossistema de tecnologia e inovação, com expansão global; Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda. 🌎
+Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda.
+  
+F de Formação: acreditamos na prática da cultura do compartilhamento, no senso de comunidade, e que o conhecimento
+tem o poder da transformação!
+ 
+Possuímos iniciativas, e ações sociais, que promovem o desenvolvimento, como a comunidade tech Orange Juice, o Programa de Formação,
+nossa escola de liderança e diversas parcerias com ONGs e Edtechs. 
+  
+Na FCamara todos são bem-vindos, para nós, Diversidade, Respeito e Ética, são elementos inegociáveis e fazem parte do nosso DNA. 
+  
+E aí, está pronto para fazer parte de um time incrível e ser protagonista da própria história? 
+   
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

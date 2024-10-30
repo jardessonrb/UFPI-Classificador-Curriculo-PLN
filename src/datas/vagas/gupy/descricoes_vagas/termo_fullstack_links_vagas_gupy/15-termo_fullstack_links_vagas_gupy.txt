@@ -1,0 +1,118 @@
+link_vaga-https://stefanini.gupy.io/job/eyJqb2JJZCI6Nzc0MDQzOSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR FULLSTACK PLENO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Na Stefanini, acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global.
+Ao se juntar à Stefanini, você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma oportunidade de crescimento profissional em uma empresa que valoriza inovação, respeito, autonomia e parceria, você encontra aqui!
+Junte-se a nós e seja parte da mudança!
+RESPONSABILIDADES E ATRIBUIÇÕES
+O que esperamos que você realize:
+Desenvolver e manter aplicações web utilizando as tecnologias mencionadas.
+Desenvolver e manter aplicações web utilizando as tecnologias mencionadas.
+Colaborar com a equipe de desenvolvimento para projetar e implementar novos recursos.
+Colaborar com a equipe de desenvolvimento para projetar e implementar novos recursos.
+Realizar testes de unidade e integração.
+Realizar testes de unidade e integração.
+Garantir a qualidade do código através de revisões e análises.
+Garantir a qualidade do código através de revisões e análises.
+Trabalhar em ambientes de contêineres como Docker e Kubernates.
+Trabalhar em ambientes de contêineres como Docker e Kubernates.
+Implementar e manter a segurança das aplicações.
+Implementar e manter a segurança das aplicações.
+
+
+REQUISITOS E QUALIFICAÇÕES
+O que precisamos que você tenha de conhecimento:
+Requisitos essenciais:
+Experiência comprovada como desenvolvedor Full Stack.
+Experiência comprovada como desenvolvedor Full Stack.
+Conhecimento sólido em Quarkus, Angular 10+ e JS, Mockito, Junit, Sonar, Rancher, Argus, Hibernate, DB2, Openshift, Jenkins, Git, Jasmine, Grafeno, Java, Javascript, Typescript, HTML5, CSS, primeng, bb-dls Microservice, JWT, Docker, Kubernates, Argus, AWS, Jboss e Tomcat.
+Conhecimento sólido em Quarkus, Angular 10+ e JS, Mockito, Junit, Sonar, Rancher, Argus, Hibernate, DB2, Openshift, Jenkins, Git, Jasmine, Grafeno, Java, Javascript, Typescript, HTML5, CSS, primeng, bb-dls Microservice, JWT, Docker, Kubernates, Argus, AWS, Jboss e Tomcat.
+Capacidade de trabalhar de forma independente e em equipe.
+Capacidade de trabalhar de forma independente e em equipe.
+Excelentes habilidades de comunicação.
+Excelentes habilidades de comunicação.
+Formação em Ciência da Computação, Engenharia de Software ou área relacionada.
+Formação em Ciência da Computação, Engenharia de Software ou área relacionada.
+INFORMAÇÕES ADICIONAIS
+O que te oferecemos:
+🍛 Vale Alimentação ou Vale Refeição;
+🍛 
+Vale Alimentação ou Vale Refeição;
+👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas; 
+Desconto em cursos, universidades e instituições de idiomas; 
+📚 Academia Stefanini - plataforma com cursos online, gratuitos, atualizados e com certificado; 
+📚 
+Academia Stefanini - plataforma com cursos online, gratuitos, atualizados e com certificado; 
+🗣 Mentoring;
+🗣 
+Mentoring;
+💉 Clube de vantagens para consultas e exames;
+Clube de vantagens para consultas e exames;
+🏥 Assistência Médica;
+Assistência Médica;
+🦷Assistência Odontológica; 
+Assistência Odontológica; 
+💰 Clube de vantagens e descontos nos melhores estabelecimentos;
+Clube de vantagens e descontos nos melhores estabelecimentos;
+🛫 Clube de viagens;
+Clube de viagens;
+🐶 Convênio para Pet;
+Convênio para Pet;
+e muito mais...
+e muito mais...
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Bate papo com Gente & Cultura2Bate papo com Gente & Cultura
+Etapa 2: Bate papo com Gente & Cultura
+2
+Bate papo com Gente & Cultura
+Etapa 3: Bate papo com Gestão3Bate papo com Gestão
+Etapa 3: Bate papo com Gestão
+3
+Bate papo com Gestão
+Etapa 4: Contratação4Contratação
+Etapa 4: Contratação
+4
+Contratação
+WE ARE STEFANINI
+Somos uma multinacional brasileira com mais de 30 anos de atuação no ecossistema de inovação. 
+Entregamos soluções eficazes que auxiliam os nossos clientes em suas jornadas digitais, sempre aplicando o nosso propósito de tornar a tecnologia um agente de mudança para um mundo melhor. Você quer transformar o futuro? A gente também. 🚀
+Entregamos soluções eficazes que auxiliam os nossos clientes em suas jornadas digitais, sempre aplicando o nosso propósito de tornar a tecnologia um agente de mudança para um mundo melhor. Você quer transformar o futuro? A gente também. 🚀
+| + de 40 países | + de 30 empresas no Grupo | + de 30 mil colaboradores | + de 80 soluções |
+7 pilares guiam a nossa cultura, são eles:
+⭐ Inovar com o cliente;
+⭐ Inovar com o cliente;
+⭐ Fazer a diferença;
+⭐ Fazer a diferença;
+⭐ Liderar pelo exemplo;
+⭐ Liderar pelo exemplo;
+⭐ Agir como empreendedor;
+⭐ Agir como empreendedor;
+⭐ Ser ético e de acordo com o que fala;
+⭐ Ser ético e de acordo com o que fala;
+⭐ Acreditar e respeitar as pessoas;
+⭐ Acreditar e respeitar as pessoas;
+⭐ Ter humildade em aprender.
+⭐ Ter humildade em aprender.
+Acreditamos que a verdadeira mudança só pode ser alcançada quando observamos o mundo por diferentes perspectivas, aqui a inovação floresce em uma atmosfera de respeito mútuo, em que as ideias são ouvidas e valorizadas independentemente de raça, cor, orientação sexual, ascendência, religião, gênero, nacionalidade, identidade de gênero, deficiência ou idade. 💙 #WeAreStefanini #OrgulhoDeSerStefanini #CarreiraStefanini
+Acreditamos que a verdadeira mudança só pode ser alcançada quando observamos o mundo por diferentes perspectivas, aqui a inovação floresce em uma atmosfera de respeito mútuo, em que as ideias são ouvidas e valorizadas independentemente de raça, cor, orientação sexual, ascendência, religião, gênero, nacionalidade, identidade de gênero, deficiência ou idade. 💙 
+🏆 Prêmio Innovative Workplaces Brasil 2023 pela MIT Technology Review Brasil.
+CONFIRA NOSSAS REDES SOCIAIS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

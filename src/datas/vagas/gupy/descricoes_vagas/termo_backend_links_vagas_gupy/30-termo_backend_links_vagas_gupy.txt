@@ -1,0 +1,132 @@
+link_vaga-https://seazonecareers.gupy.io/job/eyJqb2JJZCI6Nzk3NjA4Miwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR(A) DE SOFTWARE BACKEND SÊNIOR
+Tipo de vaga: Pessoa jurídicaPessoa jurídica
+Tipo de vaga: Pessoa jurídica
+Pessoa jurídica
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Como é fazer parte da equipe Seazone?
+Fazer parte dessa equipe significa que você ajudará a compor o time da maior empresa nacional parceira do Airbnb e uma das Top 20 Startups do LinkedIn, somando ao nosso propósito de trazer inovação e tecnologia para o mercado de aluguel por temporada com o objetivo de maximizar a rentabilidade de clientes proprietários e investidores, além de garantir uma excelente experiência ao hóspede que escolhe os imóveis Seazone como o seu destino fora de casa 🚀
+O que a Seazone Tecnologia faz? 
+Esse time é um dos grandes responsáveis pelo crescimento exponencial da nossa startup, sendo dividido nas equipes de Dados, Desenvolvimento Web e Processos. Através delas, conseguimos extrair dados de diversas plataformas de locação por temporada à nível nacional, compreendendo quais são as melhores regiões para avançarmos com o nosso serviço de gestão de imóveis e para estruturarmos novos empreendimentos. Além disso, desenvolvemos e aprimoramos diariamente nosso próprio site de reservas e um sistema de administração de propriedades para que os proprietários tenham acesso em tempo real aos índices de locação do seu imóvel, assim como consiga bloquear a agenda em momentos em que ele queira utilizá-lo. Portanto, é através da tecnologia que fazemos desde a automatização de todos os nossos processos internos até a tomada de grandes decisões sobre o avanço do nosso modelo de negócio, praticando nossos valores de uso de dados, excelência, transparência e foco no cliente.
+RESPONSABILIDADES E ATRIBUIÇÕES
+💼 O que você vai fazer 
+Definição de Arquitetura de Sistemas e Serviços do Time Web
+Definição de Arquitetura de Sistemas e Serviços do Time Web
+Integração com plataformas externas
+Integração com plataformas externas
+Desenvolvimento de APIs para conexão entre Backend e Frontend
+Desenvolvimento de APIs para conexão entre Backend e Frontend
+Testes unitários em código em nível de backend
+Testes unitários em código em nível de backend
+REQUISITOS E QUALIFICAÇÕES
+🔍 O que esperamos de você:
+Conhecimento em Python e seus frameworks (DJango, FastAPI)
+Conhecimento em Python e seus frameworks (DJango, FastAPI)
+Conhecimento em Metodologias Ágeis
+Conhecimento em Metodologias Ágeis
+Conhecimento em Cloud (AWS)
+Conhecimento em Cloud (AWS)
+Conhecimento em Github
+Conhecimento em Github
+Conhecimento em Frameworks de Testes Unitários
+Conhecimento em Frameworks de Testes Unitários
+Conhecimento em Plataformas de CI/CD
+Conhecimento em Plataformas de CI/CD
+Conhecimento em Plataformas de monitoramento de sistemas
+Conhecimento em Plataformas de monitoramento de sistemas
+INFORMAÇÕES ADICIONAIS
+Incentivos
+🍽️ Auxílio alimentação - Caju no valor de R$ 462,00;
+🩺 Plano de saúde após 6 meses como PJ na Seazone;
+💰 Fixo + Bonificação de acordo com o atingimento de metas;
+🚀 Avaliações semestrais com a perspectiva de crescimento;
+🗣️ Cultura de Feedback;
+🎂 Day-off de aniversário;
+⏸️Recesso maternidade / paternidade;
+⏸️Recesso maternidade / paternidade;
+💰 Bônus por indicação;
+✈️ Descontos em hospedagens pelo nosso site de reservas;
+🏝️Hospedagem em Florianópolis (SC) para o evento de comemoração do aniversário da Seazone;
+🖥️ Escritório disponível para coworking em Florianópolis (SC).
+
+Parcerias
+🏋️‍♀️ Parceria com a Gympass;
+🏋️‍♀️ Parceria com a Gympass;
+📚 Parceria com Escolas de Idiomas;
+📚 Parceria com Escolas de Idiomas;
+📓Parceria com a ACATE - descontos em mensalidades universitárias, entre outras vantagens;
+📓Parceria com a ACATE - descontos em mensalidades universitárias, entre outras vantagens;
+🧠 Parceria com a Conexa Saúde e Psicologia Viva - Telemedicina 24h;
+🧠 Parceria com a Conexa Saúde e Psicologia Viva - Telemedicina 24h;
+🐾Parceria com a Guapeco - Plano de Saúde Pet.
+🐾Parceria com a Guapeco - Plano de Saúde Pet.
+Sobre a contratação
+💼Contrato no modelo PJ;
+💼
+👨‍💻Trabalho Remoto;
+👨‍💻
+🌴Pausa remunerada de 15 dias a cada 6 meses de contrato.
+🌴
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Teste de Lógica2Teste de Lógica
+Etapa 2: Teste de Lógica
+2
+Teste de Lógica
+Etapa 3: Teste de Perfil3Teste de Perfil
+Etapa 3: Teste de Perfil
+3
+Teste de Perfil
+Etapa 4: Entrevista de Fit Cultural 4Entrevista de Fit Cultural 
+Etapa 4: Entrevista de Fit Cultural 
+4
+Entrevista de Fit Cultural 
+Etapa 5: Entrevista Técnica5Entrevista Técnica
+Etapa 5: Entrevista Técnica
+5
+Entrevista Técnica
+Etapa 6: Entrevista Final6Entrevista Final
+Etapa 6: Entrevista Final
+6
+Entrevista Final
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+QUEM SOMOS?
+Fundada em 2018, a Seazone descomplica e transforma o aluguel por temporada. Conectamos pessoas a novos destinos e maximizamos o potencial de imóveis para seus proprietários.
+Fundada em 2018, 
+a Seazone descomplica e transforma o aluguel por temporada. Conectamos pessoas a novos destinos e maximizamos o potencial de imóveis para seus proprietários.
+O que entregamos:
+🔹 Gestão completa: Anúncio, acompanhamento, atendimento e suporte ao hóspede.
+🔹 
+ Anúncio, acompanhamento, atendimento e suporte ao hóspede.
+🔹 Experiência única: Padrão de qualidade que garante uma estadia confortável, cuidando dos mínimos detalhes.
+🔹 
+ Padrão de qualidade que garante uma estadia confortável, cuidando dos mínimos detalhes.
+Como nos destacamos:
+🔸 Liderança no mercado: Empresa mais tecnológica do mercado e líder em faturamento para proprietários no Airbnb no Brasil.
+🔸
+Empresa mais tecnológica do mercado e líder em faturamento para proprietários no Airbnb no Brasil.
+🔸 Investimentos: Estruturamos empreendimentos assertivos nos destinos turísticos mais desejados, oferecendo excelentes oportunidades de investimento.
+ Estruturamos empreendimentos assertivos nos destinos turísticos mais desejados, oferecendo excelentes oportunidades de investimento.
+Nossa missão:
+Transformar o mercado imobiliário de aluguel por temporada com tecnologia, oferecendo a melhor experiência ao hóspede e maximizando os retornos dos proprietários.
+Transformar o mercado imobiliário de aluguel por temporada com tecnologia, oferecendo a melhor experiência ao hóspede e maximizando os retornos dos proprietários.
+Nossa visão:
+Ser o maior e melhor grupo de tecnologia no mercado imobiliário de aluguel por temporada digital do Brasil, com gestão inteligente e integrada.
+Ser o maior e melhor grupo de tecnologia no mercado imobiliário de aluguel por temporada digital do Brasil, com gestão inteligente e integrada.
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Instagram

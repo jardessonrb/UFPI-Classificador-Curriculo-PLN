@@ -1,0 +1,112 @@
+link_vaga-https://globo.gupy.io/job/eyJqb2JJZCI6Nzg4NDkzOCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+CIENTISTA DE DADOS SÊNIOR | DATA & AI
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+O Hub Digital faz parte da nossa área de Estratégia e Tecnologia, tendo papel de destaque na nossa transformação em uma empresa media tech e D2C. Aqui cuidamos da gestão de dados e do desenvolvimento dos nossos produtos digitais como Globoplay, Globo.com, família G (G1, Ge, Gshow) e Cartola, visando a melhor experiência de consumo, interação e relacionamento com os nossos usuários.
+A frente de Data & AI desenvolve as plataformas de dados, experimentação, machine learning, recomendação e segmentação de audiência para os produtos digitais da Globo (Globoplay, G1, GE, GShow, etc).
+Essas plataformas são base para entrega de conteúdo para mais de 100 milhões de usuários todo mês. Também são usadas para criação e evolução dos nossos modelos para predição de churn/prospecção/afinidades/anomalias, modelos extração de metadados para publicidade contextual, modelos de inferência de relações, entidades e propriedades em nosso grafo de usuários, modelos otimização de inventário de publicidade, de otimização de cache para distribuição e playback de vídeos, entre outros.
+Criamos ambientes onde todas as pessoas são incluídas, acolhidas e valorizadas. Nos empenhamos em ser uma Globo cada vez mais diversa, em representatividade e pensamento, aprendendo uns com os outros e estimulando a criatividade e inovação. 
+Modelo de trabalho: Híbrido (RJ, SP. POA, BH, Recife ou Brasília) ou Remoto (demais cidades do Brasil).  
+RESPONSABILIDADES E ATRIBUIÇÕES
+Como será seu dia a dia:  
+  
+Realizar análises em grandes e ricos conjuntos de dados para extrair insights acionáveis que ajudarão na tomada de decisão visando objetivos de negócio;
+Trabalhar em time multidisciplinar colaborando com outros cientistas de dados, engenheiros de machine learning, desenvolvedores, POs e engenheiros de dados para ajudar na formulação e avaliação de hipóteses que apoiem o desenvolvimento do produto;
+Defender a tomada de decisões orientada por dados, fornecendo recomendações para aprimorar o desempenho e a experiência do usuário;
+Construir, produtizar, avaliar e dar manutenção a modelos de Machine Learning visando o aumento de engajamento, retenção e entendimento do comportamento dos usuários.
+REQUISITOS E QUALIFICAÇÕES
+Do que você precisa: 
+ 
+Experiência comprovada como Cientista de Dados;
+Graduação em Ciência de Dados, Estatística, Matemática, Ciência da Computação ou Engenharias;
+Proficiência em Python e SQL para análise e modelagem de dados;
+Ter trabalhado com computação em nuvem (GCP e AWS);
+Experiência com manipulação de grandes volumes de dados;
+Sólido conhecimento sobre conceitos e técnicas estatísticas (distribuições estatísticas, testes de hipótese, estatística multivariada, entre outros);
+Experiência em técnicas tradicionais de Machine Learning (classificação, regressão, séries temporais, entre outras);
+Vivência com frameworks de Machine Learning (TensorFlow; Keras; Scikit Learn; PyTorch);
+Boa capacidade de comunicar insights baseadas em dados de forma clara, objetiva e assertiva;
+Ter conhecimento em ferramentas de versionamento de código (git).
+﻿Conhecimentos que te destacam:   
+  
+ 
+Experiência em empresas de mídia digital, especialmente suportada por publicidade;
+Pós-graduação com foco em Machine Learning;
+Vivência com arquiteturas de Deep Learning (Transformers; CNNs; RNNs; AutoEncoders; LLMs);
+Experiências com produtificação de modelos de Machine Learning;
+Conhecimento de ferramentas e práticas de MLOPs (Docker/Kubernetes; Vertex pipelines; Model Monitoring; Continuous Traning);
+Inglês intermediário (escrita, leitura e conversação);
+Experiência com Google Cloud Platform (BigQuery, Vertex AI, Dataflow etc).
+INFORMAÇÕES ADICIONAIS
+Por que vir para Globo:  
+Vem e vamos criar histórias e tecnologias juntos.
+Na Globo, o encontro de histórias com tecnologia move um time diverso e apaixonado por inovação.
+A gente tem a chance de aproximar os brasileiros, criando novas formas de se conectar com eles.
+Aqui, cada um faz a transformação acontecer.
+Nossos processos seletivos estão acontecendo de forma 100% remota. #vempraglobo  
+  
+Seguindo o compromisso de contribuir para um ambiente seguro para nossas pessoas, informamos que ter o esquema completo vacinação contra a Covid-19 é uma condição obrigatória para o trabalho na Globo, presencial ou a distância, e que o comprovante deverá ser apresentado como pré-requisito para a contratação.  
+Quer saber mais sobre como é trabalhar na Globo? Vem acompanhar nosso dia a dia, desafios e conquistas nas nossas redes: 
+https://www.linkedin.com/company/globo  
+  
+https://www.instagram.com/vempraglobo   
+   
+https://www.youtube.com/c/VemPraGlobo/  
+Os seus dados pessoais serão utilizados para fins de seleção de candidatos para preenchimento das vagas abertas na Globo. Os dados pessoais coletados durante o processo seletivo dos candidatos que não forem admitidos neste momento poderão ser mantidos nos bancos de dados para consideração em futuros processos seletivos. Todos os dados coletados serão tratados segundo rígidos padrões de segurança da informação e em total respeito às leis de privacidade aplicáveis, incluindo a Lei 13.709/18, e nos termos de nossa política de privacidade, disponível no link: https://vempraglobo.g.globo/files/politica_de_privacidade.pdf 
+Ao prosseguir você está ciente e de acordo para realização de sua candidatura nestes termos. 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Bate-Papo Inicial 3Bate-Papo Inicial 
+Etapa 3: Bate-Papo Inicial 
+3
+Bate-Papo Inicial 
+Etapa 4: Avaliação Técnica4Avaliação Técnica
+Etapa 4: Avaliação Técnica
+4
+Avaliação Técnica
+Etapa 5: Apresentação do Case Técnico5Apresentação do Case Técnico
+Etapa 5: Apresentação do Case Técnico
+5
+Apresentação do Case Técnico
+Etapa 6: Análise Final6Análise Final
+Etapa 6: Análise Final
+6
+Análise Final
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+✨SOMOS GLOBO✨
+A Globo é feita de gente que quer fazer diferente, fazer junto, fazer o futuro. Gente espalhada por todo o país (e mundo!) trabalhando com conteúdo, notícias, negócios, tecnologia, tudo isso com brasilidade e talento de sobra.
+A Globo é feita de gente que quer fazer diferente, fazer junto, fazer o futuro. Gente espalhada por todo o país (e mundo!) trabalhando com conteúdo, notícias, negócios, tecnologia, tudo isso com brasilidade e talento de sobra.
+Canais na TV aberta e por assinatura, produtos digitais como Globoplay, Cartola, G1, Ge, Gshow e outros serviços estão reunidos no mesmo lugar.
+Canais na TV aberta e por assinatura, produtos digitais como Globoplay, Cartola, G1, Ge, Gshow e outros serviços estão reunidos no mesmo lugar.
+Na Globo, o encontro de histórias com tecnologia move um time diverso e apaixonado por inovação.  
+A gente tem a chance de aproximar os brasileiros, criando novas formas de se conectar com eles.  
+Aqui, cada um faz a transformação acontecer. 
+Quer fazer parte dessa transformação também? 
+Quer fazer parte dessa transformação também? 
+#VemPraGlobo ;)
+#VemPraGlobo ;)
+ACOMPANHE A GENTE 😉
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

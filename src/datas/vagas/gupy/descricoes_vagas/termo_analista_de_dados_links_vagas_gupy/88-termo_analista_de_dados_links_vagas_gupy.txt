@@ -1,0 +1,133 @@
+link_vaga-https://querodelivery.gupy.io/job/eyJqb2JJZCI6ODAxNDM1Niwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE DADOS PLENO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+DESCRIÇÃO DA VAGA
+Buscamos um Profissional dinâmico, comunicativo, habilidoso com números e que auxilie na implementação de uma cultura data driven com a criação de estudos que vão entender o comportamento de compra do usuário, tratamentos de dados e outros sistemas de relatórios, para auxílio e direcionamento dos times nas tomadas de decisão. 
+Profissional dinâmico, comunicativo, habilidoso com números e que auxilie na implementação de uma cultura data driven com a criação de estudos que vão entender o comportamento de compra do usuário, tratamentos de dados e outros sistemas de relatórios, para auxílio e direcionamento dos times nas tomadas de decisão. 
+Se o novo te desafia e o conhecimento te inspira, bora! #VemserQuerolabs. 💜
+Se o novo te desafia e o conhecimento te inspira, bora! #VemserQuerolabs. 💜
+RESPONSABILIDADES E ATRIBUIÇÕES
+RESPONSABILIDADES:
+Desenvolver, implementar e otimizar modelos de machine learning para soluções de previsão e classificação;
+Desenvolver, implementar e otimizar modelos de machine learning para soluções de previsão e classificação;
+Realizar análises exploratórias de grandes volumes de dados (estruturados e não estruturados) para identificar padrões e insights relevantes para o negócio;
+Realizar análises exploratórias de grandes volumes de dados (estruturados e não estruturados) para identificar padrões e insights relevantes para o negócio;
+Utilizar técnicas de mineração de dados e estatística avançada para dar suporte na tomada de decisões estratégicas;
+Utilizar técnicas de mineração de dados e estatística avançada para dar suporte na tomada de decisões estratégicas;
+Realizar monitoramento e manutenção contínua dos modelos implantados, garantindo sua performance e acurácia ao longo do tempo;
+Realizar monitoramento e manutenção contínua dos modelos implantados, garantindo sua performance e acurácia ao longo do tempo;
+Desenvolver e manter pipelines de dados para automação de processos analíticos e garantir a integridade dos dados utilizados nos modelos;
+Desenvolver e manter pipelines de dados para automação de processos analíticos e garantir a integridade dos dados utilizados nos modelos;
+Elaborar dashboards e relatórios claros e concisos, comunicando resultados para stakeholders técnicos e não-técnicos;
+Elaborar dashboards e relatórios claros e concisos, comunicando resultados para stakeholders técnicos e não-técnicos;
+Colaborar com times multidisciplinares (tech, produto, comercial, marketing) para transformar dados brutos em soluções práticas e escaláveis.
+Colaborar com times multidisciplinares (tech, produto, comercial, marketing) para transformar dados brutos em soluções práticas e escaláveis.
+REQUISITOS E QUALIFICAÇÕES
+REQUISITOS E QUALIFICAÇÕES: 
+Graduação concluída ou em andamento a partir do 5˚ período em Engenharias, Sistemas de Informação, Ciência da Computação, áreas equivalentes ou conhecimento prático e teórico equivalente.
+Graduação concluída ou em andamento a partir do 5˚ período em Engenharias, Sistemas de Informação, Ciência da Computação, áreas equivalentes ou conhecimento prático e teórico equivalente.
+Proficiência em Python (com bibliotecas como scikit-learn, pandas, numpy e scipy);
+Proficiência em Python (com bibliotecas como scikit-learn, pandas, numpy e scipy);
+Experiência prática com modelagem preditiva e algoritmos de machine learning (ex.: regressão linear/logística, árvores de decisão, SVM, Random Forest, XGBoost);
+Experiência prática com modelagem preditiva e algoritmos de machine learning (ex.: regressão linear/logística, árvores de decisão, SVM, Random Forest, XGBoost);
+Experiência em mineração de dados e preparação de dados para modelos de machine learning;
+Experiência em mineração de dados e preparação de dados para modelos de machine learning;
+Conhecimento em frameworks de machine learning e deep learning (como TensorFlow, Keras ou PyTorch);
+Conhecimento em frameworks de machine learning e deep learning (como TensorFlow, Keras ou PyTorch);
+Experiência em trabalhar com bancos de dados relacionais (MySQL, PostgreSQL) e não-relacionais (MongoDB);
+Experiência em trabalhar com bancos de dados relacionais (MySQL, PostgreSQL) e não-relacionais (MongoDB);
+Sólidos conhecimentos em estatística descritiva e inferencial para análise de dados;
+Sólidos conhecimentos em estatística descritiva e inferencial para análise de dados;
+Conhecimento em técnicas de visualização de dados e uso de ferramentas como Tableau ou PowerBI;
+Conhecimento em técnicas de visualização de dados e uso de ferramentas como Tableau ou PowerBI;
+Capacidade de construir e documentar pipelines de dados e monitorar a qualidade dos dados ao longo do processo;
+Capacidade de construir e documentar pipelines de dados e monitorar a qualidade dos dados ao longo do processo;
+Experiência com ferramentas de versionamento de código (ex.: GitHub) e práticas de desenvolvimento colaborativo;
+Experiência com ferramentas de versionamento de código (ex.: GitHub) e práticas de desenvolvimento colaborativo;
+Capacidade de interpretar, apresentar e explicar resultados dos modelos de forma clara e objetiva para diferentes públicos.
+Capacidade de interpretar, apresentar e explicar resultados dos modelos de forma clara e objetiva para diferentes públicos.
+ Será um diferencial: 
+﻿
+﻿
+Conhecimento em serviços de computação em nuvem (AWS) para deployment e escalabilidade de modelos;
+Conhecimento em serviços de computação em nuvem (AWS) para deployment e escalabilidade de modelos;
+Experiência com técnicas de GenAI (LLMs, RAG e Embedding) para análises e classificação de dados textuais;
+Experiência com técnicas de GenAI (LLMs, RAG e Embedding) para análises e classificação de dados textuais;
+Conhecimento em técnicas de modelagem de séries temporais e utilização de modelos como o ARIMA, Prophet ou LSTM;
+Conhecimento em técnicas de modelagem de séries temporais e utilização de modelos como o ARIMA, Prophet ou LSTM;
+Familiaridade com práticas MLOps para desenvolvimento e implantação de pipelines automatizados de machine learning;
+Familiaridade com práticas MLOps para desenvolvimento e implantação de pipelines automatizados de machine learning;
+Conhecimento em técnicas avançadas de clusterização e redução de dimensionalidade (PCA ou t-SNE);
+Conhecimento em técnicas avançadas de clusterização e redução de dimensionalidade (PCA ou t-SNE);
+Experiência com metodologias ágeis (Scrum/Kanban) para gestão de projetos.
+Experiência com metodologias ágeis (Scrum/Kanban) para gestão de projetos.
+INFORMAÇÕES ADICIONAIS
+Nossos benefícios:
+🍴 Cartão de Benefícios Caju;
+Cartão de Benefícios Caju;
+🚑 Plano de Saúde Sul América cobertura custeada pela Quero Delivery;
+Plano de Saúde Sul América cobertura custeada pela Quero Delivery;
+❤️ Seguro de Vida da Porto Seguro;
+ Seguro de Vida da Porto Seguro;
+👨‍👧‍👦 Licença Paternidade Estendida;
+👨‍👧‍👦 Licença Paternidade Estendida;
+🎉 Folga tempo de Casa;
+🎉 Folga tempo de Casa;
+🥳 Day Off de Aniversário;
+Day Off de Aniversário;
+🏋️ Gympass, plataforma de atividade física;
+Gympass, plataforma de atividade física;
+📚 Alura, plataforma de cursos para seu desenvolvimento profissional;
+📚 Alura, plataforma de cursos para seu desenvolvimento profissional;
+📝 Parceria com a instituição de ensino Estácio.
+📝 Parceria com a instituição de ensino Estácio.
+✔️Formato de Atuação: Modelo presencial em Lagarto/SE.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Teste técnico 2Teste técnico 
+Etapa 2: Teste técnico 
+2
+Teste técnico 
+Etapa 3: Entrevista técnica - Time TECH3Entrevista técnica - Time TECH
+Etapa 3: Entrevista técnica - Time TECH
+3
+Entrevista técnica - Time TECH
+Etapa 4: Envio de proposta QueroLabs4Envio de proposta QueroLabs
+Etapa 4: Envio de proposta QueroLabs
+4
+Envio de proposta QueroLabs
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+QUERO DELIVERY, O APP MAIS QUERIDO DO INTERIOR DO BRASIL 💜🚀
+Somos um aplicativo de Delivery 100% Sergipano e claro nordestino arretado, nasci da ideia que facilitasse a vida das pessoas. Desde então, venho crescendo. Até chegar a outras cidades e estados do Brasil. 
+Somos um aplicativo de Delivery 100% Sergipano e claro nordestino arretado, nasci da ideia que facilitasse a vida das pessoas. Desde então, venho crescendo. Até chegar a outras cidades e estados do Brasil. 
+Te convido a fazer parte de uma das melhores empresas para se trabalhar certificada pela GPTW, aqui você terá oportunidade de se desenvolver, a liberdade de criar e o desafio para inovar. 
+Te convido a fazer parte de uma das melhores empresas para se trabalhar certificada pela GPTW, aqui você terá oportunidade de se desenvolver, a liberdade de criar e o desafio para inovar. 
+Sonhamos Grande, temos fome!
+Sonhamos Grande, temos fome!
+Nós,QueroLabs, temos fome de tecnologia, de resultado positivo e que impacte positivamente a vida das pessoas! 
+Nós,QueroLabs, temos fome de tecnologia, de resultado positivo e que impacte positivamente a vida das pessoas! 
+Queremos sempre estar perto de você, com responsabilidade e entregando o melhor para sua vida!
+Queremos sempre estar perto de você, com responsabilidade e entregando o melhor para sua vida!
+Temos fome de empatia, equidade e diversidade, sempre focados em viabilizar a melhor experiência pra você, Usuário. E também, para nosso colaborador, garantindo um ambiente com muito respeito, colaboração e agilidade. 
+Temos fome de empatia, equidade e diversidade, sempre focados em viabilizar a melhor experiência pra você, Usuário. E também, para nosso colaborador, garantindo um ambiente com muito respeito, colaboração e agilidade. 
+E o mais importante nisso tudo, é o nosso motivo de existir, as pessoas, seja você colaborador, cliente, parceiro ou afiliado. Vem conosco! 🤝
+E o mais importante nisso tudo, é o nosso motivo de existir, as pessoas, seja você colaborador, cliente, parceiro ou afiliado. Vem conosco! 🤝
+
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

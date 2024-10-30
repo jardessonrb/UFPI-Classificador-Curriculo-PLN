@@ -1,0 +1,85 @@
+link_vaga-https://granado.gupy.io/job/eyJqb2JJZCI6NzgyMjM1MSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE DADOS
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Granado | Phebo abre as portas para você!
+Estamos em busca de um Analista de Dados para fazer parte da nossa equipe. Se você é uma pessoa organizada, dinâmica e comprometida, esta pode ser a oportunidade perfeita para você. Como Analista de Dados você será responsável por explorar e analisar grandes volumes de dados de diversas fontes, transformando-os em insights relevantes para o negócio.
+Estamos em busca de um 
+para fazer parte da nossa equipe. Se você é uma pessoa organizada, dinâmica e comprometida, esta pode ser a oportunidade perfeita para você. Como Analista de Dados você será responsável por e
+RESPONSABILIDADES E ATRIBUIÇÕES
+ Explorar e analisar grandes volumes de dados de diversas fontes, transformando-os em insights relevantes para o negócio; Desenvolver dashboards e relatórios interativos no Power BI, oferecendo visões claras e acionáveis; Integrar dados de diferentes sistemas e plataformas, assegurando a consistência e qualidade das informações; Auxiliar na preparação, limpeza e transformação dos dados para análise; Colaborar com equipes de negócios para entender suas necessidades e traduzir isso em soluções analíticas eficientes; Manter e atualizar as visualizações de dados regularmente para refletir as mudanças de negócios e novos requisitos; Monitorar e otimizar o desempenho dos relatórios e consultas, garantindo a eficiência das entregas; Manter a documentação de processos e fluxos de dados, garantindo a clareza na interpretação das soluções analíticas.
+ Explorar e analisar grandes volumes de dados de diversas fontes, transformando-os em insights relevantes para o negócio;
+ Desenvolver dashboards e relatórios interativos no Power BI, oferecendo visões claras e acionáveis;
+ Integrar dados de diferentes sistemas e plataformas, assegurando a consistência e qualidade das informações;
+ Auxiliar na preparação, limpeza e transformação dos dados para análise;
+ Colaborar com equipes de negócios para entender suas necessidades e traduzir isso em soluções analíticas eficientes;
+ Manter e atualizar as visualizações de dados regularmente para refletir as mudanças de negócios e novos requisitos;
+ Monitorar e otimizar o desempenho dos relatórios e consultas, garantindo a eficiência das entregas;
+ Manter a documentação de processos e fluxos de dados, garantindo a clareza na interpretação das soluções analíticas.
+REQUISITOS E QUALIFICAÇÕES
+ Ensino superior completo em áreas relacionadas a dados (Estatística, Matemática, Ciência de Dados, TI ou correlatos); Experiência com exploração e análise de dados em plataformas de dados; Conhecimento em manipulação de dados com SQL; Experiência com Python; Experiência em Power BI; Experiência com modelagem e estruturação de dados para análises; Familiaridade com tecnologias de armazenamento de dados e integração de múltiplas fontes; Habilidade em transformar dados brutos em insights e narrativas claras para Stakeholders; Excelentes habilidades de comunicação e colaboração, com capacidade de traduzir necessidades de negócios em soluções analíticas;Diferenciais:Conhecimento de versionamento de código (Git) e boas práticas de segurança de dados; Conhecimento em GCP; Experiência com integrações e pipelines de dados; Experiência com automação de processos e CI/CD para análise de dados.
+ Ensino superior completo em áreas relacionadas a dados (Estatística, Matemática, Ciência de Dados, TI ou correlatos);
+ Experiência com exploração e análise de dados em plataformas de dados;
+ Conhecimento em manipulação de dados com SQL;
+ Experiência com Python;
+ Experiência em Power BI;
+ Experiência com modelagem e estruturação de dados para análises;
+ Familiaridade com tecnologias de armazenamento de dados e integração de múltiplas fontes;
+ Habilidade em transformar dados brutos em insights e narrativas claras para Stakeholders;
+ Excelentes habilidades de comunicação e colaboração, com capacidade de traduzir necessidades de negócios em soluções analíticas;
+Diferenciais:
+Conhecimento de versionamento de código (Git) e boas práticas de segurança de dados;
+ Conhecimento em GCP;
+ Experiência com integrações e pipelines de dados;
+ Experiência com automação de processos e CI/CD para análise de dados.
+INFORMAÇÕES ADICIONAIS
+Ambiente de trabalho integrado, alegre e positivo.Horário flexível, para driblar os horários de pico!Vale-Refeição para bater aquele papo legal e descontraído com os seus colegas enquanto degusta as iguarias.Plano de saúde, odontológico e seguro de vida para garantir o seu bem-estar e o da sua família. Mente sã em corpo são, sempre.Sabe todos aqueles produtos maravilhosos da Granado e da Phebo? Você poderá comprar com desconto exclusivo!Quer se desenvolver? Nosso ambiente é um estímulo a criatividade e ao desenvolvimento. Também apoiamos o aprimoramento através do Programa de o Educação Continuada com subsídios para cursos de aperfeiçoamento, graduação, pós-graduação e idiomas.Programa de Participação nos Resultados. Valorizamos e incentivamos o compromisso de quem constrói junto conosco!
+Ambiente de trabalho integrado, alegre e positivo.
+Horário flexível, para driblar os horários de pico!
+Vale-Refeição para bater aquele papo legal e descontraído com os seus colegas enquanto degusta as iguarias.
+Plano de saúde, odontológico e seguro de vida para garantir o seu bem-estar e o da sua família. Mente sã em corpo são, sempre.
+Sabe todos aqueles produtos maravilhosos da Granado e da Phebo? Você poderá comprar com desconto exclusivo!
+Quer se desenvolver? Nosso ambiente é um estímulo a criatividade e ao desenvolvimento. Também apoiamos o aprimoramento através do Programa de o Educação Continuada com subsídios para cursos de aperfeiçoamento, graduação, pós-graduação e idiomas.
+Programa de Participação nos Resultados. Valorizamos e incentivamos o compromisso de quem constrói junto conosco!
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista RH2Entrevista RH
+Etapa 2: Entrevista RH
+2
+Entrevista RH
+Etapa 3: Entrevista Gestor3Entrevista Gestor
+Etapa 3: Entrevista Gestor
+3
+Entrevista Gestor
+Etapa 4: Mapeamento de Perfil4Mapeamento de Perfil
+Etapa 4: Mapeamento de Perfil
+4
+Mapeamento de Perfil
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+É MUITA HISTÓRIA PARA CONTAR...
+Desde o século XIX a Granado atravessa gerações encantando seus consumidores com produtos de qualidade e com uma pegada sustentável. São mais de 150 anos e, desde sua fundação, a marca sempre soube manter valores sólidos e estar atenta às necessidades de seu tempo. Cresceu e rejuvenesceu sem perder a essência. 
+Em 1930, a Perfumaria Phebo foi fundada em Belém do Pará, com fragrâncias marcantes, originais e de alta qualidade. Esta tradição, aliada ao seu conhecimento, ousadia e personalidade forte, alçou a Phebo ao topo das marcas de cosméticos mais respeitadas do mercado brasileiro, tornando-se sinônimo de luxo, excelência olfativa e qualidade. 
+Acreditamos que o clássico não precisa ser antigo. Usamos cores vivas, fragrâncias atuais e ingredientes modernos em nossos produtos. 
+Nossa rica história centenária ajuda a construir um futuro inovador. Estamos presentes em cada produto desenvolvido; em cada loja inaugurada no Brasil e no exterior; em cada embalagem diferenciada e em cada olhar comprometido com o bem-estar das pessoas, com a segurança no local de trabalho e com a preservação do meio ambiente. 
+Excelência, legado e números expressivos resultam de equipes qualificadas, orgulhosas e apaixonadas pela nossa empresa, que, por sua vez, cuida e acolhe sem distinção. 
+Diariamente, somos convidados a escrever novos capítulos dessa trajetória de sucesso! Vamos juntos! 
+NOS ENCONTRE NAS REDES
+Website
+LinkedIn
+Facebook
+Instagram

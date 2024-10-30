@@ -1,0 +1,93 @@
+link_vaga-https://pagseguro.gupy.io/job/eyJqb2JJZCI6NzMxNTEyMCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ENGENHEIRO DE SOFTWARE PL. (BACKEND)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+DESCRIÇÃO DA VAGA
+Nascemos para democratizar os serviços bancários e de pagamentos!
+ 
+Pioneirismo, tecnologia, inovação e resultados sustentáveis são constantes da nossa trajetória. Lançamos a primeira maquininha de cartão sem aluguel do Brasil e ao longo dos anos seguimos evoluindo para ampliar nosso ecossistema de soluções financeiras.
+ 
+Somos o 2º maior banco digital do país e a fintech mais rentável do segmento, resultado do trabalho de um time formado por pessoas talentosas e criativas, que atuam com dedicação, paixão e vontade de fazer acontecer.
+ 
+Se você ama tecnologia, curte um bom desafio e acredita no poder da colaboração para fazer grandes entregas, o Pags é pra você! Então, confira essa oportunidade e vem pintar o Brasil de amarelo com a gente💛!
+ 
+No PagBank todas as pessoas são bem-vindas 😊, sem distinção de gênero, orientação sexual, etnia, cultura, religião, deficiência etc. O importante é você gostar de desafios, trabalhar bem em equipe, vivenciar nossa cultura e nossa missão de transformar e democratizar os serviços bancários e de pagamentos no Brasil.
+ 
+#VemProPags
+ 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Avaliar, discutir e contribuir com a definição da arquitetura de sistemas.Traduzir requisitos de negócio em arquiteturas de sistemas.Analisar, documentar, codificar, parear, revisar código, testar e entregar aplicações.Cuidar da monitoração do ambiente e criar ações proativas que garantam a saúde da plataforma.Contribuir com melhorias de processos da engenharia.Praticar melhoria contínua e contribuir com a evolução da qualidade.Construir aplicações considerando a disponibilidade, performance e segurança.Ajudar na evolução técnica de outros desenvolvedores.
+Avaliar, discutir e contribuir com a definição da arquitetura de sistemas.
+Traduzir requisitos de negócio em arquiteturas de sistemas.
+Analisar, documentar, codificar, parear, revisar código, testar e entregar aplicações.
+Cuidar da monitoração do ambiente e criar ações proativas que garantam a saúde da plataforma.
+Contribuir com melhorias de processos da engenharia.
+Praticar melhoria contínua e contribuir com a evolução da qualidade.
+Construir aplicações considerando a disponibilidade, performance e segurança.
+Ajudar na evolução técnica de outros desenvolvedores.
+REQUISITOS E QUALIFICAÇÕES
+Experiência com sistemas distribuídos e microsserviços.Experiência com linguagem de programação Java e/ou Kotlin.Experiência com cloud, como AWS.Experiência com framework Spring (Boot, Data, Cloud etc.).Experiência com Git, Gradle/Maven e ferramentas de CI/CD.Experiência com bancos de dados relacionais, como Oracle e/ou MySQL.Experiência com desenvolvimento de API REST.Experiência com arquitetura orientada a eventos (Kafka, AWS SQS, RabbitMQ etc.).Experiência com Docker.Experiência com ferramentas e práticas de monitoração de sistemas (New Relic, Grafana, ELK etc.).Experiência com automação de testes.
+Experiência com sistemas distribuídos e microsserviços.
+Experiência com linguagem de programação Java e/ou Kotlin.
+Experiência com cloud, como AWS.
+Experiência com framework Spring (Boot, Data, Cloud etc.).
+Experiência com Git, Gradle/Maven e ferramentas de CI/CD.
+Experiência com bancos de dados relacionais, como Oracle e/ou MySQL.
+Experiência com desenvolvimento de API REST.
+Experiência com arquitetura orientada a eventos (Kafka, AWS SQS, RabbitMQ etc.).
+Experiência com Docker.
+Experiência com ferramentas e práticas de monitoração de sistemas (New Relic, Grafana, ELK etc.).
+Experiência com automação de testes.
+INFORMAÇÕES ADICIONAIS
+Para se destacar nesta posição seria legal se você também tivesse:
+Experiência com metodologias ágeis.
+Experiência com bancos NoSQL (MongoDB, DynamoDB etc.).
+Experiência com testes de carga, mutação, integrado etc.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Teste 3Teste 
+Etapa 3: Teste 
+3
+Teste 
+Etapa 4: Entrevista RH4Entrevista RH
+Etapa 4: Entrevista RH
+4
+Entrevista RH
+Etapa 5: Entrevista Gestor5Entrevista Gestor
+Etapa 5: Entrevista Gestor
+5
+Entrevista Gestor
+Etapa 6: Finalistas6Finalistas
+Etapa 6: Finalistas
+6
+Finalistas
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+SOBRE NÓS
+Nascemos em 2006 para revolucionar o mercado de meios de pagamento e democratizar o acesso aos serviços financeiros.
+Nascemos em 2006 para revolucionar o mercado de meios de pagamento e democratizar o acesso aos serviços financeiros.
+Foi com a gente que os consumidores passaram a comprar e vender – dentro e fora da internet – de forma rápida, simples e segura. Fizemos história lançando a 1ª maquininha de cartão sem aluguel, possibilitando as pessoas venderem mais e em qualquer lugar 💳.
+Foi com a gente que os consumidores passaram a comprar e vender – dentro e fora da internet – de forma rápida, simples e segura. Fizemos história lançando a 1ª maquininha de cartão sem aluguel, possibilitando as pessoas venderem mais e em qualquer lugar 💳.
+Em 2019 expandimos e criamos o nosso banco digital, reforçando a nossa crença no potencial transformador da tecnologia. 
+Em 2019 expandimos e criamos o nosso banco digital, reforçando a nossa crença no potencial transformador da tecnologia. 
+Hoje somos um dos maiores bancos digitais do país e uma das fintechs mais rentáveis do segmento, resultado do trabalho de um time de mais de 7 mil profissionais.
+Hoje 
+, resultado do trabalho de um time de mais de 7 mil profissionais.
+ 
+Aqui no Pags, a pesquisa e a inovação fazem parte do nosso DNA. Compartilhamos experiências com profissionais talentosos e criativos em um ambiente colaborativo, onde o aprendizado é garantido.
+ 
+Quer fazer parte dessa história? Confira nossas vagas e #VemProPags, o banco completo. 

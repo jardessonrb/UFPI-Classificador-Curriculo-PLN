@@ -1,0 +1,170 @@
+link_vaga-https://invillia.gupy.io/job/eyJqb2JJZCI6NzI4NDUzNSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+SPEC BACKEND DEVELOPER - NODE - (100% REMOTO)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A vaga de Spec Node.JS requer um profissional com mais de quatro anos de experiência em backend NodeJS e familiaridade com NestJS. Além disso, é necessário conhecimento em bancos de dados relacionais e não-relacionais, Open API, GCP, Kubernetes, infraestrutura como código, arquiteturas como Hexagonal e Clean Architecture, protocolos de troca de informação, microserviços, mensageria, CI/CD, testes unitários, monitoramento em produção, segurança, habilidades de negociação, comunicação e liderança.
+RESPONSABILIDADES E ATRIBUIÇÕES
+O líder técnico de backend para essa equipe deve possuir uma sólida experiência de pelo menos quatro anos em projetos de grande escala, com profundo conhecimento em NodeJS e familiaridade com NestJs. Além disso, é essencial ter experiência em arquiteturas como Hexagonal e Clean Architecture, domínio de bancos de dados relacionais e não-relacionais, e habilidades em tecnologias como Kubernetes, GCP, infraestrutura como código, e protocolos de troca de informação, garantindo a liderança eficaz na definição e implementação de soluções robustas e escaláveis. Essencialmente, o líder técnico precisa não só possuir expertise técnica, mas também habilidades de liderança, comunicação e negociação para orientar a equipe de forma eficaz e resolver problemas complexos.
+REQUISITOS E QUALIFICAÇÕES
+NodeJSExperiência como backend NodeJS por pelo menos 4 anos em grandes projetos.Trabalho anterior com NestJs.Open APIExperiência na documentação de endpoints usando Open API ou Swagger 2.0+.Banco relacional/não relacional/CacheExperiência com bancos relacionais como Oracle, Postgresql, SQLServer.Experiência com bancos não-relacionais como MongoDB, Firestore, CassandraDB, DynamoDB.Experiência com cache, especialmente Redis.GCP (Google Cloud Platform)Experiência com GCP em projetos ou bastante experiência com AWS ou Azure.Infraestrutura como códigoExperiência com infraestrutura como código em projetos, preferencialmente usando Terraform ou Pulumi.KubernetesExperiência com Kubernetes em produção, preferencialmente na GCP.Desejável conhecimento no padrão sidecar para Kubernetes.Desejável conhecimento no espV2 para uso no gateway do GCP.ArquiteturaExperiência com arquiteturas como Hexagonal e Clean Architecture em grandes projetos.Experiência na definição de arquiteturas do zero.Protocolos de troca de informaçãoExperiência em REST e gRPC para troca de informações.MicroserviçosPelo menos 2 anos de experiência em grandes projetos com microserviços.MensageriaExperiência com pelo menos 1 entre Kafka, RabbitMQ, SQS/SNS, etc.CI/CDExperiência com CI/CD utilizando ferramentas como Jenkins, Github Actions, Gitlab CI, Docker.TestesExperiência com testes unitários, preferencialmente utilizando Jest.MonitoramentoExperiência com monitoramento em produção, utilizando pelo menos uma das ferramentas: New Relic, Datadog, Prometheus, ELK, Grafana, Sentry, entre outros.SegurançaExperiência em lidar com segurança nos projetos, incluindo ajuste de vulnerabilidade de libs/pacotes e prevenção de ataques XSS, OWASP, etc.NegociaçãoHabilidades de técnicas de negociação para gerenciar prazos junto ao parceiro e time.ComunicaçãoExcelente comunicação para interagir com áreas técnica e de negócios em diferentes contextos.Skill de liderança﻿Habilidades de liderança e resolução de problemas, essenciais para atuar como arquiteto de software.
+NodeJS
+NodeJS
+Experiência como backend NodeJS por pelo menos 4 anos em grandes projetos.
+Trabalho anterior com NestJs.
+Open API
+Open API
+Experiência na documentação de endpoints usando Open API ou Swagger 2.0+.
+Banco relacional/não relacional/Cache
+Banco relacional/não relacional/Cache
+Experiência com bancos relacionais como Oracle, Postgresql, SQLServer.
+Experiência com bancos não-relacionais como MongoDB, Firestore, CassandraDB, DynamoDB.
+Experiência com cache, especialmente Redis.
+GCP (Google Cloud Platform)
+GCP (Google Cloud Platform)
+Experiência com GCP em projetos ou bastante experiência com AWS ou Azure.
+Infraestrutura como código
+Infraestrutura como código
+Experiência com infraestrutura como código em projetos, preferencialmente usando Terraform ou Pulumi.
+Kubernetes
+Kubernetes
+Experiência com Kubernetes em produção, preferencialmente na GCP.
+Desejável conhecimento no padrão sidecar para Kubernetes.
+Desejável conhecimento no espV2 para uso no gateway do GCP.
+Arquitetura
+Arquitetura
+Experiência com arquiteturas como Hexagonal e Clean Architecture em grandes projetos.
+Experiência na definição de arquiteturas do zero.
+Protocolos de troca de informação
+Protocolos de troca de informação
+Experiência em REST e gRPC para troca de informações.
+Microserviços
+Microserviços
+Pelo menos 2 anos de experiência em grandes projetos com microserviços.
+Mensageria
+Mensageria
+Experiência com pelo menos 1 entre Kafka, RabbitMQ, SQS/SNS, etc.
+CI/CD
+CI/CD
+Experiência com CI/CD utilizando ferramentas como Jenkins, Github Actions, Gitlab CI, Docker.
+Testes
+Testes
+Experiência com testes unitários, preferencialmente utilizando Jest.
+Monitoramento
+Monitoramento
+Experiência com monitoramento em produção, utilizando pelo menos uma das ferramentas: New Relic, Datadog, Prometheus, ELK, Grafana, Sentry, entre outros.
+Segurança
+Segurança
+Experiência em lidar com segurança nos projetos, incluindo ajuste de vulnerabilidade de libs/pacotes e prevenção de ataques XSS, OWASP, etc.
+Negociação
+Negociação
+Habilidades de técnicas de negociação para gerenciar prazos junto ao parceiro e time.
+Comunicação
+Comunicação
+Excelente comunicação para interagir com áreas técnica e de negócios em diferentes contextos.
+Skill de liderança
+Skill de liderança
+﻿Habilidades de liderança e resolução de problemas, essenciais para atuar como arquiteto de software.
+﻿
+
+INFORMAÇÕES ADICIONAIS
+A experiência de trabalhar na Invillia é única. E global. Temos o nosso próprio jeito de conectar talentos e construir inovações.
+Revolucionamos o ambiente de trabalho #Instation + somos experts em desenvolver soluções complexas para #GameChangers + temos uma metodologia única #EngagedbyDataPeopleAction + investimos em pessoas #InvilliaAcademy
+Alguns diferenciais Invillia:
+_inovamos lado-a-lado com #GameChangersGlobais
+_cultura de trabalho distribuído #inStation
+_metodologia exclusiva #GlobalGrowthFramework
+_benefícios únicos entre as techs #InfinitePowers
+Faça uma imersão aqui https://invillia.com/
+Então, se você busca uma oportunidade de trabalhar de onde estiver, em uma empresa dedicada em recriar a sensação de proximidade, de conexão humana, e de se sentir acolhido a qualquer momento, mesmo com todos distribuídos, aqui é o lugar certo.
+Então, se você busca uma oportunidade de trabalhar de onde estiver, em uma empresa dedicada em recriar a sensação de proximidade, de conexão humana, e de se sentir acolhido a qualquer momento, mesmo com todos distribuídos, aqui é o lugar certo.
+
+Aproxime-se. A Invillia não apenas transformou a forma como as empresas mais revolucionárias do mundo criam e desenvolvem negócios e produtos digitais.
+Inovou também a maneira como apaixonadas e apaixonados por tecnologia, de qualquer lugar do planeta, podem interagir, evoluir, mais conectados do que nunca.
+Para a Invillia, não importa onde você está. Se é um país grande. Ou uma cidade pequena. E sim a sua vontade. As suas ideias. O tamanho do seu talento_
+Alguns insights sobre as pessoas que nos inspiram:
+Alguns insights sobre as pessoas que nos inspiram:
+_as com vontade, como nós, de crescer. Sem receio de ousar.
+_as com vontade, como nós, de crescer. Sem receio de ousar.
+_as que adoram aprender e ensinar.
+_as que adoram aprender e ensinar.
+_as que valorizam o trabalho próximo, independente de distâncias.
+_as que valorizam o trabalho próximo, independente de distâncias.
+_as que reconhecem a importância dos princípios ágeis e da melhoria contínua.
+_as que reconhecem a importância dos princípios ágeis e da melhoria contínua.
+_as que sabem que o inovar é coletivo. Ideias só se multiplicam com colaboração e dedicação.
+_as que sabem que o inovar é coletivo. Ideias só se multiplicam com colaboração e dedicação.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: ENTREVISTA HUNTER2ENTREVISTA HUNTER
+Etapa 2: ENTREVISTA HUNTER
+2
+ENTREVISTA HUNTER
+Etapa 3: AGUARDANDO ENTREVISTA TÉCNICA3AGUARDANDO ENTREVISTA TÉCNICA
+Etapa 3: AGUARDANDO ENTREVISTA TÉCNICA
+3
+AGUARDANDO ENTREVISTA TÉCNICA
+Etapa 4: ENTREVISTA TÉCNICA4ENTREVISTA TÉCNICA
+Etapa 4: ENTREVISTA TÉCNICA
+4
+ENTREVISTA TÉCNICA
+Etapa 5: AGUARDANDO CONVERSA COM TIME5AGUARDANDO CONVERSA COM TIME
+Etapa 5: AGUARDANDO CONVERSA COM TIME
+5
+AGUARDANDO CONVERSA COM TIME
+Etapa 6: CONVERSA COM TIME6CONVERSA COM TIME
+Etapa 6: CONVERSA COM TIME
+6
+CONVERSA COM TIME
+Etapa 7: CHECKLIST & OFFER7CHECKLIST & OFFER
+Etapa 7: CHECKLIST & OFFER
+7
+CHECKLIST & OFFER
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+{* INFINITE.DIGITAL.POWER _ TRABALHE DE QUALQUER LUGAR DO PLANETA COM GAME CHANGERS GLOBAIS_
+Se uma luz bem forte aparecer bem acima da sua cabeça, não se preocupe: somos nós. 
+Se uma luz bem forte aparecer bem acima da sua cabeça, não se preocupe: somos nós. 
+E estamos aqui para convidar você a conhecer à nossa maneira de inovar. 
+E estamos aqui para convidar você a conhecer à nossa maneira de inovar. 
+Afinal, a Invillia não apenas transformou a forma como as empresas mais revolucionárias 
+Afinal, a Invillia não apenas transformou a forma como as empresas mais revolucionárias 
+do mundo desenvolvem produtos digitais. Inovou também como apaixonadas e apaixonados 
+do mundo desenvolvem produtos digitais. Inovou também como apaixonadas e apaixonados 
+por tecnologia, de uma cidade enorme ou de um vilarejo perdido no espaço, podem interagir, 
+por tecnologia, de uma cidade enorme ou de um vilarejo perdido no espaço, podem interagir, 
+evoluir, mais conectados do que nunca_
+evoluir, mais conectados do que nunca_
+Alguns insights sobre as pessoas que nos inspiram:
+As que tem vontade, como nós, de crescer. Sem receio de ousar_ 
+As que tem vontade, como nós, de crescer. Sem receio de ousar_ 
+As que adoram aprender e ensinar_ 
+As que adoram aprender e ensinar_ 
+As que valorizam o trabalho próximo, independente de distâncias_
+As que valorizam o trabalho próximo, independente de distâncias_
+ As que reconhecem a importância dos princípios ágeis e da melhoria contínua_ 
+ As que reconhecem a importância dos princípios ágeis e da melhoria contínua_ 
+As que sabem que o inovar é coletivo. Ideias só se multiplicam com colaboração e dedicação.
+As que sabem que o inovar é coletivo. Ideias só se multiplicam com colaboração e dedicação.
+ 
+ 
+ 
+ 
+CONHEÇA MAIS SOBRE NÓS_
+Website
+LinkedIn
+Facebook
+Instagram

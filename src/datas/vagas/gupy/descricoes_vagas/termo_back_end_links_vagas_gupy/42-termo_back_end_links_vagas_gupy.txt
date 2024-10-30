@@ -1,0 +1,138 @@
+link_vaga-https://franq.gupy.io/job/eyJqb2JJZCI6Nzc4MTIzMywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA ENGENHEIRA DE SOFTWARE PLENO/SÊNIOR (BACK-END)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Vamos buscar o extraordinário juntos? 🚀
+Nossos princípios
+Falamos de pessoa para pessoa
+Falamos de pessoa para pessoa
+Buscamos o extraordinário
+Buscamos o extraordinário
+Damos vida à inovação
+Damos vida à inovação
+Nos fortalecemos com a transparência
+Nos fortalecemos com a transparência
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+O seu papel será:
+Ajudar na estruturação de toda fundação das nossas soluções;
+Desenvolver soluções e API's de integração com diversos parceiros de todo o mercado financeiro;
+Fazer parte da estruturação de nossa arquitetura distribuída, utilizando CI/CD com testes automatizados e totalmente na nuvem;
+Desenvolver as soluções integradas com um sistema de monitoramento para garantirmos performance e atuação preventiva;
+Desenvolver soluções sempre pensando em eficiência, escalabilidade e estabilidade.
+REQUISITOS E QUALIFICAÇÕES
+O que esperamos que você tenha:
+Conhecimento profundo em Python + Django;
+Conhecimento profundo em Python + Django;
+Conhecimento de Clean Code e Design Patterns;
+Conhecimento de Clean Code e Design Patterns;
+Conhecimento de Banco de Dados relacional;
+Conhecimento de Banco de Dados relacional;
+Utilizar conceitos do Git: branching, issues, pull-requests, etc;
+Utilizar conceitos do Git: branching, issues, pull-requests, etc;
+Vivência em metodologias ágeis;
+Vivência em metodologias ágeis;
+Conhecimento da stack de soluções da AWS (EKS, RDS);
+Conhecimento da stack de soluções da AWS (EKS, RDS);
+Desenvolvimento de APIs;
+Desenvolvimento de APIs;
+Desenvolvimento de soluções baseadas em eventos.
+Desenvolvimento de soluções baseadas em eventos.
+
+Você irá se destacar se tiver:
+Conhecimento de soluções serverless e conceito FaaS; 
+Conhecimento de soluções serverless e conceito FaaS; 
+Conhecimento em configuração de arquitetura de sistemas na AWS; 
+Conhecimento em configuração de arquitetura de sistemas na AWS; 
+Experiência com pipelines de ETL;
+Experiência com pipelines de ETL;
+Conhecimento nas linguagens: Node.js ou Go; 
+Conhecimento nas linguagens: Node.js ou Go; 
+Conhecimento em TDD; 
+Conhecimento em TDD; 
+Conhecimento em Data Storage e Data Architecture; 
+Conhecimento em Data Storage e Data Architecture; 
+Inglês (leitura e escrita);
+Inglês (leitura e escrita);
+Desenvolvimento de testes automatizados e prática de code reviews pois queremos sempre garantir a máxima qualidade e segurança das nossas entregas.
+Desenvolvimento de testes automatizados e prática de code reviews pois queremos sempre garantir a máxima qualidade e segurança das nossas entregas.
+INFORMAÇÕES ADICIONAIS
+Aqui na Franq você vai:
+Atuar com um time de profissionais experientes e renomados do mercado financeiro;
+Atuar com um time de profissionais experientes e renomados do mercado financeiro;
+Desenvolver, evoluir e aprender habilidades com as melhores práticas e novas tecnologias;
+Desenvolver, evoluir e aprender habilidades com as melhores práticas e novas tecnologias;
+Participar de um projeto inovador que impacta vidas financeiras de clientes além de criar novas formas de fazer negócio.  
+Participar de um projeto inovador que impacta vidas financeiras de clientes além de criar novas formas de fazer negócio.  
+ 
+ 
+Vamos oferecer:
+Contrato CLT;
+Contrato CLT;
+Cartão de benefícios flexíveis Caju de R$ 866,80; 
+Cartão de benefícios flexíveis Caju de R$ 
+866,80
+; 
+Assistência médica e odontológica, sem coparticipação, totalmente subsidiada pela empresa (Plano Bradesco);
+Assistência médica e odontológica, sem coparticipação, totalmente subsidiada pela empresa (Plano Bradesco);
+Seguro de vida;
+Seguro de vida;
+Parceria com Gympass;
+Parceria com Gympass;
+Parceria com Psicologia Viva e Conexa Saúde;
+Parceria com Psicologia Viva e Conexa Saúde;
+Day off no mês de aniversário;
+Day off no mês de aniversário;
+Mesa de frutas para os Franqers em modelo presencial.
+Mesa de frutas para os Franqers em modelo presencial.
+Diversidade e Inclusão na Franq!
+Aqui na Franq você tem espaço para ser franco com você, ser quem você é!
+Aqui na Franq você tem espaço para ser franco com você, ser quem você é!
+Nós te valorizamos, independente de raça, cor, religião, identidade de gênero, nacionalidade, deficiência, orientação sexual, descendência ou idade.
+Nós te valorizamos, independente de raça, cor, religião, identidade de gênero, nacionalidade, deficiência, orientação sexual, descendência ou idade.
+Todas as nossas vagas são aptas para receber candidaturas de pessoas com deficiências, caso você se enquadre. Você pode especificar na sua candidatura e informar o código do CID correspondente.
+Todas as nossas vagas são aptas para receber candidaturas de pessoas com deficiências, caso você se enquadre. Você pode especificar na sua candidatura e informar o código do CID correspondente.
+VENHA BUSCAR O EXTRAORDINÁRIO CONOSCO🚀
+Venha ser Franqer!
+Venha ser Franqer!
+#GoFranq
+#GoFranq
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Bate papo inicial2Bate papo inicial
+Etapa 2: Bate papo inicial
+2
+Bate papo inicial
+Etapa 3: Desafio técnico3Desafio técnico
+Etapa 3: Desafio técnico
+3
+Desafio técnico
+Etapa 4: Bate-papo com o gestor4Bate-papo com o gestor
+Etapa 4: Bate-papo com o gestor
+4
+Bate-papo com o gestor
+Etapa 5: Proposta5Proposta
+Etapa 5: Proposta
+5
+Proposta
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+FAÇA PARTE DA NOSSA COMUNIDADE ONLINE 📱
+Website
+LinkedIn
+Facebook
+Instagram

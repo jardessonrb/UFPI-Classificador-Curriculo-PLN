@@ -1,0 +1,80 @@
+link_vaga-https://incentivar.gupy.io/job/eyJqb2JJZCI6NzkwMzE0NSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+CIENTISTA DE DADOS I
+Tipo de vaga: Pessoa jurídicaPessoa jurídica
+Tipo de vaga: Pessoa jurídica
+Pessoa jurídica
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+O time de BI da Incentivar é um time autogerenciável, com autonomia para tomar decisões no dia a dia, e tem sua voz ouvida o tempo todo para que possamos aprender e se desenvolver juntos.
+Conhecer o negócio da empresa para poder oferecer aos clientes soluções de valor.
+Aplicará técnicas de análise descritiva, prescritiva, preditiva e diagnóstica, utilizando de conhecimentos estatísticos e linguagem de programação, construindo soluções IA com foco no negócio.
+RESPONSABILIDADES E ATRIBUIÇÕES
+• Trabalhar com parceiros de negócios, engenheiros de dados e times de tecnologia para desenvolvimento e deploy de soluções de machine learning como parte dos produtos;
+• Analisar dados para validar hipóteses e gerar insights de negócio;
+• Manipular dados para tratamento, limpeza e exploração;
+• Implementar, testar, fazer deploy, documentar e depurar processos de dados e de machine learning;
+• Contribuir com os repositórios de código e documentação da equipe e qualificar a discussão técnica com referências científicas e metodológicas.
+• Trabalhar com parceiros de negócios, engenheiros de dados e times de tecnologia para desenvolvimento e deploy de soluções de machine learning como parte dos produtos;
+• Analisar dados para validar hipóteses e gerar insights de negócio;
+• Manipular dados para tratamento, limpeza e exploração;
+• Implementar, testar, fazer deploy, documentar e depurar processos de dados e de machine learning;
+• Contribuir com os repositórios de código e documentação da equipe e qualificar a discussão técnica com referências científicas e metodológicas.
+REQUISITOS E QUALIFICAÇÕES
+• Conhecimento desejável em alguma linguagem de programação predominante (como Python, R, etc.);
+• Conhecimento em bibliotecas de modelagem de dados (principais): pandas -SciPy, NumPy, StatsModel, Matplotlib, Seaborn, Plotly, Bokeh, Pydot, Scikit-learn, Eli5,. TensorFlow, Keras - mas não limitado;
+• Experiência na construção de pipelines;
+• Conhecimento em gitHub;
+• Conhecimento em SQL para obtenção de dados e relatórios;
+• Experiência na construção de modelos de IA;
+• Conhecimento desejável em metologias ágil (Scrum);
+• Diferencial: Familiaridade com ferramentas de mercado AutoAI: como DataRobot, AWS ou Google.
+INFORMAÇÕES ADICIONAIS
+Qual será seu modelo de trabalho?
+Carga horária: De segunda à sexta-feira, das 9h às 18h 
+Carga horária: De segunda à sexta-feira, das 9h às 18h 
+Modelo de híbrido: Sendo 2x por semana no escritório.
+Modelo de híbrido: Sendo 2x por semana no escritório.
+Pra apoiar seu dia a dia:
+ Benefício (Cartão Ifood Benefícios): R$ 850,00 por mês
+Pra desenvolver sua carreira:
+Gupy EduCorp (Parceria de Cursos);
+Avaliação de Desempenho;
+Trilha de carreira estruturada;
+Treinamentos frequentes;
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista com People2Entrevista com People
+Etapa 2: Entrevista com People
+2
+Entrevista com People
+Etapa 3: Entrevista com Gestão3Entrevista com Gestão
+Etapa 3: Entrevista com Gestão
+3
+Entrevista com Gestão
+Etapa 4: Entrevista com CEO4Entrevista com CEO
+Etapa 4: Entrevista com CEO
+4
+Entrevista com CEO
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+SOMOS A INCENTIVAR!
+A Incentivar é um software de incentivo e premiação que nasceu para ajudar as empresas a baterem mais metas, usando seus dados de forma estratégica e inteligente. Nosso app está nas mãos de mais de 20 mil colaboradores de grandes empresas como Colgate, Mondelez, Cola-Cola FEMSA, Stellantis e entre outras.
+O produto da Incentivar é um SaaS, criado em 2019, e que vem sendo reconhecido pelo mercado como a solução de incentivo mais completa e versátil do país. Como primeira Incentivetech da América Latina, atuamos desde a apuração de dados e insights de performance até o acompanhamento de metas gamificadas. Além disso, nosso app conta com um hub de premiação com resgates financeiros e um marketplace com milhares de prêmios. E para o alto nível de engajamento na plataforma, atuamos com uma agência interna de comunicação que faz qualquer campanha de incentivo brilhar.
+Somos uma startup de rápido crescimento, baseada em inovação, tecnologia e criatividade. Nosso foco sempre esteve e sempre estará nas pessoas. Apostar no protagonismo de quem faz tudo acontecer é parte do nosso DNA. Por isso, a Incentivar é uma empresa inclusiva que preza pela diversidade dentro de seus quadros, inclusive nas lideranças.
+Somos acelerados por diversos selos de grande reconhecimento no mercado como o Boostlab do Banco BTG Pactual e o Cubo Itaú, onde respiramos inovação e estamos sempre em troca com as empresas mais disruptivas do mercado brasileiro.
+Venha com a Incentivar construir o Incentivo Inteligente!
+CONHEÇA MAIS SOBRE NÓS!
+Website
+LinkedIn
+Instagram

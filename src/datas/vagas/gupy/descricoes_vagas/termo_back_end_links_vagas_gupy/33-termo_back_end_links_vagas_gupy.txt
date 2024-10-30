@@ -1,0 +1,41 @@
+link_vaga-https://brivia.gupy.io/job/eyJqb2JJZCI6NjY2NzE5Miwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+BACK END .NET (SERVIÇOS AZURE)
+Tipo de vaga: Banco de talentosBanco de talentos
+Tipo de vaga: Banco de talentos
+Banco de talentos
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Somos inquietos, somos desbravadores e estamos em constante transformação.
+Por isso, estamos na busca constante de crescimentos do nosso time com profissionais inovadores, que desafiam os limites e estejam preparados para embarcar em uma cultura totalmente nômade.
+SOMOS NÔMADES, NOSSAS VAGAS SÃO PARA QUALQUER LUGAR!
+Seja qual for o seu gênero, orientação sexual, idade, raça, etnia, crença ou deficiência, todos são bem-vindos no nosso time.
+RESPONSABILIDADES E ATRIBUIÇÕES
+RESPONSABILIDADES E ATRIBUIÇÕES
+Serviços Azure (Service Bus, Functions, Application Insights, Blob Storage).
+C# .NET Core 8, ASP.NET Core WEB API.
+Arquitetura de microsserviços.
+Keycloak / Auth0.
+Azure API Management (API Gateway).
+Criação de testes unitários (Xunit)
+Integrações com Protheus
+Arquitetura distribuída
+Banco de dados SQL Server
+Padrões de desenhos e boas práticas de injeção de dependências, princípios SOLID, Clean Code, TDD/BDD/DDD;
+SOMOS UM TIME INQUIETO E QUESTIONADOR
+Estamos entre as melhores agências para se trabalhar no Brasil!
+Na Brivia, você precisa estar com a mente e o passaporte sempre abertos. Afinal, nós vamos onde nossos clientes, seus problemas e nossas soluções nos levam.
+Sim, temos sedes no Brasil, na America Latina e na Europa, mas acreditamos no trabalho remoto. Temos b.a.s.e em 4 estados brasileiros, mas com profissionais espalhados por mais de 10 estados. Possuímos um escritório estratégico em Lisboa, Portugal, além de escritórios no Chile, Argentina e Colômbia. Mas não temos endereço fixo. Acreditamos no trabalho remoto e na autonomia profissional para tomar decisões em busca de novos resultados. Estamos em todos os lugares!
+Buscamos sempre ter entre nós pessoas realizadas e valorizadas e nos esforçamos todos os dias para fazer da Brivia um lugar próspero e rico em possibilidades.
+Se identifica? Vem pra Brivia, vem desbravar o Digital Branding com a gente and be nômade!
+FIQUE POR DENTRO DO QUE ACONTECE POR AQUI
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

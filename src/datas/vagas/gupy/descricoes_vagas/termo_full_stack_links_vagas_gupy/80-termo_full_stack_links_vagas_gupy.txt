@@ -1,0 +1,67 @@
+link_vaga-https://tecsa.gupy.io/job/eyJqb2JJZCI6ODAxMzg3Mywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR WEB FULL STACK JUNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+DESCRIÇÃO DA VAGA
+Estamos à procura de um Desenvolvedor Web Full Stack Júnior com expertise em Node.js, JavaScript e TypeScript para se juntar ao nosso time. Este profissional será responsável pelo desenvolvimento de novas funcionalidades e pela manutenção de nosso sistema, contribuindo para a evolução do produto e garantindo a qualidade das entregas.
+Estamos à procura de um Desenvolvedor Web Full Stack Júnior com expertise em Node.js, JavaScript e TypeScript para se juntar ao nosso time. Este profissional será responsável pelo desenvolvimento de novas funcionalidades e pela manutenção de nosso sistema, contribuindo para a evolução do produto e garantindo a qualidade das entregas.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Responsabilidades:
+Desenvolver e manter aplicações web robustas e escaláveis utilizando Node.js, JavaScript e TypeScript.
+Desenvolver e manter aplicações web robustas e escaláveis utilizando Node.js, JavaScript e TypeScript.
+Participar de todo o ciclo de vida do desenvolvimento de software, desde o planejamento até a entrega e manutenção das soluções.
+Participar de todo o ciclo de vida do desenvolvimento de software, desde o planejamento até a entrega e manutenção das soluções.
+Colaborar com equipes de design, produto e outras áreas para garantir a melhor experiência possível para nossos usuários.
+Colaborar com equipes de design, produto e outras áreas para garantir a melhor experiência possível para nossos usuários.
+Implementar e melhorar a integração entre o frontend e o backend das aplicações.
+Implementar e melhorar a integração entre o frontend e o backend das aplicações.
+Identificar e resolver problemas de performance e escalabilidade em nossa aplicação.
+Identificar e resolver problemas de performance e escalabilidade em nossa aplicação.
+REQUISITOS E QUALIFICAÇÕES
+Requisitos:
+Experiência em desenvolvimento Web com Node.js, JavaScript e TypeScript.
+Experiência em desenvolvimento Web com Node.js, JavaScript e TypeScript.
+Capacidade de resolver problemas técnicos e contribuir para a otimização da performance de aplicações web.
+Capacidade de resolver problemas técnicos e contribuir para a otimização da performance de aplicações web.
+Experiência com metodologias ágeis e boas práticas de desenvolvimento.
+Experiência com metodologias ágeis e boas práticas de desenvolvimento.
+Excelentes habilidades de comunicação e capacidade de trabalhar em um ambiente colaborativo e dinâmico.
+Excelentes habilidades de comunicação e capacidade de trabalhar em um ambiente colaborativo e dinâmico.
+Diferenciais:
+Contribuições para projetos open-source.
+Contribuições para projetos open-source.
+Conhecimento com infraestrutura em cloud .
+Conhecimento com infraestrutura em cloud .
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista Inicial 2Entrevista Inicial 
+Etapa 2: Entrevista Inicial 
+2
+Entrevista Inicial 
+Etapa 3: Entrevista Técnica3Entrevista Técnica
+Etapa 3: Entrevista Técnica
+3
+Entrevista Técnica
+Etapa 4: Teste Prático4Teste Prático
+Etapa 4: Teste Prático
+4
+Teste Prático
+Etapa 5: Entrevista CEO 5Entrevista CEO 
+Etapa 5: Entrevista CEO 
+5
+Entrevista CEO 
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+CUIDANDO DA SAÚDE HOJE, TRANSFORMANDO O AMANHÃ
+Na Tecsa Group, nosso propósito é simples: cuidar das pessoas para construir um futuro mais saudável. Sabemos que a saúde é uma jornada contínua, e é por isso que criamos soluções tecnológicas que impactam a vida das pessoas de forma significativa e duradoura. Cada projeto que desenvolvemos é pensado para proporcionar qualidade de vida, longevidade e bem-estar, não apenas para os nossos clientes, mas para suas famílias e comunidades. Queremos ser a força que transforma a saúde no Brasil e além, tornando-a acessível, inovadora e humanizada.
+Na Tecsa Group, nosso propósito é simples: cuidar das pessoas para construir um futuro mais saudável. Sabemos que a saúde é uma jornada contínua, e é por isso que criamos soluções tecnológicas que impactam a vida das pessoas de forma significativa e duradoura. Cada projeto que desenvolvemos é pensado para proporcionar qualidade de vida, longevidade e bem-estar, não apenas para os nossos clientes, mas para suas famílias e comunidades. Queremos ser a força que transforma a saúde no Brasil e além, tornando-a acessível, inovadora e humanizada.

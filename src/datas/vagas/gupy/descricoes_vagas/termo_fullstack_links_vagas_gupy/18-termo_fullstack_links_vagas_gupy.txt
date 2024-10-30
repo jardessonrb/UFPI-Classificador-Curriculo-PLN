@@ -1,0 +1,117 @@
+link_vaga-https://ibluetech.gupy.io/job/eyJqb2JJZCI6NzEyNzkxMSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+[AE] DESENVOLVEDOR FULLSTACK ANGULAR/C# - REMOTO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Ouvir, criar e inspirar a transformação digital dos nossos clientes é o que nos motiva.cr
+cr
+Acreditamos que, mais do que tecnologia, a transformação digital é sobre como as pessoas conduzem as mudanças nas empresas. E por entender isso, o fator humano é o que nos faz evoluir e modernizar processos.
+Não é somente mais uma oportunidade ... e sim um convite para você fazer parte dessa história. Somos certificadas pela GPTW e estamos entre as 50 melhores empresas para se trabalhar no Rio de Janeiro
+Na iBlue Consulting você vai trabalhar com uma equipe multidisciplinar, que é responsável por alavancar o crescimento do negocio através das nossas pessoas. 🚀
+ 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Como será o seu dia a dia 👩‍💻•	Desenvolver aplicativos de acordo com o desenho, dar feedback aos designers e sugerir trade-offs quando necessário•	Assegurar que o código siga as mais modernas práticas e tendências da indústria•	Trabalhar em estreita cooperação com os desenvolvedores de backend para entender e usar adequadamente os sistemas de APIs•	Criar testes de unidade e de integração, e desenvolver ferramentas de automação para tarefas diárias•	Questionar ideias e opiniões para evitar armadilhas e soluções ineficientes•	Desenhar e desenvolver a lógica de negócio e sistema backend do produto•	Desenvolver APIs funcionais, completas e de bom desempenho•	Decifrar os atuais sistemas de softwares da empresa e ser capaz de conectar a fontes de dados aplicáveis•	Realizar diversos testes de integração, desenvolvimento de ferramentas de automatização de tarefas diárias•	Desafiar as ideias e opiniões evitando erros e soluções ineficientes 
+
+•	Desenvolver aplicativos de acordo com o desenho, dar feedback aos designers e sugerir trade-offs quando necessário
+•	Assegurar que o código siga as mais modernas práticas e tendências da indústria
+•	Trabalhar em estreita cooperação com os desenvolvedores de backend para entender e usar adequadamente os sistemas de APIs
+•	Criar testes de unidade e de integração, e desenvolver ferramentas de automação para tarefas diárias
+•	Questionar ideias e opiniões para evitar armadilhas e soluções ineficientes
+•	Desenhar e desenvolver a lógica de negócio e sistema backend do produto
+•	Desenvolver APIs funcionais, completas e de bom desempenho
+•	Decifrar os atuais sistemas de softwares da empresa e ser capaz de conectar a fontes de dados aplicáveis
+•	Realizar diversos testes de integração, desenvolvimento de ferramentas de automatização de tarefas diárias
+•	Desafiar as ideias e opiniões evitando erros e soluções ineficientes 
+REQUISITOS E QUALIFICAÇÕES
+O que esperamos de você 🧐Angular 2+HTML, CSS e SCSSC#.Net CoreMaterial DesingBootstrapMongo DBExperiência com grande volume de dados e fluxo de dadosExperiência com desenvolvimento de sistemas em tempo realExperiência com tratamento de performance da aplicaçãoVivência com metodologias ágil Desejável 🧐ElectronIonicExperiência com desenvolvimento de sistemas em tempo realConhecimento sobre o mercado financeiro
+
+Angular 2+
+HTML, CSS e SCSS
+C#
+.Net Core
+Material Desing
+Bootstrap
+Mongo DB
+Experiência com grande volume de dados e fluxo de dados
+Experiência com desenvolvimento de sistemas em tempo real
+Experiência com tratamento de performance da aplicação
+Vivência com metodologias ágil 
+
+Electron
+Ionic
+Experiência com desenvolvimento de sistemas em tempo real
+Conhecimento sobre o mercado financeiro
+INFORMAÇÕES ADICIONAIS
+O que você terá do lado azul 🚀💙	COOPERADO (Prestador de Serviços) 👇Para apoiar o seu dia a dia 😁Notebook de última geração;Vários pacotes de benefícios oferecidos pela cooperativa que você poderá escolher aquele que melhor se adequa a sua realidade;Descanso remunerado de 15 dias;Bônus por indicação de candidatos;Se você é do Rio de Janeiro - Sexta é o dia Happy Hour a partir das 17:00 no nosso escritório.Treinamentos; Certificações (AWS, Microsoft e IBM).	PJ (Prestador de Serviços) 👇Para apoiar o seu dia a dia 😁Notebook de última geração;Bônus por indicação de candidatos;Se você é do Rio de Janeiro - Sexta é o dia Happy Hour a partir das 17:00 no nosso escritório.Treinamentos; Certificações (AWS, Microsoft e IBM).
+
+
+
+Notebook de última geração;
+Vários pacotes de benefícios oferecidos pela cooperativa que você poderá escolher aquele que melhor se adequa a sua realidade;
+Descanso remunerado de 15 dias;
+Bônus por indicação de candidatos;
+Se você é do Rio de Janeiro - Sexta é o dia Happy Hour a partir das 17:00 no nosso escritório.
+Treinamentos; 
+Certificações (AWS, Microsoft e IBM).
+
+
+Notebook de última geração;
+Bônus por indicação de candidatos;
+Se você é do Rio de Janeiro - Sexta é o dia Happy Hour a partir das 17:00 no nosso escritório.
+Treinamentos; 
+Certificações (AWS, Microsoft e IBM).
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Start no Bate-Papo ✅2Start no Bate-Papo ✅
+Etapa 2: Start no Bate-Papo ✅
+2
+Start no Bate-Papo ✅
+Etapa 3: Não é Bug! 🔄3Não é Bug! 🔄
+Etapa 3: Não é Bug! 🔄
+3
+Não é Bug! 🔄
+Etapa 4: Sprint Review! 🤩4Sprint Review! 🤩
+Etapa 4: Sprint Review! 🤩
+4
+Sprint Review! 🤩
+Etapa 5: Winner! 🏆5Winner! 🏆
+Etapa 5: Winner! 🏆
+5
+Winner! 🏆
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+CONHEÇA NOSSA HISTÓRIA
+"O trabalho diz muito sobre você, porque você coloca energia e sentimento no que você faz” - Rafael D’Alessandro, CEO da iBlue.
+Rafael D’Alessandro, CEO da iBlue.
+ 
+ 
+Deixa-me fazer uma pergunta: Já sentiu como se algo estivesse faltando na sua carreira e que apesar de toda sua experiência em grandes empresas no mercado, ainda existe um déficit de energia, propósito e direção?
+Deixa-me fazer uma pergunta: Já sentiu como se algo estivesse faltando na sua carreira e que apesar de toda sua experiência em grandes empresas no mercado, ainda existe um déficit de energia, propósito e direção?
+Esse incômodo fez com que o nosso fundador e CEO, Rafael D’Alessandro, unisse sua crença pessoal nas metodologias ágeis e na transformação digital, para arriscar seus mais de 20 anos de atuação no mercado de T.I e criar o que somos hoje. 
+Esse incômodo fez com que o nosso fundador e CEO, 
+, unisse sua crença pessoal nas metodologias ágeis e na transformação digital, para arriscar seus mais de 20 anos de atuação no mercado de T.I e criar o que somos hoje. 
+A iBlue, uma consultoria digital, surge do desejo de formar uma empresa diferente, que acredita no fator humano como principal razão para alavancar resultados. Acreditamos no impacto grandioso de cada pequena decisão, gerada a partir de pessoas que buscam autonomia e sempre questionam processos a fim de otimizá-los.
+A iBlue, uma consultoria digital, surge do desejo de formar uma empresa diferente, que acredita no fator humano como principal razão para alavancar resultados. Acreditamos no impacto grandioso de cada pequena decisão, gerada a partir de pessoas que buscam autonomia e sempre questionam processos a fim de otimizá-los.
+Por aqui, empoderamos cada iBluer para que entendam o poder das microrrevoluções e absorvam que fomentar a inovação depende de cada pequeno ato, a fim de encontrar soluções, errar rápido, aprender com os erros e trabalhar em conjunto para alcançar o sucesso. 
+Por aqui, empoderamos cada iBluer para que entendam o poder das microrrevoluções e absorvam que fomentar a inovação depende de cada pequeno ato, a fim de encontrar soluções, errar rápido, aprender com os erros e trabalhar em conjunto para alcançar o sucesso. 
+Quer fazer parte do nosso mundo azul? #vemseriBluer 💙🚀
+Quer fazer parte do nosso mundo azul? #vemseriBluer 💙🚀
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

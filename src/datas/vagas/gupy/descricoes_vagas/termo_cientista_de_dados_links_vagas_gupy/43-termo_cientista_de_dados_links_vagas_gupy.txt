@@ -1,0 +1,118 @@
+link_vaga-https://nava.gupy.io/job/eyJqb2JJZCI6Nzk2NzI0MSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+CIENTISTA DE DADOS
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A NAVA está em busca de uma Pessoa Cientista de Dados para fazer parte do nosso time de pessoas incríveis! 
+A NAVA está em busca de 
+ 
+ 
+
+Por que trabalhar na NAVA?
+
+Somos uma empresa de tecnologia que atende as maiores companhias dos setores financeiro, seguros, meios de pagamento, telecomunicações, energia e varejo do país. Inspiramos nossos times a criar soluções para que essas companhias transformem e impactem positivamente o mundo. 
+Somos uma empresa de tecnologia que atende as maiores companhias dos setores financeiro, seguros, meios de pagamento, telecomunicações, energia e varejo do país. Inspiramos nossos times a criar soluções para que essas companhias transformem e impactem positivamente o mundo. 
+ 
+ 
+Temos um time curioso, criativo, energético e inspirador, com grande foco nas pessoas para gerar inovação, transformação e crescimento. Dentro de um ambiente dinâmico e ágil, o nosso time está em expansão para acompanhar o crescimento exponencial da NAVA e dos nossos Clientes. 
+Temos um time curioso, criativo, energético e inspirador, com grande foco nas pessoas para gerar inovação, transformação e crescimento. Dentro de um ambiente dinâmico e ágil, o nosso time está em expansão para acompanhar o crescimento exponencial da NAVA e dos nossos Clientes. 
+﻿Acolhemos as diferenças porque acreditamos que um ambiente diverso contribui para a inovação e uma sociedade mais justa e equânime e convidamos você à assumir esse compromisso junto com a gente.
+﻿Acolhemos as diferenças porque acreditamos que um ambiente diverso contribui para a inovação e uma sociedade mais justa e equânime e convidamos você à assumir esse compromisso junto com a gente.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Como será o seu dia a dia?
+Atuação como Cientista de Dados em um dos nossos projetos do setor financeiro.
+Atuação como Cientista de Dados em um dos nossos projetos do setor financeiro.
+REQUISITOS E QUALIFICAÇÕES
+O que esperamos de você?
+• Identificação, Coleta e Integração de Dados: Recolher dados de várias fontes e garantir que todas as informações necessárias para aplicar o modelo sejam obtidas;
+• Validação dos Dados: Validar se as informações utilizadas no desenvolvimento do modelo são as mesmas utilizadas na aplicação/ produtização dos modelos desenvolvidos e corrigir quando diferente;
+• Transformação e Tratamento de Dados: Converter dados para um formato adequado para a aplicação do modelo (woe, flag, categorização);
+• Análise de estabilidade das variáveis: cálculo de frequência, preenchimento, taxa de resposta e descritivas básicas para cada uma das variáveis explicativas, detectando padrões e tendências nos dados ao longo do tempo;
+• Análise de estabilidade e performance do modelo: cálculo de frequência e taxa de resposta ao longo do tempo para os diferentes ratings (classificação de escores) obtidos pelo modelo;
+• Relatórios Visuais: Gerar relatórios visuais que resumam as análises acima;
+• Atualização de Dados: Implementar processos para atualizar regularmente e automaticamente os dados e manter a integridade das análises acima;
+• Documentação de Processos: Documentar cada um dos processos acima e garantir que sejam replicados e estejam versionados;
+• Documentação do Modelo: Criar resumo dos critérios adotados na modelagem e avaliar/corrigir documentações já existentes conforme padrão adotado pela BMG; • Revisão de Modelos: Rever e ajustar procedimentos e metodologias com base em novas descobertas ou mudanças nos requisitos, mantendo o padrão e organização. Habilidades e Ferramentas Necessárias
+• Ferramentas de Análise: Python (pandas, NumPy, Scikit Learn), SQL, Excel,
+• Conhecimento Estatístico: Conhecimento em modelagem estatística, estatísticas descritivas, análise de dados e programação computacional.
+• Organização • Desejável conhecimento em Crédito e modelos de PDD
+﻿Será considerado diferencial se você tiver:
+Atuação em projetos do setor financeiro.
+Atuação em projetos do setor financeiro.
+INFORMAÇÕES ADICIONAIS
+Horário de trabalho: 09h às 18h
+Modelo de trabalho para este projeto/cliente: Hibrido (3 dias presenciais)
+Local de trabalho: São Paulo 
+Além de ser uma empresa certificada Great Place to Work, você vai encontrar na NAVA:
+ 
+✅ Oportunidades de carreira 🚀
+✅ Liberdade para escrever seu próprio código 🏆
+✅ Diversidade e diferentes formas de ver o mundo 🌈
+✅ Comunidades que incentivam o crescimento de todos 📚
+✅ Treinamento In Company 💻
+✅ Um time incrível 😎
+✅ Empresa engajada no Pacto Global da ONU 💪🏼
+✅ Projetos inovadores 💡
+✅ Alta avaliação no Glassdoor 📣
+ 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Teste Comportamental2Teste Comportamental
+Etapa 2: Teste Comportamental
+2
+Teste Comportamental
+Etapa 3: Triagem Talent Acquisition3Triagem Talent Acquisition
+Etapa 3: Triagem Talent Acquisition
+3
+Triagem Talent Acquisition
+Etapa 4: Entrevista Talent Acquisition4Entrevista Talent Acquisition
+Etapa 4: Entrevista Talent Acquisition
+4
+Entrevista Talent Acquisition
+Etapa 5: Entrevista Gestão / Cliente5Entrevista Gestão / Cliente
+Etapa 5: Entrevista Gestão / Cliente
+5
+Entrevista Gestão / Cliente
+Etapa 6: Avaliação Final 6Avaliação Final 
+Etapa 6: Avaliação Final 
+6
+Avaliação Final 
+Etapa 7: Offer7Offer
+Etapa 7: Offer
+7
+Offer
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+SOBRE A NAVA
+Somos uma empresa de tecnologia apaixonada por pessoas e inovação.
+Somos uma empresa de tecnologia apaixonada por pessoas e inovação.
+Inspiramos nossos times a criar soluções para que as maiores e melhores companhias do país transformem e impactem positivamente o mundo. Estamos de portas e braços abertos para todas as pessoas que desejam ser protagonistas de suas vidas e se tornarem tão grandes quanto seus sonhos, independentemente de gênero, orientação sexual, raça, etnia, religião, faixa etária ou deficiência. Afinal, acreditamos que a diversidade e a inclusão favorecem o surgimento de novas ideias, estimulam a criatividade e propiciam um ambiente mais acolhedor e humano. 
+Inspiramos nossos times a criar soluções para que as maiores e melhores companhias do país transformem e impactem positivamente o mundo. Estamos de portas e braços abertos para todas as pessoas que desejam ser protagonistas de suas vidas e se tornarem tão grandes quanto seus sonhos, independentemente de gênero, orientação sexual, raça, etnia, religião, faixa etária ou deficiência. Afinal, acreditamos que a diversidade e a inclusão favorecem o surgimento de novas ideias, estimulam a criatividade e propiciam um ambiente mais acolhedor e humano. 
+ 
+ 
+Mais que se sentir em casa, desejamos que aqui na NAVA você se sinta livre para escrever o seu próprio código, do seu jeito. 
+Mais que se sentir em casa, desejamos que aqui na 
+ você se sinta livre para escrever o seu próprio código, do seu jeito. 
+ 
+ 
+Se isso faz sentido para você, junte-se a nós.
+Se isso faz sentido para você, junte-se a nós.
+CONECTE-SE COM A NAVA
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

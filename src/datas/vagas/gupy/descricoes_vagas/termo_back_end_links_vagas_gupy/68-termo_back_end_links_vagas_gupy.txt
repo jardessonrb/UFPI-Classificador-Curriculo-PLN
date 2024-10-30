@@ -1,0 +1,110 @@
+link_vaga-https://waycarbon.gupy.io/job/eyJqb2JJZCI6NzkzOTgyNCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA BACK -END JÚNIOR (PYTHON / PHP)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Aqui na WayCarbon nós atuamos para catalisar globalmente a transição justa e resiliente para uma economia Net-Zero. Sim, acreditamos e lutamos por um mundo melhor! Hoje somos referência nacional e latino-americana em consultoria e no desenvolvimento de soluções de tecnologia e inovação voltadas para a sustentabilidade, gestão de ativos ambientais e no desenvolvimento de estratégias visando a ecoeficiência e a economia Net-Zero. Somos movidos pela vontade em comum de impactar a sociedade positivamente, pautados pela inovação, pela valorização das pessoas, pela geração de valor e pela ética.
+Somos apaixonados por inovação e tecnologia, pioneira, focada em auxiliar nossos clientes em suas jornadas de transição para uma economia de baixo carbono e de sustentabilidade, desenvolvendo soluções seguras e personalizadas. Você terá a oportunidade atuar em um time de tecnologia caracterizado principalmente pela autonomia e diversidade que cada um possui! Se já deu em você aquela vontade de fazer parte desse time, venha e se inscreva.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Contribuir com o desenvolvimento dos produtos digitais da Way;Realizar atividades técnicas referentes ao desenvolvimento, manutenção e/ou operação de software, com excelência;Identificar, implementar e difundir a aplicação de novas tecnologias e ferramentas no desenvolvimento de nossos produtos. Além de ser propositivo na identificação de problemas e de oportunidades de melhorias em nossos processos, ferramentas, tecnologias e produtos;Participar ativamente como membro de times de scrum. Além de desenvolver e entregar tarefas do sprint, atuando proativamente em todas as etapas auxiliares dos processos (especificação de tarefas, demonstração, retrospectiva, planejamento, análise, revisão e homologação, reuniões diárias, elaboração de testes e de documentação);Atuar de forma crítica em relação aos ritos e ferramentas. Identificando e antecipando lacunas técnicas ou tecnológicas, elaborando pilotos de sua aplicação, defendendo seu “case” e propondo roadmaps para sua aplicação;Participar de iniciativas que visam a melhoria contínua do fluxo de trabalho.
+Contribuir com o desenvolvimento dos produtos digitais da Way;
+Realizar atividades técnicas referentes ao desenvolvimento, manutenção e/ou operação de software, com excelência;
+Identificar, implementar e difundir a aplicação de novas tecnologias e ferramentas no desenvolvimento de nossos produtos. Além de ser propositivo na identificação de problemas e de oportunidades de melhorias em nossos processos, ferramentas, tecnologias e produtos;
+Participar ativamente como membro de times de scrum. Além de desenvolver e entregar tarefas do sprint, atuando proativamente em todas as etapas auxiliares dos processos (especificação de tarefas, demonstração, retrospectiva, planejamento, análise, revisão e homologação, reuniões diárias, elaboração de testes e de documentação);
+Atuar de forma crítica em relação aos ritos e ferramentas. Identificando e antecipando lacunas técnicas ou tecnológicas, elaborando pilotos de sua aplicação, defendendo seu “case” e propondo roadmaps para sua aplicação;
+Participar de iniciativas que visam a melhoria contínua do fluxo de trabalho.
+REQUISITOS E QUALIFICAÇÕES
+Necessário:
+ 
+Experiência em Python / Flask / Node.js / PHP
+Experiência em Linux e elaboração de script para linha de comando;
+Experiência em Git (esquemas de branch, hooks, etc);
+Experiência em boas práticas de qualidade de código (Clean Code);
+Experiência em desenvolvimento de aplicações Web na nuvem usando frameworks MVC e frontend com modelo SPA;
+Experiência em banco de dados SQL (MySQL, PostgreSQL etc) e MongoDB;
+Experiência em boas práticas de elaboração de APIs RESTful
+Experiência em Scrum / Kanban (como participante de Squads)
+Inglês técnico para estudo de documentação
+ 
+Desejável/diferencial:
+Conhecimento em .Net;
+Conhecimento em Angular / Angular.js
+Conhecimento em com fluxo de requisições assíncrono (filas e workers, pubsub etc);
+Conhecimento em Autenticação de APIs com OAuth2;
+Conhecimento em Docker ou outra ferramenta de administração de containers (exemplo: kubernetes);
+Conhecimento em CI/CD.
+INFORMAÇÕES ADICIONAIS
+Salários compatíveis com o mercado; Plano de carreira que facilita o crescimento e desenvolvimento aqui na Way; Prêmio anual com base em geração de resultados; Carga horária de 40 horas semanais; Horário Flexível;Auxílio home-office;Vale-refeição e/ou vale-alimentação com "bandeira crédito de ampla utilização".Wellhub;2 sessões mensais de apoio psicológico (Plataforma Conexa); Assistência Médica/Hospitalar/Odontológica de abrangência nacional Sulamérica - sem coparticipação e sem desconto em folha para colaborador(a) WayCarbon;Acesso aos cursos desenvolvidos pela WayCarbon para a plataforma WayCarbon Learning;Curso de língua estrangeira conforme normas da empresa; (Inglês ou Espanhol ou Francês ou Alemão – Plataforma Berlitz CyberTeacher); Seguro de vida; Day Off na semana do aniversário; Para jornadas pessoais, temos Licença Maternidade de 6 meses, Licença Paternidade de 30 dias; Uma cultura incrível que promove um ambiente diversificado, multidisciplinar e engajado! 
+Salários compatíveis com o mercado; 
+Plano de carreira que facilita o crescimento e desenvolvimento aqui na Way; 
+Prêmio anual com base em geração de resultados; 
+Carga horária de 40 horas semanais; 
+Horário Flexível;
+Auxílio home-office;
+Vale-refeição e/ou vale-alimentação com "bandeira crédito de ampla utilização".
+Wellhub;
+2 sessões mensais de apoio psicológico (Plataforma Conexa); 
+Assistência Médica/Hospitalar/Odontológica de abrangência nacional Sulamérica - sem coparticipação e sem desconto em folha para colaborador(a) WayCarbon;
+Acesso aos cursos desenvolvidos pela WayCarbon para a plataforma WayCarbon Learning;
+Curso de língua estrangeira conforme normas da empresa; (Inglês ou Espanhol ou Francês ou Alemão – Plataforma Berlitz CyberTeacher); 
+Seguro de vida; 
+Day Off na semana do aniversário; 
+Para jornadas pessoais, temos Licença Maternidade de 6 meses, Licença Paternidade de 30 dias; 
+Uma cultura incrível que promove um ambiente diversificado, multidisciplinar e engajado! 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Bate-papo com A&S2Bate-papo com A&S
+Etapa 2: Bate-papo com A&S
+2
+Bate-papo com A&S
+Etapa 3: Teste Técnico3Teste Técnico
+Etapa 3: Teste Técnico
+3
+Teste Técnico
+Etapa 4: Entrevista com a Liderança Técnica4Entrevista com a Liderança Técnica
+Etapa 4: Entrevista com a Liderança Técnica
+4
+Entrevista com a Liderança Técnica
+Etapa 5: Entrevista Comportamental + Assessment5Entrevista Comportamental + Assessment
+Etapa 5: Entrevista Comportamental + Assessment
+5
+Entrevista Comportamental + Assessment
+Etapa 6: Carta Oferta6Carta Oferta
+Etapa 6: Carta Oferta
+6
+Carta Oferta
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+TECNOLOGIA, INTELIGÊNCIA E SOLUÇÕES INOVADORAS PARA UM MUNDO EM RÁPIDA TRANSFORMAÇÃO.
+A WayCarbon nasceu vocacionada para transformar realidades. Somos agentes de mudança para uma transição climática justa e resiliente. O aquecimento global é visível. Temos pressa para engajar e apoiar empresas e governos a adotarem medidas responsáveis para proteção do sistema climático no Brasil e no mundo. Somos mais do que uma organização comprometida com a sustentabilidade e a agenda climática.
+Somos agentes de mudança para uma transição climática justa e resiliente.
+O aquecimento global é visível. Temos pressa para engajar e apoiar empresas e governos a adotarem medidas responsáveis para proteção do sistema climático no Brasil e no mundo. Somos mais do que uma organização comprometida com a sustentabilidade e a agenda climática.
+ 
+ 
+Desejamos impactar o mundo com o conhecimento do nosso time de especialistas na oferta de soluções integradas para a agenda ESG e climática, unindo inovação, tecnologia e experiência. Nossa alma é acelerada e impulsionada por uma vontade insaciável de inovar e fazer a diferença. Valorizamos cada ser humano que faz parte da nossa jornada, reconhecendo que são as pessoas que tornam possível nosso propósito.  E é, através da ética e da geração constante de valor para os nossos clientes, que construímos nossa trajetória.
+Desejamos impactar o mundo com o conhecimento do nosso time de especialistas na oferta de soluções integradas para a agenda ESG e climática, unindo inovação, tecnologia e experiência. Nossa alma é acelerada e impulsionada por uma vontade insaciável de inovar e fazer a diferença. 
+ E é, através da ética e da geração constante de valor para os nossos clientes, que construímos nossa trajetória.
+Nos pautamos pela diversidade e pela igualdade, encorajando as pessoas que participam de nossos processos seletivos sintam liberdade para se expressar abertamente desde o primeiro contato. Temos a convicção que a multiplicidade de ideias, contextos e experiências trazem mais riqueza ao trabalho, melhoram a qualidade de vida das pessoas e da sociedade em que estamos inseridos e gera resultados ainda mais expressivos. 
+Nos pautamos pela diversidade e pela igualdade, encorajando as pessoas que participam de nossos processos seletivos sintam 
+ 
+ Temos a convicção que a multiplicidade de ideias, contextos e experiências trazem mais riqueza ao trabalho, melhoram a qualidade de vida das pessoas e da sociedade em que estamos inseridos e gera resultados ainda mais expressivos. 
+
+Vamos juntos?
+ACOMPANHE PELAS REDES
+Website
+LinkedIn
+Instagram
+Glassdoor

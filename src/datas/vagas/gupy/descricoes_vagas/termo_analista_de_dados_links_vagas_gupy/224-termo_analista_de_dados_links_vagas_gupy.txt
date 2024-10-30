@@ -1,0 +1,119 @@
+link_vaga-https://sicredi.gupy.io/job/eyJqb2JJZCI6Nzk5NDE0Mywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE DADOS | SEDE ADMINISTRATIVA - ERECHIM/RS
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Você é apaixonado(a) por descobrir padrões nos dados e transformá-los em insights valiosos? Temos uma oportunidade empolgante para você! 🚀
+Estamos buscando um(a) Analista de Dados para se juntar à nossa equipe de Planejamento, Performance & InovAção. Sua missão será apoiar na coleta, análise e interpretação de dados, fornecendo informações valiosas que orientarão nossas decisões estratégicas e contribuirão para a evolução da cultura data-driven do Sicredi.
+Procuramos alguém com habilidades sólidas em análise de dados, que adora trabalhar com números e possui uma mentalidade curiosa e investigativa. Se você gosta de colaborar com outras equipes, questionar o status quo e acredita que as respostas para os desafios mais complexos estão nos detalhes, queremos conhecê-lo(a)! Venha fazer parte de uma empresa inovadora, onde suas ideias são valorizadas.
+A modalidade de trabalho pode ser presencial ou híbrida na Sede Administrativa da Sicredi UniEstados em Erechim/RS, venha fazer parte da mudança!
+Aqui no Sicredi nós acreditamos que fazer juntos nos conecta para sermos melhores 💚!
+Confira mais detalhes abaixo ⬇
+
+Oportunidade externa
+
+
+ 
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver e apoiar a mensuração de resultados;Realizar processos de ETL (extração, transformação e carregamento de dados);Realizar tabulação e análise estatística de dados;Definir pipelines de dados;Documentar a estratégia de dados, suas fontes e tempestividades;Apoiar o time na definição de soluções de dados;Promover a cultura data-driven na cooperativa;Propor projetos para ampliar a capacidade analítica da cooperativa;Traduzir insights complexos para públicos não técnicos;Manter-se atualizado(a) com as tendências do setor e recomendar soluções inovadoras;Elaborar estudos de cenário e diagnóstico do negócio;Monitorar e desenvolver KPIs;Resolver problemas e comunicar-se bem em equipe.#LI-DP1#LI-BG1#LI-onsite
+Desenvolver e apoiar a mensuração de resultados;
+Realizar processos de ETL (extração, transformação e carregamento de dados);
+Realizar tabulação e análise estatística de dados;
+Definir pipelines de dados;
+Documentar a estratégia de dados, suas fontes e tempestividades;
+Apoiar o time na definição de soluções de dados;
+Promover a cultura data-driven na cooperativa;
+Propor projetos para ampliar a capacidade analítica da cooperativa;
+Traduzir insights complexos para públicos não técnicos;
+Manter-se atualizado(a) com as tendências do setor e recomendar soluções inovadoras;
+Elaborar estudos de cenário e diagnóstico do negócio;
+Monitorar e desenvolver KPIs;
+Resolver problemas e comunicar-se bem em equipe.
+
+
+
+#LI-DP1
+#LI-DP1
+#LI-BG1
+#LI-BG1
+#LI-onsite
+#LI-onsite
+
+
+REQUISITOS E QUALIFICAÇÕES
+Experiência em ferramentas de visualização de dados (Power BI);Experiência em linguagens de programação Python (e suas bibliotecas como Pandas e NumPy), R e SQL;Experiência em ferramentas de ETL (Denodo, Apache Air Flow, Hadoop, Azure Data Factory, entre outras);Conhecimento em bancos de dados MySQL e PostgreSQL;Compreensão de estatísticas descritivas e inferenciais, incluindo conceitos como média, mediana, desvio padrão, regressão e correlação;Habilidade para analisar grandes conjuntos e transformá-los em informações de fácil entendimento (Storytelling).Gestão de versionamento de código; O QUE SERÁ UM DIFERENCIAL Certificações em Power BI, PostgreSQL, MySQL, Python e R;Inglês Técnico;Experiência de mercado financeiro;Experiência em Machine Learning (supervisionado, não supervisionado e processamento de linguagem natural);Tecnologia de Big Data.
+Experiência em ferramentas de visualização de dados (Power BI);
+Experiência em linguagens de programação Python (e suas bibliotecas como Pandas e NumPy), R e SQL;
+Experiência em ferramentas de ETL (Denodo, Apache Air Flow, Hadoop, Azure Data Factory, entre outras);
+Conhecimento em bancos de dados MySQL e PostgreSQL;
+Compreensão de estatísticas descritivas e inferenciais, incluindo conceitos como média, mediana, desvio padrão, regressão e correlação;
+Habilidade para analisar grandes conjuntos e transformá-los em informações de fácil entendimento (Storytelling).
+Gestão de versionamento de código;
+ O QUE SERÁ UM DIFERENCIAL 
+Certificações em Power BI, PostgreSQL, MySQL, Python e R;
+Inglês Técnico;
+Experiência de mercado financeiro;
+Experiência em Machine Learning (supervisionado, não supervisionado e processamento de linguagem natural);
+Tecnologia de Big Data.
+INFORMAÇÕES ADICIONAIS
+Pacote de Remuneração e Benefícios:💲Remuneração Fixa compatível com o cargo e experiência exigida;💹 Programa de Participação nos Resultados;🍽 Vale Alimentação/Refeição;🩺 Plano de Saúde Unimed para colaborador e cônjuge;🥳 Dayoff para aniversário;📚 Auxílio Educação conforme política interna;👴 Previdência Privada de até 8% (você contribui com mesmo %)🏋️‍♂️ Apoio à Atividade Física | GYMPASS;💻 Plataforma de Treinamentos - Sicredi Aprende, com diversos cursos;🥗 Nutrição;🧒 Auxílio Creche/Babá;🔐 Seguro de vida em grupo;💊 Desconto farmácia;💚 Benefício Sempre Bem (Apoio e orientação Psicológica, Jurídica e Financeira).
+Pacote de Remuneração e Benefícios:
+💲Remuneração Fixa compatível com o cargo e experiência exigida;
+💹 Programa de Participação nos Resultados;
+🍽 Vale Alimentação/Refeição;
+🩺 Plano de Saúde Unimed para colaborador e cônjuge;
+🥳 Dayoff para aniversário;
+📚 Auxílio Educação conforme política interna;
+👴 Previdência Privada de até 8% (você contribui com mesmo %)
+🏋️‍♂️ Apoio à Atividade Física | GYMPASS;
+💻 Plataforma de Treinamentos - Sicredi Aprende, com diversos cursos;
+🥗 Nutrição;
+🧒 Auxílio Creche/Babá;
+🔐 Seguro de vida em grupo;
+💊 Desconto farmácia;
+💚 Benefício Sempre Bem (Apoio e orientação Psicológica, Jurídica e Financeira).
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Vídeo Entrevista2Vídeo Entrevista
+Etapa 2: Vídeo Entrevista
+2
+Vídeo Entrevista
+Etapa 3: Entrevista 3Entrevista 
+Etapa 3: Entrevista 
+3
+Entrevista 
+Etapa 4: Avaliação Técnica4Avaliação Técnica
+Etapa 4: Avaliação Técnica
+4
+Avaliação Técnica
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+SOMOS O SICREDI, A PRIMEIRA INSTITUIÇÃO FINANCEIRA COOPERATIVA DO BRASIL
+Há mais de 120 anos, nos reinventamos a cada dia e nos desafiamos em tudo o que fazemos, sendo impulsionados pelo trabalho de cada uma das nossas pessoas colaboradoras.
+ 
+Nosso propósito é construir uma sociedade mais próspera ao lado dos mais de 45 mil talentos que também acreditam nessa transformação. Evoluímos constantemente e mantemos a essência do cooperativismo para superar as barreiras, conquistar novos horizontes e desenvolver a sociedade com maior inclusão, diversidade e equidade.
+Não é à toa que somos a Melhor Empresa para se Trabalhar no Brasil 2024, segundo a GPTW!
+ 
+Seguimos buscando talentos que queiram fazer parte da construção de um mundo melhor e queremos contar com você.
+#VemSerSicredi!
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor
+CONHEÇA A SICREDI UNIESTADOS

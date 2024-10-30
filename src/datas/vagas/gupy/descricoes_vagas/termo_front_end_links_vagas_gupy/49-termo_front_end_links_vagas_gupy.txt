@@ -1,0 +1,159 @@
+link_vaga-https://dwsbrazil.gupy.io/job/eyJqb2JJZCI6NzkyODE0NSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+SENIOR FRONT END DEVELOPER [REACT]
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Quem somos:
+A Dentsu World Services (DWS) é parte do grupo Dentsu, presente em mais de 140 países e conta com mais de 50.000 pessoas comprometidas com nossa missão. No Brasil, em Porto Alegre/RS, atuamos como centro de tecnologia, inovação e design do grupo. Possuímos parceria com diversas agências do grupo e estamos empenhados em entregar soluções criativas e inovadoras aos nossos clientes, atendendo a projetos de desenvolvimento web e mobile. Embora tenhamos nosso escritório físico, por acreditarmos numa conexão sem fronteiras, temos pessoas espalhadas por todo o país que compões os times da DWS Brazil.
+Os DWSianes se integram a times multiculturais e que contam com pessoas de diversos países, levando o trabalho em grupo a um nível mais elevado e significativo. Assim, a diversidade de ideias contribui para a construção de tecnologias que revolucionam o mercado. 
+
+Muitos desafios, aprendizado e crescimento esperam você na DWS Brazil!
+
+#vemserumDWSiane
+ 
+ 
+Estamos em busca de uma Pessoa Desenvolvedora Senior em React.js para apoiar no desenvolvimento Front end de nossas soluções.
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+Você será responsável por:
+Projetar e desenvolver o front end de páginas web e suas aplicações, utilizando Javascript (react); 
+Fazer a manutenção de códigos em banco já existente, através de testes e correção de erros; 
+Compor os times com expertise em desenvolvimento front end;
+Auxiliar o time nas rampas técnicas em atividades de alta complexidade;
+Realizar a manutenção de códigos, através de testes e correção de erros;
+Apoiar a integração com o back end do sistema;
+Analisar, desenvolver e testar aplicações, utilizando metodologia e procedimentos adequados para sua implantação;
+Apoiar nas definições técnicas e funcionais embasadas nas necessidades de negócio;
+Documentar todo o processo de desenvolvimento do código; 
+Criar relatórios de status e possíveis problemas para o Project Manager;
+Participar de reuniões técnicas e cerimônias do projeto.
+REQUISITOS E QUALIFICAÇÕES
+Para essa posição, é importante que você tenha: 
+Experiência em tecnologias como HTML, Javascript e Typescript;
+Experiência em frameworks de Front end, React, Next.JS;
+Experiências nas bibliotecas Redux, Flux e Hooks;
+Aplicação de testes unitários, Clean Code e Clean Architecture;
+Familiaridade com desenvolvimento ágil;
+Conhecimentos no idioma inglês, comunicação verbal e escrita em nível avançado.
+Para essa posição, é importante que você tenha: 
+Conhecimentos em AEM (Adobe Experience Manager)
+INFORMAÇÕES ADICIONAIS
+Aqui você vai encontrar (Nossos benefícios):
+Todo o equipamento necessário para seu trabalho (notebook e periféricos);
+Todo o equipamento necessário para seu trabalho (notebook e periféricos);
+Plano de saúde e odontológico;
+Plano de saúde e odontológico;
+Seguro de vida;
+Seguro de vida;
+Mental health program;
+Mental health program;
+Anywhere office - flexibilidade para trabalhar de onde precisar;
+Anywhere office - flexibilidade para trabalhar de onde precisar;
+VR/VA (cartão de benefícios Flash);
+VR/VA (cartão de benefícios Flash);
+Auxílio home office (cartão de benefícios Flash);
+Auxílio home office (cartão de benefícios Flash);
+Auxílio mobilidade (cartão de benefícios Flash);
+Auxílio mobilidade (cartão de benefícios Flash);
+Programa de mentoria para desenvolvimento e acompanhamento de carreira;
+Programa de mentoria para desenvolvimento e acompanhamento de carreira;
+Participação nas tracks de desenvolvimento (investimento em cursos e etc) e acesso a nossa plataforma gratuita com muitos cursos para self Learning;
+Participação nas tracks de desenvolvimento (investimento em cursos e etc) e acesso a nossa plataforma gratuita com muitos cursos para self Learning;
+ Aulas de inglês com professor particular;
+ Aulas de inglês com professor particular;
+ Awesomeness Committee - envio de mimos temáticos e exclusivos;
+ Awesomeness Committee - envio de mimos temáticos e exclusivos;
+ Gympass;
+ Gympass;
+ Horário flexível (40h semanais);
+ Horário flexível (40h semanais);
+ Day off no dia do aniversário;
+ Day off no dia do aniversário;
+ Appreciation - Programa de reconhecimento com possibilidade de doar e receber 'dentsu dolars' mensalmente;
+ Appreciation - Programa de reconhecimento com possibilidade de doar e receber 'dentsu dolars' mensalmente;
+ Atuação 100% remota ou híbrida (a sua escolha).
+ Atuação 100% remota ou híbrida (a sua escolha).
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: General Interview2General Interview
+Etapa 2: General Interview
+2
+General Interview
+Etapa 3: Technical Interview3Technical Interview
+Etapa 3: Technical Interview
+3
+Technical Interview
+Etapa 4: Team Interview4Team Interview
+Etapa 4: Team Interview
+4
+Team Interview
+Etapa 5: Offer5Offer
+Etapa 5: Offer
+5
+Offer
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+DESCUBRA A DWS
+Somos uma empresa do grupo Dentsu, focada em tecnologia. Na DWS Brazil solucionamos complexos desafios de negócio através de inovação com o nosso time especializado em desenvolvimento e design, atendendo projetos provenientes de agências do grupo que estão localizadas em diversos países do mundo.
+Somos uma empresa do grupo Dentsu, focada em tecnologia. Na DWS Brazil solucionamos complexos desafios de negócio através de inovação com o nosso time especializado em desenvolvimento e design, atendendo projetos provenientes de agências do grupo que estão localizadas em diversos países do mundo.
+Com equipes especializadas em transformação digital, nosso foco é a potencialização de talentos através da criação de um ambiente que visa o equilíbrio entre o desenvolvimento das pessoas e soluções criativas e inovadoras aos nossos clientes.
+Com equipes especializadas em transformação digital, nosso foco é a potencialização de talentos através da criação de um ambiente que visa o equilíbrio entre o desenvolvimento das pessoas e soluções criativas e inovadoras aos nossos clientes.
+Buscamos pessoas engajadas nos seus sonhos, que gostem de atuar em equipe e compartilhar conhecimento, que respeitem a diversidade e os pluralismos e que estejam atentas à produção com excelência.
+👉 Todo o equipamento necessário para seu trabalho (notebook e periféricos);
+👉 Todo o equipamento necessário para seu trabalho (notebook e periféricos);
+👉 Plano de saúde e odontológico;
+👉 Plano de saúde e odontológico;
+👉 Seguro de vida;
+👉 Seguro de vida;
+👉 Mental health program;
+👉 Mental health program;
+👉 Anywhere office - flexibilidade para trabalhar de onde precisar;
+👉 Anywhere office - flexibilidade para trabalhar de onde precisar;
+👉 VR/VA (cartão de benefícios Flash);
+👉 VR/VA (cartão de benefícios Flash);
+👉 Auxílio home office (cartão de benefícios Flash);
+👉 Auxílio home office (cartão de benefícios Flash);
+👉 Auxílio mobilidade (cartão de benefícios Flash);
+👉 Auxílio mobilidade (cartão de benefícios Flash);
+👉 Programa de mentoria para desenvolvimento e acompanhamento de carreira;
+👉 Programa de mentoria para desenvolvimento e acompanhamento de carreira;
+👉 Participação nas tracks de desenvolvimento (investimento em cursos e etc) e acesso a nossa plataforma gratuita com muitos cursos para self Learning;
+👉 Participação nas tracks de desenvolvimento (investimento em cursos e etc) e acesso a nossa plataforma gratuita com muitos cursos para self Learning;
+👉 Aulas de inglês com professor particular;
+👉 Aulas de inglês com professor particular;
+👉 Awesomeness Committee - envio de mimos temáticos e exclusivos;
+👉 Awesomeness Committee - envio de mimos temáticos e exclusivos;
+👉 Gympass;
+👉 Gympass;
+👉 Horário flexível;
+👉 Horário flexível;
+👉 Day off no dia do aniversário;
+👉 Day off no dia do aniversário;
+👉 Appreciation - Programa de reconhecimento com possibilidade de doar e receber 'dentsu dolars' mensalmente;
+👉 Appreciation - Programa de reconhecimento com possibilidade de doar e receber 'dentsu dolars' mensalmente;
+👉 Atuação 100% remota ou híbrida (a sua escolha).
+👉 Atuação 100% remota ou híbrida (a sua escolha).
+ 
+ 
+Tudo isso num ambiente colaborativo, com respeito e confiança, desenvolvendo projetos globais com times multiculturais.
+Tudo isso num ambiente colaborativo, com respeito e confiança, desenvolvendo projetos globais com times multiculturais.
+Muitos desafios, aprendizado e crescimento esperam você na DWS Brazil!
+Muitos desafios, aprendizado e crescimento esperam você na DWS Brazil!
+#vemserDWSiane
+CONHEÇA A GENTE UM POUCO MAIS DE PERTO EM NOSSAS REDES SOCIAIS
+Website
+LinkedIn
+Instagram

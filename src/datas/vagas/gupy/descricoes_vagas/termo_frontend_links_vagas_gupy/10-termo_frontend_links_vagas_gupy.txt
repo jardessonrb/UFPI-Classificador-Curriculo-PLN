@@ -1,0 +1,104 @@
+link_vaga-https://vr.gupy.io/job/eyJqb2JJZCI6Nzg4OTkwNywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+VR BENEFÍCIOS | PESSOA ESPECIALISTA SISTEMAS TI I (DEV FRONTEND)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Você gosta de transformar, realizar e fazer a diferença na vida das pessoas?
+É inovador, criativo, curioso e gosta de estar por dentro das tendências?
+ 
+VR Benefícios é seu lugar.
+Venha fazer parte desse time!
+ 
+Buscamos um(a) Especialista Sistemas TI I para atuar como desenvolvedor Frontend no time Autosserviço RH na BU de Benefícios.
+O time é responsável pelas jornadas de transferência de crédito, recolhimento de crédito, desbloqueio de AR e rastreio de entrega de cartões que são utilizadas pelos Clientes Empregadores no Portal Empregador e Super Portal.
+Time também é responsável pelo Portal Canal (legado e novo) e Portal Emissor (legado e novo).
+RESPONSABILIDADES E ATRIBUIÇÕES
+RESPONSABILIDADES E ATRIBUIÇÕES:
+Prover soluções diversas através do desenvolvimento de sistemas complexos, apoiando quando necessário no desenho técnico e na definição de tecnologias e ferramentas à serem utilizadas;
+Apoiar em pesquisa e aplicação de novas tecnologias visando a inovação no desenvolvimento de soluções;
+Trazer as melhores ferramentas e práticas de mercado a fim de viabilizar a criação de protótipos, MVPs e evolução dos produtos;
+Buscar a melhoria contínua do processo de desenvolvimento e evolução das soluções, sendo referência nos times com os quais trabalha e provendo assessoria e aconselhamento especializado quando necessário.
+REQUISITOS E QUALIFICAÇÕES
+REQUISITOS E QUALIFICAÇÕES:
+Superior completo em Ciências de Computação, Sistemas de Informação, ou áreas afins;
+Experiência com desenvolvimento Frontend em geral (mínimo 7 anos);
+Sólidos conhecimentos em Javascript;
+Sólidos conhecimentos em React JS;
+Ter atuado com aplicações Microfrontend (Module Federation);
+Pré processadores de estilo (SASS, Stitches, Styled Components, etc);
+Experiência em ferramentas de gerenciamento de estado da aplicação (Context API, Redux, Redux Saga, etc);
+Experiência e vivência em times voltados a construção, sustentação e evolução de produtos;
+Conhecimentos em controle de versão no Git e gerenciamento de dependências;
+Experiência com desenvolvimento de testes automatizados;
+Integrações com APIs RESTful;
+Typescript;
+Experiência em reuso de padrões ("Design System / Whitelabel").
+DIFERENCIAL:
+Vivência em metodologias ágeis;
+Especialização ou MBA na área de atuação;
+Conhecimento em análises de performance;
+Webpack;
+Next JS;
+Acessibilidade na web (A11y);
+Angular JS (1.x);
+Gulp.
+INFORMAÇÕES ADICIONAIS
+O que a VR Benefícios te oferece?
+Vale Refeição
+Vale Alimentação
+Auxílio Capacitação Mensal
+Vale Cultura
+Assistência Médica
+Assistência Odontológica
+Seguro de Vida
+Convênio com farmácia
+Programa de Participação de Resultados
+Horário Flexível
+Auxílio Home Office Mensal
+Total Pass
+Parceria com a Zenklub
+Auxílio Creche/Babá
+Programa de Bem-Estar e Saúde: Bem Me Quero
+Licenças remuneradas:
+- Licença maternidade de 180 dias e Licença paternidade de 20 dias
+- Licença casamento de até 10 dias corridos
+- Licença aniversário, dia dos Pais e dia das Mães de 1 dia
+- Licença Falecimento de até 15 dias corridos
+A VR acredita que a diversidade transforma o mundo. Todas as nossas oportunidades também são para PCDs (Pessoas com Deficiências). Se você atende os requisitos e tem interesse na posição, candidate-se!
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem com consultoria2Triagem com consultoria
+Etapa 2: Triagem com consultoria
+2
+Triagem com consultoria
+Etapa 3: Entrevistas VR3Entrevistas VR
+Etapa 3: Entrevistas VR
+3
+Entrevistas VR
+Etapa 4: Contratação4Contratação
+Etapa 4: Contratação
+4
+Contratação
+DESEJA CAUSAR IMPACTO SOCIAL POSITIVO E MELHORAR A VIDA DE MILHÕES DE BRASILEIROS? VEM PRA VR! 💚
+Quando você escuta a palavra VR, o que vem na sua mente: refeição e alimentação? A resposta está correta. ﻿Mas saiba que, agora, somos um ecossistema de soluções diversas que está presente em toda a jornada do trabalhador, da hora que ele acorda ao anoitecer.
+Queremos fazer o dinheiro do trabalhador render mais, ampliar seu poder de compra, garantir comida de qualidade na mesa, facilitar sua mobilidade, proporcionar uma jornada de trabalho mais equilibrada e melhorar sua qualidade de vida. Somos agentes de transformação e queremos mudar a realidade do Brasil, facilitando o ‘corre’ de quem batalha diariamente por melhores condições.
+Para isso, temos unidades de negócio especializadas em mobilidade, gestão de pessoas, marketplaces e ofertas, estabelecimentos comerciais, serviços financeiros, além dos já conhecidos benefícios em alimentação, nossa vocação desde a origem em 1977.
+Com muita tecnologia, de pessoas para pessoas, hoje impactamos positivamente mais de 4 milhões de trabalhadores e 80 mil empresas clientes, entre públicas e privadas.
+#VemPraVR e faça parte dessa transformação! 
+QUER SABER MAIS DA VR? ACOMPANHA NOSSAS REDES SOCIAIS!
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

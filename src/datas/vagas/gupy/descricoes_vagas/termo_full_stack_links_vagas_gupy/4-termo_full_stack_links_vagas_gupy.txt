@@ -1,0 +1,165 @@
+link_vaga-https://mercos.gupy.io/job/eyJqb2JJZCI6NzkwMzI1OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA FULL STACK PLENO [PYTHON JAVASCRIPT]
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Se você é uma pessoa programadora acima da média, não tem medo de aprender linguagens e tecnologias novas, busca desenvolver um software de qualidade, bem modelado e testado, esta vaga é para você!  Aqui, você será incentivado a perguntar o motivo da alteração que está fazendo e a resposta não será "porque o cliente está pagando". 
+Se você é uma pessoa programadora acima da média, não tem medo de aprender linguagens e tecnologias novas, busca desenvolver um software de qualidade, bem modelado e testado, esta vaga é para você!  Aqui, você será incentivado a perguntar o motivo da alteração que está fazendo e a resposta não será "porque o cliente está pagando". 
+ 
+ 
+Se interessou? Venha construir uma das melhores startups do Brasil!
+Se interessou? Venha construir uma das melhores startups do Brasil!
+Como é o nosso BackEnd:
+Python / Django;
+Python / Django;
+MySQL / Redis;
+MySQL / Redis;
+Clean Architecture: Regras de negócio isoladas do framework;
+Clean Architecture: Regras de negócio isoladas do framework;
+Testes automatizados e TDD onde for possível;
+Testes automatizados e TDD onde for possível;
+Legado com regras em models e views que estamos migrando aos poucos;
+Legado com regras em models e views que estamos migrando aos poucos;
+﻿
+﻿
+Como é o nosso FrontEnd:
+Javascript / React;
+Javascript / React;
+Flexbox e SASS;
+Flexbox e SASS;
+Redux apenas nas telas mais complexas;
+Redux apenas nas telas mais complexas;
+Testes de UI e de regressão visual;
+Testes de UI e de regressão visual;
+Legado com restos de Bootstrap e jQuery que estamos migrando aos poucos;
+Legado com restos de Bootstrap e jQuery que estamos migrando aos poucos;
+RESPONSABILIDADES E ATRIBUIÇÕES
+Participar do desenvolvimento das nossas APIs utilizando Python e aplicações web responsivas usando ReactColaborar ativamente nas decisões técnicas envolvendo os projetos (modelagem de base, arquitetura de código etc.)Ser um exemplo na nossa cultura de construção de um código de qualidade (bem simples, bem modelado, bem testado, poucos bugs)Se engajar no desenvolvimento de seus pares em um ambiente de aprendizagem colaborativa (Pair programming, code review, palestras internas, etc)
+Participar do desenvolvimento das nossas APIs utilizando Python e aplicações web responsivas usando React
+Colaborar ativamente nas decisões técnicas envolvendo os projetos (modelagem de base, arquitetura de código etc.)
+Ser um exemplo na nossa cultura de construção de um código de qualidade (bem simples, bem modelado, bem testado, poucos bugs)
+Se engajar no desenvolvimento de seus pares em um ambiente de aprendizagem colaborativa (Pair programming, code review, palestras internas, etc)
+REQUISITOS E QUALIFICAÇÕES
+O que esperamos de você:
+Hard Skills
+Ter experiência entregando e mantendo aplicações em produção usando algum framework moderno:
+Ter experiência entregando e mantendo aplicações em produção usando algum framework moderno:
+Backend - Rails, Django, Laravel, etc;
+Backend - Rails, Django, Laravel, etc;
+ FrontEnd - React, Angular, Vue, etc
+ FrontEnd - React, Angular, Vue, etc
+Ter experiência aplicando Clean Code e escrevendo Testes Automatizados
+Ter experiência aplicando Clean Code e escrevendo Testes Automatizados
+Entender os tradeoffs nas ferramentas e decisões técnicas além do hype
+Entender os tradeoffs nas ferramentas e decisões técnicas além do hype
+Soft Skills:
+:
+Entender que erros são oportunidades de aprendizado;
+Ter pensamento crítico e escuta ativa durante resolução de problemas;
+Saber compartilhar ideias;
+Conseguir se comunicar com o time em reuniões, pairs, sprints e em outros contextos do dia-a-dia.
+Será um diferencial se você tiver experiência com:
+ Clean Architecture ou Domain Driven Design
+ Clean Architecture ou Domain Driven Design
+Test Driven Development ou Design Patterns
+Test Driven Development ou Design Patterns
+INFORMAÇÕES ADICIONAIS
+Como é o time:
+Um time de profissionais de produto, designers e desenvolvedores onde todos são encorajados a perguntar o motivo do que estão fazendo e sugerir alternativas melhores
+Muitos desafios onde a qualidade do produto e do código é muito cobrada
+Não fazemos customizações, pois os recursos são usados todos os dias por milhares de usuários
+20% do tempo dedicado na colaboração em demandas técnicas e projetos internos voltados para a evolução e melhorias internas.
+Como é a infraestrutura:
+Posto de trabalho com Mac sem restrições de acesso
+Posto de trabalho com Mac sem restrições de acesso
+Licença do Jetbrains PyCharm e liberdade para usar a IDE de sua preferência
+Licença do Jetbrains PyCharm e liberdade para usar a IDE de sua preferência
+Ferramentaria de CI/CD com mais de 4.000 testes para podermos liberar alterações com confiança
+Ferramentaria de CI/CD com mais de 4.000 testes para podermos liberar alterações com confiança
+Cobertura de mais de 79% de código (e aumentando), para podermos dormir tranquilos de noite
+Cobertura de mais de 79% de código (e aumentando), para podermos dormir tranquilos de noite
+Como é o nosso ambiente de trabalho
+Great Place To Work®: 9º lugar entre as melhores médias empresas para se trabalhar em Santa Catarina e 27º lugar das empresas de TI do Brasil
+Great Place To Work®: 9º lugar entre as melhores médias empresas para se trabalhar em Santa Catarina e 27º lugar das empresas de TI do Brasil
+Avaliação de 4.7 na Glassdoor, com 95% de recomendação!
+Avaliação de 4.7 na Glassdoor, com 95% de recomendação!
+Top 20 empresas no Ranking Virtuous Company de Cultura Ética
+Top 20 empresas no 
+A Mercos é uma empresa Remote First e fazemos apenas contratações CLT.
+A Mercos é uma empresa 
+e fazemos apenas contratações 
+Benefícios
+💰PLR - Programa de Participação nos Lucros e Resultados
+Programa de Participação nos Lucros e Resultados
+🍎Auxilio Home-office + Vale alimentação/refeição no cartão de benefícios flexíveis Caju
+🚑Plano de Saúde e Odontológico com cobertura nacional
+👩🏽‍⚕️Acesso à Moodar para atendimento psicológico online
+🚑Parceria com a Vidalink para descontos em farmácias
+💸Benefício de bem-estar financeiro com a Leve
+💸Benefício de bem-estar financeiro com a Leve
+💻Acesso à UnicoSkill, plataforma de treinamentos que incluem graduação, pós graduação, curso de idiomas e treinamentos diversos
+💻Acesso à UnicoSkill, plataforma de treinamentos que incluem graduação, pós graduação, curso de idiomas e treinamentos diversos
+🏋🏼‍♀️Wellhub
+Wellhub
+Vantagens:
+👶🏾Licença Parental estendida (Empresa Cidadã): 6 meses de Licença Maternidade e 20 dias de Licença Paternidade
+🍉Cozinha abastecida com lanches e frutas no escritório em Joinville/SC
+🎉Day-off no mês do seu aniversário
+🤑Bônus de indicação para indicação de novos MPlayers
+🤑Bônus de indicação para indicação de novos MPlayers
+📚Livro Livre (você indica e a gente compra)
+📚Livro Livre (você indica e a gente compra)
+👨🏻‍🏫Parceria com instituições de ensino e idiomas
+👨🏻‍🏫Parceria com instituições de ensino e idiomas
+🤓Treinamentos e workshops para aprendizado
+🤓Treinamentos e workshops para aprendizado
+
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem Técnica2Triagem Técnica
+Etapa 2: Triagem Técnica
+2
+Triagem Técnica
+Etapa 3: Perfil comportamental3Perfil comportamental
+Etapa 3: Perfil comportamental
+3
+Perfil comportamental
+Etapa 4: Entrevista Técnica4Entrevista Técnica
+Etapa 4: Entrevista Técnica
+4
+Entrevista Técnica
+Etapa 5: Entrevista de Cultura5Entrevista de Cultura
+Etapa 5: Entrevista de Cultura
+5
+Entrevista de Cultura
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+SOMOS A MERCOS
+Nosso propósito é movimentar a economia do Brasil, porque acreditamos que movimentar a economia melhora a vida das pessoas!
+Ajudar marcas a conquistar mercados é a nossa missão e fazemos isso através de um software que ajuda indústrias e distribuidoras de bens de consumo em todo o Brasil a potencializar vendas. Reunimos automação de força de vendas, CRM e E-commerce B2B em uma única plataforma trazendo agilidade e aumento de vendas para os nossos clientes.
+Desta forma, nós impactamos positivamente a rotina de todos os envolvidos na operação comercial: do representante à equipe de apoio interno, do gerente comercial ao diretor, do marketing ao TI da empresa. Além de tudo, entregamos a solução Mercos também para os clientes de nossos clientes, que ganham muita flexibilidade e agilidade na reposição de produtos com nosso e-commerce B2B. 
+Convidamos você a conhecer mais sobre o que estamos construindo ao longo destes mais de 10 anos de história.
+Por que trabalhar na Mercos? 
+Porque a Mercos é feita por todos nós! Somos mais de 150 Mplayers buscando criar um ambiente que permita a diversidade e inclusão, tendo o respeito como o fio condutor das nossas ações :) 
+Nossa cultura é a nossa força e nossos valores são a nossa identidade: Autores da nossa história, Práticos, Coragem para aprender, Sócios do cliente, Dignos de confiança, Desafio sempre, descontração quase sempre!
+Contribua para esta jornada, venha ser um Mplayer!
+NOS ACOMPANHE POR AÍ.
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor
+SAIBA COMO É NOSSO TIME DEV!

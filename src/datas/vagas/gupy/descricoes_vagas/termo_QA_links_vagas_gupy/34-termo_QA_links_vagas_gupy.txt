@@ -1,0 +1,96 @@
+link_vaga-https://fcamara.gupy.io/job/eyJqb2JJZCI6ODAwNjAyNSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+QA TESTER / AUTOMAÇÃO - SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A FCamara está em busca de uma pessoa Analista QA Tester/Automação para atuar em uma Squad Muldisciplinar FCamara, que detenha os domínios tecnológicos e práticas necessárias de Governança, incluindo serviços de DEVOPS, SecOpsSec e SRE baseados no modelo AGILE.
+A FCamara está em busca de uma 
+ para atuar em uma Squad Muldisciplinar FCamara, que detenha os domínios tecnológicos e práticas necessárias de Governança, incluindo serviços de DEVOPS, SecOpsSec e SRE baseados no modelo AGILE.
+RESPONSABILIDADES E ATRIBUIÇÕES
+O Grupo SADA busca evoluir um software denominado SADA LOG 2.0 onde o código fonte foi recém adquirido de empresa parceira.
+A ideia é dominar todas as camadas dessa aplicação, incluindo arquitetura, infraestrutura, segurança, experiência do usuário, regras de negócio e todas as demais, melhorando a aplicação atual e criando novas funcionalidades em uma arquitetura mais segura, mais interativa, mais performática e escalável.
+REQUISITOS E QUALIFICAÇÕES
+- Desenvolver abordagem de teste e cenários de teste com base nos requisitos do sistema;
+- Desenvolver abordagem de teste e cenários de teste com base nos requisitos do sistema;
+- Identificar defeitos, reportar status das execuções e impeditivos;
+- Identificar defeitos, reportar status das execuções e impeditivos;
+- Desenvolver e implementar estratégias abrangentes de automação de testes para sistemas front-end e back-end.
+- Desenvolver e implementar estratégias abrangentes de automação de testes para sistemas front-end e back-end.
+- Criar e executar cenários de teste/casos de teste detalhados, articulando objetivos, etapas e resultados esperados.
+- Criar e executar cenários de teste/casos de teste detalhados, articulando objetivos, etapas e resultados esperados.
+- Experiência sólida em automação de testes, especialmente com foco em Python e Robot Framework.
+- Experiência sólida em automação de testes, especialmente com foco em Python e Robot Framework.
+- Trabalhar em estreita colaboração com desenvolvedores, garantindo que os casos de teste estejam alinhados com os requisitos funcionais e não funcionais.
+- Trabalhar em estreita colaboração com desenvolvedores, garantindo que os casos de teste estejam alinhados com os requisitos funcionais e não funcionais.
+- Testar APIs REST utilizando ferramentas como Postman, Swagger e/ou SoapUI.
+- Testar APIs REST utilizando ferramentas como Postman, Swagger e/ou SoapUI.
+- Utilizar Gherkin para criar e implementar histórias de teste.
+- Utilizar Gherkin para criar e implementar histórias de teste.
+- Experiência com rastreamento de defeitos e uso de software de gerenciamento de requisitos, preferencialmente JIRA.
+- Experiência com rastreamento de defeitos e uso de software de gerenciamento de requisitos, preferencialmente JIRA.
+- Propor ao time melhorias no processo que aprimorem o resultado que entregamos;
+- Propor ao time melhorias no processo que aprimorem o resultado que entregamos;
+- Experiência com BDD (preferível com Cucumber);
+- Experiência com BDD (preferível com Cucumber);
+- Experiência em frameworks ágeis (scrum, kanban, lean etc);
+- Experiência em frameworks ágeis (scrum, kanban, lean etc);
+- Experiência em ferramentas de controle de versão (principalmente Git/Gitlab);
+- Experiência em ferramentas de controle de versão (principalmente Git/Gitlab);
+- Experiência e conhecimento em Kanbanize (ou ferramentas similares);
+- Experiência e conhecimento em Kanbanize (ou ferramentas similares);
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista R&S2Entrevista R&S
+Etapa 2: Entrevista R&S
+2
+Entrevista R&S
+Etapa 3: Entrevista Técnica3Entrevista Técnica
+Etapa 3: Entrevista Técnica
+3
+Entrevista Técnica
+Etapa 4: Entrevista Cliente4Entrevista Cliente
+Etapa 4: Entrevista Cliente
+4
+Entrevista Cliente
+Etapa 5: Carta Proposta5Carta Proposta
+Etapa 5: Carta Proposta
+5
+Carta Proposta
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+TRANSFORMAMOS MUNDOS SONHADOS EM TRAJETÓRIAS REAIS.🧡🚀
+Aqui somos #SangueLaranja!Estamos há 17 anos no mercado, lado a lado com nossos clientes, proporcionando experiências transformadoras. Somos um ecossistema de tecnologia e inovação, com expansão global; Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda. 🌎  F de Formação: acreditamos na prática da cultura do compartilhamento, no senso de comunidade, e que o conhecimentotem o poder da transformação! Possuímos iniciativas, e ações sociais, que promovem o desenvolvimento, como a comunidade tech Orange Juice, o Programa de Formação,nossa escola de liderança e diversas parcerias com ONGs e Edtechs.   Na FCamara todos são bem-vindos, para nós, Diversidade, Respeito e Ética, são elementos inegociáveis e fazem parte do nosso DNA.   E aí, está pronto para fazer parte de um time incrível e ser protagonista da própria história?    
+Aqui somos #SangueLaranja!
+Estamos há 17 anos no mercado, lado a lado com nossos clientes, proporcionando experiências transformadoras. 
+Somos um ecossistema de tecnologia e inovação, com expansão global; Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda. 🌎
+Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda.
+  
+F de Formação: acreditamos na prática da cultura do compartilhamento, no senso de comunidade, e que o conhecimento
+tem o poder da transformação!
+ 
+Possuímos iniciativas, e ações sociais, que promovem o desenvolvimento, como a comunidade tech Orange Juice, o Programa de Formação,
+nossa escola de liderança e diversas parcerias com ONGs e Edtechs. 
+  
+Na FCamara todos são bem-vindos, para nós, Diversidade, Respeito e Ética, são elementos inegociáveis e fazem parte do nosso DNA. 
+  
+E aí, está pronto para fazer parte de um time incrível e ser protagonista da própria história? 
+   
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

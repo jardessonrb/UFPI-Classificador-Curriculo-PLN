@@ -1,0 +1,140 @@
+link_vaga-https://caplink.gupy.io/job/eyJqb2JJZCI6ODAzNDc5OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA ESTAGIÁRIA DE AUTOMAÇÃO DE TESTES E QA
+Tipo de vaga: EstágioEstágio
+Tipo de vaga: Estágio
+Estágio
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+Olá, muito prazer! Somos a CapLink, uma startup que nasceu dentro da Hype Empreendimentos com o objetivo de simplificar o mercado de financiamento imobiliário no Brasil.
+ 
+Somos uma empresa remota, mas oferecemos um espaço de trabalho em Curitiba/PR para quem prefere um ambiente físico. De qualquer modo, somos remote first e todos utilizamos nosso escritório virtual.
+ 
+Aqui na CapLink, revolucionamos as operações de financiamento imobiliário. Com nossas ferramentas inovadoras e nossa consultoria especializada, simplificamos a jornada de contratação e otimizamos a gestão de operações de maneira eficiente e descomplicada.
+ 
+Estamos em busca de uma Pessoa Estagiária de Automação de Testes e QA para se juntar ao nosso time de desenvolvimento. Estará envolvida em diversos projetos e atividades, contribuindo para o desenvolvimento de testes automatizados e execução de QA em colaboração com a equipe de desenvolvimento, sempre utilizando as melhores práticas de engenharia de software e de dados. Nesta posição, você terá a oportunidade de aprender e crescer em um ambiente dinâmico e colaborativo.
+RESPONSABILIDADES E ATRIBUIÇÕES
+— RESPONSABILIDADES E ATRIBUIÇÕES
+— 
+Criar, executar e automatizar cenários de teste, assegurando uma cobertura abrangente dos processos;
+Aplicar boas práticas estabelecidas para o desenvolvimento de automações de testes;
+Colaborar com equipe de desenvolvimento e de dados para entender requisitos e garantir a qualidade na implementação de novas features e processos;
+Desenvolver testes automatizados e executar QA em colaboração com a equipe de desenvolvimento;
+Investigar e relatar bugs, monitorando a resolução e garantindo a qualidade nas entregas;
+REQUISITOS E QUALIFICAÇÕES
+— REQUISITOS
+— 
+Graduando a partir do 2° ano em Engenharias, Ciências da Computação, Análise e Desenvolvimento de Sistemas ou áreas relacionadas à tecnologia da informação; 
+Conhecimento em metodologias ágeis; 
+Habilidade para identificar e relatar bugs de forma clara e eficaz; 
+Proatividade e Senso de Urgência; 
+Capacidade Analítica e Raciocínio Lógico; 
+Trabalhar com equipes multidisciplinares; 
+Curiosidade e vontade de aprender constantemente;
+— SERÁ MUITO BOM SE VOCÊ POSSUIR
+— 
+Conhecimento de desenvolvimento de scripts com Python; 
+Conhecimento de desenvolvimento de testes end to end; 
+Noção de Requisições em API's (Rest e/ou GraphQL); 
+Bons conhecimentos de lógica e programação; 
+Bom nível de inglês; 
+INFORMAÇÕES ADICIONAIS
+Benefícios:    
+  
+
+Nos preocupamos com o bem-estar de nossos colaboradores! Se liga nos benefícios que oferecemos a seguir:      
+Nos preocupamos com o bem-estar de nossos colaboradores! Se liga nos benefícios que oferecemos a seguir:      
+ 
+ 
+🌟 Ifood Benefícios: Desfrute de 1 ano gratuito no clube Ifood, com cupons de descontos exclusivos e diversos parceiros conectados à plataforma;   
+🌟 
+ Desfrute de 1 ano gratuito no clube Ifood, com cupons de descontos exclusivos e diversos parceiros conectados à plataforma;   
+🍽️ Cartão Alimentação/Refeição: Com o Ifood Benefícios, você tema a liberdade de escolher entre uma variedade de restaurantes e mercados, para suas despesas com alimentação ou refeição;   
+🍽️ 
+ Com o Ifood Benefícios, você tema a liberdade de escolher entre uma variedade de restaurantes e mercados, para suas despesas com alimentação ou refeição;   
+🚍 Vale-Transporte ou Mobilidade: Você tem a liberdade de escolher entre o vale-transporte tradicional para transporte público ou alternativas de mobilidade, atendendo às suas preferências e necessidades de deslocamento;    
+🚍 
+ Você tem a liberdade de escolher entre o vale-transporte tradicional para transporte público ou alternativas de mobilidade, atendendo às suas preferências e necessidades de deslocamento;    
+🖥️ Trabalho Híbrido: Beneficie-se de um modelo de trabalho híbrido, combinando home office e presença no escritório, em combinação com seu gestor. Isso permite flexibilidade e adaptação ao seu estilo de vida, mantendo a eficiência e colaboração no trabalho.  
+🖥️ 
+: Beneficie-se de um modelo de trabalho híbrido, combinando home office e presença no escritório, em combinação com seu gestor. Isso permite flexibilidade e adaptação ao seu estilo de vida, mantendo a eficiência e colaboração no trabalho.  
+🩺 Avus: Consulta médica e de Telemedicina (24h) com descontos especiais, proporcionando acesso fácil a diversas especialidades médicas;    
+🩺 
+ Consulta médica e de Telemedicina (24h) com descontos especiais, proporcionando acesso fácil a diversas especialidades médicas;    
+😁 Procedimentos odontológicos com até 40% de desconto para manter seu sorriso saudável;    
+😁 
+com até 40% de desconto para manter seu sorriso saudável;    
+🧠 Assistência Psicológica e Orientação Jurídica pela Optum para cuidar da sua mente e fornecer suporte legal;    
+🧠 
+ pela Optum para cuidar da sua mente e fornecer suporte legal;    
+💰 Consultoria Financeira e Serviço Social pela Optum, para garantir equilíbrio financeiro e apoio social;     
+💰 
+ pela Optum, para garantir equilíbrio financeiro e apoio social;     
+🌈 Para aliviar o estresse, conte com o Zen! Programas dedicados a reduzir o estresse e ansiedade, incluindo consultas com profissionais qualificados e terapia online pelo PsicologiaViva;    
+🌈 
+ Programas dedicados a reduzir o estresse e ansiedade, incluindo consultas com profissionais qualificados e 
+  
+🏋 Quanto à vida fitness, oferecemos o TotalPass, escolha o plano que mais se encaixa no seu estilo de movimento!      
+🏋 Quanto à vida fitness, oferecemos o 
+, escolha o plano que mais se encaixa no seu estilo de movimento!      
+🚴‍♂️Ainda no campo da saúde, temos o StarBem, um aplicativo super moderno e focado em saúde. Nele temos a função de check-in emocional, descontos em consultas (via videochamada), exames e medicamentos. Os hypers possuem a assinatura Star Silver, disponibilizando créditos mensais para agendar gratuitamente consultas psicológicas, com nutricionistas e com demais especialistas.  
+🚴‍♂️Ainda no campo da saúde, temos o 
+, um aplicativo super moderno e focado em saúde. Nele temos a função de check-in emocional, descontos em consultas (via videochamada), exames e medicamentos. Os hypers possuem a assinatura Star Silver, disponibilizando créditos mensais para agendar gratuitamente consultas psicológicas, com nutricionistas e com demais especialistas.  
+  
+  
+ATENÇÃO: toda nossa comunicação oficial é feita por e-mail. Assim, caso você não receba algum retorno nosso, não esqueça de checar sua lixeira ou SPAM.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Teste de Raciocínio Lógico 3Teste de Raciocínio Lógico 
+Etapa 3: Teste de Raciocínio Lógico 
+3
+Teste de Raciocínio Lógico 
+Etapa 4: Conversa com RH4Conversa com RH
+Etapa 4: Conversa com RH
+4
+Conversa com RH
+Etapa 5: Teste / Case5Teste / Case
+Etapa 5: Teste / Case
+5
+Teste / Case
+Etapa 6: Apresentação do Case - Liderança6Apresentação do Case - Liderança
+Etapa 6: Apresentação do Case - Liderança
+6
+Apresentação do Case - Liderança
+Etapa 7: Entrevista Final7Entrevista Final
+Etapa 7: Entrevista Final
+7
+Entrevista Final
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+VENHA PARTICIPAR DA TRANSFORMAÇÃO DO MERCADO DE FINANCIAMENTO IMOBILIÁRIO!
+Há mais de 2 anos no mercado, somos uma startup que nasceu dentro da Hype Empreendimentos com o objetivo de simplificar o mercado de financiamento imobiliário no Brasil.
+Há mais de 2 anos no mercado, somos uma startup que nasceu dentro da Hype Empreendimentos com o objetivo de simplificar 
+o mercado de financiamento imobiliário
+ no Brasil.
+Somos uma empresa remota, mas oferecemos um espaço de trabalho em Curitiba/PR para quem prefere um ambiente físico e reuniões presenciais. Para os que optam pelo trabalho remoto, utilizamos um escritório virtual.
+Somos uma empresa remota, mas oferecemos um espaço de trabalho em Curitiba/PR para quem prefere um ambiente físico e reuniões presenciais. Para os que optam pelo trabalho remoto, utilizamos um escritório virtual.
+Aqui na CapLink, revolucionamos as operações de financiamento imobiliário. Com nossas ferramentas inovadoras e nossa consultoria especializada, simplificamos a jornada de contratação e otimizamos a gestão de operações de maneira eficiente e descomplicada.
+Aqui na CapLink
+, revolucionamos as operações de financiamento imobiliário. Com nossas ferramentas inovadoras e nossa consultoria especializada, simplificamos a jornada de contratação e otimizamos a gestão de operações de maneira eficiente e descomplicada.
+Nosso time trabalha em duas frentes distintas porém complementares:
+Nosso time trabalha em duas frentes distintas porém complementares:
+BPO (Business Process Operations) → Nosso time de especialistas em Financiamentos Imobiliários trabalha junto aos clientes, oferecendo consultoria estruturada para garantir que, em todas as etapas do processo de crédito, sejam tomadas as melhores decisões e alcançados os resultados desejados.
+ → Nosso time de especialistas em Financiamentos Imobiliários trabalha junto aos clientes, oferecendo consultoria estruturada para garantir que, em todas as etapas do processo de crédito, sejam tomadas as melhores decisões e alcançados os resultados desejados.
+SaaS (Software as Service) → Nosso time de desenvolvimento de software cria e mantém ferramentas que permitem a construtoras e incorporadoras de todos os tamanhos no Brasil gerenciar operações de crédito com total controle, facilidade e eficiência.
+ → Nosso time de desenvolvimento de software cria e mantém ferramentas que permitem a construtoras e incorporadoras de todos os tamanhos no Brasil gerenciar operações de crédito com total controle, facilidade e eficiência.
+Mais do que uma startup com foco em desenvolver um produto digital, aqui na Caplink ajudamos clientes a transformar e simplificar o mercado de crédito imobiliário no Brasil.    
+Mais do que uma startup com foco em desenvolver um produto digital, aqui na Caplink ajudamos clientes a transformar e simplificar o mercado de crédito imobiliário no Brasil.    
+Se você quer fazer parte desta transformação, participe do nosso processo seletivo e faça parte do #teamcaplink!
+Se você quer fazer parte desta transformação, participe do nosso processo seletivo e faça parte do #teamcaplink!

@@ -1,0 +1,96 @@
+link_vaga-https://fcamara.gupy.io/job/eyJqb2JJZCI6Nzk1NzA0OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+QA SÊNIOR (E-COMMERCE)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A FCamara está em busca de uma pessoa para atuar na posição de QA Sênior (E-commerce).
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver e executar planos de teste, casos de teste e roteiros de teste para garantir que os requisitos de negócios e técnicos sejam atendidos nas soluções de e-commerce.Realizar testes funcionais, de integração, regressão e de usabilidade, focando na experiência do usuário e na performance da aplicação.Criar e manter testes automatizados para garantir a eficiência e a cobertura de testes em diversos ambientes de e-commerce (web e mobile).Identificar, documentar e acompanhar defeitos, além de trabalhar em colaboração com desenvolvedores e equipes de produto para resolver problemas.Realizar testes de performance e carga para garantir que a plataforma e-commerce funcione bem sob alta demanda e em picos de tráfego.Garantir a compatibilidade cross-browser e a responsividade das soluções em diferentes dispositivos.Trabalhar com ferramentas de CI/CD para garantir que testes automatizados sejam executados em pipelines de entrega contínua, proporcionando feedback rápido para as equipes de desenvolvimento.Validar a integração com APIs e garantir que os fluxos de dados entre sistemas externos (ERPs, gateways de pagamento, etc.) estejam corretos e seguros.Realizar testes de segurança e validar que todas as normas de proteção de dados estão sendo seguidas corretamente.Colaborar com times de desenvolvimento e produto para garantir que os critérios de aceitação sejam bem compreendidos e que os testes cubram todos os cenários possíveis.
+Desenvolver e executar planos de teste, casos de teste e roteiros de teste para garantir que os requisitos de negócios e técnicos sejam atendidos nas soluções de e-commerce.
+Realizar testes funcionais, de integração, regressão e de usabilidade, focando na experiência do usuário e na performance da aplicação.
+Criar e manter testes automatizados para garantir a eficiência e a cobertura de testes em diversos ambientes de e-commerce (web e mobile).
+Identificar, documentar e acompanhar defeitos, além de trabalhar em colaboração com desenvolvedores e equipes de produto para resolver problemas.
+Realizar testes de performance e carga para garantir que a plataforma e-commerce funcione bem sob alta demanda e em picos de tráfego.
+Garantir a compatibilidade cross-browser e a responsividade das soluções em diferentes dispositivos.
+Trabalhar com ferramentas de CI/CD para garantir que testes automatizados sejam executados em pipelines de entrega contínua, proporcionando feedback rápido para as equipes de desenvolvimento.
+Validar a integração com APIs e garantir que os fluxos de dados entre sistemas externos (ERPs, gateways de pagamento, etc.) estejam corretos e seguros.
+Realizar testes de segurança e validar que todas as normas de proteção de dados estão sendo seguidas corretamente.
+Colaborar com times de desenvolvimento e produto para garantir que os critérios de aceitação sejam bem compreendidos e que os testes cubram todos os cenários possíveis.
+REQUISITOS E QUALIFICAÇÕES
+Experiência comprovada como QA em projetos de e-commerce, com foco em garantir a qualidade de plataformas complexas.Experiência com ferramentas de automação de testes, como Selenium, Cypress, TestCafe, Playwright ou equivalentes.Sólidos conhecimentos em testes manuais e automatizados em plataformas web e mobile.Experiência com testes de APIs (Postman, Insomnia ou Swagger) e validação de integrações com sistemas externos.Conhecimento em ferramentas de CI/CD (Jenkins, GitLab CI, CircleCI, etc.) e como integrar automação de testes nesses pipelines.Capacidade de realizar testes de performance usando ferramentas como JMeter, Gatling ou equivalentes.Conhecimento de e-commerce platforms (VTEX, Shopify, Magento, etc.) e fluxos de compra online.Experiência com testes de segurança para e-commerce, incluindo verificação de vulnerabilidades comuns como SQL injection, XSS, CSRF, entre outros.Experiência em trabalhar com metodologias ágeis (Scrum, Kanban) e no uso de ferramentas como JIRA ou Azure DevOps para gerenciamento de tarefas.Diferenciais:Experiência com plataformas de e-commerce como VTEX, Shopify ou Magento.Conhecimento em testes de PWA (Progressive Web Apps) e AMP (Accelerated Mobile Pages) para e-commerce.Experiência com ferramentas de monitoramento de performance e análise de logs para depuração de problemas em ambientes de produção.Certificações em testes de software (ISTQB, CSTE, etc.).
+Experiência comprovada como QA em projetos de e-commerce, com foco em garantir a qualidade de plataformas complexas.
+Experiência com ferramentas de automação de testes, como Selenium, Cypress, TestCafe, Playwright ou equivalentes.
+Sólidos conhecimentos em testes manuais e automatizados em plataformas web e mobile.
+Experiência com testes de APIs (Postman, Insomnia ou Swagger) e validação de integrações com sistemas externos.
+Conhecimento em ferramentas de CI/CD (Jenkins, GitLab CI, CircleCI, etc.) e como integrar automação de testes nesses pipelines.
+Capacidade de realizar testes de performance usando ferramentas como JMeter, Gatling ou equivalentes.
+Conhecimento de e-commerce platforms (VTEX, Shopify, Magento, etc.) e fluxos de compra online.
+Experiência com testes de segurança para e-commerce, incluindo verificação de vulnerabilidades comuns como SQL injection, XSS, CSRF, entre outros.
+Experiência em trabalhar com metodologias ágeis (Scrum, Kanban) e no uso de ferramentas como JIRA ou Azure DevOps para gerenciamento de tarefas.
+Diferenciais:
+Experiência com plataformas de e-commerce como VTEX, Shopify ou Magento.
+Conhecimento em testes de PWA (Progressive Web Apps) e AMP (Accelerated Mobile Pages) para e-commerce.
+Experiência com ferramentas de monitoramento de performance e análise de logs para depuração de problemas em ambientes de produção.
+Certificações em testes de software (ISTQB, CSTE, etc.).
+INFORMAÇÕES ADICIONAIS
+Competências:
+Atenção aos detalhes e comprometimento com a entrega de alta qualidade.
+Habilidade de trabalhar em equipe e colaborar com desenvolvedores, analistas de negócio e gerentes de produto.
+Proatividade para identificar possíveis melhorias no processo de testes e na qualidade do produto.
+Capacidade de resolver problemas de forma ágil e eficaz em um ambiente dinâmico.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista R&S2Entrevista R&S
+Etapa 2: Entrevista R&S
+2
+Entrevista R&S
+Etapa 3: Entrevista Técnica3Entrevista Técnica
+Etapa 3: Entrevista Técnica
+3
+Entrevista Técnica
+Etapa 4: Entrevista Cliente4Entrevista Cliente
+Etapa 4: Entrevista Cliente
+4
+Entrevista Cliente
+Etapa 5: Carta Proposta5Carta Proposta
+Etapa 5: Carta Proposta
+5
+Carta Proposta
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+TRANSFORMAMOS MUNDOS SONHADOS EM TRAJETÓRIAS REAIS.🧡🚀
+Aqui somos #SangueLaranja!Estamos há 17 anos no mercado, lado a lado com nossos clientes, proporcionando experiências transformadoras. Somos um ecossistema de tecnologia e inovação, com expansão global; Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda. 🌎  F de Formação: acreditamos na prática da cultura do compartilhamento, no senso de comunidade, e que o conhecimentotem o poder da transformação! Possuímos iniciativas, e ações sociais, que promovem o desenvolvimento, como a comunidade tech Orange Juice, o Programa de Formação,nossa escola de liderança e diversas parcerias com ONGs e Edtechs.   Na FCamara todos são bem-vindos, para nós, Diversidade, Respeito e Ética, são elementos inegociáveis e fazem parte do nosso DNA.   E aí, está pronto para fazer parte de um time incrível e ser protagonista da própria história?    
+Aqui somos #SangueLaranja!
+Estamos há 17 anos no mercado, lado a lado com nossos clientes, proporcionando experiências transformadoras. 
+Somos um ecossistema de tecnologia e inovação, com expansão global; Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda. 🌎
+Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda.
+  
+F de Formação: acreditamos na prática da cultura do compartilhamento, no senso de comunidade, e que o conhecimento
+tem o poder da transformação!
+ 
+Possuímos iniciativas, e ações sociais, que promovem o desenvolvimento, como a comunidade tech Orange Juice, o Programa de Formação,
+nossa escola de liderança e diversas parcerias com ONGs e Edtechs. 
+  
+Na FCamara todos são bem-vindos, para nós, Diversidade, Respeito e Ética, são elementos inegociáveis e fazem parte do nosso DNA. 
+  
+E aí, está pronto para fazer parte de um time incrível e ser protagonista da própria história? 
+   
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

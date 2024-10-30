@@ -1,0 +1,85 @@
+link_vaga-https://deltaglobal.gupy.io/job/eyJqb2JJZCI6NzkyOTY3OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+QA ANALYST|TESTER
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Somos uma das empresas que mais cresce no país e estamos em busca de um(a) Analista de Qualidade de Software | Tester para garantir a qualidade de todas as nossas entregas, através de testes de carga, funcionais e automatizados de softwares que possam ser utilizados em esteira de integração contínua. Se você se considera um profissional disruptivo que está aberto às inovações constantes, venha fazer parte do time de uma startup que virou gente grande e está em processo de expansão.
+ 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Análise do desenvolvimento e correções realizadas no produto garantindo a qualidade da entrega;Visão macro de impactos de cada demanda no fluxo de trabalho de todos os times envolvidos na operação;Atuar na criação de cenários de testes para produtos WEB/MOBILE;Preparação e validação de dados para testes;Execução de testes (funcional, regressão, integração, usabilidade);Reporte de defeitos e melhorias;Geração de evidências de testes;Elaboração de relatórios de métricas de qualidade;Auxílio na documentação do sistema;Apoio na melhoria dos processos de testes e desenvolvimento;Contato com metodologias ágeis (Scrum e Kanban).
+Análise do desenvolvimento e correções realizadas no produto garantindo a qualidade da entrega;
+Visão macro de impactos de cada demanda no fluxo de trabalho de todos os times envolvidos na operação;
+Atuar na criação de cenários de testes para produtos WEB/MOBILE;
+Preparação e validação de dados para testes;
+Execução de testes (funcional, regressão, integração, usabilidade);
+Reporte de defeitos e melhorias;
+Geração de evidências de testes;
+Elaboração de relatórios de métricas de qualidade;
+Auxílio na documentação do sistema;
+Apoio na melhoria dos processos de testes e desenvolvimento;
+Contato com metodologias ágeis (Scrum e Kanban).
+REQUISITOS E QUALIFICAÇÕES
+Formação Superior desejável nas áreas de Tecnologia;Ser comunicativo e colaborativo;Conhecedor em lógica de programação e automação de testes;Experiente em testes: funcionais, integração, performance e regressão;Experiente em preparação de dados e criação de casos para testes;Conhecimento sobre diferentes tipos de teste automatizado: unitários, integrados, funcionais e end to end;Familiaridade com leitura de logs;Boas habilidades de resolução de problemas.  # O que é um diferencial: Definição e melhoria contínua do processo de qualidade;Desenvolvimento de automação de testes de API, automação de testes de micro serviços e automação de testes funcionais;Elaboração de queries SQL para auxílio na execução dos testes;Conhecedor em lógica de programação e automação de testes;Conhecimento em conceitos relacionados a DevOps: Integração e Entrega Contínua, pipelines;Ter uma visão completa do negócio, das integrações entre os times e os sistemas, para buscar soluções de qualidade inovadoras;Propor boas práticas de qualidade e trabalhar na melhoria contínua da cultura e processos de qualidade.
+Formação Superior desejável nas áreas de Tecnologia;
+Ser comunicativo e colaborativo;
+Conhecedor em lógica de programação e automação de testes;
+Experiente em testes: funcionais, integração, performance e regressão;
+Experiente em preparação de dados e criação de casos para testes;
+Conhecimento sobre diferentes tipos de teste automatizado: unitários, integrados, funcionais e end to end;
+Familiaridade com leitura de logs;
+Boas habilidades de resolução de problemas.
+ 
+ 
+# O que é um diferencial:
+ 
+Definição e melhoria contínua do processo de qualidade;
+Desenvolvimento de automação de testes de API, automação de testes de micro serviços e automação de testes funcionais;
+Elaboração de queries SQL para auxílio na execução dos testes;
+Conhecedor em lógica de programação e automação de testes;
+Conhecimento em conceitos relacionados a DevOps: Integração e Entrega Contínua, pipelines;
+Ter uma visão completa do negócio, das integrações entre os times e os sistemas, para buscar soluções de qualidade inovadoras;
+Propor boas práticas de qualidade e trabalhar na melhoria contínua da cultura e processos de qualidade.
+INFORMAÇÕES ADICIONAIS
+Sobre a DELTA:
+ 
+O Grupo Delta completou nove anos em 2024, tendo iniciado como uma startup dedicada à plataforma de assistência a veículos. Hoje somos uma das maiores empresas de tecnologia e serviços para transportadoras e seguradoras do país com mais de 600 mil veículos assistidos, e uma rede de 5 mil prestadores de serviços espalhados por todo o país. A distribuição dos nossos produtos é feita por mais de 2 mil corretores de seguros, e hoje atendemos mais de 10 mil ocorrências por mês. 
+O Grupo Delta completou nove anos em 2024, tendo iniciado como uma startup dedicada à plataforma de assistência a veículos. Hoje somos uma das maiores empresas de tecnologia e serviços para transportadoras e seguradoras do país com mais de 600 mil veículos assistidos, e uma rede de 5 mil prestadores de serviços espalhados por todo o país. A distribuição dos nossos produtos é feita por mais de 2 mil corretores de seguros, e hoje atendemos mais de 10 mil ocorrências por mês. 
+Benefícios:
+Vale alimentação
+Vale refeição
+Assistência médica e odontológica
+Seguro de Vida
+Auxílio Creche
+Auxílio combustível ou vale transporte
+Day Off
+Frutas no local
+Regime de trabalho híbrido
+Wellhub (Gympass)
+Zenklub
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Contratação2Contratação
+Etapa 2: Contratação
+2
+Contratação
+VEM REVOLUCIONAR O MERCADO DE TRANSPORTE COM A GENTE!
+Com responsabilidade, maturidade e alma de startup, pensamos diferente e desafiamos o que para muitos parece impossível. Cultivamos ideias novas e encorajamos nosso time a superar desafios, sempre focado na parte mais importante do nosso negócio: as pessoas.
+Se você acredita no sentido e propósito do trabalho como forma de realização pessoal, se quer fazer parte de algo maior, se gosta de trabalhar em um ambiente descontraído, construir relacionamentos duradouros, temos a certeza de nosso sucesso e crescimento juntos.
+Premiados como Melhor Empresa Para Se Trabalhar (GPTW) há cinco anos consecutivos , acelerados pela Randon Ventures e apoiados pela Endeavor!
+A nossa turma é formada por pessoas que fazem da Delta Global um lugar especial para se trabalhar, onde todos são tratados com igualdade, independentemente de gênero, raça, idade, origem ou orientação sexual, sendo nosso processo baseado em meritocracia.
+Venha fazer parte de uma startup que virou gente grande e está em processo de expansão!
+CONHEÇA MAIS SOBRE NÓS:
+Website
+LinkedIn
+Instagram

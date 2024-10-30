@@ -1,0 +1,110 @@
+link_vaga-https://fcamara.gupy.io/job/eyJqb2JJZCI6ODAzMDgyOCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA FRONT-END SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A FCamara está em busca de uma Pessoa Desenvolvedora Front-end Sênior, para trabalhar com um banco que entende as necessidades, inova nas soluções e atende com excelência os seus clientes. Estão em um momento de grande evolução de serviços, com forte entrada em soluções digitais para mercado de câmbio (PF e PJ) e serviços de FX as a Service para fintechs e parceiros do mercado financeiro.
+Desenvolvedora Front-end
+com um banco que entende as necessidades, inova nas soluções e atende com excelência os seus clientes. Estão em um momento de grande evolução de serviços, com forte entrada em soluções digitais para mercado de câmbio (PF e PJ) e serviços de FX as a Service para fintechs e parceiros do mercado financeiro.
+RESPONSABILIDADES E ATRIBUIÇÕES
+· Desenvolver e implementar interfaces de usuário altamente interativas e responsivas utilizando HTML, CSS e JavaScript;
+· Colaborar com equipes multidisciplinares para traduzir requisitos de negócios em soluções técnicas eficientes;
+· Garantir a compatibilidade cross-browser e a acessibilidade das aplicações web;
+· Utilizar sistemas de controle de versão Git para colaboração e gerenciamento de código fonte;
+· Implementar funcionalidades complexas utilizando TypeScript, React e GraphQL;
+· Consumir APIs REST de forma eficiente para integrar dados e funcionalidades às aplicações;
+· Demonstrar proficiência em técnicas avançadas de debugging para identificar e resolver problemas de forma rápida e eficiente;
+· Desenvolver e manter testes de unidade e integração para garantir a qualidade do código; · Demonstrar conhecimento avançado em Node.js para construir aplicações de servidor e integrações backend;
+· Demonstrar conhecimento em BFF (Backend For Frontend) para criar interfaces frontend altamente eficientes e adaptadas às necessidades específicas das aplicações;
+· Utilizar ferramentas de bundling para otimização de desempenho e eficiência de carregamento de recursos;
+· Implementar padrões de design responsivos, acessíveis e intuitivos para uma melhor experiência do usuário;
+· Demonstrar conhecimentos básicos em DevOps para automatizar processos de implantação e integração contínua;
+· Trabalhar com metodologias ágeis para entregas contínuas e colaboração eficaz;
+· Aplicar princípios de estrutura de dados, SOLID e design patterns para garantir a escalabilidade e manutenibilidade do código;
+· Identificar e aplicar técnicas de otimização de desempenho para melhorar a velocidade e eficiência das aplicações
+REQUISITOS E QUALIFICAÇÕES
+· Experiência sólida em HTML, CSS e JavaScript.
+· Proficiência em Git para controle de versão e colaboração.
+· Experiência com TypeScript, React e GraphQL.
+· Capacidade comprovada de consumir e integrar APIs REST. · Conhecimento avançado em Node.js.
+· Compreensão dos princípios de responsividade, acessibilidade e cross-browser.
+· Experiência em desenvolvimento de testes de unidade e integração.
+· Familiaridade com ferramentas de debugging.
+· Conhecimento básico em DevOps.
+· Experiência com metodologias ágeis.
+· Compreensão dos princípios de estrutura de dados, SOLID e design patterns.
+· Conhecimentos avançados em performance e otimização.
+· Disponibilidade para atuar 3x/semana na Av. Paulista;
+INFORMAÇÕES ADICIONAIS
+Diferenciais:
+· Experiência em desenvolvimento UI/UX.
+· Familiaridade com técnicas avançadas de otimização de desempenho.
+· Experiência com ferramentas de bundle avançadas.
+· Conhecimento avançado em DevOps.
+· Experiência com Metodologias Ágeis em escala.
+· Conhecimento avançado em estrutura de dados, SOLID e design patterns.
+· Conhecimento em arquitetura microfrontend e/ou single SPA
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Entrevista R&S3Entrevista R&S
+Etapa 3: Entrevista R&S
+3
+Entrevista R&S
+Etapa 4: Entrevista Técnica 4Entrevista Técnica 
+Etapa 4: Entrevista Técnica 
+4
+Entrevista Técnica 
+Etapa 5: CV enviado ao cliente 5CV enviado ao cliente 
+Etapa 5: CV enviado ao cliente 
+5
+CV enviado ao cliente 
+Etapa 6: Entrevista Cliente 6Entrevista Cliente 
+Etapa 6: Entrevista Cliente 
+6
+Entrevista Cliente 
+Etapa 7: Carta Proposta 7Carta Proposta 
+Etapa 7: Carta Proposta 
+7
+Carta Proposta 
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+TRANSFORMAMOS MUNDOS SONHADOS EM TRAJETÓRIAS REAIS.🧡🚀
+Aqui somos #SangueLaranja!Estamos há 17 anos no mercado, lado a lado com nossos clientes, proporcionando experiências transformadoras. Somos um ecossistema de tecnologia e inovação, com expansão global; Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda. 🌎  F de Formação: acreditamos na prática da cultura do compartilhamento, no senso de comunidade, e que o conhecimentotem o poder da transformação! Possuímos iniciativas, e ações sociais, que promovem o desenvolvimento, como a comunidade tech Orange Juice, o Programa de Formação,nossa escola de liderança e diversas parcerias com ONGs e Edtechs.   Na FCamara todos são bem-vindos, para nós, Diversidade, Respeito e Ética, são elementos inegociáveis e fazem parte do nosso DNA.   E aí, está pronto para fazer parte de um time incrível e ser protagonista da própria história?    
+Aqui somos #SangueLaranja!
+Estamos há 17 anos no mercado, lado a lado com nossos clientes, proporcionando experiências transformadoras. 
+Somos um ecossistema de tecnologia e inovação, com expansão global; Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda. 🌎
+Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda.
+  
+F de Formação: acreditamos na prática da cultura do compartilhamento, no senso de comunidade, e que o conhecimento
+tem o poder da transformação!
+ 
+Possuímos iniciativas, e ações sociais, que promovem o desenvolvimento, como a comunidade tech Orange Juice, o Programa de Formação,
+nossa escola de liderança e diversas parcerias com ONGs e Edtechs. 
+  
+Na FCamara todos são bem-vindos, para nós, Diversidade, Respeito e Ética, são elementos inegociáveis e fazem parte do nosso DNA. 
+  
+E aí, está pronto para fazer parte de um time incrível e ser protagonista da própria história? 
+   
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

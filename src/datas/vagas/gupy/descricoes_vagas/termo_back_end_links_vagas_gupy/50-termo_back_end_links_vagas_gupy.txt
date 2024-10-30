@@ -1,0 +1,109 @@
+link_vaga-https://globo.gupy.io/job/eyJqb2JJZCI6Nzg5NjQxNCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA BACK-END JÚNIOR - PRODUTO DE AUTOSSERVIÇO (ADVERTISING) | VAGA EXCLUSIVA PARA PESSOAS COM DEFICIÊNCIA 🦾💻
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+DESCRIÇÃO DA VAGA
+O Hub Digital faz parte da nossa área de Estratégia e Tecnologia, tendo papel de destaque na nossa transformação em uma empresa media tech e D2C. Aqui cuidamos da gestão de dados e do desenvolvimento dos nossos produtos digitais como Globoplay, Globo.com, família G (G1, Ge, Gshow) e Cartola, visando a melhor experiência de consumo, interação e relacionamento com os nossos usuários. Trabalhamos com uma variedade de tecnologias e linguagens para atingir nossos objetivos, além de estabelecermos uma relação contínua e crescente de compartilhamento de soluções com a comunidade de tecnologia!  
+
+Sobre a área:
+Autosserviço é a área self-service que simplifica a aquisição de publicidade e a gestão de mídia dos produtos Globo, proporcionando uma experiência de autoatendimento acessível a anunciantes de todos os portes. Uma área que impulsiona experiências digitais de alto nível. 
+
+Diversidade:
+Criamos ambientes onde todas as pessoas são incluídas, acolhidas e valorizadas. Nos empenhamos em ser uma Globo cada vez mais diversa, em representatividade e pensamento, aprendendo uns com os outros e estimulando a criatividade e inovação.
+Acreditamos na intencionalidade para gerar movimentos transformadores, que reconheçam que diferentes grupos sociais partem de diferentes realidades que precisam ser levadas em consideração e acolhidas pelas pessoas e pelo negócio.
+Equipes representativas trazem inovação inclusiva, nos permitindo criar experiências emocionantes para diferentes tipos de pessoas.
+Queremos ser cada vez mais o lugar onde todas as pessoas se encontram e, por isso, essa vaga é para você, pessoa com deficiência, que quer crescer e construir o futuro com a gente, nos bastidores de produtos e serviços que impactam a vida de milhões de brasileiros e brasileiras todos os dias.  
+RESPONSABILIDADES E ATRIBUIÇÕES
+Como será seu dia a dia:  
+  
+Colaborar com a equipe de desenvolvimento na construção e manutenção de APIs e sistemas backend;
+Implementar funcionalidades conforme especificações de produtos e design;
+Contribuir na otimização de bancos de dados, garantindo eficiência e desempenho;
+Realizar testes e depuração de códigos para assegurar a qualidade do software;
+Participar de revisões de código e colaborar com a equipe para seguir boas práticas de desenvolvimento;
+Ajudar a identificar e corrigir bugs e problemas em sistemas já existentes.
+REQUISITOS E QUALIFICAÇÕES
+Do que você precisa: 
+ 
+Conhecimento básico de linguagens de programação backend, Node.js;
+Familiaridade com bancos de dados relacionais e/ou NoSQL (ex: MySQL, PostgreSQL, MongoDB);
+Noções de controle de versão, preferencialmente utilizando Git;
+Compreensão de arquitetura de APIs RESTful;
+Conhecimento em desenvolvimento orientado a testes (TDD/BDD) e uso de ferramentas de automação de testes;
+Conhecimento em tecnologias como containers (Docker), filas, pub sub e mensageria;
+Compreensão das técnicas de cache;
+Familiaridade com o desenvolvimento de microserviços;
+Desejo de aprender e crescer profissionalmente, com uma mentalidade colaborativa;
+Capacidade de resolver problemas e raciocínio lógico;
+Bom entendimento de algoritmos e estrutura de dados.
+﻿Conhecimentos que te destacam:   
+  
+ 
+Conhecimento em Java (Spring Boot);
+Familiaridade com serviços em nuvem (AWS, Google Cloud, Azure);
+Conhecimento de metodologias ágeis (Scrum, Kanban).
+INFORMAÇÕES ADICIONAIS
+Por que vir para Globo:  
+Vem e vamos criar histórias e tecnologias juntos.
+Na Globo, o encontro de histórias com tecnologia move um time diverso e apaixonado por inovação.
+A gente tem a chance de aproximar os brasileiros, criando novas formas de se conectar com eles.
+Aqui, cada um faz a transformação acontecer.
+Nossos processos seletivos estão acontecendo de forma 100% remota e nós encorajamos inscrições de qualquer lugar do Brasil e do mundo. #vempraglobo  
+  
+Seguindo o compromisso de contribuir para um ambiente seguro para nossas pessoas, informamos que ter o esquema completo vacinação contra a Covid-19 é uma condição obrigatória para o trabalho na Globo, presencial ou a distância, e que o comprovante deverá ser apresentado como pré-requisito para a contratação.  
+Quer saber mais sobre como é trabalhar na Globo? Vem acompanhar nosso dia a dia, desafios e conquistas nas nossas redes: 
+https://www.linkedin.com/company/globo  
+  
+https://www.instagram.com/vempraglobo   
+   
+https://www.youtube.com/c/VemPraGlobo/  
+Os seus dados pessoais serão utilizados para fins de seleção de candidatos para preenchimento das vagas abertas na Globo. Os dados pessoais coletados durante o processo seletivo dos candidatos que não forem admitidos neste momento poderão ser mantidos nos bancos de dados para consideração em futuros processos seletivos. Todos os dados coletados serão tratados segundo rígidos padrões de segurança da informação e em total respeito às leis de privacidade aplicáveis, incluindo a Lei 13.709/18, e nos termos de nossa política de privacidade, disponível no link: https://vempraglobo.g.globo/files/politica_de_privacidade.pdf 
+Ao prosseguir você está ciente e de acordo para realização de sua candidatura nestes termos. 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Bate-Papo com RH3Bate-Papo com RH
+Etapa 3: Bate-Papo com RH
+3
+Bate-Papo com RH
+Etapa 4: Bate-papo com o Gestor4Bate-papo com o Gestor
+Etapa 4: Bate-papo com o Gestor
+4
+Bate-papo com o Gestor
+Etapa 5: Análise Final5Análise Final
+Etapa 5: Análise Final
+5
+Análise Final
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+✨SOMOS GLOBO✨
+A Globo é feita de gente que quer fazer diferente, fazer junto, fazer o futuro. Gente espalhada por todo o país (e mundo!) trabalhando com conteúdo, notícias, negócios, tecnologia, tudo isso com brasilidade e talento de sobra.
+A Globo é feita de gente que quer fazer diferente, fazer junto, fazer o futuro. Gente espalhada por todo o país (e mundo!) trabalhando com conteúdo, notícias, negócios, tecnologia, tudo isso com brasilidade e talento de sobra.
+Canais na TV aberta e por assinatura, produtos digitais como Globoplay, Cartola, G1, Ge, Gshow e outros serviços estão reunidos no mesmo lugar.
+Canais na TV aberta e por assinatura, produtos digitais como Globoplay, Cartola, G1, Ge, Gshow e outros serviços estão reunidos no mesmo lugar.
+Na Globo, o encontro de histórias com tecnologia move um time diverso e apaixonado por inovação.  
+A gente tem a chance de aproximar os brasileiros, criando novas formas de se conectar com eles.  
+Aqui, cada um faz a transformação acontecer. 
+Quer fazer parte dessa transformação também? 
+Quer fazer parte dessa transformação também? 
+#VemPraGlobo ;)
+#VemPraGlobo ;)
+ACOMPANHE A GENTE 😉
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

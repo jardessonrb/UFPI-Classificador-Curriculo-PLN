@@ -1,0 +1,58 @@
+link_vaga-https://nortel.gupy.io/job/eyJqb2JJZCI6NzgyMTE0OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DADOS LOGISTICO - NORTEL
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Venha trabalhar na maior distribuidora de suprimentos na categoria em MRO (Manutenção, Reparo e Operação) do Brasil.
+Nós acreditamos que o sucesso de uma empresa vem através de pessoas altamente qualificadas e engajadas no seu desenvolvimento pessoal, profissional e com propósitos direcionados a um bem maior.
+RESPONSABILIDADES E ATRIBUIÇÕES
+- Executar análises complexas de dados e criar scripts de processamento de dados em Python.
+- Projetar e manter pipelines de dados eficientes e escaláveis.
+- Otimizar consultas e estruturas de bancos de dados para melhorar o desempenho.
+- Colaborar com outras equipes técnicas e não técnicas para entender as necessidades de dados e fornecer suporte analítico.
+- Documentar processos analíticos e manter padrões de governança de dados.
+ 
+REQUISITOS E QUALIFICAÇÕES
+- Ensino superior completo em Administração, Análise de Sistemas, Economia, Ciência da Computação, Estatística, Matemática, Engenharia de Produção ou áreas correlatas;
+- Experiência com frameworks de processamento de dados em Python, como Pandas, NumPy entre outras;
+- Excel avançado e habilidade no Power BI (imprescindível);
+- Experiência anterior com sistemas de bancos de dados SQL e NoSQL;
+- Familiaridade com ferramentas de orquestração de dados, como Apache Airflow;
+INFORMAÇÕES ADICIONAIS
+Assistência Médica, Assistência Odontológica, Refeição no Local, Vale Alimentação, Vale transporte, Seguro de Vida, Gympass, PLR;
+Programa de Apoio Optum: Em parceria com a Ifood, para orientação psicológica e social extensivo aos familiares, sem custo ao Colaborador, com acesso mediante contato telefônico;
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Mapeamento Comportamental2Mapeamento Comportamental
+Etapa 2: Mapeamento Comportamental
+2
+Mapeamento Comportamental
+Etapa 3: Entrevista com RH3Entrevista com RH
+Etapa 3: Entrevista com RH
+3
+Entrevista com RH
+Etapa 4: Entrevista com Gestor4Entrevista com Gestor
+Etapa 4: Entrevista com Gestor
+4
+Entrevista com Gestor
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+A NORTEL
+O quão longe vamos para tornar a vida das pessoas mais simples? O quanto for necessário.
+Somos inovadores e inquietos, e isso significa que não aceitamos o impossível, mas inventamos soluções que transformam a rotina dos nossos clientes para melhor.
+Ouvir e entender os problemas das pessoas à nossa volta para, assim, estudar e criar novas possibilidades é o que nos torna multiespecialistas em nosso portfólio, focados em entregar praticidade e qualidade em nossas soluções, e acima de tudo, especialistas em nosso clientes, para proporcionar experiência de excelência em cada contato.
+Somos a Nortel. E o desafio dos nossos clientes é a nossa motivação para continuar a inovar e simplificar a vida.
+Faça parte do nosso time!

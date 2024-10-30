@@ -1,0 +1,105 @@
+link_vaga-https://ambevtech.gupy.io/job/eyJqb2JJZCI6NzAzNzM5MCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVIMENTO FULLSTACK SENIOR (REACT + .NET)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A gente busca sempre um jeito ágil, prático e descomplicado para fazer a cerveja chegar do campo ao copo. E tudo isso só é possível porque temos um time incrível que encara cada desafio como uma oportunidade para fazer diferente.
+Se você tá afim de desenvolver soluções inovadoras para a maior cervejaria do mundo, vem com a gente!
+Essa oportunidade está disponível de tanto forma remota quanto presencial (em uma de nossas unidades - Blumenau/SC, Maringá/PR e Sorocaba/SP).
+RESPONSABILIDADES E ATRIBUIÇÕES
+Fazer parte do planejamento, otimização e manutenção de nossas plataformas;Propor e desenvolver nossa infraestrutura, seja atualizando os atuais componentes ou as reconstruindo;Relação e integração com time de Engenharia para identificar problemas e resolvê-los;Desenvolver sistemas provendo autonomia, monitoramento e escalabilidade para os times;Ser responsável pelo funcionamento de nossa plataforma integrada aos demais times.
+Fazer parte do planejamento, otimização e manutenção de nossas plataformas;
+Propor e desenvolver nossa infraestrutura, seja atualizando os atuais componentes ou as reconstruindo;
+Relação e integração com time de Engenharia para identificar problemas e resolvê-los;
+Desenvolver sistemas provendo autonomia, monitoramento e escalabilidade para os times;
+Ser responsável pelo funcionamento de nossa plataforma integrada aos demais times.
+REQUISITOS E QUALIFICAÇÕES
+fullstack React + .Net,BD SQL Server Proficiência em Javascript (especificações mais recentes do ECMAScript);Experiência com desenvolvimento React;Bom conhecimento em ciclos de vida de Componentes React, React Contexts, React Hooks e React Router;Conhecimento em CSS e estilização de Componentes React;Conhecimento em configurações Webpack;Capacidade de replicar mockups desenvolvidos por especialistas UI/UX;Conhecimento de boas práticas de desenvolvimento e utilização de Eslint;Metodologias de desenvolvimento ágil;Git;Capacidade de realizar requisições em API's backend;
+fullstack React + .Net,
+BD SQL Server 
+Proficiência em Javascript (especificações mais recentes do ECMAScript);
+Experiência com desenvolvimento React;
+Bom conhecimento em ciclos de vida de Componentes React, React Contexts, React Hooks e React Router;
+Conhecimento em CSS e estilização de Componentes React;
+Conhecimento em configurações Webpack;
+Capacidade de replicar mockups desenvolvidos por especialistas UI/UX;
+Conhecimento de boas práticas de desenvolvimento e utilização de Eslint;
+Metodologias de desenvolvimento ágil;
+Git;
+Capacidade de realizar requisições em API's backend;
+INFORMAÇÕES ADICIONAIS
+Vale Transporte;Vale refeição ou alimentação;Plano de Médico e Telemedicina;Plano de Odontológico;Convênio com farmácia;Auxílio educação;Pacote de reembolso de Material Escolar;Self Learning (auxílio em cursos, certificações e idiomas);Seguro de Vida;Gratificação Anual referente à 1 salário;PPR;Gente 360 (Suporte Jurídico, Financeiro e Psicológico);Presente de Natal para os Filhos;Cesta de Natal + Kit Congelados;Clube Ben -> Clube de descontos para funcionários ambev Tech;Empresa cidadã (licença maternidade e paternidade) e presente do bebê;Day off de aniversário;Gympass;Self-friday (sexta-feira à tarde livre para estudos e autocuidado).
+Vale Transporte;
+Vale refeição ou alimentação;
+Plano de Médico e Telemedicina;
+Plano de Odontológico;
+Convênio com farmácia;
+Auxílio educação;
+Pacote de reembolso de Material Escolar;
+Self Learning (auxílio em cursos, certificações e idiomas);
+Seguro de Vida;
+Gratificação Anual referente à 1 salário;
+PPR;
+Gente 360 (Suporte Jurídico, Financeiro e Psicológico);
+Presente de Natal para os Filhos;
+Cesta de Natal + Kit Congelados;
+Clube Ben -> Clube de descontos para funcionários ambev Tech;
+Empresa cidadã (licença maternidade e paternidade) e presente do bebê;
+Day off de aniversário;
+Gympass;
+Self-friday (sexta-feira à tarde livre para estudos e autocuidado).
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Conheça a Ambev Tech!2Conheça a Ambev Tech!
+Etapa 2: Conheça a Ambev Tech!
+2
+Conheça a Ambev Tech!
+Etapa 3: Triagem3Triagem
+Etapa 3: Triagem
+3
+Triagem
+Etapa 4: Teste Técnico 4Teste Técnico 
+Etapa 4: Teste Técnico 
+4
+Teste Técnico 
+Etapa 5: Entrevista5Entrevista
+Etapa 5: Entrevista
+5
+Entrevista
+Etapa 6: Proposta6Proposta
+Etapa 6: Proposta
+6
+Proposta
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+OLÁ, SOMOS A AMBEV TECH! 🍻
+E ninguém une tecnologia e cerveja como a gente! Temos a missão de transformar o dia a dia da maior cervejaria do planeta. Fazemos isso com um time incrível de pessoas apaixonadas e unidas em um único propósito: mudar o mundo com tecnologia.
+Buscamos entregar as melhores experiências e trazer soluções ágeis e descomplicadas para fazer a bebida chegar do campo ao copo. Todos os dias, impactamos milhares de pessoas. Cada brinde tem um pouquinho de nós. Essa é a nossa jornada, é o que fazemos e o que somos.
+Somos feitos de pessoas
+Acreditamos na diversidade e no quanto ela é capaz de fazer a gente evoluir. É através da pluralidade de ideias, de experiências e opiniões que conseguimos pensar fora da caixa e trazer soluções inovadoras. Pra gente, diversidade e inclusão são assuntos sérios! Por isso, contamos com um Comitê de Autenticidade Tech para olhar essas questões com muito carinho e responsabilidade.
+ 
+Estamos no mundo todo
+Também somos Ambev Global Tech. Integramos o hub de tecnologia global da Anheuser-Busch InBev (ABInBev), uma multinacional formada por um grupo de cervejarias com sede em Leuven, na Bélgica, e com outros escritórios globais em diversos países, incluindo Estados Unidos, México, Índia e Brasil.
+Vem com a gente!
+Nossas unidades estão presentes em Blumenau (SC), Maringá (PR), São Paulo (SP), Campinas (SP), Jaguariúna (SP), e Sorocaba (SP), e contamos ainda com um time remoto de vários cantos do Brasil! Já somos mais de 2.000 pessoas encarando cada desafio pra fazer diferente, mas queremos ir muito mais longe. Pra chegar lá, precisamos fortalecer nossa equipe! 
+Tá afim de criar soluções para a maior cervejaria do planeta? Causar impacto, trazer inovação e transformar o mundo? Então, vem com a gente 😊
+We’re here for tech and beer.
+BORA SEGUIR A GENTE NAS NOSSAS REDES 💛
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

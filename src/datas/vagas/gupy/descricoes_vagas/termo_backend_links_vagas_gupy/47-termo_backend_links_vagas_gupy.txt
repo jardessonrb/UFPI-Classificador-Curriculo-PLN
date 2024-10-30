@@ -1,0 +1,164 @@
+link_vaga-https://mtpbrasil.gupy.io/job/eyJqb2JJZCI6NzkyMTA2NCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+7921064 - DESENVOLVEDOR BACKEND SR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+Com 25 anos de experiência no mercado de Tecnologia da Informação, a MTP é uma empresa multinacional com mais de 1.000 colaboradores espalhados em mais de 11 unidades em nível global, o que nos permite promover o crescimento e intercâmbio profissional. A MTP é líder no fornecimento de serviços e soluções de TI com foco em Quality Assurance. Possuímos mais de 10 certificações, incluindo o TMMI - level 5, o mais alto nível da categoria. Oferecendo um dos mais amplos portfólios, entregamos soluções inovadoras e flexíveis para ajudar empresas a resolver seus desafios mais complexos. Atuando em projetos em mais de 14 países, tais como: Alemanha, Reino Unido, Japão, Suécia, Coréia do Sul, Moçambique, Guatemala, Argentina, Chile, Peru, entre outros.
+Com 25 anos de experiência no mercado de Tecnologia da Informação, a 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Liderar o desenvolvimento e manutenção de aplicações backend complexas utilizando Java e Kotlin;Gerenciar e otimizar mensageria com SQS/SNS, RabbitMQ ou Kafka;Garantir a qualidade do código por meio da implementação de testes abrangentes (unitários, de integração e automatizados, incluindo BDD);Projetar e implementar APIs RESTful escaláveis e eficientes;Trabalhar com bancos de dados relacionais e não relacionais, realizando tuning e otimização;Aplicar e disseminar padrões de projetos e princípios SOLID na equipe;Promover boas práticas de desenvolvimento, como Clean Code e DDD;Supervisionar e melhorar os processos de CI/CD utilizando ferramentas como GitLab CI, Jenkins, Docker e Kubernetes;Atuar em um ambiente ágil, liderando e colaborando com a equipe em sprints e revisões;
+Liderar o desenvolvimento e manutenção de aplicações backend complexas utilizando Java e Kotlin;
+Gerenciar e otimizar mensageria com SQS/SNS, RabbitMQ ou Kafka;
+Garantir a qualidade do código por meio da implementação de testes abrangentes (unitários, de integração e automatizados, incluindo BDD);
+Projetar e implementar APIs RESTful escaláveis e eficientes;
+Trabalhar com bancos de dados relacionais e não relacionais, realizando tuning e otimização;
+Aplicar e disseminar padrões de projetos e princípios SOLID na equipe;
+Promover boas práticas de desenvolvimento, como Clean Code e DDD;
+Supervisionar e melhorar os processos de CI/CD utilizando ferramentas como GitLab CI, Jenkins, Docker e Kubernetes;
+Atuar em um ambiente ágil, liderando e colaborando com a equipe em sprints e revisões;
+REQUISITOS E QUALIFICAÇÕES
+Experiência significativa em desenvolvimento backend (mínimo de 5 anos);Profundo conhecimento em Java e Kotlin;Experiência com mensageria (SQS/SNS, RabbitMQ, Kafka) em arquiteturas de microserviços;Expertise em testes (unitários, integração, automatizados, BDD);Forte experiência em design e desenvolvimento de APIs REST e bancos de dados;Sólido entendimento de padrões de projeto e princípios SOLID;Experiência prática em Cloud Computing, especialmente AWS;Sólidos conhecimentos em CI/CD e containerização (Docker, Kubernetes);Habilidade em trabalhar com metodologias ágeis;
+Experiência significativa em desenvolvimento backend (mínimo de 5 anos);
+Profundo conhecimento em Java e Kotlin;
+Experiência com mensageria (SQS/SNS, RabbitMQ, Kafka) em arquiteturas de microserviços;
+Expertise em testes (unitários, integração, automatizados, BDD);
+Forte experiência em design e desenvolvimento de APIs REST e bancos de dados;
+Sólido entendimento de padrões de projeto e princípios SOLID;
+Experiência prática em Cloud Computing, especialmente AWS;
+Sólidos conhecimentos em CI/CD e containerização (Docker, Kubernetes);
+Habilidade em trabalhar com metodologias ágeis;
+INFORMAÇÕES ADICIONAIS
+Atuação: CLTHome OfficeBenefícios:Plano de saúde;Plano odontológico;Vale alimentação;Vale refeição;Vale mobilidade;Vale cultura;Vale saúde;Vale educação;Seguro de vida;Auxílio creche;Descontos em parceiros.
+Atuação: CLT
+Atuação: 
+Home Office
+Benefícios:
+Plano de saúde;
+Plano odontológico;
+Vale alimentação;
+Vale refeição;
+Vale mobilidade;
+Vale cultura;
+Vale saúde;
+Vale educação;
+Seguro de vida;
+Auxílio creche;
+Descontos em parceiros.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triados2Triados
+Etapa 2: Triados
+2
+Triados
+Etapa 3: Entrevista Comportamental3Entrevista Comportamental
+Etapa 3: Entrevista Comportamental
+3
+Entrevista Comportamental
+Etapa 4: Entrevista Técnica4Entrevista Técnica
+Etapa 4: Entrevista Técnica
+4
+Entrevista Técnica
+Etapa 5: Entrevista com Cliente5Entrevista com Cliente
+Etapa 5: Entrevista com Cliente
+5
+Entrevista com Cliente
+Etapa 6: Você foi aprovado(a)!6Você foi aprovado(a)!
+Etapa 6: Você foi aprovado(a)!
+6
+Você foi aprovado(a)!
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+FAÇA PARTE DE UMA EQUIPE DE EXCELÊNCIA!
+A MTP Group é uma multinacional espanhola fundada em 1997, com experiência mundial nos setores:
+A 
+ é uma multinacional espanhola fundada em 1997, com experiência mundial nos setores:
+Garantia de Qualidade (QA);
+Garantia de Qualidade (QA);
+Automação;
+Automação;
+Performance em Cybersecurity;
+Performance em Cybersecurity;
+Transformação Digital;
+Transformação Digital;
+User Experience (UX);
+User Experience (UX);
+DevOps;
+DevOps;
+Agile Development;
+Agile Development;
+Big Data.
+Big Data.
+Presente no país desde 2007, a MTP Brasil presta serviços de Consultoria, alocação e treinamentos com um serviço profissional dedicado.
+Presente no país desde 2007, a MTP Brasil presta serviços de Consultoria, alocação e treinamentos com um serviço profissional dedicado.
+Nossa proposta, integrada ao ambiente do Digital Business Assurance, baseia-se em três fatores principais:
+Nossa proposta, integrada ao ambiente do Digital Business Assurance, baseia-se em três fatores principais:
+Profundo conhecimento na garantia da qualidade de soluções e sistemas de TI.
+Profundo conhecimento na garantia da qualidade de soluções e sistemas de TI.
+Forte compromisso com a inovação e a excelência operacional.
+Forte compromisso com a inovação e a excelência operacional.
+Experiência comprovada no trabalho de adaptação às mudanças do mercado e ao crescente peso da tecnologia nos processos de negócio.
+Experiência comprovada no trabalho de adaptação às mudanças do mercado e ao crescente peso da tecnologia nos processos de negócio.
+A MTP Group está sediada em Madri e possui escritórios próprios na Cidade do México, São Paulo, Argentina e EUA. Sendo uma empresa de capital privado.
+A MTP Group está sediada em Madri e possui escritórios próprios na Cidade do México, São Paulo, Argentina e EUA. Sendo uma empresa de capital privado.
+Missão, Visão e Valores:
+ 
+Missão:
+Criar serviços de alto valor agregado, com soluções tecnológicas inovadoras.
+Criar serviços de alto valor agregado, com soluções tecnológicas inovadoras.
+Visão:
+Fornecer as soluções para o futuro pensadas hoje.
+Fornecer as soluções para o futuro pensadas hoje.
+Valores:
+              Excelência...
+Em busca de superar as expectativas do cliente. Tratando o cliente com cortesia, respeito e atenção genuína. Ouvindo atentamente suas necessidades e respondendo com ideias relevantes e assertivas.
+Em busca de superar as expectativas do cliente. Tratando o cliente com cortesia, respeito e atenção genuína. Ouvindo atentamente suas necessidades e respondendo com ideias relevantes e assertivas.
+Oferecendo soluções e sugestões que possam ajudar o cliente a resolver seus problemas ou atingir seus objetivos de forma mais eficiente e/ou econômica.
+Oferecendo soluções e sugestões que possam ajudar o cliente a resolver seus problemas ou atingir seus objetivos de forma mais eficiente e/ou econômica.
+              Transparência...
+ Sendo honesto, íntegro, confiável em todas suas ações.
+ Sendo honesto, íntegro, confiável em todas suas ações.
+ Ser honesto: dizendo a verdade, não enganando ou mentindo, em todas as suas ações e palavras.
+ Ser honesto: dizendo a verdade, não enganando ou mentindo, em todas as suas ações e palavras.
+ Ser íntegro: seguindo de acordo com os valores e princípios, mesmo em situações difíceis.
+ Ser íntegro: seguindo de acordo com os valores e princípios, mesmo em situações difíceis.
+ Ser confiável: sendo responsável, pontual e não decepcionando as expectativas dos outros.
+ Ser confiável: sendo responsável, pontual e não decepcionando as expectativas dos outros.
+              Transformação...
+Buscando a evolução e aprimoramento constante.
+Buscando a evolução e aprimoramento constante.
+ Evolução: processo que promove a mudança de um estágio para outro.
+ Evolução: processo que promove a mudança de um estágio para outro.
+ Aprimoramento: refinamento de algo existente, com o objetivo de evoluir para algo melhor e mais eficiente.
+ Aprimoramento: refinamento de algo existente, com o objetivo de evoluir para algo melhor e mais eficiente.
+              Performance...
+ Atuando com eficácia e eficiência, alcançando a efetividade.
+ Atuando com eficácia e eficiência, alcançando a efetividade.
+ Eficácia: fazendo o certo, com foco no objetivo. 
+ Eficácia: fazendo o certo, com foco no objetivo. 
+ Eficiência: fazendo mais com menos.
+ Eficiência: fazendo mais com menos.
+ Efetividade: confluência entre eficácia e eficiência, atingindo o melhor resultado da melhor forma possível.
+ Efetividade: confluência entre eficácia e eficiência, atingindo o melhor resultado da melhor forma possível.
+              Inovação...
+ Priorizamos a entrega de valor com soluções criativas.
+ Priorizamos a entrega de valor com soluções criativas.
+ A arte de desafiar a gravidade das ideias.
+ A arte de desafiar a gravidade das ideias.
+ Criatividade + coragem = O segredo para rescrever o futuro.
+ Criatividade + coragem = O segredo para rescrever o futuro.
+FIQUE LIGADO NAS NOTÍCIAS SOBRE A MTP BRASIL
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

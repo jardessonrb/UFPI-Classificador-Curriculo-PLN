@@ -1,0 +1,119 @@
+link_vaga-https://vemserolxbrasil.gupy.io/job/eyJqb2JJZCI6NzkxMTUwOCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA DE SOFTWARE JÚNIOR - FRONTEND (VAGA AFIRMATIVA PARA MULHERES  - CIS E TRANS)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Somos uma empresa 100% digital, com tecnologia desenvolvida localmente e líder no mercado de compra e venda online. Nos tornamos a marca que melhor representa a economia circular no país. 
+Somos uma empresa 100% digital, com tecnologia desenvolvida localmente e líder no mercado de compra e venda online. Nos tornamos a marca que melhor representa a economia circular no país. 
+Hoje contamos com dois escritórios nas cidades de Rio de Janeiro e São Paulo. Nosso modelo de trabalho flexível oferece autonomia e liberdade para que nossas pessoas elaborem seus padrões e rotinas com disciplina e protagonismo na conexão com negócio, as prioridades e o propósito da empresa.
+Hoje contamos com dois escritórios nas cidades de Rio de Janeiro e São Paulo. Nosso modelo de trabalho flexível oferece autonomia e liberdade para que nossas pessoas elaborem seus padrões e rotinas com disciplina e protagonismo na conexão com negócio, as prioridades e o propósito da empresa.
+Construir um ambiente diverso, inclusivo e comprometido com a equidade faz parte do nosso DNA. Entendemos que diversidade, equidade e inclusão são essenciais para criarmos um ambiente seguro com entregas inovadoras e eficientes para nossas pessoas e sociedade. 
+Construir um ambiente diverso, inclusivo e comprometido com a equidade faz parte do nosso DNA. Entendemos que diversidade, equidade e inclusão são essenciais para criarmos um ambiente seguro com entregas inovadoras e eficientes para nossas pessoas e sociedade. 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Se você gosta de aprender e quer fazer parte desse desafio, essa oportunidade é a sua chance. Nessa posição de Front End I, você vai somar ao time Data Engineering que tem como objetivo prover uma plataforma de dados confiável que permita a ingestão, transformação, exploração e governança de dados de forma simples e escalável para todo o Grupo OLX. Você será o responsável por evoluir nosso Portal de Dados que é a porta de entrada para o universo de Big Data através de uma interface web.
+No dia a dia você vai:
+Contribuir com o desenvolvimento Front-End de um portal web do time de dados, projetado internamente, ajudando na criação de soluções inovadoras;
+Facilitar processos para escalar o uso de dados para geração de insights e exploração, através da interface web desse portal de dados;
+Representar fluxos de dados e processos a partir de grafos interativos, provendo governança e monitoramento a partir de um sistema de linhagem de dados desenvolvido no portal de dados.
+Apoiar a projetar a visão de longo prazo de nossa tecnologia e novas arquiteturas de componentes;
+Ajudar o time a definir e desenvolver arquitetura para novas features, mantendo rastreabilidade e observabilidade de todo oo desenvolvimento, participar das decisões técnicas dentro da equipe;
+Ampliar a governança do codebase, automatizando a extração de métricas do portal web;
+Promover as melhores práticas para melhorar a qualidade do nosso código e processos;
+Atuar em ambiente 100% cloud, seguindo e definindo boas práticas em automação;
+REQUISITOS E QUALIFICAÇÕES
+E o que você precisa ter? 
+Typescript e React 18: Desenvolvimento de interfaces interativas e otimizadas com as mais recentes features do React.
+Styled Components: Habilidade em estilizar componentes de forma modular e eficiente.
+Axios: Experiência em fazer chamadas de API, lidando com requisições e respostas de forma otimizada.
+Context API: Domínio no gerenciamento de estados globais utilizando Context API.
+Git: Conhecimento básico para versionamento de código e trabalho colaborativo em times.
+Atenção com a qualidade e padronização do código, garantindo legibilidade, escalabilidade e performance;
+Bons fundamentos em arquitetura de software e boas práticas de desenvolvimento;
+Experiência prévia com desenvolvimento Front-end;
+Diferenciais
+Grafos e React Flow: Nossa aplicação utiliza extensivamente grafos interativos para representar fluxos de dados e processos, assim experiência com React Flow será um grande diferencial.
+Autenticação com Azure: Conhecimento na integração e gerenciamento de autenticação de usuários através do Azure. 
+Experiência com fluxos de CI/CD para deployment;
+INFORMAÇÕES ADICIONAIS
+Mais sobre o Grupo OLX:
+No Brasil desde 2010, o Grupo OLX tem como propósito empoderar as pessoas para que alcancem seus sonhos, reinventando o modelo de consumo. Com a aquisição do Grupo ZAP, concluída em outubro de 2020, a companhia opera a OLX, plataforma horizontal com posição de liderança nas categorias de automóveis, bens de consumo usados e imóveis; e duas plataformas líderes do mercado imobiliário, ZAP e Viva Real.
+No Brasil desde 2010, o Grupo OLX tem como propósito empoderar as pessoas para que alcancem seus sonhos, reinventando o modelo de consumo. Com a aquisição do Grupo ZAP, concluída em outubro de 2020, a companhia opera a OLX, plataforma horizontal com posição de liderança nas categorias de automóveis, bens de consumo usados e imóveis; e duas plataformas líderes do mercado imobiliário, ZAP e Viva Real.
+Benefícios:
+Remuneração compatível com o mercado;
+Remuneração compatível com o mercado;
+Plano de Saúde
+Plano de Saúde
+Plano Odontológico
+Plano Odontológico
+Previdência Privada
+Previdência Privada
+Benefícios flexíveis que se adaptam às suas necessidades;
+Benefícios flexíveis que se adaptam às suas necessidades;
+Auxílio alimentação;
+Auxílio alimentação;
+Aconselhamento financeiro;
+Aconselhamento financeiro;
+Clube de vantagens;
+Clube de vantagens;
+Auxílio Home Office;
+Auxílio Home Office;
+Auxílio Mobilidade;
+Auxílio Mobilidade;
+Auxílio Criança;
+Auxílio Criança;
+Seguro de Vida;
+Seguro de Vida;
+Licenças estendidas;
+Licenças estendidas;
+Incentivo ao esporte, qualidade de vida e bem estar;
+Incentivo ao esporte, qualidade de vida e bem estar;
+Empréstimo consignado com taxas reduzidas.
+Empréstimo consignado com taxas reduzidas.
+Candidate-se e venha fazer parte dessa transformação conosco!
+Candidate-se e venha fazer parte dessa transformação conosco!
+
+
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: RH2RH
+Etapa 2: RH
+2
+RH
+Etapa 3: Técnica 3Técnica 
+Etapa 3: Técnica 
+3
+Técnica 
+Etapa 4: Gestão4Gestão
+Etapa 4: Gestão
+4
+Gestão
+Etapa 5: Proposta5Proposta
+Etapa 5: Proposta
+5
+Proposta
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+SOMOS O GRUPO OLX 💜
+Uma comunidade vibrante com pessoas conectadas a um propósito de “Empoderar os brasileiros para realizarem seus sonhos, reinventando o modelo de consumo”.
+100% digital, com tecnologia desenvolvida no Brasil, ajudamos os nossos usuários a comprarem e venderem de maneira rápida e segura porque sabemos que para gerar valor, uma boa experiência é a que fica, por isso, atender às necessidades das pessoas, sejam clientes, usuários ou parceiros é nossa premissa. 
+A OLX é líder no mercado de compra e venda online e a marca que maior representa a economia circular no país.
+Todos os dias, conectamos mais de 7 milhões de pessoas. São 500 mil anúncios publicados diariamente. E 70 milhões de visitas em nossas plataformas (OLX, VivaReal e Zap Imóveis) por mês.
+Movidos por resultados, guiados por dados, transformamos resultados que geram impacto para todo o ecossistema!
+CONHEÇA NOSSAS REDES SOCIAIS 💜🚀
+Website
+LinkedIn
+Instagram
+Glassdoor

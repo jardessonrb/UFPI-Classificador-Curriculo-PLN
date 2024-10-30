@@ -1,0 +1,163 @@
+link_vaga-https://grupoboticario.gupy.io/job/eyJqb2JJZCI6Nzk5Mzg3NSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA BACKEND JAVA/KOTLIN III (PRODUTOS FINANCEIROS)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Um dos maiores grupos de beleza do mundo, o Grupo Boticário é uma empresa brasileira presente em mais de 40 países. É dono das marcas O Boticário, Eudora, Quem Disse, Berenice?, Vult, O.U.i, Dr. JONES, Tô.que.tô, TRUSS, e do marketplace Beleza na Web, além de atuar com produtos licenciados como Australian Gold, Bio Oil, Nuxe, e Pampers e sua divisão para o mercado B2B. Essa interação entre diferentes marcas, ativos, plataformas, rede de franqueados, representantes, distribuidores, varejistas, sellers e fornecedores formam o ecossistema de beleza do Grupo Boticário que oferece, ainda, soluções digitais de gestão de negócio para o varejo brasileiro por meio das suas marcas Mooz, Casa Magalhães e GAVB. São mais de 19 mil colaboradores diretos, com mais de 4 mil lojas em 1.780 cidades brasileiras.
+Vem fazer beleza com a gente!
+Conheça o time de produtos financeiros:
+O time de Produtos Digitais Financeiros do Grupo Boticário é um time que atua como uma fintech interna, responsável por desenvolver e gerenciar soluções financeiras para apoiar as diversas operações do grupo. Esse time cria produtos financeiros direcionados para facilitar transações e pagamentos, atendendo a franqueados, vendedores, fornecedores, distribuidores e consumidores finais. Com foco na inovação, a equipe busca integrar tecnologia e finanças para melhorar a eficiência dos processos internos e ampliar o uso de serviços financeiros dentro da organização, sempre com o objetivo de transformar o mercado de beleza por meio de soluções modernas e acessíveis.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver soluções para problemas complexos, que exigem o uso regular de criatividade e inovação;Escrever e testar códigos de modo incremental, ágil e bem-documentado;Fazer excelentes code-reviews e ajudar os colegas nas decisões difíceis de design;Testar, fazer deploy e acompanhar seu código em produção - de forma contínua;Interagir com colegas das áreas pares para evoluir nosso ecossistema;Manter nossa plataforma de pagamentos identificando problemas, causas e impactos gerados;Evoluir e decidir, junto com o time, o futuro de nossa plataforma de pagamentos.
+Desenvolver soluções para problemas complexos, que exigem o uso regular de criatividade e inovação;
+Escrever e testar códigos de modo incremental, ágil e bem-documentado;
+Fazer excelentes code-reviews e ajudar os colegas nas decisões difíceis de design;
+Testar, fazer deploy e acompanhar seu código em produção - de forma contínua;
+Interagir com colegas das áreas pares para evoluir nosso ecossistema;
+Manter nossa plataforma de pagamentos identificando problemas, causas e impactos gerados;
+Evoluir e decidir, junto com o time, o futuro de nossa plataforma de pagamentos.
+REQUISITOS E QUALIFICAÇÕES
+Conhecimento em Java/Kotlin, SpringBoot e Kafka;Experiência com microsserviços, Rest, orientação a eventos e tarefas agendadas;Experiência com monitoração e logging, tendo ponto de vista crítico quanto a performance e segurança;Experiência com testes unitários, de integração;Familiaridade em banco de dados relacional e não relacional;Domínio do git e capacidade de trabalhar em equipe ajudando a refinar histórias técnicas;Desejavél interesse e conhecimento em estruturas de dados;Desejavél experiência em soluções financeiras;Desejavél conhecimento de frontend para criação/gestão de portal para times internos;Desejavél especialidade em desenvolvimento de software em alguma área complementar ao nosso core business, tal como: sistemas e alta disponibilidade, plataformas de desenvolvimento especializadas, automação de infraestrutura, provisionamento de serviços, sistemas real-time, sistemas tolerantes a falha e sistemas de missão crítica;Desejavél vivência com redes de computadores, monitoria e resolução de problemas.
+Conhecimento em Java/Kotlin, SpringBoot e Kafka;
+Experiência com microsserviços, Rest, orientação a eventos e tarefas agendadas;
+Experiência com monitoração e logging, tendo ponto de vista crítico quanto a performance e segurança;
+Experiência com testes unitários, de integração;
+Familiaridade em banco de dados relacional e não relacional;
+Domínio do git e capacidade de trabalhar em equipe ajudando a refinar histórias técnicas;
+Desejavél interesse e conhecimento em estruturas de dados;
+Desejavél experiência em soluções financeiras;
+Desejavél conhecimento de frontend para criação/gestão de portal para times internos;
+Desejavél especialidade em desenvolvimento de software em alguma área complementar ao nosso core business, tal como: sistemas e alta disponibilidade, plataformas de desenvolvimento especializadas, automação de infraestrutura, provisionamento de serviços, sistemas real-time, sistemas tolerantes a falha e sistemas de missão crítica;
+Desejavél vivência com redes de computadores, monitoria e resolução de problemas.
+INFORMAÇÕES ADICIONAIS
+NOSSOS BENEFÍCIOS
+Já falamos que o Grupo Boticário é o melhor e maior ecossistema de beleza, né?
+Já falamos que o Grupo Boticário é o 
+ e 
+ ecossistema de beleza, né?
+E quando falamos dos Benefícios, nos preocupamos com as nossas pessoas e por isso, oferecemos um pacote de benefícios* que permite uma vida mais equilibrada e completa:
+E quando falamos dos Benefícios, nos preocupamos com as nossas pessoas e por isso, oferecemos um pacote de benefícios
+que permite uma vida mais equilibrada e completa:
+Aqui, sua Saúde é prioridade
+Aqui, sua 
+ é prioridade
+. Plano médico e odontológico
+. Plano médico e odontológico
+. Auxílio medicamentos
+. Auxílio medicamentos
+. Vale saúde para familiares
+. Vale saúde para familiares
+. Sessões de psicoterapia gratuitas
+. Sessões de psicoterapia gratuitas
+. Telemedicina e 2ª opinião médica
+. Telemedicina e 2ª opinião médica
+. Vacina da gripe e HPV gratuitas
+. Vacina da gripe e HPV gratuitas
+. Programas de cuidado com a saúde
+. Programas de cuidado com a saúde
+Para cuidar da sua Alimentação
+Para cuidar da sua 
+. Vale refeição ou restaurante local (conforme modelo de trabalho)
+. Vale refeição ou restaurante local (conforme modelo de trabalho)
+. Vale alimentação
+. Vale alimentação
+. Vale alimentação de Natal
+. Vale alimentação de Natal
+Garantindo Bem-Estar e Qualidade de Vida em todos os aspectos da vida
+. Plano de academias e estúdios de atividade física
+. 
+Plano de academias e estúdios de atividade física
+. Auxílio home office (modelos de trabalho híbrido e remoto)
+. Auxílio home office (modelos de trabalho híbrido e remoto)
+. Plano de saúde para pets
+. Plano de saúde para pets
+. Day off de aniversário
+. Day off de aniversário
+. Desconto de até 40% em nossos produtos
+. Desconto de até 40% em nossos produtos
+. Associação para colaboradores (convênios e parcerias, loja multimarcas, academias total pass, cursos e muito mais!)
+. Associação para colaboradores (convênios e parcerias, loja multimarcas, academias total pass, cursos e muito mais!)
+. Programa de viagens e hospedagens 
+. Programa de viagens e hospedagens 
+Para a Família, nosso bem mais precioso
+Para a 
+, nosso bem mais precioso
+. Auxílio educação infantil
+. Auxílio educação infantil
+. Crédito nutrição infantil
+. Crédito nutrição infantil
+. Auxílio babá
+. Auxílio babá
+. Auxílio material escolar
+. Auxílio material escolar
+. Orientação jurídica, psicológica e social
+. Orientação jurídica, psicológica e social
+. Apoio para país atípicos
+. Apoio para país atípicos
+. Licença parental estendida (180 dias para mães e 120 dias para pais)
+. Licença parental estendida (180 dias para mães e 120 dias para pais)
+Mobilidade para sua jornada presencial
+para sua jornada presencial
+. Vale Transporte e Estacionamento (modelos híbrido e presencial)
+. Vale Transporte e Estacionamento (modelos híbrido e presencial)
+Seguridade para proteção e tranquilidade financeira
+para proteção e tranquilidade financeira
+. Seguro de Vida
+. Seguro de Vida
+. Apoio ao falecimento de pais
+. Apoio ao falecimento de pais
+. Previdência Privada
+. Previdência Privada
+. Empréstimos consignados
+. Empréstimos consignados
+*Os pacotes de benefícios são configurados conforme regras de elegibilidade.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista Recrutamento e Seleção2Entrevista Recrutamento e Seleção
+Etapa 2: Entrevista Recrutamento e Seleção
+2
+Entrevista Recrutamento e Seleção
+Etapa 3: Teste / Case3Teste / Case
+Etapa 3: Teste / Case
+3
+Teste / Case
+Etapa 4: Entrevista com Liderança4Entrevista com Liderança
+Etapa 4: Entrevista com Liderança
+4
+Entrevista com Liderança
+Etapa 5: Carta Oferta5Carta Oferta
+Etapa 5: Carta Oferta
+5
+Carta Oferta
+Etapa 6: Processo Admissional6Processo Admissional
+Etapa 6: Processo Admissional
+6
+Processo Admissional
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+GRUPO BOTICÁRIO
+De uma pequena farmácia de manipulação a maior franquia de cosméticos do planeta.
+Somos um Grupo com 15 marcas que está presente em mais de 40 países, com mais de 4.000 lojas físicas, líder de e-commerce de beleza no Brasil e mais de 19.000 colaboradores diretos.
+Temos um ecossistema próprio de beleza, que vai da indústria ao ponto de venda, da logística ao varejo, do laboratório ao coração das consumidoras e das nossas inovações até a palma da sua mão.
+Acreditamos que o futuro mais bonito é aquele que construímos juntos, por isso, até 2030 temos compromissos ambiciosos voltados para o impacto positivo em dimensões humanas, ambientais e em nossos processos produtivos.
+Reinventamos a beleza por meio da tecnologia, inovação diversidade e sustentabilidade com: O Boticário, Eudora, Quem Disse, Berenice?, Vult, O.U.i, Dr. JONES, Tô.que.tô, TRUSS, e do marketplace Beleza na Web, além de atuarmos com produtos licenciados como Australian Gold, Bio Oil, Nuxe, e Pampers.
+Vem fazer beleza com a gente!
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

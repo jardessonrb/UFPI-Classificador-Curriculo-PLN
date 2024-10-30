@@ -1,0 +1,82 @@
+link_vaga-https://validcarreiras-tecnologia.gupy.io/job/eyJqb2JJZCI6Nzc2MTQ3OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR FULLSTACK SÊNIOR JAVA/ANGULAR - REMOTO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A Valid é uma Powerhouse que oferece Pagamentos Seguros, Soluções de Identificação e Conectividade. Somos um dos principais produtores mundiais de cartões financeiros e o quinto maior fornecedor mundial de cartões SIM. Inovamos todos os dias há mais de seis décadas para empoderar o que cada um tem de genuíno e facilitar a vida de milhões de pessoas.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver software para todo o ciclo de vida do produto.Manter relevância técnica e aprimorar a expertise estudando ferramentas de desenvolvimento de ponta, técnicas de programação/design e padrões de desenvolvimento.Comunicar compensações e recomendar e entregar soluções.Fornecer contribuição conceitual em discussões técnicas e arquiteturais.Identificar e relatar problemas de segurança e desempenho.Experimentar de forma criativa com novas ferramentas e processos.Promover a troca de conhecimentos ativamente na organização.Documentar e demonstrar soluções por meio do desenvolvimento de documentação, fluxogramas, layouts e diagramas.Garantir a implantação bem-sucedida de produtos/serviços/tecnologia.Trabalhar para entender o negócio e os problemas sendo resolvidos - participar da experimentação de soluções únicas e criativas para áreas de negócio identificadas.Apoiar e desenvolver engenheiros menos experientes, fornecendo conselhos, orientação, mentoria e oportunidades educacionais.Ser capaz de liderar a maioria dos aspectos do design, desenvolvimento e manutenção de sistemas de hardware e/ou software, incluindo solução avançada de problemas de sistemas operacionais.Promover o compartilhamento de conhecimentos interequipes, melhoria de habilidades e alinhamento técnico em suas regiões, colaborando ativamente com outros Engenheiros Seniores em projetos e análises arquiteturais, e aplicando consistentemente as melhores práticas do setor.
+Desenvolver software para todo o ciclo de vida do produto.
+Manter relevância técnica e aprimorar a expertise estudando ferramentas de desenvolvimento de ponta, técnicas de programação/design e padrões de desenvolvimento.
+Comunicar compensações e recomendar e entregar soluções.
+Fornecer contribuição conceitual em discussões técnicas e arquiteturais.
+Identificar e relatar problemas de segurança e desempenho.
+Experimentar de forma criativa com novas ferramentas e processos.
+Promover a troca de conhecimentos ativamente na organização.
+Documentar e demonstrar soluções por meio do desenvolvimento de documentação, fluxogramas, layouts e diagramas.
+Garantir a implantação bem-sucedida de produtos/serviços/tecnologia.
+Trabalhar para entender o negócio e os problemas sendo resolvidos - participar da experimentação de soluções únicas e criativas para áreas de negócio identificadas.
+Apoiar e desenvolver engenheiros menos experientes, fornecendo conselhos, orientação, mentoria e oportunidades educacionais.
+Ser capaz de liderar a maioria dos aspectos do design, desenvolvimento e manutenção de sistemas de hardware e/ou software, incluindo solução avançada de problemas de sistemas operacionais.
+Promover o compartilhamento de conhecimentos interequipes, melhoria de habilidades e alinhamento técnico em suas regiões, colaborando ativamente com outros Engenheiros Seniores em projetos e análises arquiteturais, e aplicando consistentemente as melhores práticas do setor.
+REQUISITOS E QUALIFICAÇÕES
+Java 11 ou superiorFrameworks (Spring Boot, Spring WebFlux, Spring Security, Spring Data)Banco de dados (MongoDB e PostgreSQL)Frameworks Web/Mobile (IONIC e Angular)JavaScript, TypeScript, NodeJSGit, GitHubContainers (Docker e Kubernetes)Mensageria (RabbitMQ)Design Patterns, SOLID, RESTful, OAuth2 Desejável Conhecimento: HTML5 e CSS3Google Cloud (GCP, GKE)CI/CD com GitActionsKeycloakSwaggerKafka
+Java 11 ou superior
+Frameworks (Spring Boot, Spring WebFlux, Spring Security, Spring Data)
+Banco de dados (MongoDB e PostgreSQL)
+Frameworks Web/Mobile (IONIC e Angular)
+JavaScript, TypeScript, NodeJS
+Git, GitHub
+Containers (Docker e Kubernetes)
+Mensageria (RabbitMQ)
+Design Patterns, SOLID, RESTful, OAuth2
+ 
+Desejável Conhecimento:
+ 
+HTML5 e CSS3
+Google Cloud (GCP, GKE)
+CI/CD com GitActions
+Keycloak
+Swagger
+Kafka
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Bate-papo com Gente e Cultura2Bate-papo com Gente e Cultura
+Etapa 2: Bate-papo com Gente e Cultura
+2
+Bate-papo com Gente e Cultura
+Etapa 3: Bate-papo Técnico 3Bate-papo Técnico 
+Etapa 3: Bate-papo Técnico 
+3
+Bate-papo Técnico 
+Etapa 4: Contratação4Contratação
+Etapa 4: Contratação
+4
+Contratação
+FAÇA PARTE DA TRANSFORMAÇÃO DIGITAL!
+Já pensou trabalhar em um ambiente dinâmico e que incentiva a autonomia? 
+Já pensou trabalhar em um ambiente dinâmico e que incentiva a autonomia? 
+Venha fazer parte de um time que transforma a vida de milhões de brasileiros diariamente, e que se inspira na entrega de resultados para uma sociedade que precisa de soluções digitais seguras para continuar evoluindo. 
+Venha fazer parte de um time que transforma a vida de milhões de brasileiros diariamente, e que se inspira na entrega de resultados para uma sociedade que precisa de soluções digitais seguras para continuar evoluindo. 
+Nossa equipe de tecnologia viabiliza produtos, negócios digitais, identificação segura de pessoas, objetos e transações que geram inovação para a vida dos nossos clientes. Quer fazer parte dessa transformação digital? Então conheça nossas Vagas Tech!
+Nossa equipe de tecnologia viabiliza produtos, negócios digitais, identificação segura de pessoas, objetos e transações que geram inovação para a vida dos nossos clientes. Quer fazer parte dessa transformação digital?
+Então conheça nossas Vagas Tech!
+Vem dizer #souvalid 
+Vem dizer
+Caso não encontre a vaga que está procurando, se cadastre no nosso banco de talentos!  
+Caso não encontre a vaga que está procurando, se cadastre no nosso banco de talentos! 
+Website
+LinkedIn
+Facebook
+Instagram

@@ -1,0 +1,234 @@
+link_vaga-https://tech-career.gupy.io/job/eyJqb2JJZCI6Nzk3MTI2Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ENGENHARIA | FULL STACK SENIOR - INTEGRAÇÕES
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Buscamos uma pessoa Desenvolvedora de Integrações para transformar a empregabilidade do Brasil com o time da Gupy.
+Local de trabalho: Remoto
+Local de trabalho: Remoto
+Modelo de contratação: CLT
+Modelo de contratação: CLT
+Conheça mais sobre a gente
+A Gupy é uma empresa de tecnologia que une um grupo de pessoas apaixonadas por gerar inovação e impactar o mercado. Somos movidos por grandes desafios e temos um sonho maior ainda: transformar a empregabilidade do país por meio de contratações mais ágeis, justas e encantadoras. 💙
+A Gupy é uma empresa de tecnologia que une um grupo de pessoas apaixonadas por gerar inovação e impactar o mercado. Somos movidos por grandes desafios e temos um sonho maior ainda: transformar a empregabilidade do país por meio de contratações mais ágeis, justas e encantadoras. 💙
+Por isso, estamos sempre em busca de profissionais que amem tecnologia, aprendizado constante e que topem embarcar nessa jornada com a gente. Buscamos pessoas engajadas, com muita garra e, claro, que se identifiquem com nosso propósito e a nossa maior missão.
+Por isso, estamos sempre em busca de profissionais que amem tecnologia, aprendizado constante e que topem embarcar nessa jornada com a gente. Buscamos pessoas engajadas, com muita garra e, claro, que se identifiquem com nosso propósito e a nossa maior missão.
+Estamos crescendo muito rápido e criando produtos ainda mais poderosos a cada dia. O segredo disso? As pessoas incríveis que fazem parte dessa construção diária aqui dentro da Gupy.
+Estamos crescendo muito rápido e criando produtos ainda mais poderosos a cada dia. O segredo disso? As pessoas incríveis que fazem parte dessa construção diária aqui dentro da Gupy.
+Ah, e as vagas são para todo o Brasil, tá bem? Nosso formato de trabalho é 100% remoto, ou seja, você trabalha de onde quiser!
+Ah, e as vagas são para todo o Brasil, tá bem? Nosso formato de trabalho é 100% remoto, ou seja, você trabalha de onde quiser!
+Você é uma pessoa com deficiência e tem dúvidas se pode se candidatar? Saiba que todas as nossas vagas também são para você.
+Você é uma pessoa com deficiência e tem dúvidas se pode se candidatar? Saiba que 
+.
+E aí, curtiu? Venha fazer parte do time de uma das HRTechs que mais cresce no Brasil!
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+Como pessoa desenvolvedora de integrações, você vai:
+Projetar, desenvolver e manter integrações entre o sistema da empresa e outras aplicações, utilizando low code, javascript, node.js, typescript e nest.js;
+Projetar, desenvolver e manter integrações entre o sistema da empresa e outras aplicações, utilizando low code, javascript, node.js, typescript e nest.js;
+Realizar testes e depurações, visando a garantia de qualidade do projeto entregue;
+Realizar testes e depurações, visando a garantia de qualidade do projeto entregue;
+Interpretar requisitos e implementá-los;
+Interpretar requisitos e implementá-los;
+Participar de refinamentos técnicos e de negócio;
+Participar de refinamentos técnicos e de negócio;
+Estimar prazos de entregas das tarefas;
+Estimar prazos de entregas das tarefas;
+Propor novas ideias e soluções arquiteturais reutilizáveis;
+Propor novas ideias e soluções arquiteturais reutilizáveis;
+Identificar gargalos e melhorias de performance em nossas arquiteturas e processos;
+Identificar gargalos e melhorias de performance em nossas arquiteturas e processos;
+Fornecer orientação técnica para a equipe, ajudando-os a resolver problemas complexos, revisando código e promovendo as melhores práticas de desenvolvimento;
+Fornecer orientação técnica para a equipe, ajudando-os a resolver problemas complexos, revisando código e promovendo as melhores práticas de desenvolvimento;
+Projetar e desenvolver arquiteturas eficientes e escaláveis, garantindo que as integrações atendam aos requisitos de desempenho, segurança e escalabilidade.
+Projetar e desenvolver arquiteturas eficientes e escaláveis, garantindo que as integrações atendam aos requisitos de desempenho, segurança e escalabilidade.
+Utilizar serviços da AWS para hospedar e gerenciar aplicações na nuvem;
+Utilizar serviços da AWS para hospedar e gerenciar aplicações na nuvem;
+Utilizar banco de dados não-relacional e relacional, especialmente PostgreSQL, para armazenamento eficiente e escalável de dados;
+Utilizar banco de dados não-relacional e relacional, especialmente PostgreSQL, para armazenamento eficiente e escalável de dados;
+Garantir a observabilidade das integrações, implementando métricas, logs e rastreamento para monitoramento e diagnóstico;
+Garantir a observabilidade das integrações, implementando métricas, logs e rastreamento para monitoramento e diagnóstico;
+Realizar testes de software, incluindo testes unitários, de integração, de aceitação e outros, para garantir a estabilidade e a confiabilidade das aplicações;
+Realizar testes de software, incluindo testes unitários, de integração, de aceitação e outros, para garantir a estabilidade e a confiabilidade das aplicações;
+Configurar e utilizar ferramentas como Jenkins para automação de pipelines de integração e entrega contínua;
+Configurar e utilizar ferramentas como Jenkins para automação de pipelines de integração e entrega contínua;
+Trabalhar em colaboração com a equipe para seguir metodologias ágeis e entregar valor de forma contínua aos clientes;
+Trabalhar em colaboração com a equipe para seguir metodologias ágeis e entregar valor de forma contínua aos clientes;
+Comunicar-se com o time de produto, traduzindo requisitos de negócio em soluções técnicas, fornecendo feedback técnico e colaborando para definir prioridades e expectativas;
+Comunicar-se com o time de produto, traduzindo requisitos de negócio em soluções técnicas, fornecendo feedback técnico e colaborando para definir prioridades e expectativas;
+
+REQUISITOS E QUALIFICAÇÕES
+Como requisitos básicos, você deve ter:
+Experiência com desenvolvimento de serviços e API’s REST;
+Experiência com desenvolvimento de serviços e API’s REST;
+Experiência com node.js, typescript e nest.js;
+Experiência com node.js, typescript e nest.js;
+Experiência com banco de dados relacional;
+Experiência com banco de dados relacional;
+Experiência com arquitetura e design de sistemas (padrões de projetos, DDD, princípios SOLID, clean arch, etc);
+Experiência com arquitetura e design de sistemas (padrões de projetos, DDD, princípios SOLID, clean arch, etc);
+Experiência em gerenciamento e solução de dívidas técnicas e melhoria contínua;
+Experiência em gerenciamento e solução de dívidas técnicas e melhoria contínua;
+Experiência com testes automatizados (unitários, integração, aceitação)
+Experiência com testes automatizados (unitários, integração, aceitação)
+Experiência com docker;
+Experiência com docker;
+Experiência com git e CI/CD;
+Experiência com git e CI/CD;
+Experiência com observabilidade de sistemas;
+Experiência com observabilidade de sistemas;
+Experiência com sistemas de mensageria e filas, preferencialmente Amazon SQS/SNS;
+Experiência com sistemas de mensageria e filas, preferencialmente Amazon SQS/SNS;
+Conhecimento teórico e prático de boas práticas de desenvolvimento de software ágil.
+Conhecimento teórico e prático de boas práticas de desenvolvimento de software ágil.
+Você se destaca, se tiver:
+Conhecimentos de ferramentas low Code: n8n, Digibee;
+Conhecimentos de ferramentas low Code: n8n, Digibee;
+Experiência com banco de dados PostgreSQL;
+Experiência com banco de dados PostgreSQL;
+Experiência com ferramentas de monitoramento;
+Experiência com ferramentas de monitoramento;
+Experiência com processos ágeis;
+Experiência com processos ágeis;
+Experiência com cultura e práticas DevOps;
+Experiência com cultura e práticas DevOps;
+Experiência com serviços da AWS;
+Experiência com serviços da AWS;
+Conhecimento em sistema de folhas de pagamento;
+Conhecimento em sistema de folhas de pagamento;
+﻿Acha que não preenche todos os requisitos?
+Um estudo recente do LinkedIn indicou que mulheres são menos propensas a se candidatarem a vagas se não acreditarem que preenchem 100% das qualificações (em comparação, homens tendem a se inscrever mesmo atendendo a 60%).
+Um estudo recente do LinkedIn indicou que mulheres são menos propensas a se candidatarem a vagas se não acreditarem que preenchem 100% das qualificações (em comparação, homens tendem a se inscrever mesmo atendendo a 60%).
+Aqui na Gupy, queremos construir um ambiente de trabalho cada vez mais diverso e inclusivo. Portanto, se você gostou e se identificou com a vaga, mas a sua experiência 
+Aqui na Gupy, queremos construir um ambiente de trabalho cada vez mais diverso e inclusivo. Portanto, se você gostou e se identificou com a vaga, mas a sua experiência 
+prévia não se alinha exatamente com todos os requisitos descritos, te incentivamos a se candidatar de qualquer maneira.
+prévia não se alinha exatamente com todos os requisitos descritos, te incentivamos a se candidatar de qualquer maneira.
+Você pode ser a pessoa certa e não queremos perder a chance de te conhecer.
+Você pode ser a pessoa certa e não queremos perder a chance de te conhecer.
+INFORMAÇÕES ADICIONAIS
+Benefícios:Flexibilidade nos seus horários (sim, mesmo no home office);Vale-refeição no cartão Caju;Plano médico 100% custeado pela Gupy para você e seus dependentes;Plano odontológico;Auxílio home office;Apoio à saúde mental por meio de nossos benefícios como o Zenklub;Apoio à saúde física por meio de nossos benefícios como o Gympass;Licença-maternidade de 6 meses;Licença-paternidade de 6 meses;*Nossa política de licença parental é igualmente aplicável a casais homoafetivos, a mães não gestantes e aos casos de adoção, independentemente da idade;Licença-casamento de 5 dias;Reconhecimento interno com as nossas Gupy Coins, que você pode resgatar em forma de crédito no seu cartão Caju (prêmios como Vale Netflix, Vale Spotify, Vale Pizza, Vale Gamer, Vale Jantar Romântico);Dia de folga no seu aniversário;Short-Friday, isto é, nas sextas-feiras trabalhamos apenas meio período (esse é um favorito por aqui);Crédito Consignado Creditas, com parcelas descontadas direto na folha de pagamento e juros mais baixos;Educação Financeira Creditas, com conteúdos exclusivos para você focar na sua educação financeira;Creditas Store, uma loja para você comprar produtos ou adquirir serviços efetuando o pagamento direto na sua folha de pagamento;  Férias&Co, que são créditos anuais para você organizar viagens de férias comprando hospedagens e passagens pelo Brasil e pelo mundo via assinatura! Subsidiamos uma parte da mensalidade e é você quem decide se quer contratar o serviço, tá bem?Oportunidade de se tornar sócio da Gupy.CarreiraOferecemos todo o apoio para que as pessoas sejam as protagonistas em suas jornadas de crescimento, possuímos uma jornada de carreira muito clara com várias opções de transições e oportunidades de aprendizados e desafios.Nossa carreira em Y atende os diferentes tipos de perfis onde pessoas podem seguir para caminhos de gestão ou continuar em suas trajetórias técnicas.Não temos burocracias referente a promoções, estamos frequentemente avaliando pessoas aptas para serem promovidas e dando oportunidades para que deem seus próximos passos em suas jornadas.
+Benefícios:
+Flexibilidade nos seus horários (sim, mesmo no home office);
+Flexibilidade nos seus horários (sim, mesmo no home office);
+Vale-refeição no cartão Caju;
+Vale-refeição no cartão Caju;
+Plano médico 100% custeado pela Gupy para você e seus dependentes;
+Plano médico 100% custeado pela Gupy para você e seus dependentes;
+Plano odontológico;
+Plano odontológico;
+Auxílio home office;
+Auxílio home office;
+Apoio à saúde mental por meio de nossos benefícios como o Zenklub;
+Apoio à saúde mental por meio de nossos benefícios como o Zenklub;
+Apoio à saúde física por meio de nossos benefícios como o Gympass;
+Apoio à saúde física por meio de nossos benefícios como o Gympass;
+Licença-maternidade de 6 meses;
+Licença-maternidade de 6 meses;
+Licença-paternidade de 6 meses;
+Licença-paternidade de 6 meses;
+*Nossa política de licença parental é igualmente aplicável a casais homoafetivos, a mães não gestantes e aos casos de adoção, independentemente da idade;
+*Nossa política de licença parental é igualmente aplicável a casais homoafetivos, a mães não gestantes e aos casos de adoção, independentemente da idade;
+Licença-casamento de 5 dias;
+Licença-casamento de 5 dias;
+Reconhecimento interno com as nossas Gupy Coins, que você pode resgatar em forma de crédito no seu cartão Caju (prêmios como Vale Netflix, Vale Spotify, Vale Pizza, Vale Gamer, Vale Jantar Romântico);
+Reconhecimento interno com as nossas Gupy Coins, que você pode resgatar em forma de crédito no seu cartão Caju (prêmios como Vale Netflix, Vale Spotify, Vale Pizza, Vale Gamer, Vale Jantar Romântico);
+Dia de folga no seu aniversário;
+Dia de folga no seu aniversário;
+Short-Friday, isto é, nas sextas-feiras trabalhamos apenas meio período (esse é um favorito por aqui);
+Short-Friday, isto é, nas sextas-feiras trabalhamos apenas meio período (esse é um favorito por aqui);
+Crédito Consignado Creditas, com parcelas descontadas direto na folha de pagamento e juros mais baixos;
+Crédito Consignado Creditas, com parcelas descontadas direto na folha de pagamento e juros mais baixos;
+Educação Financeira Creditas, com conteúdos exclusivos para você focar na sua educação financeira;
+Educação Financeira Creditas, com conteúdos exclusivos para você focar na sua educação financeira;
+Creditas Store, uma loja para você comprar produtos ou adquirir serviços efetuando o pagamento direto na sua folha de pagamento;  
+Creditas Store, uma loja para você comprar produtos ou adquirir serviços efetuando o pagamento direto na sua folha de pagamento;  
+Férias&Co, que são créditos anuais para você organizar viagens de férias comprando hospedagens e passagens pelo Brasil e pelo mundo via assinatura! Subsidiamos uma parte da mensalidade e é você quem decide se quer contratar o serviço, tá bem?
+Férias&Co, que são créditos anuais para você organizar viagens de férias comprando hospedagens e passagens pelo Brasil e pelo mundo via assinatura! Subsidiamos uma parte da mensalidade e é você quem decide se quer contratar o serviço, tá bem?
+Oportunidade de se tornar sócio da Gupy.
+Oportunidade de se tornar sócio da Gupy.
+Carreira
+Oferecemos todo o apoio para que as pessoas sejam as protagonistas em suas jornadas de crescimento, possuímos uma jornada de carreira muito clara com várias opções de transições e oportunidades de aprendizados e desafios.
+Oferecemos todo o apoio para que as pessoas sejam as protagonistas em suas jornadas de crescimento, possuímos uma jornada de carreira muito clara com várias opções de transições e oportunidades de aprendizados e desafios.
+Nossa carreira em Y atende os diferentes tipos de perfis onde pessoas podem seguir para caminhos de gestão ou continuar em suas trajetórias técnicas.
+Nossa carreira em Y atende os diferentes tipos de perfis onde pessoas podem seguir para caminhos de gestão ou continuar em suas trajetórias técnicas.
+Não temos burocracias referente a promoções, estamos frequentemente avaliando pessoas aptas para serem promovidas e dando oportunidades para que deem seus próximos passos em suas jornadas.
+Não temos burocracias referente a promoções, estamos frequentemente avaliando pessoas aptas para serem promovidas e dando oportunidades para que deem seus próximos passos em suas jornadas.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Bate papo com Gente e Gestão :) 2Bate papo com Gente e Gestão :) 
+Etapa 2: Bate papo com Gente e Gestão :) 
+2
+Bate papo com Gente e Gestão :) 
+Etapa 3: Entrevista técnica 3Entrevista técnica 
+Etapa 3: Entrevista técnica 
+3
+Entrevista técnica 
+Etapa 4: Bate Papo com a Liderança4Bate Papo com a Liderança
+Etapa 4: Bate Papo com a Liderança
+4
+Bate Papo com a Liderança
+Etapa 5: Conversa com a Head5Conversa com a Head
+Etapa 5: Conversa com a Head
+5
+Conversa com a Head
+Etapa 6: Proposta 🙌6Proposta 🙌
+Etapa 6: Proposta 🙌
+6
+Proposta 🙌
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+IMAGINA USAR DEEP LEARNING, NLP E MACHINE LEARNING PARA TER UM MUNDO COM GENTE REALIZADA EM SUAS JORNADAS PROFISSIONAIS?
+É essa a nossa missão. ♥  
+É essa a nossa missão. ♥  
+Desenvolvemos a primeira Inteligência Artificial aplicada à Recrutamento e Seleção do Brasil e, com isso, impactamos diariamente a vida de milhões de pessoas de forma direta e indireta! 🤩
+Desenvolvemos a primeira Inteligência Artificial aplicada à Recrutamento e Seleção do Brasil e, com isso, impactamos diariamente a vida de milhões de pessoas de forma direta e indireta! 
+Premiados como a Melhor empresa para se trabalhar 🏆 (GPTW) há quatro anos consecutivos, já fomos residentes no Google Campus, acelerados pela Wayra, investidos pela Yellow Ventures, Canary, Maya Capital, Valor e Oria. Somos apoiados pela Endeavor — e inclusive ganhamos o Prêmio de destaque em Diversidade e Inclusão em 2022! Demais, né?
+Premiados como a 
+, já fomos residentes no Google Campus, acelerados pela Wayra, investidos pela Yellow Ventures, Canary, Maya Capital, Valor e Oria. Somos apoiados pela Endeavor — e inclusive ganhamos o Prêmio de destaque em Diversidade e Inclusão em 2022! Demais, né?
+Nossa cultura de testes nos dá a segurança de que enquanto escalamos, mantemos a qualidade da nossa aplicação e nossas pessoas usuárias satisfeitas. Trabalhamos de maneira ágil com soluções em Node, React, Python, entre outras. Servimos milhares de requisições por minuto e utilizamos Kubernetes que nos possibilita fazer dezenas de deploys por dia enquanto mantemos altíssima disponibilidade.
+Nossa 
+ nos dá a segurança de que enquanto
+, mantemos a 
+ e nossas pessoas usuárias satisfeitas. Trabalhamos de maneira 
+ com soluções em 
+ entre outras. Servimos
+ e utilizamos 
+ que nos possibilita fazer dezenas de deploys por dia enquanto mantemos 
+.
+Hoje temos 5 grandes produtos, venha conhecer: Recrutamento & Seleção; Admissão; e Educação Corporativa, Clima e Engajamento e Performance e Desempenho.
+Hoje temos 5 grandes produtos, venha conhecer
+: 
+ e
+Nosso time tech é formado por mais de 200 pessoas, espalhadas por vários estados do Brasil! Atuamos em um modelo de trabalho híbrido, isso significa que temos o nosso escritório em São Paulo: o GupyHub. Confira o link com localização e algumas fotos apresentando o nosso espaço presencial. 🤩
+Nosso time tech é formado por mais de 200 pessoas, espalhadas por vários estados do Brasil! 
+Atuamos em um modelo de trabalho híbrido, isso significa que temos o nosso escritório em São Paulo: 
+. Confira o link com localização e algumas fotos apresentando o nosso espaço presencial. 
+🤩
+Ao se cadastrar em processos seletivos para trabalhar aqui na Gupy, você declara que aceita e está de acordo com nossa Política de Privacidade na Gestão de Pessoas.
+Ao se cadastrar em processos seletivos para trabalhar aqui na Gupy, você declara que aceita e está de acordo com nossa 
+.
+Com muito orgulho, podemos dizer que somos a HRTech que mais cresce no Brasil, e estamos só começando! 
+Com muito orgulho, podemos dizer que 
+, e estamos só começando! 
+#Vempragupy 🚀
+#Vempragupy 
+Não é do time de Tecnologia mas também quer trabalhar na Gupy? Acesse aqui: vempra.gupy.io/
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

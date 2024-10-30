@@ -1,0 +1,115 @@
+link_vaga-https://globo.gupy.io/job/eyJqb2JJZCI6NzkwMzA3OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+CIENTISTA DE DADOS SÊNIOR | MARKETING INSIGHTS E MARTECH
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A Globo é feita de gente que quer fazer diferente, fazer junto, fazer o futuro.
+Gente espalhada por todo o país (e mundo!) trabalhando com conteúdo, notícias, negócios, tecnologia e brasilidade de sobra. Canais na TV aberta e por assinatura, produtos digitais como globoplay, Cartola, g1, ge, gshow e outros serviços estão reunidos no mesmo lugar, na mesma Globo.
+Novos modelos de negócios digitais estão sendo pensados e desenvolvidos, buscando nos aproximar cada vez mais do usuário e dos seus desejos. As oportunidades de novos negócios também trazem a chance e o desafio de construirmos novos times data-driven e que coloquem o consumidor no centro das nossas decisões.
+Criamos ambientes onde todas as pessoas são incluídas, acolhidas e valorizadas. Nos empenhamos em ser uma Globo cada vez mais diversa, em representatividade e pensamento, aprendendo uns com os outros e estimulando a criatividade e inovação. 
+ 
+O time de Marketing Insights e Martech é o braço de tecnologia e analítico dentro do marketing dos produtos digitais da Globo (Globoplay, Cartola, GE, G1 etc). Estudam o comportamento dos usuários (assinantes ou não), hábitos e interações com a plataforma e canais de comunicação. Respondem também pelas predições e acompanhamentos das vendas, custo por aquisição, investimento em mídias online e offline, além de dados de cancelamento dos assinantes. Além disso, são responsáveis por toda operação de envio das comunicações e gestão das ferramentas de CRM e mídia.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Como será seu dia a dia:  
+  
+O trabalho consiste em limpar, transformar e modelar dados brutos em informações consumíveis para a tomada de decisões estratégicas. Durante o processo de obtenção dos dados brutos até a disponibilização dos dados limpos e transformados, além de construção de tabelas e análises posteriores para relatórios, dashsboards e apresentações pontuais.
+Construir pipelines de dados aplicando lógica de negócios, escolhendo níveis de agregação, agrupando e transformando campos, verificando a qualidade e limpando os dados;
+Organizar e modelar as camadas de dados, fornecendo uma estrutura concisa que permita geração de análises e levantamento de KPIs;
+Desenvolvimento de soluções self-service de dados;
+Realizar análises exploratórias;
+Construir, produtizar, avaliar e dar manutenção a modelos de Machine Learning visando o aumento de engajamento, retenção e entendimento do comportamento dos usuários;
+Trabalhar com times de tecnologia, engenharia e analytics;
+Realização de testes A/B para análises e incrementabilidade;
+Dialogar com as partes interessadas para entender suas necessidades primárias, sendo capaz de operar de forma eficaz e autônoma em várias equipes em situações de ambiguidade, apenas com direcionamento de alto nível;
+Evangelizar a utilização de dados, ensinando e compartilhando as melhores práticas.
+REQUISITOS E QUALIFICAÇÕES
+Do que você precisa: 
+ 
+Forte experiência com SQL;
+Experiência com ferramentas de business intelligence, como Power BI ou Looker e práticas recomendadas de visualização de dados;
+Experiência de programação (por exemplo, com Python, R, Scala, etc.);
+Experiência em análises de conversão de marketing;
+Experiência com Google Analytics;
+Ter trabalhado com computação em nuvem (GCP e AWS);
+Experiência com manipulação de grandes volumes de dados;
+Boa capacidade de comunicar insights baseadas em dados de forma clara, objetiva e assertiva.
+﻿
+Conhecimentos que te destacam:  
+  
+Experiência com analytics e ferramentas para marketing digital (AppsFlyer, Comscore etc.);
+Experiência com PySpark;
+Experiências com ferramenta de modelagem de dados como DBT ou Dataform;
+Experiência em marketing mix modeling (MMM). 
+ 
+INFORMAÇÕES ADICIONAIS
+Por que vir para Globo:  
+Vem e vamos criar histórias e tecnologias juntos.
+Na Globo, o encontro de histórias com tecnologia move um time diverso e apaixonado por inovação.
+A gente tem a chance de aproximar os brasileiros, criando novas formas de se conectar com eles.
+Aqui, cada um faz a transformação acontecer.
+Nossos processos seletivos estão acontecendo de forma 100% remota e nós encorajamos inscrições de qualquer lugar do Brasil e do mundo. #vempraglobo  
+  
+Seguindo o compromisso de contribuir para um ambiente seguro para nossas pessoas, informamos que ter o esquema completo vacinação contra a Covid-19 é uma condição obrigatória para o trabalho na Globo, presencial ou a distância, e que o comprovante deverá ser apresentado como pré-requisito para a contratação.  
+Quer saber mais sobre como é trabalhar na Globo? Vem acompanhar nosso dia a dia, desafios e conquistas nas nossas redes: 
+https://www.linkedin.com/company/globo
+https://www.instagram.com/vempraglobo   
+   
+https://www.youtube.com/c/VemPraGlobo/  
+Os seus dados pessoais serão utilizados para fins de seleção de candidatos para preenchimento das vagas abertas na Globo.
+Os dados pessoais coletados durante o processo seletivo dos candidatos que não forem admitidos neste momento poderão ser mantidos nos bancos de dados para consideração em futuros processos seletivos. Todos os dados coletados serão tratados segundo rígidos padrões de segurança da informação e em total respeito às leis de privacidade aplicáveis, incluindo a Lei 13.709/18, e nos termos de nossa política de privacidade, disponível no link: https://vempraglobo.g.globo/files/politica_de_privacidade.pdf 
+Ao prosseguir você está ciente e de acordo para realização de sua candidatura nestes termos. 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Bate-Papo com RH3Bate-Papo com RH
+Etapa 3: Bate-Papo com RH
+3
+Bate-Papo com RH
+Etapa 4: Bate-papo com o Gestor4Bate-papo com o Gestor
+Etapa 4: Bate-papo com o Gestor
+4
+Bate-papo com o Gestor
+Etapa 5: Avaliação Técnica5Avaliação Técnica
+Etapa 5: Avaliação Técnica
+5
+Avaliação Técnica
+Etapa 6: Análise Final6Análise Final
+Etapa 6: Análise Final
+6
+Análise Final
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+✨SOMOS GLOBO✨
+A Globo é feita de gente que quer fazer diferente, fazer junto, fazer o futuro. Gente espalhada por todo o país (e mundo!) trabalhando com conteúdo, notícias, negócios, tecnologia, tudo isso com brasilidade e talento de sobra.
+A Globo é feita de gente que quer fazer diferente, fazer junto, fazer o futuro. Gente espalhada por todo o país (e mundo!) trabalhando com conteúdo, notícias, negócios, tecnologia, tudo isso com brasilidade e talento de sobra.
+Canais na TV aberta e por assinatura, produtos digitais como Globoplay, Cartola, G1, Ge, Gshow e outros serviços estão reunidos no mesmo lugar.
+Canais na TV aberta e por assinatura, produtos digitais como Globoplay, Cartola, G1, Ge, Gshow e outros serviços estão reunidos no mesmo lugar.
+Na Globo, o encontro de histórias com tecnologia move um time diverso e apaixonado por inovação.  
+A gente tem a chance de aproximar os brasileiros, criando novas formas de se conectar com eles.  
+Aqui, cada um faz a transformação acontecer. 
+Quer fazer parte dessa transformação também? 
+Quer fazer parte dessa transformação também? 
+#VemPraGlobo ;)
+#VemPraGlobo ;)
+ACOMPANHE A GENTE 😉
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

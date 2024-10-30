@@ -1,0 +1,95 @@
+link_vaga-https://voxtecnologia.gupy.io/job/eyJqb2JJZCI6Nzk4MzI1Niwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR(A) BACKEND PLENO - HOME OFFICE
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A vaga de Desenvolvedor (a) Backend é uma oportunidade incrível para profissionais apaixonados por tecnologia e inovação. O candidato escolhido será responsável por desenvolver novas funcionalidades, atuar na resolução de bugs, garantindo a sustentação das aplicações legados, criar e manter testes unitários e garantir a qualidade do código. Você colaborará estreitamente com desenvolvedores e outras equipes técnicas para implementar soluções inovadoras e resolver desafios complexos. Experiência anterior com desenvolvimento é imprescindível. Se você ama programação, possui habilidades excepcionais em linguagem PHP e deseja contribuir em um ambiente dinâmico e colaborativo, esta vaga é para você!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver novas funcionalidadesAtuar na resolução de bugs das aplicações;Garantir a sustentação das aplicações legados;Criar e manter testes unitários;Garantir a qualidade do código de acordo com as boas práticas e padrões estabelecidos.
+Desenvolver novas funcionalidades
+Atuar na resolução de bugs das aplicações;
+Garantir a sustentação das aplicações legados;
+Criar e manter testes unitários;
+Garantir a qualidade do código de acordo com as boas práticas e padrões estabelecidos.
+REQUISITOS E QUALIFICAÇÕES
+Requisitos e Qualificações:
+Graduação em Ciência da Computação, Sistemas de Informação, Desenvolvimento de Software para Internet ou área correlata - desejável;
+Experiência com desenvolvimento de software;
+Experiência com banco de dados.
+Conhecimento e prática nas tecnologias abaixo:
+PHP 7.2 +
+Symfony 3.4+ / ZF 1 / Composer/ PhpUnit / Orientação a Objetos / Design Patterns / PSR's / SOLID / KISS / Calisthenics;
+API;
+REST / HTTP;
+Linux;
+Docker;
+Configuração de Ambiente de desenvolvimento;
+Versionamento de Código;
+Git (gitlab);
+PostgresSQL / Oracle;
+Vivência em ambiente de metodologia ágil (Scrum).
+INFORMAÇÕES ADICIONAIS
+🌍 Modelo de Trabalho Flexível Home Office: Desfrute da liberdade de trabalhar onde se sentir mais produtivo, equilibrando sua vida profissional e pessoal. 
+🌍 
+🤝Contratação CLT: Estabilidade e segurança para você, com todos os direitos trabalhistas garantidos.
+🤝
+💻Equipamentos de Trabalho Inclusos: Receba tudo o que precisa para performar com excelência, com equipamentos modernos e de alta qualidade, entregues na sua casa.
+💻
+🍽️ Vale Alimentação/Refeição: Contribuímos para a sua alimentação com um vale que garante refeições saudáveis e nutritivas ao longo do dia. 
+🍽️
+Plano de Saúde 100% Custeado pela Empresa: Cuide da sua saúde sem preocupações! Temos um plano de saúde completo, totalmente coberto por nós, para você e sua família.
+💪 Acesso ao Gympass: Mantenha-se ativo e saudável com acesso a diversas academias e atividades físicas nas melhores plataformas.
+💪
+ 💊 Descontos em Farmácias Parceiras: A sua saúde ainda mais em conta! Aproveite descontos especiais em farmácias parceiras.
+💊
+🐾 Convênio com Guapeco - Plano de Saúde para Animais de Estimação: Porque a saúde dos nossos amigos de quatro patas também importa! Cuide do seu pet com planos acessíveis e completos.
+🐾
+🎓 Convênio com Universidades: Invista no seu futuro com descontos em cursos e graduação, ampliando suas oportunidades de conhecimento e carreira.
+🎓 
+💰 Parceria com a Creditas: Tenha acesso a soluções financeiras de qualidade, incluindo educação financeira, empréstimos consignados e previdência privada, para planejar melhor o seu futuro.
+💰 
+🏆 Premiação por Indicação de Profissionais: Reconhecemos seu talento e networking! Ganhe prêmios ao indicar novos talentos para a nossa equipe.
+🏆
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Entrevista com o RH3Entrevista com o RH
+Etapa 3: Entrevista com o RH
+3
+Entrevista com o RH
+Etapa 4: Case4Case
+Etapa 4: Case
+4
+Case
+Etapa 5: Entrevista Final5Entrevista Final
+Etapa 5: Entrevista Final
+5
+Entrevista Final
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+A VOX
+Há mais de 14 anos, somos uma empresa especializada no desenvolvimento de soluções digitais com foco na gestão pública. Nascemos em Brasília–DF, mas hoje nossa sede fica localizada em João Pessoa–PB. Nossa missão é oferecer a melhor plataforma tecnológica para o aperfeiçoamento do ambiente de negócios e a transparência da gestão pública de nossos clientes. 🤩
+Há mais de 14 anos, somos uma empresa especializada no desenvolvimento de 
+. Nascemos em Brasília–DF, mas hoje nossa sede fica localizada em João Pessoa–PB. 
+ para o aperfeiçoamento do ambiente de negócios e a transparência da gestão pública de nossos clientes.
+🤩
+VAMOS NOS CONECTAR!
+Website
+LinkedIn
+Instagram

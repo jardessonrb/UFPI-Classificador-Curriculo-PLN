@@ -1,0 +1,68 @@
+link_vaga-https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6Nzk0MjE3OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+BACKEND DEVELOPER
+Tipo de vaga: TemporárioTemporário
+Tipo de vaga: Temporário
+Temporário
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+¡Sé parte de Stefanini!​
+En Stefanini somos más de 30.000 genios, conectados desde 41 países, haciendo lo que les apasiona y co-creando un futuro mejor.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Responsabilidades:
+Desarrollar y mantener el lado del servidor de aplicaciones web y móviles
+Colaborar con desarrolladores front-end para integrar componentes del lado del cliente
+Implementar lógica de negocio y funcionalidades en el back-end
+Diseñar y optimizar bases de datos
+Crear y mantener APIs
+Realizar pruebas y depuración de código
+Participar en revisiones de código y seguir las mejores prácticas de desarrollo
+Apoyar en la resolución de problemas técnicos
+REQUISITOS E QUALIFICAÇÕES
+Conocimientos y experiencia:
+Conocimientos básicos de al menos un lenguaje de programación back-end como Python, Java, PHP o JavaScript (Node.js)
+Familiaridad con bases de datos relacionales (MySQL, PostgreSQL) y no relacionales (MongoDB)
+Comprensión de principios básicos de diseño de APIs RESTful
+Conocimientos de control de versiones con Git
+Familiaridad con frameworks web como Django, Spring, Laravel o Express.js
+Nociones básicas de seguridad web y protección de datos
+Conocimientos básicos de arquitecturas de aplicaciones y patrones de diseño
+Conocimiento de tecnologías back end como Node.js o PHP.
+Familiaridad con metodologías de desarrollo ágiles.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevistas 2Entrevistas 
+Etapa 2: Entrevistas 
+2
+Entrevistas 
+Etapa 3: Confirmacion de candidato3Confirmacion de candidato
+Etapa 3: Confirmacion de candidato
+3
+Confirmacion de candidato
+Etapa 4: Onboarding4Onboarding
+Etapa 4: Onboarding
+4
+Onboarding
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+CONOCE A STEFANINI
+Somos una empresa global con 35 años de experiencia en el mercado, ofrecemos una sólida selección de servicios como: automatización, nube, Internet de las cosas (IoT) y experiencia de usuario (UX).
+Creemos que la tecnología puede revolucionar una empresa y la innovación es fundamental para fomentar el desarrollo y la competitividad. También valoramos las nuevas ideas y el poder de una mente abierta, por lo que reconocemos que cada talento es esencial para la calidad de nuestros proyectos y especialmente para nuestro progreso.
+Creemos que la tecnología puede revolucionar una empresa y la innovación es fundamental para fomentar el desarrollo y la competitividad. También valoramos las nuevas ideas y el poder de una mente abierta, por lo que reconocemos que cada talento es esencial para la calidad de nuestros proyectos y especialmente para nuestro progreso.
+Mantenemos nuestra excelencia invirtiendo en innovaciones tecnológicas, las mejores alianzas, adquisiciones de empresas en todo el mundo y la contratación de profesionales altamente capacitados.
+CONOCE MÁS SOBRE NOSOTROS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

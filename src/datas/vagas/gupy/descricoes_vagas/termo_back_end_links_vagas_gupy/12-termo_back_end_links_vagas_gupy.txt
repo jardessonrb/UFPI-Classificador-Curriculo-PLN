@@ -1,0 +1,88 @@
+link_vaga-https://samsungsds.gupy.io/job/eyJqb2JJZCI6Nzg4OTM5Mywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR BACK-END
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Aqui na Samsung SDS, buscamos inspirar as pessoas com as melhores experiências visando o bem da nossa sociedade e para isso devemos acolher a diversidade em todos os seus aspectos. Por isso, convidamos você que pertence a comunidade LGBTQIAPN+, mulher, pessoa negra e profissional de qualquer idade a se candidatar a essa vaga para fazer parte disso e contribuir para um mundo mais inclusivo, representativo e inovador.
+Buscamos por um(a) profissional dinâmico(a) e motivado(a) que busque evoluir. Pois essa é a nossa missão: inovar sempre!
+Esta posição exige proatividade, pensamento analítico e flexibilidade.
+Esta posição exige proatividade, pensamento analítico e flexibilidade.
+Local de trabalho: Morumbi
+Expediente: Segunda à Sexta - 09h às 18h
+RESPONSABILIDADES E ATRIBUIÇÕES
+Como um(a) Desenvolvedor Back-End da Samsung SDS, você focará em:
+ 
+Projete e desenvolva serviços e APIs de back-end robustos, escaláveis ​​e seguros usando Java, Spring Boot e outras estruturas relevantes.
+Colaborar com equipes multifuncionais, como desenvolvedores front-end, engenheiros de controle de qualidade e gerentes de produto para definir e priorizar solicitações de recursos e melhorias.
+Desenvolver códigos , eficiente e bem documentado que siga as melhores práticas e padrões de codificação.
+Implementar estratégias de testes automatizados, incluindo testes unitários, testes de integração e testes de aceitação, para garantir código de alta qualidade e minimizar bugs.
+Utilizar sistemas de controle de versão como Git para gerenciar alterações de código e colaborar com outros membros da equipe.
+Participar das soluções e depurações de problemas em ambientes de produção e trabalhe com a equipe para identificar e resolver problemas rapidamente.
+Otimizar o desempenho e a escalabilidade dos aplicativos por meio de testes de carga, criação de perfil e outras técnicas de ajuste de desempenho.
+Atualizazr-se com as últimas tendências e desenvolvimentos na área de desenvolvimento back-end e busque proativamente oportunidades de crescimento profissional e aprendizado.
+Participar de revisões de código e fornecer feedback construtivo aos colegas sobre melhorias potenciais ou áreas de melhoria.
+Contribuir para a melhoria contínua do processo de desenvolvimento, sugerindo melhorias de processos e participando de retrospectivas.
+Orientar e treinar membros da equipe menos experientes e ajudar a promover uma cultura de colaboração, responsabilidade e excelência no desenvolvimento de software.
+REQUISITOS E QUALIFICAÇÕES
+Como requisitos necessários, precisamos que você tenha:
+Graduação em Ciência da Computação, Engenharia de Software ou áreas afins.
+Experiência com projeto de E-commerce desenvolvidos em plataforma Hybris.
+Histórico do projeto de varejo/comércio eletrônico;
+Experiência com desenvolvimento orientado a testes e frameworks de testes automatizados, como JUnit.
+Experiência no desenvolvimento de aplicações de nível empresarial usando Java e frameworks relacionados, como Spring Boot.
+Inglês Intermediário.
+E será um diferencial se tiver:
+Conhecimento com Pacote office.
+ Experiência com arquitetura de microsserviços e tecnologias de conteinerização, como Docker.
+INFORMAÇÕES ADICIONAIS
+Oferecemos um pacote de benefícios completo com:
+🚑 Plano de saúde Sul América;
+🦷 Plano odontológico Sul América;
+🍕 Vale-refeição;
+🚘 Vale-transporte ou estacionamento;
+💙 Seguro de vida;
+👶🏼 Auxílio creche;
+💸 PLR;
+💸 
+💰 Plano de previdência privada;
+Plano de previdência privada
+🏋🏽‍♂️ Gympass;
+📚 Acesso aos cursos do portal Udemy Academy;
+💻 Acesso ao portal do colaborador Samsung para compras com descontos.
+ 
+Se o seu perfil corresponde aos nossos valores e objetivos, se candidate e não perca a chance de fazer parte da equipe Samsung SDS! 😉
+😉
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista com RH2Entrevista com RH
+Etapa 2: Entrevista com RH
+2
+Entrevista com RH
+Etapa 3: Entrevista com a Área3Entrevista com a Área
+Etapa 3: Entrevista com a Área
+3
+Entrevista com a Área
+Etapa 4: Contratação4Contratação
+Etapa 4: Contratação
+4
+Contratação
+O QUE NOS MOVE?
+A Samsung SDS foi fundada em 1985 como o braço de TI do Grupo Samsung, com a nossa expertise temos liderado a transformação digital e a inovação de nossos clientes há mais de 35 anos.
+Com operações em 40 países, nossas soluções utilizam plataformas pioneiras de análise, inteligência artificial e tecnologias blockchain para atender a uma ampla variedade de setores. Além disso, oferecemos serviços de Logística avançada através de uma plataforma integrada que rastreia em tempo real o status das cargas e oferece acesso a todas as funções necessárias globalmente.
+Nossa visão para a nova era é impulsionada por um desejo fundamental de chegar ao cerne dos problemas e nos tornar líderes de transformação digital orientada por dados, aproveitando as mais avançadas tecnologias e soluções de TI para descobrir os mais produtivos insights. Somos motivados por um sonho de enriquecer e inspirar o mundo ao nosso redor com melhores experiências para nossos clientes e parceiros e, de forma mais ampla, com níveis mais elevados de bem-estar social para o bem maior da sociedade.
+#VemPraSDS
+#UnfoldYourPotential
+CONHEÇA MAIS
+Website
+LinkedIn

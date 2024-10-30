@@ -1,0 +1,67 @@
+link_vaga-https://tivitlatam.gupy.io/job/eyJqb2JJZCI6ODAwNzgwNSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESARROLLADOR FULLSTACK SSR (PYTHON+REACT)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Somos una compañía de soluciones digitales, con operación en diez países de América Latina. Apoyamos y evolucionamos los negocios de nuestros clientes a partir de nuestras cuatro líneas de negocios: Digital Business, Cloud Solutions, Digital Payments y Technology Platforms.
+Somos una compañía de soluciones digitales, con operación en diez países de América Latina. Apoyamos y evolucionamos los negocios de nuestros clientes a partir de nuestras cuatro líneas de negocios: Digital Business, Cloud Solutions, Digital Payments y Technology Platforms.
+En estos momentos nos encontramos en búsqueda de un talento para cumplir el rol de Analytics Fullstack (Python+React).
+RESPONSABILIDADES E ATRIBUIÇÕES
+Mínimo 2 años de experiencia en desarrollo backend y frontend.Experiencia en programación orientada a objetos (principalmente python y javascript).Experiencia en desarrollo de aplicaciones web utilizando React.Experiencia en diseño y desarrollo de servicios RESTful y GraphQL.Experiencia en pruebas unitarias, integración y rendimiento.Experiencia desarrollando sobre la infraestructura de AWS y aplicación de cloud native.Conocimiento en prácticas de contenerización y orquestación de aplicaciones con Kubernetes (AWS ECS, Fargate y AWS EKS).Conocimientos de gestión de bases de datos SQL (PostgreSQL) y NoSQL (AWS DynamoDB).Conocimientos en herramientas de CI/CD: Git, AWS CodeCommit, CodePipeline, ECR, ECS, EC2, CloudWatch.Conocimientos básicos en infraestructura como código con Terraform o AWS CloudFormation.
+Mínimo 2 años de experiencia en desarrollo backend y frontend.
+Experiencia en programación orientada a objetos (principalmente python y javascript).
+Experiencia en desarrollo de aplicaciones web utilizando React.
+Experiencia en diseño y desarrollo de servicios RESTful y GraphQL.
+Experiencia en pruebas unitarias, integración y rendimiento.
+Experiencia desarrollando sobre la infraestructura de AWS y aplicación de cloud native.
+Conocimiento en prácticas de contenerización y orquestación de aplicaciones con Kubernetes (AWS ECS, Fargate y AWS EKS).
+Conocimientos de gestión de bases de datos SQL (PostgreSQL) y NoSQL (AWS DynamoDB).
+Conocimientos en herramientas de CI/CD: Git, AWS CodeCommit, CodePipeline, ECR, ECS, EC2, CloudWatch.
+Conocimientos básicos en infraestructura como código con Terraform o AWS CloudFormation.
+REQUISITOS E QUALIFICAÇÕES
+Profesional universitario en Ingeniería de Sistemas, Informática o carrera afín.
+Profesional universitario en Ingeniería de Sistemas, Informática o carrera afín.
+INFORMAÇÕES ADICIONAIS
+¿Qué te ofrecemos?
+✔PAC - Programa de aceleración profesional
+✔Reembolso por certificaciones
+✔MOBIFLIX – Nuestra academia corporativa que cuenta con cursos presenciales y online, alineados a las nuevas tendencias del mercado tecnológico
+                        
+Creemos que el presente es plural y la inclusión transforma, por eso, todas las personas son bienvenidas en nuestras vacantes, para promover un ambiente de trabajo inclusivo, de respeto, justicia y equidad.
+¿Te gustaría embarcarte en este desafío con nosotros? 🚀 #VENASERTIVIT
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista técnica con líder2Entrevista técnica con líder
+Etapa 2: Entrevista técnica con líder
+2
+Entrevista técnica con líder
+Etapa 3: Entrevista con Selección LATAM y pruebas psicotécnicas3Entrevista con Selección LATAM y pruebas psicotécnicas
+Etapa 3: Entrevista con Selección LATAM y pruebas psicotécnicas
+3
+Entrevista con Selección LATAM y pruebas psicotécnicas
+Etapa 4: Verificación de Referencias y Examenes4Verificación de Referencias y Examenes
+Etapa 4: Verificación de Referencias y Examenes
+4
+Verificación de Referencias y Examenes
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+EN TIVIT, EL DINAMISMO Y LA TRANSFORMACIÓN CONSTANTE FORMAN PARTE DEL DÍA A DÍA
+TIVIT es una multinacional brasileña que transforma los negocios a través de la tecnología. Con 25 años de presencia en el mercado y operaciones en diez países de Latinoamérica. La compañía ofrece servicios y soluciones de nube pública, privada e híbrida, desarrollo ágil de software, ciberseguridad, transformación digital, así como SaaS y otras soluciones que apoyan a las empresas en sus viajes de transformación digital.
+TIVIT es una multinacional brasileña que transforma los negocios a través de la tecnología. Con 25 años de presencia en el mercado y operaciones en diez países de Latinoamérica. La compañía ofrece servicios y soluciones de nube pública, privada e híbrida, desarrollo ágil de software, ciberseguridad, transformación digital, así como SaaS y otras soluciones que apoyan a las empresas en sus viajes de transformación digital.
+ 
+ 
+La compañía tiene una fuerte estrategia de innovación, con TIVIT Labs (centro que apoya a las empresas a descubrir y resolver sus mayores desafíos de innovación) y TIVIT Ventures, un brazo de adquisición de empresas innovadoras, que ya cuenta con las marcas Stone Age, TbankS, Privally, DevApi, Lambda3, SENSR.IT y XMS.
+La compañía tiene una fuerte estrategia de innovación, con TIVIT Labs (centro que apoya a las empresas a descubrir y resolver sus mayores desafíos de innovación) y TIVIT Ventures, un brazo de adquisición de empresas innovadoras, que ya cuenta con las marcas Stone Age, TbankS, Privally, DevApi, Lambda3, SENSR.IT y XMS.

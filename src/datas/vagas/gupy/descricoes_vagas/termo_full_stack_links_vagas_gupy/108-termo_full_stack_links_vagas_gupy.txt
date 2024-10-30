@@ -1,0 +1,117 @@
+link_vaga-https://stefanini.gupy.io/job/eyJqb2JJZCI6ODAwMjc0NCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR FULL STACK SR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Na Stefanini, acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global.
+Ao se juntar à Stefanini, você se torna parte de uma jornada global de transformação. Estamos empenhados em criar impacto positivo não apenas nos negócios, mas também na vida de nossos colaboradores. Se você procura uma oportunidade de crescimento profissional em uma empresa que valoriza inovação, respeito, autonomia e parceria, você encontra aqui!
+Junte-se a nós e seja parte da mudança!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Descrição Geral: Será responsável por gerenciar todas as atividades relacionadas à melhoria contínua da plataforma ServiceNow, atuando tanto na administração diária quanto na implementação de pequenas melhorias e desenvolvimentos. Este profissional deve ter um conhecimento amplo do software, abrangendo seus principais módulos e funcionalidades, além de experiência em UX para melhorar a experiência dos usuários finais. Também será capaz de evangelizar o uso da plataforma na organização, promovendo as melhores práticas e o engajamento dos usuários.Principais Responsabilidades:Gerenciar e liderar as melhorias contínuas da plataforma ServiceNow, garantindo a maximização de seu uso;Desenvolver pequenas melhorias e personalizações na plataforma, de acordo com as necessidades do negócio e conforme as boas práticas recomendadas;Atuar como ponto focal para a administração diária do ServiceNow, incluindo a resolução de incidentes, requisições de serviço e suporte ao usuário;Realizar análise de processos para identificar oportunidades de automação e otimização dentro da ferramenta;Promover a adoção dos módulos contratados da plataforma, realizando a gestão de stakeholders e o suporte aos usuários;Fornecer orientações sobre o uso adequado do ServiceNow, definindo padrões, processos e promovendo a cultura de uso da plataforma;Desenvolver e implementar soluções com foco na experiência do usuário (UX), garantindo que as interfaces sejam intuitivas, eficientes e acessíveis;Trabalhar em colaboração com as equipes de TI e de negócios para entender e traduzir as necessidades e requisitos para soluções dentro do ServiceNow;Atuar na manutenção de dashboards, relatórios e na melhoria contínua da experiência dos usuários finais;Participar ativamente em projetos de melhoria e novas implementações da plataforma, assegurando a entrega de soluções eficazes e eficientes.
+
+Será responsável por gerenciar todas as atividades relacionadas à melhoria contínua da plataforma ServiceNow, atuando tanto na administração diária quanto na implementação de pequenas melhorias e desenvolvimentos. Este profissional deve ter um conhecimento amplo do software, abrangendo seus principais módulos e funcionalidades, além de experiência em UX para melhorar a experiência dos usuários finais. Também será capaz de evangelizar o uso da plataforma na organização, promovendo as melhores práticas e o engajamento dos usuários.
+
+Gerenciar e liderar as melhorias contínuas da plataforma ServiceNow, garantindo a maximização de seu uso;
+Desenvolver pequenas melhorias e personalizações na plataforma, de acordo com as necessidades do negócio e conforme as boas práticas recomendadas;
+Atuar como ponto focal para a administração diária do ServiceNow, incluindo a resolução de incidentes, requisições de serviço e suporte ao usuário;
+Realizar análise de processos para identificar oportunidades de automação e otimização dentro da ferramenta;
+Promover a adoção dos módulos contratados da plataforma, realizando a gestão de stakeholders e o suporte aos usuários;
+Fornecer orientações sobre o uso adequado do ServiceNow, definindo padrões, processos e promovendo a cultura de uso da plataforma;
+Desenvolver e implementar soluções com foco na experiência do usuário (UX), garantindo que as interfaces sejam intuitivas, eficientes e acessíveis;
+Trabalhar em colaboração com as equipes de TI e de negócios para entender e traduzir as necessidades e requisitos para soluções dentro do ServiceNow;
+Atuar na manutenção de dashboards, relatórios e na melhoria contínua da experiência dos usuários finais;
+Participar ativamente em projetos de melhoria e novas implementações da plataforma, assegurando a entrega de soluções eficazes e eficientes.
+
+
+REQUISITOS E QUALIFICAÇÕES
+Experiência com a administração e desenvolvimento de melhorias na plataforma ServiceNow;Conhecimento aprofundado dos principais módulos do ServiceNow (ITSM, ITOM, CMDB, CSM, HR Service Delivery, etc.);Habilidade em desenvolver pequenas personalizações, scripts e integrações dentro do ServiceNow;Experiência com a definição e implementação de processos ITIL e boas práticas dentro da plataforma;Experiência em design centrado no usuário (UX/UI) e na criação de interfaces de usuário intuitivas e eficientes no ServiceNow;Capacidade de analisar processos de negócios e traduzi-los em fluxos de trabalho eficientes no ServiceNow;Conhecimento de metodologias ágeis (como Scrum ou Kanban) é um diferencial;Certificações ServiceNow (como Certified System Administrator, Certified Implementation Specialist) são desejáveis.
+Experiência com a administração e desenvolvimento de melhorias na plataforma ServiceNow;
+Conhecimento aprofundado dos principais módulos do ServiceNow (ITSM, ITOM, CMDB, CSM, HR Service Delivery, etc.);
+Habilidade em desenvolver pequenas personalizações, scripts e integrações dentro do ServiceNow;
+Experiência com a definição e implementação de processos ITIL e boas práticas dentro da plataforma;
+Experiência em design centrado no usuário (UX/UI) e na criação de interfaces de usuário intuitivas e eficientes no ServiceNow;
+Capacidade de analisar processos de negócios e traduzi-los em fluxos de trabalho eficientes no ServiceNow;
+Conhecimento de metodologias ágeis (como Scrum ou Kanban) é um diferencial;
+Certificações ServiceNow (como Certified System Administrator, Certified Implementation Specialist) são desejáveis.
+INFORMAÇÕES ADICIONAIS
+O que te oferecemos:
+🍛 Vale Alimentação ou Vale Refeição;
+🍛 
+Vale Alimentação ou Vale Refeição;
+👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas; 
+Desconto em cursos, universidades e instituições de idiomas; 
+📚 Academia Stefanini - plataforma com cursos online, gratuitos, atualizados e com certificado; 
+📚 
+Academia Stefanini - plataforma com cursos online, gratuitos, atualizados e com certificado; 
+🗣 Mentoring;
+🗣 
+Mentoring;
+🏫 Auxílio Creche; 
+Auxílio Creche; 
+💉 Clube de vantagens para consultas e exames;
+Clube de vantagens para consultas e exames;
+🏥 Assistência Médica;
+Assistência Médica;
+🦷Assistência Odontológica; 
+Assistência Odontológica; 
+💰 Clube de vantagens e descontos nos melhores estabelecimentos;
+Clube de vantagens e descontos nos melhores estabelecimentos;
+👂🏾 Atendimento psicológico online ao colaborador;
+ 
+Atendimento psicológico online ao colaborador;
+🛫 Clube de viagens;
+Clube de viagens;
+🐶 Convênio para Pet;
+Convênio para Pet;
+e muito mais...
+e muito mais...
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Contratação3Contratação
+Etapa 3: Contratação
+3
+Contratação
+WE ARE STEFANINI
+Somos uma multinacional brasileira com mais de 30 anos de atuação no ecossistema de inovação. 
+Entregamos soluções eficazes que auxiliam os nossos clientes em suas jornadas digitais, sempre aplicando o nosso propósito de tornar a tecnologia um agente de mudança para um mundo melhor. Você quer transformar o futuro? A gente também. 🚀
+Entregamos soluções eficazes que auxiliam os nossos clientes em suas jornadas digitais, sempre aplicando o nosso propósito de tornar a tecnologia um agente de mudança para um mundo melhor. Você quer transformar o futuro? A gente também. 🚀
+| + de 40 países | + de 30 empresas no Grupo | + de 30 mil colaboradores | + de 80 soluções |
+7 pilares guiam a nossa cultura, são eles:
+⭐ Inovar com o cliente;
+⭐ Inovar com o cliente;
+⭐ Fazer a diferença;
+⭐ Fazer a diferença;
+⭐ Liderar pelo exemplo;
+⭐ Liderar pelo exemplo;
+⭐ Agir como empreendedor;
+⭐ Agir como empreendedor;
+⭐ Ser ético e de acordo com o que fala;
+⭐ Ser ético e de acordo com o que fala;
+⭐ Acreditar e respeitar as pessoas;
+⭐ Acreditar e respeitar as pessoas;
+⭐ Ter humildade em aprender.
+⭐ Ter humildade em aprender.
+Acreditamos que a verdadeira mudança só pode ser alcançada quando observamos o mundo por diferentes perspectivas, aqui a inovação floresce em uma atmosfera de respeito mútuo, em que as ideias são ouvidas e valorizadas independentemente de raça, cor, orientação sexual, ascendência, religião, gênero, nacionalidade, identidade de gênero, deficiência ou idade. 💙 #WeAreStefanini #OrgulhoDeSerStefanini #CarreiraStefanini
+Acreditamos que a verdadeira mudança só pode ser alcançada quando observamos o mundo por diferentes perspectivas, aqui a inovação floresce em uma atmosfera de respeito mútuo, em que as ideias são ouvidas e valorizadas independentemente de raça, cor, orientação sexual, ascendência, religião, gênero, nacionalidade, identidade de gênero, deficiência ou idade. 💙 
+🏆 Prêmio Innovative Workplaces Brasil 2023 pela MIT Technology Review Brasil.
+CONFIRA NOSSAS REDES SOCIAIS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

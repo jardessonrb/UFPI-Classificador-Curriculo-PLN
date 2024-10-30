@@ -1,0 +1,124 @@
+link_vaga-https://clubemoms.gupy.io/job/eyJqb2JJZCI6Nzg2MTQxNSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PROGRAMADOR(A) - DESENVOLVEDOR FULL STACK JR - NITERÓI
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+O Clube Moms tem liderado o mercado de turismo de lazer em família nos principais destinos nacionais e internacionais. Com base neste crescimento, estamos buscando um programador para dar suporte a gerência de projetos relacionada a parte sistêmica.
+O Clube Moms tem liderado o mercado de turismo de lazer em família nos principais destinos nacionais e internacionais. Com base neste crescimento, estamos buscando um programador para dar suporte a gerência de projetos relacionada a parte sistêmica.
+Buscamos pessoas com perfil de energização, proativas e com vontade de crescer e se desenvolver na área. O foco maior da agência é o cliente, sendo assim, o desafio do programador(a) será o de buscar formas de facilitar e melhorar a experiência dos clientes em nossas plataformas digitais. 
+Buscamos pessoas com perfil de energização, proativas e com vontade de crescer e se desenvolver na área. O foco maior da agência é o cliente, sendo assim, o desafio do programador(a) será o de buscar formas de facilitar e melhorar a experiência dos clientes em nossas plataformas digitais. 
+Se você acredita que essa posição tem tudo a ver com o seu momento atual, então não perca tempo e vem voar conosco! ;)
+Se você acredita que essa posição tem tudo a ver com o seu momento atual, então não perca tempo e vem voar conosco! ;)
+RESPONSABILIDADES E ATRIBUIÇÕES
+Escrever códigos bem estruturados, “limpos” e eficientes;Elaborar especificações detalhadas;Diagnosticar, testar e manter softwares e bancos de dados do produto principal para assegurar forte otimização e funcionalidade;Contribuir em todas as fases do ciclo de vida de desenvolvimento;Seguir as melhores práticas da indústria;Desenvolver e implementar novos recursos para simplificar procedimentos relacionados e ferramentas, se necessário;Necessário ter experiência com Vue 3 Composition API;Experiência com Node.js;Experiência com TypeScript;Experiência com deploy;Experiência com GCP;Experiência com firebase.
+Escrever códigos bem estruturados, “limpos” e eficientes;
+Elaborar especificações detalhadas;
+Diagnosticar, testar e manter softwares e bancos de dados do produto principal para assegurar forte otimização e funcionalidade;
+Contribuir em todas as fases do ciclo de vida de desenvolvimento;
+Seguir as melhores práticas da indústria;
+Desenvolver e implementar novos recursos para simplificar procedimentos relacionados e ferramentas, se necessário;
+Necessário ter experiência com Vue 3 Composition API;
+Experiência com Node.js;
+Experiência com TypeScript;
+Experiência com deploy;
+Experiência com GCP;
+Experiência com firebase.
+REQUISITOS E QUALIFICAÇÕES
+Pós-Graduação na área será considerado um diferencial.Experiência comprovada em desenvolvimento de softwares em PHP para wordpress;Experiências em React Native será considerado um diferencial;Conhecimento comprovado de tecnologias web, como HTML, CSS, JavaScript, Vue, Node.Js, Nest.Js e MySql;Bom conhecimento de bancos de dados relacionais, ferramentas de controle de versão e de desenvolvimento de serviços web;Experiência em APIs comuns de terceiros (Google, Facebook, eBay etc.);Paixão pelas melhores práticas de projeto e codificação e aspiração para desenvolver ideias novas e ousadas;Bacharelado em Ciência da Computação, Engenharia de Software ou áreas relacionadas;Entendimento do problema e saber fazer escopo de projeto;Conhecimento em mobile;Conhecimento em PHP;Conhecimento em wordpress;Conhecimento em Nest.js;Conhecimento em MySql;Conhecimento em salesforce;Documentação;Testes;Figma;Git.
+Pós-Graduação na área será considerado um diferencial.
+Experiência comprovada em desenvolvimento de softwares em PHP para wordpress;
+Experiências em React Native será considerado um diferencial;
+Conhecimento comprovado de tecnologias web, como HTML, CSS, JavaScript, Vue, Node.Js, Nest.Js e MySql;
+Bom conhecimento de bancos de dados relacionais, ferramentas de controle de versão e de desenvolvimento de serviços web;
+Experiência em APIs comuns de terceiros (Google, Facebook, eBay etc.);
+Paixão pelas melhores práticas de projeto e codificação e aspiração para desenvolver ideias novas e ousadas;
+Bacharelado em Ciência da Computação, Engenharia de Software ou áreas relacionadas;
+Entendimento do problema e saber fazer escopo de projeto;
+Conhecimento em mobile;
+Conhecimento em PHP;
+Conhecimento em wordpress;
+Conhecimento em Nest.js;
+Conhecimento em MySql;
+Conhecimento em salesforce;
+Documentação;
+Testes;
+Figma;
+Git.
+INFORMAÇÕES ADICIONAIS
+Remuneração compatível com o mercado;Plano de saúde - Golden Cross;Plano odontológico - Golden Cross;Conexa Saúde;Psicologia Viva;Vale alimentação/refeição - Benefício flexível pelo Caju;Vale transporte ou auxílio combustível;Premiação baseada em avaliação de desempenho;Ambiente agradável e descontraído;Desconto em viagens;Café da manhã e da tarde;Happy friday! Toda sexta-feira a partir das 18h temos o momento de descontração com petiscos, cerveja gelada, suco e refrigerante. Este é o momento para comemorar a semana abençoada, dar boas risadas e fazer uma resenha semanal! :-)
+Remuneração compatível com o mercado;
+Remuneração compatível com o mercado;
+Plano de saúde - Golden Cross;
+Plano de saúde - Golden Cross;
+Plano odontológico - Golden Cross;
+Plano odontológico - Golden Cross;
+Conexa Saúde;
+Conexa Saúde;
+Psicologia Viva;
+Psicologia Viva;
+Vale alimentação/refeição - Benefício flexível pelo Caju;
+Vale alimentação/refeição - Benefício flexível pelo Caju;
+Vale transporte ou auxílio combustível;
+Vale transporte ou auxílio combustível;
+Premiação baseada em avaliação de desempenho;
+Premiação baseada em avaliação de desempenho;
+Ambiente agradável e descontraído;
+Ambiente agradável e descontraído;
+Desconto em viagens;
+Desconto em viagens;
+Café da manhã e da tarde;
+Café da manhã e da tarde;
+Happy friday! Toda sexta-feira a partir das 18h temos o momento de descontração com petiscos, cerveja gelada, suco e refrigerante. Este é o momento para comemorar a semana abençoada, dar boas risadas e fazer uma resenha semanal! :-)
+Happy friday! Toda sexta-feira a partir das 18h temos o momento de descontração com petiscos, cerveja gelada, suco e refrigerante. Este é o momento para comemorar a semana abençoada, dar boas risadas e fazer uma resenha semanal! :-)
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Teste de Perfil2Teste de Perfil
+Etapa 2: Teste de Perfil
+2
+Teste de Perfil
+Etapa 3: Raciocínio Lógico3Raciocínio Lógico
+Etapa 3: Raciocínio Lógico
+3
+Raciocínio Lógico
+Etapa 4: Vendendo o seu peixe! :-)4Vendendo o seu peixe! :-)
+Etapa 4: Vendendo o seu peixe! :-)
+4
+Vendendo o seu peixe! :-)
+Etapa 5: Entrevistas5Entrevistas
+Etapa 5: Entrevistas
+5
+Entrevistas
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+NOSSO PORTAL DE TALENTOS, É O INÍCIO DE UM ROTEIRO DE VIAGENS INCRÍVEL PARA SUA CARREIRA ✈️ 🏆
+Há 10 anos o Clube de Viagens Moms atende famílias com excelência por meio de um atendimento competente e personalizado. Além disso, somos a primeira agência especializada em turismo com crianças no Brasil, com um conceito diferenciado unindo consultoria, agência de viagens e clube de vantagens.
+ 
+Assegurar que as necessidades das famílias sejam garantidas para que a única preocupação sobre a viagem seja se divertirem ao máximo é o que nos move. Tanta dedicação e empenho gerou frutos, já que nos últimos anos ganhamos vários prêmios de vendas, como:
+ 
+🏆Agência Expert Incomparável do Club Med;
+🏆Top 10 Nacional do Club Med;
+🏆Top 10 Ski para Club Med nos Alpes Europeus;
+🏆Top Sales do Le Canton;
+🏆Top Performance no Portobello Resort & Safari;
+🏆Top Sales em vários outros resorts e hotéis fazenda.
+ 
+Se você é um #SuperTalento, embarque com a gente rumo a melhor viagem da sua carreira! 
+FIQUE POR DENTRO DE TUDO QUE ROLA NO CLUBE MOMS 🚀
+Website
+LinkedIn
+Facebook
+Instagram
+APERTE OS CINTOS E SE PREPARE PARA MELHOR VIAGEM DA SUA CARREIRA!

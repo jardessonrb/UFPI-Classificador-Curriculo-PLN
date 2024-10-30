@@ -1,0 +1,125 @@
+link_vaga-https://meetime.gupy.io/job/eyJqb2JJZCI6NzU5NDc5NCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA BACK-END
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+👉 Deixa eu te contar sobre o desafio da vaga:
+👉 
+Buscamos uma pessoa desenvolvedora Java Back-end para atuar na nossa área de Produto. Junto ao nosso squad incrível, você terá toda autonomia para planejar, desenvolver e testar as aplicações do nosso software da melhor forma possível!
+Gostou das atividades? Agora dá uma olhadinha na nossa atuação pra te inspirar um pouco mais!
+A Meetime é a principal referência brasileira quando o assunto é sales engagement. Por isso, se você quer se desenvolver, te convidamos a conhecer nossos conteúdos. Agora, se você tem pressa e está buscando acelerar esse conhecimento, te convidamos a vir para dentro das trincheiras, explorar o mercado atuando como desenvolvedor na Meetime. Aqui, você terá a oportunidade de conhecer de pertinho o produto que oferecemos ao mercado, nossa plataforma SaaS de Sales Engagement. ✨
+RESPONSABILIDADES E ATRIBUIÇÕES
+👉 Principais atividades:
+ Desenvolver e customizar o software Meetime
+ Desenvolver e customizar o software Meetime
+ Trabalhar em solicitações para adição de funcionalidades ou correções de bugs;
+ Trabalhar em solicitações para adição de funcionalidades ou correções de bugs;
+ Participar colaborativamente no processo de desenvolvimento, desde a análise de requisitos até a implementação das soluções;
+ Participar colaborativamente no processo de desenvolvimento, desde a análise de requisitos até a implementação das soluções;
+ Colaborar com o desenvolvimento de uma arquitetura escalável;
+ Colaborar com o desenvolvimento de uma arquitetura escalável;
+ Colaborar para a qualidade do código, participando de code reviews e garantindo o uso de boas práticas;
+ Colaborar para a qualidade do código, participando de code reviews e garantindo o uso de boas práticas;
+ Garantir a estabilidade e performance das aplicações, com funcionamento 24h por dia.
+ Garantir a estabilidade e performance das aplicações, com funcionamento 24h por dia.
+REQUISITOS E QUALIFICAÇÕES
+ Para integrar o nosso time, você precisa ter:
+ Experiência sólida em desenvolvimento Back End;
+ Experiência sólida em desenvolvimento Back End;
+ Experiência no desenvolvimento com Java 8+ e frameworks Java;
+ Experiência no desenvolvimento com Java 8+ e frameworks Java;
+ Experiência no desenvolvimento de APIs RESTful;
+ Experiência no desenvolvimento de APIs RESTful;
+ Conhecimentos de HTML, CSS, JavaScript, AngularJS;
+ Conhecimentos de HTML, CSS, JavaScript, AngularJS;
+ Conhecimento em Git;
+ Conhecimento em Git;
+ Familiaridade com padrões de projeto e boas práticas de código limpo.
+ Familiaridade com padrões de projeto e boas práticas de código limpo.
+ Desejável ter:
+ Familiaridade com PlayFramework;
+ Familiaridade com PlayFramework;
+ Familiaridade com Cloud GCP.
+ Familiaridade com Cloud GCP.
+ Soft skills: Relacionamento interpessoal, proatividade e ownership.
+Relacionamento interpessoal, proatividade e ownership.
+INFORMAÇÕES ADICIONAIS
+Chegou até aqui e pensou "essa galera acabou de me descrever"? Então tá esperando o que pra fazer parte do time? Bora se inscrever!
+Chegou até aqui e pensou "essa galera acabou de me descrever"? Então tá esperando o que pra fazer parte do time? Bora se inscrever!
+Benefícios:
+💰 Média salarial competitiva com o mercado;
+💚 Estamos trabalhando 100% home-office de forma definitiva! - e buscando manter nosso time protegido e produtivo, oferecemos cursos de produtividade remota e auxílio home-office para você montar o seu set-up (além do notebook que enviaremos para o seu lar);
+🥗🍟🚕 Cartão de benefícios Flash (R$ 880,00) - você pode utilizá-lo para alimentação, refeição, combustível e farmácia (versatilidade o nome!);
+🚑 Plano de saúde Bradesco nacional (sem co-participação);
+🦷 Plano odontológico UniOdonto nacional;
+👩‍🏫 Verba de desenvolvimento pessoal (R$1.000,00/ano);
+🏋‍♀️ Gympass;
+👩‍🎓 Curso de Inglês - com professor particular;
+⏲ Horário de trabalho totalmente flexível;
+🎂 Day-off para tirar na semana do seu aniversário.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Papo com Gente e Gestão2Papo com Gente e Gestão
+Etapa 2: Papo com Gente e Gestão
+2
+Papo com Gente e Gestão
+Etapa 3: Papo com liderança3Papo com liderança
+Etapa 3: Papo com liderança
+3
+Papo com liderança
+Etapa 4: Case técnico4Case técnico
+Etapa 4: Case técnico
+4
+Case técnico
+Etapa 5: Papo com CTO5Papo com CTO
+Etapa 5: Papo com CTO
+5
+Papo com CTO
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+SOBRE A MEETIME
+Você já conhece a Meetime?
+Há 7 anos somos a principal referência brasileira quando o assunto é Inside Sales e a nossa visão é ser a melhor plataforma de Sales Engagement do mundo. 💚 
+Há 7 anos somos a principal referência brasileira quando o assunto é Inside Sales e 
+a nossa 
+ é 
+💚 
+Só para contextualizar, Sales Engagement é a categoria de tecnologia para vendas na qual estamos inseridos 😉 e o objetivo da nossa plataforma, Meetime Flow, é aumentar as chances de nossos clientes conseguirem contato com os leads! Essa estratégia de vendas organiza a prospecção de leads, através de diversos canais de comunicação (e-mail, telefone e mensagens em redes sociais), para conseguir contatar potenciais clientes. 💡
+Só para contextualizar, Sales Engagement é a categoria de tecnologia para vendas na qual estamos inseridos 
+ e o objetivo da nossa plataforma,
+ 
+Meetime Flow
+, é aumentar as chances de nossos clientes conseguirem contato com os leads! Essa estratégia de vendas organiza a prospecção de leads, através de diversos canais de comunicação (e-mail, telefone e mensagens em redes sociais), para conseguir contatar potenciais clientes. 
+Nossos conteúdos estão presentes em muitos playbooks de vendas e o CastsforClosers, nosso Podcast, foi eleito o melhor Podcast de vendas do Brasil!🏆 
+Nossos conteúdos estão presentes em muitos playbooks de vendas e o CastsforClosers, nosso
+, foi eleito o melhor Podcast de vendas do Brasil!
+🏆 
+Muitas pessoas acreditam que temos um time grande, mas a verdade é que ainda somos uma startup com quase 50 pessoas, que causam forte impacto no mercado porque são focadas e comprometidas em buscar excelência em tudo o que fazem. 💚 
+Muitas pessoas acreditam que temos um time grande, mas a verdade é que ainda somos uma startup com quase 50 pessoas, que causam forte impacto no mercado porque são 
+ e comprometidas em 
+ em tudo o que fazem. 💚 
+Também nos orgulhamos da reputação positiva que conquistamos em sites como Glassdoor, um reflexo de um valor que exigimos em quem quer trabalhar conosco: cuidado pelas pessoas. 🤝
+Também nos orgulhamos da reputação positiva que conquistamos em sites como Glassdoor, um reflexo de um valor que exigimos em quem quer trabalhar conosco: 
+. 
+Esse valor inclusive nos fez migrar de uma base presencial em Florianópolis para um modelo de operação 100% remota desde 2020. Isso significa que você tem liberdade para trabalhar com a gente e morar onde quiser! #Anywhereoffice 🤩
+Esse valor inclusive nos fez migrar de uma base presencial em Florianópolis para um modelo de operação 
+ desde 2020. Isso significa que você tem liberdade para trabalhar com a gente e morar onde quiser! 
+🤩
+CONHEÇA MAIS SOBRE NÓS ATRAVÉS DAS REDES
+Website
+LinkedIn
+Instagram
+Glassdoor

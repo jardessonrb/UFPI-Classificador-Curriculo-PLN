@@ -1,0 +1,84 @@
+link_vaga-https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6ODAxNDE1Miwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+FULLSTACK DEVELOPER
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+¡Sé parte de Stefanini!​
+En Stefanini somos más de 30.000 genios, conectados desde 41 países, haciendo lo que les apasiona y co-creando un futuro mejor.​
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desarrollo de FrontEndDesarrollo de Micro ServiciosEjecución de metodologías Agiles (SCRUM)Uso y administración de base de datos
+Desarrollo de FrontEnd
+Desarrollo de Micro Servicios
+Ejecución de metodologías Agiles (SCRUM)
+Uso y administración de base de datos
+REQUISITOS E QUALIFICAÇÕES
+Experiencia desarrollando aplicaciones web, uso y administración de base de datos, versionamiento de código, pruebas unitarias, resolución de problemas y redacción de documentación técnica.
+ 
+Experiencia y conocimientos sólidos de las siguientes tecnologías:
+Frontend
+Angular 12+
+HTML 5
+CSS
+JavaScript
+Typescript
+Bootstrap o Foundation o MIU o similar
+NPM
+Backend
+Net Core
+C#
+Uno o más de los siguientes lenguajes: NodeJs - (Deseable)
+Web API - Microservicios
+ADO.Net
+Dapper – (Deseable)
+Conocimientos medios de Docker y Kubernetes
+Base de datos
+SQL Server
+Versionado de código
+GIT
+GIT Flow
+Nube
+Kubernetes – (Deseable)
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Presentación de CV2Presentación de CV
+Etapa 2: Presentación de CV
+2
+Presentación de CV
+Etapa 3: Entrevista3Entrevista
+Etapa 3: Entrevista
+3
+Entrevista
+Etapa 4: Confirmación de candidato4Confirmación de candidato
+Etapa 4: Confirmación de candidato
+4
+Confirmación de candidato
+Etapa 5: Onboarding5Onboarding
+Etapa 5: Onboarding
+5
+Onboarding
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+CONOCE A STEFANINI
+Somos una empresa global con 35 años de experiencia en el mercado, ofrecemos una sólida selección de servicios como: automatización, nube, Internet de las cosas (IoT) y experiencia de usuario (UX).
+Creemos que la tecnología puede revolucionar una empresa y la innovación es fundamental para fomentar el desarrollo y la competitividad. También valoramos las nuevas ideas y el poder de una mente abierta, por lo que reconocemos que cada talento es esencial para la calidad de nuestros proyectos y especialmente para nuestro progreso.
+Creemos que la tecnología puede revolucionar una empresa y la innovación es fundamental para fomentar el desarrollo y la competitividad. También valoramos las nuevas ideas y el poder de una mente abierta, por lo que reconocemos que cada talento es esencial para la calidad de nuestros proyectos y especialmente para nuestro progreso.
+Mantenemos nuestra excelencia invirtiendo en innovaciones tecnológicas, las mejores alianzas, adquisiciones de empresas en todo el mundo y la contratación de profesionales altamente capacitados.
+CONOCE MÁS SOBRE NOSOTROS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

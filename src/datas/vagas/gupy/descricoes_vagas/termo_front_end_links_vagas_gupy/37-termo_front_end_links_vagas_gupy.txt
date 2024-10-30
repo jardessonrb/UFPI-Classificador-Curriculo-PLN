@@ -1,0 +1,114 @@
+link_vaga-https://convisoappsec.gupy.io/job/eyJqb2JJZCI6Nzg0MTY5NSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+SENIOR FRONT-END ENGINEER - REMOTE
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A Conviso é referência em segurança de aplicações, conhecida não apenas por sua plataforma robusta, que oferece suporte às empresas em todas as fases do ciclo de vida do desenvolvimento de software (SDLC), mas também por sua equipe de pessoas super qualificadas.
+O nosso propósito é empoderar as pessoas profissionais de desenvolvimento na construção de aplicações mais seguras. 
+Contamos com uma extensa base de usuários registrados em nossa plataforma, que confiam em nossas soluções. Oferecemos uma gama de serviços especializados visando aprimorar a maturidade em segurança dos nossos clientes, permitindo que estes identifiquem, administrem e mitiguem vulnerabilidades. Além disso, temos um forte compromisso com a educação! Já capacitamos milhares de pessoas em eventos e treinamentos. Também por meio de nossos conteúdos inteligentes e que educam o mercado, através de vídeos, webinars, pesquisas e artigos. 
+Fazer parte da Conviso é mais do que ser Insider, nossa pessoa colaboradora - é fazer parte de uma equipe que está moldando o futuro da cibersegurança e AppSec. A tecnologia corre nas nossas veias e, acima de tudo, estão as nossas pessoas, nosso bem mais precioso. Mantemos uma cultura de crescimento contínuo, com pessoas que acreditam e vivem nossos valores diariamente, posicionando-nos entre as melhores.
+Como Senior Front-End Engineer, você fará parte de uma equipe plural e multidisciplinar, colaborando com nosso time de Product Development. Você irá trabalhar diretamente com nosso principal produto, o Conviso Platform, que é uma plataforma completa de DevSecOps.
+Se identificou conosco, quer deixar sua marca e contribuir para um mundo digital mais seguro de qualquer lugar do mundo?
+Vem pra Conviso! 💙💛
+RESPONSABILIDADES E ATRIBUIÇÕES
+✨ SEU DIA A DIA 
+Desenvolver soluções de alta qualidade para atingir os resultados estratégicos da Conviso;
+Colaborar com a equipe para manter a qualidade do produto;
+Defender melhorias na qualidade, segurança e desempenho;
+Resolver problemas técnicos de escopo e complexidade altas;
+Desenvolver código de acordo com os padrões internos;
+Identificar e solucionar impedimentos à eficiência da equipe;
+Lançar funcionalidades e melhorias com autonomia e colaboração;
+Trabalhar em equipe e colaboração num ambiente ágil e interativo.
+REQUISITOS E QUALIFICAÇÕES
+👀 É IMPRESCINDÍVEL TER
+Sólidos conhecimentos em Javascript, HTML e CSS;
+Experiência em Vue 3;
+Experiência com gerenciamento de estados (Vuex, Pinia);
+Experiência em TypeScript;
+Experiência em GraphQL;
+Experiência com testes automatizados;
+Conhecimento em containers Docker;
+Conhecimentos em Cloud (AWS, Azure ou outras equivalentes)
+Conhecimentos em CI/CD.
+⚡ SERÁ UM DIFERENCIAL
+﻿
+Experiência em organização de alto desempenho;
+Experiência em equipe 100% remota;
+Interesse e conhecimento em Appsec;
+Experiência com Kubernetes
+Conhecimentos em Cloud (AWS, Azure ou outras equivalentes), Python e Ruby;
+Conhecimentos de UX e Design.
+INFORMAÇÕES ADICIONAIS
+🎁 BENEFÍCIOS
+ 
+Além de trabalhar em uma empresa onde você pode se desenvolver enquanto faz parte integralmente do negócio, oferecemos benefícios para tornar nossos dias ainda mais agradáveis!
+Vale Refeição de R$1000,00 por mês, pagos no cartão multibenefícios Flash, com desconto de apenas R$1 por mês;
+Vale Refeição de R$1000,00 por mês, pagos no cartão multibenefícios Flash, com desconto de apenas R$1 por mês;
+Auxílio anywhere office de R$100,00 por mês;
+Plano de saúde e odontológico da Amil nacional para cuidar de você, sem desconto;
+Plano específico da Flash Care para saúde mental e atenção primária à saúde;
+Seguro de vida;
+Gympass e Totalpass;
+Acesso à plataforma de cursos de idioma da Duolingo para dar um up no idioma;
+Acesso à plataforma do Linkedin Learning para melhorar suas habilidades como profissional;
+Reembolso de 70% em treinamentos e certificações;
+Programa de Indicação: Meu Amigo Vale Ouro;
+Programa filho nota 10;
+Day off de aniversário;
+Day off no dia de mudança de casa;
+Time off to pet care;
+Qualidade de vida, horário semi-flexível e trabalho 100% remoto, isso mesmo, anywhere office.
+💛 QUER SABER MAIS SOBRE A CONVISO?!
+💛
+﻿
+Culture Code
+Blog 
+Podcast 
+Canal do youtube
+--
+Aqui a diversidade importa! Valorizamos as diferenças, pluralidades de raça, cor, religião, gênero e identidade de gênero, nacionalidade, orientações sexuais ou de idade, pois acreditamos na importância de compartilhar ideias e pontos de vista distintos.
+Cada pessoa importa, ninguém aqui é somente um número. Cada Insider importa! 💙💛
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Bate-papo Inicial (PH + Gestão) 🙌2Bate-papo Inicial (PH + Gestão) 🙌
+Etapa 2: Bate-papo Inicial (PH + Gestão) 🙌
+2
+Bate-papo Inicial (PH + Gestão) 🙌
+Etapa 3: Desafio Técnico 📝3Desafio Técnico 📝
+Etapa 3: Desafio Técnico 📝
+3
+Desafio Técnico 📝
+Etapa 4: Bate-papo técnico 💪4Bate-papo técnico 💪
+Etapa 4: Bate-papo técnico 💪
+4
+Bate-papo técnico 💪
+Etapa 5: Bate-papo final  🤩5Bate-papo final  🤩
+Etapa 5: Bate-papo final  🤩
+5
+Bate-papo final  🤩
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+SOBRE A CONVISO
+Especialistas em AppSec (Application Securtiy), desde 2008 e fomentamos a cultura de desenvolvimento seguro em mais de 22 países. Ajudamos nossos clientes através de consultoria, serviços de segura ofensiva, treinamentos especializados e uma plataforma completa de ASPM (Application Security Posture Management) oferecendo suporte contínuo na gestão de segurança em todo o pipeline de desenvolvimento seguro.
+A Conviso ajuda as empresas no fortalecimento da segurança digital, especialmente instituições financeiras, negócios suscetíveis a fraudes digitais e aqueles que armazenam dados sensíveis. Nossa missão é ajudar essas organizações a atenderem requisitos de conformidade, protegerem suas aplicações contra fraudes e ataques cibernéticos, além de promoverem uma cultura de boas práticas de desenvolvimento seguro.
+Temos um forte compromisso educacional, impactamos milhares de pessoas através de eventos, treinamentos, e conteúdos informativos como vídeos, webinars, pesquisas e artigos. Nosso foco é fortalecer o mercado com conhecimento de qualidade sobre AppSec.
+NOS ACOMPANHE NAS REDES SOCIAIS ;)
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

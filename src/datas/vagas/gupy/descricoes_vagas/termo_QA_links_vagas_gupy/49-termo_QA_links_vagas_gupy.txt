@@ -1,0 +1,116 @@
+link_vaga-https://sencinetcolombia.gupy.io/job/eyJqb2JJZCI6Nzk1OTExMywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+SERVICE OPERATIONS ANALYST - TECHNICAL AND QUALITY ASSURANCE (QA)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Sencinet Service Operations Analyst (Technical and Quality Assurance) está diseñado para empresas que necesitan enfocar sus recursos en su negocio principal, delegando las tareas de gestión y control de la infraestructura de TI y Telecomunicaciones a un equipo de profesionales altamente calificados. preparados, equipados con herramientas avanzadas para lograr una mayor eficiencia operativa.
+El objetivo principal del Analista de Operaciones de Servicio de Sencinet es asegurar el cumplimiento de los niveles de servicio de los SLA acordados con nuestros clientes, así como lograr altos niveles de satisfacción durante todo el ciclo de vida del servicio, involucrándose y contribuyendo en procesos que pueden ir desde el diseño hasta las nueva soluciones, a través de tareas relacionadas con la operación y temas administrativos hasta procesos de mejora continua.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Manejo de Operaciones
+•	Gestión de servicios según las mejores prácticas y procesos basados en un entorno ITIL.
+•	Soporte 2do nivel para incidencias y solicitudes.
+•	Reducción de los tiempos de respuesta para atender incidencias y solicitudes.
+•	Atención al cliente en sitio según el rol previamente acordado.
+•	Mostrar liderazgo en la solución de incidentes y problemas operativos.
+•	Aseguramiento del nivel de servicio al cliente (SLA).
+•	Manejo de escalaciones tanto internas como externas para asegurar la resolución del incidente.
+•	Elaboración de informes según las necesidades del cliente.
+•	Gestión de capacidad y disponibilidad de servicios
+Enfoque en el cliente
+•	Demostrar y comprender la importancia de nuestros servicios para nuestros clientes y asume la responsabilidad de resolver cualquier solicitud, consulta o problema.
+•	Capacidad para abordar situaciones complejas de manera profesional con empatía y calidez, asegurando los mejores resultados para Sencinet y la experiencia del cliente.
+•	Comprender al cliente y tener claro los objetivos de cada uno, manteniendo conversaciones honestas para gestionar sus expectativas.
+•	Conocimiento especializado adaptado a las necesidades del cliente.
+•	Identificación de oportunidades de mejora.
+•	Diagnosticar problemas y gestionar la resolución con los grupos relevantes: Directivos, Técnicos, compañeros, proveedores y grupos de clientes.
+•	Actuar con flexibilidad (por excepción) en horas no hábiles cuando falla la atención al cliente o se producen incidentes graves.
+REQUISITOS E QUALIFICAÇÕES
+Estudiante últimos semestres o profesional en Ingeniería en Telecomuncaciones, Electrónica, Sistemas, Redes o afines; . Técnico Profesional, Tecnologo en Redes, Telecomuncaciones, afines
+Tarjeta profesional (Colombia). 
+Certificaciones:
+ 
+             1.Mandatarias:
+              •CCNA (Cisco Certified Network Associate).
+              •Fortinet Fundamentals Cyber Security.
+ 
+             2.Deseables:
+              •Fortinet Certified Associate.
+              •Certificaciones adicionales en redes y seguridad.
+Habilidades:
+ 
+             1.Técnicas:
+              •Conocimientos en programación, automatización y APIs enfocadas a Networking (Python).
+              •Conocimientos en administración de redes LAN y WLAN (preferiblemente con experiencia en Cisco y Aruba).
+              •Experiencia en administración de redes WAN, con énfasis en Cisco y Fortinet.
+              •Dominio avanzado de hojas de cálculo (Excel) y creación de tableros dinámicos para el análisis de datos.
+ 
+             2.Blandas:
+              •Capacidad para desarrollar procesos organizativos y adaptarse a los diferentes niveles y áreas de la empresa.
+              •Habilidad para trabajar de manera efectiva en equipos multidisciplinarios.
+              •Comunicación asertiva, tanto escrita como verbal.
+              •Fuerte orientación al servicio y la atención al cliente.
+              •Gestión eficiente del tiempo, con habilidad para organizar y priorizar tareas, asegurando el cumplimiento de plazos y objetivos.
+	 •Dominio del inglés para la comunicación técnica y fluida con clientes y equipos internacionales.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista Recursos Humanos2Entrevista Recursos Humanos
+Etapa 2: Entrevista Recursos Humanos
+2
+Entrevista Recursos Humanos
+Etapa 3: Entrevista Gestor3Entrevista Gestor
+Etapa 3: Entrevista Gestor
+3
+Entrevista Gestor
+Etapa 4: Evaluación4Evaluación
+Etapa 4: Evaluación
+4
+Evaluación
+Etapa 5: Carta Oferta5Carta Oferta
+Etapa 5: Carta Oferta
+5
+Carta Oferta
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+¿COMO ES TRABAJAR CON NOSOTROS?
+ Tenemos cultura de Startup - ambiente dinámico, flexible, innovador, colaborativo y muy retador. Valoramos la diversidad y el equilibrio entre vida profesional y personal. Tenemos beneficios geniales: plan de salud para todos los colaboradores (cónyuge e hijos) y seguro de vida para los colaboradores cubierto por la empresa, apoyo para transporte o estacionamiento en las oficinas, estacionamiento para bicicletas disponible en casi todos nuestros locales, beneficios de calidad de vida, seguro de vida entre otros.Trabajamos, trabajamos, trabajamos, pero también nos divertimos – horario flexible, ambiente tranquilo y aquel momento para tomar un café y conversar.¿Cómo es Sencinet? Aquí en Sencinet somos más de 500 personas, todas seleccionadas a detalle y que toman muy en serio nuestro propósito de tornar las redes corporativas rápidas, fáciles, seguras y accesibles para nuestros clientes. Los integrantes de nuestro equipo se llaman Sencineers. Día tras día esas personas actúan detrás de bastidores de forma ágil, l@s Sencineers apoyan y viabilizan el éxito de nuestros productos y servicios en pro de nuestros clientes. Una vez reclutados todes reciben esa gran responsabilidad: practicar nuestros valores diariamente, cuidar a la empresa y a nuestros clientes, siempre creyendo y persiguiendo nuestro propósito. Ofrecemos un ambiente ameno, completamente colaborativo, con un ritmo acelerado y desafiante a fin de alcanzar resultados y promover una mejor experiencia para nuestros clientes, construyendo una jornada de éxito para clientes y Sencineers. ¡Aquí tú creces junto a Sencinet! Creemos que la diversidad promueve el crecimiento sustentable. En Sencinet queremos que seas 100% tú mismo.Reclutamiento en SencinetPor si tienes curiosidad, te contamos cómo funciona nuestro proceso de reclutamiento después de que te postulas a una vacante:Revisamos tu hoja de vida junto a la de los otros candidatos.Creamos una lista inicial con todos los candidatos que tienen la mayoría de los requisitos necesarios para la vacante.Nuestros gerentes revisan esa lista y a partir de allí definen una “lista corta” de candidatos considerando aquellos requisitos deseados. ¿Sabes? Aquellos requisitos que te facilitarán el cumplimiento de esa función, como, por ejemplo, experiencia, educación e idiomas.Realizamos entrevistas basadas en competencias, estas pueden ser presenciales o remotas.Dependiendo del cargo o de la función puede ser más de una entrevista.Finalmente seleccionamos a los candidatos finales basados en sus habilidades y competencias.Seguimos reclutando para todas nuestras vacantes. Todas las entrevistas, inducción o onboarding son realizados de forma virtual debido a COVID-19. Todos los Sencineers, nuevos y actuales, trabajarán de forma remota temporalmente hasta que sea seguro regresar a las oficinas.¿Qué nos gusta en l@s candidat@s?Personas a las que les guste trabajar con otras personas.Personas apasionadas por lo que hacen cada día.Personas que tienen convicción y defienden sus valores.Personas que persiguen resultados y concretan cambios.Personas propositivas que trabajan con procesos ágiles y dinámicos
+ Tenemos cultura de Startup - ambiente dinámico, flexible, innovador, colaborativo y muy retador.
+ Valoramos la diversidad y el equilibrio entre vida profesional y personal.
+ Tenemos beneficios geniales: plan de salud para todos los colaboradores (cónyuge e hijos) y seguro de vida para los colaboradores cubierto por la empresa, apoyo para transporte o estacionamiento en las oficinas, estacionamiento para bicicletas disponible en casi todos nuestros locales, beneficios de calidad de vida, seguro de vida entre otros.
+Trabajamos, trabajamos, trabajamos, pero también nos divertimos – horario flexible, ambiente tranquilo y aquel momento para tomar un café y conversar.
+¿Cómo es Sencinet?
+ 
+Aquí en Sencinet somos más de 500 personas, todas seleccionadas a detalle y que toman muy en serio nuestro propósito de tornar las redes corporativas rápidas, fáciles, seguras y accesibles para nuestros clientes.
+ 
+Los integrantes de nuestro equipo se llaman Sencineers. Día tras día esas personas actúan detrás de bastidores de forma ágil, l@s Sencineers apoyan y viabilizan el éxito de nuestros productos y servicios en pro de nuestros clientes. Una vez reclutados todes reciben esa gran responsabilidad: practicar nuestros valores diariamente, cuidar a la empresa y a nuestros clientes, siempre creyendo y persiguiendo nuestro propósito.
+ 
+Ofrecemos un ambiente ameno, completamente colaborativo, con un ritmo acelerado y desafiante a fin de alcanzar resultados y promover una mejor experiencia para nuestros clientes, construyendo una jornada de éxito para clientes y Sencineers. ¡Aquí tú creces junto a Sencinet!
+ 
+Creemos que la diversidad promueve el crecimiento sustentable. En Sencinet queremos que seas 100% tú mismo.
+Reclutamiento en Sencinet
+Por si tienes curiosidad, te contamos cómo funciona nuestro proceso de reclutamiento después de que te postulas a una vacante:
+Revisamos tu hoja de vida junto a la de los otros candidatos.
+Creamos una lista inicial con todos los candidatos que tienen la mayoría de los requisitos necesarios para la vacante.
+Nuestros gerentes revisan esa lista y a partir de allí definen una “lista corta” de candidatos considerando aquellos requisitos deseados. ¿Sabes? Aquellos requisitos que te facilitarán el cumplimiento de esa función, como, por ejemplo, experiencia, educación e idiomas.
+Realizamos entrevistas basadas en competencias, estas pueden ser presenciales o remotas.
+Dependiendo del cargo o de la función puede ser más de una entrevista.
+Finalmente seleccionamos a los candidatos finales basados en sus habilidades y competencias.
+Seguimos reclutando para todas nuestras vacantes. Todas las entrevistas, inducción o onboarding son realizados de forma virtual debido a COVID-19. Todos los Sencineers, nuevos y actuales, trabajarán de forma remota temporalmente hasta que sea seguro regresar a las oficinas.
+¿QUÉ NOS GUSTA EN L@S CANDIDAT@S?
+Personas a las que les guste trabajar con otras personas.
+Personas apasionadas por lo que hacen cada día.
+Personas que tienen convicción y defienden sus valores.
+Personas que persiguen resultados y concretan cambios.
+Personas propositivas que trabajan con procesos ágiles y dinámicos

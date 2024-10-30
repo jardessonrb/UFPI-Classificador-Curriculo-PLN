@@ -1,0 +1,112 @@
+link_vaga-https://tecnologiagrupocasasbahia.gupy.io/job/eyJqb2JJZCI6Nzc2NTIzMiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ESPECIALISTA EM DESENVOLVIMENTO DE SOFTWARE FULLSTACK (JAVA/REACT)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+Somos o Grupo Casas Bahia, com mais de 70 anos de história, realizando os sonhos de +90 milhões de brasileiros. Estamos indo muito além do varejo, em uma jornada que coloca o cliente no centro de tudo. Por aqui, a dedicação total nunca foi tão forte!
+Buscamos um Especialista em Desenvolvimento de Software para integrar o time de Backoffice.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Experiências sólidas em desenvolvimento de aplicações Java;Desenvolver interfaces de usuário interativas e responsivas utilizando React para o frontend;Integrar sistemas e aplicações utilizando Kafka;Projetar e implementar a lógica de negócio e medidas de segurança, validar e testar as APIs e Aplicações, documentar os serviços;Desenvolver criativas soluções, atendendo as necessidades e experiência de usuário;Participar da análise de requisitos e colaborar com equipes internas para produzir design e arquitetura de softwares;Possuir uma cultura orientada a testes;Cultura de Revisão de código;Ownership do produto;Mentorar tecnicamente os outros desenvolvedores do time.
+Experiências sólidas em desenvolvimento de aplicações Java;
+Desenvolver interfaces de usuário interativas e responsivas utilizando React para o frontend;
+Integrar sistemas e aplicações utilizando Kafka;
+Projetar e implementar a lógica de negócio e medidas de segurança, validar e testar as APIs e Aplicações, documentar os serviços;
+Desenvolver criativas soluções, atendendo as necessidades e experiência de usuário;
+Participar da análise de requisitos e colaborar com equipes internas para produzir design e arquitetura de softwares;
+Possuir uma cultura orientada a testes;
+Cultura de Revisão de código;
+Ownership do produto;
+Mentorar tecnicamente os outros desenvolvedores do time.
+REQUISITOS E QUALIFICAÇÕES
+Conhecimento em desenvolvimento com Java;Sólido conhecimento e atuação com microsserviços;Conhecimento em Teorema CAP;Experiência em programação reativa (Reatividade);Experiência com React;Conhecimento em ferramentas de CI/CD;Conhecimento em Kafka para mensageria e integração de sistemas;Excelente capacidade de comunicação e trabalho em equipe;Capacidade de trabalhar de forma colaborativa com outras squads;Proatividade e autonomia para resolver problemasSeria muito legal se você tivesse (diferencial):  Experiência em projetos relacionados a tributário;Conhecimentos em Spring Batch.
+Conhecimento em desenvolvimento com Java;
+Sólido conhecimento e atuação com microsserviços;
+Conhecimento em Teorema CAP;
+Experiência em programação reativa (Reatividade);
+Experiência com React;
+Conhecimento em ferramentas de CI/CD;
+Conhecimento em Kafka para mensageria e integração de sistemas;
+Excelente capacidade de comunicação e trabalho em equipe;
+Capacidade de trabalhar de forma colaborativa com outras squads;
+Proatividade e autonomia para resolver problemas
+Seria muito legal se você tivesse (diferencial):  
+Experiência em projetos relacionados a tributário;
+Conhecimentos em Spring Batch.
+INFORMAÇÕES ADICIONAIS
+Local de Trabalho: Remoto 
+Alguns benefícios que você terá conosco:  
+Um ambiente dinâmico e em crescimento acelerado que permite muita autonomia; 
+Um ambiente dinâmico e em crescimento acelerado que permite muita autonomia; 
+PLR ou Bônus; 
+PLR ou Bônus; 
+Assistência Médica e Odontológica; 
+Assistência Médica e Odontológica; 
+Vale Refeição; 
+Vale Refeição; 
+Licenças maternidade e paternidade estendidas; 
+Licenças maternidade e paternidade estendidas; 
+Incentivo à prática de atividade física: Wellhub e Total Pass; 
+Incentivo à prática de atividade física: 
+e Total Pass; 
+Descontos em produtos do Grupo e parceiros;  
+Descontos em produtos do Grupo e parceiros;  
+Previdência Privada; 
+Previdência Privada; 
+Seguro de vida; 
+Seguro de vida; 
+Assistência Funeral; 
+Assistência Funeral; 
+Programa Acolher (Atendimento psicológico, Consultoria Previdenciária, Financeira e Jurídica gratuitas); 
+Programa Viver Bem: Telemedicina e Telepsicologia gratuitos.
+ 
+ 
+#VEMPROGRUPOCASASBAHIA 
+ 
+Todas as nossas vagas são elegíveis a candidaturas internas e externas. 
+Colaboradores, acesse a política de recrutamento interno disponível no ServiceNow para conhecer os requisitos e premissas do programa. 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Vamos analisar seu currículo2Vamos analisar seu currículo
+Etapa 2: Vamos analisar seu currículo
+2
+Vamos analisar seu currículo
+Etapa 3: Bate-papo com o time de RH3Bate-papo com o time de RH
+Etapa 3: Bate-papo com o time de RH
+3
+Bate-papo com o time de RH
+Etapa 4: Conhecendo a liderança4Conhecendo a liderança
+Etapa 4: Conhecendo a liderança
+4
+Conhecendo a liderança
+Etapa 5: Fase Final5Fase Final
+Etapa 5: Fase Final
+5
+Fase Final
+Etapa 6: Proposta pra se juntar ao time6Proposta pra se juntar ao time
+Etapa 6: Proposta pra se juntar ao time
+6
+Proposta pra se juntar ao time
+Etapa 7: Dados pré-contratação7Dados pré-contratação
+Etapa 7: Dados pré-contratação
+7
+Dados pré-contratação
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+GRUPO CASAS BAHIA
+O Grupo Casas Bahia é uma das empresas mais emblemáticas do Brasil, com uma história rica que se estende por décadas. Sua jornada é marcada por superação, inovação e dedicação total a você! Nossa dedicação é incansável, nossa vontade de trazer solução, e de conversar olho no olho nos faz humanos. 
+ 
+Somos mais de 30 mil colaboradores, com a maior e mais digital rede logística do Brasil conectada a mais de mil lojas físicas, 29 centros de distribuição, hubs de entregas, tudo isso pensando nos mais de 200 milhões de clientes. 
+ 
+Se você é movido pela paixão, pelo jeito de ser simples, pela transformação e pela dedicação que temos a você e a todos os brasileiros, desejamos boas-vindas, sinta-se em casa e conheça nossas oportunidades de carreira, no Grupo Casas Bahia. 
+LinkedIn
+Instagram

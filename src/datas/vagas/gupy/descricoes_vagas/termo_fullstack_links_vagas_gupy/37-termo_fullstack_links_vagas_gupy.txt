@@ -1,0 +1,91 @@
+link_vaga-https://iteris.gupy.io/job/eyJqb2JJZCI6NzQyNTExNSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+[REMOTO] TECH LEAD FULLSTACK (JAVA/ANGULAR)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Somos a Iteris!
+Uma empresa de tecnologia que desde 2009 integra o humano e o tecnológico visando agregar cada vez mais valor para a transformação digital dos nossos clientes. Já somos mais de 900 pessoas apaixonadas por tecnologia e unidas por laços reais, que acreditam que a excelência nos resultados é a soma das qualidades técnicas e comportamentais. Somos Next-Gen IT Services e queremos que você faça parte do nosso futuro.
+#VemFazerAcontecer com a gente!
+Acreditamos no potencial de todos, independentemente de gênero, raça, idade, religião, deficiências, questões culturais ou políticas. Por isso, nossas vagas são abertas para todos.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Nessa posição, sua missão será liderar tecnicamente o time de desenvolvimento na criação de soluções com códigos eficientes, seguros e alinhados às diretrizes arquiteturais previamente estabelecidas, implementando práticas de otimização de desempenho e seguindo padrões de segurança rigorosos para proteger os dados sensíveis dos usuários e da empresa. Além de atuar ativamente na análise e melhoria contínua dos processos de desenvolvimento de software, colaborar ativamente com o desenvolvimento técnico do time e garantir entrega de valor aos negócios de nossos clientes.
+REQUISITOS E QUALIFICAÇÕES
+O que você precisa conhecer?
+
+Java e Frameworks: Java 8/11; Spring Framework; JPA/JTA;
+Gerenciamento de dependências: Maven e/ou Gradle;
+Testes unitários: JUnit, Mockito;
+Ferramentas de controle de Versão: Git, GitFlow;
+Desenvolvimento de APIs RESTful;
+Banco de Dados: Relacionais (SQL Server, Oracle, MySQL) e não relacionais (Redis, MongoDB, DynamoDB);
+Arquitetura de microsserviços;
+Cloud: AWS, Azure ou GCP;
+Técnicas de desenvolvimento de equipes e resolução de problemas técnicos complexos;
+Arquitetura e Design: Design patterns, CQRS, SOLID, injeção de dependência, DDD;
+Inglês a nível de conversação.
+INFORMAÇÕES ADICIONAIS
+Conheça nossos benefícios:
+Cesta de benefícios flexível para distribuir livremente entre VR e VA;
+Assistência Médica Premium nacional;
+Assistência Odontológica;
+Subsídio de Certificações;
+PLR;
+Wellhub;
+Auxílio-creche;
+Seguro de Vida;
+Day Off no mês de aniversário;
+Licença maternidade e paternidade estendidas;
+Plano de Carreira;
+Comunidades de Prática.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Entrevista Talent Acquisition3Entrevista Talent Acquisition
+Etapa 3: Entrevista Talent Acquisition
+3
+Entrevista Talent Acquisition
+Etapa 4: Entrevista Técnica4Entrevista Técnica
+Etapa 4: Entrevista Técnica
+4
+Entrevista Técnica
+Etapa 5: Proposta5Proposta
+Etapa 5: Proposta
+5
+Proposta
+Etapa 6: Feedback - Processo Seletivo6Feedback - Processo Seletivo
+Etapa 6: Feedback - Processo Seletivo
+6
+Feedback - Processo Seletivo
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+SOMOS FEITOS DE GENTE. DE GENTE QUE FAZ ACONTECER!
+Somos uma multinacional brasileira que há 15 anos usa a tecnologia para construir um mundo melhor. Com escritórios no Brasil e Estados Unidos, temos mais de 150 clientes e um time que se une para construir e entregar soluções incríveis e inovadoras.
+ 
+Orgulhosos da nossa cultura People Centric, já fomos reconhecidos pela GPTW como uma das 35 melhores multinacionais para se trabalhar, além de termos entrado no ranking do setor de Tecnologia e do estado de São Paulo. Também fomos reconhecidos pela Valor Carreira, ficando entre as melhores empresas no quesito gestão de pessoas.
+ 
+Apaixonados por tecnologia, acreditamos que a excelência nos resultados é a soma da nossa qualidade técnica e comportamental, e por isso investimos nas nossas pessoas e prezamos pela nossa cultura e jeito Iteris de ser.
+ 
+O compromisso com os desafios da TI dos nossos clientes nasceu em 2009, e hoje somos um time que compartilha um mesmo propósito, vem com a gente! 😄
+
+ACOMPANHE A GENTE POR AÍ 😉
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

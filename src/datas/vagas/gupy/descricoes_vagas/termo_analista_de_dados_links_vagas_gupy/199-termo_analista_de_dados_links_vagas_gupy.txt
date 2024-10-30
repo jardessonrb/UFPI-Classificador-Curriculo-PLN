@@ -1,0 +1,129 @@
+link_vaga-https://bigdata.gupy.io/job/eyJqb2JJZCI6Nzg1MTU4MSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE DADOS
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Somos a Big Data, líderes no Brasil em Inteligência Artificial aplicada a negócios, ajudando grandes clientes como Dexco, Haleon, Kimberly Clark, Eagle Rock, Liberty Coca-Cola, Nivea, Jonhson & Jonhson, Sanofi & Medley, Germed, Natura, Kraft Heinz, P&G, Nestlé, WP Lab, Colgate Palmolive, Banco Santander, Red Bull e muitos outros.
+Somos a Big Data, líderes no Brasil em Inteligência Artificial aplicada a negócios, ajudando grandes clientes como Dexco, Haleon, Kimberly Clark, Eagle Rock, Liberty Coca-Cola, Nivea, Jonhson & Jonhson, Sanofi & Medley, Germed, Natura, Kraft Heinz, P&G, Nestlé, WP Lab, Colgate Palmolive, Banco Santander, Red Bull e muitos outros.
+Estamos em um momento de expansão internacional e procuramos pessoas com sangue nos olhos, foco e mentalidade de inovação para nos ajudar nesse grande sonho, que é sermos líderes globais em IA.
+Estamos em um momento de expansão internacional e procuramos pessoas com sangue nos olhos, foco e mentalidade de inovação para nos ajudar nesse grande sonho, que é sermos líderes globais em IA.
+Como Analista de Dados você será responsável analisar grandes volumes de dados para fornecer insights valiosos que apoiem as decisões estratégicas da empresa. Terá um papel fundamental na transformação de dados brutos em informações acionáveis, ajudando a identificar oportunidades de crescimento.
+Como Analista de Dados você será responsável 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Como Analista de Dados, esperamos que você possa: 
+Como 
+, esperamos que você possa: 
+Desenvolver e implementar análises de dados, otimizando a eficiência e a qualidade de insights gerados;
+Desenvolver e implementar análises de dados, otimizando a eficiência e a qualidade de insights gerados;
+Gerar relatórios de análises descritivas e diagnósticas de dados, identificando tendências e padrões a partir dos dados apresentados;
+Gerar relatórios de análises descritivas e diagnósticas de dados, identificando tendências e padrões a partir dos dados apresentados;
+Colaborar com equipes interdisciplinares e traduzir requisitos de negócios em soluções técnicas;
+Colaborar com equipes interdisciplinares e traduzir requisitos de negócios em soluções técnicas;
+Monitorizar a integridade, precisão e consistência dos dados utilizados, identificando e corrigindo erros, propondo melhorias contínuas nos processos;
+ propondo melhorias contínuas nos processos;
+REQUISITOS E QUALIFICAÇÕES
+Formação superior completa em Estatística, Matemática, Engenharia, Ciências da Computação ou áreas afins.Conhecimento em ferramentas de visualização de dados, como QuickSight, Tableau, Power BI, QlikView, Excel, outros;Habilidades avançadas em análise de dados;Conhecimento em linguagens de consulta de dados, como SQL;Conhecimento básico em Python;Conhecimento em segurança de dados e regulamentações de privacidade;Capacidade de comunicar efetivamente insights a partir de dados complexos;Boa comunicação para traduzir dados técnicos em insights compreensíveis para equipes não técnicas.Conhecimento em Airflow, Grafana e AWS serão considerados um diferencial. 
+Formação superior completa em Estatística, Matemática, Engenharia, Ciências da Computação ou áreas afins.
+Conhecimento em ferramentas de visualização de dados, como QuickSight, Tableau, Power BI, QlikView, Excel, outros;
+Conhecimento em ferramentas de visualização de dados, como QuickSight, Tableau, Power BI, QlikView, Excel, outros;
+Habilidades avançadas em análise de dados;
+Habilidades avançadas em análise de dados;
+Conhecimento em linguagens de consulta de dados, como SQL;
+Conhecimento em linguagens de consulta de dados, como SQL;
+Conhecimento básico em Python;
+Conhecimento básico em Python;
+Conhecimento em segurança de dados e regulamentações de privacidade;
+Conhecimento em segurança de dados e regulamentações de privacidade;
+Capacidade de comunicar efetivamente insights a partir de dados complexos;
+Capacidade de comunicar efetivamente insights a partir de dados complexos;
+Boa comunicação para traduzir dados técnicos em insights compreensíveis para equipes não técnicas.
+Conhecimento em Airflow, Grafana e AWS serão considerados um diferencial. 
+Conhecimento em Airflow, Grafana e AWS serão considerados um diferencial. 
+INFORMAÇÕES ADICIONAIS
+Ambiente informal, de muita troca e amizade;Pessoas apaixonadas pelo que fazem;Um aprendizado novo por dia;Local que está buscando seu melhor todos os dias;Crescimento e mil oportunidades ao seu redor;Salário competitivo;Vale Refeição (Caju);Auxilio Academia;Ajuda de Custo Home Office;Plano de Saúde;Vale-Educação;PLR;Stock Options;Possibilidades de se tornar sócio/sócia da empresa :)
+Ambiente informal, de muita troca e amizade;
+Ambiente informal, de muita troca e amizade;
+Pessoas apaixonadas pelo que fazem;
+Pessoas apaixonadas pelo que fazem;
+Um aprendizado novo por dia;
+Um aprendizado novo por dia;
+Local que está buscando seu melhor todos os dias;
+Local que está buscando seu melhor todos os dias;
+Crescimento e mil oportunidades ao seu redor;
+Crescimento e mil oportunidades ao seu redor;
+Salário competitivo;
+Salário competitivo;
+Vale Refeição (Caju);
+Vale Refeição (Caju);
+Auxilio Academia;
+Auxilio Academia;
+Ajuda de Custo Home Office;
+Ajuda de Custo Home Office;
+Plano de Saúde;
+Plano de Saúde;
+Vale-Educação;
+Vale-Educação;
+PLR;
+PLR;
+Stock Options;
+Stock Options;
+Possibilidades de se tornar sócio/sócia da empresa :)
+Possibilidades de se tornar sócio/sócia da empresa :)
+
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Entrevista c/ Time de People3Entrevista c/ Time de People
+Etapa 3: Entrevista c/ Time de People
+3
+Entrevista c/ Time de People
+Etapa 4: Entrevista Liderança/Técnica4Entrevista Liderança/Técnica
+Etapa 4: Entrevista Liderança/Técnica
+4
+Entrevista Liderança/Técnica
+Etapa 5: Entrevista de Cultura5Entrevista de Cultura
+Etapa 5: Entrevista de Cultura
+5
+Entrevista de Cultura
+Etapa 6: Proposta6Proposta
+Etapa 6: Proposta
+6
+Proposta
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+SOMOS A BIG DATA!
+Somos líderes de mercado no segmento de Inteligência Artificial no Brasil, desde 2012!🚀
+Somos líderes de mercado no segmento de Inteligência Artificial no Brasil, desde 2012!
+Transformamos dados em inteligência de negócio e impulsionamos resultados dos nossos clientes através de recomendações assertivas e otimização de preço de venda. Aqui, nossos desafios não somente são cumpridos, mas abraçados com entusiasmo para construir produtos que geram valor e um impacto real. 
+Transformamos dados em inteligência de negócio e impulsionamos resultados dos nossos clientes através de recomendações assertivas e otimização de preço de venda. 
+Aqui, nossos desafios não somente são cumpridos, mas abraçados com entusiasmo para construir produtos que geram valor e um impacto real. 
+Valorizamos pessoas com mentalidade empreendedora, daquelas que não se contentam com o funcionalismo e buscam constantemente maneiras de fazer a diferença! Como dizemos por aqui, “saia dos máximos locais e alcance os melhores resultados possíveis!”
+Valorizamos pessoas com mentalidade empreendedora, daquelas que não se contentam com o funcionalismo e buscam constantemente maneiras de fazer a diferença! Como dizemos por aqui, “saia dos máximos locais e alcance os melhores resultados possíveis!”
+Nosso ambiente é para quem busca protagonismo, força e proatividade. Queremos embarcar em desafios juntos, crescendo e evoluindo como time, sempre com foco no que realmente importa: sermos donos do nosso destino e protagonistas da nossa história!
+Nosso ambiente é para quem busca protagonismo, força e proatividade. Queremos embarcar em desafios juntos, crescendo e evoluindo como time, sempre com foco no que realmente importa: sermos donos do nosso destino e protagonistas da nossa história!
+Junte-se a nós e faça parte de uma equipe que valoriza a iniciativa e a vontade de fazer a diferença. 
+Junte-se a nós e faça parte de uma equipe que valoriza a iniciativa e a vontade de fazer a diferença. 
+Estamos empolgados para receber você e juntos alcançarmos novos horizontes! 💙
+Estamos empolgados para receber você e juntos alcançarmos novos horizontes! 
+E olha só alguns dos clientes que já cresceram com a gente: Dexco, Haleon, Kimberly Clark, Eagle Rock, Liberty Coca-Cola, Nivea, Jonhson & Jonhson, Sanofi & Medley, Germed, Natura, Kraft Heinz, P&G, Nestlé, WP Lab, Colgate Palmolive, Banco Santander, Red Bull e muitos outros.
+E olha só alguns dos clientes que já cresceram com a gente: Dexco, Haleon, Kimberly Clark, Eagle Rock, Liberty Coca-Cola, Nivea, Jonhson & Jonhson, Sanofi & Medley, Germed, Natura, Kraft Heinz, P&G, Nestlé, WP Lab, Colgate Palmolive, Banco Santander, Red Bull e muitos outros.
+MAIS DA BIG DATA POR AÍ
+Website
+LinkedIn
+Glassdoor

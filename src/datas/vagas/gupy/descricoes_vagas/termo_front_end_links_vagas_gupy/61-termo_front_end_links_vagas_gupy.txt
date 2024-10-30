@@ -1,0 +1,131 @@
+link_vaga-https://convenia.gupy.io/job/eyJqb2JJZCI6NzcyMzY4NSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DEV FRONT-END SÊNIOR | VUE.JS
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Ser a melhor solução para empresas que queiram atingir a alta performance através das pessoas, só é possível com um time eficiente, que desafia o convencional e usa seus potenciais em inovação e crescimento de negócios.
+Sua missão como pessoa Desenvolvedora Sênior será atuar com foco em Front-end para fazer a diferença no desenvolvimento e na manutenção dos serviços e APIs que compõem nossas soluções de HRTech.
+Sua missão como pessoa Desenvolvedora Sênior será 
+ que compõem nossas soluções de HRTech.
+✨Veja abaixo mais detalhes desta posição e se tem a ver com você!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Participação ativa em todas as etapas de desenvolvimento (kickoff, entendimento da necessidade do cliente, sugestões de melhorias, entendimento do impacto de novas funcionalidades em itens existentes, colaboração com o time de design, etc);Habilidade de reconhecer, relatar e liderar a resposta a incidentes graves, do início até a resolução;Realizar entregas de qualidade e fazer a revisão de trabalho dos pares em itens não críticos, esclarecendo problemas de estilo, legibilidade e desempenho;Fazer melhorias em documentações, processos e ferramentas internas;Manter os altos padrões de entrega do time ao revisar pull requests de seus pares, antecipando problemas e mitigando seu impacto quando necessário;Fornecer contexto e clareza para a organização de engenharia produzindo e mantendo documentações, processos e ferramentas internas;Compartilhar conhecimento e feedback, trocar com especialistas e colaborar no dia a dia.
+Participação ativa em todas as etapas de desenvolvimento (kickoff, entendimento da necessidade do cliente, sugestões de melhorias, entendimento do impacto de novas funcionalidades em itens existentes, colaboração com o time de design, etc);
+Habilidade de reconhecer, relatar e liderar a resposta a incidentes graves, do início até a resolução;
+Realizar entregas de qualidade e fazer a revisão de trabalho dos pares em itens não críticos, esclarecendo problemas de estilo, legibilidade e desempenho;
+Fazer melhorias em documentações, processos e ferramentas internas;
+Manter os altos padrões de entrega do time ao revisar pull requests de seus pares, antecipando problemas e mitigando seu impacto quando necessário;
+Fornecer contexto e clareza para a organização de engenharia produzindo e mantendo documentações, processos e ferramentas internas;
+Compartilhar conhecimento e feedback, trocar com especialistas e colaborar no dia a dia.
+REQUISITOS E QUALIFICAÇÕES
+Dev Front-endDomínio de HTML, CSS e Javascript;Design responsivo;Capacidade de transformar designs em código com precisão, garantindo que a interface implementada siga fielmente o layout fornecido (pixel perfect);Uso de pré-processadores de CSS como SASS, LESS ou outros;Metodologias de Organização de CSS (RCSS, BEM, etc);Domínio em ferramentas de testes E2E/Integração como Playwright e Cypress;Capacidade de trabalhar com APIs externas, SDKs e bibliotecas de terceiros;Configuração e manutenção de Bundlers modernos como Vite, Webpack, etc.Conhecimento geral de desenvolvimento de softwareCapacidade de aplicar conceitos de programação funcional para criar código mais previsível, modular e fácil de testar;Git para versionamento de código e colaboração; Práticas de desenvolvimento com testes automatizados (integração e unitário);Integração com APIs RESTful e GraphQL;Conhecimento em pipelines CI/CD.VueConhecimento em Vue 2 e 3 com habilidade de trabalhar em projetos de migração ou manutenção de código legado;Gerenciamento estado global da aplicação com Vuex ou Pinia;Criação de componentes reutilizáveis e modulares;Conhecimento em técnicas de otimização, como lazy loading e renderização eficiente.
+
+Domínio de HTML, CSS e Javascript;
+Design responsivo;
+Capacidade de transformar designs em código com precisão, garantindo que a interface implementada siga fielmente o layout fornecido (pixel perfect);
+Uso de pré-processadores de CSS como SASS, LESS ou outros;
+Metodologias de Organização de CSS (RCSS, BEM, etc);
+Domínio em ferramentas de testes E2E/Integração como Playwright e Cypress;
+Capacidade de trabalhar com APIs externas, SDKs e bibliotecas de terceiros;
+Configuração e manutenção de Bundlers modernos como Vite, Webpack, etc.
+
+Capacidade de aplicar conceitos de programação funcional para criar código mais previsível, modular e fácil de testar;
+Git para versionamento de código e colaboração; 
+Práticas de desenvolvimento com testes automatizados (integração e unitário);
+Integração com APIs RESTful e GraphQL;
+Conhecimento em pipelines CI/CD.
+
+Conhecimento em Vue 2 e 3 com habilidade de trabalhar em projetos de migração ou manutenção de código legado;
+Gerenciamento estado global da aplicação com Vuex ou Pinia;
+Criação de componentes reutilizáveis e modulares;
+Conhecimento em técnicas de otimização, como lazy loading e renderização eficiente.
+INFORMAÇÕES ADICIONAIS
+Confira nossos benefícios:🌎 Trabalho Remoto💳 R$1050 no Cartão Caju:R$400 em refeição/alimentaçãoR$50 no home office com flexibilidade para outras categoriasR$600 em saldo livre para uso como cartão de crédito🏥 Plano de saúde Seguros Unimed compacto (sem coparticipação)🦷 Plano odontológico bronze👩‍👩‍👦 Seguro de vida🩺 Pipo Saúde - parceira de benefícios de saúde🏋🏾 Wellhub (antigo Gympass)🛒Kaledo - nosso clube de vantagens🧘🏾‍♀️Zenklub - plataforma de saúde mental e bem-estar emocional💲 Creditas - empréstimo consignado e adiantamento salarial💰Unit - Consultoria Financeira🍼 Auxílio-creche😎Day Off de AniversárioSer Convenia é poder criar um mundo de possibilidades sendo você mesmo.🏳️‍⚧️ Se você é talento trans, queremos que esse processo te acolha como você é, portanto, ao se inscrever coloque o nome ao qual você se identifica e quer que te chamemos. ♿ Se você é talento PCD, por favor, durante o processo seletivo identifique suas necessidades e especificações para que possamos te oferecer um ambiente de trabalho adequado e inclusivo.
+
+🌎 Trabalho Remoto
+💳 R$1050 no Cartão Caju:
+R$400 em refeição/alimentação
+R$50 no home office com flexibilidade para outras categorias
+R$600 em saldo livre para uso como cartão de crédito
+🏥 Plano de saúde Seguros Unimed compacto (sem coparticipação)
+🦷 Plano odontológico bronze
+👩‍👩‍👦 Seguro de vida
+🩺 Pipo Saúde - parceira de benefícios de saúde
+🏋🏾 Wellhub (antigo Gympass)
+🛒Kaledo - nosso clube de vantagens
+🧘🏾‍♀️Zenklub - plataforma de saúde mental e bem-estar emocional
+💲 Creditas - empréstimo consignado e adiantamento salarial
+💰Unit - Consultoria Financeira
+🍼 Auxílio-creche
+😎Day Off de Aniversário
+Ser Convenia é poder criar um mundo de possibilidades sendo você mesmo.
+🏳️‍⚧️ Se você é talento trans, queremos que esse processo te acolha como você é, portanto, ao se inscrever coloque o nome ao qual você se identifica e quer que te chamemos. 
+♿ Se você é talento PCD, por favor, durante o processo seletivo identifique suas necessidades e especificações para que possamos te oferecer um ambiente de trabalho adequado e inclusivo.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Fit Cultural2Fit Cultural
+Etapa 2: Fit Cultural
+2
+Fit Cultural
+Etapa 3: Etapa Inicial Gente & Gestão3Etapa Inicial Gente & Gestão
+Etapa 3: Etapa Inicial Gente & Gestão
+3
+Etapa Inicial Gente & Gestão
+Etapa 4: Etapa Liderança4Etapa Liderança
+Etapa 4: Etapa Liderança
+4
+Etapa Liderança
+Etapa 5: Etapa Técnica5Etapa Técnica
+Etapa 5: Etapa Técnica
+5
+Etapa Técnica
+Etapa 6: Etapa Final Processo Seletivo6Etapa Final Processo Seletivo
+Etapa 6: Etapa Final Processo Seletivo
+6
+Etapa Final Processo Seletivo
+Etapa 7: Você aceita ser Convenia? Proposta! 💜7Você aceita ser Convenia? Proposta! 💜
+Etapa 7: Você aceita ser Convenia? Proposta! 💜
+7
+Você aceita ser Convenia? Proposta! 💜
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+VIVA UM RH SEM FRONTEIRAS
+Somos uma HRtech, líder em Departamento Pessoal e referência em Recursos Humanos.
+Somos uma HRtech, líder em Departamento Pessoal e referência em Recursos Humanos.
+Nosso produto transforma antigos desafios de desenvolvimento em resultados e retenção de talentos para as empresas.
+Nosso produto transforma antigos desafios de desenvolvimento em resultados e retenção de talentos para as empresas.
+Nossa missão é ajudar áreas de RH a serem mais estratégicas:
+Eliminando a burocracia dos processos que envolvem gestão de pessoas;
+Eliminando a burocracia dos processos que envolvem gestão de pessoas;
+Oferecendo a melhor experiência ao usar nosso produto;
+Oferecendo a melhor experiência ao usar nosso produto;
+Trabalhando com foco em performance e eficiência. 
+Trabalhando com foco em performance e eficiência. 
+Nossa visão é ser uma empresa de tecnologia que facilita (revoluciona) a gestão de pessoas através de soluções fáceis de utilizar, que resolvem uma dor real e que sejam acessíveis para as empresas brasileiras.
+ é ser uma empresa de tecnologia que facilita (revoluciona) a gestão de pessoas através de soluções fáceis de utilizar, que resolvem uma dor real e que sejam acessíveis para as empresas brasileiras.
+ 
+ 
+Desde 2012 ajudamos pequenas e médias empresas a pensarem de forma digital, deixando com as máquinas tudo que é repetitivo e manual, elevando o nível estratégico dos profissionais de RH de todo o Brasil.
+Desde 2012 ajudamos pequenas e médias empresas a pensarem de forma digital, deixando com as máquinas tudo que é repetitivo e manual, elevando o nível estratégico dos profissionais de RH de todo o Brasil.
+Sabia que temos outra área de negócio? Sim, a Kaledo! É o nosso clube de vantagens e ecossistema de benefícios. Saiba mais aqui.
+ Sim, a Kaledo! É o nosso clube de vantagens e ecossistema de benefícios. 
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor
+JEITO DE SER CONVENIA | MANIFESTO

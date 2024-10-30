@@ -1,0 +1,69 @@
+link_vaga-https://brlink.gupy.io/job/eyJqb2JJZCI6Nzg2NjIxNiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE ENGENHARIA DE DADOS II
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Pronto para levar sua carreira para o próximo nível? 
+Pronto para levar sua carreira para o próximo nível? 
+A Ingram Micro atinge 80% de soluções tecnológicas que você usa todos os dias, com foco em nuvem e soluções de comércio e ciclo de vida.
+A Ingram Micro atinge 80% de soluções tecnológicas que você usa todos os dias, com foco em nuvem e soluções de comércio e ciclo de vida.
+Nos tornamos o maior distribuidor de tecnologia do mundo, com operações em 56 países e mais de 30.000 associados. Continuamos a expandir estrategicamente nosso alcance global.
+Nos tornamos o maior distribuidor de tecnologia do mundo, com operações em 56 países e mais de 30.000 associados. Continuamos a expandir estrategicamente nosso alcance global.
+Se você gosta de trabalhar em um ambiente dinâmico, colaborativo, receptivo e interessante onde você é estimulado a se desenvolver, então a Ingram Micro é perfeita para você!
+Se você gosta de trabalhar em um ambiente dinâmico, colaborativo, receptivo e interessante onde você é estimulado a se desenvolver, então a Ingram Micro é perfeita para você!
+Nossa área de de Recursos Humanos está em busca de um(a) Analista de Engenharia de Dados II.
+Nossa área de de Recursos Humanos está em busca de um(a) Analista de Engenharia de Dados II.
+RESPONSABILIDADES E ATRIBUIÇÕES
+RESPONSABILIDADES:
+O candidato selecionado será responsável por desenvolver pipelines de dados para Data Lakes e Data Warehouses;
+Ser membro de Squad multidisciplinar, focando suas atividades na área de engenharia de dados, compartilhando e absorvendo conhecimento junto as áreas de ciência de dados;
+Participar de cerimônias ágeis e reuniões com clientes, com objetivo de apresentar o resultado de suas entregas e realizar passagem de conhecimento;
+Contribuir junto ao Squad na criação e execução de arquiteturas em nuvem que atendam os requisitos de negócio do cliente;
+Garantir por meio de monitoramento e métricas que todo o processo de ETL esteja funcionando;
+Criar métodos e técnicas para melhorar a eficiência, a qualidade e a confiabilidade dos dados, implementar esses métodos.
+REQUISITOS E QUALIFICAÇÕES:
+Ter experiência em processos ETL (Extract Transform and Load);
+Conhecimento avançado em linguagem de programação Python e biblioteca pandas (series e dataframes);
+Ter experiência na modelagem de Banco de Dados SQL;
+Ter proficiência na linguagem SQL para consultar e manipular dados;
+Ter experiência com airflow e outros orquestradores;
+Ter proficiência em manipular grandes conjuntos de dados com ferramentas de BigData como:Spark/PySpark/Trino;
+Ter experiência em ambientes data-driven;
+Conhecer as melhores práticas para construção de de Data Lakes , Lake House e Data Warehouses em ambientes cloud;
+Ter experiência com serviços AWS, Azure ou GCP.
+REQUISITOS E QUALIFICAÇÕES
+INFORMAÇÕES ADICIONAIS:
+Ensino Superior Completo
+Experiência de no mínimo três anos trabalhando como engenheiro de dados.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Contratação2Contratação
+Etapa 2: Contratação
+2
+Contratação
+INGRAM MICRO
+Você conhece a BRLink empresa do grupo Ingram?
+Você conhece a BRLink empresa do grupo Ingram?
+ 
+ 
+A BRLink hoje figura como uma das principais parceiras AWS no Brasil e é uma das únicas do setor dentro do Tier Premier. Por ser um parceiro altamente especializado (primeiro a receber a competência da Data/Machine Learning/AI no Brasil, além de competências como Migration, MSP, e outras), temos pessoas no nosso time que realmente “sobem a régua” dos colegas e com certeza, entrar nessa equipe te fará crescer muito.
+A BRLink hoje figura como uma das principais parceiras AWS no Brasil e é uma das únicas do setor dentro do Tier Premier. Por ser um parceiro altamente especializado (primeiro a receber a competência da Data/Machine Learning/AI no Brasil, além de competências como Migration, MSP, e outras), temos pessoas no nosso time que realmente “sobem a régua” dos colegas e com certeza, entrar nessa equipe te fará crescer muito.
+ 
+ 
+A Ingram Micro atinge 80% de soluções tecnológicas que você usa todos os dias, com foco em nuvem e soluções de comércio e ciclo de vida.
+A Ingram Micro atinge 80% de soluções tecnológicas que você usa todos os dias, com foco em nuvem e soluções de comércio e ciclo de vida.
+Nos tornamos o maior distribuidor de tecnologia do mundo, com operações em 56 países e mais de 30.000 associados. Continuamos a expandir estrategicamente nosso alcance global.
+Nos tornamos o maior distribuidor de tecnologia do mundo, com operações em 56 países e mais de 30.000 associados. Continuamos a expandir estrategicamente nosso alcance global.
+Se você gosta de trabalhar em um ambiente dinâmico, colaborativo, receptivo e interessante onde você é estimulado a se desenvolver, então a Ingram Micro é perfeita para você!
+Se você gosta de trabalhar em um ambiente dinâmico, colaborativo, receptivo e interessante onde você é estimulado a se desenvolver, então a Ingram Micro é perfeita para você!

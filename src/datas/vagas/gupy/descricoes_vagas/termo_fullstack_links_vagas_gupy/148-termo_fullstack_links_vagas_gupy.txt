@@ -1,0 +1,109 @@
+link_vaga-https://radixeng.gupy.io/job/eyJqb2JJZCI6Nzg5MzYxNywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PROFISSIONAL DE DESENVOLVIMENTO FULLSTACK SÊNIOR (.NET E FULLSTACK)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+A primeira coisa que você precisa saber é que aqui você não vai cair na rotina. A Radix desenvolve soluções para empresas de diferentes setores e indústrias. Cada projeto tem suas tecnologias, soluções e prazos e você terá oportunidade de atuar e experimentar diferentes desafios. Além da nossa atuação pelo Brasil, com escritório no Rio de janeiro, São Paulo e Belo Horizonte, temos também filiais nos Estados Unidos, fazendo com que a Radix se consolide cada vez mais como uma empresa global. 
+Quer fazer parte dessa história e transformar ideias e sonhos em realidade? 
+ 
+#VemPraRadix 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Buscamos pessoas que queiram somar e fazer parte de um ecossistema que leva inovação, tecnologia e soluções para os mais diversos segmentos do mercado. Por aqui, os desafios são constantes e você não vai cair na rotina, .  
+, 
+ 
+Como Profisisonal de Desenvolvimento Fullstack você vai:  
+Desenvolver sistemas e aplicações conforme requisitos especificados e prazos estipulados;
+Projetar e executar testes unitários que garantam a mínima qualidade dos desenvolvimentos entregues;
+Encaminhar para a área de testes, para efetuar a verificação final e validação do sistema e aplicação;
+Realizar a manutenção de sistemas e aplicações;
+REQUISITOS E QUALIFICAÇÕES
+Para essa vaga, você deve ter: 
+- C# .Net Core 8
+- TypeScript (Angular 17, PWA)
+- MongoDB
+- PostgreSQL
+- Adaptado(a) à metodologia ágil e suas cerimônias
+- Conhecer boas práticas de desenvolvimento de software, padrões de projetos e ciclo de vida de aplicação
+- Boa comunicação
+- Habilidade de negociação e autogestão
+Desejável:
+- Desenvolvimento de testes funcionais
+- Qualidade de Código (SonarQube)
+- SAST (Checkmarx)
+- DAST (Acunetix)
+INFORMAÇÕES ADICIONAIS
+Modelo de trabalho: CLT  Regime de contratação: Remoto  Benefícios:Plano de Saúde + Odontológico Médico da empresa Gympass (+3 dependentes) Auxílio creche até 3 anos Licença maternidade e paternidade estendidas Auxílio home office VR e/ou VA Day off de aniversário  Universidade Corporativa  Convênio com instituições de ensino e cursos de idioma Programa de treinamentos internos  Plano de Incentivos atrelado à avaliação de Desempenho.  A Radix está sempre no topo das Melhores Empresas para se trabalhar porque: Temos profissionais comprometidos, dedicados, curiosos e inovadores. O espírito de equipe é a nossa maior força. Trabalhamos de forma cooperativa e sabemos que estamos juntos, remando na mesma direção. Temos um ambiente diverso, que valoriza equidade e inclusão. Nossa jornada de trabalho é flexível e em quase todos os projetos é possível trabalhar de qualquer lugar do Brasil. Valorizamos o bem-estar e o cuidado com as nossas pessoas, com programas de apoio à saúde mental, psiquiatra e médico consultor disponíveis. Curtiu?  #VemPraRadix 
+Modelo de trabalho: CLT  
+Regime de contratação: Remoto 
+ 
+Benefícios:
+Plano de Saúde + Odontológico 
+Médico da empresa 
+Gympass (+3 dependentes) 
+Auxílio creche até 3 anos 
+Licença maternidade e paternidade estendidas 
+Auxílio home office 
+VR e/ou VA 
+Day off de aniversário  
+Universidade Corporativa  
+Convênio com instituições de ensino e cursos de idioma 
+Programa de treinamentos internos  
+Plano de Incentivos atrelado à avaliação de Desempenho. 
+ 
+A Radix está sempre no topo das Melhores Empresas para se trabalhar porque: 
+Temos profissionais comprometidos, dedicados, curiosos e inovadores. 
+O espírito de equipe é a nossa maior força. Trabalhamos de forma cooperativa e sabemos que estamos juntos, remando na mesma direção. 
+Temos um ambiente diverso, que valoriza equidade e inclusão. 
+Nossa jornada de trabalho é flexível e em quase todos os projetos é possível trabalhar de qualquer lugar do Brasil. 
+Valorizamos o bem-estar e o cuidado com as nossas pessoas, com programas de apoio à saúde mental, psiquiatra e médico consultor disponíveis. 
+Curtiu? 
+ 
+#VemPraRadix 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Análise de currículo2Análise de currículo
+Etapa 2: Análise de currículo
+2
+Análise de currículo
+Etapa 3: Entrevista com Gente e Gestão3Entrevista com Gente e Gestão
+Etapa 3: Entrevista com Gente e Gestão
+3
+Entrevista com Gente e Gestão
+Etapa 4: Entrevista com o Gestor da Vaga4Entrevista com o Gestor da Vaga
+Etapa 4: Entrevista com o Gestor da Vaga
+4
+Entrevista com o Gestor da Vaga
+Etapa 5: Carta Proposta5Carta Proposta
+Etapa 5: Carta Proposta
+5
+Carta Proposta
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+UMA EMPRESA GLOBAL, MOVIDA À INOVAÇÃO E DESAFIOS 🚀
+Presente em mais de 25 países, a Radix conecta pessoas, oportunidades, projetos e negócios no mundo todo. Nós criamos e transformamos conhecimento em resultados. 
+ 
+Com times multidisciplinares e forte atuação em Engenharia, Automação, Desenvolvimento de Software e Produtos, TI Industrial e Consultoria, oferecemos serviços e soluções tecnológicas atendendo os mais variados setores da indústria. 
+ 
+Desde a nossa fundação, em 2010, estamos na lista das Melhores Empresas para se trabalhar no Rio de Janeiro, no Brasil e na América Latina. Aqui, a gente investe em criatividade, diversidade, capacitação e desenvolvimento de carreira. Quando um radixer cresce, nós crescemos também e, juntos, dobramos de tamanho nos últimos dois anos. 
+
+A rotina da Radix é dinâmica, colaborativa e Everywhere, com profissionais atuando de 23 estados do Brasil, além de Estados Unidos, Europa e Asia. Nosso modelo de trabalho possibilita o equilíbrio para pessoas que estão sempre em movimento, gostam de liberdade e vivem a tecnologia e a inovação sem fronteiras. 
+
+Somos inquietos, entusiastas da mudança e abraçamos a transformação sem perder os valores que guiam nossa trajetória: relações de longo prazo, foco nas pessoas, ética, agilidade e comprometimento.  
+ 
+Vem com a gente se conectar ao seu futuro, #VemSerRadix. 
+ 
+CONHEÇA MAIS SOBRE A RADIX!
+Website
+LinkedIn
+Instagram
+Glassdoor

@@ -1,0 +1,119 @@
+link_vaga-https://vindi.gupy.io/job/eyJqb2JJZCI6Nzg3NDQ3Niwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA DE SOFTWARE FULL STACK - SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Estamos à procura de um Desenvolvedor FullStack Sênior apaixonado por tecnologia, pronto para se juntar a nós na missão de tornar empréstimos cada vez mais vantajosos! Sua principal responsabilidade será o desenvolvimento de software, utilizando lógica e linguagens de programação específicas para o produto, seguindo os padrões de qualidade da empresa e as melhores práticas de mercado. 
+Estamos à procura de um Desenvolvedor FullStack Sênior 
+ pronto para se juntar a nós na missão de tornar empréstimos cada vez mais vantajosos! Sua principal responsabilidade será o desenvolvimento de software, utilizando lógica e linguagens de programação específicas para o produto, seguindo os padrões de qualidade da empresa e as melhores práticas de mercado. 
+Como parte fundamental do time de desenvolvimento, você será responsável pelo ciclo completo de desenvolvimento de software, começando desde o recebimento da demanda do produto para análise técnica e estimativa, até a entrega final em produção. Isso inclui a criação de novas funcionalidades, integração de sistemas e garantia da qualidade de código, sempre seguindo as melhores práticas de mercado e os padrões de qualidade da empresa. 
+Como parte fundamental do time de desenvolvimento, você será responsável pelo ciclo completo de desenvolvimento de software, começando desde o recebimento da demanda do produto para análise técnica e estimativa, até a entrega final em produção. Isso inclui a criação de novas funcionalidades, integração de sistemas e garantia da qualidade de código, sempre seguindo as melhores práticas de mercado e os padrões de qualidade da empresa. 
+Somos uma empresa inclusiva, diversa e respeitosa, queremos mostrar que aqui existem grandes oportunidades para todas as pessoas, um ambiente seguro para você ser quem é! Independente de idade, raça, gênero, identidade de gênero, orientação sexual ou deficiência.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Referência Técnica: Atuar como uma referência técnica dentro do time, orientando e apoiando desenvolvedores de níveis júnior e pleno. Contribuir para decisões estratégicas de arquitetura e tecnologia;Compreensão do Negócio e dos Processos: Colaborar estreitamente com stakeholders internos e externos para entender profundamente as necessidades do negócio e traduzir essas demandas em soluções tecnológicas robustas e escaláveis;Desenvolvimento de Software: Analisar, estimar, projetar e desenvolver funcionalidades avançadas com foco em performance, escalabilidade e alinhamento com as regras de negócio. Realizar desenvolvimento completo de front-end (com design visual atraente para mobile e web) e back-end (da API ao banco de dados). Diagnosticar e resolver problemas complexos em aplicações e serviços;Documentação Técnica: Redigir documentação técnica para repasse à equipe ou clientes internos;Qualidade e Testes: Implementar testes automatizados, realizar code reviews rigorosos e garantir que o código entregue seja eficiente, seguro e de alta qualidade. Sugerir e implementar melhorias contínuas no código e nos processos de desenvolvimento.
+Referência Técnica: Atuar como uma referência técnica dentro do time, orientando e apoiando desenvolvedores de níveis júnior e pleno. Contribuir para decisões estratégicas de arquitetura e tecnologia;
+Compreensão do Negócio e dos Processos: Colaborar estreitamente com stakeholders internos e externos para entender profundamente as necessidades do negócio e traduzir essas demandas em soluções tecnológicas robustas e escaláveis;
+Desenvolvimento de Software: Analisar, estimar, projetar e desenvolver funcionalidades avançadas com foco em performance, escalabilidade e alinhamento com as regras de negócio. Realizar desenvolvimento completo de front-end (com design visual atraente para mobile e web) e back-end (da API ao banco de dados). Diagnosticar e resolver problemas complexos em aplicações e serviços;
+Documentação Técnica: Redigir documentação técnica para repasse à equipe ou clientes internos;
+Qualidade e Testes: Implementar testes automatizados, realizar code reviews rigorosos e garantir que o código entregue seja eficiente, seguro e de alta qualidade. Sugerir e implementar melhorias contínuas no código e nos processos de desenvolvimento.
+REQUISITOS E QUALIFICAÇÕES
+Experiência em desenvolvimento front end Vue.js e Spring MVC, com capacidade de atuar como referência técnica nesses frameworks;Experiência profissional com Java, JPA/Hibernate, Spring Boot e MySQL (ou outros bancos relacionais), sendo capaz de orientar a equipe em boas práticas e soluções complexas;Conhecimento avançado em controle de versão utilizando Git, incluindo práticas de branching, merge, pull requests, e resolução de conflitos.Conhecimentos em orientação a objetos e padrões de design de software em geral, podendo servir como referência na aplicação dessas práticas;Diferencial: conhecimento em AWS, Apache Camel;Habilidade em trabalhar em equipe e com metodologias ágeis, como Scrum e Kanban, utilizando ferramentas como Jira para gerenciamento de tarefas e projetos.
+Experiência em desenvolvimento front end Vue.js e Spring MVC, com capacidade de atuar como referência técnica nesses frameworks;
+Experiência profissional com Java, JPA/Hibernate, Spring Boot e MySQL (ou outros bancos relacionais), sendo capaz de orientar a equipe em boas práticas e soluções complexas;
+Conhecimento avançado em controle de versão utilizando Git, incluindo práticas de branching, merge, pull requests, e resolução de conflitos.
+Conhecimentos em orientação a objetos e padrões de design de software em geral, podendo servir como referência na aplicação dessas práticas;
+Diferencial: conhecimento em AWS, Apache Camel;
+Habilidade em trabalhar em equipe e com metodologias ágeis, como Scrum e Kanban, utilizando ferramentas como Jira para gerenciamento de tarefas e projetos.
+INFORMAÇÕES ADICIONAIS
+Confira nosso pacote de benefícios:
+🍲 Pra quem gosta de preparar a própria comida ou quer pedir aquele delivery, temos o Cartão Flash;
+🍲 Pra quem gosta de preparar a própria comida ou quer pedir aquele delivery, temos o 
+;
+🏥 Queremos te ver bem, com a saúde em dia com o Plano de saúde;
+🏥 Queremos te ver bem, com a saúde em dia com o 
+;
+🦷 Aqui gostamos de sorrir à toa, para isso temos o Plano Odontológico;
+🦷 Aqui gostamos de sorrir à toa, para isso temos o 
+;
+💻 Uma forcinha no mês vai bem né?! Então conte com nosso Auxílio Home Office;
+💻 Uma forcinha no mês vai bem né?! Então conte com nosso 
+;
+🤑 Programa de Participação de Resultados (PPR);
+🤑 Programa de Participação de Resultados 
+;
+🎂 Para celebrar o seu aniversário, já que você está de Parabéns, temos Day Off;
+🎂 Para celebrar o seu aniversário, já que você está de Parabéns, temos 
+;
+🔐 Aquele benefício que a gente tem, mas não quer usar, Seguro de Vida em Grupo;
+🔐 Aquele benefício que a gente tem, mas não quer usar, 
+;
+🧒 Para ajudar com as crianças, Auxílio creche;
+🧒 Para ajudar com as crianças, 
+;
+🍼 E para curtir ainda mais esse momento, licença maternidade e paternidade estendida;
+🍼 E para curtir ainda mais esse momento, 
+;
+🏋️ Pra cuidar do corpo, Gympass (wellhub);
+🏋️ Pra cuidar do corpo, 
+;
+💚 E pra cuidar da mente, Conexão Saúde;
+💚 E pra cuidar da mente, 
+;
+👕 Pra quem é do time “roupas leves e tênis” , "chique e elegante" ou qualquer outro lookinho, aqui nós somos No dress code;
+👕 Pra quem é do time “roupas leves e tênis” , "chique e elegante" ou qualquer outro lookinho, aqui nós somos 
+📚 A Vindi cresce e você cresce junto com a gente, para isso temos parcerias com universidades e escolas de idiomas;
+📚 A Vindi cresce e você cresce junto com a gente, para isso temos 
+🌴 E para aproveitar melhor seus momentos de descanso e lazer fazendo uma das melhores coisas da vida, viajar, temos o Férias & Co.
+🌴 E para a
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Bate Papo com Cultura e Pessoas2Bate Papo com Cultura e Pessoas
+Etapa 2: Bate Papo com Cultura e Pessoas
+2
+Bate Papo com Cultura e Pessoas
+Etapa 3: Bate Papo com a Liderança3Bate Papo com a Liderança
+Etapa 3: Bate Papo com a Liderança
+3
+Bate Papo com a Liderança
+Etapa 4: Proposta4Proposta
+Etapa 4: Proposta
+4
+Proposta
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+PRAZER, SOMOS A VINDI! 💙
+Na Vindi, somos mais do que uma empresa de serviços financeiros; somos uma potência em soluções integradas. Com funcionalidades abrangentes, nossas plataformas oferecem recursos inteligentes para pagamentos avulsos ou recorrentes e a possibilidade de ingressar no mercado de embedded finance, construindo soluções de crédito sob medida para empresas financeiras e não financeiras.
+Na Vindi, somos mais do que uma empresa de serviços financeiros; somos uma potência em soluções integradas. Com funcionalidades abrangentes, nossas plataformas oferecem recursos inteligentes para 
+ ou 
+e a possibilidade de ingressar no mercado de 
+, construindo 
+para empresas financeiras e não financeiras.
+Nossos 11 anos de história carregam diversas conquistas, jornadas e trajetórias que, ao longo do tempo, se fundiram para se tornar uma verdadeira potência no mercado financeiro. Somos movidos pela paixão pelo que fazemos, trabalhamos incansavelmente para otimizar processos e promover a excelência em serviços financeiros, sempre guiados pelos valores da colaboração, compromisso com o resultado, atitude positiva, ética e transparência, criatividade e inovação, diversidade e inclusão.
+Nossos 
+ carregam diversas conquistas, jornadas e trajetórias que, ao longo do tempo, se fundiram para se tornar uma verdadeira potência no mercado financeiro. Somos movidos pela paixão pelo que fazemos, trabalhamos incansavelmente para otimizar processos e promover a 
+, sempre guiados pelos valores da colaboração, compromisso com o resultado, atitude positiva, ética e transparência, criatividade e inovação, diversidade e inclusão.
+Na Vindi, cada colaborador é parte fundamental do nosso sucesso. Com um time diverso e inclusivo, valorizamos a contribuição única de cada indivíduo, promovendo um ambiente de colaboração, autonomia e respeito mútuo. Aqui, trabalhamos unidos por um propósito comum: ser a referência em serviços financeiros no Brasil.
+Na Vindi, 
+Com um time diverso e inclusivo, valorizamos a contribuição única de cada indivíduo, promovendo um ambiente de colaboração, autonomia e respeito mútuo. Aqui, trabalhamos unidos por um propósito comum: 
+Junte-se a nós e faça parte dessa jornada de transformação. Se você é uma pessoa apaixonada por desafios, venha fazer a diferença na Vindi e ajudar-nos a construir o futuro dos serviços financeiros no Brasil.﻿
+ Se você é uma pessoa apaixonada por desafios, venha fazer a diferença na Vindi e ajudar-nos a construir o futuro dos serviços financeiros no Brasil.﻿
+#SomosTodosVindi
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

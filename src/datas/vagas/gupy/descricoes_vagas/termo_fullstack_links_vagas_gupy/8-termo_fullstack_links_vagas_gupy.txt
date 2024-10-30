@@ -1,0 +1,79 @@
+link_vaga-https://relevo.gupy.io/job/eyJqb2JJZCI6NzYwODk1MCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR(A) FULLSTACK - .NET E ANGULAR SÊNIOR (REMOTO)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+RELEVO LAB.
+
+Somos uma empresa de tecnologia com mais de 6 anos de atuação, vivemos e respiramos tecnologia, batalhamos incansavelmente para ser um lugar incrível para se trabalhar, onde as pessoas são tratadas com igualdade, gostem de trabalhar, se sintam em casa e esse é certamente o lugar onde queremos estar.
+
+Estamos à procura de pessoas do bem, comprometidas e que queiram crescer junto com a gente!
+Se você se enquadra neste perfil, é você que queremos!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Como desenvolvedor(a) você irá trabalhar na área de serviços, alocado em um dos nossos clientes. Será responsável por analisar, projetar, desenvolver, implementar e manter a qualidade do código em diversos contextos de negócio. Também irá auxiliar o time na organização e disciplina na melhor forma e ajustes na rotina de trabalho, seguindo o método ágil.
+REQUISITOS E QUALIFICAÇÕES
+O que queremos que você tenha:
+Sólida experiência em NET Framework, principalmente em ASP.NET ou .Net core, e outros componentes avançados da tecnologia Microsoft;
+Experiência com REST e Integração de API;
+Experiência em API Documentation (Swagger ou Spring Rest docs);
+Vivência e conhecimento de Metodologias de entrega ágeis.
+Conhecimento em serviços baseado em nuvem Azure e/ou AWS;
+CI/CD utilizando GIT, TFS
+Angular;
+HTML;
+CSS;
+O que seria muito legal se você tivesse:
+Inglês intermediário.
+INFORMAÇÕES ADICIONAIS
+O que oferecemos:
+Pacote de remuneração e benefícios competitivo com o mercado.
+Gostou? Acesse nossa página de carreira em https://relevo.gupy.io/
+Super Importante!
+Se os seus conhecimentos forem aderentes à vaga, é tudo o que importa.
+Aqui nós abraçamos a diversidade e contratamos pessoas com capacidade e vontade de transformar, independente de qual seja a sua localização, idade, raça, cor, religião, identidade de gênero, orientação sexual ou formação.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista RH2Entrevista RH
+Etapa 2: Entrevista RH
+2
+Entrevista RH
+Etapa 3: Entrevista Gestor3Entrevista Gestor
+Etapa 3: Entrevista Gestor
+3
+Entrevista Gestor
+Etapa 4: Entrevista Técnica4Entrevista Técnica
+Etapa 4: Entrevista Técnica
+4
+Entrevista Técnica
+Etapa 5: Entrevista Cliente5Entrevista Cliente
+Etapa 5: Entrevista Cliente
+5
+Entrevista Cliente
+Etapa 6: Proposta6Proposta
+Etapa 6: Proposta
+6
+Proposta
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+JUNTE-SE A NÓS!
+Vivemos e respiramos tecnologia, batalhamos incansavelmente para ser um lugar incrível para se trabalhar, onde as pessoas são tratadas com igualdade, gostem de trabalhar, se sintam em casa e esse é certamente o lugar onde queremos estar.
+
+CONHEÇA A RELEVO
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

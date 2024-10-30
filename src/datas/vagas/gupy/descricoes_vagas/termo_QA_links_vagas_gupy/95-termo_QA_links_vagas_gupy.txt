@@ -1,0 +1,110 @@
+link_vaga-https://tradetechnology.gupy.io/job/eyJqb2JJZCI6NzM0NDkzMiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE TESTES AUTOMATIZADOS (QA) JUNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+Entendemos que a nossa missão é entregar soluções inteligentes e em gerar valor para todos os envolvidos.
+A Trade Technology conta com uma equipe diversificada e altamente capacitada, oferecendo Consultoria On Demand, soluções efetivas, flexíveis e qualificadas em TI, softwares de inteligência cognitiva e infraestrutura objetivando simplificar a gestão de negócio dos nossos clientes.
+Vaga CLT
+Modelo HO ou Híbrido para Maringá-PR
+Vaga Júnior
+RESPONSABILIDADES E ATRIBUIÇÕES
+Você ajudará nossos clientes a terem acesso a inovação, inteligência artificial e ciência de dados.
+Procuramos um profissional comprometido e proativo para buscar novidades e tecnologias para agregar valor as soluções e ao time da Trade.Nessa oportunidade você deverá preparar e realizar rotinas de testes para validação de qualidade, realizar simulações de funcionalidade, registrar as falhas ocorridas a serem reportadas às áreas de desenvolvimento.
+Dentre as principais atividades:
+Revisar os requisitos do sistema junto ao PO e Analistas;
+Executar testes manuais e automatizados;
+Realizar a preparação de massa de dados de testes, levantamento de cenários e roteiro de testes; Documentar bugs, casos de teste e débitos técnicos;
+Desenvolver Cenários de testes voltados para o negócio utilizando BDD;
+REQUISITOS E QUALIFICAÇÕES
+Experiência com automação de API e linguagens WEB;Experiência com definição e implementação de processos de testes automatizados;Conhecimento em testes em PHP;Conhecimento em BDD e TDD;Conhecimento em Ferramentas de teste automatizados, tais como Cucumber, Selenium e Cypress;Desejável Conhecimento em DevOps ( AWS, docker, GitLab, Jenkins);
+Experiência com automação de API e linguagens WEB;
+Experiência com definição e implementação de processos de testes automatizados;
+Conhecimento em testes em PHP;
+Conhecimento em BDD e TDD;
+Conhecimento em Ferramentas de teste automatizados, tais como Cucumber, Selenium e Cypress;
+Desejável Conhecimento em DevOps ( AWS, docker, GitLab, Jenkins);
+INFORMAÇÕES ADICIONAIS
+Benefícios:Incentivo a CapacitaçãoA sede pelo conhecimento faz parte do nosso dia-a-dia! Incentivamos a capacitação dos nossos colaboradores e apoiamos sua trajetória em eventos e jornadas de certificação.Incentivamos a capacitação dos nossos colaboradores e apoiamos seu crescimento oferecendo participação em eventos e certificações.Somos parceiros IBM, Oracle, Microsoft e de outros players do mercado de tecnologia, o que garante acesso às plataformas de treinamento online mais renomadas do mundo todo.Vale Alimentação e RefeiçãoFlexível - Flash CartõesPara manter as energias necessárias para realizar os desafios diários você recebe um cartão com créditos mensais para utilizar em lanchonetes, restaurantes, mercados e estabelecimentos cooperados.Plano de SaúdeZelamos pelo seu bem-estar e para isso oferecemos um plano de saúde corporativo.Plano OdontológicoNossos colaboradores recebem um plano odontológico 100% para realizar os mais diversos procedimentos dentais. Mais motivos para sorrir! Assim como o plano de saúde, também oferecemos aos nossos colaboradores, plano odontológico sem custos algum de mensalidade.Plano de CarreiraPlanejar o futuro faz parte da ideologia da Trade Technology. Através da definição de metas a curto/ médio e longo prazo e uma política de feedbacks, estimulamos o crescimento profissional dos nossos colaboradores. Definimos metas de curto a longo prazo e estabelecemos feedbacks periódicos para que o progresso de todos seja pleno e contínuo.R2D2Para quem está na nossa sede: Recebemos créditos galácticos, nossa própria moeda, criada para dar acesso à geladeira mais amada do pedaço que carinhosamente chamamos de R2D2, repleta de refris, energéticos, águas e sucos.Os créditos galácticos também abrem os portais do freezer Gela Boca, e quem resiste a um sorvetinho pós almoço!Seguro de VidaTodos os colaboradores da Trade Technology contam com seguro de vida ativo, custeado completamente pela empresa.Plataforma de gestão de pessoasUtilizamos a plataforma Qulture.Rocks para incentivar nossa cultura de feedbackÉ pelo Qulture que alinhamos nossas prioridades semanais, fazemos e recebemos elogios, marcamos reuniões de metas, gestão de OKRS e planos de desenvolvimento com nossos gestores. Essa plataforma auxilia gestores, RH e todos os colaboradores para que não desviem de seus objetivos, de modo intuitivo, fácil e divertido.
+
+:
+Incentivo a Capacitação
+A sede pelo conhecimento faz parte do nosso dia-a-dia! Incentivamos a capacitação dos nossos colaboradores e apoiamos sua trajetória em eventos e jornadas de certificação.
+A sede pelo conhecimento faz parte do nosso dia-a-dia! Incentivamos a capacitação dos nossos colaboradores e apoiamos sua trajetória em eventos e jornadas de certificação.
+Incentivamos a capacitação dos nossos colaboradores e apoiamos seu crescimento oferecendo participação em eventos e certificações.
+Incentivamos a capacitação dos nossos colaboradores e apoiamos seu crescimento oferecendo participação em eventos e certificações.
+Somos parceiros IBM, Oracle, Microsoft e de outros players do mercado de tecnologia, o que garante acesso às plataformas de treinamento online mais renomadas do mundo todo.
+Somos parceiros IBM, Oracle, Microsoft e de outros players do mercado de tecnologia, o que garante acesso às plataformas de treinamento online mais renomadas do mundo todo.
+Vale Alimentação e Refeição
+Flexível - Flash Cartões
+Flexível - Flash Cartões
+Para manter as energias necessárias para realizar os desafios diários você recebe um cartão com créditos mensais para utilizar em lanchonetes, restaurantes, mercados e estabelecimentos cooperados.
+Para manter as energias necessárias para realizar os desafios diários você recebe um cartão com créditos mensais para utilizar em lanchonetes, restaurantes, mercados e estabelecimentos cooperados.
+Plano de Saúde
+Zelamos pelo seu bem-estar e para isso oferecemos um plano de saúde corporativo.
+Zelamos pelo seu bem-estar e para isso oferecemos um plano de saúde corporativo.
+Plano Odontológico
+Nossos colaboradores recebem um plano odontológico 100% para realizar os mais diversos procedimentos dentais. Mais motivos para sorrir! Assim como o plano de saúde, também oferecemos aos nossos colaboradores, plano odontológico sem custos algum de mensalidade.
+Nossos colaboradores recebem um plano odontológico 100% para realizar os mais diversos procedimentos dentais. Mais motivos para sorrir! Assim como o plano de saúde, também oferecemos aos nossos colaboradores, plano odontológico sem custos algum de mensalidade.
+Plano de Carreira
+Planejar o futuro faz parte da ideologia da Trade Technology. Através da definição de metas a curto/ médio e longo prazo e uma política de feedbacks, estimulamos o crescimento profissional dos nossos colaboradores. Definimos metas de curto a longo prazo e estabelecemos feedbacks periódicos para que o progresso de todos seja pleno e contínuo.
+Planejar o futuro faz parte da ideologia da Trade Technology. Através da definição de metas a curto/ médio e longo prazo e uma política de feedbacks, estimulamos o crescimento profissional dos nossos colaboradores. Definimos metas de curto a longo prazo e estabelecemos feedbacks periódicos para que o progresso de todos seja pleno e contínuo.
+R2D2
+Para quem está na nossa sede: Recebemos créditos galácticos, nossa própria moeda, criada para dar acesso à geladeira mais amada do pedaço que carinhosamente chamamos de R2D2, repleta de refris, energéticos, águas e sucos.
+Para quem está na nossa sede: Recebemos créditos galácticos, nossa própria moeda, criada para dar acesso à geladeira mais amada do pedaço que carinhosamente chamamos de R2D2, repleta de refris, energéticos, águas e sucos.
+Os créditos galácticos também abrem os portais do freezer Gela Boca, e quem resiste a um sorvetinho pós almoço!
+Os créditos galácticos também abrem os portais do freezer Gela Boca, e quem resiste a um sorvetinho pós almoço!
+Seguro de Vida
+Todos os colaboradores da Trade Technology contam com seguro de vida ativo, custeado completamente pela empresa.
+Todos os colaboradores da Trade Technology contam com seguro de vida ativo, custeado completamente pela empresa.
+Plataforma de gestão de pessoas
+Utilizamos a plataforma Qulture.Rocks para incentivar nossa cultura de feedback
+Utilizamos a plataforma Qulture.Rocks para incentivar nossa cultura de feedback
+É pelo Qulture que alinhamos nossas prioridades semanais, fazemos e recebemos elogios, marcamos reuniões de metas, gestão de OKRS e planos de desenvolvimento com nossos gestores. Essa plataforma auxilia gestores, RH e todos os colaboradores para que não desviem de seus objetivos, de modo intuitivo, fácil e divertido.
+É pelo Qulture que alinhamos nossas prioridades semanais, fazemos e recebemos elogios, marcamos reuniões de metas, gestão de OKRS e planos de desenvolvimento com nossos gestores. Essa plataforma auxilia gestores, RH e todos os colaboradores para que não desviem de seus objetivos, de modo intuitivo, fácil e divertido.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista inicial com o RH2Entrevista inicial com o RH
+Etapa 2: Entrevista inicial com o RH
+2
+Entrevista inicial com o RH
+Etapa 3: Teste Técnico3Teste Técnico
+Etapa 3: Teste Técnico
+3
+Teste Técnico
+Etapa 4: Entrevista com o Gestor4Entrevista com o Gestor
+Etapa 4: Entrevista com o Gestor
+4
+Entrevista com o Gestor
+Etapa 5: Proposta5Proposta
+Etapa 5: Proposta
+5
+Proposta
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+DESCRIÇÃO DA EMPRESA
+Vamos conectar pessoas e tecnologias?Na Trade Technology, valorizamos profundamente as relações humanas. Acreditamos que a inovação, o desenvolvimento e a transformação só são possíveis através dessas relações e das ações que delas derivam. Por isso, baseamos nossos comportamentos em três pilares fundamentais: transparência, confiança e verdade. Com parceria com grandes players do mercado de tecnologia como IBM, Oracle, AWS, Lenovo, entre outros que garantem inovação e tecnologia para transformação digital. Com três pilares de atuação: Infraestrutura (Produtos e Serviços), Ciência Cognitiva (Software e Serviços em Ciência de dados) e Consultoria em Segurança da Informação.Ciência CognitivaA Ciência Cognitiva tem como visão transformar o futuro por meio da informação por dados, atuando diretamente na personalização de serviços e criação de produtos inovadores com tecnologia de ponta. Além das nossas soluções Sivee e Timezer, trabalhamos por outsourcing em clientes estratégicos. Utilizamos stacks como PHP (com laravel), Python, C# e .Net, angular, react, entre outras.Infraestrutura de TINosso time de Infraestrutura é destaque pelo conhecimento técnico agregado e reconhecido como ativo estratégico pelos nossos clientes.Sua missão é implantar e sustentar soluções de TI com foco em agilidade e qualidade. Atuando com especialistas em todas as áreas e diferentes tecnologias.Consultoria Segurança da InformaçãoA Consultoria entrega soluções de valor que sejam apropriadas às necessidades de cada cliente.Essa é a área responsável por potencializar o sucesso dos nossos clientes, entregando serviços em conformidade com as expectativas alinhadas, partindo dos princípios gerais de Segurança da Informação e Lei Geral de Proteção de Dados.
+
+Na Trade Technology, valorizamos profundamente as relações humanas. Acreditamos que a inovação, o desenvolvimento e a transformação só são possíveis através dessas relações e das ações que delas derivam. Por isso, baseamos nossos comportamentos em três pilares fundamentais: transparência, confiança e verdade. Com parceria com grandes players do mercado de tecnologia como IBM, Oracle, AWS, Lenovo, entre outros que garantem inovação e tecnologia para transformação digital. Com três pilares de atuação: Infraestrutura (Produtos e Serviços), Ciência Cognitiva (Software e Serviços em Ciência de dados) e Consultoria em Segurança da Informação.
+Ciência Cognitiva
+A Ciência Cognitiva tem como visão transformar o futuro por meio da informação por dados, atuando diretamente na personalização de serviços e criação de produtos inovadores com tecnologia de ponta. Além das nossas soluções Sivee e Timezer, trabalhamos por outsourcing em clientes estratégicos. Utilizamos stacks como PHP (com laravel), Python, C# e .Net, angular, react, entre outras.
+Infraestrutura de TI
+Nosso time de Infraestrutura é destaque pelo conhecimento técnico agregado e reconhecido como ativo estratégico pelos nossos clientes.
+Sua missão é implantar e sustentar soluções de TI com foco em agilidade e qualidade. Atuando com especialistas em todas as áreas e diferentes tecnologias.
+Consultoria Segurança da Informação
+A Consultoria entrega soluções de valor que sejam apropriadas às necessidades de cada cliente.
+Essa é a área responsável por potencializar o sucesso dos nossos clientes, entregando serviços em conformidade com as expectativas alinhadas, partindo dos princípios gerais de Segurança da Informação e Lei Geral de Proteção de Dados.
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Instagram

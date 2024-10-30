@@ -1,0 +1,142 @@
+link_vaga-https://mtpbrasil.gupy.io/job/eyJqb2JJZCI6NDkzNTMxMywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+BANCO DE TALENTOS - ANALISTA DE DADOS
+Tipo de vaga: Banco de talentosBanco de talentos
+Tipo de vaga: Banco de talentos
+Banco de talentos
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+DESCRIÇÃO DA VAGA
+Com 25 anos de experiência no mercado de Tecnologia da Informação, a MTP é uma empresa multinacional com mais de 1.000 colaboradores espalhados em mais de 11 unidades em nível global, o que nos permite promover o crescimento e intercâmbio profissional. A MTP é líder no fornecimento de serviços e soluções de TI com foco em Quality Assurance. Possuímos mais de 10 certificações, incluindo o TMMI - level 5, o mais alto nível da categoria. Oferecendo um dos mais amplos portfólios, entregamos soluções inovadoras e flexíveis para ajudar empresas a resolver seus desafios mais complexos. Atuando em projetos em mais de 14 países, tais como: Alemanha, Reino Unido, Japão, Suécia, Coréia do Sul, Moçambique, Guatemala, Argentina, Chile, Peru, entre outros.
+Com 25 anos de experiência no mercado de Tecnologia da Informação, a 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolvimento e Manutenção dos Data Lakes e Data Warehouses;Desenvolvimento e Manutenção de Indicadores e Painéis;Desenvolvimento e Manutenção de pipelines de Dados;Monitoramento de processos de carga e extração;Monitoramento de métricas e qualidade dos dados;Foco na proposta de soluções que geram valor e resolvem as grandes dores dos times de negócio relacionadas a dados.
+Desenvolvimento e Manutenção dos Data Lakes e Data Warehouses;
+Desenvolvimento e Manutenção dos Data Lakes e Data Warehouses;
+Desenvolvimento e Manutenção de Indicadores e Painéis;
+Desenvolvimento e Manutenção de Indicadores e Painéis;
+Desenvolvimento e Manutenção de pipelines de Dados;
+Desenvolvimento e Manutenção de pipelines de Dados;
+Monitoramento de processos de carga e extração;
+Monitoramento de processos de carga e extração;
+Monitoramento de métricas e qualidade dos dados;
+Monitoramento de métricas e qualidade dos dados;
+Foco na proposta de soluções que geram valor e resolvem as grandes dores dos times de negócio relacionadas a dados.
+Foco na proposta de soluções que geram valor e resolvem as grandes dores dos times de negócio relacionadas a dados
+REQUISITOS E QUALIFICAÇÕES
+Experiencia com Data-Driven: ETL / ELT / EL (Ex: Pentaho, Azure);Proficiência em Power BI;Proficiência em linguagem DAX;Modelagem e manipulação e tratamento de dados em Data Lakes e Data WarehousesConhecimento em Linguagem SQL (Querys, Procedures);Lógica de programação;Alta capacidade analítica;Conhecimento em banco de dados SQL Server, Oracle, Readshift e estrutura AWS;Habilidade para trabalhar com cronograma de desenvolvimento, entendimento de demandas, solicitações e objetivos. Diferenciais: DBT;Conhecimento/experiencia com Metodologias Ágeis (Scrum, Kamban);Conhecimento em documentação de projetos de TI e entendimento de relacionamento entre sistemas.
+Experiencia com Data-Driven: ETL / ELT / EL (Ex: Pentaho, Azure);
+Experiencia com Data-Driven: ETL / ELT / EL (Ex: Pentaho, Azure);
+Proficiência em Power BI;
+Proficiência em Power BI;
+Proficiência em linguagem DAX;
+Proficiência em linguagem DAX;
+Modelagem e manipulação e tratamento de dados em Data Lakes e Data Warehouses
+Modelagem e manipulação e tratamento de dados em Data Lakes e Data Warehouses
+Conhecimento em Linguagem SQL (Querys, Procedures);
+Conhecimento em Linguagem SQL (Querys, Procedures);
+Lógica de programação;
+Lógica de programação;
+Alta capacidade analítica;
+Alta capacidade analítica;
+Conhecimento em banco de dados SQL Server, Oracle, Readshift e estrutura AWS;
+Conhecimento em banco de dados SQL Server, Oracle, Readshift e estrutura AWS
+Habilidade para trabalhar com cronograma de desenvolvimento, entendimento de demandas, solicitações e objetivos.
+Habilidade para trabalhar com cronograma de desenvolvimento, entendimento de demandas, solicitações e objetivos.
+ 
+ 
+Diferenciais: 
+DBT;
+DBT;
+Conhecimento/experiencia com Metodologias Ágeis (Scrum, Kamban);
+Conhecimento/experiencia com Metodologias Ágeis (Scrum, Kamban)
+Conhecimento em documentação de projetos de TI e entendimento de relacionamento entre sistemas.
+Conhecimento em documentação de projetos de TI e entendimento de relacionamento entre sistemas.
+INFORMAÇÕES ADICIONAIS
+PJ
+PJ
+FAÇA PARTE DE UMA EQUIPE DE EXCELÊNCIA!
+A MTP Group é uma multinacional espanhola fundada em 1997, com experiência mundial nos setores:
+A 
+ é uma multinacional espanhola fundada em 1997, com experiência mundial nos setores:
+Garantia de Qualidade (QA);
+Garantia de Qualidade (QA);
+Automação;
+Automação;
+Performance em Cybersecurity;
+Performance em Cybersecurity;
+Transformação Digital;
+Transformação Digital;
+User Experience (UX);
+User Experience (UX);
+DevOps;
+DevOps;
+Agile Development;
+Agile Development;
+Big Data.
+Big Data.
+Presente no país desde 2007, a MTP Brasil presta serviços de Consultoria, alocação e treinamentos com um serviço profissional dedicado.
+Presente no país desde 2007, a MTP Brasil presta serviços de Consultoria, alocação e treinamentos com um serviço profissional dedicado.
+Nossa proposta, integrada ao ambiente do Digital Business Assurance, baseia-se em três fatores principais:
+Nossa proposta, integrada ao ambiente do Digital Business Assurance, baseia-se em três fatores principais:
+Profundo conhecimento na garantia da qualidade de soluções e sistemas de TI.
+Profundo conhecimento na garantia da qualidade de soluções e sistemas de TI.
+Forte compromisso com a inovação e a excelência operacional.
+Forte compromisso com a inovação e a excelência operacional.
+Experiência comprovada no trabalho de adaptação às mudanças do mercado e ao crescente peso da tecnologia nos processos de negócio.
+Experiência comprovada no trabalho de adaptação às mudanças do mercado e ao crescente peso da tecnologia nos processos de negócio.
+A MTP Group está sediada em Madri e possui escritórios próprios na Cidade do México, São Paulo, Argentina e EUA. Sendo uma empresa de capital privado.
+A MTP Group está sediada em Madri e possui escritórios próprios na Cidade do México, São Paulo, Argentina e EUA. Sendo uma empresa de capital privado.
+Missão, Visão e Valores:
+ 
+Missão:
+Criar serviços de alto valor agregado, com soluções tecnológicas inovadoras.
+Criar serviços de alto valor agregado, com soluções tecnológicas inovadoras.
+Visão:
+Fornecer as soluções para o futuro pensadas hoje.
+Fornecer as soluções para o futuro pensadas hoje.
+Valores:
+              Excelência...
+Em busca de superar as expectativas do cliente. Tratando o cliente com cortesia, respeito e atenção genuína. Ouvindo atentamente suas necessidades e respondendo com ideias relevantes e assertivas.
+Em busca de superar as expectativas do cliente. Tratando o cliente com cortesia, respeito e atenção genuína. Ouvindo atentamente suas necessidades e respondendo com ideias relevantes e assertivas.
+Oferecendo soluções e sugestões que possam ajudar o cliente a resolver seus problemas ou atingir seus objetivos de forma mais eficiente e/ou econômica.
+Oferecendo soluções e sugestões que possam ajudar o cliente a resolver seus problemas ou atingir seus objetivos de forma mais eficiente e/ou econômica.
+              Transparência...
+ Sendo honesto, íntegro, confiável em todas suas ações.
+ Sendo honesto, íntegro, confiável em todas suas ações.
+ Ser honesto: dizendo a verdade, não enganando ou mentindo, em todas as suas ações e palavras.
+ Ser honesto: dizendo a verdade, não enganando ou mentindo, em todas as suas ações e palavras.
+ Ser íntegro: seguindo de acordo com os valores e princípios, mesmo em situações difíceis.
+ Ser íntegro: seguindo de acordo com os valores e princípios, mesmo em situações difíceis.
+ Ser confiável: sendo responsável, pontual e não decepcionando as expectativas dos outros.
+ Ser confiável: sendo responsável, pontual e não decepcionando as expectativas dos outros.
+              Transformação...
+Buscando a evolução e aprimoramento constante.
+Buscando a evolução e aprimoramento constante.
+ Evolução: processo que promove a mudança de um estágio para outro.
+ Evolução: processo que promove a mudança de um estágio para outro.
+ Aprimoramento: refinamento de algo existente, com o objetivo de evoluir para algo melhor e mais eficiente.
+ Aprimoramento: refinamento de algo existente, com o objetivo de evoluir para algo melhor e mais eficiente.
+              Performance...
+ Atuando com eficácia e eficiência, alcançando a efetividade.
+ Atuando com eficácia e eficiência, alcançando a efetividade.
+ Eficácia: fazendo o certo, com foco no objetivo. 
+ Eficácia: fazendo o certo, com foco no objetivo. 
+ Eficiência: fazendo mais com menos.
+ Eficiência: fazendo mais com menos.
+ Efetividade: confluência entre eficácia e eficiência, atingindo o melhor resultado da melhor forma possível.
+ Efetividade: confluência entre eficácia e eficiência, atingindo o melhor resultado da melhor forma possível.
+              Inovação...
+ Priorizamos a entrega de valor com soluções criativas.
+ Priorizamos a entrega de valor com soluções criativas.
+ A arte de desafiar a gravidade das ideias.
+ A arte de desafiar a gravidade das ideias.
+ Criatividade + coragem = O segredo para rescrever o futuro.
+ Criatividade + coragem = O segredo para rescrever o futuro.
+FIQUE LIGADO NAS NOTÍCIAS SOBRE A MTP BRASIL
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

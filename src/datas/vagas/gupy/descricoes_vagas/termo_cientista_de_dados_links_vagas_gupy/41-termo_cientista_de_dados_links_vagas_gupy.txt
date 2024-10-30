@@ -1,0 +1,82 @@
+link_vaga-https://leega.gupy.io/job/eyJqb2JJZCI6NzcxNjIwNCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+CIENTISTA DE DADOS SÊNIOR
+Tipo de vaga: Pessoa jurídicaPessoa jurídica
+Tipo de vaga: Pessoa jurídica
+Pessoa jurídica
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+DESCRIÇÃO DA VAGA
+A Leega é uma empresa focada no atendimento eficiente e inovador em seus clientes. 
+Isso não poderia ser diferente com o nosso principal combustível: as pessoas!  
+Nossa cultura é inspiradora e nossos valores estão presentes no dia a dia: ética e transparência, excelência de qualidade, trabalho em equipe, responsabilidade econômica, social e ambiental, relações humanas e credibilidade.
+Buscamos profissionais inovadores que sejam movidos por desafios e focados em resultados.
+Se você busca uma empresa dinâmica e parceira e que investe em seus colaboradores através de capacitação constante, a Leega é o lugar para você!
+>> A LEEGA É PARA TODOS, ficaremos muito felizes em ter você em nosso time. Venha fazer parte da nossa história e da construção do nosso futuro. 
+Cadastre-se agora mesmo em nossas vagas!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver e implementar modelos de aprendizado de máquina e algoritmos para prever tendências, otimizar processos e fornecer insights acionáveis para o negócio.Liderar projetos de ciência de dados de ponta a ponta, colaborando com equipes multifuncionais, incluindo TI, marketing, finanças e operações.Analisar grandes volumes de dados estruturados e não estruturados para identificar padrões e tendências.Propor soluções inovadoras para problemas complexos de negócios utilizando técnicas estatísticas avançadas, como regressão, classificação, clustering, séries temporais, entre outras.Comunicar insights técnicos para públicos não técnicos, traduzindo resultados complexos em recomendações estratégicas claras.Coleta e Limpeza de Dados.Análise Exploratória de Dados.Manter-se atualizado com as últimas tendências e tecnologias em ciência de dados, aprendizado de máquina e inteligência artificial.Orientar e colaborar com cientistas de dados juniores e analistas de dados.
+Desenvolver e implementar modelos de aprendizado de máquina e algoritmos para prever tendências, otimizar processos e fornecer insights acionáveis para o negócio.
+Liderar projetos de ciência de dados de ponta a ponta, colaborando com equipes multifuncionais, incluindo TI, marketing, finanças e operações.
+Analisar grandes volumes de dados estruturados e não estruturados para identificar padrões e tendências.
+Propor soluções inovadoras para problemas complexos de negócios utilizando técnicas estatísticas avançadas, como regressão, classificação, clustering, séries temporais, entre outras.
+Comunicar insights técnicos para públicos não técnicos, traduzindo resultados complexos em recomendações estratégicas claras.
+Coleta e Limpeza de Dados.
+Análise Exploratória de Dados.
+Manter-se atualizado com as últimas tendências e tecnologias em ciência de dados, aprendizado de máquina e inteligência artificial.
+Orientar e colaborar com cientistas de dados juniores e analistas de dados.
+REQUISITOS E QUALIFICAÇÕES
+Experiência comprovada de no mínimo 5 anos como Cientista de Dados, Analista de Dados, ou funções similares.Proficiência em Python, R, SQL e outras linguagens de programação para análise de dados.Experiência com bibliotecas e frameworks de machine learning como TensorFlow, PyTorch, scikit-learn, entre outros.Experiência em ambiente/serviços Cloud (GCP/AWS/AZURE) como Vertex, SageMaker, etcForte conhecimento em estatística, modelagem preditiva, análise de séries temporais e técnicas de otimização.Conhecimento em esteiras AIOps e MLOpsExperiência em big data (Hadoop, Spark) e ferramentas de visualização de dados (Tableau, Power BI, etc.).Capacidade comprovada de liderar projetos de dados do início ao fim e de colaborar de forma eficaz com equipes multifuncionais.Excelentes habilidades de comunicação, com capacidade de traduzir dados complexos em insights acionáveis.
+Experiência comprovada de no mínimo 5 anos como Cientista de Dados, Analista de Dados, ou funções similares.
+Proficiência em Python, R, SQL e outras linguagens de programação para análise de dados.
+Experiência com bibliotecas e frameworks de machine learning como TensorFlow, PyTorch, scikit-learn, entre outros.
+Experiência em ambiente/serviços Cloud (GCP/AWS/AZURE) como Vertex, SageMaker, etc
+Forte conhecimento em estatística, modelagem preditiva, análise de séries temporais e técnicas de otimização.
+Conhecimento em esteiras AIOps e MLOps
+Experiência em big data (Hadoop, Spark) e ferramentas de visualização de dados (Tableau, Power BI, etc.).
+Capacidade comprovada de liderar projetos de dados do início ao fim e de colaborar de forma eficaz com equipes multifuncionais.
+Excelentes habilidades de comunicação, com capacidade de traduzir dados complexos em insights acionáveis.
+INFORMAÇÕES ADICIONAIS
+Desejável:
+Conhecimento em Engenharia de Dados
+Certificação Machine Learning (preferencialmente GCP e/ou AWS)
+Observação: Projeto Pontual de 4 meses com chances de prorrogação, inicialmente remoto, mas posteriormente híbrido sendo 2x na semana presencial (Região: Pinheiros)
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Avaliação de Perfil3Avaliação de Perfil
+Etapa 3: Avaliação de Perfil
+3
+Avaliação de Perfil
+Etapa 4: Entrevista Gestor4Entrevista Gestor
+Etapa 4: Entrevista Gestor
+4
+Entrevista Gestor
+Etapa 5: Entrevista Cliente5Entrevista Cliente
+Etapa 5: Entrevista Cliente
+5
+Entrevista Cliente
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+VEM TRABALHAR COM A GENTE!
+A LEEGA é referência em consultoria e outsourcing para soluções de Data Analytics .
+Temos 14 ANOS de mercado e mais de 20 ANOS de experiência em soluções de Business Intelligence, Data Integration e Analytics, atendendo grandes empresas dos mais diversos segmentos do mercado e contamos com mais de 400 colaboradores.
+Conquistamos capacidade técnica e reunimos as melhores pessoas para proporcionar aos nossos clientes a melhor experiência.
+Brasileiros, com escritório de projetos, fábrica de software e centro de treinamento em São Paulo (capital) , atuação internacional com escritório também em Portugal, somos conhecidos por viver e respirar Analytics e Big Data, inovando nossa tecnologia, compartilhando conhecimento, evoluindo talentos e entregando VALOR.
+ 
+Em nosso porftólio de serviços ofertamos consultoria especializada, alocação de profissionais, treinamento e desenvolvimento de soluções customizadas para Cloud Computing, Business Intelligence, Big Data, Data Analytics, Machine Learning, Inteligência Artificial, Data Quality, MDM, Governança de Dados e demais soluções de dados
+A LEEGA EM OUTRAS PLATAFORMAS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

@@ -1,0 +1,73 @@
+link_vaga-https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6Nzk3NTAzMSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+FRONT END DEVELOPER
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+¡Sé parte de Stefanini!​
+En Stefanini somos más de 30.000 genios, conectados desde 41 países, haciendo lo que les apasiona y co-creando un futuro mejor.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Responsabilidades:
+Desarrollar y mantener aplicaciones web responsivas utilizando HTML, CSS y JavaScript.
+Colabore con diseñadores para traducir esquemas y maquetas en páginas web funcionales.
+Optimice las aplicaciones web para obtener la máxima velocidad y escalabilidad
+Garantice la compatibilidad entre navegadores y resuelva cualquier problema que surja
+Implementar y mantener frameworks y bibliotecas front-end.
+Manténgase actualizado con las últimas tendencias y tecnologías en desarrollo front-end
+Realizar revisiones de código y brindar comentarios constructivos a los miembros del equipo.
+Solucionar y depurar problemas de front-end a medida que surjan
+Colaborar con desarrolladores de back-end para integrar componentes de front-end con la lógica del lado del servidor.
+REQUISITOS E QUALIFICAÇÕES
+Front BCH: 
+Angular 7 al 11
+SASS y SCSS se agradece.
+Javascript, Typescritpt, CSS, HTML
+Integración con APIs Rest desde el front-end
+Optimización de front-end
+pruebas unitarias y E2E con Angular
+Git con Bitbucket o alguna alternativa similar
+Familiaridad con reportes de análisis de SonarQube
+Conocimientos en desarrollo seguro
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: presentación cv2presentación cv
+Etapa 2: presentación cv
+2
+presentación cv
+Etapa 3: ENTREVISTA3ENTREVISTA
+Etapa 3: ENTREVISTA
+3
+ENTREVISTA
+Etapa 4: carta oferta4carta oferta
+Etapa 4: carta oferta
+4
+carta oferta
+Etapa 5: ONBOARDING5ONBOARDING
+Etapa 5: ONBOARDING
+5
+ONBOARDING
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+CONOCE A STEFANINI
+Somos una empresa global con 35 años de experiencia en el mercado, ofrecemos una sólida selección de servicios como: automatización, nube, Internet de las cosas (IoT) y experiencia de usuario (UX).
+Creemos que la tecnología puede revolucionar una empresa y la innovación es fundamental para fomentar el desarrollo y la competitividad. También valoramos las nuevas ideas y el poder de una mente abierta, por lo que reconocemos que cada talento es esencial para la calidad de nuestros proyectos y especialmente para nuestro progreso.
+Creemos que la tecnología puede revolucionar una empresa y la innovación es fundamental para fomentar el desarrollo y la competitividad. También valoramos las nuevas ideas y el poder de una mente abierta, por lo que reconocemos que cada talento es esencial para la calidad de nuestros proyectos y especialmente para nuestro progreso.
+Mantenemos nuestra excelencia invirtiendo en innovaciones tecnológicas, las mejores alianzas, adquisiciones de empresas en todo el mundo y la contratación de profesionales altamente capacitados.
+CONOCE MÁS SOBRE NOSOTROS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

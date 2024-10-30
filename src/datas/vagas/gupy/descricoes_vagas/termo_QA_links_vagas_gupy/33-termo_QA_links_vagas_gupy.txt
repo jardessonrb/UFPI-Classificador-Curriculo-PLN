@@ -1,0 +1,133 @@
+link_vaga-https://vemserpepper.gupy.io/job/eyJqb2JJZCI6NzkwNTcyNCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+QA PLENO
+Tipo de vaga: Pessoa jurídicaPessoa jurídica
+Tipo de vaga: Pessoa jurídica
+Pessoa jurídica
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Olá, somos Cayena, muito prazer! 🌶️
+Somos uma startup que chegou para revolucionar o mercado do Food Service! Simplificamos o setor mais importante do planeta digitalizando o processo da compra de insumos, sem mensalidades, sem taxas escondidas, sem custo de frete e sem dor de cabeça. 
+Somos uma startup que chegou para revolucionar o mercado do Food Service! Simplificamos o setor mais importante do planeta digitalizando o processo da compra de insumos, sem mensalidades, sem taxas escondidas, sem custo de frete e sem dor de cabeça. 
+Empreendemos pelo propósito de impulsionar negócios que colocam a comida na mesa. Conectamos fornecedores e compradores levando inteligência de dados para um mercado carente de tecnologia e inovação!
+Empreendemos pelo propósito de impulsionar negócios que colocam a comida na mesa. Conectamos fornecedores e compradores levando inteligência de dados para um mercado carente de tecnologia e inovação!
+A vaga
+Buscamos um(a) profissional que queira nos ajudar a criar uma vantagem competitiva a partir do uso aplicado da tecnologia nos objetivos do Cayena. Esperamos que o QA Cayena desenvolva e opere os testes de qualidade durante todo o processo de desenvolvimento das nossas soluções, de forma automática, eficiente e segura. 
+RESPONSABILIDADES E ATRIBUIÇÕES
+O que você fará? Elaborar e executar os testes de novos cenários e regressão;Desenvolver testes end to end;Reportar e acompanhar bugs;Sugerir melhorias no sistema.
+Elaborar e executar os testes de novos cenários e regressão;
+Desenvolver testes end to end;
+Reportar e acompanhar bugs;
+Sugerir melhorias no sistema.
+REQUISITOS E QUALIFICAÇÕES
+O que esperamos de você?Experiência com testes de backend e web;Conhecimento em Front-End Web;Vivência em testes exploratórios e de regressão;Experiência em ferramenta de automação de testes - Robot FrameWork obrigatório;Conhecimentos de padrões TDD, BDD e/ou DDD;Versionamento de código (Git + GitFlow);Gostar de trabalho em equipe;Comprometimento e alinhamento com a estratégia da empresa;Perfil questionador e inconformado.DesejávelConhecimento de testes para Apps Android e IoS (Flutter);Padrão de APIs Rest;Docker Containers;Automações com GitActions ou similar para implementação de Continuous Integrations;Ambiente de Nuvem AWS.
+Experiência com testes de backend e web;
+Conhecimento em Front-End Web;
+Vivência em testes exploratórios e de regressão;
+Experiência em ferramenta de automação de testes - Robot FrameWork obrigatório;
+Conhecimentos de padrões TDD, BDD e/ou DDD;
+Versionamento de código (Git + GitFlow);
+Gostar de trabalho em equipe;
+Comprometimento e alinhamento com a estratégia da empresa;
+Perfil questionador e inconformado.
+Desejável
+Conhecimento de testes para Apps Android e IoS (Flutter);
+Padrão de APIs Rest;
+Docker Containers;
+Automações com GitActions ou similar para implementação de Continuous Integrations;
+Ambiente de Nuvem AWS.
+INFORMAÇÕES ADICIONAIS
+Por que ser um(a) Pepper?
+Nossa cultura:
+ 
+🙅🏻‍♀️ Somos empreendedores: Abraçamos a missão e tomamos risco. Temos sede de crescimento e fome de impacto.
+🙅🏻‍♀️ Somos empreendedores: Abraçamos a missão e tomamos risco. Temos sede de crescimento e fome de impacto.
+🤝 Concorde ou discorde, comprometa-se: Missionários abrem mão do consenso em prol da agilidade. Somos unidos e comprometidos, concordando ou não. 
+🤝 Concorde ou discorde, comprometa-se: Missionários abrem mão do consenso em prol da agilidade. Somos unidos e comprometidos, concordando ou não. 
+📈 Temos fome de resultado: Somos entregadores insaciáveis movidos pelo desejo de transformar ambição em realidade.
+📈 Temos fome de resultado: Somos entregadores insaciáveis movidos pelo desejo de transformar ambição em realidade.
+🧘‍♀ Faça-se desnecessário: É papel de todos atrair empreendedores missionários. Contrate-os, treine-os e saia da frente.
+🧘‍♀ Faça-se desnecessário: É papel de todos atrair empreendedores missionários. Contrate-os, treine-os e saia da frente.
+ 
+Fica ainda melhor!
+Se cada #Pepper é único, por que oferecer um pacote de benefícios padrão?
+Além do combo de Benefícios Garantidos (benefícios que são comuns a todos), cada Pepper recebe um número de pontos para distribuir entre os Benefícios Flexíveis que quiser e montar um pacote do seu jeito!
+Além do combo de Benefícios Garantidos (benefícios que são comuns a todos), cada Pepper recebe um número de pontos para distribuir entre os Benefícios Flexíveis que quiser e montar um pacote do seu jeito!
+ 
+ 
+Benefícios Garantidos (comum a todos):
+🌶️ Elegibilidade ao programa de Stock Options
+🌶️ Elegibilidade ao programa de Stock Options
+🎉 Day Off de aniversário
+🎉 Day Off de aniversário
+🤰🏽 Licença maternidade e paternidade estendidas
+🤰🏽 Licença maternidade e paternidade estendidas
+👶🏽 Auxílio creche
+👶🏽 Auxílio creche
+💰 Férias remuneradas
+💰 Férias remuneradas
+🎁 Premiação por indicação
+🎁 Premiação por indicação
+📚 Subsídio para livros da Biblioteca Cayena
+📚 Subsídio para livros da Biblioteca Cayena
+🩺 Convênio médico (sem co-participação) pela Amil
+ 
+Benefícios Flexíveis (você escolhe o que tiver sentido pra você):
+💳 Cartão Caju
+💳 Cartão Caju
+🏋🏽‍♂️ Gympass
+🏋🏽‍♂️ Gympass
+🦷 Convênio odontológico
+🦷 Convênio odontológico
+❤️ Seguro de vida
+❤️ Seguro de vida
+🐶 Convênio Pet
+ 
+A sorte favorece os ousados e trazemos para o mercado uma pitada de ousadia. 
+Quer fazer parte desse desafio?🔥
+ 
+#VemSerPepper #UmaPitadaDeCayena
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Bate-papo com People2Bate-papo com People
+Etapa 2: Bate-papo com People
+2
+Bate-papo com People
+Etapa 3: Bate-papo com time Tech3Bate-papo com time Tech
+Etapa 3: Bate-papo com time Tech
+3
+Bate-papo com time Tech
+Etapa 4: Reference Check4Reference Check
+Etapa 4: Reference Check
+4
+Reference Check
+Etapa 5: Offer🔥5Offer🔥
+Etapa 5: Offer🔥
+5
+Offer🔥
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+BORA APIMENTAR O MERCADO 🚀
+👉 Somos uma FoodTech B2B, um marketplace que digitaliza o processo de compra de insumos levando tecnologia descomplicada para fornecedores, restaurantes, bares, hotéis e dark kitchens. 
+Nos últimos anos assistimos de camarote a uma verdadeira revolução que os APPs de delivery proporcionaram à forma como os restaurantes vendem. Está mais do que na hora de transformar também a forma como eles compram!
+Nós empreendemos pelo propósito de impulsionar negócios que colocam a comida na mesa. Conectamos fornecedores e compradores levando inteligência e dados para um mercado carente de tecnologia e inovação!
+Nosso mercado movimenta mais de RS500bi / ano só no Brasil
+Crescemos exponencialmente: 30x nos últimos 12 meses
+Retemos mais de 100% das nossas vendas mês a mês
+Dobramos de tamanho a cada 3 meses!
+ACOMPANHE NOSSAS REDES SOCIAIS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

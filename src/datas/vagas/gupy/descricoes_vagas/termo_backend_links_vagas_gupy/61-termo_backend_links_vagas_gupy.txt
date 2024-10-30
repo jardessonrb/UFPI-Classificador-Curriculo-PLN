@@ -1,0 +1,142 @@
+link_vaga-https://vempraelo.gupy.io/job/eyJqb2JJZCI6NzgzNzYzNCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA ENGENHEIRA DE SOFTWARE BACKEND PLENO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Sobre a Elo
+ 
+Somos uma empresa 100% Brasileira!
+A Elo é uma das principais empresas de tecnologia de pagamentos no Brasil. Com mais de dez anos de história e mais de 43 milhões de cartões ativos em parceria com 38 emissores. 
+A Elo é uma das principais empresas de tecnologia de pagamentos no Brasil. Com mais de dez anos de história e mais de 43 milhões de cartões ativos em parceria com 38 emissores. 
+Com nosso DNA brasileiro e inovador, temos a missão de fomentar a inclusão de Pagamentos digitais no Brasil. 
+Com nosso DNA brasileiro e inovador, temos a missão de fomentar a inclusão de Pagamentos digitais no Brasil. 
+ 
+Oferecemos um portfólio completo de cartões de crédito, débito, pré-pagos e especializados para pessoas e empresas. Além disso, desenhamos soluções customizadas para empresas, seja por meio das nossas plataformas de tokenização e de prevenção a fraudes, pagamentos por aproximação via QR Code e NFC, ou nossa consultoria especializada em gerar mais negócios para os nossos parceiros.
+Oferecemos um portfólio completo de cartões de crédito, débito, pré-pagos e especializados para pessoas e empresas. Além disso, desenhamos soluções customizadas para empresas, seja por meio das nossas plataformas de tokenização e de prevenção a fraudes, pagamentos por aproximação via QR Code e NFC, ou nossa consultoria especializada em gerar mais negócios para os nossos parceiros.
+Respeitamos as individualidades e promovemos uma cultura inclusiva, que busca a equidade e valoriza as diferenças (ex: Gênero, Religião, PcD, LGBTQIAP+, Raça e Etnia). Todas as nossas vagas respeitam esse compromisso.
+Respeitamos as individualidades e promovemos uma cultura inclusiva, que busca a equidade e valoriza as diferenças (ex: Gênero, Religião, PcD, LGBTQIAP+, Raça e Etnia). Todas as nossas vagas respeitam esse compromisso.
+Quer mais informações sobre a Elo? Acesse: https://www.elo.com.br/
+Quer mais informações sobre a Elo? Acesse: 
+Curtiu? Então vem saber mais sobre o desafio que temos pra você! ❤️💙💛
+Curtiu? Então vem saber mais sobre o desafio que temos pra você!
+Nosso time de Engenharia 
+﻿
+Somos responsáveis por desenvolver sistemas de pagamento seguros e eficientes. Nossos engenheiros trabalham com tecnologias modernas, agilidade e práticas de desenvolvimento de software para criar soluções inovadoras, garantir a integridade dos dados e a proteção contra fraudes. Além disso, eles colaboram com equipes multidisciplinares para melhorar a experiência do usuário e impulsionar a inovação em meios de pagamentos. 
+Somos responsáveis por desenvolver sistemas de pagamento seguros e eficientes. Nossos engenheiros trabalham com tecnologias modernas, agilidade e práticas de desenvolvimento de software para criar soluções inovadoras, garantir a integridade dos dados e a proteção contra fraudes. Além disso, eles colaboram com equipes multidisciplinares para melhorar a experiência do usuário e impulsionar a inovação em meios de pagamentos. 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Como Engenheiro de Software Backend Pleno você vai:
+Criar e manter aplicações de alta complexidade com qualidade, seguindo a arquitetura padrão da Elo.
+Criar e manter aplicações de alta complexidade com qualidade, seguindo a arquitetura padrão da Elo.
+Colaborar com times multidisciplinares (Squads de projetos) utilizando metodologias ágeis, interagindo com fábricas de software de parceiros e assumindo diferentes papéis conforme o projeto.
+Colaborar com times multidisciplinares (Squads de projetos) utilizando metodologias ágeis, interagindo com fábricas de software de parceiros e assumindo diferentes papéis conforme o projeto.
+Garantir a documentação adequada de sistemas e projetos, conforme a metodologia adotada pela empresa.
+Garantir a documentação adequada de sistemas e projetos, conforme a metodologia adotada pela empresa.
+Desenvolver soluções técnicas eficientes, performáticas e flexíveis que atendam às necessidades do negócio.
+Desenvolver soluções técnicas eficientes, performáticas e flexíveis que atendam às necessidades do negócio.
+Desenvolver métricas e monitorias para as aplicações, assegurando o acompanhamento da saúde do produto.
+Desenvolver métricas e monitorias para as aplicações, assegurando o acompanhamento da saúde do produto.
+Criar testes automatizados para validar e garantir a qualidade do produto.
+Criar testes automatizados para validar e garantir a qualidade do produto.
+Atuar na analise e resolução de falhas e incidentes.
+Atuar no refinamento técnico, desenhando a solução e a arquitetura dos sistemas.
+REQUISITOS E QUALIFICAÇÕES
+Para esse desafio precisamos que você:
+Sólida experiência em Java.
+Conhecimento em Spring boot Framework (Spring Core, Spring Web MVC, Spring data, etc.)
+Conhecimento em padrões de desenvolvimento de software como SOLID e Clean Code.
+Experiência com observabilidade, utilizando ferramentas e instrumentalizando aplicações.
+Experiência com cache distribuído.
+Experiência em Banco de dados relacional.
+Experiencia com filas e sistemas de mensageria.
+Experiencia com Docker para conteinerização de aplicações.
+Familiaridade com serviços Cloud.
+Além disso será diferencial se você:
+Conhecimento em outra linguagem de programação, como Kotlin, JavaScrip ou Python
+Conhecimento em Cloud Azure
+Conhecimento em Banco de dados NoSQL
+Experiência com padrões de design de sistemas distribuídos.
+Conhecimento do Mercado de Meios de Pagamentos e/ou Cartões;
+;
+INFORMAÇÕES ADICIONAIS
+Para trabalhar na Elo, buscamos pessoas que:
+Tenham atitude protagonista e empenham-se em superar resultados;
+Tenham atitude protagonista e empenham-se em superar resultados;
+Respondem rapidamente às mudanças, com foco e simplicidade na execução de seu trabalho;
+Respondem rapidamente às mudanças, com foco e simplicidade na execução de seu trabalho;
+Jogam muito bem em time, compartilhando conhecimento e reconhecendo o desempenho e importância de cada colega;
+Jogam muito bem em time, compartilhando conhecimento e reconhecendo o desempenho e importância de cada colega;
+Valorizam o diálogo aberto e feedbacks honestos;
+Valorizam o diálogo aberto e feedbacks honestos;
+Isso traduz bem nossos valores de cultura, que são: “Sou Coragem, Sou Responsa e Sou Comunidade”.
+Aqui na Elo, cultura é DNA. E nosso DNA é como a gente: Bem brasileiro e impulsiona nosso jeito único de fazer as coisas.
+Confere aqui nossos benefícios e facilidades:
+Programa de Participação nos Resultados (PPR);
+Assistência médica (Bradesco - Coparticipação)
+Assistência odontológica Opcional (Bradesco);
+Seguro de vida (Banco do Brasil);
+Previdência privada opcional (Podendo contribuir com até 7.8% do salário e a participação da Elo entre 100% e 200% de acordo com regras);
+Vale refeição/alimentação de R$1.800,00;
+Cartão Natal R$750,00;
+Auxílio Home Office (R$ 350,00 para modelo híbrido e R$450,00 para modelo remoto);
+Auxílio Mobilidade valor de R$400,00;
+Estacionamento Gratuito;
+Auxílio Creche para mamães e papais;
+Auxílio Cultura (Benefício a ser usado em teatro, cinema ou livrarias);
+Licença parentalidade estendida (Para casais homoafetivos, papais, adotantes e etc);
+Day OFF de aniversário;
+Zenklub (Psicoterapia - até 4 sessões ao mês pagas integralmente pela Elo);
+WellHub (Rede de academias e estúdios para práticas esportivas).
+Importante:
+Nossa empresa oferece três tipos de formas de trabalho: híbrido, presencial e totalmente remoto, mas vale ressaltar que o modelo de trabalho adotado pode variar de acordo com a dinâmica e as necessidades específicas de cada área da empresa.
+Nosso escritório fica localizado em Barueri/SP na Alameda Xingu, 512 - Alphaville Industrial. 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista com Talent Acquisition (RH)2Entrevista com Talent Acquisition (RH)
+Etapa 2: Entrevista com Talent Acquisition (RH)
+2
+Entrevista com Talent Acquisition (RH)
+Etapa 3: Entrevista Tecnica/ Gestor 3Entrevista Tecnica/ Gestor 
+Etapa 3: Entrevista Tecnica/ Gestor 
+3
+Entrevista Tecnica/ Gestor 
+Etapa 4: Entrevista com area par4Entrevista com area par
+Etapa 4: Entrevista com area par
+4
+Entrevista com area par
+Etapa 5: Fit Cultural 5Fit Cultural 
+Etapa 5: Fit Cultural 
+5
+Fit Cultural 
+Etapa 6: Proposta6Proposta
+Etapa 6: Proposta
+6
+Proposta
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+ELO, O CARTÃO DO BRASILEIRO
+Somos uma das principais empresas de tecnologia de pagamentos no Brasil, com mais de dez anos de história e mais de 43 milhões de cartões ativos em parceria com 38 emissores. ​
+Com nosso DNA brasileiro e inovador, temos a missão de fomentar a inclusão de Pagamentos digitais no Brasil.​
+Oferecemos um portfólio completo de cartões de crédito, débito, pré-pagos e especializados para pessoas e empresas.
+
+Além disso, desenhamos soluções customizadas para empresas, seja por meio das nossas plataformas de tokenização e de prevenção a fraudes, pagamentos por aproximação via QR Code e NFC, ou nossa consultoria especializada em gerar mais negócios para os nossos parceiros.
+
+Quer mais informações sobre a gente? Acesse elo.com.br
+NOSSAS REDES
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

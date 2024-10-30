@@ -1,0 +1,94 @@
+link_vaga-https://db.gupy.io/job/eyJqb2JJZCI6NzYwNzg1NSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+QA AUTOMAÇÃO PL  - HÍBRIDO EM PORTO ALEGRE
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+O que vamos construir juntos?
+Nesse projeto, trabalharemos juntos na transformação digital em um projeto financeiro focado em inovação. Nosso time é preocupado em propor as melhores soluções baseado em excelência técnica, pensando em alternativas que agreguem valor, com mindset ágil e cultura de colaboração. Nós respeitamos a diversidade e acreditamos que times diversos contribuem para construir ideias mais inovadoras.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Nos ajude a desenhar a solução!
+Se você chegou até aqui e é uma pessoa que gosta de trabalhar com desenvolvimento, aprecia muito desafios, de implementar soluções baseadas em boas práticas e curte trabalhar em times que respeitam quem você é e as suas opiniões, você está MUITO perto de integrar nosso time DB.
+Desenvolver e executar planos de teste para aplicativos móveis, garantindo a qualidade do software em diferentes dispositivos e plataformas;
+Identificar e relatar bugs, trabalhando em colaboração com desenvolvedores para garantir resolução eficiente;
+Testes de regressão, Unitários (JUNIT, NUNIT, Mockito), de Integração e Funcionais (Selenium);
+Testes para aplicativos móveis (iOS e Android).
+REQUISITOS E QUALIFICAÇÕES
+Formação ou Cursando Superior em TI;Experiência com Testes Manuais;Experiência com Automatizados;Experiência com Análise, levantamento e escrita de cenários de testes;Experiência com programação no paradigma orientado a objetos em uma das duas linguagens: Java e/ou C#;Conhecimento de IDEs (Android Studios, Eclipse, Xcode);Experiência com Framework Selenium;Experiência com Appium;Vivência em metodologia ágil;É essencial a disponibilidade de ir presencial (Centro Porto Alegre - Rio Grande do Sul).OpcionalConhecimento em Web Services e Microsserviços;Estudos com Jenkins;Conhecimento em Git, Boas práticas de programação (Page Object).
+Formação ou Cursando Superior em TI;
+Experiência com Testes Manuais;
+Experiência com Automatizados;
+Experiência com Análise, levantamento e escrita de cenários de testes;
+Experiência com programação no paradigma orientado a objetos em uma das duas linguagens: Java e/ou C#;
+Conhecimento de IDEs (Android Studios, Eclipse, Xcode);
+Experiência com Framework Selenium;
+Experiência com Appium;
+Vivência em metodologia ágil;
+É essencial a disponibilidade de ir presencial (Centro Porto Alegre - Rio Grande do Sul).
+Opcional
+Conhecimento em Web Services e Microsserviços;
+Estudos com Jenkins;
+Conhecimento em Git, Boas práticas de programação (Page Object).
+INFORMAÇÕES ADICIONAIS
+Por aqui você terá:
+Remuneração compatível com o mercado; 
+Vale Refeição; 
+Vale Transporte;
+Plano de Saúde e Odontológico; 
+Seguro de Vida; 
+Horário flexível; 
+Dresscode: seja você;
+TotalPass: cuidado com a sua Saúde física e mental).
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Screening2Screening
+Etapa 2: Screening
+2
+Screening
+Etapa 3: Entrevista de Pessoas3Entrevista de Pessoas
+Etapa 3: Entrevista de Pessoas
+3
+Entrevista de Pessoas
+Etapa 4: Entrevista Técnica 4Entrevista Técnica 
+Etapa 4: Entrevista Técnica 
+4
+Entrevista Técnica 
+Etapa 5: Entrevista no cliente, conhecendo o Projeto - Etapa Final 5Entrevista no cliente, conhecendo o Projeto - Etapa Final 
+Etapa 5: Entrevista no cliente, conhecendo o Projeto - Etapa Final 
+5
+Entrevista no cliente, conhecendo o Projeto - Etapa Final 
+Etapa 6: Proposta6Proposta
+Etapa 6: Proposta
+6
+Proposta
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+PRAZER, SOMOS A DB!
+Da garagem de casa para o mundo: assim começa a história da DB. Nascemos com desejo de mudança, nosso propósito é ser uma empresa de tecnologia centrada nas pessoas, com colaboração, inclusão e diversidade. Em 1993, iniciamos como consultores de um dos grandes bancos de dados da época, que nos deu o nome de DBServer (data base server) e aos poucos fomos construindo a DB (Design + Build the future) que você conhece hoje, a que gera mudança através de inovação e humanidade.
+Da garagem de casa para o mundo: assim começa a história da DB. Nascemos com desejo de mudança, nosso propósito é ser uma empresa de tecnologia centrada nas pessoas, com colaboração, inclusão e diversidade. Em 1993, iniciamos como consultores de um dos grandes bancos de dados da época, que nos deu o nome de DBServer (data base server) e aos poucos fomos construindo a DB (Design + Build the future) que você conhece hoje, a que gera mudança através de inovação e humanidade.
+Nós desenvolvemos pessoas que impactam os negócios com tecnologia e inovação, participando de forma flexível e articulada em squads, consultorias e capacitações em todas as etapas do ciclo de vida, do Discovery ao Delivery e sustentação.
+Nós desenvolvemos pessoas que impactam os negócios com tecnologia e inovação, participando de forma flexível e articulada em squads, consultorias e capacitações em todas as etapas do ciclo de vida, do Discovery ao Delivery e sustentação.
+Um olhar para a Diversidade & Inclusão
+A DB tem constituído uma jornada composta por marcadores culturais com profundo significado humano e que fazem parte do nosso dia a dia. Com coragem e empatia, colaboração, senso coletivo e de comunidade, estamos evoluindo na direção de uma cultura centrada nas pessoas.
+A DB tem constituído uma jornada composta por marcadores culturais com profundo significado humano e que fazem parte do nosso dia a dia. Com coragem e empatia, colaboração, senso coletivo e de comunidade, estamos evoluindo na direção de uma cultura centrada nas pessoas.
+Estamos orgulhosos de promover um ambiente de trabalho livre de discriminação. Acreditamos que a diversidade de experiências, perspectivas e histórico transforma nosso ambiente de trabalho. Estamos empenhados a construir esse legado com a sua parceria! 
+Estamos orgulhosos de promover um ambiente de trabalho livre de discriminação. Acreditamos que a diversidade de experiências, perspectivas e histórico transforma nosso ambiente de trabalho. Estamos empenhados a construir esse legado com a sua parceria! 
+Conheça nosso Marco Ético: https://bit.ly/MarcoEtico
+CONECTE-SE COM A DB!
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

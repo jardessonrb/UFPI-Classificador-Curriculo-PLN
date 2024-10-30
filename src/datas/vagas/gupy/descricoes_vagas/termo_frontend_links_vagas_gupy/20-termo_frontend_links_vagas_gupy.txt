@@ -1,0 +1,99 @@
+link_vaga-https://americanas.gupy.io/job/eyJqb2JJZCI6Nzk0MzY1MCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR FRONTEND SÊNIOR | TI FRONT
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Com uma trajetória de 95 anos, a Americanas S.A. está presente na vida de milhões de brasileiros.
+Nossas +1600 lojas físicas estão distribuídas por todos os estados do Brasil, em mais de 800 cidades, levando nossos produtos e serviços a mais de 40 milhões de clientes em todo o país.
+ 
+Nosso jeito:
+Temos uma forte cultura centrada no cliente e trabalhamos buscando soluções para melhorar a sua experiência. Valorizamos o trabalho de um jeito simples, descomplicado e que gera impacto positivo na vida das pessoas. Por aqui, incentivamos o trabalho em equipe e a troca de ideias, pois assim, crescemos juntos e nos desenvolvemos enquanto profissionais e pessoas. 
+Diversidade e inclusão:
+A Americanas S.A. acredita que diferentes perspectivas enriquecem o ambiente de trabalho. Por isso, temos o objetivo de promover um lugar cada vez mais diverso, inclusivo e acolhedor. Estamos construindo a cada dia uma cultura com base no respeito e valorização das diferenças, encorajando as pessoas a serem quem elas são, independente de gênero, etnia, raça, orientação sexual, religião ou deficiência. Nós acreditamos na integração das diversas culturas e tradições do Brasil, e queremos refletir a riqueza e a pluralidade do nosso país. Todas as nossas oportunidades são trabalhadas com base nesse princípio.
+A Americanas S.A. acredita que diferentes perspectivas enriquecem o ambiente de trabalho. Por isso, temos o objetivo de promover um lugar cada vez mais diverso, inclusivo e acolhedor. Estamos construindo a cada dia uma cultura com base no respeito e valorização das diferenças, encorajando as pessoas a serem quem elas são, independente de gênero, etnia, raça, orientação sexual, religião ou deficiência. 
+Todas as nossas oportunidades são trabalhadas com base nesse princípio.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Nesse time, você terá a oportunidade de: 
+
+Refatorar e manter o código existente para melhorar a legibilidade e a manutenibilidade.
+Criar e implementar designs responsivos e interativos para a interface do usuário em aplicações web.
+Conectar a interface do usuário com as APIs do backend e utilizar módulos Node.js para funcionalidades web.
+Trabalhar em estreita colaboração com designers para garantir que as implementações do design system atendam às expectativas visuais e funcionais
+REQUISITOS E QUALIFICAÇÕES
+O que esperamos de você para essa vaga:
+Domínio em desenvolvimento Frontend com Javascript e Typescript, HTML e CSS utilizando ReactJS (Preferencialmente), Angular ou VueJS;
+Experiência utilizando o Framework NodeJS;
+Experiência na integração com APIs;
+Melhores práticas de desenvolvimento (Código Limpo, SOLID, Modularização, Separação de Responsabilidades etc);
+Git;
+Docker;
+Será um diferencial, caso você conheça: 
+Testes automatizados (Jest, Vitest, React testing library);
+Experiência na configuração de bundlers (Rollup, Vite);
+Conhecimento em Banco de Dados SQL ou NOSQL;
+Experiência com DevOPs;
+Gitlab;
+CI/CD;
+OBS: Nossos processos seletivos estão sendo conduzidos totalmente online, portanto, fique atento nos emails e no spam. 
+INFORMAÇÕES ADICIONAIS
+Nossos benefícios:
+Somos adeptos ao regime e benefícios CLT, oferecemos:
+Vale Refeição;
+Plano de saúde Bradesco;
+Plano odontológico Amil; 
+Wellhub;
+Seguro de vida; 
+Fazemos nossa proposta salarial de acordo com o nosso plano de cargos e salários, sua pretensão salarial e avaliação técnica;
+Somos uma Empresa Cidadã: 180 dias de licença maternidade e 20 dias licença paternidade;
+Descontos em nossas lojas físicas, após o período de experiência;
+Allya: app que oferece descontos em quase 30 mil estabelecimentos por todo Brasil, ex: farmácia, restaurante, salão, academia, etc; 
+Ambiente colaborativo: perfeito pra ensinar e aprender muito.
+Local de Trabalho: Remoto
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Análise Curricular2Análise Curricular
+Etapa 2: Análise Curricular
+2
+Análise Curricular
+Etapa 3: Entrevista Gente & Gestão3Entrevista Gente & Gestão
+Etapa 3: Entrevista Gente & Gestão
+3
+Entrevista Gente & Gestão
+Etapa 4: Entrevista Técnica Gestão4Entrevista Técnica Gestão
+Etapa 4: Entrevista Técnica Gestão
+4
+Entrevista Técnica Gestão
+Etapa 5: Proposta5Proposta
+Etapa 5: Proposta
+5
+Proposta
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+QUEM SOMOS
+Com uma trajetória de 95 anos, a Americanas S.A. está presente na vida de milhões de brasileiros. Nossas +1600 lojas físicas estão distribuídas por todos os estados do Brasil, em mais de 800 cidades, levando nossos produtos e serviços a mais de 40 milhões de clientes em todo o país.
+ 
+Nosso jeito:
+Temos uma forte cultura centrada no cliente e trabalhamos buscando soluções para melhorar a sua experiência. Valorizamos o trabalho de um jeito simples, descomplicado e que gera impacto positivo na vida das pessoas. Por aqui, incentivamos o trabalho em equipe e a troca de ideias, pois assim, crescemos juntos e nos desenvolvemos enquanto profissionais e pessoas. 
+ 
+ 
+Diversidade e inclusão:
+A Americanas S.A. acredita que diferentes perspectivas enriquecem o ambiente de trabalho. Por isso, temos o objetivo de promover um lugar cada vez mais diverso, inclusivo e acolhedor. Estamos construindo a cada dia uma cultura com base no respeito e valorização das diferenças, encorajando as pessoas a serem quem elas são, independente de gênero, etnia, raça, orientação sexual, religião ou deficiência. Nós acreditamos na integração das diversas culturas e tradições do Brasil, e queremos refletir a riqueza e a pluralidade do nosso país. Todas as nossas oportunidades são trabalhadas com base nesse princípio.
+A Americanas S.A. acredita que diferentes perspectivas enriquecem o ambiente de trabalho. Por isso, temos o objetivo de promover um lugar cada vez mais diverso, inclusivo e acolhedor. Estamos construindo a cada dia uma cultura com base no respeito e valorização das diferenças, encorajando as pessoas a serem quem elas são, independente de gênero, etnia, raça, orientação sexual, religião ou deficiência. 
+Todas as nossas oportunidades são trabalhadas com base nesse princípio.
+CONHEÇA MAIS SOBRE NÓS! :)
+Website
+LinkedIn
+Instagram

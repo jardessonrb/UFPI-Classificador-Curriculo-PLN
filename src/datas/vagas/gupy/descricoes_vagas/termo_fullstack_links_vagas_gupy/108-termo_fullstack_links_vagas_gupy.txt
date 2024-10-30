@@ -1,0 +1,113 @@
+link_vaga-https://datamex.gupy.io/job/eyJqb2JJZCI6NzgzODY1OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR FULLSTACK JR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+O que é a Datamex?
+Na Datamex, acreditamos no poder das ideias e no impacto que elas podem ter. Estamos em constante busca por talentos que queiram se juntar a nós nessa jornada de transformação digital. Se você é uma pessoa curiosa, proativa e motivada a superar desafios, aqui é o seu lugar. Trabalhe em projetos inovadores, tenha acesso a tecnologias de ponta e faça parte de uma equipe altamente qualificada. Na Datamex, você terá o apoio e o ambiente necessário para desenvolver seu potencial e construir uma carreira de sucesso. Venha fazer parte da nossa equipe e seja protagonista da mudança!
+Estamos em busca de profissionais apaixonados e determinados para se juntarem a nós como Desenvolvedor FullStack. Se você tem vontade de aprender, transformar a logística e mobilidade e fazer a diferença, essa é a sua oportunidade!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desafios: 
+ 
+Desenvolver e evoluir o produto, através do desenvolvimento de requisitos de softwares utilizando-se das tecnologias front-end e back-end envolvidas no projeto; 
+Desenvolver e evoluir o produto, através do desenvolvimento de requisitos de softwares utilizando-se das tecnologias front-end e back-end envolvidas no projeto; 
+Conhecer a arquitetura front-end e back-end do software e ser capaz de atuar nela através da análise de seus componentes, organização e funcionalidades; 
+Conhecer a arquitetura front-end e back-end do software e ser capaz de atuar nela através da análise de seus componentes, organização e funcionalidades; 
+Criar testes, sejam estes manuais ou automáticos, que cubram o comportamento desejado dos componentes técnicos desenvolvidos utilizando os requisitos e ferramentas de testes; 
+Criar testes, sejam estes manuais ou automáticos, que cubram o comportamento desejado dos componentes técnicos desenvolvidos utilizando os requisitos e ferramentas de testes; 
+Documentar as etapas de desenvolvimento realizando o registro do desenvolvimento nas ferramentas de versionamento e documentação; 
+Documentar as etapas de desenvolvimento realizando o registro do desenvolvimento nas ferramentas de versionamento e documentação; 
+Trabalhar com o time de desenvolvimento para encontrar soluções de negócio, arquitetura e desenho através da comunicação e trocas de conhecimento; 
+Trabalhar com o time de desenvolvimento para encontrar soluções de negócio, arquitetura e desenho através da comunicação e trocas de conhecimento; 
+Manter a qualidade do software verificando os processos, ferramentas e boas práticas disponíveis para o produto e tecnologia utilizados; 
+Manter a qualidade do software verificando os processos, ferramentas e boas práticas disponíveis para o produto e tecnologia utilizados; 
+Utiliza frameworks já definidos para o desenvolvimento de soluções; 
+Utiliza frameworks já definidos para o desenvolvimento de soluções; 
+Elaboração e realização de provas de conceito (POCs); 
+Elaboração e realização de provas de conceito (POCs); 
+Atuar em projetos com a metodologia ágil; 
+Atuar em projetos com a metodologia ágil; 
+Facilitar a comunicação interna e externa, elaboração e execução de documentação e relatórios; 
+Facilitar a comunicação interna e externa, elaboração e execução de documentação e relatórios; 
+Participar de discussões técnicas relacionadas à tecnologia e dados; 
+Participar de discussões técnicas relacionadas à tecnologia e dados; 
+REQUISITOS E QUALIFICAÇÕES
+Principais requisitos: 
+ 
+Curso técnico/graduação/tecnólogo na área de tecnologia completo ou cursando nos últimos semestres; 
+Curso técnico/graduação/tecnólogo na área de tecnologia completo ou cursando nos últimos semestres; 
+Conhecimento das tecnologias HTML 5, CSS, JavaScript, JQuery, PHP e MySQL; 
+Conhecimento das tecnologias HTML 5, CSS, JavaScript, JQuery, PHP e MySQL; 
+Capacidade de organização e documentação de processos; 
+Capacidade de organização e documentação de processos; 
+Capacidade de organização e orientação para trabalhar com processos e prazos;
+Capacidade de organização e orientação para trabalhar com processos e prazos;
+Requisitos desejáveis:  
+  
+ Conhecimento de utilização de Docker; 
+Conhecimento de utilização de Docker; 
+ Bancos de dados Redis; 
+ Bancos de dados Redis; 
+ Desenvolvimento e arquitetura web; 
+ Desenvolvimento e arquitetura web; 
+ Conhecimento no uso do GIT; 
+ Conhecimento no uso do GIT; 
+ Conhecimento em testes unitários; 
+ Conhecimento em testes unitários; 
+INFORMAÇÕES ADICIONAIS
+Porque trabalhar na Datamex:
+Faça parte de uma empresa que valoriza o potencial humano e a inovação. Buscamos profissionais apaixonados por tecnologia, que desejam contribuir para o crescimento e o sucesso dos nossos clientes. Com uma cultura de colaboração, aprendizado contínuo e ambiente de trabalho inspirador, oferecemos oportunidades de desenvolvimento profissional e pessoal, além de benefícios competitivos. Se você está pronto para desafios empolgantes e quer fazer parte de uma empresa líder no mercado de soluções tecnológicas, confira nossas vagas disponíveis e envie seu currículo hoje mesmo!
+Alguns de nossos benefícios:
+• Gympass
+• ZenKlub
+• Feedz
+• Convênios com academia e livraria
+• Plano médico e odontológico
+• VT/VA
+• Dayoff Birthday
+O que esperamos de você:
+Na Datamex, temos uma cultura baseada em valores e esperamos que todos os colaboradores não apenas se identifiquem, mas também vivam essa cultura em seu dia a dia. Acreditamos que a cultura é uma das maiores vantagens competitivas para negócios bem-sucedidos, pois é algo que não pode ser copiado integralmente.
+Nossos pilares culturais e seus atributos são:
+• Servir: foco no cliente, humildade, transparência e ética
+• Equipe: valorizamos o trabalho em equipe, a vontade de colocar a mão na massa e o espírito colaborativo
+• Resultados: buscamos agilidade, melhoria contínua, geração de valor a longo prazo e foco nos resultados
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Fit cultural 2Fit cultural 
+Etapa 2: Fit cultural 
+2
+Fit cultural 
+Etapa 3: Mapeamento Comportamental3Mapeamento Comportamental
+Etapa 3: Mapeamento Comportamental
+3
+Mapeamento Comportamental
+Etapa 4: Entrevista com Time de People4Entrevista com Time de People
+Etapa 4: Entrevista com Time de People
+4
+Entrevista com Time de People
+Etapa 5: Entrevista com a Gestão 5Entrevista com a Gestão 
+Etapa 5: Entrevista com a Gestão 
+5
+Entrevista com a Gestão 
+Etapa 6: Proposta6Proposta
+Etapa 6: Proposta
+6
+Proposta
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+JUNTE-SE A NÓS!
+Junte-se à nossa equipe na Datamex e faça parte de uma empresa que valoriza o potencial humano e a inovação. Buscamos profissionais apaixonados por tecnologia, que desejam contribuir para o crescimento e o sucesso dos nossos clientes. Com uma cultura de colaboração, aprendizado contínuo e ambiente de trabalho inspirador, oferecemos oportunidades de desenvolvimento profissional e pessoal, além de benefícios competitivos. Se você está pronto para desafios empolgantes e quer fazer parte de uma empresa líder no mercado de soluções tecnológicas, confira nossas vagas disponíveis e envie seu currículo hoje mesmo!
+Junte-se à nossa equipe na Datamex e faça parte de uma empresa que valoriza o potencial humano e a inovação. Buscamos profissionais apaixonados por tecnologia, que desejam contribuir para o crescimento e o sucesso dos nossos clientes. Com uma cultura de colaboração, aprendizado contínuo e ambiente de trabalho inspirador, oferecemos oportunidades de desenvolvimento profissional e pessoal, além de benefícios competitivos. Se você está pronto para desafios empolgantes e quer fazer parte de uma empresa líder no mercado de soluções tecnológicas, confira nossas vagas disponíveis e envie seu currículo hoje mesmo!

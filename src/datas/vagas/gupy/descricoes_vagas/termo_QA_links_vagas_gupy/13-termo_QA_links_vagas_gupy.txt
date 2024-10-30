@@ -1,0 +1,137 @@
+link_vaga-https://reclame-aqui.gupy.io/job/eyJqb2JJZCI6NzkwNTM4Niwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE TESTES (QA)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Sobre o Reclame AQUI
+O Reclame AQUI é a maior plataforma de solução de conflitos entre consumidores e empresas da América Latina! Durante 20 anos de história, temos ajudado a tornar mais simples, fácil e transparente esse relacionamento. 
+Todos os dias, recebemos a visita de milhões de consumidores que pesquisam a reputação e o atendimento das marcas e as experiências de outros consumidores.
+Somos referência em reputação e confiança nas relações de consumo! Além de um grande gerador de dados, com informações valiosas e únicas de jornadas e experiências de compra que contribuem, inclusive, para que as empresas evoluam no seu processo de atendimento.
+#VemSerRA #QueroCrescerComRA #oRAéMeuLugar
+ 
+Trabalhamos com pessoas que:
+- Querem mudar o mundo e gostam de ajudar as pessoas;
+- Pensam diferente, mas respeitam as diferenças;
+- Sejam criativas para solucionar e superar os desafios do dia a dia;
+- Não têm medo de mudanças;
+- Sabem o seu valor e são gratas;
+- Acreditam que através da confiança, reputação e transparência é possível melhorar as relações de consumo.
+Aqui nossos colaboradores são protagonistas e têm a liberdade de criar, transformar, compartilhar, aprender e é isso que nos faz SER FODA! Por isso, todo mundo que entra para nosso time, se torna um Trustmaker!
+Como diz nosso primeiro mandamento, "As empresas são feitas por pessoas", e aqui no RA a gente tem o compromisso de respeitar a pluralidade da nossa gente e tornar a nossa empresa cada vez mais representativa. Sendo assim, buscamos contratar pessoas independente de gênero, raça, idade, orientação sexual ou deficiência. #EuSouRA #RASouEu
+RESPONSABILIDADES E ATRIBUIÇÕES
+Qual a missão do cargo?
+Analisar e desenvolver especificações para testes dos sistemas em atividades de baixa e média complexidade, observando os resultados e emitindo o parecer sobre o processo conforme especificado nos cenários de testes, com o objetivo de que o aplicativo/software seja liberado dentro do prazo garantindo seu perfeito funcionamento.
+Quais serão suas responsabilidades?
+- Elaborar, atualizar e validar as documentações do sistema;
+- Elaboração de plano de qualidade de projetos, com foco em boas práticas de teste e no framework desenvolvido pela empresa; 
+- Criação de cenários no modelo Gherkin;
+- Participação em Refinamento, melhoria de processo de qualidade em negócios, tecnologia, suporte e documentações;
+- Contribuir com o planejamento de qualidade das operações e projetos, bem como propondo melhorias nos produtos e processos;
+- Validar os cenários de testes junto aos pontos focais de negócios e tecnologia; 
+- Geração de indicadores de qualidade (bugs, incidentes, etc.)
+- Apoiar na definição da natureza/criticidade e simulação de falhas reportadas pelo cliente.
+- Executar, analisar os resultados e emitir o parecer dos testes atuando sob acompanhamento;
+- Apoiar a execução do ciclo de liberação definido pela metodologia de qualidade de cada produto;
+- Contribuir com a análise e na preparação do conjunto de cenários de testes;
+- Prestar suporte às demais áreas no entendimento das rotinas de seu domínio;
+- Investigar ocorrências de erros não detectados durante os testes de qualidade a fim de evitar a reincidência da falha nos testes;
+- Conhecimento de pirâmide de testes;
+- Experiência na execução de diferentes tipos de testes manuais (Funcionais, Requisitos, Regressivo, Integração, Usabilidade, UI/UX, Teste de Aceite, Exploratório, Smoke Test); 
+- Experiência com testes de Micro Serviços e API Rest, utilizando ferramentas como Postman ou Insomnia; 
+- Utilização de GitHub ou BitBucket e Jira
+REQUISITOS E QUALIFICAÇÕES
+O que esperamos de você?
+- Ter trabalhado em projetos que utilizam metodologias ágeis de desenvolvimento;
+- Vivência na área de testes Manuais e exploratórios, ferramentas e processos de controle de qualidade de software;
+- Conhecimento de técnicas de testes exploratórios em web e mobile.
+INFORMAÇÕES ADICIONAIS
+Quais são os nossos benefícios?
+🩺 Plano de Saúde
+🩺 
+🦷 Plano Odontológico
+🦷 
+❤️ Seguro de Vida
+❤️ 
+🍔 Vale Refeição 
+🍔
+ 
+🛒 Vale Alimentação 
+🛒 
+💻 Home Office
+💻 
+🏡 Auxílio Home Office
+🏡 
+ 🍼 Auxílio Creche
+ 🍼 Auxílio Creche
+🥳 Day off no aniversário
+🥳 
+💰 Empréstimo Consignado
+💰 
+💵 PLR
+💵 
+💙 Apoio médico, psicológico e nutricional
+💙 Apoio médico, psicológico e nutricional
+🏋️ Gympass
+🏋️ Gympass
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Bate papo com time de Talentos e Tech Lead3Bate papo com time de Talentos e Tech Lead
+Etapa 3: Bate papo com time de Talentos e Tech Lead
+3
+Bate papo com time de Talentos e Tech Lead
+Etapa 4: Bate papo com Gestores4Bate papo com Gestores
+Etapa 4: Bate papo com Gestores
+4
+Bate papo com Gestores
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+VOCÊ PROVAVELMENTE JÁ CONHECE A GENTE. E AGORA, QUE TAL SER UM TRUSTMAKER?
+Teve problema com alguma empresa? Ou trabalhou em uma que usava nosso site para atender seus consumidores? Então com certeza você já ouviu falar do Reclame AQUI.
+Teve problema com alguma empresa? Ou trabalhou em uma que usava nosso site para atender seus consumidores? Então com certeza você já ouviu falar do Reclame AQUI.
+
+Afinal, somos a empresa de tecnologia que desenvolveu a maior plataforma de resolução de conflitos entre marcas e clientes do mundo. E com nosso site e outros produtos fizemos a confiança ser o valor mais importante para empresas e consumidores. Por isso, todo mundo que entra pro Reclame AQUI é um Trustmaker!
+Afinal, somos a 
+ que desenvolveu a 
+entre marcas e clientes do mundo. E com nosso site e outros produtos fizemos 
+ para empresas e consumidores. Por isso, todo mundo que entra pro Reclame AQUI é um 
+!
+
+É isso mesmo: tudo que a gente cria e faz tem como propósito tornar as relações de consumo mais transparentes. Aqui nossos colaboradores são protagonistas e têm a liberdade de criar, transformar, compartilhar, aprender e é isso que nos faz SER FODA!
+É isso mesmo: tudo que a gente cria e faz tem como propósito tornar as relações de consumo mais transparentes. Aqui nossos colaboradores são 
+ e têm a liberdade de 
+, 
+, 
+ 
+ e é isso que nos faz SER FODA!
+
+Não é à toa que o RA é um importante canal de atendimento e ainda um grande site de pesquisa, usado por muita gente antes de comprar para saber quais empresas são mais confiáveis.
+Não é à toa que o RA é um importante 
+ e ainda um grande site de pesquisa, usado por muita gente antes de comprar para saber quais 
+ 
+.
+
+Pois é, mudamos a forma como o brasileiro consome. Chegou sua vez de também fazer parte dessa transformação e ser um Trustmaker! Bora mudar o mundo com a gente?
+Pois é, mudamos a forma como o brasileiro consome. Chegou sua vez de também fazer parte dessa transformação e ser um 
+! Bora mudar o mundo com a gente?
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

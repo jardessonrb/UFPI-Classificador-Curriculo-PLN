@@ -1,0 +1,68 @@
+link_vaga-https://dexco.gupy.io/job/eyJqb2JJZCI6MTYwNzA3OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+BANCO DE TALENTOS - CIENTISTA DE DADOS
+Tipo de vaga: Banco de talentosBanco de talentos
+Tipo de vaga: Banco de talentos
+Banco de talentos
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Buscamos uma Cientista de Dados para a área de Data & Analytics.
+Buscamos uma Cientista de Dados para a área de Data & Analytics.
+
+Se você é uma pessoa criativa, aberta ao novo, gosta de trabalhar de forma colaborativa, alinhada ao nosso propósito e disposta a trilhar uma jornada de transformação cultural, seu lugar é aqui na Dexco. Estamos sempre em busca de novos talentos que queiram dividir este desafio conosco. Alinhado a nossa cultura, temos como objetivo tornar a Dexco um lugar mais inclusivo, onde os colaboradores possam ser quem realmente são e sejam valorizados pelas suas diferenças. Buscamos talentos com diferentes características e que queiram estar conosco nessa jornada de transformação!
+
+Temos 5 unidades florestais (MG, SP e RS) e 16 unidades industriais no brasil (MG, SC, RS, SP, PB, PE, SE e RJ), 3 fábricas na colômbia. Nosso escritório corporativo está localizado em São Paulo, na Avenida Paulista.
+
+Se você se identifica com nossa cultura, cadastre-se em nosso banco de talentos e caso surja uma oportunidade alinhada ao seu perfil, nosso time entrará em contato!
+RESPONSABILIDADES E ATRIBUIÇÕES
+• Atuar como cientis de dados na evolução e manutenção dos serviços e modelos da Duratex frente aos novos desafios tecnológicos;
+• Atuar no desenvolvimento de novos modelos de IA/ML
+• Transformar dados em insights de negócios para tomada de decisões;
+• Estabelecer conhecimento do ambiente de negócio e quais são os dados de maior relevância
+• Participar na validação de dados para as entregas ao business;
+• Metodologias: saber atuar em projetos tradicionais (cascata) bem como em projetos ágeis;
+• Responsável e analítico;
+• Pró-atividade em construir e trazer novas ferramentas e propostas;
+• Estar atento ao aprendizado constante;
+• Desenvolver todo o ambiente back-end incluindo ativação, integração, desenvolvimento e expansão de nosso Datalake, DW, datamarts em geral; ativação da estrutura Big Data;
+REQUISITOS E QUALIFICAÇÕES
+• Desenvolvimento e expansão de nosso DataLake S3 AWS. Desenvolvimento de Scripts ETL, Lambda. Conhecimento em Amazon Kinesis, Glue, Athena requerido; 
+• Administração de bucket S3 e instâncias AWS EC2 para execução de componentes da plataforma de Analytics quando requerido;
+• Desenvolvimento, integração e manutenção de banco de dados SQL e NoSQL (Aurora, MariaDb, Redshift, DynamoDb, MongoDb entre outros); 
+• Desenvolvimento em Python, R e SQL; 
+• Desenvolvimento de integração utilizando componentes como Amazon EMR (Hadoop & Spark) para suporte a estrutura de Big Data;
+• Experiência com modelagem de dados e especificação de arquitetura de soluções de BI & analytics seguindo melhores práticas e/ou design patterns recomendados internamente ou por fornecedores; 
+• Conhecimento em Data Visualization (Tableau);
+• Conhecimento em Databricks;
+• Data Quality;
+• ETL (Pentaho);
+• Boa comunicação e capacidade analítica;
+• Desenvolvimento de modelos preditivos;
+INFORMAÇÕES ADICIONAIS
+• Conhecimentos específicos e obrigatórios: vivência na atuação de projetos ágeis e tradicionais; conhecimentos de análise de dados; levantamento de requisitos de negócio; ETL; Cloud Computing (AWS);
+• Experiência mínima de 4 anos desenvolvendo soluções de Analytics;
+• Apaixonado por dados e por descobrir tendências e insights.
+• Idioma: Inglês intermediário (leitura obrigatório);
+• Requisitos desejáveis: Atuação com ferramentas de visualização de dados (Tableau) pós-graduação ou MBA, conhecimento/certificação em BI&Analytics e conhecimentos em R, desejável;
+Equipe de Analytics com foco em captura, análise e processamento de dados. Responsável por disponibilizar a informação para as unidades de negócio para tomada de decisão e apoio em iniciativas estratégicas.
+QUEM SOMOS?
+SOMOS DEXCO
+Uma empresa multinegócios e detentora das marcas Deca, Portinari, Hydra, Duratex, Castelatto, Ceusa e
+Durafloor, a Dexco é a maior empresa produtora de painéis de madeira industrializada do Brasil, referência na produção de louças e metais sanitários no hemisfério Sul e uma das maiores fabricantes de revestimentos do país. Com mais de 70 anos de história, e mais de 12 mil colaboradores, a empresa tem sede em São Paulo e conta com 22 unidades industriais e florestais no Brasil e na Colômbia. 
+Sob a promessa de marca – Viver Ambientes – a Dexco vive um novo momento e concretiza o propósito de oferecer Soluções para Melhor Viver, com perfil centrado no consumidor e busca por facilitar a jornada de construção e reforma, alinhada à sua preocupação com o ESG. 
+Em 2021 criou o DX Ventures, fundo de Corporate Venture Capital, para investir em startups e scale-ups que consigam endereçar essas questões. Faz parte ainda de uma joint venture – LD Celulose – para a fabricação de celulose solúvel. 
+ 
+Nosso Propósito é oferecer "Soluções para Melhor Viver" e, para isso, buscamos pessoas criativas, abertas ao novo, que saibam trabalhar de forma colaborativa, alinhadas com o nosso propósito e dispostas a trilhar uma jornada de transformação cultural. Por isso, estamos sempre em busca de novos talentos que queiram dividir esse desafio conosco.
+Alinhado a nossa cultura, temos como objetivo tornar a Dexco um lugar mais inclusivo, onde os colaboradores possam ser quem realmente são e sejam valorizados pelas suas diferenças. Buscamos talentos com diferentes características e que queiram estar conosco nessa jornada de transformação!
+Saiba mais em: https://www.dex.co/
+ 
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram

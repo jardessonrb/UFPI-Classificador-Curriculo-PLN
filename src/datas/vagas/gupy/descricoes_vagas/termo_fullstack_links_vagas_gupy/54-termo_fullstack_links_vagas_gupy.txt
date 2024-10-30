@@ -1,0 +1,75 @@
+link_vaga-https://gruposaltaedu.gupy.io/job/eyJqb2JJZCI6MzYyMzkzNCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+[BANCO DE TALENTOS] DESENVOLVEDOR(A) FULLSTACK
+Tipo de vaga: Banco de talentosBanco de talentos
+Tipo de vaga: Banco de talentos
+Banco de talentos
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Transformar o Brasil por meio da Educação pode parecer uma missão impossível, não é? Não com gente boa & tecnologia!!
+Aqui no Eleva, confiamos que somos capazes disso e já sabemos como - sendo a melhor solução em educação já vista em território brasileiro e a segundo maior holding de escolas de educação básica do mundo.
+ 
+Para conseguirmos transformar vidas nos quatro cantos do Brasil, precisamos de pessoas diversas, apaixonadas por educação, pensando em formas inovadoras de levar a melhor solução até o aluno, além de muita, muita tecnologia!
+Topa se aventurar nesse desafio tech com muito aprendizado e ainda transformar o futuro do nosso País?
+RESPONSABILIDADES E ATRIBUIÇÕES
+Atuar no ciclo de vida de um projeto de software;Entendimento das necessidades de negócio, participação na definição de arquitetura, desenvolvimento, testes automatizados, integração contínua e entrega contínua;Ser capaz de contribuir na definição de arquitetura e tecnologias de um projeto, levando em consideração critérios como Escalabilidade, Segurança, Performance, Modularidade e Usabilidade, para assim garantir que as soluções adotadas estejam aderentes às necessidades da empresa;Trabalhar com a equipe de Produto e Designers para entender as necessidades do negócio, antecipando as mudanças para proporcionar uma experiência incrível aos usuários;Trabalhar de acordo com um mindset Ágil e DevOps, garantindo a entrega contínua de valor para os usuários.
+Atuar no ciclo de vida de um projeto de software;
+Atuar no ciclo de vida de um projeto de software;
+Entendimento das necessidades de negócio, participação na definição de arquitetura, desenvolvimento, testes automatizados, integração contínua e entrega contínua;
+Entendimento das necessidades de negócio, participação na definição de arquitetura, desenvolvimento, testes automatizados, integração contínua e entrega contínua;
+Ser capaz de contribuir na definição de arquitetura e tecnologias de um projeto, levando em consideração critérios como Escalabilidade, Segurança, Performance, Modularidade e Usabilidade, para assim garantir que as soluções adotadas estejam aderentes às necessidades da empresa;
+Ser capaz de contribuir na definição de arquitetura e tecnologias de um projeto, levando em consideração critérios como Escalabilidade, Segurança, Performance, Modularidade e Usabilidade, para assim garantir que as soluções adotadas estejam aderentes às necessidades da empresa;
+Trabalhar com a equipe de Produto e Designers para entender as necessidades do negócio, antecipando as mudanças para proporcionar uma experiência incrível aos usuários;
+Trabalhar com a equipe de Produto e Designers para entender as necessidades do negócio, antecipando as mudanças para proporcionar uma experiência incrível aos usuários;
+Trabalhar de acordo com um mindset Ágil e DevOps, garantindo a entrega contínua de valor para os usuários.
+Trabalhar de acordo com um mindset Ágil e DevOps, garantindo a entrega contínua de valor para os usuários.
+REQUISITOS E QUALIFICAÇÕES
+Requisitos e qualificações:
+Formação completa ou em andamento em Ciência da Computação, áreas afins ou experiência que valide os conhecimentos desejados.
+Formação completa ou em andamento em Ciência da Computação, áreas afins ou experiência que valide os conhecimentos desejados.
+C#
+C#
+.NET Core
+.NET Core
+AWS
+AWS
+Angular
+Angular
+Nodejs
+Nodejs
+Bancos relacionais e não relacionais
+Bancos relacionais e não relacionais
+ Boas práticas de desenvolvimento, como S.O.L.I.D, Clean Code e testes automatizados;
+ Boas práticas de desenvolvimento, como S.O.L.I.D, Clean Code e testes automatizados;
+
+Quais são as características que consideramos diferenciais?
+Ser apaixonado(a) por educação;
+Ser apaixonado(a) por educação;
+Experiência com metodologias ágeis;
+Experiência com metodologias ágeis;
+Experiência com arquitetura de software.
+Experiência com arquitetura de software.
+INFORMAÇÕES ADICIONAIS
+Diversidade:
+Acreditamos que um time diverso é o caminho para cumprir a nossa missão de transformar vidas e o Brasil. Assim, incentivamos a candidatura de pessoas que se identifiquem com grupos minorizados em todas as nossas posições.
+Acreditamos que um time diverso é o caminho para cumprir a nossa missão de transformar vidas e o Brasil. Assim, incentivamos a candidatura de pessoas que se identifiquem com grupos minorizados em todas as nossas posições.
+CONHEÇA O GRUPO SALTA EDUCAÇÃO
+Somos o maior grupo de educação básica do Brasil e temos a missão de construir um país melhor para as próximas gerações. Quer saber como fazemos isso?
+Somos o maior grupo de educação básica do Brasil e temos a missão de construir um país melhor para as próximas gerações. Quer saber como fazemos isso?
+ 
+Acreditamos que o ensino de qualidade pode ser um modelo sustentável para impactar crianças e jovens em todo o país. E esse desafio nos move diariamente.
+Acreditamos que o ensino de qualidade pode ser um modelo sustentável para impactar crianças e jovens em todo o país. E esse desafio nos move diariamente.
+ 
+Para realizar esse sonho, contamos com um time inovador e criativo, cheio de energia e, principalmente, apaixonado pelo que faz. O nosso DNA é marcado pela cultura de excelência, impacto social, desenvolvimento pessoal e espírito realizador.
+Para realizar esse sonho, contamos com um time inovador e criativo, cheio de energia e, principalmente, apaixonado pelo que faz. O nosso DNA é marcado pela cultura de excelência, impacto social, desenvolvimento pessoal e espírito realizador.
+ 
+Acreditamos que um time diverso é o caminho para cumprir a nossa missão de transformar vidas e, por isso, visamos a contratar talentos em igualdade de oportunidades. Também levamos a inclusão a sério, pensando em processos de reconhecimento justos e éticos, além de contarmos com grupos de afinidade racial, LGBTQIA+, de pessoas com deficiência e de gênero.
+Acreditamos que um time diverso é o caminho para cumprir a nossa missão de transformar vidas e, por isso, visamos a contratar talentos em igualdade de oportunidades. Também levamos a inclusão a sério, pensando em processos de reconhecimento justos e éticos, além de contarmos com grupos de afinidade racial, LGBTQIA+, de pessoas com deficiência e de gênero.
+ 
+Se você quer ser impulsionado para impulsionar, o Grupo Salta é o seu lugar. Venha construir um legado de transformação conosco!
+Se você quer ser impulsionado para impulsionar, o Grupo Salta é o seu lugar. Venha construir um legado de transformação conosco!

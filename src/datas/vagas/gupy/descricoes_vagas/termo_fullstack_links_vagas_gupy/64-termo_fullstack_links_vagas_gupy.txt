@@ -1,0 +1,82 @@
+link_vaga-https://kovi.gupy.io/job/eyJqb2JJZCI6ODAxOTgyMywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ENGENHEIRO(A) DE SOFTWARE SÊNIOR - FULLSTACK (ESPECIALISTA EM ELIXIR)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Embora o carro tenha um papel fundamental na vida de muitas pessoas, só 25% da população da América Latina consegue ter acesso a ele. E foi por isso que a Kovi nasceu: para mudar essa estatística!
+Embora o carro tenha um papel fundamental na vida de muitas pessoas, só 25% da população da América Latina consegue ter acesso a ele. E foi por isso que a Kovi nasceu: para mudar essa estatística!
+Acreditamos que todas as pessoas merecem ter a oportunidade de dirigir suas próprias vidas e, em busca desse propósito, trabalhamos todos os dias para criar soluções de mobilidade acessíveis, flexíveis e simples. 
+Acreditamos que todas as pessoas merecem ter a oportunidade de dirigir suas próprias vidas e, em busca desse propósito, trabalhamos todos os dias para criar soluções de mobilidade acessíveis, flexíveis e simples. 
+Hoje, já oferecemos planos de aluguel no inédito modelo “pague o que usar”, compra de carros sem análise de crédito e seguro auto com contratação simplificada. E queremos continuar promovendo a inclusão, através da eficiência e inovação!
+Hoje, já oferecemos planos de aluguel no inédito modelo “pague o que usar”, compra de carros sem análise de crédito e seguro auto com contratação simplificada. E queremos continuar promovendo a inclusão, através da eficiência e inovação!
+O desafio é grande, mas nossa vontade de fazer a diferença é ainda maior! E estamos buscando pessoas incríveis para fazer parte dessa revolução. Aqui, você encontrará um ambiente acolhedor, colaborativo e de aprendizado constante. #VemSerKover!
+O desafio é grande, mas nossa vontade de fazer a diferença é ainda maior! E estamos buscando pessoas incríveis para fazer parte dessa revolução. Aqui, você encontrará um ambiente acolhedor, colaborativo e de aprendizado constante. #VemSerKover!
+TIME KOVI:
+Ser Kover é sinônimo de ser super engajado quando o assunto é desafio. Amamos pessoas que se importam com outras pessoas, que tenham brilho nos olhos e vontade de sobra para mudar o mundo. Se você acredita em um mundo onde todos tenham oportunidade de dirigir suas próprias vidas, vem ser #Kover! ♥
+Ser Kover é sinônimo de ser super engajado quando o assunto é desafio. Amamos pessoas que se importam com outras pessoas, que tenham brilho nos olhos e vontade de sobra para mudar o mundo. Se você acredita em um mundo onde todos tenham oportunidade de dirigir suas próprias vidas, vem ser #Kover! ♥
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolvimento de Software: Projetar, desenvolver e implementar soluções de software complexas, mantendo altos padrões de qualidade e eficiência. Isso pode incluir a escrita de código limpo e sustentável, revisão de código de colegas e integração de sistemas.Liderança Técnica: Servir como um líder técnico dentro da equipe, orientando engenheiros menos experientes, facilitando discussões técnicas e tomando decisões arquiteturais importantes.Gerenciamento de Projetos: Participar no planejamento de projetos, incluindo a estimativa de recursos, a definição de cronogramas e a identificação de riscos, garantindo a entrega oportuna e dentro do orçamento.Garantia da Qualidade: Implementar e manter padrões de qualidade para garantir a confiabilidade e a performance dos sistemas, incluindo testes automatizados e manuais.Inovação e Pesquisa: Investigar novas tecnologias e práticas de engenharia de software para melhorar continuamente os processos e produtos da equipe.Resolução de Problemas: Identificar e resolver problemas complexos de software, otimizando a performance e a escalabilidade dos sistemas.Colaboração Interdepartamental: Trabalhar em colaboração com outras equipes, como produto, design e operações, para entender os requisitos e entregar soluções que atendam ou superem as expectativas dos stakeholders.
+Desenvolvimento de Software: Projetar, desenvolver e implementar soluções de software complexas, mantendo altos padrões de qualidade e eficiência. Isso pode incluir a escrita de código limpo e sustentável, revisão de código de colegas e integração de sistemas.
+Liderança Técnica: Servir como um líder técnico dentro da equipe, orientando engenheiros menos experientes, facilitando discussões técnicas e tomando decisões arquiteturais importantes.
+Gerenciamento de Projetos: Participar no planejamento de projetos, incluindo a estimativa de recursos, a definição de cronogramas e a identificação de riscos, garantindo a entrega oportuna e dentro do orçamento.
+Garantia da Qualidade: Implementar e manter padrões de qualidade para garantir a confiabilidade e a performance dos sistemas, incluindo testes automatizados e manuais.
+Inovação e Pesquisa: Investigar novas tecnologias e práticas de engenharia de software para melhorar continuamente os processos e produtos da equipe.
+Resolução de Problemas: Identificar e resolver problemas complexos de software, otimizando a performance e a escalabilidade dos sistemas.
+Colaboração Interdepartamental: Trabalhar em colaboração com outras equipes, como produto, design e operações, para entender os requisitos e entregar soluções que atendam ou superem as expectativas dos stakeholders.
+REQUISITOS E QUALIFICAÇÕES
+Experiência Profissional: Normalmente, espera-se que um Software Engineer III tenha pelo menos 4-6 anos de experiência em desenvolvimento de software, com um histórico comprovado de entrega de projetos complexos. (Fullstack) Conhecimento Técnico: Profundo conhecimento em uma ou mais linguagens de programação (como Java, C#, Python, JavaScript), bem como experiência com bancos de dados, sistemas de controle de versão (como Git), e práticas de CI/CD (Integração Contínua e Entrega Contínua).Educação: Um grau em Ciência da Computação, Engenharia de Software, ou um campo relacionado é frequentemente requerido, embora a experiência prática relevante também possa ser considerada.Habilidades de Liderança: Capacidade de liderar pelo exemplo, mentorar engenheiros menos experientes e contribuir para o desenvolvimento da equipe.Resolução de Problemas: Habilidade excepcional de resolução de problemas e capacidade de trabalhar em ambientes desafiadores.Comunicação: Excelentes habilidades de comunicação verbal e escrita, capazes de explicar conceitos técnicos complexos a não técnicos.Adaptação e Aprendizado Contínuo: Capacidade de se adaptar rapidamente a novas tecnologias e metodologias, com um forte compromisso com o aprendizado contínuo.Experiência em Metodologias Ágeis: Familiaridade com práticas ágeis de desenvolvimento de software, como Scrum ou Kanban.
+Experiência Profissional: Normalmente, espera-se que um Software Engineer III tenha pelo menos 4-6 anos de experiência em desenvolvimento de software, com um histórico comprovado de entrega de projetos complexos. (Fullstack) 
+Fullstack) 
+Conhecimento Técnico: Profundo conhecimento em uma ou mais linguagens de programação (como Java, C#, Python, JavaScript), bem como experiência com bancos de dados, sistemas de controle de versão (como Git), e práticas de CI/CD (Integração Contínua e Entrega Contínua).
+Educação: Um grau em Ciência da Computação, Engenharia de Software, ou um campo relacionado é frequentemente requerido, embora a experiência prática relevante também possa ser considerada.
+Habilidades de Liderança: Capacidade de liderar pelo exemplo, mentorar engenheiros menos experientes e contribuir para o desenvolvimento da equipe.
+Resolução de Problemas: Habilidade excepcional de resolução de problemas e capacidade de trabalhar em ambientes desafiadores.
+Comunicação: Excelentes habilidades de comunicação verbal e escrita, capazes de explicar conceitos técnicos complexos a não técnicos.
+Adaptação e Aprendizado Contínuo: Capacidade de se adaptar rapidamente a novas tecnologias e metodologias, com um forte compromisso com o aprendizado contínuo.
+Experiência em Metodologias Ágeis: Familiaridade com práticas ágeis de desenvolvimento de software, como Scrum ou Kanban.
+INFORMAÇÕES ADICIONAIS
+O que você vai encontrar aqui:
+Seguro de Vida: Para cuidarmos do nosso bem maior: nossos Kovers.
+Plano de Saúde: É importante se cuidar e estar bem.
+Plano Odontológico: Para você dar aquele sorrisão bonito!
+Cartão Flash: Seu VR e/ou VA em um único cartão! Até porque como diz o ditado: “saco vazio não para em pé!”
+Parceria com SESC (adesão ao benefício depois de 90 dias).
+Vale-Transporte ou Vale-Combustível: A escolha de como você se move é só sua.
+Pai, mãe e filhos: Auxílio creche, licença maternidade estendida de 180 dias e licença paternidade estendida de 20 dias.
+Gympass: Todos os Kovers têm direito a se exercitar com parte do valor subsidiado pela Kovi.
+Kovenção: A reunião que a liderança da Kovi tem com a empresa inteira para que todos fiquem por dentro do status do negócio.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Etapa RH2Etapa RH
+Etapa 2: Etapa RH
+2
+Etapa RH
+Etapa 3: Etapa Gestor 3Etapa Gestor 
+Etapa 3: Etapa Gestor 
+3
+Etapa Gestor 
+Etapa 4: Contratação4Contratação
+Etapa 4: Contratação
+4
+Contratação
+SEJA UM KOVER! 🎉
+A Kovi é uma startup de mobilidade guiada por um grande propósito: criar oportunidades para que todos possam dirigir suas vidas.
+A Kovi é uma startup de mobilidade guiada por um grande propósito: criar oportunidades para que todos possam dirigir suas vidas.
+Nós queremos tornar o acesso ao carro e outras soluções de mobilidade urbana mais inclusivo, flexível e simples, através da eficiência e inovação.
+Nós queremos tornar o acesso ao carro e outras soluções de mobilidade urbana mais inclusivo, flexível e simples, através da eficiência e inovação.
+NOS ACOMPANHE PELAS NOSSAS REDES SOCIAIS:
+Website
+LinkedIn
+Facebook
+Instagram

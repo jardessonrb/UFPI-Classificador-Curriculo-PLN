@@ -1,0 +1,87 @@
+link_vaga-https://vempraot.gupy.io/job/eyJqb2JJZCI6ODAxMDUzNywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR(A) BACKEND PLENO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Desenvolver projetos personalizados de média complexidade, através de linguagens de programação, utilizando a melhor tecnologia, visando entregar o projeto ao cliente com segurança e dentro do prazo estabelecido.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolvimento de funcionalidades no BackEnd;Busca de novas ferramentas e técnicas para a melhoria contínua de nossos sistemas.Construir soluções com padrões de qualidade de código;Criar funcionalidades pensando na performance e segurança;Trabalhar de forma colaborativa com o time e outras Squad’s;Estar atualizado com novas tecnologias e ferramentas e sugerir inovações.
+Desenvolvimento de funcionalidades no BackEnd;
+Busca de novas ferramentas e técnicas para a melhoria contínua de nossos sistemas.
+Construir soluções com padrões de qualidade de código;
+Criar funcionalidades pensando na performance e segurança;
+Trabalhar de forma colaborativa com o time e outras Squad’s;
+Estar atualizado com novas tecnologias e ferramentas e sugerir inovações.
+REQUISITOS E QUALIFICAÇÕES
+PHP 8+;Framework Laravel;Experiência em criar e consumir APIs RESTful;Armazenamento de dados em MySQL (ou outros bancos relacionais) ou Mongo/DB (ou outros bancos não relacionais);Ambiente de desenvolvimento com Docker;Atenção para qualidade de código e design patterns;Versionamento de códigos utilizando Git.Organização para lidar com múltiplas tarefas, prazos e priorização.Nossa metodologia de trabalho: SCRUM.Não nos limitamos apenas a essas tecnologias, estamos a procura de melhorias constantes com uso de novas tecnologias e metodologias!
+PHP 8+;
+Framework Laravel;
+Experiência em criar e consumir APIs RESTful;
+Armazenamento de dados em MySQL (ou outros bancos relacionais) ou Mongo/DB (ou outros bancos não relacionais);
+Ambiente de desenvolvimento com Docker;
+Atenção para qualidade de código e design patterns;
+Versionamento de códigos utilizando Git.
+Organização para lidar com múltiplas tarefas, prazos e priorização.
+Nossa metodologia de trabalho: SCRUM.
+Não nos limitamos apenas a essas tecnologias, estamos a procura de melhorias constantes com uso de novas tecnologias e metodologias!
+INFORMAÇÕES ADICIONAIS
+Regime de trabalho: Híbrido (Disponibilidade para Rio de Janeiro ou São Paulo).
+Benefícios:
+Vale Refeição
+Vale Alimentação
+Seguro de Vida
+Auxílio creche
+Vale Transporte ou Vale Combustível
+Plano de Saúde e Odontológico
+PLR Semestral
+Horário flexível
+TotalPass e/ou Gympass, dentre outros!
+ 
+Venha fazer parte do time!
+ 
+A Oliveira Trust acredita na inclusão e na promoção da diversidade em todas as suas formas. Temos como valores o respeito e valorização das pessoas e combatemos qualquer tipo de discriminação. Incentivamos a todos que se identifiquem com o perfil e requisitos das vagas disponíveis que candidatem, sem qualquer distinção.
+#vempraot
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Fit cultural2Fit cultural
+Etapa 2: Fit cultural
+2
+Fit cultural
+Etapa 3: Mapeamento comportamental3Mapeamento comportamental
+Etapa 3: Mapeamento comportamental
+3
+Mapeamento comportamental
+Etapa 4: Avaliação Técnica4Avaliação Técnica
+Etapa 4: Avaliação Técnica
+4
+Avaliação Técnica
+Etapa 5: Entrevista com RH e Gestor5Entrevista com RH e Gestor
+Etapa 5: Entrevista com RH e Gestor
+5
+Entrevista com RH e Gestor
+Etapa 6: Entrevista com Diretor6Entrevista com Diretor
+Etapa 6: Entrevista com Diretor
+6
+Entrevista com Diretor
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+CONHEÇA MAIS SOBRE A OT
+Somos uma companhia pioneira no mercado de capitais, referência em soluções para administração de fundos de investimento e serviços fiduciários com mais de 30 anos de mercado, atuando como agente fiduciário em emissões de valores mobiliários, operações de securitização, administração fiduciária de fundos de investimento e na prestação de serviços qualificados aos fundos e investidores brasileiros e não residentes.Com escritório no Rio de Janeiro e em São Paulo, atingimos a marca de mais de R $1 trilhão em volume de emissões, conquistando nos últimos 3 anos o primeiro lugar no ranking Anbima de administração e custódia de FIDCs, com mais de R $57 bilhões integralizados.Prezamos por um ambiente inclusivo e diverso, pautado em tratamento de igualdade e respeito, comportamento ético, qualidade de vida no trabalho, valorização do crescimento profissional e responsabilidade social. Por isso investimos na capacitação de nossos colaboradores e concedemos benefícios incríveis. Afinal, na Oliveira Trust nosso maior ativo é você. Queremos ver o seu sucesso e, através dele, ver o nosso.Se identificou?Então, vem pra OT!
+Somos uma companhia pioneira no mercado de capitais, referência em soluções para administração de fundos de investimento e serviços fiduciários com mais de 30 anos de mercado, atuando como agente fiduciário em emissões de valores mobiliários, operações de securitização, administração fiduciária de fundos de investimento e na prestação de serviços qualificados aos fundos e investidores brasileiros e não residentes.
+Com escritório no Rio de Janeiro e em São Paulo, atingimos a marca de mais de R $1 trilhão em volume de emissões, conquistando nos últimos 3 anos o primeiro lugar no ranking Anbima de administração e custódia de FIDCs, com mais de R $57 bilhões integralizados.
+Prezamos por um ambiente inclusivo e diverso, pautado em tratamento de igualdade e respeito, comportamento ético, qualidade de vida no trabalho, valorização do crescimento profissional e responsabilidade social. Por isso investimos na capacitação de nossos colaboradores e concedemos benefícios incríveis. Afinal, na Oliveira Trust nosso maior ativo é você. Queremos ver o seu sucesso e, através dele, ver o nosso.
+Se identificou?
+

@@ -1,0 +1,51 @@
+link_vaga-https://vagas-sigilosas.gupy.io/job/eyJqb2JJZCI6NzkyNDk4NCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DADOS PLENO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Desenvolver, aprimorar a coleta de dados, organizar, analisar e interpretar dados a fim de auxiliar no processo de tomada de decisões. Buscar identificar padrões e tendências nos dados por meio do uso de técnicas estatísticas e ferramentas de análise de dados. Além disso, é responsável por criar e manter relatórios e painéis de controle que visam monitorar o desempenho e o progresso da empresa, a partir de grandes volumes de informações. Deve ser capaz de transformar esses dados em insights relevantes e estratégicos para a organização.
+RESPONSABILIDADES E ATRIBUIÇÕES
+ANÁLISE DOS RESULTADOS - Interpretar dados, analisar resultados e utilizar técnicas estatísticas, assim como contribuir com ideias e identificação de oportunidade e ameaças, a partir da geração de dados, com desdobramento da informação, sugestão de plano de ação a fim de apoiar nas estratégias do setor. / ANÁLISE E ACOMPANHAMENTO DE INDICADORES - Realizar a análise de indicadores da Diretoria de Produto e Tecnologia no intuito de propor evolução e atingimento das metas claras ao time. / ANÁLISE E COLETA DE DADOS - Desenvolver e implementar análises de dados, sistemas de coleta de dados e outras estratégias que otimizem a eficiência e a qualidade estatística. / CRIAÇÃO DE RELATÓRIOS - Produzir e sustentar relatórios a partir das ferramentas disponibilizadas pela empresa, a fim de melhorar a coleta de dados em forma sistêmica, assim como a atualização delas, mantendo as informações uma representação da realidade do setor. / DATA FIRST - Promoção da cultura de “data first” na Diretoria de Produtos Educacionais e Tecnologia a fim de incentivar o uso de dados confiáveis e fidedignos para a toma de decisões nos squads da área, adotando postura questionadora, e auxiliando a tomada de decisões dos cargos de liderança. / OTIMIZAÇÃO DOS PROCESSOS DA DIRETORIA DE PRODUTO E TECNOLOGIA - Apoiar na otimização e identificação dos problemas e oportunidades dos processos da Diretoria de Produto e Tecnologia a fim de melhorar o andamento das atividades e trazer valor para o produto.
+REQUISITOS E QUALIFICAÇÕES
+Experiência - Pelo menos 2-4 anos de experiência em análise de dados ou campo relacionado.;Experiência prática com ferramentas e linguagens de programação relevantes, como Python, R, SQL, ou outras ferramentas estatísticas.;• Fortes habilidades em manipulação e análise de dados.;• Experiência avançada em Excel.;• Conhecimento avançado em ferramentas de warehousing e visualização de dados, como Power BI ou matplotlib/seaborn em Python.;• Experiência em bancos de dados SQL e capacidade de escrever consultas complexas.;• Capacidade de interpretar dados e extrair insights significativos.;• Análise exploratória de dados (EDA) e modelagem estatística.;• Resolução de problemas analíticos complexos.;• Familiaridade com ferramentas de data integration como Pentaho.;• Experiência em ambientes de computação em nuvem (especialmente Azure).; / Formação Acadêmica - Superior completo em Estatística, Ciências da Informação ou Superior em Tecnologia em Big Data e Data Science, Engenharia de Computação, Engenharia de Software, Ciência da Computação e áreas afins. / Habilidades e competências técnicas - Habilidades e Competências: Inovação, resolução de conflitos, analítico, trabalho em equipe, comunicação, agilidade, sistematização/apresentação de informações
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Prova3Prova
+Etapa 3: Prova
+3
+Prova
+Etapa 4: Avaliação Comportamental4Avaliação Comportamental
+Etapa 4: Avaliação Comportamental
+4
+Avaliação Comportamental
+Etapa 5: Entrevista Gestor5Entrevista Gestor
+Etapa 5: Entrevista Gestor
+5
+Entrevista Gestor
+Etapa 6: Entrevista Diretoria6Entrevista Diretoria
+Etapa 6: Entrevista Diretoria
+6
+Entrevista Diretoria
+Etapa 7: Dados pré-contratação7Dados pré-contratação
+Etapa 7: Dados pré-contratação
+7
+Dados pré-contratação
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação

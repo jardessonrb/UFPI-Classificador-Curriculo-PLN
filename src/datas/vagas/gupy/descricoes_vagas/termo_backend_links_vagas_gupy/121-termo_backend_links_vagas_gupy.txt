@@ -1,0 +1,102 @@
+link_vaga-https://gertec.gupy.io/job/eyJqb2JJZCI6NzEzMjEwNSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA- ANALISTA DE DESENVOLVIMENTO DE SOFTWARE III ( BACKEND .NET)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+São as diferenças entre cada pessoa que passa pela Gertec que nos torna ainda melhores. Temos muito orgulho de ser uma empresa 100% nacional e referência em soluções tecnológicas que melhoram a experiência de consumo. Atuando sempre com excelência, prestatividade e proximidade com os nossos clientes, colaboradores e toda a sociedade.
+Se você é uma pessoa movida por resultados e que busca fazer a diferença, iremos adorar ter você aqui com a gente impulsionando negócios.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Responsabilidades:
+Desenvolver e manter aplicativos e serviços backend utilizando a plataforma .NET
+Colaborar com a equipe de desenvolvimento para projetar arquiteturas escaláveis e de alto desempenho
+Integrar sistemas e serviços de terceiros através de APIs
+Otimizar a performance e a eficiência dos aplicativos
+Realizar testes unitários e integrados para garantir a qualidade do código
+Participar ativamente de revisões de código e contribuir para a melhoria contínua dos processos de desenvolvimento
+Participar ativamente do processo de design e revisão de arquiteturas de sistemas
+Documentar o código e os processos de desenvolvimento
+Diferenciais:
+Experiência com microservices e arquiteturas distribuídas
+Conhecimento em ferramentas de automação de build e deploy (ex: Jenkins, Docker)
+Certificações em tecnologias .NET e AWS
+REQUISITOS E QUALIFICAÇÕES
+Requisitos:
+Experiência sólida em desenvolvimento backend utilizando a plataforma .NET (C#, ASP.NET, .NET Core)
+Profundo conhecimento em arquitetura de sistemas, padrões de design e práticas de desenvolvimento ágil
+Expertise em design de APIs RESTful e integração de sistemas distribuídos
+Experiência comprovada em liderança técnica, gerenciamento de projetos e coaching de equipe
+Domínio de bancos de dados relacionais e não-relacionais (SQL Server, MySQL, MongoDB, etc.)
+Experiência em ambientes de produção de alta disponibilidade e escalabilidade
+Excelentes habilidades de comunicação e capacidade de trabalhar em equipe
+Desejável conhecimento em serviços da AWS (Amazon Web Services) como EC2, S3, RDS, Lambda, etc.
+Escolaridade: Graduação Completa em Sistemas de Informação, Gestão de Redes, Ciências da Computação, Engenharia da Computação, Análise de Sistemas ou cursos afins. Desejável Pós Graduação na área.
+
+ 
+INFORMAÇÕES ADICIONAIS
+Oportunidade de trabalhar em uma empresa tecnológica; Possibilidade de trabalhar com excelentes profissionais; Ações em datas comemorativas;Refeitório;Vale Alimentação;Seguro de vida;Rota;Assistência médica;Assistência odontológica;Participação nos Lucros e Resultados;Ginastica Laboral;PDE&IA Gertec não discrimina por motivos de raça, religião, cor, sexo, idade, deficiência não incapacitante para a função, nacionalidade, orientação sexual, identidade ou expressão de gênero, ou por nenhum outro motivo proibido pela legislação local. Essa oportunidade é extensiva a todas as pessoas com deficiência. Solicitamos que seja descrito no currículo o tipo de deficiência, bem como se requer algum recurso especial para desenvolver seu trabalho.
+Oportunidade de trabalhar em uma empresa tecnológica; 
+Possibilidade de trabalhar com excelentes profissionais; 
+Ações em datas comemorativas;
+Refeitório;
+Vale Alimentação;
+Seguro de vida;
+Rota;
+Assistência médica;
+Assistência odontológica;
+Participação nos Lucros e Resultados;
+Ginastica Laboral;
+PDE&I
+A Gertec não discrimina por motivos de raça, religião, cor, sexo, idade, deficiência não incapacitante para a função, nacionalidade, orientação sexual, identidade ou expressão de gênero, ou por nenhum outro motivo proibido pela legislação local. Essa oportunidade é extensiva a todas as pessoas com deficiência. Solicitamos que seja descrito no currículo o tipo de deficiência, bem como se requer algum recurso especial para desenvolver seu trabalho.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Redação CLT2Redação CLT
+Etapa 2: Redação CLT
+2
+Redação CLT
+Etapa 3: Mapeamento do Perfil3Mapeamento do Perfil
+Etapa 3: Mapeamento do Perfil
+3
+Mapeamento do Perfil
+Etapa 4: Entrevista com o RH4Entrevista com o RH
+Etapa 4: Entrevista com o RH
+4
+Entrevista com o RH
+Etapa 5: Teste de conhecimento técnico5Teste de conhecimento técnico
+Etapa 5: Teste de conhecimento técnico
+5
+Teste de conhecimento técnico
+Etapa 6: Entrevista com Gestor6Entrevista com Gestor
+Etapa 6: Entrevista com Gestor
+6
+Entrevista com Gestor
+Etapa 7: Carta Oferta7Carta Oferta
+Etapa 7: Carta Oferta
+7
+Carta Oferta
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+HÁ MAIS DE 30 ANOS MELHORANDO EXPERIÊNCIAS DE CONSUMO ATRAVÉS DE SOLUÇÕES EM TECNOLOGIA.
+Desenvolvemos soluções de ponta para meios de pagamento, automação comercial e bancária, soluções de pesquisa e fiscais, além de plataformas de gerenciamento. Estamos presentes nas principais instituições financeiras e em todo o varejo, no Brasil e no exterior.
+Desenvolvemos soluções de ponta para meios de pagamento, automação comercial e bancária, soluções de pesquisa e fiscais, além de plataformas de gerenciamento. Estamos presentes nas principais instituições financeiras e em todo o varejo, no Brasil e no exterior.
+São as diferenças entre cada pessoa que passa pela Gertec que nos torna ainda melhores. Temos muito orgulho de ser uma empresa 100% nacional e referência em soluções tecnológicas que melhoram a experiência de consumo. Atuando sempre com excelência, prestatividade e proximidade com os nossos clientes, colaboradores e toda a sociedade.
+São as diferenças entre cada pessoa que passa pela Gertec que nos torna ainda melhores. Temos muito orgulho de ser uma empresa 100% nacional e referência em soluções tecnológicas que melhoram a experiência de consumo. Atuando sempre com excelência, prestatividade e proximidade com os nossos clientes, colaboradores e toda a sociedade.
+Se você é uma pessoa movida por resultados e que busca fazer a diferença, iremos adorar ter você aqui com a gente impulsionando negócios.
+Se você é uma pessoa movida por resultados e que busca fazer a diferença, iremos adorar ter você aqui com a gente impulsionando negócios.
+SAIBA MAIS SOBRE A GERTEC
+Website
+LinkedIn
+Facebook
+Instagram

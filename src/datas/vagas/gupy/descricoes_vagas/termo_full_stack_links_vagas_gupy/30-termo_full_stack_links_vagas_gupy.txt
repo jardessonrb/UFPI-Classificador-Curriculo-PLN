@@ -1,0 +1,100 @@
+link_vaga-https://tania-bulhoes.gupy.io/job/eyJqb2JJZCI6Nzc1Mjk5MSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR FULL STACK SENIOR | SQUAD ECOMMERCE
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+DESCRIÇÃO DA VAGA
+Sobre o time de Digital
+Faça parte da Squad Ecommerce, onde você terá a oportunidade de construir experiências excepcionais que impactam diretamente os canais do ecommerce e vendas digitais da empresa. 
+Faça parte da Squad Ecommerce, onde você terá a oportunidade de construir experiências excepcionais que impactam diretamente os canais do ecommerce e vendas digitais da empresa. 
+Sobre a vaga
+Desenvolvedor(a) ficará responsável pelas atualizações e definições tecnológicas nos nossos sites, ajudando o time nas decisões técnicas. Garantindo que o código desenvolvido interna e externamente esteja bem documentado. Então se você é um desenvolvedor talentoso e apaixonado por tecnologia, com experiência em React e Node.js, e busca por um desafio estimulante em uma empresa inovadora, então esta posição é para você! Junte-se a nós e faça parte de uma equipe dinâmica e dedicada, onde você terá a oportunidade de contribuir para o desenvolvimento de soluções de software de ponta e impactar positivamente a vida das pessoas através da tecnologia.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver e implementar soluções de software utilizando React e Node, garantindo a sua eficiência, escalabilidade e manutenibilidade;Colaborar de forma ativa e efetiva com a equipe de desenvolvimento para projetar e implementar recursos e funcionalidades, utilizando as melhores práticas e padrões de desenvolvimento;Realizar testes e depurar o software desenvolvido, garantindo a qualidade do código e a identificação e correção de possíveis erros ou bugs;Participar de discussões técnicas e contribuir para a tomada de decisões relacionadas à arquitetura e tecnologias utilizadas no desenvolvimento dos projetos;Desenvolver novas interfaces gráficas;Garantir otimizações de performance de ferramentas existentes;Realizar integrações de sistemas;Garantir consultas a APIs (Interface de Programação de Aplicativos);Garantir o uso de melhores práticas para o desenvolvimento do front-end dos nossos sites;Garantir que o código desenvolvido interna e externamente esteja bem documentado.
+Desenvolver e implementar soluções de software utilizando React e Node, garantindo a sua eficiência, escalabilidade e manutenibilidade;
+Colaborar de forma ativa e efetiva com a equipe de desenvolvimento para projetar e implementar recursos e funcionalidades, utilizando as melhores práticas e padrões de desenvolvimento;
+Realizar testes e depurar o software desenvolvido, garantindo a qualidade do código e a identificação e correção de possíveis erros ou bugs;
+Participar de discussões técnicas e contribuir para a tomada de decisões relacionadas à arquitetura e tecnologias utilizadas no desenvolvimento dos projetos;
+Desenvolver novas interfaces gráficas;
+Garantir otimizações de performance de ferramentas existentes;
+Realizar integrações de sistemas;
+Garantir consultas a APIs (Interface de Programação de Aplicativos);
+Garantir o uso de melhores práticas para o desenvolvimento do front-end dos nossos sites;
+Garantir que o código desenvolvido interna e externamente esteja bem documentado.
+REQUISITOS E QUALIFICAÇÕES
+Proficiência de Javascript e Typescript (Obrigatório);Experiência comprovada em desenvolvimento utilizando React(ReactJs/NextJs) e Node(Node.js/NestJs), com a capacidade de criar aplicações web de alta qualidade e escaláveis (Obrigatório);Experiência em integração de API VTEX (catalog, intelligent search, checkout, payments), Headless (Obrigatório)Conhecimento em API (Rest e GraphQL)Familiaridade com arquitetura de Microserviços e Microfrontend são um diferencial;Conhecimento Git (Obrigatório)Conhecimento em Next.js, demonstrando a capacidade de desenvolver aplicações web de forma eficiente e otimizada;Conhecimento em observabilidade de Frontend.Será considerado um diferencial se você tiver:Conhecimento em boas práticas de performance web;Experiência com a implementação de soluções de caching utilizando Redis;Experiência com a implementação de soluções utilizando DynamoDB e MongoDB.
+Proficiência de Javascript e Typescript (Obrigatório);
+Experiência comprovada em desenvolvimento utilizando React(ReactJs/NextJs) e Node(Node.js/NestJs), com a capacidade de criar aplicações web de alta qualidade e escaláveis (Obrigatório);
+Experiência em integração de API VTEX (catalog, intelligent search, checkout, payments), Headless (Obrigatório)
+Conhecimento em API (Rest e GraphQL)
+Familiaridade com arquitetura de Microserviços e Microfrontend são um diferencial;
+Conhecimento Git (Obrigatório)
+Conhecimento em Next.js, demonstrando a capacidade de desenvolver aplicações web de forma eficiente e otimizada;
+Conhecimento em observabilidade de Frontend.
+Será considerado um diferencial se você tiver:
+Conhecimento em boas práticas de performance web;
+Experiência com a implementação de soluções de caching utilizando Redis;
+Experiência com a implementação de soluções utilizando DynamoDB e MongoDB.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Teste Comportamental3Teste Comportamental
+Etapa 3: Teste Comportamental
+3
+Teste Comportamental
+Etapa 4: Teste Técnico4Teste Técnico
+Etapa 4: Teste Técnico
+4
+Teste Técnico
+Etapa 5: Entrevista com Gestão5Entrevista com Gestão
+Etapa 5: Entrevista com Gestão
+5
+Entrevista com Gestão
+Etapa 6: Entrevista com C-Level6Entrevista com C-Level
+Etapa 6: Entrevista com C-Level
+6
+Entrevista com C-Level
+Etapa 7: Entrevista com RH7Entrevista com RH
+Etapa 7: Entrevista com RH
+7
+Entrevista com RH
+Etapa 8: Carta Oferta8Carta Oferta
+Etapa 8: Carta Oferta
+8
+Carta Oferta
+Etapa 9: Contratação9Contratação
+Etapa 9: Contratação
+9
+Contratação
+FAÇA PARTE DA TANIA BULHÕES
+Sobre a Tania Bulhões
+Com mais de 30 anos de mercado, somos uma marca genuinamente brasileira especializada em produtos autorais dos segmentos de tableware, perfumaria e bem-estar. A singularidade do Brasil e a delicadeza da natureza estão sempre presentes em nossas criações - seja em porcelanas pintadas à mão ou em fragrâncias que despertam explosões olfativas.
+Como é trabalhar na Tania Bulhões
+Nosso ambiente de trabalho é dinâmico. Experiência, aprendizado e inovação acontecem a todo momento. Estamos em plena expansão, presentes em quase todos os estados do país e com operação internacional baseada em Miami.
+No início de 2022, firmamos uma parceria com o fundo de private equity Treecorp, que passou a ser sócio minoritário da empresa. Um importante passo rumo ao objetivo de aumentar a participação das verticais de fragrância e cuidados com a pele dentro da marca, investindo ainda mais em comunicação e no desenvolvimento de novos produtos.
+Nossos Benefícios
+Vale Transporte;
+Seguro de Vida;
+Vale Refeição;
+Assistência Médica;
+Assistência Odontológica;
+Subsídio 50% em aulas de idioma com uma escola parceira;
+Desconto nos produtos Tania Bulhões;
+Day off de aniversário.
+Quer crescer com a gente? Confira as oportunidades disponíveis, e conheça também nossa página de carreiras para a divisão internacional da Tania Bulhões: taniab.gupy.io
+ 
+CONHEÇA MAIS SOBRE NÓS POR MEIO DAS NOSSAS REDES SOCIAIS:
+Website
+LinkedIn
+Facebook
+Instagram

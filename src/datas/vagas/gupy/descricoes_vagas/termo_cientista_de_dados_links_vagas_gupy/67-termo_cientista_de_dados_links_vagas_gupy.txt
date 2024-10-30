@@ -1,0 +1,112 @@
+link_vaga-https://hyperapharma.gupy.io/job/eyJqb2JJZCI6NzYwNjIxNCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA CIENTISTA DE DADOS
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Buscamos talentos que possam transformar possibilidades em realidade, que contribuam para nos manter como a melhor e mais completa empresa farmacêutica brasileira, participando da vida das pessoas para que elas vivam mais e melhor. 
+Essa oportunidade está aberta à candidatura de todas as pessoas, independentemente de orientação sexual, acessibilidade social ou de qualquer outro fator.
+Todas as nossas vagas estão abertas para Pessoas com Deficiência (PCD's).
+Você não se identificou com essa vaga? Não se preocupe! Você ainda pode fazer parte do nosso time! Inscreva-se no nosso banco de talentos e assim que surgir uma oportunidade que tenha mais a ver com você, nós entraremos em contato!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Analisar técnicas estatísticas e matemáticas para interpretar dados e criar modelos preditivos, incluindo probabilidade, regressão, testes de hipóteses e análise multivariada;Programar em Python ou SQL para manipular e analisar grandes volumes de dados, utilizando bibliotecas e frameworks como pandas, NumPy, Scikit-learn e TensorFlow;Comunicar insights de forma clara e eficaz para stakeholders através de visualizações de dados, empregando ferramentas como Power BI e bibliotecas em Python (matplotlib, seaborn) para transformar dados complexos em histórias compreensíveis.
+Analisar técnicas estatísticas e matemáticas para interpretar dados e criar modelos preditivos, incluindo probabilidade, regressão, testes de hipóteses e análise multivariada;
+Programar em Python ou SQL para manipular e analisar grandes volumes de dados, utilizando bibliotecas e frameworks como pandas, NumPy, Scikit-learn e TensorFlow;
+Comunicar insights de forma clara e eficaz para stakeholders através de visualizações de dados, empregando ferramentas como Power BI e bibliotecas em Python (matplotlib, seaborn) para transformar dados complexos em histórias compreensíveis.
+REQUISITOS E QUALIFICAÇÕES
+Ensino Superior Completo em Matemática, Estatística, Ciência da Computação e áreas relacionadas;Experiência com pipelines de dados, incluindo a implementação, manutenção e otimização de processos de extração, transformação e carga (ETL);Habilidade em projetar e configurar pipelines de dados robustos, garantir a integridade e a qualidade dos dados, e realizar tratamentos de dados complexos para atender às necessidades do negócio;Conhecimentos em bibliotecas e frameworks para ciência de dados, como pandas, NumPy, Scikit-learn e TensorFlow será considerado um grande diferencial;Necessário disponibilidade para atuar em formato presencial; 
+Ensino Superior Completo em Matemática, Estatística, Ciência da Computação e áreas relacionadas;
+Experiência com pipelines de dados, incluindo a implementação, manutenção e otimização de processos de extração, transformação e carga (ETL);
+Habilidade em projetar e configurar pipelines de dados robustos, garantir a integridade e a qualidade dos dados, e realizar tratamentos de dados complexos para atender às necessidades do negócio;
+Conhecimentos em bibliotecas e frameworks para ciência de dados, como pandas, NumPy, Scikit-learn e TensorFlow será considerado um grande diferencial;
+Necessário disponibilidade para atuar em formato presencial; 
+INFORMAÇÕES ADICIONAIS
+Principais Benefícios:Assistência médica;Assistência odontológica;Seguro de vida;Vale refeição ou refeitório (a depender da unidade);Vale Alimentação;Vale transporte, fretado ou estacionamento (a depender da unidade); Wellhub;Farmácia interna - Medicamentos da empresa sem custo extensiva a cônjuge e filhos (a depender da unidade);Programa Nova Vida Tem Valor (Telemedicina, kit maternidade, cursos, isenção coparticipação durante a gestação e pós nascimento, entre outros);Espaço Saúde - atendimento médico assistencial (a depender da unidade);PPR / Bônus (a depender da unidade);Clube de Vantagens Tem Valor: Plataforma e-commerce com diversas empresas parceiras que concedem produtos e serviços com descontos exclusivos diferenciados;Lojinha Tem Valor (e-commerce com até 40% desconto em nossos produtos de dermocosméticos e vitaminas);Saúde Financeira Tem Valor (programa confidencial e gratuito com ferramentas e informações sobre Educação Financeira feita por uma Consultoria especializada) que dará suporte desde a elaboração do orçamento familiar até buscar renegociação de dívidas ou informações sobre investimentos);Telemedicina com atendimento humanizado e gratuito 24h por dia, 7 dias por semana; Auxilio Creche (a depender da unidade e da política interna);Obs.: Esta oportunidade aceita candidatura interna.Vaga publicada em: 19/08/2024Período de inscrições internas: até 26/08/2024
+
+Assistência médica;
+Assistência odontológica;
+Seguro de vida;
+Vale refeição ou refeitório (a depender da unidade);
+Vale Alimentação;
+Vale transporte, fretado ou estacionamento (a depender da unidade);
+ Wellhub;
+ Wellhub
+Farmácia interna - Medicamentos da empresa sem custo extensiva a cônjuge e filhos (a depender da unidade);
+Programa Nova Vida Tem Valor (Telemedicina, kit maternidade, cursos, isenção coparticipação durante a gestação e pós nascimento, entre outros);
+Espaço Saúde - atendimento médico assistencial (a depender da unidade);
+PPR / Bônus (a depender da unidade);
+Clube de Vantagens Tem Valor: Plataforma e-commerce com diversas empresas parceiras que concedem produtos e serviços com descontos exclusivos diferenciados;
+Lojinha Tem Valor (e-commerce com até 40% desconto em nossos produtos de dermocosméticos e vitaminas);
+Saúde Financeira Tem Valor (programa confidencial e gratuito com ferramentas e informações sobre Educação Financeira feita por uma Consultoria especializada) que dará suporte desde a elaboração do orçamento familiar até buscar renegociação de dívidas ou informações sobre investimentos);
+Telemedicina com atendimento humanizado e gratuito 24h por dia, 7 dias por semana;
+ Auxilio Creche (a depender da unidade e da política interna);
+Obs.: Esta oportunidade aceita candidatura interna.
+Vaga publicada em: 19/08/2024
+Período de inscrições internas: até 26/08/2024
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: UP! Atração Interna (candidatos internos)2UP! Atração Interna (candidatos internos)
+Etapa 2: UP! Atração Interna (candidatos internos)
+2
+UP! Atração Interna (candidatos internos)
+Etapa 3: Entrevista com Gente e Gestão 3Entrevista com Gente e Gestão 
+Etapa 3: Entrevista com Gente e Gestão 
+3
+Entrevista com Gente e Gestão 
+Etapa 4: Entrevista com Gestor4Entrevista com Gestor
+Etapa 4: Entrevista com Gestor
+4
+Entrevista com Gestor
+Etapa 5: Compliance Individual5Compliance Individual
+Etapa 5: Compliance Individual
+5
+Compliance Individual
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+SOMOS A HYPERA PHARMA, UMA GIGANTE NO MERCADO FARMACÊUTICO BRASILEIRO!
+A Hypera Pharma é uma das maiores empresas farmacêuticas do Brasil e está presente em todos os segmentos relevantes do setor. Com posição de liderança em diversas categorias, oferece produtos de alta qualidade e segurança, investindo continuamente em inovação e crescendo de forma sustentável, para que as pessoas vivam mais e melhor.
+ 
+Com visão de futuro e inovação, a Hypera Pharma conta com um dos maiores e mais modernos centros de pesquisa farmacêutica do Brasil, na estrutura de sua subsidiária Brainfarma. O centro abriga uma equipe de profissionais altamente qualificados, incluindo mestres e doutores, para o desenvolvimento de medicamentos, dermocosméticos e produtos para a saúde, utilizando tecnologia de ponta para ser pioneira no lançamento de novos tratamentos no Brasil.
+ 
+Sediada em São Paulo e listada no Novo Mercado da BM&FBovespa desde 2008, a Hypera Pharma reúne um time de mais de 3,4 mil colaboradores.
+ 
+ 
+CONSUMER HEALTH
+Líder no mercado de medicamentos de isentos de prescrição, com marcas ícones reconhecidas pelos brasileiros há décadas, incluindo Apracur, Benegrip, Coristina D, Engov, Epocler, Estomazil, dentre outras.
+A unidade atua também nos segmentos de nutricionais e suplementos vitamínicos, com marcas como Tamarine, Vitasay, Biotônico Fontoura e Zero-Cal, marca Top of Mind por 20 anos consecutivos. É uma das maiores investidoras de mídia do Brasil, com dezenas de campanhas publicitárias a cada ano em meios tradicionais e digitais.
+ 
+ 
+PRODUTOS DE PRESCRIÇÃO
+A Mantecorp Farmasa se consolidou entre as marcas líderes do mercado farmacêutico brasileiro, com um portfólio diversificado de produtos e apresentações no segmento de Primary Care. Possui medicamentos altamente reconhecidos e recomendados pela comunidade médica, com marcas ícones como Addera D3, Alektos, Dramin, Nesina, Predsim, Masxulid, Celestamie, em sua linha RX, e Alivium, Colflex, Rinosoro, Ofolato (na linha OTX).
+Combina inovação com foco na comunidade médica em diversas especialidades terapêuticas, para garantir novas opções de tratamento para que os brasileiros vivam mais e melhor, e é reconhecida por meio uma rede de mais de mil representantes médicos em todo o Brasil.
+ 
+SIMILARES E GENÉRICOS
+Ao longo de mais de 60 anos de história, a Neo Química se consolidou como uma das principais marcas de medicamentos do setor farmacêutico brasileiro. Em seu portfólio de mais de 400 produtos, entre genéricos e similares, figuram alguns dos medicamentos mais vendidos do Brasil¹, estando presentes em mais de 96% das farmácias do país². Em 2019, a marca apresentou uma nova identidade e um novo posicionamento - "A sua saúde é a nossa vocação". Desta forma, firmou seu propósito de ajudar a garantir o direito à saúde de todo o brasileiro. A marca entende que para isso, é preciso fazer mais do que medicamentos, promovendo relações potentes que auxiliem, acelerem e potencializem a saúde no Brasil.
+ Neo Química acredita no esporte como forma de promoção da saúde e bem-estar e investe consistentemente para apoiar equipes e projetos esportivos.
+ 
+ 
+ 
+SKINCARE
+Com mais de 40 anos de história no mercado de Skincare, a Mantecorp Skincare entende as necessidades da pele brasileira e desenvolve produtos com eficácia comprovada e experiência sensorial única, com função de proteger, recuperar e melhorar a saúde da pele. A marca conta com mais de 50 produtos e diversos projetos em desenvolvimento. Assim, firma-se no DNA da dermatologia nacional pelo compromisso com comprovações científicas por meio dos mais avançados testes e estudos clínicos, garantindo eficácia e segurança de seus produtos e levando confiabilidade para pacientes, consumidores e comunidade médica.
+Adquirida pela Hypera Pharma, a Simple Organic passou a fazer parte do nosso portfólio em 2020 . É uma marca de cosméticos naturais, orgânicos e veganos, livre de crueldade animal e para todos os gêneros, que conquistou o mercado com inovações em fórmulas 100% limpas. Mais recentemente, a Companhia também adquiriu a Bioage, líder em dermocosméticos de alta performance para uso profissional e home care, reforçando o objetivo de fortalecer nossa presença no mercado brasileiro de Skincare por meio de produtos e marcas inovadoras.
+ 
+ 
+ MERCADO INSTITUCIONAL 
+ 
+Em 2021, a Hypera Pharma passou a atuar também no Mercado Farmacêutico Institucional, que compreende o Sistema Público de Saúde, além de clínicas e hospitais privados. A equipe conta com profissionais experientes, e a Companhia já mapeou um pipeline de inovação para lançamento de mais de 70 moléculas nos próximos anos em Oncologia, Especialidades e Biológicos, em complemento à sua atuação por meio da joint-venture Bionovis.
+CONHEÇA MAIS SOBRE NÓS!
+Website
+LinkedIn
+Instagram

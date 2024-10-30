@@ -1,0 +1,138 @@
+link_vaga-https://contabilizei.gupy.io/job/eyJqb2JJZCI6Nzg1MzM5NSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE DADOS PLENO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+A sua missão:
+Somos um time de dados composto por profissionais especialistas em engenharia e plataforma de dados, analytics, ciência de dados e machine learning, comprometida em utilizar tecnologia de ponta para impulsionar soluções inovadoras e apoiar o negócio. 
+Somos um time de dados composto por profissionais especialistas em engenharia e plataforma de dados, analytics, ciência de dados e machine learning, comprometida em utilizar tecnologia de ponta para impulsionar soluções inovadoras e apoiar o negócio. 
+Somos apaixonados por transformar dados em insights acionáveis e trabalhamos na construção e otimização de plataformas de dados e analytics, potencializando a cultura data driven.
+Somos apaixonados por transformar dados em insights acionáveis e trabalhamos na construção e otimização de plataformas de dados e analytics, potencializando a cultura data driven.
+Como parte da nossa equipe de análise de dados, sua missão será transformar dados em insights acionáveis que impulsionem a tomada de decisões estratégicas e orientem o crescimento sustentável da empresa. Estamos comprometidos em utilizar técnicas de análise de dados e tecnologias inovadoras para desbloquear o potencial dos dados, fornecendo assim soluções valiosas para desafios complexos de negócios. Nós capacitamos todas as áreas da empresa, desde o desenvolvimento de produtos até o atendimento ao cliente, com informações fundamentadas e análises perspicazes que promovem a excelência operacional e impulsionam o sucesso do negócio. 
+Como parte da nossa equipe de análise de dados, sua missão será transformar dados em insights acionáveis que impulsionem a tomada de decisões estratégicas e orientem o crescimento sustentável da empresa. Estamos comprometidos em utilizar técnicas de análise de dados e tecnologias inovadoras para desbloquear o potencial dos dados, fornecendo assim soluções valiosas para desafios complexos de negócios. Nós capacitamos todas as áreas da empresa, desde o desenvolvimento de produtos até o atendimento ao cliente, com informações fundamentadas e análises perspicazes que promovem a excelência operacional e impulsionam o sucesso do negócio. 
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+Como será o seu dia a dia:
+Refinar, entender e traduzir os problemas de negócio em soluções de dados;
+Refinar, entender e traduzir os problemas de negócio em soluções de dados;
+Identificar novas oportunidades de produto e oferecer suporte analítico estratégico para as áreas de negócio.
+Identificar novas oportunidades de produto e oferecer suporte analítico estratégico para as áreas de negócio.
+Desenvolver novos produtos de dados usando ferramentas da nossa stack, de acordo com as necessidades de negócio;
+Desenvolver novos produtos de dados usando ferramentas da nossa stack, de acordo com as necessidades de negócio;
+Manter e dar suporte aos produtos e análises existentes;
+Manter e dar suporte aos produtos e análises existentes;
+Participar ativamente do desenvolvimento e implementação de soluções nas áreas de negócio.
+Participar ativamente do desenvolvimento e implementação de soluções nas áreas de negócio.
+Modelar produtos de dados de acordo com as melhores práticas de desenvolvimento;
+Modelar produtos de dados de acordo com as melhores práticas de desenvolvimento;
+Apoiar em processos de melhoria contínua e eficiência operacional utilizando dados.
+Apoiar em processos de melhoria contínua e eficiência operacional utilizando dados.
+Fomentar a cultura data driven nos times de negócio, oferecendo orientação, suporte e treinamento em tópicos relacionados a dados.
+Fomentar a cultura data driven nos times de negócio, oferecendo orientação, suporte e treinamento em tópicos relacionados a dados.
+Realizar governança de dados.
+Realizar governança de dados.
+Manter constante alinhamento com stakeholders de negócio
+Manter constante alinhamento com stakeholders de negócio
+Participar ativamente na jornada da área de negócio, levando uma visão analítica a todos os processos.
+Participar ativamente na jornada da área de negócio, levando uma visão analítica a todos os processos.
+Manipulação e extração de conjuntos de dados complexos.
+Manipulação e extração de conjuntos de dados complexos.
+REQUISITOS E QUALIFICAÇÕES
+O que buscamos:
+Superior completo em Tecnologia da informação, Estatística, Economia, Matemática e áreas correlatas;
+Tecnologia da informação, Estatística, Economia, Matemática e áreas correlatas;
+Experiência em análise de dados e geração de insights que direcionam a tomada de decisão;
+Experiência em análise de dados e geração de insights que direcionam a tomada de decisão;
+Habilidades analíticas e capacidade de transformar dados em informações relevantes para o negócio;
+Habilidades analíticas e capacidade de transformar dados em informações relevantes para o negócio;
+Conhecimento de SQL e desenvolvimento para extração de dados;
+Conhecimento de SQL e desenvolvimento para extração de dados;
+Experiência em linguagens de programação Python;
+Experiência em linguagens de programação Python;
+Experiência com ferramentas de visualização de dados;
+Experiência com ferramentas de visualização de dados;
+Conhecimentos em ferramentas de dados como DBT, Spark e Airflow;
+Conhecimentos em ferramentas de dados como DBT, Spark e Airflow;
+Conhecimento em ambiente Cloud (Google Cloud Platform).
+Conhecimento em ambiente Cloud (Google Cloud Platform).
+INFORMAÇÕES ADICIONAIS
+Benefícios:
+Plano de Saúde;
+Plano Dental;
+Psicoterapia Online;
+Gympass;
+Seguro de Vida;
+Vale Alimentação e Vale Refeição (VA/VR);
+Parcerias de Desconto (Universidade e Escolas de Idiomas);
+Despreocupe-se - Seguros Diversos;
+No dress code;
+Remoto. 
+ 
+#VEMPRACONTABILIZEI 💙
+
+Cultura e Desenvolvimento = Construímos Juntos e Juntas 🚀
+
+Acreditando que o sucesso de pessoas empreendedoras é o nosso sucesso, Guardiões e Guardiãs de nossa cultura constroem todos os dias o melhor lugar para se trabalhar. Crescendo com a Contabilizei e contando suas próprias histórias!
+Buscar ser 1% melhor todos os dias é um valor importante no foguete. Um dos pilares para o encorajamento ao protagonismo dos nossos Guardiões e Guardiãs é feito através do Ciclo de Performance, com possibilidades de Carreira em Y, Cultura de Feedback (1:1) e ferramentas que ajudam entender oportunidades de desenvolvimento e evolução constante de nossos valores.
+É importante que saiba, você pode ser quem é! Estamos conscientizando e construindo um ambiente psicologicamente seguro com iniciativas de Diversidade e Inclusão. Somos verdadeiros(as) e acreditamos que essa seja uma responsabilidade de todos os Guardiões e Guardiãs! Todas as nossas oportunidades estão abertas para pessoas diversas em identidade de gênero, cor e etnia, orientação sexual, origem, pessoas com deficiência (PcD), e todas as interseccionalidades possíveis.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Jogo C.onecta2Jogo C.onecta
+Etapa 2: Jogo C.onecta
+2
+Jogo C.onecta
+Etapa 3: Vamos ligar para você 3Vamos ligar para você 
+Etapa 3: Vamos ligar para você 
+3
+Vamos ligar para você 
+Etapa 4: Assessment Comportamental - PDA4Assessment Comportamental - PDA
+Etapa 4: Assessment Comportamental - PDA
+4
+Assessment Comportamental - PDA
+Etapa 5: Entrevista com Atração e Seleção5Entrevista com Atração e Seleção
+Etapa 5: Entrevista com Atração e Seleção
+5
+Entrevista com Atração e Seleção
+Etapa 6: Vamos conhecer suas habilidades técnicas6Vamos conhecer suas habilidades técnicas
+Etapa 6: Vamos conhecer suas habilidades técnicas
+6
+Vamos conhecer suas habilidades técnicas
+Etapa 7: Entrevista com a Liderança7Entrevista com a Liderança
+Etapa 7: Entrevista com a Liderança
+7
+Entrevista com a Liderança
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+VEM SIMPLIFICAR  A VIDA DE QUEM EMPREENDE COM A GENTE!
+Presente na vida de mais de 50 mil clientes e em mais de 50 cidades do país, somos o maior escritório de contabilidade do Brasil, líder em abertura de empresas e gestão de CNPJs. 
+Presente na vida de mais de 50 mil clientes e em mais de 50 cidades do país, somos o maior escritório de contabilidade do Brasil, líder em abertura de empresas e gestão de CNPJs. 
+Oferecemos planos de contabilidade completos, exclusivos e integrados, que atendem diferentes necessidades e facilitam a gestão de negócios de micro e pequenos empreendedores em um único lugar, além de profissionais autônomos, em inúmeros ramos de atividade, como medicina, consultoria, engenharia, arquitetura, tecnologia, advocacia, gestão de negócios, psicologia, publicidade e marketing, entre outros.
+Oferecemos planos de contabilidade completos, exclusivos e integrados, que atendem diferentes necessidades e facilitam a gestão de negócios de micro e pequenos empreendedores em um único lugar, além de profissionais autônomos, em inúmeros ramos de atividade, como medicina, consultoria, engenharia, arquitetura, tecnologia, advocacia, gestão de negócios, psicologia, publicidade e marketing, entre outros.
+Aqui na Contabilizei, temos a missão de simplificar e fortalecer a jornada de quem está por trás de cada negócio, assim, nossos clientes podem investir tempo para cuidar do seu crescimento. 
+Aqui na Contabilizei, temos a missão de simplificar e fortalecer a jornada de quem está por trás de cada negócio, assim, nossos clientes podem investir tempo para cuidar do seu crescimento. 
+Nascemos em 2013 e estamos localizados em Curitiba e em São Paulo. Os mais de 1200 especialistas vivem a nossa cultura em sua rotina e contamos com mais de 80 contadores, o maior time certificado do Brasil.
+Nascemos em 2013 e estamos localizados em Curitiba e em São Paulo. Os mais de 1200 especialistas vivem a nossa cultura em sua rotina e contamos com mais de 80 contadores, o maior time certificado do Brasil.
+Já recebemos aportes de fundos internacionais como Banco Mundial (IFC), KaszeK Ventures, Point72 Ventures e SoftBank Group, Goldman Sachs Asset Management e também fomos reconhecidos pelos rankings Smart Customer, Linkedin Top Startups, Latam Founders Awards e Fast Company, garantindo investimento em tecnologia, segurança e desenvolvimento de soluções que suportem nossos clientes a enfrentar os diferentes desafios de suas jornadas profissionais.
+Já recebemos aportes de fundos internacionais como Banco Mundial (IFC), KaszeK Ventures, Point72 Ventures e SoftBank Group, Goldman Sachs Asset Management e também fomos reconhecidos pelos rankings Smart Customer, Linkedin Top Startups, Latam Founders Awards e Fast Company, garantindo investimento em tecnologia, segurança e desenvolvimento de soluções que suportem nossos clientes a enfrentar os diferentes desafios de suas jornadas profissionais.
+Possuímos avaliação no Reclame Aqui acima de 8,5 e somos detentores do selo RA 1000, que tem como objetivo destacar as empresas que possuem excelentes índices de atendimento no ReclameAQUI®.[10], além de nota acima de 4,7 no Google My Business, reconhecimentos que conferem nossa excelência no atendimento aos clientes que confiam em nosso trabalho. 
+Possuímos avaliação no Reclame Aqui acima de 8,5 e somos detentores do selo RA 1000, que tem como objetivo destacar as empresas que possuem excelentes índices de atendimento no ReclameAQUI®.
+ nota acima de 4,7 no Google My Business, reconhecimentos que conferem nossa excelência no atendimento aos clientes que confiam em nosso trabalho. 
+Apoiamos empreendedores com planos personalizados para cada tipo de negócio, facilitando o processo de abertura de CNPJ e melhorando rotinas contábeis e financeiras de empresas e profissionais liberais.
+Apoiamos empreendedores com planos personalizados para cada tipo de negócio, facilitando o processo de abertura de CNPJ e melhorando rotinas contábeis e financeiras de empresas e profissionais liberais.
+Estamos mudando a forma de fazer contabilidade com soluções criadas com Tecnologia e Inovação, que acompanham o ritmo e as diferentes necessidades de quem escolhe a Contabilizei como parceira. Unimos a nossa experiência e expertise contábil com a tecnologia para automatizar processos e agregar valor ao nosso serviço, o que permite ganhar capilaridade, reduzir custos e minimizar falhas, facilitando o cumprimento das obrigações tributárias de nossos clientes com os órgão fiscalizadores e para acompanhamento dos sócios. Inovamos o mercado de contabilidade, garantindo mais exatidão, rapidez e segurança na declaração das informações atualizadas e corretas, sem perder a personalização da atividade, que segue sendo realizada por profissionais, que possuem mais mobilidade em suas funções.
+Estamos mudando a forma de fazer contabilidade com soluções criadas com Tecnologia e Inovação, que acompanham o ritmo e as diferentes necessidades de quem escolhe a Contabilizei como parceira. Unimos a nossa experiência e expertise contábil com a tecnologia para automatizar processos e agregar valor ao nosso serviço, o que permite ganhar capilaridade, reduzir custos e minimizar falhas, facilitando o cumprimento das obrigações tributárias de nossos clientes com os órgão fiscalizadores e para acompanhamento dos sócios. Inovamos o mercado de contabilidade, garantindo mais exatidão, rapidez e segurança na declaração das informações atualizadas e corretas, sem perder a personalização da atividade, que segue sendo realizada por profissionais, que possuem mais mobilidade em suas funções.
+SAIBA MAIS
+Website
+LinkedIn
+Facebook
+Instagram

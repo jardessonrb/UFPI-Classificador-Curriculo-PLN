@@ -1,0 +1,97 @@
+link_vaga-https://sicredi.gupy.io/job/eyJqb2JJZCI6Nzc4NTQyMSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+CAS | PESSOA ESPECIALISTA DE DESENVOLVIMENTO DE SOFTWARE - BACK-END
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Você se identifica com a área de Engenharia de Software e possui como propósito ajudar pessoas a construir um time com uma forte cultura de engenharia de software, que agregue cada vez mais valor aos negócios?
+#LI-JC1
+#LI-REMOTE
+RESPONSABILIDADES E ATRIBUIÇÕES
+Liderar a estratégia de desenvolvimento de software;Manter padrões e boas práticas de desenvolvimento;Acompanhar evolução técnica dos times de desenvolvimento;Atuar na solução de problemas, facilitando o dia a dia dos desenvolvedores;Ser Referência técnica;Acompanhar e evoluir Métricas de engenharia;Colaborar no design e desenvolvimento de soluções para as ferramentas, focando em segurança, performance e observabilidade;Contribuir nas interações dos produtos uma vez que estejam em produção, com o fim de assegurar escalabilidade, resiliência e consistência;Assegurar a operação, a qualidade do produto e a saúde de seus indicadores (monitoramento e confecção de alertas, participação em war rooms), e zelar pela evolução técnica do produto, garantindo o correto design e implementação das iniciativas;Contribuir continuamente com ideias e propostas a fim de enriquecer o roadmap da iniciativa;
+Liderar a estratégia de desenvolvimento de software;
+Manter padrões e boas práticas de desenvolvimento;
+Acompanhar evolução técnica dos times de desenvolvimento;
+Atuar na solução de problemas, facilitando o dia a dia dos desenvolvedores;
+Ser Referência técnica;
+Acompanhar e evoluir Métricas de engenharia;
+Colaborar no design e desenvolvimento de soluções para as ferramentas, focando em segurança, performance e observabilidade;
+Contribuir nas interações dos produtos uma vez que estejam em produção, com o fim de assegurar escalabilidade, resiliência e consistência;
+Assegurar a operação, a qualidade do produto e a saúde de seus indicadores (monitoramento e confecção de alertas, participação em war rooms), e zelar pela evolução técnica do produto, garantindo o correto design e implementação das iniciativas;
+Contribuir continuamente com ideias e propostas a fim de enriquecer o roadmap da iniciativa;
+REQUISITOS E QUALIFICAÇÕES
+Requisitos Mínimos
+Proficiência avançada em Apache Kafka, incluindo arquitetura interna (brokers, partitions, topics, zookeeper) e mecanismos de replicação e tolerância a falhas. Experiência prática em configurar e otimizar clusters Kafka para alta disponibilidade e throughput. Familiaridade com Kafka Streams é desejável;
+Conhecimento avançado no que tange a padrões de projeto, sendo na aplicação prática de Design Patterns (GoF), incluindo Singleton, Factory, Builder, Observer, Strategy, SAGA, entre outros. Experiência em aplicar padrões arquiteturais como CQRS, Event Sourcing, e Domain-Driven Design (DDD) em sistemas de larga escala;
+Capacidade técnica para troubleshooting em sistemas complexos distribuídos. Proficiência em análise de logs, tracing distribuído (OpenTracing, Jaeger), e monitoramento de performance (APM). Experiência em resolver problemas de latência, contenção de recursos, e falhas intermitentes em ambientes de alta carga;
+Experiência em design e otimização de esquemas de banco de dados, tanto SQL (PostgreSQL, MySQL, Oracle) quanto NoSQL (MongoDB). Capacidade de implementar estratégias de sharding, replicação, e tuning de queries complexas é um diferencial. Conhecimento em tecnologias de caching (Redis, Memcached) para otimização de performance;
+Experiência técnica avançada na concepção e implementação de arquiteturas de microsserviços, incluindo a gestão de ciclo de vida de serviços, comunicação entre serviços (REST, gRPC, event-driven), e mecanismos de observabilidade e tracing. Capacidade de trabalhar com ferramentas de Service Mesh (Istio, Linkerd) e CI/CD pipelines para microsserviços;
+Domínio de DDD estratégico, com capacidade de identificar e definir bounded contexts e estabelecer linguagens ubíquas em colaboração com stakeholders. Experiência em implementar context maps e estratégias de integração (Shared Kernel, Customer-Supplier, Anti-corruption Layer);
+Habilidade em liderar a arquitetura e design de soluções tecnológicas alinhadas com os objetivos de negócio. Experiência em definir roadmaps técnicos e arquiteturais, garantindo a escalabilidade e resiliência do sistema ao longo do tempo. Capacidade de antecipar e mitigar riscos arquiteturais e técnicos em grandes projetos;
+Desejável
+Domínio profundo das linguagens JVM (Java, Scala, Kotlin), com capacidade de realizar tuning em JVM para otimização de garbage collection, heap memory management, e profiling de aplicações. Experiência com ferramentas como JMX, VisualVM, JFR (Java Flight Recorder), e análise de thread dumps;
+INFORMAÇÕES ADICIONAIS
+No Centro Administrativo Sicredi (CAS), para as posições nas áreas de negócio adotamos o formato de trabalho híbrido que se consolidou em 3 dias presenciais, na Sede da empresa, localizada na Av. Assis Brasil, 3940, São Sebastião, Porto Alegre/RS e 2 dias home office. Nas posições da área Tech adotamos o formato de trabalho home office.
+____________________________________________________
+No Sicredi você vai ter:
+14º e 15º salários fixos;
+Participações nos Lucros (conforme a senioridade);
+Benefício saúde: Plano de Saúde e Odontológico sem coparticipação, Gympass, seguro de vida, Programas de saúde e bem-estar (Nutrição, Psicologia, Laboral, Massagem, Grupos de corrida e academia local);
+Vale Alimentação e Vale Refeição – com flexibilidade de % nos cartões VA/VR, sem coparticipação;
+Licença maternidade e paternidade estendida;
+Auxílio creche ou babá para crianças até 6 anos e 11 meses;
+Auxílio para filhos com deficiência, sem limite de idade;
+Previdência Privada até 6% do salário;
+Plataforma de Treinamentos – Sicredi Aprende, com diversos cursos;
+Carga horária de 40h semanais – Utilizando sistema de banco de horas;
+Auxílio Teletrabalho (exceto para posições com atuação 100% presenciais).
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Avaliando o seu currículo2Avaliando o seu currículo
+Etapa 2: Avaliando o seu currículo
+2
+Avaliando o seu currículo
+Etapa 3: Alinhamento de expectativas3Alinhamento de expectativas
+Etapa 3: Alinhamento de expectativas
+3
+Alinhamento de expectativas
+Etapa 4: Bate Papo com GP4Bate Papo com GP
+Etapa 4: Bate Papo com GP
+4
+Bate Papo com GP
+Etapa 5: Identificando o seu perfil (PDA) 5Identificando o seu perfil (PDA) 
+Etapa 5: Identificando o seu perfil (PDA) 
+5
+Identificando o seu perfil (PDA) 
+Etapa 6: Bate Papo com a Área6Bate Papo com a Área
+Etapa 6: Bate Papo com a Área
+6
+Bate Papo com a Área
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+SOMOS O SICREDI, A PRIMEIRA INSTITUIÇÃO FINANCEIRA COOPERATIVA DO BRASIL
+Há mais de 120 anos, nos reinventamos a cada dia e nos desafiamos em tudo o que fazemos, sendo impulsionados pelo trabalho de cada uma das nossas pessoas colaboradoras.
+ 
+Nosso propósito é construir uma sociedade mais próspera ao lado dos mais de 45 mil talentos que também acreditam nessa transformação. Evoluímos constantemente e mantemos a essência do cooperativismo para superar as barreiras, conquistar novos horizontes e desenvolver a sociedade com maior inclusão, diversidade e equidade.
+Não é à toa que somos a Melhor Empresa para se Trabalhar no Brasil 2024, segundo a GPTW!
+ 
+Seguimos buscando talentos que queiram fazer parte da construção de um mundo melhor e queremos contar com você.
+#VemSerSicredi!
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

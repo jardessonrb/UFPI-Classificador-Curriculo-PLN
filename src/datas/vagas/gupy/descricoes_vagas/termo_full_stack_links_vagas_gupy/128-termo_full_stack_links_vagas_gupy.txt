@@ -1,0 +1,122 @@
+link_vaga-https://leega.gupy.io/job/eyJqb2JJZCI6NzczMDU4Niwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ENGENHEIRO DE SOFTWARE FULL STACK PLENO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+A Leega é uma empresa focada no atendimento eficiente e inovador em seus clientes. 
+Isso não poderia ser diferente com o nosso principal combustível: as pessoas!  
+Nossa cultura é inspiradora e nossos valores estão presentes no dia a dia: ética e transparência, excelência de qualidade, trabalho em equipe, responsabilidade econômica, social e ambiental, relações humanas e credibilidade.
+Buscamos profissionais inovadores que sejam movidos por desafios e focados em resultados.
+Se você busca uma empresa dinâmica e parceira e que investe em seus colaboradores através de capacitação constante, a Leega é o lugar para você!
+>> A LEEGA É PARA TODOS, ficaremos muito felizes em ter você em nosso time. Venha fazer parte da nossa história e da construção do nosso futuro. 
+Cadastre-se agora mesmo em nossas vagas!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Colaborar com equipes multifuncionais para definir, projetar e lançar novos recursos;
+Colaborar com equipes multifuncionais para definir, projetar e lançar novos recursos;
+Elaborar e conduzir refinamentos técnicos de demandas trazidas pelo time de produtos;
+Elaborar e conduzir refinamentos técnicos de demandas trazidas pelo time de produtos;
+Atuar na manutenção da saúde e qualidade do codebase, equilibrando novas funcionalidades com resolução de débitos técnicos;
+Atuar na manutenção da saúde e qualidade do codebase, equilibrando novas funcionalidades com resolução de débitos técnicos;
+Desenvolver soluções escaláveis e que irão ser utilizadas por milhões de usuários;
+Desenvolver soluções escaláveis e que irão ser utilizadas por milhões de usuários;
+Ser crítico em relação a Observabilidade;
+Ser crítico em relação a Observabilidade;
+Atuar na manutenção dos testes automatizados, incluindo criação de novos;
+Atuar na manutenção dos testes automatizados, incluindo criação de novos;
+Orientar desenvolvedores de menor senioridade e auxiliar no desenvolvimento destes;
+Orientar desenvolvedores de menor senioridade e auxiliar no desenvolvimento destes;
+Elaboração de documentação técnica de novas funcionalidades;
+Elaboração de documentação técnica de novas funcionalidades;
+Traduzir designs em código de alta qualidade;
+Traduzir designs em código de alta qualidade;
+Participar das cerimônias junto com os demais integrantes da equipe.
+Participar das cerimônias junto com os demais integrantes da equipe.
+REQUISITOS E QUALIFICAÇÕES
+Experiência com Java 17 (11, 8), Spring Boot e Hibernate;Experiência com NodeJS + NestJS;Experiência Bancos de Dados (SQL e NoSQL), Oracle , MongoDB, RDSCompreensão e entendimento de arquitetura de micro serviços.Experiência com Design de APIs REST;Experiência com Testes Unitários (jUnit 5), Integração e Contrato;Experiência com Axway - API Gateway;Experiência com Git e Versionamento de Código;Experiência com comunicação por mensageria (RabbitMQ e SQS);Experiência com Grafana e Dynatrace;Conhecimento de Clean Code, Clean Architecture e Modularização;Boas práticas de código, documentação e desenvolvimento de telas e componentes;Experiência com em metodologias ágeis;Experiência com Selenium + Cucumber ou framework semelhante para testes automatizados;Excelentes habilidades para resolução de problemas e atenção aos detalhes;Estar disposto a buscar novos conhecimentos e encarar novos desafios;Experiência em desenvolvimento de aplicativos/front-end com React Native e React;Experiência com Javascript/Typescript;Experiencia com Next.js, React Hooks, Styled Components, Axios;Diferencial:Experiência com arquitetura de Microfrontend (MFE).
+Experiência com Java 17 (11, 8), Spring Boot e Hibernate;
+Experiência com 
+Experiência com NodeJS + NestJS;
+Experiência com 
+Experiência Bancos de Dados (SQL e NoSQL), Oracle , MongoDB, RDS
+Experiência Bancos de Dados 
+Compreensão e entendimento de arquitetura de micro serviços.
+Compreensão e entendimento de arquitetura de micro serviços.
+Experiência com Design de APIs REST;
+Experiência com Design de 
+Experiência com Testes Unitários (jUnit 5), Integração e Contrato;
+Experiência com 
+Experiência com Axway - API Gateway;
+Experiência com 
+Experiência com Git e Versionamento de Código;
+Experiência com 
+Experiência com comunicação por mensageria (RabbitMQ e SQS);
+Experiência com comunicação por 
+Experiência com Grafana e Dynatrace;
+Experiência com 
+Conhecimento de Clean Code, Clean Architecture e Modularização;
+Conhecimento de Clean Code, Clean Architecture e Modularização;
+Boas práticas de código, documentação e desenvolvimento de telas e componentes;
+Boas práticas de código, documentação e desenvolvimento de telas e componentes;
+Experiência com em metodologias ágeis;
+Experiência com em metodologias ágeis;
+Experiência com Selenium + Cucumber ou framework semelhante para testes automatizados;
+Experiência com 
+Excelentes habilidades para resolução de problemas e atenção aos detalhes;
+Excelentes habilidades para resolução de problemas e atenção aos detalhes;
+Estar disposto a buscar novos conhecimentos e encarar novos desafios;
+Estar disposto a buscar novos conhecimentos e encarar novos desafios;
+Experiência em desenvolvimento de aplicativos/front-end com React Native e React;
+Experiência em desenvolvimento de 
+Experiência com Javascript/Typescript;
+Experiencia com Next.js, React Hooks, Styled Components, Axios;
+Experiencia com
+Diferencial:
+Experiência com arquitetura de Microfrontend (MFE).
+INFORMAÇÕES ADICIONAIS
+Profissional seguirá o calendário de SP.Modelo de trabalho 100% Remoto.
+Profissional seguirá o calendário de SP.
+Profissional seguirá o calendário de SP.
+Modelo de trabalho 100% Remoto.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Avaliação de Perfil3Avaliação de Perfil
+Etapa 3: Avaliação de Perfil
+3
+Avaliação de Perfil
+Etapa 4: Entrevista Gestor4Entrevista Gestor
+Etapa 4: Entrevista Gestor
+4
+Entrevista Gestor
+Etapa 5: Entrevista Cliente5Entrevista Cliente
+Etapa 5: Entrevista Cliente
+5
+Entrevista Cliente
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+VEM TRABALHAR COM A GENTE!
+A LEEGA é referência em consultoria e outsourcing para soluções de Data Analytics .
+Temos 14 ANOS de mercado e mais de 20 ANOS de experiência em soluções de Business Intelligence, Data Integration e Analytics, atendendo grandes empresas dos mais diversos segmentos do mercado e contamos com mais de 400 colaboradores.
+Conquistamos capacidade técnica e reunimos as melhores pessoas para proporcionar aos nossos clientes a melhor experiência.
+Brasileiros, com escritório de projetos, fábrica de software e centro de treinamento em São Paulo (capital) , atuação internacional com escritório também em Portugal, somos conhecidos por viver e respirar Analytics e Big Data, inovando nossa tecnologia, compartilhando conhecimento, evoluindo talentos e entregando VALOR.
+ 
+Em nosso porftólio de serviços ofertamos consultoria especializada, alocação de profissionais, treinamento e desenvolvimento de soluções customizadas para Cloud Computing, Business Intelligence, Big Data, Data Analytics, Machine Learning, Inteligência Artificial, Data Quality, MDM, Governança de Dados e demais soluções de dados
+A LEEGA EM OUTRAS PLATAFORMAS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

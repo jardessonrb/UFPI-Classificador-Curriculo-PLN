@@ -1,0 +1,90 @@
+link_vaga-https://gruposoma.gupy.io/job/eyJqb2JJZCI6NzE2ODEzOCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+GRUPO SOMA | SOMALABS | COORDENADOR DE TECNOLOGIA - BACKEND
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Inquietos e Acelerados. Criativos ou Cartesianos. Talentosos e Autodidatas. Artesanais ou Tecnológicos.
+Não importa: gostamos de diversidade e de quem está aqui para agregar.
+Porque GENTE É O QUE SOMA.
+O SomaLabs é a área de Inovação do Grupo Soma. Nossa missão é transformar o Grupo Soma em uma plataforma de tecnologia voltada para o varejo de moda. Somos responsáveis por criar soluções que agreguem valor ao negócio e por produtos que permitem escala e potencialização dentro do Grupo.
+Atuamos em toda a cadeia de valor do Grupo, desde a criação e desenvolvimento de novas peças das marcas até a experiência final do nosso cliente. Trabalhamos com times multidisciplinares e ágeis, sempre identificando e atuando em oportunidades/problemas com velocidade, fazendo entregas frequentes de forma incremental. Temos muita autonomia e responsabilidade, e focamos em iniciativas de alto valor agregado para o Grupo.
+Estamos à procura de um Coordenador de Tecnologia para se juntar à nossa equipe Omnichannel! Acreditamos que um coordenador de tecnologia de sucesso precisa ter sentimento de dono do negócio, junto às áreas de produto e design, buscando sempre soluções tecnológicas 'state of the art' e implementando-as de forma incremental.
+Será responsável por times técnicos, além de arquitetar e desenvolver nossos produtos de forma escalável e performático, guiar a equipe de desenvolvimento para que ela seja potencializada e ser referência local técnica na iniciativa da qual estará inserida.
+Essa é uma oportunidade única de aplicar seus conhecimentos com alta exposição ao mercado e impacto direto em um negócio de escala global.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Ser responsável pela equipe de desenvolvimento de software, garantindo a entrega de produtos, iniciativas e projetos dentro do prazo e dos padrões de qualidade;Fornecer orientação e suporte técnico aos membros da equipe, incluindo revisões de código e mentoring;Definir a arquitetura de software e tomar decisões técnicas cruciais para o sucesso do produto e/ou projeto;Colaborar com os times de negócio, produto, design e outras partes interessadas para definir metas e requisitos de produto/projeto claros;Identificar e resolver problemas técnicos, trabalhando em estreita colaboração com a equipe para encontrar soluções eficazes;Garantir que os processos e práticas de desenvolvimento de software estejam alinhados com os padrões da organização;Promover uma cultura de colaboração, inovação e excelência técnica dentro da equipe;Gerenciar releases e deploys das aplicações;Projetar, desenvolver, implantar serviços e aplicações na cultura DevOps;Atuação "hands-on" dos produtos e projetos;Garantir alinhamento e sinergias de tecnologias da iniciativa/frente;
+Ser responsável pela equipe de desenvolvimento de software, garantindo a entrega de produtos, iniciativas e projetos dentro do prazo e dos padrões de qualidade;
+Fornecer orientação e suporte técnico aos membros da equipe, incluindo revisões de código e mentoring;
+Definir a arquitetura de software e tomar decisões técnicas cruciais para o sucesso do produto e/ou projeto;
+Colaborar com os times de negócio, produto, design e outras partes interessadas para definir metas e requisitos de produto/projeto claros;
+Identificar e resolver problemas técnicos, trabalhando em estreita colaboração com a equipe para encontrar soluções eficazes;
+Garantir que os processos e práticas de desenvolvimento de software estejam alinhados com os padrões da organização;
+Promover uma cultura de colaboração, inovação e excelência técnica dentro da equipe;
+Gerenciar releases e deploys das aplicações;
+Projetar, desenvolver, implantar serviços e aplicações na cultura DevOps;
+Atuação "hands-on" dos produtos e projetos;
+Garantir alinhamento e sinergias de tecnologias da iniciativa/frente;
+REQUISITOS E QUALIFICAÇÕES
+Experiência sólida em desenvolvimento de softwares e aplicações web;Sólido conhecimento em integrações de sistemas, banco de dados e design de APIs (NodeJS, Python, SQL);Experiência em liderança técnica ou papel de tech lead em empresas de tecnologia e/ou áreas técnicas (atuação em varejo é um diferencial);Habilidades de comunicação e capacidade de trabalhar efetivamente com diferentes partes interessadas;Compreensão de tecnologias e tendências atuais da indústria de software;Capacidade de definir a direção técnica do produto/projeto;Capacidade de liderar, motivar e influenciar a equipe em um ambiente de rápido desenvolvimento e mudança constante;Conhecimento prático de metodologias ágeis, como Scrum ou Kanban;Experiência com ferramentas de gestão de tecnologia e desenvolvimento (Gcloud, AWS, Git, Kubernetes, Elastic Search, etc.);Habilidades para lidar com pessoas diversas, com empatia e resiliência;Diploma de graduação em Ciência da Computação, Engenharia de Software ou área relacionada é um diferencial;Certificações relevantes na área de tecnologia são diferenciais;
+Experiência sólida em desenvolvimento de softwares e aplicações web;
+Sólido conhecimento em integrações de sistemas, banco de dados e design de APIs (NodeJS, Python, SQL);
+Experiência em liderança técnica ou papel de tech lead em empresas de tecnologia e/ou áreas técnicas (atuação em varejo é um diferencial);
+Habilidades de comunicação e capacidade de trabalhar efetivamente com diferentes partes interessadas;
+Compreensão de tecnologias e tendências atuais da indústria de software;
+Capacidade de definir a direção técnica do produto/projeto;
+Capacidade de liderar, motivar e influenciar a equipe em um ambiente de rápido desenvolvimento e mudança constante;
+Conhecimento prático de metodologias ágeis, como Scrum ou Kanban;
+Experiência com ferramentas de gestão de tecnologia e desenvolvimento (Gcloud, AWS, Git, Kubernetes, Elastic Search, etc.);
+Habilidades para lidar com pessoas diversas, com empatia e resiliência;
+Diploma de graduação em Ciência da Computação, Engenharia de Software ou área relacionada é um diferencial;
+Certificações relevantes na área de tecnologia são diferenciais;
+INFORMAÇÕES ADICIONAIS
+Regime e horário
+Híbrido e flexível;
+Benefícios
+Vale alimentação/refeição;
+Plano de saúde e odontológico;
+Flexível (alimentação, refeição e mobilidade);
+Gympass;
+Licença parental;
+Day off no dia do aniversário;
+Desconto nas marcas do grupo;
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista G&G2Entrevista G&G
+Etapa 2: Entrevista G&G
+2
+Entrevista G&G
+Etapa 3: Entrevista Gestor 3Entrevista Gestor 
+Etapa 3: Entrevista Gestor 
+3
+Entrevista Gestor 
+Etapa 4: Contratação4Contratação
+Etapa 4: Contratação
+4
+Contratação
+SOMOS O MAIOR GRUPO DE MODA DO BRASIL
+Por aqui, a gente inova e renova o mercado da moda do nosso jeito, arregaçando as mangas e fazendo os resultados acontecerem na nossa frente. Somos uma grande e eficiente união de talentos e expertises.
+Por aqui, a gente inova e renova o mercado da moda do nosso jeito, arregaçando as mangas e fazendo os resultados acontecerem na nossa frente. Somos uma grande e eficiente união de talentos e expertises.
+
+Seja nos times criativos, escritórios, lojas e fábricas, cada pessoa aqui é muito importante no nosso universo. E acreditamos de verdade que o brilho no olho do nosso time é o que faz a gente ir cada vez mais longe.
+Seja nos times criativos, escritórios, lojas e fábricas, cada pessoa aqui é muito importante no nosso universo. E acreditamos de verdade que o brilho no olho do nosso time é o que faz a gente ir cada vez mais longe.
+
+Nossa missão é sonhar grande e fazer gigante. Porque gente é o que SOMA.
+Nossa missão é sonhar grande e fazer gigante. 
+VEM ACOMPANHAR OS NOSSOS BASTIDORES!
+Website
+LinkedIn
+Instagram
+Glassdoor

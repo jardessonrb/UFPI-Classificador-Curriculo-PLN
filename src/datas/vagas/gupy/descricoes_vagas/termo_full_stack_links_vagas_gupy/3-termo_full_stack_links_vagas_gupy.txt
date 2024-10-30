@@ -1,0 +1,126 @@
+link_vaga-https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6Nzk5NTcwNCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+FULL STACK DEVELOPER DEVOPS
+Tipo de vaga: TemporárioTemporário
+Tipo de vaga: Temporário
+Temporário
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+¡Sé parte de Stefanini! En Stefanini somos más de 30.000 genios, conectados desde 41 países, haciendo lo que les apasiona y co-creando un futuro mejor.
+¡Seguro no te quieres quedar fuera!
+﻿
+¿Por qué te elegiremos? ¡Porque los desafíos que asumirás reflejan tus ambiciones!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Responsabilidades y atribuciones: 
+Responsable de desarrollar e implementar aplicaciones Front end, back end, mdw, para las distintas unidades de negocio y los distintos departamentos de arquitecturas de Service Delivery bajo la metodología tradicional y la metodología ágil de desarrollo de proyectos. Cumplimiento de todos los estándares y buenas prácticas definidos para versionamiento, desarrollo, monitoreo, automatización y adopción de seguridad automatización.
+Responsable de desarrollar e implementar aplicaciones Front end, back end, mdw, para las distintas unidades de negocio y los distintos departamentos de arquitecturas de Service Delivery bajo la metodología tradicional y la metodología ágil de desarrollo de proyectos. Cumplimiento de todos los estándares y buenas prácticas definidos para versionamiento, desarrollo, monitoreo, automatización y adopción de seguridad automatización.
+﻿Responsabilidades – En lista en orden de prioridades las principales responsabilidades/resultados del puesto incluyendo indicadores clave. Estos deberán ser de manera clara responsabilidades del TITULAR.
+ – En lista en orden de prioridades las principales responsabilidades/resultados del puesto incluyendo indicadores clave. Estos deberán ser de manera clara responsabilidades del TITULAR.
+· 
+· 
+Apoyo a todo implementación y desarrollo en ambiente de propios en su el equipo personal y ambiente de desarrollo.
+Apoyo a todo implementación y desarrollo en ambiente de propios en su el equipo personal y ambiente de desarrollo.
+Desarrollo e implementación de aplicaciones modulares, configurables, de testeo automático, para arquitectura SOA Oracle y nueva arquitectura DevOps.
+Desarrollo e implementación de aplicaciones modulares, configurables, de testeo automático, para arquitectura SOA Oracle y nueva arquitectura DevOps.
+Uso de herramientas de monitoreo de la infraestructura y Software aplicaciones.
+Uso de herramientas de monitoreo de la infraestructura y Software aplicaciones.
+Uso de herramientas de repositorio de código fuentes.
+Uso de herramientas de repositorio de código fuentes.
+Uso de herramientas de repositorio de versionamiento de aplicaciones y CD/CI:
+Uso de herramientas de repositorio de versionamiento de aplicaciones y CD/CI:
+Uso e Implementación de certificados externos y auto generados para el funcionamiento de servidores y aplicaciones.
+Uso e Implementación de certificados externos y auto generados para el funcionamiento de servidores y aplicaciones.
+Uso e Implementación de herramientas para balanceo de trafico NX, api Gateway Kong.
+Uso e Implementación de herramientas para balanceo de trafico NX, api Gateway Kong.
+Creación de manuales de instalación para Testing y para producción.
+Creación de manuales de instalación para Testing y para producción.
+Seguir los lineamientos y estándares en seguridad al desarrollar, desarrollo seguro de código fuentes,
+Seguir los lineamientos y estándares en seguridad al desarrollar, desarrollo seguro de código fuentes,
+Adopción del trabajo comunitario, Nexus, Maven etc.
+Adopción del trabajo comunitario, Nexus, Maven etc.
+Creación de script y uso de herramientas de base de datos PostgreSQL, Oracle, MongoDB.
+Creación de script y uso de herramientas de base de datos PostgreSQL, Oracle, MongoDB.
+Apoyo a demanda en ventanas de implementación en producción y eventuales incidentes mayores.
+Apoyo a demanda en ventanas de implementación en producción y eventuales incidentes mayores.
+Uso de herramientas para pruebas de servicios Postman y Soap UI.
+Desarrollo en lenguajes de programación Java 7, 17, 21 Oracle y Openstack, uso de frameworks spring, springboot, PrimeFaces. Deseable otros lenguajes Pyton y Node JS, React, Angular.
+Asistencia a reuniones y ceremonias de ágil que sean requeridos.
+REQUISITOS E QUALIFICAÇÕES
+Requisitos y competencias: 
+Educación mínima requerida: graduado de Ingeniería o Licenciatura en Sistemas de Computación y afines
+Años de experiencia: 2 o 3 Experiencia comprobable a nivel profesional en empresas reconocidas de requerimientos de importancia administración de servidores con los conocimientos requeridos.
+ 
+ 
+· Deseables certificaciones DevOPs, Kubernates, Docker.
+· Deseables certificaciones DevOPs, Kubernates, Docker.
+· Nivel de Inglés técnico.
+· Nivel de Inglés técnico.
+· Uso de herramientas Oracle, Base y Middleware, SOA.
+· Uso de herramientas Oracle, Base y Middleware, SOA.
+· Uso y desarrollo para implementación de arquitectura de contenedores.
+· Uso y desarrollo para implementación de arquitectura de contenedores.
+· Uso y desarrollo en Kubernates., Docker, springboot.
+· Uso y desarrollo en Kubernates., Docker, springboot.
+· Uso de herramientas de Git, Nexus, Maven, Jenkins, Selenium.
+· Uso de herramientas de Git, Nexus, Maven, Jenkins, Selenium.
+· Experiencia en sistemas operativos Linux y Windows. 
+· Experiencia en sistemas operativos Linux y Windows. 
+· Experiencia en implementaciones de protocolos Rest, restfull, Ws, Ftp, Certificados.
+· Experiencia en implementaciones de protocolos Rest, restfull, Ws, Ftp, Certificados.
+· Conocimientos operativos de protocolos de comunicación como Rest, restfull, mensajería asincrónica, soap, ftp,
+· Conocimientos operativos de protocolos de comunicación como Rest, restfull, mensajería asincrónica, soap, ftp,
+· Desarrollo de aplicaciones en frameworks primefaces, angular, React.
+· Desarrollo de aplicaciones en frameworks primefaces, angular, React.
+· Uso de entorno de desarrollo Eclipse y/o Visual Code.
+· Uso de entorno de desarrollo Eclipse y/o Visual Code.
+ 
+ 
+Conocimientos y Habilidades
+Conocimientos y Habilidades
+· Dinámico, metódico, ordenado
+· 
+· Comprometido, sentido de urgencia.
+· 
+· Autodidacta
+· 
+· proactivo
+· 
+· Dispuesto y sin rigidez a cambios y nuevos retos.
+· 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista2Entrevista
+Etapa 2: Entrevista
+2
+Entrevista
+Etapa 3: Confirmación de Candidato 3Confirmación de Candidato 
+Etapa 3: Confirmación de Candidato 
+3
+Confirmación de Candidato 
+Etapa 4: Onbording 4Onbording 
+Etapa 4: Onbording 
+4
+Onbording 
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+CONOCE A STEFANINI
+Somos una empresa global con 35 años de experiencia en el mercado, ofrecemos una sólida selección de servicios como: automatización, nube, Internet de las cosas (IoT) y experiencia de usuario (UX).
+Creemos que la tecnología puede revolucionar una empresa y la innovación es fundamental para fomentar el desarrollo y la competitividad. También valoramos las nuevas ideas y el poder de una mente abierta, por lo que reconocemos que cada talento es esencial para la calidad de nuestros proyectos y especialmente para nuestro progreso.
+Creemos que la tecnología puede revolucionar una empresa y la innovación es fundamental para fomentar el desarrollo y la competitividad. También valoramos las nuevas ideas y el poder de una mente abierta, por lo que reconocemos que cada talento es esencial para la calidad de nuestros proyectos y especialmente para nuestro progreso.
+Mantenemos nuestra excelencia invirtiendo en innovaciones tecnológicas, las mejores alianzas, adquisiciones de empresas en todo el mundo y la contratación de profesionales altamente capacitados.
+CONOCE MÁS SOBRE NOSOTROS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

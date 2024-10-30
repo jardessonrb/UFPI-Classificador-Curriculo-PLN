@@ -1,0 +1,101 @@
+link_vaga-https://stefanini.gupy.io/job/eyJqb2JJZCI6NzI3MDkyMiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA QA PLENO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Somos a maior multinacional brasileira e estamos entre as 100 maiores empresas de TI do mundo.
+Estamos presentes em 41 países com +30k colaboradores. A Stefanini tem como principal objetivo auxiliar os clientes a encontrar, por meio de soluções personalizadas, a maneira ideal para alcançar seus desafios, impulsionando a inovação digital.
+E queremos mais!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Como QA focado em testes automatizados, você será encarregado de desenvolver estratégias de automação, criar e manter scripts de testes para validar funcionalidades e regras de negócio, identificar oportunidades de automação, configurar ambientes de testes automatizados e integrá-los com pipelines de CI/CD. Você monitorará os resultados, reportará bugs, e desenvolverá conhecimento profundo sobre as tecnologias e regras de negócio para garantir a qualidade do software. Além disso, executará testes de performance e estresse, atuando como referência técnica, compartilhando melhores práticas e liderando a cultura de qualidade e automação de testes dentro da equipe, visando a entrega contínua de software de alta qualidade. 
+REQUISITOS E QUALIFICAÇÕES
+Planejamento e execução de testes de performance / stress / segurança;BDD;Ferramentas de gestão de bugs (Monday);Conhecimento em planejamento de testes;Execução de testes manuais e automatizados;RESTful services;Conhecimento de ao menos um framework de automação de testes (Selenium Webdriver, Cucumber, Calabash, Appium, Espresso, XCUITest, HTTParty, Robot Framework);Análise de requisitos;JUnit;SQL;Metodologias ágeis;JSON;Análise de riscos. 
+Planejamento e execução de testes de performance / stress / segurança;
+BDD;
+Ferramentas de gestão de bugs (Monday);
+Conhecimento em planejamento de testes;
+Execução de testes manuais e automatizados;
+RESTful services;
+Conhecimento de ao menos um framework de automação de testes (Selenium Webdriver, Cucumber, Calabash, Appium, Espresso, XCUITest, HTTParty, Robot Framework);
+Análise de requisitos;
+JUnit;
+SQL;
+Metodologias ágeis;
+JSON;
+Análise de riscos. 
+INFORMAÇÕES ADICIONAIS
+🍛 Vale Alimentação ou Vale Refeição;
+🍛 
+👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas;
+📚 Academia Stefanini - plataforma com cursos online, gratuitos, atualizados e com certificado;
+📚 
+🗣 Mentoring;
+🗣 
+🏫 Auxílio Creche;
+💉 Clube de vantagens para consultas e exames;
+🏥 Assistência Médica;
+🦷Assistência Odontológica;
+💰 Clube de vantagens e descontos nos melhores estabelecimentos;
+👂🏾 Atendimento psicológico online ao colaborador e seus dependentes;
+ 
+🛫 Clube de viagens;
+🐶 Convênio para Pet;
+e muito mais...
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista RH2Entrevista RH
+Etapa 2: Entrevista RH
+2
+Entrevista RH
+Etapa 3: Entrevista Técnica3Entrevista Técnica
+Etapa 3: Entrevista Técnica
+3
+Entrevista Técnica
+Etapa 4: Entrevista Cliente4Entrevista Cliente
+Etapa 4: Entrevista Cliente
+4
+Entrevista Cliente
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+WE ARE STEFANINI
+Somos uma multinacional brasileira com mais de 30 anos de atuação no ecossistema de inovação. 
+Entregamos soluções eficazes que auxiliam os nossos clientes em suas jornadas digitais, sempre aplicando o nosso propósito de tornar a tecnologia um agente de mudança para um mundo melhor. Você quer transformar o futuro? A gente também. 🚀
+Entregamos soluções eficazes que auxiliam os nossos clientes em suas jornadas digitais, sempre aplicando o nosso propósito de tornar a tecnologia um agente de mudança para um mundo melhor. Você quer transformar o futuro? A gente também. 🚀
+| + de 40 países | + de 30 empresas no Grupo | + de 30 mil colaboradores | + de 80 soluções |
+7 pilares guiam a nossa cultura, são eles:
+⭐ Inovar com o cliente;
+⭐ Inovar com o cliente;
+⭐ Fazer a diferença;
+⭐ Fazer a diferença;
+⭐ Liderar pelo exemplo;
+⭐ Liderar pelo exemplo;
+⭐ Agir como empreendedor;
+⭐ Agir como empreendedor;
+⭐ Ser ético e de acordo com o que fala;
+⭐ Ser ético e de acordo com o que fala;
+⭐ Acreditar e respeitar as pessoas;
+⭐ Acreditar e respeitar as pessoas;
+⭐ Ter humildade em aprender.
+⭐ Ter humildade em aprender.
+Acreditamos que a verdadeira mudança só pode ser alcançada quando observamos o mundo por diferentes perspectivas, aqui a inovação floresce em uma atmosfera de respeito mútuo, em que as ideias são ouvidas e valorizadas independentemente de raça, cor, orientação sexual, ascendência, religião, gênero, nacionalidade, identidade de gênero, deficiência ou idade. 💙 #WeAreStefanini #OrgulhoDeSerStefanini #CarreiraStefanini
+Acreditamos que a verdadeira mudança só pode ser alcançada quando observamos o mundo por diferentes perspectivas, aqui a inovação floresce em uma atmosfera de respeito mútuo, em que as ideias são ouvidas e valorizadas independentemente de raça, cor, orientação sexual, ascendência, religião, gênero, nacionalidade, identidade de gênero, deficiência ou idade. 💙 
+🏆 Prêmio Innovative Workplaces Brasil 2023 pela MIT Technology Review Brasil.
+CONFIRA NOSSAS REDES SOCIAIS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

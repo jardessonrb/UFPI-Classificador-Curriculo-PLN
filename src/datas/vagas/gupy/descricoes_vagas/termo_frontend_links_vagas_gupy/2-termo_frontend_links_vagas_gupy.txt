@@ -1,0 +1,81 @@
+link_vaga-https://queroservertem.gupy.io/job/eyJqb2JJZCI6NzcyOTkxNSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR FRONTEND PLENO
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Se você se identifica com uma empresa jovem, dinâmica e ágil, onde a inquietude e a sede por inovação são princípios, e que tem como objetivo a entrega com foco na qualidade e na superação das expectativas do cliente, seu lugar é na Vertem! Aqui, valorizamos a colaboração e a criatividade, sempre buscando soluções inovadoras para os desafios do mercado. Nossa equipe é composta por profissionais apaixonados e comprometidos, que trabalham em um ambiente estimulante e inspirador. Na Vertem, acreditamos no poder da tecnologia para transformar negócios e estamos em constante evolução para oferecer as melhores soluções aos nossos clientes. Venha fazer parte dessa equipe incrível e faça a diferença conosco!
+RESPONSABILIDADES E ATRIBUIÇÕES
+Criar os serviços que serão consumidos pelas nossas aplicações;Desenvolver novos projetos;Prestar suporte do produto aos demais times da empresa;Colaborar com a prototipação de novas funcionalidades junto ao Product Manager;Desenvolver códigos limpos e funcionais, de fácil entendimento e manutenção;Participar das cerimônias da empresa (daily, retro e review, planning, etc);Trabalhar em equipe e boa comunicação;
+Criar os serviços que serão consumidos pelas nossas aplicações;
+Desenvolver novos projetos;
+Prestar suporte do produto aos demais times da empresa;
+Colaborar com a prototipação de novas funcionalidades junto ao Product Manager;
+Desenvolver códigos limpos e funcionais, de fácil entendimento e manutenção;
+Participar das cerimônias da empresa (daily, retro e review, planning, etc);
+Trabalhar em equipe e boa comunicação;
+REQUISITOS E QUALIFICAÇÕES
+React com TypeScript;HTML5, CSS, Styled Components, SASS, Flexbox, Bootstrap;DEVOPS, Git, Gitflow e Clean code;Metodologias Ágeis;Componentização;DiferencialTestes unitários (Jest, Cypress, etc);Vivência com bancos relacionais e não relacionais;Conhecimento em React Native;Trabalhar com CI/CD;Micro frontend;Docker e Nginx;
+React com TypeScript;
+HTML5, CSS, Styled Components, SASS, Flexbox, Bootstrap;
+DEVOPS, Git, Gitflow e Clean code;
+Metodologias Ágeis;
+Componentização;
+Diferencial
+Testes unitários (Jest, Cypress, etc);
+Vivência com bancos relacionais e não relacionais;
+Conhecimento em React Native;
+Trabalhar com CI/CD;
+Micro frontend;
+Docker e Nginx;
+INFORMAÇÕES ADICIONAIS
+O que temos para te oferecer?
+Flex Office (modelo híbrido de trabalho - 2 dias home office e 3 dias
+presenciais)
+Day off Aniversário
+Aprendizado e capacitação contínua;
+Trabalho em equipe - Desenvolvimento ágil;
+Nosso ambiente é inspirador e disruptivo ;
+ 
+Os benefícios que te esperam são:
+Vale Refeição/Alimentação flexíveis: de R$ 40,00 ao dia;
+Assistência Médica: Amil;
+Assistência Odontológica: Sul América;
+Seguro de Vida: Sul América.
+Auxílio Creche: Para filhos até 5 anos de idade (60 meses completos);
+VT / Estacionamento / Fretado;
+ 
+Calma, tem mais:
+QultureRocks: Plataforma de gestão de performance e desempenho;
+Total Pass;
+Horário flexível;
+Auxílio educação a partir de 12 meses de empresa;
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Bate Papo  com RH2Bate Papo  com RH
+Etapa 2: Bate Papo  com RH
+2
+Bate Papo  com RH
+Etapa 3: Bate Papo com Gestor 3Bate Papo com Gestor 
+Etapa 3: Bate Papo com Gestor 
+3
+Bate Papo com Gestor 
+Etapa 4: Contratação4Contratação
+Etapa 4: Contratação
+4
+Contratação
+QUEM SOMOS
+Somos líderes de mercado em engajamento. Acreditamos no poder transformador do “engajar” para criar conexões verdadeiras e positivas entre marcas e pessoas. Para isso, dominamos completamente o assunto. Reunimos tudo o que envolve fidelidade, incentivo e benefícios para oferecer soluções completas para nossos clientes, criando aplicações, tecnologias e estratégias que definem novos paradigmas no mercado.
+ 
+Quanto mais diversidade, mais possibilidades
+A força da diversidade é essencial para a nossa empresa. Traz pluralidade de visões e ajuda a multiplicar os caminhos que podemos seguir em nossos negócios. Incentivamos e valorizamos, para todas as nossas posições, diferenças de raça, cor, religião, gênero e identidade de gênero, nacionalidade, deficiência, orientação sexual, ascendência ou idade.

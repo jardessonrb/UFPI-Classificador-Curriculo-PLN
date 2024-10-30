@@ -1,0 +1,104 @@
+link_vaga-https://granitopagamentos.gupy.io/job/eyJqb2JJZCI6NzcyMDAwMCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR BACKEND .NET - SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Com a visão voltada para o futuro, estamos preparados para moldar o amanhã das transações financeiras, não apenas atendendo, mas também antecipando as necessidades dos nossos clientes.
+ 
+Inter Pag, a maquininha do Inter. 🧡🚀
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+Responsabilidades como desenvolvedor:
+Análise e elaboração de desenvolvimento de aplicações
+Criar e manter atualizada a documentação técnica dos sistemas desenvolvidos pela equipe
+Criar e manter atualizada a documentação técnica dos sistemas desenvolvidos pela equipe
+Realização de revisões de código para garantir artefatos padronizados e de qualidade
+Realização de revisões de código para garantir artefatos padronizados e de qualidade
+Orientação nas implementações de testes automatizados
+Orientação nas implementações de testes automatizados
+Sugestão de modelos de desenvolvimento que aumente a qualidade dos produtos e a agilidade dos times
+Sugestão de modelos de desenvolvimento que aumente a qualidade dos produtos e a agilidade dos times
+Trabalho em Equipe
+Trabalho em Equipe
+Comunicação 360 com transparência para identificação de atritos e resolução pacifica
+Comunicação 360 com transparência para identificação de atritos e resolução pacifica
+Documentação Técnica com Confluence ou Wiki﻿
+Documentação Técnica com Confluence ou Wiki﻿
+REQUISITOS E QUALIFICAÇÕES
+Experiência em desenvolvimento utilizando as tecnologias relacionadas: .Net (C#, ASP.Net) - (Diferencial): Golang ou Python
+web services (REST)
+Ambiente Windows
+Banco de dados relacional
+Devops - CI/CDGit
+ 
+Experiência em AWS. (Diferencial)
+[+]EKS
+[+]ECS
+[+]SQS
+[+]Redis
+[+]Dynamodb
+[+]s3
+[+]certificações.
+ 
+Experiência em ferramentas de APM (Application Performance Management). (Diferencial)
+[+]Grafana
+[+]Elastic
+ 
+Diferencial:
+[+]Conhecimento de fluxos regulatórios junto ao BACEN, como normativas 3.952 e 4.734, de fluxo de registro de recebíveis. E fluxos de liquidação usando o produto SLC da Nuclea.
+INFORMAÇÕES ADICIONAIS
+Contratação CLT;Modelo híbrido (3x presencial e 2x home office)Auxilio mobilidade (vale-transporte ou auxilio combustível/pedágio) - Flash Benefícios;Auxilio Refeição/Alimentação - Flash Benefícios;Assistência médica e odontológica - SulAméricaSeguro de Vida;Day Off no mês de aniversário;Total PassBônus anual
+Contratação CLT;
+Modelo híbrido (3x presencial e 2x home office)
+Auxilio mobilidade (vale-transporte ou auxilio combustível/pedágio) - Flash Benefícios;
+Auxilio Refeição/Alimentação - Flash Benefícios;
+Assistência médica e odontológica - SulAmérica
+Seguro de Vida;
+Day Off no mês de aniversário;
+Total Pass
+Bônus anual
+Bônus anual
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Entrevista Rh3Entrevista Rh
+Etapa 3: Entrevista Rh
+3
+Entrevista Rh
+Etapa 4: Entrevista gestor 4Entrevista gestor 
+Etapa 4: Entrevista gestor 
+4
+Entrevista gestor 
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+NOSSA HISTÓRIA I INTER PAG
+Sobre nós: 
+ 
+ 
+Somos a Inter Pag!
+No mercado há nove anos, somos uma empresa brasileira pioneira em recebimento de pagamentos via transações eletrônicas, que se destacou pela tecnologia completa e se tornou uma importante adquirente no Brasil, ao oferecemos soluções personalizadas e diferenciadas aos nossos clientes.
+Anteriormente como Granito, agora, com a liderança total do Inter, a marca mudou para Inter Pag!
+O que não mudou é que continuamos nossa jornada de inovação, agilidade e acessibilidade, com foco em soluções inteligentes de pagamento para o mercado.
+ 
+Agora, essa tecnologia completa passa a integrar o ecossistema Inter para empresas e, com a visão voltada para o futuro, estamos preparados para moldar o amanhã das transações financeiras, não apenas atendendo, mas também antecipando as necessidades dos nossos clientes.
+VEM SABER MAIS SOBRE A GENTE!
+Website
+LinkedIn
+Facebook
+Instagram

@@ -1,0 +1,113 @@
+link_vaga-https://zig.gupy.io/job/eyJqb2JJZCI6NzY3MDQ4OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR BACKEND PLENO/SÊNIOR - BH/ SP
+Tipo de vaga: Pessoa jurídicaPessoa jurídica
+Tipo de vaga: Pessoa jurídica
+Pessoa jurídica
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Zig é a primeira Funtech do mercado de tecnologia para o entretenimento ao vivo com atuação mundial. Presente em grandes festivais, eventos, arenas, feiras, bares e casas noturnas, trazendo inovação e tecnologia para toda a jornada do entretenimento, com soluções e gestão de consumo cashless.
+ 
+O mundo é fun!
+Nós, da Zig, The Global Funtech, acreditamos, mais do que nunca, que cada evento que ajudamos a realizar é único e uma inspiração para mudar a forma como as pessoas vivenciam os eventos ao vivo. Aqui e no mundo. Por isso, a Zig já nasceu sem fronteiras para o entretenimento, temos expertise nas principais áreas de atuação. Unimos diversão e tecnologia para criar a melhor experiência para nossos clientes.
+Aqui, você encontrará um ambiente dinâmico, flexível e alegre! Estamos crescendo rapidamente e melhorando a cada dia! Você terá a chance de crescer e se desenvolver junto com a empresa, podendo contribuir ativamente com as suas ideias e fazer um trabalho relevante para levar nossa experiência para cada vez mais pessoas.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver código limpo e de fácil manutenção;Colaborar no escopo e concepção de novas funcionalidades e soluções técnicas;Realizar melhorias e correções nos sistemas já existentes.
+Desenvolver código limpo e de fácil manutenção;
+Colaborar no escopo e concepção de novas funcionalidades e soluções técnicas;
+Realizar melhorias e correções nos sistemas já existentes.
+REQUISITOS E QUALIFICAÇÕES
+Residir em Belo Horizonte/MG ou São Paulo/SP para modelo híbrido.Experiencia com desenvolvimento em Typescript;Experiência com testes unitário e de integração;Conhecimento em Git;Conhecimento em Node;Conhecimento em Python;Conhecimento em MySQL/PostgreSQL;Conhecimento em Microserviços;Conhecimento em Processamento em filas (amazon sqs, kafka, rabbitmq).Diferencial:Conhecimento em serviços de cloud AWS;Conhecimento em Kubernetes;Conhecimento em Knex (quey builder);Integrações com terceiros;Banco de dados não relacional;Experiência em outras ticketeiras do mercado nacional/internacional.
+Residir em Belo Horizonte/MG ou São Paulo/SP para modelo híbrido.
+Experiencia com desenvolvimento em Typescript;
+Experiência com testes unitário e de integração;
+Conhecimento em Git;
+Conhecimento em Node;
+Conhecimento em Python;
+Conhecimento em MySQL/PostgreSQL;
+Conhecimento em Microserviços;
+Conhecimento em Processamento em filas (amazon sqs, kafka, rabbitmq).
+Diferencial:
+Conhecimento em serviços de cloud AWS;
+Conhecimento em Kubernetes;
+Conhecimento em Knex (quey builder);
+Integrações com terceiros;
+Banco de dados não relacional;
+Experiência em outras ticketeiras do mercado nacional/internacional.
+INFORMAÇÕES ADICIONAIS
+ 
+ 
+Saúde e Bem-estar: 
+Saúde e Bem-estar: 
+Assistência Médica e Odontológica.
+Assistência Médica e Odontológica.
+Para você cuidar da sua saúde emocional, temos psicoterapia online pelo convênio ou Vittude, parceria de descontos.
+Para você cuidar da sua saúde emocional, temos psicoterapia online pelo convênio ou Vittude, parceria de descontos.
+Totalpass e Gympass - descontos especiais em academias e estúdios pra dar aquele incentivo pro projeto verão.
+Totalpass e Gympass - descontos especiais em academias e estúdios pra dar aquele incentivo pro projeto verão.
+Em São Paulo, as terças e quartas, acontece uma partidinha de futebol e vôlei.
+Em São Paulo, as terças e quartas, acontece uma partidinha de futebol e vôlei.
+ 
+ 
+Modalidade: PJ - com atuação em Belo Horizonte/MG ou São Paulo/SP.
+Modalidade: PJ - com atuação em 
+ 
+ 
+Tá pensando que acabou? Ainda tem mais viu!
+Tá pensando que acabou? Ainda tem mais viu!
+ 
+ 
+Tirar aquele descanso pra curtir o aniversário? Temos também! Day off no mês do seu níver está mais que garantido;
+Tirar aquele descanso pra curtir o aniversário? Temos também! Day off no mês do seu níver está mais que garantido;
+Kit onboarding com tudo que você precisa pra começar com muita energia e acolhimento no nosso time;
+Kit onboarding com tudo que você precisa pra começar com muita energia e acolhimento no nosso time;
+Também temos o SwileShop, onde estão cadastrados mais de 2.500 parceiros, com descontos exclusivos pra economizar uma graninha na hora das compras;
+Também temos o SwileShop, onde estão cadastrados mais de 2.500 parceiros, com descontos exclusivos pra economizar uma graninha na hora das compras;
+Parceria com o Cinemark, separamos um combinho para você curtir um cinema, no precinho.
+Parceria com o Cinemark, separamos um combinho para você curtir um cinema, no precinho.
+Aprender um novo idioma? Temos condições incríveis para quem quer aprender um novo idioma. Aliás, um não, são OITO NOVOS IDIOMAS!
+Aprender um novo idioma? Temos condições incríveis para quem quer aprender um novo idioma. Aliás, um não, são OITO NOVOS IDIOMAS!
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Mapeamento Comportamental2Mapeamento Comportamental
+Etapa 2: Mapeamento Comportamental
+2
+Mapeamento Comportamental
+Etapa 3: Teste Fit Cultural3Teste Fit Cultural
+Etapa 3: Teste Fit Cultural
+3
+Teste Fit Cultural
+Etapa 4: Entrevista com RH e Área4Entrevista com RH e Área
+Etapa 4: Entrevista com RH e Área
+4
+Entrevista com RH e Área
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+SOMOS A ZIG 🚀
+Mas afinal, o que é ser Zig?
+Construímos histórias para nos orgulharmos!
+Cada passo dado, aprendizado e conquista tem um enorme significado e valor.
+Nos orgulhamos da nossa história e do caminho que trilhamos até aqui, com paixão!
+Não nos falta compromisso!
+ O comprometimento genuíno de cada Zigger com a empresa, com o cliente, com os colegas, com a entrega é notável.
+Vivemos e fazemos acontecer nosso sonho todos os dias.
+Damos o nosso melhor em tudo!
+Nosso time faz o melhor, mesmo quando ninguém está vendo. Fazemos por amor e por acreditar.
+A soma das atitudes que temos diariamente enriquecem experiências e transformam nosso negócio.
+#VEMSERZIG
+#VEMSERZIG
+ 
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Instagram

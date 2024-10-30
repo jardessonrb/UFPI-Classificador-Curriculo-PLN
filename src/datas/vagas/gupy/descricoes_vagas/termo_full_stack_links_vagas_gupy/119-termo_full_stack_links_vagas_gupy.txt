@@ -1,0 +1,95 @@
+link_vaga-https://fcamara.gupy.io/job/eyJqb2JJZCI6Nzc5ODk1MSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA FULL STACK- SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+A OMNIK está em busca de uma Pessoa Desenvolvedora Full Stack- Sênior, para atuar em parceria com uma plataforma de negócios que desenvolve um Seller Center e realiza toda a gestão de uma operação marketplace, com várias integrações e automações, sempre pensando em ampliar os modelos de negócio de e-commerces, indústria, lojas físicas, pequenos, médios e grandes negócios.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Responsabilidades:
+-Desenvolver e manter aplicações web de ponta a ponta, desde o frontend até o backend, garantindo alta qualidade, desempenho e segurança.
+· Colaborar com equipes multidisciplinares para entender os requisitos do projeto e propor soluções técnicas eficazes.
+· Participar ativamente do processo de desenvolvimento, desde a concepção até a entrega, garantindo a aderência aos padrões de qualidade e às melhores práticas de desenvolvimento.
+· Contribuir para a melhoria contínua dos processos e práticas de desenvolvimento, compartilhando conhecimento e experiência com a equipe.
+REQUISITOS E QUALIFICAÇÕES
+Hard Skills:
+· Experiência comprovada como desenvolvedor fullstack, com habilidades sólidas tanto no frontend quanto no backend.
+· Conhecimento de tecnologias como Vue.js, CSS, Node.js e Java com Spring Boot.
+· Conhecimento em tecnologias de persistência de dados como o MongoDB, MySQL, Postgress e Redis.
+· Conhecimento de arquitetura orientada a eventos, utilizando tecnologias de mensageria como o RabbitMQ.
+· Comprometimento com a entrega de soluções de alta qualidade, com conhecimento na construção de testes unitários.
+· Excelentes habilidades de comunicação e capacidade de trabalhar efetivamente em equipe multidisciplinar.
+· Conhecimento em ferramentas de monitoração como o New Relic, Amazon Athena e Uptime Robot
+· Conhecimento prático de metodologias ágeis, como Scrum ou Kanban, e ferramentas de gestão de projetos, como Jira ou Trello.
+Diferenciais:
+· Conhecimento em princípios de design centrado no usuário.
+· Conhecimento no modelo de negócio de Marketplaces, Cross-Docking e Drop-Shipping
+· Experiência prévia atuando em empresas de plataforma SAS B2B
+· Conhecimento em plataformas de Marketplace como Adobe, Shopify e VTEX
+· Conhecimento em Apache Nifi
+INFORMAÇÕES ADICIONAIS
+Fundada em 2017 no Brasil, a OmniK atua nos Modelos B2C, B2B e D2C em diversos segmentos de negócio, entre eles, Agronegócio, Varejo, Indústrias, Bancos, Redes de Farmácias, Associações e empresas de saúde.
+A Omnik se destaca como uma empresa que oferece uma solução completa e inovadora para o desafiante cenário do comércio digital. Aqui estão alguns dos diferenciais da nossa plataforma SAS:
+1. Inovação em um Mercado em Crescimento: A OmniK possui o melhor Seller Center SAS do Brasil, líder de um mercado em expansão, proporcionamos soluções avançadas para transformarmos E-commerces em Marketplaces.
+2. Facilidade de Implementação e Utilização: A plataforma Omnik se destaca por sua facilidade de implementação e utilização intuitiva, o que facilita o gerenciamento de modelos de negócios complexos, como Marketplaces, Cross-Docking e Drop-Shipping
+3. Integrações e Ecossistema Digital Abrangente: A empresa oferece integrações nativas com os principais players do ecossistema digital brasileiro, desde hubs e ERPs até soluções logísticas e de pagamento, além de plataformas de e-commerce como a Adobe, Shopfy e VTEX.
+4. Atuação em Diferentes Segmentos de Negócio: A empresa atende a diversos segmentos de negócio, incluindo agronegócio, varejo, indústrias, bancos, redes de farmácias, associações e empresas de saúde.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista R&S2Entrevista R&S
+Etapa 2: Entrevista R&S
+2
+Entrevista R&S
+Etapa 3: Entrevista técnica 3Entrevista técnica 
+Etapa 3: Entrevista técnica 
+3
+Entrevista técnica 
+Etapa 4: CV enviado ao Cliente4CV enviado ao Cliente
+Etapa 4: CV enviado ao Cliente
+4
+CV enviado ao Cliente
+Etapa 5: Entrevista Cliente5Entrevista Cliente
+Etapa 5: Entrevista Cliente
+5
+Entrevista Cliente
+Etapa 6: Carta Proposta6Carta Proposta
+Etapa 6: Carta Proposta
+6
+Carta Proposta
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+TRANSFORMAMOS MUNDOS SONHADOS EM TRAJETÓRIAS REAIS.🧡🚀
+Aqui somos #SangueLaranja!Estamos há 17 anos no mercado, lado a lado com nossos clientes, proporcionando experiências transformadoras. Somos um ecossistema de tecnologia e inovação, com expansão global; Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda. 🌎  F de Formação: acreditamos na prática da cultura do compartilhamento, no senso de comunidade, e que o conhecimentotem o poder da transformação! Possuímos iniciativas, e ações sociais, que promovem o desenvolvimento, como a comunidade tech Orange Juice, o Programa de Formação,nossa escola de liderança e diversas parcerias com ONGs e Edtechs.   Na FCamara todos são bem-vindos, para nós, Diversidade, Respeito e Ética, são elementos inegociáveis e fazem parte do nosso DNA.   E aí, está pronto para fazer parte de um time incrível e ser protagonista da própria história?    
+Aqui somos #SangueLaranja!
+Estamos há 17 anos no mercado, lado a lado com nossos clientes, proporcionando experiências transformadoras. 
+Somos um ecossistema de tecnologia e inovação, com expansão global; Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda. 🌎
+Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda.
+  
+F de Formação: acreditamos na prática da cultura do compartilhamento, no senso de comunidade, e que o conhecimento
+tem o poder da transformação!
+ 
+Possuímos iniciativas, e ações sociais, que promovem o desenvolvimento, como a comunidade tech Orange Juice, o Programa de Formação,
+nossa escola de liderança e diversas parcerias com ONGs e Edtechs. 
+  
+Na FCamara todos são bem-vindos, para nós, Diversidade, Respeito e Ética, são elementos inegociáveis e fazem parte do nosso DNA. 
+  
+E aí, está pronto para fazer parte de um time incrível e ser protagonista da própria história? 
+   
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

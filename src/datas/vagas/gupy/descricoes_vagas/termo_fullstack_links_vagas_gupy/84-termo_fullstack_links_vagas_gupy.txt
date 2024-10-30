@@ -1,0 +1,129 @@
+link_vaga-https://kenlo.gupy.io/job/eyJqb2JJZCI6NzcyOTI5OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA FULLSTACK (REACT/NODE)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Somos a Kenlo, líder no mercado nacional com soluções que elevam as imobiliárias e corretores a máxima potência impulsionando a digitalização e autonomia do mercado imobiliário. 
+Somos a Kenlo, líder no mercado nacional com soluções que elevam as imobiliárias e corretores a máxima potência impulsionando a digitalização e autonomia do mercado imobiliário. 
+Nós acreditamos que somente em um ambiente com diversidade que a inovação e a transformação acontecem, por isso, estamos focados na construção de times diversos, para que cada pessoa possa complementar com a sua visão de mundo. As nossas oportunidades são para todas as pessoas e estamos preparados para recebê-los! 
+Nós acreditamos que somente em um ambiente com diversidade que a inovação e a transformação acontecem, por isso, estamos focados na construção de times diversos, para que cada pessoa possa complementar com a sua visão de mundo. As nossas oportunidades são para todas as pessoas e estamos preparados para recebê-los! 
+Nosso time de Engenharia é formado por pessoas que são apaixonadas pela tecnologia e respiram inovação. Buscamos uma Pessoa Desenvolvedora FullStack (React / Node) com o propósito de realizar o desenvolvimento de softwares sustentáveis, com arquitetura distribuída e altamente escalável, contribuindo diretamente para evolução do nosso produto e time, garantindo experiências únicas para nossos usuários. 
+Nosso time de 
+ é formado por pessoas que são apaixonadas pela
+. Buscamos uma 
+ com o propósito de realizar o desenvolvimento de
+ softwares sustentáveis, com arquitetura distribuída e altamente escalável, contribuindo diretamente para evolução do nosso produto e time, garantindo experiências únicas para nossos usuários. 
+Juntos vamos ainda mais longe. 
+Juntos vamos ainda mais longe. 
+#sejaumkenlover.
+#sejaumkenlover.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Aqui o seu propósito será:
+Participar de todo o ciclo de vida dos produtos, com foco no desenvolvimento Web de ponta a ponta, desde o planejamento até a implementação final.
+Inovar constantemente na área de tecnologia, propondo e implementando soluções para problemas técnicos e de metodologia/processo.
+Colaborar com a equipe para definir arquiteturas e estratégias de implementação de novas funcionalidades, visando fornecer uma experiência única e satisfatória aos usuários.
+Manter e refatorar códigos existentes, além de desenvolver novas funcionalidades de acordo com as necessidades do produto.
+Escrever código limpo, utilizando boas práticas de desenvolvimento como Clean Code, assegurando uma arquitetura adaptativa, evolutiva e de fácil manutenção.
+Criar códigos reutilizáveis, testáveis e eficientes, que promovam a escalabilidade e a qualidade do software.
+Automatizar processos manuais e rotineiros para otimizar o tempo dedicado ao desenvolvimento, eliminando atividades repetitivas.
+Desenvolver e executar testes automatizados (unitários, de integração, performance, etc.) para garantir a qualidade e agilidade na entrega e manutenção de produtos.
+Realizar testes contínuos para assegurar a robustez e a confiabilidade das soluções desenvolvidas.
+REQUISITOS E QUALIFICAÇÕES
+O que esperamos de você:
+Proficiência em React e Node.js.
+Experiência em desenvolver microsserviços utilizando Node.js e TypeScript.
+Conhecimento em desenvolvimento de APIs REST com Node.js.
+Familiaridade com Firebase e suas ferramentas.
+Conhecimento avançado em HTML, CSS e JavaScript.
+Experiência prática com frameworks front-end, especialmente React.
+Habilidade em otimização de desempenho e práticas de SEO.
+Capacidade de traduzir designs complexos em código de alta qualidade e responsivo.
+Conhecimento em pré-processadores de CSS (Sass, Less, etc.).
+Experiência com React Hooks, Context API e Composition API.
+Experiência na implementação de páginas com layout responsivo.
+Conhecimento em Serverless Functions e Caching (Redis).
+Experiência em comunicação assíncrona entre serviços, utilizando filas e tópicos (AWS SQS, Google Pub/Sub, RabbitMQ, etc.).
+Domínio de Git (branches, git flow) para controle de versão.
+Experiência com bancos de dados relacionais (MSSQL, MySQL, Postgres) e NoSQL (MongoDB).
+Familiaridade com ferramentas de testes (Mocha, Chai, Sinon) e bibliotecas (ESLint, Sequelize, Mongoose, Swagger).
+Competência no uso de ferramentas como Npm e Docker.
+Inglês avançado. 
+Você terá destaque se:
+Experiência com arquitetura em AWS.
+Conhecimento em ElasticSearch.
+Experiência com GraphQL.
+Familiaridade com metodologias ágeis (SCRUM, Kanban, Lean, etc.).
+Soft Skills:
+Forte desejo de auto desenvolvimento e aprimoramento.
+Comunicação assertiva e objetiva.
+Buscar inovar, pensar com foco em entrega de valor contínuo.
+Facilidade em trabalhar de forma ágil e cooperativa.
+INFORMAÇÕES ADICIONAIS
+Aqui nós valorizamos o protagonismo da sua carreira, por isso, temos algumas iniciativas que poderão apoiá-lo, como: 
+Aqui nós valorizamos o protagonismo da sua carreira, por isso, temos algumas iniciativas que poderão apoiá-lo, como: 
+Programa e plataforma de educação corporativa;
+Programa e plataforma de educação corporativa;
+Ferramentas para desenvolvimento de carreira;
+Ferramentas para desenvolvimento de carreira;
+Avaliação de desempenho semestral;
+Avaliação de desempenho semestral;
+Incentivo a prática de feedbacks e 1-1,
+Incentivo a prática de feedbacks e 1-1,
+Programa de QI - Quem Indica
+Programa de QI - Quem Indica
+Entre outras iniciativas para elevar o potencial dos nossos kenlovers.
+Entre outras iniciativas para elevar o potencial dos nossos kenlovers.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista Cultura e Talento2Entrevista Cultura e Talento
+Etapa 2: Entrevista Cultura e Talento
+2
+Entrevista Cultura e Talento
+Etapa 3: Teste Técnico 3Teste Técnico 
+Etapa 3: Teste Técnico 
+3
+Teste Técnico 
+Etapa 4: Entrevista Técnica com Líder4Entrevista Técnica com Líder
+Etapa 4: Entrevista Técnica com Líder
+4
+Entrevista Técnica com Líder
+Etapa 5: Bate Papo com a Liderança da Área5Bate Papo com a Liderança da Área
+Etapa 5: Bate Papo com a Liderança da Área
+5
+Bate Papo com a Liderança da Área
+Etapa 6: Proposta de Contratação6Proposta de Contratação
+Etapa 6: Proposta de Contratação
+6
+Proposta de Contratação
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+RAZÕES PARA VIR PRA CÁ!
+Somos Kenlo, uma empresa de tecnologia apaixonada por inovação e líder no mercado nacional em sistemas de gestão imobiliária.
+Levamos transformação digital para corretores e imobiliárias, reinventando a forma como as pessoas transacionam imóveis e impactando milhares de players do mercado.
+Aqui, nós:
+Vivemos uma cultura de protagonismo e autonomia;
+Trabalhamos em time e enfrentamos os desafios juntos;
+Acreditamos no poder dos dados, buscando sempre a evolução da nossa performance;
+Entregamos valor aos nossos clientes e encantamos os nossos os Kenlovers.
+Praticamos uma cultura de gestão horizontal, facilitando nossa comunicação e acessibilidade com menos escalas. Você ainda pode escolher de onde prefere trabalhar, com flexibilidade de horário! E caso opte por ir em nosso escritório, temos uma infraestrutura bem legal te esperando :) 
+Juntos vamos ainda mais longe.
+#SejaumKenlover.
+SAIBA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

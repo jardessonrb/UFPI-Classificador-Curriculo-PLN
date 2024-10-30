@@ -1,0 +1,105 @@
+link_vaga-https://vwbrasil.gupy.io/job/eyJqb2JJZCI6NzgwNzE0NCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA CONSULTORA DE DESENVOLVIMENTO FULL STACK
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+DESCRIÇÃO DA VAGA
+Atuação na equipe do Competence Center responsável pelo suporte global ao Sistema de Gerenciamento e Controle de Produção (FIS) para 16 fábricas de diferentes marcas do grupo VW, atuando com foco no desenvolvimento e suporte de soluções digitais baseadas em node-red, javascript, next e react. Atuação no atendimento às areas de negócios para resolução de incidentes. Visão holistica da plataforma criada pela Volkswagen para desenvolvimento de soluções digitais para chão de fábrica e suas integrações, implementar e consolidar o uso de boas práticas desenvolvimento dentro da operação, alinhado com as politicas da VW. Suporte ao time nas definições tecnológicas e estratégias de arquitetura no desenvolvimento de soluções. Atuação no desenvolvimento de sistemas para atendimento de necessidades da operação FIS-CC e também de novas soluções para areas de negócio. 
+RESPONSABILIDADES E ATRIBUIÇÕES
+ Responsável pela implementação e manutenção do processo de QA no time de desenvolvimento; Documentação técnica descrevendo requisitos funcionais e não-funcionais; Desenvolvimento de treinamentos e documentação, incluindo aplicação para usuários; Desenvolvimento de soluções com as tecnologias: Node/JS, Node-RED, JavaScript, Next, React; Conhecimento no uso de ferramentas de versionamento de código (Bitbucket); Desenvolvimento de testes automatizados para validação de códigos; Sustentação de soluções digitais voltadas para ambiente de chão de fábrica; Analise de incidentes de baixa e alta criticidade visando restablecer o correto funcionamento do sistema; Analise de ticket de problemas visando a identificação de causa raiz para incidentes e solução definitiva; Consultoria para areas de negócios visando adequar o ambiente sistemico para atendimento às necessidades da area , podendo ou não implicar no desenvolvimento de novos sistemas; Realização de estudos e testes para aprovação de conceitos/novas funcionalidades/soluções; Criação de documentação para suporte a processos e atendimento de boas práticas de governança; Analisar logs do sistema operacional e banco de dados; Elaborar e executar queries usando SQL; Experiência com processos de produção é diferencial; Experiência no desenvolvimento de soluções baseadas em NODE/JS;Conhecimentos de banco de dados(desejável DB2).
+ Responsável pela implementação e manutenção do processo de QA no time de desenvolvimento;
+ Documentação técnica descrevendo requisitos funcionais e não-funcionais;
+ Desenvolvimento de treinamentos e documentação, incluindo aplicação para usuários;
+ Desenvolvimento de soluções com as tecnologias: Node/JS, Node-RED, JavaScript, Next, React;
+ Conhecimento no uso de ferramentas de versionamento de código (Bitbucket);
+ Desenvolvimento de testes automatizados para validação de códigos;
+ Sustentação de soluções digitais voltadas para ambiente de chão de fábrica;
+ Analise de incidentes de baixa e alta criticidade visando restablecer o correto funcionamento do sistema;
+ Analise de ticket de problemas visando a identificação de causa raiz para incidentes e solução definitiva;
+ Consultoria para areas de negócios visando adequar o ambiente sistemico para atendimento às necessidades da area , podendo ou não implicar no desenvolvimento de novos sistemas;
+ Realização de estudos e testes para aprovação de conceitos/novas funcionalidades/soluções;
+ Criação de documentação para suporte a processos e atendimento de boas práticas de governança;
+ Analisar logs do sistema operacional e banco de dados;
+ Elaborar e executar queries usando SQL;
+ Experiência com processos de produção é diferencial;
+ Experiência no desenvolvimento de soluções baseadas em NODE/JS;
+Conhecimentos de banco de dados(desejável DB2).
+REQUISITOS E QUALIFICAÇÕES
+Ensino Superior completo em Tecnologia da Informação, Engenharia, Ciência da Computação ou Sistemas de Informação;Experiência comprovada com mais de 4 anos nas tecnologias Next.JS, Chakra.UI, Node.JS, React, React-Native, Node-Red, Bitbucket, Unix, shell script;Conhecimento avançado em React e Next.JS;Experiencia em desenvolvimento de soluções responsivas (adaptáveis a diferentes dispositivos / sistemas operacionais);Conhecimento em JavaScript;Conhecimento em Node.JS, incluindo experiência com APIs RESTful e integrações;Familiaridade com integração de soluções entre ambiente On-Premisse e Cloud (AWS);Experiencia com sistemas de controle de versionamento (Bitbucket);Habilidade para contribuir na definição da arquitetura de sistemas, escolher tecnologias adequadas, e garantir escalabilidade, desempenho e segurança do software;Metodologia Àgil aplicada ao desenvolvimento;Experiência no desenvolvimento de testes automatizados de código;Estar sempre em busca de novas tecnologias / dispositivos que possam agregar valor e agilidade para o negócio;Conhecimentos de UNIX (AIX / LINUX desejado);banco de dados(desejável DB2);Inglês avançado;Pro-atividade, objetividade, trabalho em equipe, resiliencia, inovação.Desejável:  Conhecer o processo produtivo de veiculos para trazer novas ideias que ajudem nos processos internos.
+Ensino Superior completo em Tecnologia da Informação, Engenharia, Ciência da Computação ou Sistemas de Informação;
+Experiência comprovada com mais de 4 anos nas tecnologias Next.JS, Chakra.UI, Node.JS, React, React-Native, Node-Red, Bitbucket, Unix, shell script;
+Conhecimento avançado em React e Next.JS;
+Experiencia em desenvolvimento de soluções responsivas (adaptáveis a diferentes dispositivos / sistemas operacionais);
+Conhecimento em JavaScript;
+Conhecimento em Node.JS, incluindo experiência com APIs RESTful e integrações;
+Familiaridade com integração de soluções entre ambiente On-Premisse e Cloud (AWS);
+Experiencia com sistemas de controle de versionamento (Bitbucket);
+Habilidade para contribuir na definição da arquitetura de sistemas, escolher tecnologias adequadas, e garantir escalabilidade, desempenho e segurança do software;
+Metodologia Àgil aplicada ao desenvolvimento;
+Experiência no desenvolvimento de testes automatizados de código;
+Estar sempre em busca de novas tecnologias / dispositivos que possam agregar valor e agilidade para o negócio;
+Conhecimentos de UNIX (AIX / LINUX desejado);banco de dados(desejável DB2);
+Inglês avançado;
+Pro-atividade, objetividade, trabalho em equipe, resiliencia, inovação.
+Desejável: 
+ Conhecer o processo produtivo de veiculos para trazer novas ideias que ajudem nos processos internos.
+INFORMAÇÕES ADICIONAIS
+Disponibilidade para atuar no modelo híbrido (Curtiba/PR); Disponibilidade para trabalhar nos 03 turnos, conforme a necessidade da área;Disponibilidade para viagens, nacionais e internacionais esporádicas.
+Disponibilidade para atuar no modelo híbrido (Curtiba/PR);
+ Disponibilidade para trabalhar nos 03 turnos, conforme a necessidade da área;
+Disponibilidade para viagens, nacionais e internacionais esporádicas.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista - Talent Acquisition2Entrevista - Talent Acquisition
+Etapa 2: Entrevista - Talent Acquisition
+2
+Entrevista - Talent Acquisition
+Etapa 3: Entrevista - Liderança3Entrevista - Liderança
+Etapa 3: Entrevista - Liderança
+3
+Entrevista - Liderança
+Etapa 4: Etapa Teste4Etapa Teste
+Etapa 4: Etapa Teste
+4
+Etapa Teste
+Etapa 5: Exame Médico5Exame Médico
+Etapa 5: Exame Médico
+5
+Exame Médico
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+CONHEÇA A VOLKSWAGEN
+A Volkswagen está na vida, no coração e na garagem dos brasileiros. São 70 anos de uma história construída por milhares de mãos, que buscam entregar produtos e serviços cada vez mais inovadores e que vão transformar os rumos da mobilidade urbana. 
+
+A Nossa Volkswagen quer ser a cada dia mais diversa, digital, ágil, centrada no cliente e neutra em carbono. O nosso compromisso é em entregar cada vez mais valor aos nossos clientes, colaboradores, parceiros e para a sociedade. Esperamos oferecer experiências incríveis e construir o futuro de uma maneira mais sustentável e surpreendente.  
+
+Incentivamos o debate, as novas ideias e soluções. Valorizamos o trabalho em equipe, a empatia, e juntos, aceleramos! 
+
+Somos a única montadora a receber em todos os anos, desde 2019, a certificação Top Employer, o mais importante reconhecimento internacional da excelência de uma empresa na gestão de pessoas. 
+
+“Acreditamos na potência das nossas pessoas, afinal, são elas que fazem a diferença dia após dia! Trabalhamos para que todos os times estejam integrados, em constante desenvolvimento. Buscamos talentos que sejam movidos por desafios e que façam parte da transformação cultural da Nossa Volkswagen: mais humana, diversa e inclusiva!”, diz Douglas Pereira, Vice-Presidente de Recursos Humanos. 
+
+Construa com a gente a Nossa Volkswagen!
+ 
+Volkswagen tem compromisso com agenda ESG 
+Em 2020, a Volkswagen do Brasil aderiu aos Princípios de Empoderamento das Mulheres (Womens’s Empowerment Principles - WEPs, na sigla em inglês), iniciativa criada pela ONU Mulheres e o Pacto Global das Nações Unidas. Dessa forma, a VW se une a mais de 300 empresas signatárias no Brasil.  
+
+Em 2022, a Volkswagen anunciou a emissão de títulos de dívida de 500 milhões de reais, atrelados a compromissos claros da montadora de aumentar a participação de mulheres na liderança e a redução nas emissões de CO2 de origem fóssil em suas fábricas.  
+
+Com essas medidas, a VW firma ainda mais o seu compromisso em promover a igualdade de gênero na companhia, e em neutralizar emissões de carbono. 
+ 
+Fique de olho nas novidades da Volkswagen do Brasil nas nossas redes sociais. Vai que você é a pessoa que estamos procurando para fazer parte deste futuro com a gente? ;) 
+CONHEÇA UM POUCO MAIS SOBRE A VOLKSWAGEN DO BRASIL
+Website
+LinkedIn
+Facebook
+Instagram

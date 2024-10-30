@@ -1,0 +1,62 @@
+link_vaga-https://mrm.gupy.io/job/eyJqb2JJZCI6NzkzNTU1NCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+VAGA FREELANCER - DESENVOLVEDOR FRONT END COM CONHECIMENTOS EM SALESFORCE
+Tipo de vaga: FreelancerFreelancer
+Tipo de vaga: Freelancer
+Freelancer
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Buscamos uma pessoa para atuar como freelancer, na posição de Desenvolvedor Front end com conhecimentos em Salesforce  na MRM Brasil, uma agência full-service, com maior foco em digital, do McCann Worldgroup, unidade do Grupo Interpublic (IPG). Uma agência que acredita no poder das intersecções entre estratégia, criatividade e tecnologia, suportado por dados, para criar experiências totalmente humanas. Atuamos a partir do modelo híbrido de agência e consultoria de transformação digital, ajudando a fortalecer o relacionamento entre negócios e pessoas, ajudando marcas a encontrarem seu propósito, aprofundar suas relações e criar experiências que gerem crescimento.
+ 
+A MRM Brasil valoriza a criatividade e inovação, algo que é potencializado em um ambiente diverso e inclusivo, por isso damos prioridade na contratação de grupos minoritários, como pessoas com mais de 45 anos, pretas, pardas, indígenas, pessoas da comunidade LGBTQIAP+ e PCDs.
+A MRM Brasil valoriza a criatividade e inovação, algo que é potencializado em um ambiente diverso e inclusivo, por isso damos prioridade na contratação de grupos minoritários, como pessoas com mais de 45 anos, pretas, pardas, indígenas, pessoas da comunidade LGBTQIAP+ e PCDs.
+ 
+Venha fazer parte de um time Better Together onde sua individualidade é respeitada e valorizada em todos os sentidos!
+Venha fazer parte de um time 
+ 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Responsabilidades:
+- Desenvolver e-mails marketing utilizando HTML/CSS de acordo com os padrões de compatibilidade de e-mail.
+- Criar e personalizar páginas, landing pages e templates dentro da plataforma Salesforce Marketing Cloud.
+- Integrar e configurar componentes e APIs dentro do Salesforce para otimizar campanhas e comunicações.
+- Colaborar com equipes de marketing e design para implementar campanhas alinhadas com as estratégias de CRM.
+- Testar e garantir a compatibilidade dos e-mails e páginas em múltiplos navegadores e dispositivos.
+- Realizar a manutenção e otimização de códigos existentes.
+- Implementar testes A/B para otimizar o desempenho das campanhas.
+REQUISITOS E QUALIFICAÇÕES
+Requisitos:
+- Experiência sólida em desenvolvimento de e-mails HTML/CSS, com foco em compatibilidade com diferentes clientes de e-mail.
+- Experiência com Salesforce Marketing Cloud e desenvolvimento dentro da plataforma.
+- Conhecimento em Ampscript e automações dentro do Salesforce.
+- Experiência com criação de templates responsivos e adaptáveis para diferentes dispositivos.
+- Experiência com integrações de APIs REST e SOAP dentro de Salesforce (desejável).
+- Habilidade para trabalhar de forma colaborativa com equipes de design, marketing e TI.
+Diferenciais:
+- Conhecimento em outras plataformas de automação de marketing.
+- Experiência com testes A/B e personalização dinâmica de conteúdo.
+INFORMAÇÕES ADICIONAIS
+- Trabalho remoto: indo a cada 15 dias presencial para reuniões alinhamento.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista Técnica2Entrevista Técnica
+Etapa 2: Entrevista Técnica
+2
+Entrevista Técnica
+Etapa 3: Etapa com RH3Etapa com RH
+Etapa 3: Etapa com RH
+3
+Etapa com RH
+Etapa 4: Contratação4Contratação
+Etapa 4: Contratação
+4
+Contratação
+SOBRE A MRM BRASIL
+A MRM é uma agência full-service, com maior foco em digital, do McCann Worldgroup, unidade do Grupo Interpublic (IPG). Uma agência que acredita no poder das intersecções entre estratégia, criatividade e tecnologia, suportado por dados, para criar experiências totalmente humanas. Sob a liderança de Fábio Souza (CEO), atua a partir do modelo híbrido de agência e consultoria de transformação digital. Fortalecemos o relacionamento entre negócios e pessoas, ajudando marcas a encontrarem seu propósito, aprofundar suas relações e criar experiências que gerem crescimento. Na sua atuação, encontram-se entregas de branding, campanhas integradas, mídia digital e performance, ad-tech, CRM, programas de fidelidade, transformação e inovação, soluções de Commerce. Está posicionada desde 2017 como Global Digital Agency Leader pelo Gartner e como Best Workplace for Innovators na lista de 2020 da Fast Company. Com centros de excelência em tecnologia espalhados em todo o mundo e parceria com as principais plataformas de Martech (Salesforce, Adobe e Google), tem entre seus clientes no Brasil empresas como General Motors, Mastercard, Bayer, Latam Airlines, Diageo, Leroy Merlin, Banco Pan, Caixa Vida e Previdência entre outros.

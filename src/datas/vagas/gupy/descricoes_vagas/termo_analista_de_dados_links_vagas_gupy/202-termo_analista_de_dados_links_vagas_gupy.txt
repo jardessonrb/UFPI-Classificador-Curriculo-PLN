@@ -1,0 +1,87 @@
+link_vaga-https://realize.gupy.io/job/eyJqb2JJZCI6ODAyODc1NCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE ENGENHARIA DE DADOS I | REALIZE
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Estamos buscando um Analista de Engenharia de Dados para se juntar à nossa equipe da Realize. Nossa tarefa é entregar dados corretos e de forma organizada, para que as áreas de negócio da Realize possam utilizar as informações de maneira rápida e fácil, gerando insights importantes para a empresa.
+Estamos buscando um Analista de Engenharia de Dados para se juntar à nossa equipe da Realize. Nossa tarefa é entregar dados corretos e de forma organizada, para que as áreas de negócio da Realize possam utilizar as informações de maneira rápida e fácil, gerando insights importantes para a empresa.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Extrair, transformar e analisar dados de diversas fontes, utilizando SQL na plataforma Databricks.Criar análises de dados customizadas em Python para atender às necessidades específicas da equipe.Criar entidades novas ou ajustar as já existentes com novas regras e melhoria de performance.Colaborar com outras equipes da empresa para identificar oportunidades de melhorias e otimização de processos.Manter-se atualizado com as últimas tendências e tecnologias de BI.
+Extrair, transformar e analisar dados de diversas fontes, utilizando SQL na plataforma Databricks.
+Criar análises de dados customizadas em Python para atender às necessidades específicas da equipe.
+Criar entidades novas ou ajustar as já existentes com novas regras e melhoria de performance.
+Colaborar com outras equipes da empresa para identificar oportunidades de melhorias e otimização de processos.
+Manter-se atualizado com as últimas tendências e tecnologias de BI.
+REQUISITOS E QUALIFICAÇÕES
+Experiência como Analista de BI.Experiência com Databricks, SQL e Power BI.Conhecimento de Python para análise de dados.Criar pipelines de dados automatizadas usando Azure Data FactoryCapacidade de trabalhar de forma independente e em equipe.Excelente comunicação verbal e escrita.Pensamento crítico e analítico.Proatividade e iniciativa.Desejável: Conhecimento em PysparkConhecimento em Microstrategy e ODIExperiência em produtos financeiros
+Experiência como Analista de BI.
+Experiência com Databricks, SQL e Power BI.
+Conhecimento de Python para análise de dados.
+Criar pipelines de dados automatizadas usando Azure Data Factory
+Capacidade de trabalhar de forma independente e em equipe.
+Excelente comunicação verbal e escrita.
+Pensamento crítico e analítico.
+Proatividade e iniciativa.
+Desejável: 
+Conhecimento em Pyspark
+Conhecimento em Microstrategy e ODI
+Experiência em produtos financeiros
+INFORMAÇÕES ADICIONAIS
+O prazo de inscrições para os candidatos internos é até 07/11/2024.
+Local: Porto Alegre/RS
+Modelo: Híbrido
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Elegibilidade (internos)3Elegibilidade (internos)
+Etapa 3: Elegibilidade (internos)
+3
+Elegibilidade (internos)
+Etapa 4: Entrevista Inicial4Entrevista Inicial
+Etapa 4: Entrevista Inicial
+4
+Entrevista Inicial
+Etapa 5: Entrevista Final5Entrevista Final
+Etapa 5: Entrevista Final
+5
+Entrevista Final
+Etapa 6: Compliance - Bacen6Compliance - Bacen
+Etapa 6: Compliance - Bacen
+6
+Compliance - Bacen
+Etapa 7: Oferta7Oferta
+Etapa 7: Oferta
+7
+Oferta
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+TRABALHE CONOSCO
+Você sonha, a gente realiza! 😍
+A Realize CFI - Crédito, Financiamento e Investimento - é a instituição financeira do Ecossistema de Moda e Lifestyle da Lojas Renner S.A. criada para atender às necessidades dos clientes, por meio de produtos ou serviços com benefícios e diferenciais.
+Atualmente, operamos o Cartão Renner e o Meu Cartão, para compras dentro e fora das marcas do negócio, além de Saque Rápido e Seguros. Desenvolvidos para serem instrumentos transparentes e encantadores, entregando soluções completas para quem consome moda e lifestyle.
+Se o que te encanta é poder aprender, compartilhar e ensinar. Se o que te encanta é o respeito, a diversidade e a inclusão. Seu lugar é aqui.
+Junte-se ao time de 24 mil colaboradores que estão reunidos para encantar ao lado das marcas Realize, Camicado, Renner, Youcom, Ashua Curve & Plus Size e Repassa.
+E aí, vem fazer dessa transformação com a gente? 😍
+#OQueTeEncantaNosEncanta
+NOS ACOMPANHE NAS REDES SOCIAIS 📱😍
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

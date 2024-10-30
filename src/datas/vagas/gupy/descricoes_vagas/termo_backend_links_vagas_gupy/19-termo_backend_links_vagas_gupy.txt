@@ -1,0 +1,107 @@
+link_vaga-https://mindlab.gupy.io/job/eyJqb2JJZCI6Nzk5MzgzOSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR BACKEND PLENO
+Tipo de vaga: Pessoa jurídicaPessoa jurídica
+Tipo de vaga: Pessoa jurídica
+Pessoa jurídica
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Estamos em busca de um Desenvolvedor Backend Pleno para se juntar à nossa equipe de desenvolvimento. Para está posição é necessário experiência com NodeJS e o framework NestJS, conhecimento em tecnologias de contêineres como Docker, uso de controle de versão com Git e experiência com bancos de dados relacionais, especialmente PostgreSQL. Um dos papéis importantes deste profissional, é trabalhar bem em equipes multidisciplinares, além de contribuir para o desenvolvimento e manutenção de aplicações seguras e escaláveis.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver e manter aplicações backend eficientes usando NodeJS e NestJS.Adotar boas práticas de desenvolvimento, incluindo revisão de código, testes automatizados e documentação.Utilizar Docker para manter a consistência entre ambientes de desenvolvimento e produção.Colaborar com equipes de front-end, DevOps e design para desenvolver soluções integradas.Apoiar na arquitetura e design do sistema, com atenção à escalabilidade e segurança.Diagnosticar e resolver problemas, oferecendo suporte técnico para questões do backend.
+Desenvolver e manter aplicações backend eficientes usando NodeJS e NestJS.
+Adotar boas práticas de desenvolvimento, incluindo revisão de código, testes automatizados e documentação.
+Utilizar Docker para manter a consistência entre ambientes de desenvolvimento e produção.
+Colaborar com equipes de front-end, DevOps e design para desenvolver soluções integradas.
+Apoiar na arquitetura e design do sistema, com atenção à escalabilidade e segurança.
+Diagnosticar e resolver problemas, oferecendo suporte técnico para questões do backend.
+REQUISITOS E QUALIFICAÇÕES
+Experiência como Desenvolvedor Backend usando NodeJS.Proficiência em Docker e práticas de gerenciamento de contêineres.Boa experiência com controle de versão Git.Conhecimento em bancos de dados relacionais, preferencialmente PostgreSQL.Capacidade de desenvolver código limpo e eficiente.Experiência em desenvolvimento de APIs, preferencialmente GraphQL.Compreensão de conceitos de design de software e padrões de projeto.Será considerado um diferencial:Experiência com APIs RESTful.Experiência com metodologias ágeis, como Scrum ou Kanban.Conhecimentos em outras tecnologias de backend ou habilidades em desenvolvimento front-end.Certificações na área de tecnologia.
+Experiência como Desenvolvedor Backend usando NodeJS.
+Proficiência em Docker e práticas de gerenciamento de contêineres.
+Boa experiência com controle de versão Git.
+Conhecimento em bancos de dados relacionais, preferencialmente PostgreSQL.
+Capacidade de desenvolver código limpo e eficiente.
+Experiência em desenvolvimento de APIs, preferencialmente GraphQL.
+Compreensão de conceitos de design de software e padrões de projeto.
+Será considerado um diferencial:
+Experiência com APIs RESTful.
+Experiência com metodologias ágeis, como Scrum ou Kanban.
+Conhecimentos em outras tecnologias de backend ou habilidades em desenvolvimento front-end.
+Certificações na área de tecnologia.
+INFORMAÇÕES ADICIONAIS
+💵Bônus;
+👩‍⚕️Plano de Saúde Porto Seguro 100% custeado pela empresa (titular);
+😎Recesso remunerado;
+👨‍💻Notebook;
+🦷Plano Odontológico (opcional);
+🏃‍♀️Totalpass (opcional);
+🫱Modelo de contratação: Pessoa Jurídica
+🖥️Modelo de trabalho: Híbrido até 2x presencial na semana (R. Verbo Divino, 528 - Chácara Santo Antônio)
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Bate-papo Pessoas e Cultura2Bate-papo Pessoas e Cultura
+Etapa 2: Bate-papo Pessoas e Cultura
+2
+Bate-papo Pessoas e Cultura
+Etapa 3: Mapeamento Comportamental3Mapeamento Comportamental
+Etapa 3: Mapeamento Comportamental
+3
+Mapeamento Comportamental
+Etapa 4: Bate-papo Gestor4Bate-papo Gestor
+Etapa 4: Bate-papo Gestor
+4
+Bate-papo Gestor
+Etapa 5: Etapa Teste5Etapa Teste
+Etapa 5: Etapa Teste
+5
+Etapa Teste
+Etapa 6: Bate-papo Final6Bate-papo Final
+Etapa 6: Bate-papo Final
+6
+Bate-papo Final
+Etapa 7: Carta Oferta7Carta Oferta
+Etapa 7: Carta Oferta
+7
+Carta Oferta
+Etapa 8: Contratação8Contratação
+Etapa 8: Contratação
+8
+Contratação
+PIONEIRISMO NA EDUCAÇÃO SOCIOEMOCIONAL E IMPACTO SOCIAL
+Somos uma empresa líder em Tecnologias de Impacto Social, e nossa metodologia é a espinha dorsal que une esses dois objetivos: o Programa MenteInovadora e a eduK. Essas iniciativas refletem nosso compromisso em criar um impacto real e duradouro na sociedade, dando oportunidade para as pessoas terem acesso à uma vida digna por meio da educação e do trabalho. 
+Somos uma empresa líder em 
+, e nossa metodologia é a espinha dorsal que une esses dois objetivos
+ o 
+ e a 
+. Essas iniciativas refletem nosso compromisso em criar um impacto real e duradouro na sociedade, dando oportunidade para as pessoas terem 
+.
+ 
+Nosso propósito é: educar para um futuro incerto, resolvendo os débitos do passado, promovendo a geração de renda e quebrando o ciclo de pobreza intergeracional. Com esse propósito em mente, buscamos constantemente maneiras de melhorar a vida das pessoas.
+Nosso propósito é: 
+, promovendo a geração de renda e quebrando o ciclo de pobreza intergeracional. Com esse propósito em mente, buscamos constantemente maneiras de 
+.
+Aqui na Mind Lab, nossa cultura é uma extensão de nosso propósito. Valorizamos a autonomia com responsabilidade, incentivamos a inovação e experimentação, promovemos uma aprendizagem ampla e longa, respeitamos a diversidade de ideias e cultivamos uma cultura de colaboração e parceria.
+Aqui na 
+, nossa cultura é uma extensão de nosso propósito. Valorizamos a 
+, incentivamos a 
+, promovemos uma 
+, respeitamos a 
+ e cultivamos uma cultura de 
+.
+Se você quer fazer parte de uma equipe comprometida em transformar o mundo por meio da educação e tecnologia, venha conhecer mais sobre os Princípios Mind Lab. Juntos, podemos criar um futuro melhor para todos. 🚀
+Se você quer fazer parte de uma 
+ em transformar o mundo por meio da educação e tecnologia, venha conhecer mais sobre os 
+. Juntos, 
+. 🚀
+﻿Apoiada por: Monashees, Meritech, Accel, Península, Stanford University
+: Monashees, Meritech, Accel, Península, Stanford University
+ #VemSerMindLaber

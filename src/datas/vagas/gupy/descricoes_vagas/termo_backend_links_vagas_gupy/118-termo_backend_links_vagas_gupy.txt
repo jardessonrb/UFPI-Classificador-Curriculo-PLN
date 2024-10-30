@@ -1,0 +1,81 @@
+link_vaga-https://vialaserdepilacao.gupy.io/job/eyJqb2JJZCI6NzM1MjgwMSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR BACKEND
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+DESCRIÇÃO DA VAGA
+Estamos em busca de um Desenvolvedor Backend Java para integrar nossa equipe de Suporte de TI. O profissional será responsável por desenvolver soluções robustas e eficientes, além de oferecer suporte técnico para garantir a operação contínua dos sistemas da empresa.
+Se você é apaixonado por tecnologia, gosta de desafios e busca constantemente a excelência técnica, essa pode ser a oportunidade ideal para você! 💚
+RESPONSABILIDADES E ATRIBUIÇÕES
+Atividades:
+- Analisar problemas e requisitos e propor soluções a nível de desenvolvimento de software
+- Resolver problemas descritos ou detectados com desenvolvimento de software
+- Realizar análises de códigos da equipe e propor melhorias quando necessário
+- Realizar revisão de códigos de implementações de outros devs da equipe
+Responsabilidades:
+- Seguir todos os padrões de desenvolvimento exigidos pela equipe
+- Ajudar na melhoria contínua dos padrões definidos
+- Apoiar nas decisões relacionadas a melhoria do código e do processo da equipe
+REQUISITOS E QUALIFICAÇÕES
+Essencial:
+- Experiência com linguagem de programação Java
+- Experiência com desenvolvimento WEB: Javascript especialmente com framework JSF
+- Experiência com SQL e ambientes com HIBERNATE
+- Experiência com Git
+- Uso constante de Boas Práticas de Programação e Clean Code
+- Experiência no desenvolvimento de APIs: SOAP e REST
+- Experiência com escrita de testes unitários (Junit e Mockito)
+Desejável:
+- PostgreSQL
+- Experiência com Spring e JPA
+- Experiência com arquitetura baseada em Microsserviços
+- Experiência com ambientes AWS
+- Experiência com Docker
+- Experiência com CI/CD
+INFORMAÇÕES ADICIONAIS
+Assistência Médica (com 70% custeado pela empresa e com coparticipação);Vale-refeição/alimentação de R$ 500,00;Seguro de Vida (custeado 100% pela empresa);Vale-transporte;
+Assistência Médica (com 70% custeado pela empresa e com coparticipação);
+Vale-refeição/alimentação de R$ 500,00;
+Seguro de Vida (custeado 100% pela empresa);
+Vale-transporte;
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista RH2Entrevista RH
+Etapa 2: Entrevista RH
+2
+Entrevista RH
+Etapa 3: Entrevista Gestor3Entrevista Gestor
+Etapa 3: Entrevista Gestor
+3
+Entrevista Gestor
+Etapa 4: Processos Admissionais4Processos Admissionais
+Etapa 4: Processos Admissionais
+4
+Processos Admissionais
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+OLÁ, SOMOS A VIALASER!
+A Melhor Rede de Depilação a Laser do Brasil!
+Há 11 anos, a Vialaser cuida de seus clientes com a mais moderna, eficiente e confortável tecnologia de depilação a laser disponível no mercado. Com um ritmo acelerado de crescimento, estamos presentes em diversos estados do Brasil e também em Assunção, no Paraguai.
+Nos últimos dois anos, fomos reconhecidos pelo GPTW como uma das melhores empresas para se trabalhar. Somos mais de 800 colaboradores, distribuídos em 170 unidades e escritórios em São Paulo (SP) e Tubarão (SC). Nossa missão é cuidar das pessoas, proporcionando a liberdade de desfrutar o melhor da vida! 💚
+
+SOMOS FEITOS POR E PARA PESSOAS
+
+Para nós da Vialaser, Ser é Poder!
+Na Vialaser, respeitamos quem você é e valorizamos o seu talento. Acreditamos no poder das pessoas, na força da diversidade, na colaboração, na liberdade, na autonomia e na inovação. Valorizamos a tecnologia, a qualidade de vida e o potencial de cada indivíduo para ser sua melhor versão todos os dias. Acreditamos no poder de tudo o que podemos fazer juntos!
+Você compartilha desses valores? Então venha mostrar o seu poder aqui com a gente! 💜
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

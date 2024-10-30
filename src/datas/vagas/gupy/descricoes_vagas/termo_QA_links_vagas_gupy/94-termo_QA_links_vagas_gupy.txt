@@ -1,0 +1,128 @@
+link_vaga-https://agriness.gupy.io/job/eyJqb2JJZCI6ODAwMjI0MCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE TESTES PLENO (QA)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Somos uma plataforma que alia tecnologia e conhecimento a serviço da gestão eficiente da produção animal. Estamos presentes em mais de 30 países e apoiamos na gestão da produção de suínos de 95% do mercado brasileiro. Nosso desafio é escalar a Agriness para o mundo. Para isso, precisamos ter com a gente as melhores pessoas. Confira nossos desafios, vem ser Agriness! 🐷🐮🐣
+ 
+Estamos em busca de um(a) Analista de Testes Pleno para atuar em nosso Squad Farmazém e nos ajudar a desenvolver produtos de alta performance que vão revolucionar a vida no campo. Se você se identifica com os nossos desafios, venha fazer parte do nosso time! 💙🚀﻿
+💙🚀﻿
+RESPONSABILIDADES E ATRIBUIÇÕES
+Suas principais atividades:
+Zelar pela qualidade do produto entregue, priorizando uma melhor experiência para nosso cliente;
+Zelar pela qualidade do produto entregue, priorizando uma melhor experiência para nosso cliente;
+Elaborar e realizar testes nos sistemas, procurando certificá-lo de acordo com as especificações/requisitos padrão bem como garantir que não afetou outras funcionalidades dos sistemas;
+Elaborar e realizar testes nos sistemas, procurando certificá-lo de acordo com as especificações/requisitos padrão bem como garantir que não afetou outras funcionalidades dos sistemas;
+Realizar testes exploratórios estruturados manuais (menor volume) e automatizados (maior volume);
+Realizar testes exploratórios estruturados manuais (menor volume) e automatizados (maior volume);
+Realizar o mapeamento de cenários e fluxos para automatização de testes;
+Realizar o mapeamento de cenários e fluxos para automatização de testes;
+Projetar, desenvolver e manter atualizadas as soluções de automação de testes;
+Projetar, desenvolver e manter atualizadas as soluções de automação de testes;
+Definir e evoluir as estratégias de testes de acordo com as necessidades das Sprints;
+Definir e evoluir as estratégias de testes de acordo com as necessidades das Sprints;
+Fomentar o chapter de QA da Agriness, tornando-se um evangelizador de qualidade;
+Fomentar o chapter de QA da Agriness, tornando-se um evangelizador de qualidade;
+Certificar-se de que as documentações entregues sejam constantemente atualizadas de forma que estejam alinhadas com as últimas versões dos sistemas e ferramentas;
+Certificar-se de que as documentações entregues sejam constantemente atualizadas de forma que estejam alinhadas com as últimas versões dos sistemas e ferramentas;
+Apoiar na melhoria dos processos de desenvolvimento e aperfeiçoamento das soluções, através das atividades de pesquisa, identificando e propondo novas metodologias, conceitos, tendências, recursos, para a adoção na empresa, alinhadas às metas e objetivos estabelecidos;
+Apoiar na melhoria dos processos de desenvolvimento e aperfeiçoamento das soluções, através das atividades de pesquisa, identificando e propondo novas metodologias, conceitos, tendências, recursos, para a adoção na empresa, alinhadas às metas e objetivos estabelecidos;
+Organizar e revisar métricas de qualidade para obter melhorias no processo de desenvolvimento; 
+Organizar e revisar métricas de qualidade para obter melhorias no processo de desenvolvimento; 
+Atuar como referência técnica em automação de testes, integração contínua, estratégias de testes, arquitetura de testes e geração de massa de dados para testes.
+Atuar como referência técnica em automação de testes, integração contínua, estratégias de testes, arquitetura de testes e geração de massa de dados para testes.
+REQUISITOS E QUALIFICAÇÕES
+É essencial que você apresente:
+Sólida experiência em testes de aplicações Web;
+Sólida experiência em testes de aplicações Web;
+Sólidos conhecimentos em automação de testes;
+Sólidos conhecimentos em automação de testes;
+Linguagem de programação Javascript;
+Linguagem de programação Javascript;
+Técnicas de teste de software. Ex: análise de valor limite, pairwise, caixa preta, caixa branca, caixa cinza, etc;
+Técnicas de teste de software. Ex: análise de valor limite, pairwise, caixa preta, caixa branca, caixa cinza, etc;
+Tipos de testes de software (Testes unitários, integração, testes de serviço, testes de contrato, testes de regressão e não-funcionais);
+Tipos de testes de software (Testes unitários, integração, testes de serviço, testes de contrato, testes de regressão e não-funcionais);
+Conhecimento em metodologias ágeis;
+Conhecimento em metodologias ágeis;
+Conhecimento em Engenharia de software;
+Conhecimento em Engenharia de software;
+Linux.
+Linux.
+Será um diferencial:
+Conhecimento no Framework de automação de testes Cypress;
+Conhecimento no Framework de automação de testes Cypress;
+Se tiver experiência com Nodejs.
+Se tiver experiência com Nodejs.
+INFORMAÇÕES ADICIONAIS
+Nosso processo:
+O processo seletivo da Agriness se inicia na candidatura, possuímos entrevista, testes de perfil comportamental e etapa técnica, conforme a necessidade de cada vaga. O tempo do processo é flexível, mas não se preocupe, nosso time de Talent Acquisition está preparado para proporcionar a melhor experiência para você. Analisamos todos os perfis com atenção e sempre enviamos feedbacks, independente da etapa da candidatura. Além disso, todas as instruções são enviadas por e-mail. Você pode conferir mais detalhes e dicas para o processo seletivo em nosso vídeo (https://www.youtube.com/watch?v=UU3FGQhFLOY). 
+O processo seletivo da Agriness se inicia na candidatura, possuímos entrevista, testes de perfil comportamental e etapa técnica, conforme a necessidade de cada vaga. O tempo do processo é flexível, mas não se preocupe, nosso time de Talent Acquisition está preparado para proporcionar a melhor experiência para você. Analisamos todos os perfis com atenção e sempre enviamos feedbacks, independente da etapa da candidatura. Além disso, todas as instruções são enviadas por e-mail. Você pode conferir mais detalhes e dicas para o processo seletivo em nosso vídeo (
+). 
+O que você vai encontrar:
+💻 Trabalho 100% home office
+💻 Trabalho 100% home office
+⏰ Horário de trabalho de segunda a sexta-feira, com 2 horas de intervalo (40 horas semanais)
+⏰ 
+Horário de trabal
+ho 
+de segunda a sexta-feira, com 2 horas de intervalo (40 horas semanais)
+💳 Cartão de benefícios flexíveis com bandeira Visa
+💳 Cartão de benefícios flexíveis com bandeira Visa
+⛹️‍♀️ Ginástica Laboral
+⛹️‍♀️ Ginástica Laboral
+🎈 Folga no mês do aniversário
+🎈 Folga no mês do aniversário
+📋 1x1, avaliação de Feedbacks e PDIs
+📋 1x1, avaliação de Feedbacks e PDIs
+🏆 Movimentação por méritos e promoções
+🏆 Movimentação por méritos e promoções
+📖 Programa de idiomas
+📖 Programa de idiomas
+🩺 Assistência Médica
+🩺 Assistência Médica
+🦷 Assistência Odontológica
+🦷 Assistência Odontológica
+👨‍🦳 Previdência Privada
+👨‍🦳 
+Previdência Privada
+Você pode conferir mais detalhes sobre os nossos benefícios no vídeo a seguir: (https://www.youtube.com/watch?v=6AD_QwwxrI8)
+Você pode conferir mais detalhes sobre os nossos benefícios no vídeo a seguir: (
+)
+
+Todos os candidatos são considerados, independentemente de raça, cor, religião, gênero e identidade de gênero, orientação sexual, nacionalidade, deficiência ou idade. 
+Todos os candidatos são considerados, independentemente de raça, cor, religião, gênero e identidade de gênero, orientação sexual, nacionalidade, deficiência ou idade. 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista People 2Entrevista People 
+Etapa 2: Entrevista People 
+2
+Entrevista People 
+Etapa 3: Entrevista Técnica3Entrevista Técnica
+Etapa 3: Entrevista Técnica
+3
+Entrevista Técnica
+Etapa 4: Contratação4Contratação
+Etapa 4: Contratação
+4
+Contratação
+SOMOS A AGRINESS 🐷💙
+Unimos tecnologia e gestão orientada a eficiência produtiva para acelerar a produção animal em mais de 30 países. Estamos ao lado dos nossos clientes impulsionando a aceleração dos resultados com tecnologia, métodos, gestão e disciplina. Nosso desafio é levar a Agriness para o mundo para tornar o agro cada vez mais eficiente e sustentável.
+Vem com a gente nessa missão!
+ACOMPANHE A GENTE 😉
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

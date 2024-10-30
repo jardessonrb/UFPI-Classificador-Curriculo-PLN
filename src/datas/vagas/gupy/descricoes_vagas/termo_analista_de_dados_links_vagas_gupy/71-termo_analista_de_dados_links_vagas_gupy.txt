@@ -1,0 +1,104 @@
+link_vaga-https://vempralanlink.gupy.io/job/eyJqb2JJZCI6NzU1OTgwMiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE BANCO DE DADOS
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Executar análise e fornecer suporte à criação e manutenção de base de dados conforme padrão da contratante.
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+Datawarehouse;Qlik SenseSubsidiar o contratante quanto à aquisição, ao funcionamento, à melhoria e à atualização dos sistemas gerenciadores de Bancos de Dados (SGBD) existentes;Executar consultas de validação de dados no SGBD;Prover migração de dados entre SGBD distintos, conforme necessidade do contratante;Criar os ambientes de banco de dados, de acordo com o checklist de qualidade e Normas Internas elaboradas pelo contratante;Atualizar itens de configuração (IC) sempre que necessário;Participar, quando solicitado, de reunião com os gerentes e participantes dos projetos de desenvolvimento e infraestrutura, a fim de prover soluções para projetos/atividades em andamento;Instalar, configurar e manter os servidores de banco de dados, SGBD e produtos correlatos;Manter os SGBD em funcionamento de acordo com as especificações de nível mínimo de serviço do contratante, garantindo a sua estabilidade, confiabilidade e desempenho;Estabelecer e documentar políticas de replicação e de backup dos dados armazenados em Bancos de Dados, implantando os agentes necessários para o funcionamento correto das soluções, caso necessário;Verificar o tempo de resposta das consultas via SQL e sugerir melhorias para aumento de desempenho dos SGBD;Configurar os parâmetros necessários para o correto funcionamento, utilizando todos os recursos disponíveis nos servidores de banco de dados;Administrar e configurar os SGBD seguindo as práticas de segurança, conforme a determinação do contratante;Monitorar o desempenho, capacidade e continuidade dos SGBD de forma a detectar e corrigir eventuais problemas;Realização de testes de recuperação de desastres no SGBD, bem como executá-los caso ocorram;Gerar relatórios sobre a disponibilidade do serviço e possíveis pontos de falha, inclusive prevendo o crescimento das bases e quando deverá ser alocado mais espaço para tais dados;Gerenciar os incidentes relativos aos SGBD, comunicando as demais áreas da TI;Gerar relatórios e gráficos de desempenho e tempo de resposta;Identificar aplicações que estejam onerando a capacidade de memória, processamento e armazenamento dos SGBD;Customizar e utilizar software de gerenciamento de redes, serviços e sistemas para implantar o monitoramento contínuo dos SGBD;Sugerir e implantar sistemas de alta-disponibilidade, cluster, balanceamento de carga, migração de dados e tolerância a falhas para os serviços críticos;Configurar perfis de acesso para os usuários que farão acesso a bases de dados, mantendo documentação atualizada, garantindo a segurança lógica do banco de dados;Atender chamados inseridos em sua fila de atendimento;Elaborar os cronogramas de implantação, analisando o impacto nos serviços e solicitar aprovação às áreas afetadas das indisponibilidades programadas;Coordenar a criação, verificação, atualização e implementação dos scripts de solução de problemas na área de Bancos de Dados;Produzir, conferir e executar scripts nos SGBD – PLSQL, shell scripts, DDL ou DML necessários ao funcionamento e implantação de funcionalidades aos bancos de dados;Elaborar auditorias de dados, consultas às bases de logs de transações, relatórios diversos que não estejam implantados nas aplicações existentes;Gerenciamento da disponibilidade e performance (tuning) de banco de dados;Geração de relatórios relacionados à performance e integridade do banco de dados. 
+Datawarehouse;
+Qlik Sense
+Subsidiar o contratante quanto à aquisição, ao funcionamento, à melhoria e à atualização dos sistemas gerenciadores de Bancos de Dados (SGBD) existentes;
+Executar consultas de validação de dados no SGBD;
+Prover migração de dados entre SGBD distintos, conforme necessidade do contratante;
+Criar os ambientes de banco de dados, de acordo com o checklist de qualidade e Normas Internas elaboradas pelo contratante;
+Atualizar itens de configuração (IC) sempre que necessário;
+Participar, quando solicitado, de reunião com os gerentes e participantes dos projetos de desenvolvimento e infraestrutura, a fim de prover soluções para projetos/atividades em andamento;
+Instalar, configurar e manter os servidores de banco de dados, SGBD e produtos correlatos;
+Manter os SGBD em funcionamento de acordo com as especificações de nível mínimo de serviço do contratante, garantindo a sua estabilidade, confiabilidade e desempenho;
+Estabelecer e documentar políticas de replicação e de backup dos dados armazenados em Bancos de Dados, implantando os agentes necessários para o funcionamento correto das soluções, caso necessário;
+Verificar o tempo de resposta das consultas via SQL e sugerir melhorias para aumento de desempenho dos SGBD;
+Configurar os parâmetros necessários para o correto funcionamento, utilizando todos os recursos disponíveis nos servidores de banco de dados;
+Administrar e configurar os SGBD seguindo as práticas de segurança, conforme a determinação do contratante;
+Monitorar o desempenho, capacidade e continuidade dos SGBD de forma a detectar e corrigir eventuais problemas;
+Realização de testes de recuperação de desastres no SGBD, bem como executá-los caso ocorram;
+Gerar relatórios sobre a disponibilidade do serviço e possíveis pontos de falha, inclusive prevendo o crescimento das bases e quando deverá ser alocado mais espaço para tais dados;
+Gerenciar os incidentes relativos aos SGBD, comunicando as demais áreas da TI;
+Gerar relatórios e gráficos de desempenho e tempo de resposta;
+Identificar aplicações que estejam onerando a capacidade de memória, processamento e armazenamento dos SGBD;
+Customizar e utilizar software de gerenciamento de redes, serviços e sistemas para implantar o monitoramento contínuo dos SGBD;
+Sugerir e implantar sistemas de alta-disponibilidade, cluster, balanceamento de carga, migração de dados e tolerância a falhas para os serviços críticos;
+Configurar perfis de acesso para os usuários que farão acesso a bases de dados, mantendo documentação atualizada, garantindo a segurança lógica do banco de dados;
+Atender chamados inseridos em sua fila de atendimento;
+Elaborar os cronogramas de implantação, analisando o impacto nos serviços e solicitar aprovação às áreas afetadas das indisponibilidades programadas;
+Coordenar a criação, verificação, atualização e implementação dos scripts de solução de problemas na área de Bancos de Dados;
+Produzir, conferir e executar scripts nos SGBD – PLSQL, shell scripts, DDL ou DML necessários ao funcionamento e implantação de funcionalidades aos bancos de dados;
+Elaborar auditorias de dados, consultas às bases de logs de transações, relatórios diversos que não estejam implantados nas aplicações existentes;
+Gerenciamento da disponibilidade e performance (tuning) de banco de dados;
+Geração de relatórios relacionados à performance e integridade do banco de dados. 
+REQUISITOS E QUALIFICAÇÕES
+ Formação Acadêmica
+Superior completo na área de TI ou graduação em qualquer área acrescido de pós-graduação na área de TI.
+Certificações desejáveis 
+ITIL Foundation v3 ou superior.
+Experiência Profissional:
+Forte atuação em Banco de Dados;
+Experiência em Qlik Sense;
+Experiência em PostgreSQL;
+Conhecimento em tuning de banco de dados e nas boas práticas do modelo ITIL.
+INFORMAÇÕES ADICIONAIS
+Nossos benefícios:
+Plano de saúde Hapvida, Bradesco ou Unimed (aplicáveis de acordo com a região);
+Plano odontológico Hapvida Odonto ou Bradesco Dental;
+Vale Alimentação ou Refeição;
+Seguro de vida 100% custeado pela Lanlink;
+Vale transporte;
+Gympass
+Auster
+Convênio farmácia;
+Convênio faculdades;
+Plataforma de Educação Corporativa;
+Kit Bem-vindo ao mundo bebê;
+Plataforma Moodar.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Mapeamento Comportamental 2Mapeamento Comportamental 
+Etapa 2: Mapeamento Comportamental 
+2
+Mapeamento Comportamental 
+Etapa 3: Bate Papo com Gestão de Pessoas3Bate Papo com Gestão de Pessoas
+Etapa 3: Bate Papo com Gestão de Pessoas
+3
+Bate Papo com Gestão de Pessoas
+Etapa 4: Bate Papo com Líder Técnico4Bate Papo com Líder Técnico
+Etapa 4: Bate Papo com Líder Técnico
+4
+Bate Papo com Líder Técnico
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+VEM PRA CÁ! VEM ESCREVER CONOSCO HISTÓRIAS DE SUCESSO.
+Que bom que você veio nos visitar virtualmente! Vamos nos conhecer melhor? 
+O Grupo Lanlink vem há mais de 35 anos construindo experiências que transformam não só empresas, mas a vida das pessoas, nas 5 regiões do Brasil. Pensamos o futuro com o intuito de impactar vidas e ser o porto seguro da inovação. Nossos espaços são construídos por nossos colaboradores, que vestem a camisa, e constroem diariamente um ambiente de trabalho alegre e colaborativo.  
+Acreditamos que a confiança é o alicerce do relacionamento com a nossa gente e com nossos clientes, que ela é cultivada através de práticas como: contratar e receber, inspirar, falar, escutar, agradecer, desenvolver, cuidar, celebrar e compartilhar. 
+Somos muitos, somos diversos, #nossomosLanlink. Agora é sua vez! Deixa a gente te conhecer também?  Vem pra Lanlink você também.  
+EI, TODAS AS NOSSAS VAGAS SÃO PREFERENCIAIS PARA PCD! 🤖💙
+🤖💙
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram

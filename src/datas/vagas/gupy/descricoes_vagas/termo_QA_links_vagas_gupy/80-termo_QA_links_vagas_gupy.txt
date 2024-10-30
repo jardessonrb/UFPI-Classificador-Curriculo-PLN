@@ -1,0 +1,76 @@
+link_vaga-https://certsys.gupy.io/job/eyJqb2JJZCI6ODAwNTkzMCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA ANALISTA QA JR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+DESCRIÇÃO DA VAGA
+Desde 2007 trabalhando com inovação, a Certsys se consolidou como uma forte parceira de Transformação Digital, apoiando empresas disruptivas por meio de soluções digitais completas e escaláveis alinhadas às principais tendências e necessidades do mercado. Temos uma cultura poderosa, conectados de ponta a ponta, colaborativos, ágeis e flexíveis para encarar o novo, transparentes em nossas ações e unidos por um grande propósito: Revolucionar negócios e impactar pessoas, resolvendo desafios complexos através da nossa cultura e tecnologia. Além disso, somos certificados pela GPTW pelo segundo ano consecutivo, sendo uma das melhores empresas para se trabalhar no Brasil.
+Somos a Certsys 🚀🤖
+Próximos dos clientes, apaixonados por tecnologia e pessoas (sim, aqui pensamos na sua evolução e carreira, vamos te desenvolver e cuidar da sua trilha de capacitação). Acreditamos na diversidade, equidade e inclusão de profissionais independente da sua deficiência, raça/ etnia, religião, gênero, orientação sexual, origem e constituição de família.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Como será seu dia a dia:  
+  
+Criar scripts para automação de testes com base nos documentos de apoio, através da utilização de ferramentas como Selenium, Postman/Insomnia, Jmeter, CI, Jenkins e linguagens específicas com o objetivo de gerar testes automatizados com evidências sobre o que foi testado efetivamente e seus resultados; 
+Criar scripts para automação de testes com base nos documentos de apoio, através da utilização de ferramentas como Selenium, Postman/Insomnia, Jmeter, CI, Jenkins e linguagens específicas com o objetivo de gerar testes automatizados com evidências sobre o que foi testado efetivamente e seus resultados; 
+Entender os requisitos do sistema ou de uma determinada funcionalidade, criar plano de testes, casos, cenários de testes e/ou critérios de aceite, além de realizar testes conforme casos, cenários e/ou, interagir com time de desenvolvimento sobre ajustes necessários e gerar relatórios de testes através de documentos de apoio como: especificações funcionais, de requisitos ou user stories, além de templates próprios da organização para evolução das atividades. Podendo ser aplicadas técnicas de testes, por exemplo: exploratórios, sistêmicos, regressivos etc. Com o objetivo de garantir o que e como foi testado, além de o seu resultado esperado; 
+Entender os requisitos do sistema ou de uma determinada funcionalidade, criar plano de testes, casos, cenários de testes e/ou critérios de aceite, além de realizar testes conforme casos, cenários e/ou, interagir com time de desenvolvimento sobre ajustes necessários e gerar relatórios de testes através de documentos de apoio como: especificações funcionais, de requisitos ou user stories, além de templates próprios da organização para evolução das atividades. Podendo ser aplicadas técnicas de testes, por exemplo: exploratórios, sistêmicos, regressivos etc. Com o objetivo de garantir o que e como foi testado, além de o seu resultado esperado; 
+Apoiar o time do pilar a se desenvolver ou na concepção e entrega de soluções quando possível, através aplicação de treinamentos, "pair programming", design thinking ou aplicação de outras ferramentas e metodologias que sejam pertinentes com o objetivo de apoiar o desenvolvimento profissional dos membros que integram o pilar; 
+Apoiar o time do pilar a se desenvolver ou na concepção e entrega de soluções quando possível, através aplicação de treinamentos, "pair programming", design thinking ou aplicação de outras ferramentas e metodologias que sejam pertinentes com o objetivo de apoiar o desenvolvimento profissional dos membros que integram o pilar; 
+Realizar análise de negócio e processos a fim de entender o contexto do cliente e conseguir elaborar os testes com maior grau de aderência às suas particularidades, através alinhamentos com os analistas de negócios e processos, análise e questionamentos sobre documentos de apoio, interação com desenvolvedores, propostas de plano de ação ou estratégia de implementação de testes com o objetivo de agregar valor ao cliente com base nos testes e trabalho subsidiário realizado.  
+Realizar análise de negócio e processos a fim de entender o contexto do cliente e conseguir elaborar os testes com maior grau de aderência às suas particularidades, através alinhamentos com os analistas de negócios e processos, análise e questionamentos sobre documentos de apoio, interação com desenvolvedores, propostas de plano de ação ou estratégia de implementação de testes com o objetivo de agregar valor ao cliente com base nos testes e trabalho subsidiário realizado.  
+REQUISITOS E QUALIFICAÇÕES
+Do que você precisa: 
+ 
+Superior completo em Ciência da Computação, Engenharia de Software, Sistemas de Informação ou áreas relacionadas (diferencial); 
+Superior completo em Ciência da Computação, Engenharia de Software, Sistemas de Informação ou áreas relacionadas (diferencial); 
+Comprovação de experiência com testes manuais e automação de testes é um diferencial; 
+Comprovação de experiência com testes manuais e automação de testes é um diferencial; 
+Experiência prévia em testes de software e processos de garantia da qualidade (diferencial); 
+Experiência prévia em testes de software e processos de garantia da qualidade (diferencial); 
+Conhecimento em metodologias ágeis, como Scrum ou Kanban (diferencial); 
+Conhecimento em metodologias ágeis, como Scrum ou Kanban (diferencial); 
+Conhecimento em ferramentas de testes e automação é uma vantagem (diferencial). 
+Conhecimento em ferramentas de testes e automação é uma vantagem (diferencial). 
+
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Abordagem2Abordagem
+Etapa 2: Abordagem
+2
+Abordagem
+Etapa 3: Entrevista com RH3Entrevista com RH
+Etapa 3: Entrevista com RH
+3
+Entrevista com RH
+Etapa 4: Entrevista Técnica4Entrevista Técnica
+Etapa 4: Entrevista Técnica
+4
+Entrevista Técnica
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+(R)EVOLUCIONAR NEGÓCIOS, IMPACTAR PESSOAS!
+Você é apaixonado por tecnologia, inovação e assim como nós, entende que a transformação digital é uma mudança cultural? 
+Então, embarque nossa jornada de revolucionar empresas e impulsione seu talento! #AdeusOpenToWork
+Aqui na Certsys você tem diversos benefícios:
+Cuidar da saúde? Junto com a Porto Seguro, você tem atendimento médico e odontológico dentro e fora de casa. Tudo sem custo ao colaborador!
+Precisando de apoio? Psicologia Viva vai garantir aquela conversa acolhedora com o profissional mais adequado para você;
+Precisando de crédito para financiar seus sonhos? Aqui você vai encontrar um pacote de crédito exclusivo para você e que não te aperta no final do mês.
+O Seguro de vida também está em dia, tenha 100% da cobertura sem custo;
+Mobilidade? Bom, tirando o Home Office, você pode contar com o Vale Transporte;
+Hmm, bateu aquela fome? Sem preocupação o Swile tá na mão;
+Está valendo um UP na carreira? Temos um pacote de descontos exclusivos com diversas instituições de ensino e cursos para você voar!
+Uma ajudinha nas contas vai bem com o Auxílio Home Office.
+Quer melhor? Tudo em um único cartão, porque aqui é agilidade na veia ⚡
+CONHEÇA MAIS SOBRE NÓS, ACOMPANHE NOSSAS REDES SOCIAIS.
+Website
+LinkedIn
+Instagram

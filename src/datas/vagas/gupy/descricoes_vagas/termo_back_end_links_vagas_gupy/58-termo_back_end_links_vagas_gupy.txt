@@ -1,0 +1,83 @@
+link_vaga-https://grupobyx.gupy.io/job/eyJqb2JJZCI6ODAyMTQ2MSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR BACK END SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Sobre a Byx:
+A BYX possui a solução completa para viabilizar a expansão estruturada de originadores com acesso a grandes investidores/mercado de capitais interessados em investir em ativos com excelente relação de risco/retorno, com especialidades desde a plataforma tecnológica e captações até o processo de consultoria na ponta.
+RESPONSABILIDADES E ATRIBUIÇÕES
+O que buscamos?
+Pessoas com energia e vontade de transformar ideias em novas soluções.
+Indigna-se, não se conforma quando vê algo que não funciona bem ou possa ser melhorado.
+É aberto ao novo, às mudanças e motivado para novos desafios.
+Facilidade para trabalhar em equipe e colaboração em diferentes temas.
+Responsabilidades:
+Desenvolver micro serviços independentes, altamente confiáveis e escaláveis.
+Trabalhar nas fases do ciclo de vida de desenvolvimento de software:  implementação, validação, implantação, monitoramento e suporte.
+Manutenção nos programas já existentes em produção;
+Trabalhar com Tech Lead para alinhar prioridades e oportunidades do roadmap.
+rabalhar com Tech Lead para alinhar prioridades e oportunidades do roadmap.
+Atuação em time de desenvolvimento ágil;
+Planejar e estimar desenvolvimento de soluções;
+Ajudar a desenvolver novas pessoas;
+REQUISITOS E QUALIFICAÇÕES
+Requisitos e qualificações:
+Formação superior em Engenharia de Computação, Ciências da Computação, Análise de Sistemas, Tecnologia da informação ou áreas correlatas;
+Proficiência em pelo menos uma linguagem de programação (Python) e bancos de dados (Postgres, MySQL, etc); 
+Experiência com RESTful APIs;
+Facilidade de colaborar em equipes ágeis (SCRUM) 
+Entende como CI/CD moderno funciona;
+Trabalha de forma compartilhada (Git) com aplicações em containers (Docker)
+INFORMAÇÕES ADICIONAIS
+Informações Adicionais:
+Regime de contratação: CLT
+Benefícios:
+🍽 Ticket Refeição/Alimentação Flexível
+🩺 Plano de Saúde
+🦷 Plano Odontológico
+✅ Seguro de Vida
+💪 Gympass/Wellhub
+📈 InvestPass (educação financeira)
+🌞 Sesc
+🌞
+👶🏽 Auxílio Creche
+Se você é apaixonado por desafios, proativo e está pronto para contribuir com o crescimento de uma empresa inovadora e em expansão, junte-se a nós no Grupo BYX e ajude-nos a moldar o futuro das soluções financeiras.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem 2Triagem 
+Etapa 2: Triagem 
+2
+Triagem 
+Etapa 3: Entrevista RH3Entrevista RH
+Etapa 3: Entrevista RH
+3
+Entrevista RH
+Etapa 4: Entrevista Gestor4Entrevista Gestor
+Etapa 4: Entrevista Gestor
+4
+Entrevista Gestor
+Etapa 5: Carta Proposta5Carta Proposta
+Etapa 5: Carta Proposta
+5
+Carta Proposta
+Etapa 6: Contratação6Contratação
+Etapa 6: Contratação
+6
+Contratação
+SOBRE NÓS
+Nós convidamos você a se tornar parte de uma equipe dinâmica e talentosa, onde poderá desenvolver suas habilidades e crescer profissionalmente. Na nossa empresa, valorizamos o trabalho em equipe, a inovação e o compromisso com a excelência. Se você busca um ambiente de trabalho estimulante, com oportunidades de aprendizado contínuo e projetos desafiadores, venha fazer parte do nosso time!
+Nós convidamos você a se tornar parte de uma equipe dinâmica e talentosa, onde poderá desenvolver suas habilidades e crescer profissionalmente. Na nossa empresa, valorizamos o trabalho em equipe, a inovação e o compromisso com a excelência. Se você busca um ambiente de trabalho estimulante, com oportunidades de aprendizado contínuo e projetos desafiadores, venha fazer parte do nosso time!
+CONHEÇA NOSSOS CANAIS
+Website
+LinkedIn

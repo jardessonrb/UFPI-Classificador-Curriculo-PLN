@@ -1,0 +1,124 @@
+link_vaga-https://fcamara.gupy.io/job/eyJqb2JJZCI6Nzk1NjYwOSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA BACKEND .NET - SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+DESCRIÇÃO DA VAGA
+A FCamara está em busca de uma Pessoa Desenvolvedor Back-End .NET ou Java Sênior para atuar em parceria com o maior Banco de Investimentos da América Latina, especializado em capital de investimento, de risco, além de gerenciamento de patrimônio e ativos globais.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Modelar arquiteturas de software em nuvem;Planejar e executar migrações de tecnologia para aplicações em produção;Ter conhecimento das tecnologias utilizadas pela equipe;Ter capacidade de medir esforços e definir prazos de implementação;Saber lidar com pressão de prazos;Solucionar problemas que surgem durante os projetos;Habilidade de gerenciar conflitos e expectativas;Proatividade.
+Modelar arquiteturas de software em nuvem;
+Planejar e executar migrações de tecnologia para aplicações em produção;
+Ter conhecimento das tecnologias utilizadas pela equipe;
+Ter capacidade de medir esforços e definir prazos de implementação;
+Saber lidar com pressão de prazos;
+Solucionar problemas que surgem durante os projetos;
+Habilidade de gerenciar conflitos e expectativas;
+Proatividade.
+
+REQUISITOS E QUALIFICAÇÕES
+Hard Skills:
+ 
+Experiencia com nuvem (AWS, GCP, Azure, etc) (Mínimo de 2 ano);
+Experiência com .NET (C#) ou JAVA (Mais de 5 anos);
+Flexibilidade para utilizar qualquer linguagem de programação para desenvolvimento de soluções no dia a dia;
+Clareza em conceitos base de programação como gestão de memória, uso de recursos de máquina, paralelismo, concorrência, Orientação a Objeto, entre outros;
+Habilidade aprimorada de troubleshooting;
+Habilidade de planejar e executar com eficiência iniciativas de migração, ou de outra natureza que cabe a um sênior;
+Experiência com banco de dados relacional (SQLServer, MySql, Postgres) (Mais de 5 anos);
+Experiência com banco de dados não relacional (MongoDB, Redis, etc) (Mais de 3 anos);
+Design Patterns (GoF, DDD, KISS e YAGNI);
+Design Patterns (GoF, DDD, KISS e YAGNI);
+Clean Code;
+Experiência com testes unitários (TDD);
+Conhecimento em GIT;
+Conhecimento de metodologias ágeis (Scrum);
+Conhecimento em Docker, Kubernets;
+Experiência com messageria (Kafka, SQS, SNS, RabbitMQ, etc..);
+Clareza sobre transacional assincrono e sincrono;
+Adaptabilidade;
+Boa comunicação e trabalho em equipe;
+Capacidade de escrever código robusto, testável e validado;
+Conhecimento em aplicações que precisem responder em alta disponibilidade e alta performance.
+ 
+Desejáveis:
+Conhecimento de Mercado Financeiro;
+Experiência com ferramentas de Code Quality (sonar);
+Experiência com ferramentas de APM (Dynatrace, AppDynamics, DataDog, etc...);
+Conhecimento em Prometheus, metricas e monitoramento;
+Conhecimento em ElasticSearch, Apache Lucene e GraphQL;
+Experiência com gerenciamento e implantação de CI/CD.
+
+
+Soft Skills:
+Raciocínio lógico e capacidade analítica;
+Raciocínio lógico e capacidade analítica;
+Boa Comunicação;
+Boa Comunicação;
+Espírito de equipe e capacidade de resolução de conflitos;
+Espírito de equipe e capacidade de resolução de conflitos;
+Ter capacidade de comunicação com diversos perfis de stakeholders;
+Ter capacidade de comunicação com diversos perfis de stakeholders;
+Habilidade de trabalhar em equipes ágeis e multidisciplinares;
+Habilidade de trabalhar em equipes ágeis e multidisciplinares;
+Criatividade e Proatividade para imaginar diferentes cenários de uso das aplicações;
+Criatividade e Proatividade para imaginar diferentes cenários de uso das aplicações;
+Organização.
+Organização.
+
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Entrevista R&S2Entrevista R&S
+Etapa 2: Entrevista R&S
+2
+Entrevista R&S
+Etapa 3: Entrevista técnica3Entrevista técnica
+Etapa 3: Entrevista técnica
+3
+Entrevista técnica
+Etapa 4: CV enviado ao Cliente4CV enviado ao Cliente
+Etapa 4: CV enviado ao Cliente
+4
+CV enviado ao Cliente
+Etapa 5: Entrevista Cliente5Entrevista Cliente
+Etapa 5: Entrevista Cliente
+5
+Entrevista Cliente
+Etapa 6: Carta Proposta6Carta Proposta
+Etapa 6: Carta Proposta
+6
+Carta Proposta
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+TRANSFORMAMOS MUNDOS SONHADOS EM TRAJETÓRIAS REAIS.🧡🚀
+Aqui somos #SangueLaranja!Estamos há 17 anos no mercado, lado a lado com nossos clientes, proporcionando experiências transformadoras. Somos um ecossistema de tecnologia e inovação, com expansão global; Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda. 🌎  F de Formação: acreditamos na prática da cultura do compartilhamento, no senso de comunidade, e que o conhecimentotem o poder da transformação! Possuímos iniciativas, e ações sociais, que promovem o desenvolvimento, como a comunidade tech Orange Juice, o Programa de Formação,nossa escola de liderança e diversas parcerias com ONGs e Edtechs.   Na FCamara todos são bem-vindos, para nós, Diversidade, Respeito e Ética, são elementos inegociáveis e fazem parte do nosso DNA.   E aí, está pronto para fazer parte de um time incrível e ser protagonista da própria história?    
+Aqui somos #SangueLaranja!
+Estamos há 17 anos no mercado, lado a lado com nossos clientes, proporcionando experiências transformadoras. 
+Somos um ecossistema de tecnologia e inovação, com expansão global; Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda. 🌎
+Além do Brasil estamos presentes na Europa e Reino Unido com escritórios em Portugal, Londres, Dubai e Holanda.
+  
+F de Formação: acreditamos na prática da cultura do compartilhamento, no senso de comunidade, e que o conhecimento
+tem o poder da transformação!
+ 
+Possuímos iniciativas, e ações sociais, que promovem o desenvolvimento, como a comunidade tech Orange Juice, o Programa de Formação,
+nossa escola de liderança e diversas parcerias com ONGs e Edtechs. 
+  
+Na FCamara todos são bem-vindos, para nós, Diversidade, Respeito e Ética, são elementos inegociáveis e fazem parte do nosso DNA. 
+  
+E aí, está pronto para fazer parte de um time incrível e ser protagonista da própria história? 
+   
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

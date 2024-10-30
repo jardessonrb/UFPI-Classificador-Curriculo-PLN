@@ -1,0 +1,108 @@
+link_vaga-https://queimadiaria.gupy.io/job/eyJqb2JJZCI6NzM0NDIzNSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA BACK-END SÊNIOR - SQUAD DE PAYMENTS
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Já se imaginou trabalhando em uma empresa que tem como missão transformar vidas? 🔥🧡🚀
+ 
+Aqui na Queima nossa missão é ajudar pessoas a se tornarem aquilo que desejam ser através de uma vida mais saudável, harmoniosa e cheia de autoestima. 
+Para isso acontecer, temos a maior e mais inovadora plataforma online do Brasil dedicada a atividade física e ao bem-estar. Contamos com um time que é um MIX de excelência, trabalho em equipe e muuuita paixão! Por isso, buscamos profissionais que não só entreguem resultados, mas que chamem a responsabilidade do negócio para si, que tenham sede de crescimento, que sejam gestores do próprio processo e com a capacidade de criar relações abertas através da transparência.
+ 
+Fez sentido para você? Então vem fazer parte!
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+   Desenvolver aplicações em Node.js e Nest; Contribuir para a elaboração da arquitetura, desenvolvimento e documentação de funcionalidades para o produto;  Fornecer soluções de software ágeis usando as melhores práticas como TDD e programação em par.
+   Desenvolver aplicações em Node.js e Nest;
+ Contribuir para a elaboração da arquitetura, desenvolvimento e documentação de funcionalidades para o produto;
+  Fornecer soluções de software ágeis usando as melhores práticas como TDD e programação em par.
+REQUISITOS E QUALIFICAÇÕES
+Experiência e expertise em Javascript e Typescript, especialmente em NodeJs e Nest;Bons conhecimentos de padrões de projeto, refatoração e testes unitários;Experiência de trabalho com métodos ágeis, Scrum e desenvolvimento interativo;Gostar de trabalhar em equipe, em um ambiente colaborativo (pareando, dando feedbacks e influenciando seu time e o time de cliente a cada dia mais ser melhor).Experiência na integração meios de pagamentos;5+ anos de experiência de trabalho relevante em desenvolvimento de software, arquitetando e desenvolvendo em projetos de sistemas distribuídos;Habilidade de escrever e testar o código do produto ou do sistema influenciando a tomada de decisão do time quanto ao design e implementação de soluções; ﻿Você ganha pontos se tiver: Conhecimento em PostgreSQL;Conhecimento em AWS;Conhecimento em arquitetura serverless;Experiência com micro serviços;Experiência com filas de integração;Conhecimento em Containers (Docker);Experiência na escolha e aplicação de boas práticas de software como Test Driven Development (TDD), integração e entrega contínua.Experiência em práticas DevOps, com automação de processos e integração contínua (CI/CD);
+Experiência e expertise em Javascript e Typescript, especialmente em NodeJs e Nest;
+Typescript
+Bons conhecimentos de padrões de projeto, refatoração e testes unitários;
+Experiência de trabalho com métodos ágeis, Scrum e desenvolvimento interativo;
+Gostar de trabalhar em equipe, em um ambiente colaborativo (pareando, dando feedbacks e influenciando seu time e o time de cliente a cada dia mais ser melhor).
+Experiência na integração meios de pagamentos;
+ na integração meios de pagamentos;
+5+ anos de experiência de trabalho relevante em desenvolvimento de software, arquitetando e desenvolvendo em projetos de sistemas distribuídos;
+Habilidade de escrever e testar o código do produto ou do sistema influenciando a tomada de decisão do time quanto ao design e implementação de soluções;
+ 
+ 
+﻿Você ganha pontos se tiver:
+ 
+ 
+Conhecimento em PostgreSQL;
+Conhecimento em AWS;
+Conhecimento em arquitetura serverless;
+Experiência com micro serviços;
+Experiência com filas de integração;
+Conhecimento em Containers (Docker);
+Experiência na escolha e aplicação de boas práticas de software como Test Driven Development (TDD), integração e entrega contínua.
+Experiência em práticas DevOps, com automação de processos e integração contínua (CI/CD);
+INFORMAÇÕES ADICIONAIS
+O que oferecemos a você:
+A Queima oferece a você um cartão Flash na modalidade refeição/alimentação;
+Para cuidar de você oferecemos Plano de Saúde e Odontológico coparticipativos sem mensalidade;
+Aqui na Queima temos auxílio Trabalho Remoto;
+Para quem mora em BH temos um escritório sensacional e muito aconchegante; 
+Temos PLR Programa de Participação nos Lucros e Resultados;
+Futuros papais, na Queima você tem licença paternidade estendida;
+Para te ajudar no cuidado do Mini Queimer, temos auxílio creche;
+Oferecemos ajuda de custo para aulas de inglês ou espanhol;
+Para cuidar de você e dos nossos clientes você tem acesso a toda a nossa plataforma de fitness, saúde e bem-estar e acesso às academias Smart Fit de todo Brasil;
+Na Queima você vai encontrar ambiente descontraído e motivador;
+Para você se desenvolver, temos ciclos de desempenho e uma plataforma exclusiva para o aprendizado e desenvolvimento, a Queima Academy;
+Sinta-se à vontade, aqui na Queima não temos Dress Code;
+Quer indicar alguém que é a cara da Queima? Temos programas de indicação;
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Fit cultural2Fit cultural
+Etapa 2: Fit cultural
+2
+Fit cultural
+Etapa 3: Fit técnico3Fit técnico
+Etapa 3: Fit técnico
+3
+Fit técnico
+Etapa 4: Proposta4Proposta
+Etapa 4: Proposta
+4
+Proposta
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+SEJA UM QUEIMER 🧡
+Somos uma empresa de tecnologia que já transformou a vida de mais de 1.500.000 pessoas através do exercício físico!
+Somos uma empresa de tecnologia que já transformou a vida de mais de 
+pessoas através do exercício físico!
+Nosso propósito é ajudar as pessoas a se tornarem aquilo que desejam ser através de uma vida mais saudável, harmoniosa e cheia de autoestima.
+Nosso propósito é ajudar as pessoas a se tornarem aquilo que desejam ser através de uma vida mais saudável, harmoniosa e cheia de autoestima.
+Nos bastidores, temos um time dos sonhos que faz tudo isso acontecer! Nossa cultura tem foco total nos resultados que podemos alcançar juntos e os Queimers trabalham com muita responsabilidade, simplicidade e pertencimento para que cada vez mais vidas sejam transformadas.
+Nos bastidores, temos um time dos sonhos que faz tudo isso acontecer! Nossa cultura tem foco total nos 
+que podemos alcançar juntos e os Queimers trabalham com muita 
+ para que cada vez mais vidas sejam transformadas.
+Valorizamos muito as nossas pessoas e prezamos pelo respeito às diversidades, tratamos adultos como adultos, temos foco no 80/20 e muita paixão pelo que fazemos! E por isso, podemos afirmar que não é atoa que somos GPTW por 6 anos consecutivos 🏆
+Valorizamos muito as nossas pessoas e prezamos pelo respeito às diversidades, tratamos adultos como adultos, temos foco no 80/20 e muita paixão pelo que fazemos! E por isso, podemos afirmar que não é atoa que somos GPTW por 
+ 🏆
+E pra esse time ficar completo, só falta você.
+E pra esse time ficar completo, 
+ #VemPraQueima 🔥
+ #VemPraQueima 🔥
+NOS ACOMPANHE PELAS NOSSAS REDES SOCIAIS:
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor

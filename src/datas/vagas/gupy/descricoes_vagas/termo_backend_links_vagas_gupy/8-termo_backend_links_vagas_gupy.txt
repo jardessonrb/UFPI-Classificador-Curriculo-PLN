@@ -1,0 +1,159 @@
+link_vaga-https://arvore.gupy.io/job/eyJqb2JJZCI6ODAxMDc5NCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+PESSOA DESENVOLVEDORA BACKEND PLENO/SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Somos a Árvore, a plataforma gamificada de leitura, que por meio de uma experiência lúdica, incentiva o prazer em aprender.
+Somos a Árvore, a plataforma gamificada de leitura, que por meio de uma experiência lúdica, incentiva o prazer em aprender.
+ 
+ 
+Atualmente, o Brasil é um dos países que menos lê no mundo. São menos de 3 livros anuais por habitante, e no PISA, Programa Internacional de Avaliação de Alunos, o nosso desempenho cai ano após ano. 
+Atualmente, o Brasil é um dos países que menos lê no mundo. São menos de 3 livros anuais por habitante, e no PISA, Programa Internacional de Avaliação de Alunos, o nosso desempenho cai ano após ano. 
+
+Na Árvore, acreditamos que a leitura é um superpoder que facilita o aprendizado, ajuda no entendimento do mundo e potencializa habilidades importantes para o futuro. Trabalhamos diariamente para que todos os alunos do país, tenham acesso à leitura, já impactamos mais de dois milhões de alunos e sabemos que podemos ir mais longe.
+Na Árvore, acreditamos que a leitura é um 
+que facilita o aprendizado, ajuda no entendimento do mundo e potencializa habilidades importantes para o futuro. Trabalhamos diariamente para que todos os alunos do país, tenham acesso à leitura, já impactamos mais de dois milhões de alunos e sabemos que podemos ir mais longe.
+
+Tecnologia e inovação fazem parte das nossas raízes. Jogamos junto de escolas e famílias no desafio de educar em um dia-a-dia ultraconectado. 
+Tecnologia e inovação fazem parte das nossas raízes. Jogamos junto de escolas e famílias no desafio de educar em um dia-a-dia ultraconectado. 
+
+Somos plurais e empáticos, nos adaptamos e encaramos os desafios do futuro com curiosidade e entusiasmo. Somos apaixonados por nossos clientes e comprometidos com resultados e entregas melhores todos os dias. 
+Somos plurais e empáticos, nos adaptamos e encaramos os desafios do futuro com curiosidade e entusiasmo. Somos apaixonados por nossos clientes e comprometidos com resultados e entregas melhores todos os dias. 
+
+Com as nossas soluções, somos vencedores há 4 anos seguidos do prêmio Top Educação, finalistas do EdtechX, vencedores do prêmio 100 Statups to Watch, vencedores do Pitch Gov SP e Pitch Gov Santo André. 
+Com as nossas soluções, somos vencedores há 4 anos seguidos do prêmio Top Educação, finalistas do EdtechX, vencedores do prêmio 100 Statups to Watch, vencedores do Pitch Gov SP e Pitch Gov Santo André. 
+
+Aqui você vai encontrar um ambiente de crescimento, dinâmico e com aprendizados constantes. Esse desafio faz sentido para você? Vem pra Árvore. 
+Aqui você vai encontrar um ambiente de crescimento, dinâmico e com aprendizados constantes. Esse desafio faz sentido para você? Vem pra Árvore. 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Como pessoa Backend, você vai integrar um squad multidisciplinar com o objetivo de desenvolver soluções técnicas de ponta a ponta, desde as primeiras conversas com os times de produto e design até o monitoramento da funcionalidade em produção. 
+Sua missão será entregar novas funcionalidades e melhorias na nossa plataforma, mantendo o padrão de qualidade técnica e subindo a barra quando possível. Valorizamos a autonomia e a proatividade, pois acreditamos que essas características são fundamentais para o bom funcionamento dos nossos times e da nossa engenharia. Prezamos pessoas antes de processos.
+Alguns exemplos de desafios técnicos que você pode encontrar no seu dia-a-dia aqui:
+Desenhar uma plataforma genérica de gamificação dos nossos produtos;
+Refatoração do sistema de usuários e grupos para melhor atender os novos requisitos;
+Desenhar mudanças na plataforma para ela ser mais genérica quanto ao tipo de conteúdo (ex: artigos, notícias…);
+Implementar novas funcionalidades que ajudem nossos usuários a lerem mais livros;
+Implementar testes que nos ajude;
+Implementar a entender o comportamento de nossos usuários;
+Nos ajudar a quebrar nosso monolito em partes menores e mais modulares.
+Além dos desafios técnicos, também esperamos que você ajude a elevar a qualidade técnica da equipe e do nosso código, através de:
+Reviews de código;
+Mentoria de seus colegas;
+Identificação de problemas e melhorias nos nossos códigos e sistemas;
+Proatividade para implementar melhorias nos nossos sistemas;
+Colaboração de conhecimento através de discussões síncronas ou assíncronas.
+Quanto à nossa stack, ela é centrada em Elixir e no framework Phoenix, com GraphQL fazendo a comunicação entre o backend e o frontend. Nossos frontends são em React/React Native. Não esperamos que você trabalhe diariamente no front, mas esperamos que você toque no frontend de vez em quando.
+No nosso backend seguimos o paradigma funcional e as diretrizes do Elixir e do Phoenix. Mas se não tiver experiência com a linguagem ou o framework não tem problema, você vai conseguir aprender tudo aqui com a gente.
+Outras tecnologias e sistemas que usamos aqui:
+MySQL e PostgreSQL;
+Elasticsearch;
+Redis;
+Datadog;
+Oban;
+SQS.
+REQUISITOS E QUALIFICAÇÕES
+Conhecimento usando e operando bancos de dados relacionais (MySQL, PostgreSQL);Boa experiência trabalhando com servidores web e APIs REST;Boa experiência com testes automatizados de código;Experiência com monitoramento e observabilidade de sistemas;Processamento assíncrono através de background jobs e/ou mensageria;Experiência com aplicações que usam Cloud (ex: AWS, RDS, S3);Conhecimento em linguagem funcional ou interesse em aprender.
+Conhecimento usando e operando bancos de dados relacionais (MySQL, PostgreSQL);
+Conhecimento usando e operando bancos de dados relacionais (MySQL, PostgreSQL);
+Boa experiência trabalhando com servidores web e APIs REST;
+Boa experiência trabalhando com servidores web e APIs REST;
+Boa experiência com testes automatizados de código;
+Boa experiência com testes automatizados de código;
+Experiência com monitoramento e observabilidade de sistemas;
+Experiência com monitoramento e observabilidade de sistemas;
+Processamento assíncrono através de background jobs e/ou mensageria;
+Processamento assíncrono através de background jobs e/ou mensageria;
+Experiência com aplicações que usam Cloud (ex: AWS, RDS, S3);
+Experiência com aplicações que usam Cloud (ex: AWS, RDS, S3);
+Conhecimento em linguagem funcional ou interesse em aprender.
+Conhecimento em linguagem funcional ou interesse em aprender.
+INFORMAÇÕES ADICIONAIS
+Seria legal que você tivesse também: 
+Conhecimento avançado de monitoramento e observabilidade das soluções;
+Conhecimento avançado de monitoramento e observabilidade das soluções;
+Experiência trabalhando com sistemas de fila para comunicação entre múltiplos sistemas.
+Experiência trabalhando com sistemas de fila para comunicação entre múltiplos sistemas.
+O que você vai encontrar aqui:
+Salário Compatível com Mercado;
+Salário Compatível com Mercado;
+Flexibilidade de horário;
+Flexibilidade de horário;
+Autonomia;
+Autonomia;
+Ambiente de trabalho descontraído e agradável;
+Ambiente de trabalho descontraído e agradável;
+Cultura colaborativa;
+Cultura colaborativa;
+Auxílio creche;
+Auxílio creche;
+Vale alimentação ou refeição;
+Vale alimentação ou refeição;
+Plano de saúde;
+Plano de saúde;
+Plano odontológico;
+Plano odontológico;
+Vale transporte para os momentos presenciais;
+Vale transporte para os momentos presenciais;
+Crédito Consignado;
+Crédito Consignado;
+Auxílio Farmácia;
+Auxílio Farmácia;
+Gympass;
+Gympass;
+Desconto em universidades e cursos;
+Desconto em universidades e cursos;
+Ambiente seguro para você ser quem realmente é. Não toleramos absolutamente nenhum tipo de discriminação, seja sexual, racial, social, religiosa, etc.
+Ambiente seguro para você ser quem realmente é. Não toleramos absolutamente nenhum tipo de discriminação, seja sexual, racial, social, religiosa, etc.
+Outras informações importantes para você:
+Trabalho 100% remoto, com alguns encontros presenciais ao longo do ano no escritório, localizado no Rio de Janeiro.
+Por que trabalhar com a gente?
+Acreditamos no potencial transformador da educação para a criação de uma sociedade mais justa e crítica. Hoje, somos uma plataforma gamificada de leitura, que por meio de uma experiência lúdica, incentiva o prazer em aprender, já impactamos muitos alunos e sonhamos em alcançar muitos outros. Para isso precisamos de grandes talentos para fazermos ainda mais!
+Acreditamos no potencial transformador da educação para a criação de uma sociedade mais justa e crítica. Hoje
+, somos uma plataforma gamificada de leitura, que por meio de uma experiência lúdica, incentiva o prazer em aprender, 
+já impactamos muitos alunos e sonhamos em alcançar muitos outros. Para isso precisamos de grandes talentos para fazermos ainda mais!
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: entrevista com Tech Managers2entrevista com Tech Managers
+Etapa 2: entrevista com Tech Managers
+2
+entrevista com Tech Managers
+Etapa 3: teste de Arquitetura3teste de Arquitetura
+Etapa 3: teste de Arquitetura
+3
+teste de Arquitetura
+Etapa 4: entrevista com time de Gente4entrevista com time de Gente
+Etapa 4: entrevista com time de Gente
+4
+entrevista com time de Gente
+Etapa 5: entrevista final com Head de tecnologia5entrevista final com Head de tecnologia
+Etapa 5: entrevista final com Head de tecnologia
+5
+entrevista final com Head de tecnologia
+Etapa 6: Papo de proposta6Papo de proposta
+Etapa 6: Papo de proposta
+6
+Papo de proposta
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+VENHA TRANSFORMAR A EDUCAÇÃO DO BRASIL!
+Trabalhamos todos os dias para levar a leitura para milhares de escolas públicas e privadas de todos os cantos do Brasil. Desde 2014, já impactamos mais de 2 milhões de alunos com as nossas soluções e queremos atingir muitos outros. Vamos transformar a educação! Porque leitura transforma.
+Trabalhamos todos os dias para levar a leitura para milhares de escolas públicas e privadas de todos os cantos do Brasil. Desde 2014, já impactamos mais de 2 milhões de alunos com as nossas soluções e queremos atingir muitos outros. Vamos transformar a educação! Porque leitura transforma.
+
+CONHEÇA MAIS SOBRE NÓS
+Website
+LinkedIn
+Facebook
+Instagram

@@ -1,0 +1,92 @@
+link_vaga-https://talentosrb.gupy.io/job/eyJqb2JJZCI6NzgwMTA2Mywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR FULLSTACK - SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+ Atuando desde 1999 no mercado, a RB é uma empresa que oferece as melhores soluções para o gerenciamento de vale transporte, alimentação, refeição e combustível em todo território nacional. Promovemos a integração perfeita entre aquisição, distribuição e gerenciamento dos benefícios de cada colaborador de forma prática e eficiente.
+ 
+Em 2024, a RB e Ticket concretizaram uma parceria estratégica e hoje a RB faz parte da Ticket, empresa de benefícios e engajamento do Grupo Edenred. De um lado , a maior referência em benefícios do Brasil. De outro , a maior especialista em soluções de vale-transporte. Duas marcas que estão juntas para trazer o melhor dos dois mundos para o dia a dia de pessoas e empresas. Essa parceria estratégica fortalece o posicionamento no mercado garantindo as melhores soluções através de uma plataforma unificada e soluções personalizadas, otimizando os custos e processos. A gestão inteligente, por exemplo, possibilita uma redução de até 35% nos gastos com vale-transporte.
+Nosso time é composto por pessoas especializadas na construção de produtos e soluções tecnológicas, capacitadas para desenhar a melhor abordagem e implementação para nossos clientes. Nossos profissionais atuam em todo o ciclo de vida da solução, desde o planejamento, design e dimensionamento das demandas, passando pela implementação, testes, até o monitoramento e manutenção no ambiente produtivo. Características predominantes da equipe: Equipe acolhedora, solidária, com foco no resultado.
+Nosso time é composto por pessoas especializadas na construção de produtos e soluções tecnológicas, capacitadas para desenhar a melhor abordagem e implementação para nossos clientes. Nossos profissionais atuam em todo o ciclo de vida da solução, desde o planejamento, design e dimensionamento das demandas, passando pela implementação, testes, até o monitoramento e manutenção no ambiente produtivo. Características predominantes da equipe: Equipe acolhedora, solidária, com foco no resultado.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Como será o seu dia a dia 🖥️
+Desenvolver e manter aplicações utilizando PHP, Node.Js, React e Ext.JS. ;
+Projetar e implementar APIs e serviços backend garantindo alta performance e escalabilidade. 
+Utilizar Docker para criação e gerenciamento de contêineres e Kubernetes para orquestração de contêineres. 
+Trabalhar com bancos de dados MySQL e MongoDB, garantindo a integridade e eficiência dos dados. 
+Desenvolver e manter arquiteturas baseadas em micro serviços, garantindo comunicação síncrona e assíncrona eficiente. 
+Escrever e manter testes unitários e testes de ponta a ponta (E2E). 
+ 
+ 
+REQUISITOS E QUALIFICAÇÕES
+Pré-Requisitos 📝
+	Qualificações: 
+Experiência comprovada como desenvolvedor full stack;
+Experiência com Docker e Kubernetes para conteinerização e orquestração;
+Conhecimento sólido de bancos de dados MySQL e MongoDB;
+Experiência com Redis;
+Familiaridade com serviços da AWS, incluindo EC2, S3, Lambda e RDS;
+Conhecimento prático de MQTT, RabbitMQ e Amazon SQS;
+Experiência com arquiteturas de micro serviços;
+Competência na escrita de testes unitários e E2E para garantir a qualidade do código;
+Diferenciais: 
+Certificações em tecnologias relacionadas, como AWS Certified Developer, Docker Certified Associate, etc;
+Experiência com outras linguagens de programação;
+Conhecimento em práticas de DevOps e CI/CD;
+Experiência em metodologias ágeis e ferramentas de gerenciamento de projetos, como Jira;
+Inglês avançado;.
+INFORMAÇÕES ADICIONAIS
+Sobre a oportunidade 📌Contratação CLT - Híbrido Local: Centro de Guarulhos/SPHorário de trabalho comercial de segunda à sexta-feira.O que você vai encontrar aqui:😋 Vale-Refeição;🚌 Vale-Transporte ou Vale Combustível para atender melhor sua necessidade;🩺 Assistência Médica Amil (Opcional após 90 dias, para você e seus dependentes, subsidiada por você e pela RB);😁 Assistência Odontológica Amil(Opcional para você e seus dependentes);👨‍👩‍👦‍👦 Seguro de Vida em grupo;💪 Gympass/Wellhub -parceria com academias e estúdios para cuidar de sua saúde física;🧠 Zenklub - parceria online com diversos profissionais para cuidar de sua saúde mental;🏖️ Férias & Co - parceria de viagens com descontos para hospedagens e passagens aéreas. 
+Sobre a oportunidade 📌
+Contratação CLT - Híbrido 
+Local: Centro de Guarulhos/SP
+Horário de trabalho comercial de segunda à sexta-feira.
+O que você vai encontrar aqui:
+😋 Vale-Refeição;
+🚌 Vale-Transporte ou Vale Combustível para atender melhor sua necessidade;
+🩺 Assistência Médica Amil (Opcional após 90 dias, para você e seus dependentes, subsidiada por você e pela RB);
+😁 Assistência Odontológica Amil(Opcional para você e seus dependentes);
+👨‍👩‍👦‍👦 Seguro de Vida em grupo;
+💪 Gympass/Wellhub -parceria com academias e estúdios para cuidar de sua saúde física;
+🧠 Zenklub - parceria online com diversos profissionais para cuidar de sua saúde mental;
+🏖️ Férias & Co - parceria de viagens com descontos para hospedagens e passagens aéreas. 
+parceria de viagens com descontos para hospedagens e passagens aéreas. 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Teste de Perfil2Teste de Perfil
+Etapa 2: Teste de Perfil
+2
+Teste de Perfil
+Etapa 3: Entrevista com o RH3Entrevista com o RH
+Etapa 3: Entrevista com o RH
+3
+Entrevista com o RH
+Etapa 4: Entrevista com o Gestor4Entrevista com o Gestor
+Etapa 4: Entrevista com o Gestor
+4
+Entrevista com o Gestor
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+NOSSO NEGÓCIO
+Atuando desde 1999 no mercado, a RB é uma empresa que oferece as melhores soluções para o gerenciamento de vale transporte, alimentação, refeição e combustível em todo território nacional. Promovemos a integração perfeita entre aquisição, distribuição e gerenciamento dos benefícios de cada colaborador de forma prática e eficiente.
+Em 2024, a RB e Ticket concretizaram uma parceria estratégica e hoje a RB faz parte da Ticket, empresa de benefícios e engajamento do Grupo Edenred. De um lado , a maior referência em benefícios do Brasil. De outro , a maior especialista em soluções de vale-transporte. Duas marcas que estão juntas para trazer o melhor dos dois mundos para o dia a dia de pessoas e empresas. Essa parceria estratégica fortalece o posicionamento no mercado garantindo as melhores soluções através de uma plataforma unificada e soluções personalizadas, otimizando os custos e processos. A gestão inteligente, por exemplo, possibilita uma redução de até 35% nos gastos com vale-transporte.
+Quer fazer parte dessa rede? Venha nessa ;)
+Quer fazer parte dessa rede? Venha nessa ;)
+CONHEÇA MAIS SOBRE NÓS!
+Website
+LinkedIn
+Facebook
+Instagram

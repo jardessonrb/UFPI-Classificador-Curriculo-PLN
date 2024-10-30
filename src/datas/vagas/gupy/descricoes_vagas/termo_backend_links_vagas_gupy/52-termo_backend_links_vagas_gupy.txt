@@ -1,0 +1,146 @@
+link_vaga-https://ilegra.gupy.io/job/eyJqb2JJZCI6NzkxMzQ5Mywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+[072] PESSOA DESENVOLVEDORA BACKEND JAVA SÊNIOR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Você é uma pessoa apaixonada por desenvolvimento de software e busca um ambiente de trabalho estimulante, onde sua criatividade e habilidades técnicas possam evoluir continuamente? Então, vem somar com a gente! 🚀
+Você é uma pessoa apaixonada por desenvolvimento de software e busca um ambiente de trabalho estimulante, onde sua criatividade e habilidades técnicas possam evoluir continuamente? Então, vem somar com a gente! 🚀
+✨ Estamos em busca de uma Pessoa Desenvolvedora Backend Java Sênior para somar com nossa equipe supimpa. Aqui, valorizamos a liberdade e a responsabilidade, encorajando você a trazer suas ideias inovadoras para solucionar desafios de maneira única. 😍
+✨ Estamos em busca de uma 
+ para somar com nossa equipe supimpa. Aqui, valorizamos a liberdade e a responsabilidade, encorajando você a trazer suas ideias inovadoras para solucionar desafios de maneira única. 😍
+✨ Acreditamos que a soma de expertises e paixão são a chave para o sucesso, e você terá a oportunidade de colaborar com profissionais incríveis que compartilham o mesmo entusiasmo pelo que fazem. 🙌
+✨ Acreditamos que a soma de expertises e paixão são a chave para o sucesso, e você terá a oportunidade de colaborar com profissionais incríveis que compartilham o mesmo entusiasmo pelo que fazem. 🙌
+✨ Venha fazer parte do nosso time e aproveitar um ambiente de trabalho colaborativo com somas constantes que farão sua carreira evoluir 🚀
+✨ Venha fazer parte do nosso time e aproveitar um ambiente de trabalho colaborativo com somas constantes que farão sua carreira evoluir 🚀
+Sua jornada de sucesso começa aqui! Nossa soma, sua evolução #vemserilegra 🧡💜💛
+ 🧡💜💛
++++ Conheça mais sobre o processo seletivo em nosso playbook: encurtador.com.br/bvS89
++++ Conheça mais sobre o processo seletivo em nosso playbook: 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Análise de requisitos;Design e arquitetura de software;Desenvolvimento de software;Integração e testes;Controle de versão e gestão de código;Documentação técnica;Manutenção e suporte;Participar e/ou liderar projetos especiais;Participar e/ou contribuir em forças-tarefa quando necessário;Participar, elaborar e/ou ministrar treinamentos internos, quando necessário;Auxiliar nas atividades gerais da área quando necessário;Orientar e acompanhar tecnicamente cargos de menor nível de atuação quando necessário;Contribuir para a integração e adaptação de novos colaboradores na empresa;Apoiar o líder direto na gestão pontual de cargos de menor nível de atuação quando necessário.
+Análise de requisitos;
+Análise de requisitos;
+Design e arquitetura de software;
+Design e arquitetura de software;
+Desenvolvimento de software;
+Desenvolvimento de software;
+Integração e testes;
+Integração e testes;
+Controle de versão e gestão de código;
+Controle de versão e gestão de código;
+Documentação técnica;
+Documentação técnica;
+Manutenção e suporte;
+Manutenção e suporte;
+Participar e/ou liderar projetos especiais;
+Participar e/ou liderar projetos especiais;
+Participar e/ou contribuir em forças-tarefa quando necessário;
+Participar e/ou contribuir em forças-tarefa quando necessário;
+Participar, elaborar e/ou ministrar treinamentos internos, quando necessário;
+Participar, elaborar e/ou ministrar treinamentos internos, quando necessário;
+Auxiliar nas atividades gerais da área quando necessário;
+Auxiliar nas atividades gerais da área quando necessário;
+Orientar e acompanhar tecnicamente cargos de menor nível de atuação quando necessário;
+Orientar e acompanhar tecnicamente cargos de menor nível de atuação quando necessário;
+Contribuir para a integração e adaptação de novos colaboradores na empresa;
+Contribuir para a integração e adaptação de novos colaboradores na empresa;
+Apoiar o líder direto na gestão pontual de cargos de menor nível de atuação quando necessário.
+Apoiar o líder direto na gestão pontual de cargos de menor nível de atuação quando necessário.
+REQUISITOS E QUALIFICAÇÕES
+AWS Solutions Architect – avançado;Conhecimento de Metodologias Ágeis (Scrum, Kanban etc.) - avançado;DynamoDB – avançado;Git, Jfrog e SVN (repositórios) – avançado;Hibernate – avançado;Java EE (8 e 11) – domínio;Jira – avançado; Junit - avançado;Maven - avançado;Mock - avançado;PostgreSQL - avançado;SLF4J - avançado;Spring Boot – domínio.Diferenciais:SAA-C03 AWS Certified Solutions Architect;Inglês e/ou Espanhol avançado.
+AWS Solutions Architect – avançado;
+AWS Solutions Architect – avançado;
+Conhecimento de Metodologias Ágeis (Scrum, Kanban etc.) - avançado;
+Conhecimento de Metodologias Ágeis (Scrum, Kanban etc.) - avançado;
+DynamoDB – avançado;
+DynamoDB – avançado;
+Git, Jfrog e SVN (repositórios) – avançado;
+Git, Jfrog e SVN (repositórios) – avançado;
+Hibernate – avançado;
+Hibernate – avançado;
+Java EE (8 e 11) – domínio;
+Java EE (8 e 11) – domínio;
+Jira – avançado; 
+Jira – avançado; 
+Junit - avançado;
+Junit - avançado;
+Maven - avançado;
+Maven - avançado;
+Mock - avançado;
+Mock - avançado;
+PostgreSQL - avançado;
+PostgreSQL - avançado;
+SLF4J - avançado;
+SLF4J - avançado;
+Spring Boot – domínio.
+Spring Boot – domínio.
+Diferenciais:
+:
+SAA-C03 AWS Certified Solutions Architect;
+SAA-C03 AWS Certified Solutions Architect;
+Inglês e/ou Espanhol avançado.
+Inglês e/ou Espanhol avançado.
+INFORMAÇÕES ADICIONAIS
+O que oferecemos:
+🩺 Assistência Médica (RS: Unimed | Demais Estados: Bradesco Saúde);
+🦷 Assistência Odontológica (RS: Odontoprev | Demais Estados: Bradesco);
+💊 Convênio Panvel: desconto em uma das maiores redes de farmácias da região Sul;
+💊 Convênio Panvel: desconto em 
+uma das maiores redes de farmácias da região Sul;
+🏡 Auxílio Home Office;
+💻 Auxílio equipamento (para quem optar por utilizar o próprio equipamento de trabalho);
+🍽 Vale alimentação e Vale refeição (Alelo);
+🧠 Zenklub (2 sessões gratuitas por mês, desconto nas demais);
+💪 Wellhub;
+📖 Apoio em cursos e certificações;
+🎯 Udemy for Business;
+👩‍🎓 Convênio com Instituições de ensino;
+🧘‍♀️ Programa Taking care, everywhere (saúde mental e bem-estar);
+🌍 Flexibilidade (anywhere office).
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Bate papo com o time de Pessoas & Cultura2Bate papo com o time de Pessoas & Cultura
+Etapa 2: Bate papo com o time de Pessoas & Cultura
+2
+Bate papo com o time de Pessoas & Cultura
+Etapa 3: Bate papo com a área técnica3Bate papo com a área técnica
+Etapa 3: Bate papo com a área técnica
+3
+Bate papo com a área técnica
+Etapa 4: Proposta Salarial!4Proposta Salarial!
+Etapa 4: Proposta Salarial!
+4
+Proposta Salarial!
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+NOSSA SOMA, SUA EVOLUÇÃO! 🧡
+Nosso propósito é cuidar da coletividade para inspirar pessoas a transformarem o mundo! 
+Somos uma empresa global de estratégia, inovação e tecnologia que desde 2002 combina tecnologia com a paixão das pessoas. E essa soma se transforma em resultados. Nascemos para estimular pessoas e empresas a pensar e ir além. 
+ que desde 2002 combina tecnologia com a paixão das pessoas. E essa soma se transforma em resultados. Nascemos para estimular pessoas e empresas a pensar e ir além. 
+
+Atuamos em todo o mundo, com um time de quase 300 pessoas ilegranas. Prestamos serviços desde consultorias até projetos completos. Nosso portfólio é centrado em soluções de estratégia e negócios, inovação, data e cloud.
+Atuamos em todo o mundo, com um time de quase 300 pessoas ilegranas. Prestamos serviços desde consultorias até projetos completos. Nosso portfólio é centrado em soluções de estratégia e negócios, inovação, data e cloud.
+
+Acreditamos que quando existe um senso de coletividade, as pessoas conseguem alcançar a plenitude de seu potencial, pensar além, e assim toda sociedade se beneficia. Nossa soma é o segredo para sua evolução!
+Acreditamos que quando existe um senso de coletividade, as pessoas conseguem alcançar a plenitude de seu potencial, pensar além, e assim toda sociedade se beneficia. Nossa soma é o segredo para sua evolução!
+Quer saber mais? 
++++ Acesse nossa página de carreiras
++++ Conheça mais sobre o processo seletivo em nosso playbook
+CONFIRA NOSSO DIA-A-DIA EM NOSSAS REDES SOCIAIS 😎
+Website
+LinkedIn
+Instagram
+Glassdoor

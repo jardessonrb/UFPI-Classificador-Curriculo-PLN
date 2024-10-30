@@ -1,0 +1,234 @@
+link_vaga-https://sinqia.gupy.io/job/eyJqb2JJZCI6NzA1MjU1OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ENGENHEIRO DE SOFTWARE SR CLOUD (BACKEND .NET/C#) | DIGITAL
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+
+Muito prazer, Somos a Evertec + Sinqia! 🧡
+🧡
+Diariamente, processamos bilhões de transações através dos nossos produtos, impactando diretamente a vida de muitos brasileiros. Fomos eleitos uma das melhores empresas para se trabalhar com certificado GPTW e estamos entre as 100 maiores Fintechs do mundo.
+Diariamente, processamos bilhões de transações através dos nossos produtos, impactando diretamente a vida de muitos brasileiros. Fomos eleitos uma das melhores empresas para se trabalhar com certificado GPTW e estamos entre as 100 maiores Fintechs do mundo.
+Nossos colaboradores são Makers, criam soluções relevantes, são Smart, transmitem conhecimento com inteligência e de forma Leve, prezando pelo carisma ao agir e se comunicar.
+Nossos colaboradores são Makers, criam soluções relevantes, são Smart, transmitem conhecimento com inteligência e de forma Leve, prezando pelo carisma ao agir e se comunicar.
+RESPONSABILIDADES E ATRIBUIÇÕES
+A área de Digital na Evertec + Sinqia é a área de desenvolvimento, inovação e sustentação de produtos, foco na automação de processos para instituições financeiras e transformação. Busca um(a) Engenheiro de Software SR Cloud (Backend .NET/C#) para compor nosso time, na maior empresa de desenvolvimento de softwares e produtos para o mercado financeiro do Brasil, onde acreditamos que a inovação tecnológica inspira a evolução.
+A área de 
+ na 
+ é a área de desenvolvimento, inovação e sustentação de produtos, foco na automação de processos para instituições financeiras e transformação. Busca um(a) 
+ para compor nosso time, na maior empresa de desenvolvimento de softwares e produtos para o mercado financeiro do Brasil, onde acreditamos que a inovação tecnológica inspira a evolução.
+Esse cargo é responsável por:
+• Conhecimento de Boas Práticas de Segurança de Software;
+• Conhecimento de Boas Práticas de Segurança de Software;
+• Profissional precisar entender as necessidades de melhoria do produto;
+• Profissional precisar entender as necessidades de melhoria do produto;
+• Estruturação do Roadmap e Visão do Produto;
+• Estruturação do Roadmap e Visão do Produto;
+• Foco nos objetivos de negócio, Pesquisa e Análise de Mercado;
+• Foco nos objetivos de negócio, Pesquisa e Análise de Mercado;
+• Priorização das demandas, principalmente técnicas, e direcionamento para o Product Owner (P.O);
+• Priorização das demandas, principalmente técnicas, e direcionamento para o Product Owner (P.O);
+• Alinhamento com Objetivos do Negócio;
+• Alinhamento com Objetivos do Negócio;
+• Inovação - Processos de Desenvolvimento Ágeis, como Scrum e Kanban;
+• Inovação - Processos de Desenvolvimento Ágeis, como Scrum e Kanban;
+• Capacidade de Criticar e Promover Soluções Escaláveis: Monitoramento e ajustes;
+• Capacidade de Criticar e Promover Soluções Escaláveis: Monitoramento e ajustes;
+• Comunicação dos direcionamentos dos projetos;
+• Comunicação dos direcionamentos dos projetos;
+• Promoção de práticas de segurança no ciclo de vida de desenvolvimento de software (SDLC);
+• Promoção de práticas de segurança no ciclo de vida de desenvolvimento de software (SDLC);
+• Adoção de abordagens de "segurança por design;
+• Adoção de abordagens de "segurança por design;
+• Implementação de políticas e práticas para gerenciar configurações de segurança de sistemas e aplicações;
+• Implementação de políticas e práticas para gerenciar configurações de segurança de sistemas e aplicações;
+• Promoção de uma cultura de segurança entre desenvolvedores;
+• Promoção de uma cultura de segurança entre desenvolvedores;
+• Promover um ambiente de trabalho colaborativo e inclusivo;
+• Promover um ambiente de trabalho colaborativo e inclusivo;
+• Oferecimento de orientação e suporte técnico para membros menos experientes da equipe;
+• Oferecimento de orientação e suporte técnico para membros menos experientes da equipe;
+• Elaboração de planos para violações de segurança.
+• Elaboração de planos para violações de segurança.
+REQUISITOS E QUALIFICAÇÕES
+Para dar #match, essa vaga necessita que atenda alguns requisitos obrigatórios:
+Graduação: Ciência da Computação / Engenharia de Software / Sistemas de Informação / Engenharia da Computação;
+Conhecimento Técnico Avançado:
+• Cloud Computing: Processamento, Armazenamento e Conectividade / Infraestrutura como Código (IaC) / Terraform e Ansible;
+• Cloud Computing: Processamento, Armazenamento e Conectividade / Infraestrutura como Código (IaC) / Terraform e Ansible;
+• Observabilidade: Boas práticas de criação de logs / Métricas e Tracing/ Instrumentação de código usando AppMetrics e OpenTelemetry;
+• Observabilidade: Boas práticas de criação de logs / Métricas e Tracing/ Instrumentação de código usando AppMetrics e OpenTelemetry;
+• Noções de Bancos de Dados TSDB (time-series databases): Prometheus / Cassandra / InfluxDB;
+• Noções de Bancos de Dados TSDB (time-series databases): Prometheus / Cassandra / InfluxDB;
+• DevOps Pipelines para CI/CD;
+• DevOps Pipelines para CI/CD;
+• Conhecimento de práticas de DevOps e integração contínua.
+• Conhecimento de práticas de DevOps e integração contínua.
+Documentação de Arquitetura de Software:
+• Documentação de Código;
+• Documentação de Código;
+• Documentação de APIs;
+• Documentação de APIs;
+• Wikis de Projeto;
+• Wikis de Projeto;
+• Manutenção da Documentação, por exemplo, de instalação;
+• Manutenção da Documentação, por exemplo, de instalação;
+• Planejamento e execução Roadmap de Evolução do Produto;
+• Planejamento e execução Roadmap de Evolução do Produto;
+• Padrões de projeto e arquitetura;
+• Padrões de projeto e arquitetura;
+• Domain Driven Design;
+• Domain Driven Design;
+• Testes em .NET.
+• Testes em .NET.
+Habilidade em Liderança Técnica:
+• Orientação da equipe na definição de arquiteturas, seleção de tecnologias e melhores práticas de desenvolvimento;
+• Orientação da equipe na definição de arquiteturas, seleção de tecnologias e melhores práticas de desenvolvimento;
+• Resolução de problemas complexos de forma criativa;
+• Resolução de problemas complexos de forma criativa;
+• Comunicação de conceitos técnicos complexos de forma clara para diferentes públicos.
+• Comunicação de conceitos técnicos complexos de forma clara para diferentes públicos.
+Experiência em linguagens:
+• C#, .NET, SOLID com C#;
+• C#, .NET, SOLID com C#;
+• Princípios da programação orientada a objetos em C#.
+• Princípios da programação orientada a objetos em C#.
+Banco de Dados:
+• SQL Server;
+• SQL Server;
+• MySQL;
+• MySQL;
+• Bancos de Dados Não Relacionais.
+• Bancos de Dados Não Relacionais.
+Boas práticas em:
+• ASP.NET;
+• ASP.NET;
+• Aplicações usando HostBuilder;
+• Aplicações usando HostBuilder;
+• Middlewares no ASP.NET Core;
+• Middlewares no ASP.NET Core;
+• Injeção de dependência usando .NET;
+• Injeção de dependência usando .NET;
+• Servidores em .NET usando Kestrel.
+• Servidores em .NET usando Kestrel.
+Microsserviços:
+• Diferença entre aplicação monolítica e microsserviços;
+• Diferença entre aplicação monolítica e microsserviços;
+• Identificação de quando migrar para microsserviços;
+• Identificação de quando migrar para microsserviços;
+• Service Mesh;
+• Service Mesh;
+• Event Driven Architecture;
+• Event Driven Architecture;
+• Familiaridade com ferramentas de controle de versão.
+• Familiaridade com ferramentas de controle de versão.
+Técnicas de Documentação:
+• Estruturação do Roadmap;
+• Estruturação do Roadmap;
+• Visão do Produto;
+• Visão do Produto;
+• Objetivos de Negócio e Pesquisa e Análise de Mercado;
+• Objetivos de Negócio e Pesquisa e Análise de Mercado;
+• Auxílio na priorização das demandas e direcionamento para o Product Owner;
+• Auxílio na priorização das demandas e direcionamento para o Product Owner;
+• Monitoramento e Ajustes.
+• Monitoramento e Ajustes.
+Caso possua o conhecimento ou atuação abaixo, será um diferencial:
+• Certificação AWS Certified Solutions Architect ‒ Associate;
+• Certificação AWS Certified Solutions Architect ‒ Associate;
+• Certificação: AWS AWS Certified Solutions Architect Professional;
+• Certificação: AWS AWS Certified Solutions Architect Professional;
+• Certificação: Azure Solutions Architect Expert;
+• Certificação: Azure Solutions Architect Expert;
+• Certificação: GCP Professional Cloud Architect.
+• Certificação: GCP Professional Cloud Architect.
+ 
+📌IMPORTANTE: Essa oportunidade é para atuação no escritório da Sinqia Belo Horizonte/MG, modalidade Híbrido. 😉
+INFORMAÇÕES ADICIONAIS
+🏅 E aí, se identificou com o que leu até agora? Então, vou te contar o que você encontrará aqui, além de um ambiente dinâmico;
+🏅 
+• Vale refeição ou alimentação;
+• Vale refeição ou alimentação;
+• Assistência médica;
+• Assistência médica;
+• Assistência Odontológica
+• Assistência Odontológica
+• Auxílio creche;
+• Auxílio creche;
+• Benefícios Flexíveis (Flash);
+• Benefícios Flexíveis (Flash);
+• Vale transporte;
+• Vale transporte;
+• Gympass e TotalPass;
+• Gympass e TotalPass;
+• Horários flexíveis;
+• Horários flexíveis;
+• Seguro de vida;
+• Seguro de vida;
+• Clube de parcerias;
+• Clube de parcerias;
+• Just dress no code (sem código de vestimenta!),
+• Just dress no code (sem código de vestimenta!),
+• Day off no aniversário.
+• Day off no aniversário.
+♿️🌈🙋🏾👴🏻Na Sinqia valorizamos a diversidade e entendemos que o que acrescenta é justamente ideias e pontos de vistas variados. Por isso raça, cor, religião, gênero e identidade de gênero, nacionalidade, deficiência, orientação sexual, ascendência ou idade, não serão impeditivos de você fazer parte do nosso time.
+♿️🌈🙋🏾👴🏻Na Sinqia valorizamos a diversidade e entendemos que o que acrescenta é justamente ideias e pontos de vistas variados. Por isso raça, cor, religião, gênero e identidade de gênero, nacionalidade, deficiência, orientação sexual, ascendência ou idade, não serão impeditivos de você fazer parte do nosso time.
+✔Saiba mais sobre a Sinqia em: www.sinqia.com.br e siga os nossos perfis nas redes sociais.
+✔Saiba mais sobre a Sinqia em: 
+ e siga os nossos perfis nas redes sociais.
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Entrevista Liderança/Técnica3Entrevista Liderança/Técnica
+Etapa 3: Entrevista Liderança/Técnica
+3
+Entrevista Liderança/Técnica
+Etapa 4: Entrevista Cultura4Entrevista Cultura
+Etapa 4: Entrevista Cultura
+4
+Entrevista Cultura
+Etapa 5: Avaliação Final5Avaliação Final
+Etapa 5: Avaliação Final
+5
+Avaliação Final
+Etapa 6: Proposta6Proposta
+Etapa 6: Proposta
+6
+Proposta
+Etapa 7: Stand-by7Stand-by
+Etapa 7: Stand-by
+7
+Stand-by
+Etapa 8: Em admissão8Em admissão
+Etapa 8: Em admissão
+8
+Em admissão
+Etapa 9: Contratação9Contratação
+Etapa 9: Contratação
+9
+Contratação
+A EMPRESA BRASILEIRA QUE FAZ O MERCADO FINANCEIRO PULSAR!
+Líder em softwares, inovação e uma das maiores provedoras de tecnologia e serviços para o setor financeiro. Oferecemos diversos softwares (Bancos, Fundos, Investimentos, Previdência, Consórcios e Meios de Pagamentos) e serviços (Outsourcing e consulting). Em constante crescimento, com mais de 20 aquisições e mais de 700 clientes, somos uma das empresas de tecnologia pioneiras.
+Líder em softwares, inovação e uma das maiores provedoras de tecnologia e serviços para o setor financeiro. Oferecemos diversos softwares (Bancos, Fundos, Investimentos, Previdência, Consórcios e Meios de Pagamentos) e serviços (Outsourcing e consulting). Em constante crescimento, com mais de 20 aquisições e mais de 700 clientes, somos uma das empresas de tecnologia pioneiras.
+ 
+Somos uma das empresas que mais crescem no Brasil e somos eleitos desde 2017 como uma das 100 maiores Fintechs do Mundo, de acordo com o International Data Corporation (IDC). 
+Somos uma das empresas que mais crescem no Brasil e somos eleitos desde 2017 como uma das 
+, de acordo com o International Data Corporation (IDC). 
+ 
+CONECTE-SE COM A GENTE E CONHEÇA MAIS NOSSO JEITO DE SER!
+Website
+LinkedIn
+Instagram

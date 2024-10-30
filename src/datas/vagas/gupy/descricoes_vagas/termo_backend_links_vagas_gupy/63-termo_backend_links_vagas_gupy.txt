@@ -1,0 +1,52 @@
+link_vaga-https://novosdesafios.gupy.io/job/eyJqb2JJZCI6Nzg4MjU5Niwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+DESENVOLVEDOR BACKEND SR
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+DESCRIÇÃO DA VAGA
+Estamos em busca de uma Pessoa Desenvolvedora Backend Sênior para atuar em uma grande empresa do Paraná, sediada em Curitiba. A posição é voltada para atender demandas de clientes internos de diversos setores, ajudando o time a arquitetar e construir sistemas inovadores, além de propor melhorias em sistemas legados.
+RESPONSABILIDADES E ATRIBUIÇÕES
+O que você vai fazer:🎯 Desenvolvimento de Sistemas: Trabalhar no desenvolvimento de sistemas backend utilizando TypeScript e frameworks modernos.☁️ Infraestrutura AWS: Colaborar em projetos que envolvem infraestrutura na AWS, aplicando boas práticas de cloud computing.🛠️ Arquitetura de Software: Participar da definição de arquitetura de software, aplicando padrões como Clean Architecture, SOLID, Arquitetura Hexagonal e Microserviços.🚀 Melhoria Contínua: Propor e discutir novas tecnologias e padrões de desenvolvimento de forma ágil, sem burocracia.💡 Inteligência Artificial: Aplicar conhecimento em inteligência artificial para otimização de processos e automação de tarefas no dia a dia.
+O QUE VOCÊ VAI FAZER:
+🎯 Desenvolvimento de Sistemas: Trabalhar no desenvolvimento de sistemas backend utilizando TypeScript e frameworks modernos.
+☁️ Infraestrutura AWS: Colaborar em projetos que envolvem infraestrutura na AWS, aplicando boas práticas de cloud computing.
+🛠️ Arquitetura de Software: Participar da definição de arquitetura de software, aplicando padrões como Clean Architecture, SOLID, Arquitetura Hexagonal e Microserviços.
+🚀 Melhoria Contínua: Propor e discutir novas tecnologias e padrões de desenvolvimento de forma ágil, sem burocracia.
+💡 Inteligência Artificial: Aplicar conhecimento em inteligência artificial para otimização de processos e automação de tarefas no dia a dia.
+REQUISITOS E QUALIFICAÇÕES
+Requisitos:
+Experiência Sólida em Backend: Domínio em desenvolvimento backend com TypeScript.
+Proeficiência em Node e NestJS: Experiência com frameworks como Node.js e NestJS, além de ferramentas como PrismaORM.
+Conhecimento em Arquitetura de Software: Expertise em arquitetura de software, incluindo práticas de Clean Architecture, SOLID, Arquitetura Hexagonal e Microserviços.
+Experiência em Cloud AWS: Conhecimento avançado em Cloud AWS e suas ferramentas.
+CI/CD com GitLab: Experiência com pipelines de CI/CD usando GitLab.
+Inovação com Inteligência Artificial: Capacidade de utilizar inteligência artificial no dia a dia para otimização e automação.
+INFORMAÇÕES ADICIONAIS
+Oferecemos uma remuneração compatível com o mercado e pacote de benefícios completo.
+Modelos de trabalho: Presencial em horário comercial
+Modelo de contratação: CLT
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Abordagem2Abordagem
+Etapa 2: Abordagem
+2
+Abordagem
+Etapa 3: Entrevista com RH e Gestão3Entrevista com RH e Gestão
+Etapa 3: Entrevista com RH e Gestão
+3
+Entrevista com RH e Gestão
+Etapa 4: teste técnico 4teste técnico 
+Etapa 4: teste técnico 
+4
+teste técnico 
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação

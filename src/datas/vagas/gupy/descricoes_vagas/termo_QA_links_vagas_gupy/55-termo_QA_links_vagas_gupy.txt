@@ -1,0 +1,99 @@
+link_vaga-https://cogna.gupy.io/job/eyJqb2JJZCI6Nzk2ODQ0MSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+QA LEAD - VAGA AFIRMATIVA PARA MULHERES
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: RemotoRemoto
+Modelo de trabalho: Remoto
+Remoto
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Somos o grupo educacional mais diversificado do país. Todos os dias, criamos futuros incríveis através da inovação. Colocamos a mão na massa para tirar as ideias do papel e colocá-las em prática. Enfrentamos desafios com resiliência e nos adaptamos às mudanças constantes.
+Por aqui, somos um time e não heróis, guiados pela vontade de fazer a diferença e conectados de um só jeito, o #JeitoCogna. Nossa relação é direta e respeitosa, e o sucesso dos nossos alunos e clientes é o nosso sucesso.
+Além disso, valorizamos a diversidade, porque sabemos que quanto mais diverso é o nosso repertório, mais abrangente e inclusivo seremos. Juntos impulsionamos as pessoas a construírem uma melhor versão de si! E aí, bora fazer parte da empresa líder absoluta do segmento educacional? Vem pra Cogna.
+Por que essa vaga é exclusiva para Mulheres? 
+Aqui, acreditamos no respeito, na diversidade e na busca pela inclusão em todas suas frentes. Estamos comprometidos em promover a igualdade e representatividade de grupos sub-representados socialmente em todos os nossos espaços, de forma que o aumento de ações afirmativas fortaleça a construção de uma cultura mais inclusiva e que valoriza a importância da representatividade.
+
+
+
+RESPONSABILIDADES E ATRIBUIÇÕES
+Liderar equipes de Engenheiros de Teste dentro da squad e trabalhar em equipe, garantindo a entrega de software de alta qualidade;Definir e implementar a estratégia de testes para a squad, alinhada à estratégia geral da área de qualidade;Garantir a execução das etapas do processo definido pela área de Qualidade;Garantir que todos os requisitos de qualidade sejam atendidos antes de qualquer entrega ou lançamento;Conduzir revisões de testes para garantir a conformidade com os padrões de qualidade;Coordenar com o Product Owner e o time de desenvolvimento para planejar e priorizar as atividades de testes;Acompanhar e monitorar a implementação de testes automatizados regressivos para garantir cobertura e eficiência;Facilitar sessões de planejamento e revisão de testes e retrospectivas de sprint;Monitorar, analisar e compartilhar os resultados dos testes;Participar das Syncs para alinhamentos entre a área de qualidade e a jornada;Buscar a melhoria contínua dos processos;Gerir projetos e automatizar processos.
+Liderar equipes de Engenheiros de Teste dentro da squad e trabalhar em equipe, garantindo a entrega de software de alta qualidade;
+Definir e implementar a estratégia de testes para a squad, alinhada à estratégia geral da área de qualidade;
+Garantir a execução das etapas do processo definido pela área de Qualidade;
+Garantir que todos os requisitos de qualidade sejam atendidos antes de qualquer entrega ou lançamento;
+Conduzir revisões de testes para garantir a conformidade com os padrões de qualidade;
+Coordenar com o Product Owner e o time de desenvolvimento para planejar e priorizar as atividades de testes;
+Acompanhar e monitorar a implementação de testes automatizados regressivos para garantir cobertura e eficiência;
+Facilitar sessões de planejamento e revisão de testes e retrospectivas de sprint;
+Monitorar, analisar e compartilhar os resultados dos testes;
+Participar das Syncs para alinhamentos entre a área de qualidade e a jornada;
+Buscar a melhoria contínua dos processos;
+Gerir projetos e automatizar processos.
+REQUISITOS E QUALIFICAÇÕES
+Experiência em planejamento, análise e execução de testes;Vivência em automação de testes frontend e backend;Habilidade de liderança técnica e destravamento de impedimentos;Experiência com a ferramenta Zephyr Scale;Conhecimento nas ferramentas: Postman, Jira, Cucumber, Selenium, Capybara e Cypress;Conhecimento de escrita de testes em BDD com Gherkin;Conhecimento em alguma linguagem de programação Java ou JavaScript;Conhecimento em alguma linguagem de script: Ruby ou Phyton;Conhecimento básico em metodologia ágil;Conhecimento básico em banco de dados: MySQL, SQL Server e/ou Oracle;Boa comunicação para participar de reuniões técnicas com o cliente.Diferencial conhecimento em alguma ferramenta de CI/CD como: Jenkins, GitHub, Azure Devops.
+Experiência em planejamento, análise e execução de testes;
+Vivência em automação de testes frontend e backend;
+Habilidade de liderança técnica e destravamento de impedimentos;
+Experiência com a ferramenta Zephyr Scale;
+Conhecimento nas ferramentas: Postman, Jira, Cucumber, Selenium, Capybara e Cypress;
+Conhecimento de escrita de testes em BDD com Gherkin;
+Conhecimento em alguma linguagem de programação Java ou JavaScript;
+Conhecimento em alguma linguagem de script: Ruby ou Phyton;
+Conhecimento básico em metodologia ágil;
+Conhecimento básico em banco de dados: MySQL, SQL Server e/ou Oracle;
+Boa comunicação para participar de reuniões técnicas com o cliente.
+Diferencial conhecimento em alguma ferramenta de CI/CD como: Jenkins, GitHub, Azure Devops.
+INFORMAÇÕES ADICIONAIS
+Participação nos Lucros;Assistência Médica;Assistência Odontológica;Vale-Refeição;Seguro de Vida;Gympass;Bolsa graduação/pós-graduação;Day off de aniversário;Aqui você tem liberdade para ser como é!
+Participação nos Lucros;
+Assistência Médica;
+Assistência Odontológica;
+Vale-Refeição;
+Seguro de Vida;
+Gympass;
+Bolsa graduação/pós-graduação;
+Day off de aniversário;
+Aqui você tem liberdade para ser como é!
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Fit Cultural2Fit Cultural
+Etapa 2: Fit Cultural
+2
+Fit Cultural
+Etapa 3: Triagem3Triagem
+Etapa 3: Triagem
+3
+Triagem
+Etapa 4: Entrevista RH4Entrevista RH
+Etapa 4: Entrevista RH
+4
+Entrevista RH
+Etapa 5: Entrevista com a área de Negócio5Entrevista com a área de Negócio
+Etapa 5: Entrevista com a área de Negócio
+5
+Entrevista com a área de Negócio
+Etapa 6: Proposta6Proposta
+Etapa 6: Proposta
+6
+Proposta
+Etapa 7: Contratação7Contratação
+Etapa 7: Contratação
+7
+Contratação
+QUEM SOMOS
+Inovação é o que nos move. A Cogna é uma das maiores organizações de educação no mundo e pioneira no Brasil. Temos o objetivo de “impulsionar as pessoas a construírem uma melhor versão de si”. Com mais de 50 anos de tradição, atualmente somos uma das maiores empresas do setor de educação do mundo, temos um modelo de negócio amplo e com muitas oportunidades de crescimento. Possibilitamos produtos e serviços educacionais que vão desde a jornada de aprendizado infantil até à terceira idade. 
+Inovação é o que nos move. A Cogna é uma das maiores organizações de educação no mundo e pioneira no Brasil. Temos o objetivo de “impulsionar as pessoas a construírem uma melhor versão de si”. Com mais de 50 anos de tradição, atualmente somos uma das maiores empresas do setor de educação do mundo, temos um modelo de negócio amplo e com muitas oportunidades de crescimento. Possibilitamos produtos e serviços educacionais que vão desde a jornada de aprendizado infantil até à terceira idade. 
+#AquiéCogna e temos em nosso DNA a evolução e o dinamismo de uma jovem startup, mas com a estrutura de uma grande empresa com mais de 70 marcas. Por aqui, agimos pensando no sucesso do aluno. Temos paixão por educar e valorizamos as pessoas. Somos responsáveis por fazer acontecer, sempre gerando valor sustentável e juntos, podemos mais. Nós somos a Cogna! 🤩
+#AquiéCogna e temos em nosso DNA a evolução e o dinamismo de uma jovem startup, mas com a estrutura de uma grande empresa com mais de 70 marcas. Por aqui, agimos pensando no sucesso do aluno. Temos paixão por educar e valorizamos as pessoas. Somos responsáveis por fazer acontecer, sempre gerando valor sustentável e juntos, podemos mais. Nós somos a 
+NOS SIGA E ACOMPANHE TODAS AS NOVIDADES!
+Website
+LinkedIn
+Instagram
+Glassdoor

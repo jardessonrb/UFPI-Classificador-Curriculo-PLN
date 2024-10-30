@@ -1,0 +1,109 @@
+link_vaga-https://porto.gupy.io/job/eyJqb2JJZCI6Nzg1MTQyMywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ANALISTA DE OPERAÇÕES FINANCEIRAS SÊNIOR (DADOS)
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: PresencialPresencial
+Modelo de trabalho: Presencial
+Presencial
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Nossa área tem como objetivo atuar como a rede de proteção para os produtos e processos da Bank, através de Controle Operacional e Conciliação Financeira.
+Assim detectando anomalias e inconsistências nas interlocuções dos processos, provendo segurança, confiabilidade e eficiência das operações, protegendo a Instituição contra riscos e otimizando seus resultados. A área também é responsável por criar e gerir indicadores de performance e qualidade que viabilizam gestão ágil integrada em todas as vertentes da operação.
+RESPONSABILIDADES E ATRIBUIÇÕES
+Desenvolver controles operacionais robustos e eficientes dos produtos da Porto Bank usando linguagem SQL e/ou Python no ambiente Databricks;
+Desenvolver controles operacionais robustos e eficientes dos produtos da Porto Bank usando linguagem SQL e/ou Python no ambiente Databricks;
+Colaborar com stakeholders para entender seus requisitos e garantir que os controles atendam às necessidades das áreas parceiras;
+Colaborar com stakeholders para entender seus requisitos e garantir que os controles atendam às necessidades das áreas parceiras;
+Testar e validar os controles para garantir sua precisão e confiabilidade;
+Testar e validar os controles para garantir sua precisão e confiabilidade;
+Converter e migrar controles existentes do SAS para o Databricks;
+Converter e migrar controles existentes do SAS para o Databricks;
+Testar e validar os controles migrados SAS/Databricks;
+Testar e validar os controles migrados SAS/Databricks;
+Ser crítico e analítico, com habilidade para transformar dados em informações, estabelecer correlação entre dados distintos e promover indicadores sustentáveis e direcionados para o negócio;
+Transformação de dados brutos em controles operacionais robustos que abranja a completude da jornada dos produtos e negócios da Porto Bank;
+Transformação de dados brutos em controles operacionais robustos que abranja a completude da jornada dos produtos e negócios da Porto Bank;
+REQUISITOS E QUALIFICAÇÕES
+Superior completo em estatística, administração, finanças, ciência de dados, analise de dados, ou cursos correlatos;
+Desejável Pós-Graduação e/ou MBA em gestão de negócios, gestão de processos, Business Intelligence (B.I), Analytics ou cursos correlatos;
+Obrigatório Excel avançado e SQL;
+Desejável conhecimento de ferramentas de visualização e gestão de dados como Power BI, SAS e Databricks;
+Capacidade de autogerenciamento e organização para priorizar e concluir tarefas de forma independente e pró ativa;
+Atuar com sugestões e críticas, mostrando-se capaz de adaptação às mudanças;
+Ser flexível e resiliente para lidar com desafios e para implementar soluções;
+INFORMAÇÕES ADICIONAIS
+Vale Alimentação e Refeição: Seu VR e VA são flexíveis, para que você atenda às suas necessidades e defina a melhor maneira de utilizá-los;
+ Seu VR e VA são flexíveis, para que você atenda às suas necessidades e defina a melhor maneira de utilizá-los;
+Vale-Transporte: Para nos encontrarmos na Porto;
+Para nos encontrarmos na Porto;
+Serviços de Transporte: Para o seu conforto e segurança no trajeto até o nosso escritório, disponibilizamos vans nas principais estações de acesso à Porto: Luz, Barra Funda, Santa Cecília e Júlio Prestes;
+ Para o seu conforto e segurança no trajeto até o nosso escritório, disponibilizamos vans nas principais estações de acesso à Porto: Luz, Barra Funda, Santa Cecília e Júlio Prestes;
+Plano de Saúde, Odontológico e Seguro de Vida: Para que você possa se cuidar, e também cuidar de seus dependentes;
+: Para que você possa se cuidar, e também cuidar de seus dependentes;
+Participação nos Lucros - PLR: Pois sabemos que só vamos crescer, se crescermos juntos;
+Pois sabemos que só vamos crescer, se crescermos juntos;
+Porto em Ação: Programa complementar à PLR, disponibilizando anualmente, até 2025, uma porcentagem de valor do seu salário em ações da Porto;
+ Programa complementar à PLR, disponibilizando anualmente, até 2025, uma porcentagem de valor do seu salário em ações da Porto;
+Pais, mães e filhos: Auxílio creche ou babá, para cuidar do seu bem mais precioso;
+ Auxílio creche ou babá, para cuidar do seu bem mais precioso;
+Previdência Privada - PortoPrev: Para você garantir um futuro mais tranquilo;
+Para você garantir um futuro mais tranquilo;
+Gympass: Para você possa se exercitar e cuidar da sua saúde física em diversas academias, onde estiver;
+Para você possa se exercitar e cuidar da sua saúde física em diversas academias, onde estiver;
+Bolsa de estudos; Para você começar uma graduação ou que sonha em fazer uma segunda faculdade ou pós-graduação.
+Para você começar uma graduação ou que sonha em fazer uma segunda faculdade ou pós-graduação.
+Cursos de Idiomas: Subsídio para cursos de Inglês e Espanhol;
+Subsídio para cursos de Inglês e Espanhol;
+Programa Saúde Integral: Série de benefícios e iniciativas para te apoiar a encontrar equilíbrio de forma integral, através de três pilares: saúde mental, saúde física e saúde financeira;
+Série de benefícios e iniciativas para te apoiar a encontrar equilíbrio de forma integral, através de três pilares: saúde mental, saúde física e saúde financeira;
+Desconto em Produtos e Serviços: Para que você possa desfrutar dos produtos e serviços deste nosso ecossistema gigante.
+Para que você possa desfrutar dos produtos e serviços deste nosso ecossistema gigante.
+MODELO DE TRABALHO: PRESENCIAL
+MODELO DE TRABALHO: PRESENCIAL
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 2: Triagem
+2
+Triagem
+Etapa 3: Entrevista RH3Entrevista RH
+Etapa 3: Entrevista RH
+3
+Entrevista RH
+Etapa 4: Entrevista Gestor(a)4Entrevista Gestor(a)
+Etapa 4: Entrevista Gestor(a)
+4
+Entrevista Gestor(a)
+Etapa 5: Contratação5Contratação
+Etapa 5: Contratação
+5
+Contratação
+NA PORTO, VOCÊ IMPORTA!
+A Porto é muito mais que uma seguradora: é um ecossistema gigante que utiliza tecnologia para criar soluções, através de quatro verticais de negócio: Porto Bank, Porto Saúde, Porto Seguro e Porto Serviço. A reputação e o reconhecimento conquistados ao longo de mais de 7 décadas reforçam o tamanho da Porto, uma empresa referência em negócios, feita para e por pessoas. 
+A Porto é muito mais que uma seguradora: é um ecossistema gigante que utiliza tecnologia para criar soluções, através de quatro verticais de negócio: 
+A reputação e o reconhecimento conquistados ao longo de mais de 7 décadas reforçam o tamanho da Porto, uma empresa referência em negócios, feita para e por pessoas. 
+Aqui, bate no peito de 13 mil colaboradores o orgulho de fazer parte de uma organização sólida e ética, que transforma sonhos em realidades fantásticas para os nossos mais de 15,8 milhões de clientes. São mais de 101 sucursais e escritórios regionais em todo o Brasil.
+Aqui, bate no peito de 13 mil colaboradores o 
+, 
+ para os nossos mais de 15,8 milhões de clientes. São mais de 101 sucursais e escritórios regionais em todo o Brasil.
+O aprendizado faz parte do nosso DNA, e aqui, você terá incentivos, ferramentas e gente boa para você aprender e crescer, a cada dia, um ambiente de acolhimento e segurança, onde cada um possa ser e se orgulhar de quem se é, promovendo um espaço de respeito e vivendo de forma integral e com bem-estar, em uma empresa genuinamente humana.
+O aprendizado faz parte do nosso DNA, e aqui, você terá 
+um ambiente de acolhimento e segurança, onde cada um possa ser e se orgulhar de quem se é, promovendo um espaço de respeito e 
+DIVERSIDADE & INCLUSÃO NA PORTO
+Aqui na Porto, valorizamos a diversidade e acreditamos que um time plural é imprescindível para o desenvolvimento de todo o nosso negócio, da sociedade, e de cada pessoa, pois entendemos que cada indivíduo é único na construção de um ambiente mais inovador e inclusivo. Juntos, trabalhamos diariamente para construirmos um espaço seguro, livre e acolhedor, com mais pluralidade e respeito. Por isso, incentivamos fortemente a inscrição de mulheres, de pessoas negras e indígenas, de pessoas com deficiência e de pessoas LGBTQIA+ em todas as nossas vagas.
+Aqui na Porto, valorizamos a diversidade e acreditamos que um time plural é imprescindível para o desenvolvimento de todo o nosso negócio, da sociedade, e de cada pessoa, pois entendemos que cada indivíduo é único na construção de um ambiente mais inovador e inclusivo. Juntos, trabalhamos diariamente para construirmos um espaço seguro, livre e acolhedor, com mais pluralidade e respeito. Por isso, 
+ em todas as nossas vagas.
+ACOMPANHE A PORTO NAS REDES SOCIAIS
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor
+COMO FAZER MINHA INSCRIÇÃO PELA GUPY?

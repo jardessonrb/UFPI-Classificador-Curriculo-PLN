@@ -1,0 +1,143 @@
+link_vaga-https://senaicimatec.gupy.io/job/eyJqb2JJZCI6Nzg4OTE4NSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal
+
+ESPECIALISTA III - DESENVOLVEDOR FULLSTACK SR - RP 1170855
+Tipo de vaga: EfetivoEfetivo
+Tipo de vaga: Efetivo
+Efetivo
+Modelo de trabalho: HíbridoHíbrido
+Modelo de trabalho: Híbrido
+Híbrido
+Vaga também para PcDVaga também para PcD
+Vaga também para PcD
+Vaga também para PcD
+DESCRIÇÃO DA VAGA
+Vamos juntos mudar o mundo? 
+ 
+Você valoriza a Ética acima de tudo, tem Visão Compartilhada, acredita na Sustentabilidade Sistêmica, em entregar resultados com Excelência e é apaixonado por Inovação?
+﻿Se a sua resposta foi SIM, então nós queremos conhecer você! 
+RESPONSABILIDADES E ATRIBUIÇÕES
+Metas e Objetivos EstratégicosProjetar, desenvolver e manter aplicações conteinerizadas usando Docker/Containerd;Desenvolver e integrar soluções de IoT, garantindo conectividade e fluxo de dados contínuos;Implementar e manter as melhores práticas de segurança em todas as etapas do ciclo de desenvolvimento de software;Gerenciar e orquestrar containers usando Kubernetes para implantação escalável;Projetar e implementar SDKs para servidores, dispositivos e plataformas de IoT;Trabalhar com ambientes Linux, Windows e Android para garantir compatibilidade multiplataforma;Colaborar com equipes multifuncionais para definir, projetar e lançar novas funcionalidades;Realizar revisões de código, orientar desenvolvedores juniores e contribuir para a melhoria dos processos de desenvolvimento;Solucionar problemas técnicos complexos em vários ambientes e plataformas;Manter-se atualizado com as últimas tendências e tecnologias do setor.
+Metas e Objetivos Estratégicos
+Projetar, desenvolver e manter aplicações conteinerizadas usando Docker/Containerd;
+Projetar, desenvolver e manter aplicações conteinerizadas usando Docker/Containerd;
+Desenvolver e integrar soluções de IoT, garantindo conectividade e fluxo de dados contínuos;
+Desenvolver e integrar soluções de IoT, garantindo conectividade e fluxo de dados contínuos;
+Implementar e manter as melhores práticas de segurança em todas as etapas do ciclo de desenvolvimento de software;
+Implementar e manter as melhores práticas de segurança em todas as etapas do ciclo de desenvolvimento de software;
+Gerenciar e orquestrar containers usando Kubernetes para implantação escalável;
+Gerenciar e orquestrar containers usando Kubernetes para implantação escalável;
+Projetar e implementar SDKs para servidores, dispositivos e plataformas de IoT;
+Projetar e implementar SDKs para servidores, dispositivos e plataformas de IoT;
+Trabalhar com ambientes Linux, Windows e Android para garantir compatibilidade multiplataforma;
+Trabalhar com ambientes Linux, Windows e Android para garantir compatibilidade multiplataforma;
+Colaborar com equipes multifuncionais para definir, projetar e lançar novas funcionalidades;
+Colaborar com equipes multifuncionais para definir, projetar e lançar novas funcionalidades;
+Realizar revisões de código, orientar desenvolvedores juniores e contribuir para a melhoria dos processos de desenvolvimento;
+Realizar revisões de código, orientar desenvolvedores juniores e contribuir para a melhoria dos processos de desenvolvimento;
+Solucionar problemas técnicos complexos em vários ambientes e plataformas;
+Solucionar problemas técnicos complexos em vários ambientes e plataformas;
+Manter-se atualizado com as últimas tendências e tecnologias do setor.
+Manter-se atualizado com as últimas tendências e tecnologias do setor.
+REQUISITOS E QUALIFICAÇÕES
+Conhecimentos Técnicos Requeridos
+Desenvolvimento: experiência em desenvolvimento de software, com foco em containers e orquestração, desenvolvimento e integração de IoT, desenvolvimento de SDKs para várias plataformas (Python, Java, C#, C++ ou similares);
+Desenvolvimento: experiência em desenvolvimento de software, com foco em containers e orquestração, desenvolvimento e integração de IoT, desenvolvimento de SDKs para várias plataformas (Python, Java, C#, C++ ou similares);
+Infraestrutura: Proficiência nos sistemas operacionais Linux, Windows e Android;
+Infraestrutura: Proficiência nos sistemas operacionais Linux, Windows e Android;
+Tecnologias de Contêineres: Conhecimento de operações do Kubernetes;
+Tecnologias de Contêineres: Conhecimento de operações do Kubernetes;
+Experiência com Docker/Containerd;
+Experiência com Docker/Containerd;
+Práticas de DevOps: Familiaridade com pipelines de CI/CD, ferramentas de automação (por exemplo, Jenkins, Ansible, Azure) e fluxos de trabalho Git;
+Práticas de DevOps: Familiaridade com pipelines de CI/CD, ferramentas de automação (por exemplo, Jenkins, Ansible, Azure) e fluxos de trabalho Git;
+Documentação: Familiaridade em documentar o código fonte, manuais e roteiros de implantação. 
+Documentação: Familiaridade em documentar o código fonte, manuais e roteiros de implantação. 
+Conhecimentos Desejáveis
+Plataformas de Nuvem: Experiência com os principais serviços de nuvem (AWS, Azure, Google Cloud);
+Plataformas de Nuvem: Experiência com os principais serviços de nuvem (AWS, Azure, Google Cloud);
+Computação de Borda: Compreensão das arquiteturas de computação de borda, incluindo computação em névoa, computação de borda móvel e frameworks de IoT;
+Computação de Borda: Compreensão das arquiteturas de computação de borda, incluindo computação em névoa, computação de borda móvel e frameworks de IoT;
+Conhecimento em GPUs;
+Conhecimento em GPUs;
+Inglês fluente;
+Inglês fluente;
+Computação distribuída;
+Computação distribuída;
+Conhecimento de Inteligência Artificial;
+Conhecimento de Inteligência Artificial;
+Tecnologias de monitoramentos, métricas e alertas;
+Tecnologias de monitoramentos, métricas e alertas;
+INFORMAÇÕES ADICIONAIS
+Essa é uma vaga de Contrato por Tempo Indeterminado (Efetivo).
+Sendo assim, essa é a nossa proposta salarial e benefícios para a vaga em questão com esse tipo de vínculo:
+Sendo assim, essa é a nossa proposta salarial e benefícios para a vaga em questão com esse tipo de vínculo:
+Avaliaremos a pretensão salarial;
+Vale Transporte;
+Vale Alimentação/Refeição;
+Plano de Saúde, extensivo a dependentes;
+Vitalmed para atendimento de urgência e emergência domiciliar, extensivo a dependentes;
+Seguro contra Acidentes Pessoais;
+Convênio SESI - Programa Odontológico;
+Plano de Previdência Privada;
+Benefício Previdenciário (em casos de afastamento, o sistema FIEB complementa o suporte financeiro não oferecido pelo INSS);
+Auxílio Creche exclusivo para mulheres; 
+Rede de parceiros CIEB - Convênios e Parcerias com academias, escolas de idiomas, espaços de eventos, seguradoras de veículos, hotéis, entre outros.
+Unindustria - Portal com várias capacitações online e gratuitas para o colaborador.
+Descontos nos cursos SENAI e SENAI CIMATEC para colaboradores e dependentes. 
+Após 1 ano, pode haver ajuda no custeio de treinamento de longa duração, tais como Graduação, Especializações, Mestrado e Doutorado em qualquer Instituição, de acordo com o cargo e função exercido. 
+Quer fazer parte da nossa Instituição e mudar o mundo conosco?
+Quer fazer parte da nossa Instituição e mudar o mundo conosco?
+ 
+Inscreva-se já em nossa vaga e venha fazer parte do nosso time!
+Inscreva-se já em nossa vaga e venha fazer parte do nosso time!
+ 
+Estamos te aguardando! Vem ser SENAI CIMATEC!
+Estamos te aguardando! Vem ser 
+ETAPAS DO PROCESSO
+Etapa 1: Cadastro1Cadastro
+Etapa 1: Cadastro
+1
+Cadastro
+Etapa 2: Análise de Requisitos2Análise de Requisitos
+Etapa 2: Análise de Requisitos
+2
+Análise de Requisitos
+Etapa 3: Contratação3Contratação
+Etapa 3: Contratação
+3
+Contratação
+VAMOS JUNTOS FAZER A DIFERENÇA NO MUNDO?
+Quando nascemos, em 2002, éramos 40 colaboradores unidos pelo propósito de formar mão de obra qualificada para impulsionar a indústria baiana. Desde então, tínhamos a certeza de que faríamos parte de uma transformação no mundo. 
+Quando nascemos, em 2002, éramos 40 colaboradores unidos pelo propósito de formar mão de obra qualificada para impulsionar a indústria baiana. Desde então, tínhamos a certeza de que faríamos parte de uma 
+. 
+
+Em 20 anos de trajetória, nós crescemos exponencialmente: avançamos junto com as tecnologias, agregamos pessoas e sonhos. Construímos novas formas de integrar ciência, tecnologia e indústria. Conquistamos a confiança de grandes parceiros no Brasil e no mundo e somos reconhecidos como uma das principais Instituições de Ciência e Tecnologia do país.
+Em 20 anos de trajetória, nós crescemos exponencialmente: avançamos junto com as tecnologias, agregamos pessoas e sonhos. Construímos novas formas de integrar ciência, tecnologia e indústria. 
+Conquistamos a confiança de grandes parceiros no Brasil e no mundo e somos reconhecidos como uma das principais Instituições de Ciência e Tecnologia do país.
+
+E fomos além!  
+E fomos além!  
+
+Hoje, somos um ecossistema de tecnologia e inovação que reúne um Centro Universitário, Escola Técnica para Educação Profissional, projetos de PD&I, serviços e consultoria para indústrias. Temos mais de 40 competências (senaicimatec.com.br/areas-de-interesse) para atender as mais diversas áreas da indústria, desde a manufatura até os mais avançados sistemas em saúde, robótica e inteligência artificial.  
+Hoje, somos um 
+ que reúne um Centro Universitário, Escola Técnica para Educação Profissional, projetos de PD&I, serviços e consultoria para indústrias. Temos mais de 40 competências 
+para atender as mais diversas áreas da indústria, desde a manufatura até os mais avançados sistemas em saúde, robótica e inteligência artificial.  
+
+Contamos com cerca de 1.000 colaboradores empenhados em construir um mundo melhor, com uma indústria mais sustentável que ofereça soluções para problemas reais da sociedade. E você pode fazer parte disso! 
+Contamos com cerca de
+empenhados em construir um mundo melhor, com uma indústria mais sustentável que ofereça soluções para problemas reais da sociedade. E você pode fazer parte disso! 
+
+No SENAI CIMATEC, acreditamos que cada um tem um jeito único de mudar o mundo! 
+No SENAI CIMATEC, acreditamos que 
+ 
+
+Aqui, a diversidade de ideias é sempre bem-vinda. 
+Vem construir o #FuturoDaInovação com a gente! 
+Vem construir o 
+ com a gente! 
+
+FIQUE POR DENTRO DO QUE ACONTECE NO SENAI CIMATEC
+Website
+LinkedIn
+Facebook
+Instagram
