@@ -4,12 +4,42 @@ https://www.linkedin.com/jobs/search/?currentJobId=4052340982&f_TPR=r2592000&geo
 https://www.linkedin.com/jobs/search/?currentJobId=4045934645&f_TPR=r2592000&geoId=106057199&keywords=Backend&location=Brasil&start=50
 https://www.linkedin.com/jobs/search/?currentJobId=4049323841&f_TPR=r2592000&geoId=106057199&keywords=Backend&location=Brasil&start=75
 
-### Vantagem entre as urls
+### Query com operadores booleanos
 
-https://www.linkedin.com/jobs/view/4049323841/
+#### Frontend
+("frontend" OR "Frontend" OR "front-end" OR "FrontEnd" OR "Front End" OR "front end") NOT ("estagio" OR "Estagio" OR "Software Engineer")
 
-### Exemplo de url quando clico para ver a descrição
-https://www.linkedin.com/jobs/view/4049323841/?alternateChannel=search&refId=PllX85KbpV%2BsJRfuACcxaQ%3D%3D&trackingId=MJNCmjzegVwpNa%2Buz1Rz3g%3D%3D&trk=d_flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BaS6N9fHGTdaJXH8SzQf7%2Bg%3D%3D
+https://www.linkedin.com/jobs/search/?currentJobId=4063213870&f_TPR=r2592000&geoId=106057199&keywords=(%22frontend%22%20OR%20%22Frontend%22%20OR%20%22front-end%22%20OR%20%22FrontEnd%22)%20NOT%20(%22estagio%22%20OR%20%22Estagio%22%20OR%20%22Software%20Engineer%22)&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true
 
-### Exemplo de url quando clico para a prévia da descrição
-https://www.linkedin.com/jobs/view/4049323841/?eBP=CwEAAAGSzp0VNvD0jNM1aA3DNTGgQ2ZU7uG7sFxZYwFBO1P4LRiXJadjlJnAwshdaSW_VY-vV5gzWUuuyG80rkMh8q1kjg72gFk7n-5SJepmEvx4unrmi7M8Bx-1SOPfSboqXfQWah0TC6k4DeouADqTTNHeDakMPtCZxMksFP-NbyNncDrKaGzofho4eQPfCHh1HfS-SvJjWMnH67oAg_ssBqjaEGP34Fq2LIbbj6CVqI-OlKEAKlqGyagEQPR-cPZPLc-g-8B-f6ZRIepQIdBR0XUSKOCJeOrMx3m8usb6df_TIvcUstUi3DWZ8SfloNOEtA_ZmvZ3qK_OdaqH06J-YhHUXr1f1v74T0Z9Isc7NChyz8Z5koObIm8jCokVCGNnFVz3NyNLxZ4fXY4LtHsf5GBFMmwxvUGXIlPu-M87m99KwcpH1mb6OC_nU_wbs0wLVEHp9nSglgLKJ2b-u8TL2QcXHPHkfeY&refId=PllX85KbpV%2BsJRfuACcxaQ%3D%3D&trackingId=MJNCmjzegVwpNa%2Buz1Rz3g%3D%3D&trk=flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BaS6N9fHGTdaJXH8SzQf7%2Bg%3D%3D&lici=MJNCmjzegVwpNa%2Buz1Rz3g%3D%3D
+https://www.linkedin.com/jobs/search/?currentJobId=4051174567&f_TPR=r2592000&geoId=106057199&keywords=(%22frontend%22%20OR%20%22Frontend%22%20OR%20%22front-end%22%20OR%20%22FrontEnd%22)%20NOT%20(%22estagio%22%20OR%20%22Estagio%22%20OR%20%22Software%20Engineer%22)&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true&start=25
+
+#### Backend
+("backend" OR "Backend" OR "back-end" OR "BackEnd" OR "Back-End" OR "back end") NOT ("estagio" OR "Estagio" OR "Software Engineer" OR "Estagiário")
+
+https://www.linkedin.com/jobs/search/?currentJobId=4006319340&f_TPR=r2592000&geoId=106057199&keywords=(%22backend%22%20OR%20%22Backend%22%20OR%20%22back-end%22%20OR%20%22BackEnd%22%20OR%20%22Back-End%22%20OR%20%22back%20end%22)%20NOT%20(%22estagio%22%20OR%20%22Estagio%22%20OR%20%22Software%20Engineer%22%20OR%20%22Estagi%C3%A1rio%22)&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true
+
+
+#### FullStack
+("fullstack" OR "Fullstack" OR "full stack" OR "Full Stack" OR "Full-Stack" OR "FullStack") NOT ("estagio" OR "Estagio" OR "Software Engineer" OR "Estagiário" OR "backend" OR "frontend")
+
+https://www.linkedin.com/jobs/search/?currentJobId=4056651155&f_TPR=r2592000&geoId=106057199&keywords=(%22fullstack%22%20OR%20%22Fullstack%22%20OR%20%22full%20stack%22%20OR%20%22Full%20Stack%22%20OR%20%22Full-Stack%22%20OR%20%22FullStack%22)%20NOT%20(%22estagio%22%20OR%20%22Estagio%22%20OR%20%22Software%20Engineer%22%20OR%20%22Estagi%C3%A1rio%22%20OR%20%22backend%22%20OR%20%22frontend%22)&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true
+
+#### Analista de Dados
+("analista de dados" OR "Analista de Dados" OR "Analista de dados") NOT ("estagio" OR "Estagio" OR "Software Engineer" OR "Estagiário")
+
+https://www.linkedin.com/jobs/search/?currentJobId=4047206037&f_TPR=r2592000&geoId=106057199&keywords=(%22analista%20de%20dados%22%20OR%20%22Analista%20de%20Dados%22%20OR%20%22Analista%20de%20dados%22)%20NOT%20(%22estagio%22%20OR%20%22Estagio%22%20OR%20%22Software%20Engineer%22%20OR%20%22Estagi%C3%A1rio%22)&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true
+
+
+#### Cientista de Dados
+("cientista de dados" OR "Cientista de Dados" OR "Cientista de Dados") NOT ("estagio" OR "Estagio" OR "Estagiário")
+
+https://www.linkedin.com/jobs/search/?currentJobId=4045919982&f_TPR=r2592000&geoId=106057199&keywords=(%22cientista%20de%20dados%22%20OR%20%22Cientista%20de%20Dados%22%20OR%20%22Cientista%20de%20Dados%22)%20NOT%20(%22estagio%22%20OR%20%22Estagio%22%20OR%20%22Estagi%C3%A1rio%22)&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true
+
+#### UX/UI design
+("UX/UI" OR "UX UI" OR "Product Designer" OR "Designer UX/UI" OR "UX/UI Designer" OR "UX Designer" OR "UI Designer") NOT ("Grafic" OR "Gráfico" OR "Grafico")
+
+https://www.linkedin.com/jobs/search/?currentJobId=4029548304&f_TPR=r2592000&geoId=106057199&keywords=(%22UX%2FUI%22%20OR%20%22UX%20UI%22%20OR%20%22Product%20Designer%22%20OR%20%22Designer%20UX%2FUI%22%20OR%20%22UX%2FUI%20Designer%22%20OR%20%22UX%20Designer%22%20OR%20%22UI%20Designer%22)%20NOT%20(%22Grafic%22%20OR%20%22Gr%C3%A1fico%22%20OR%20%22Grafico%22)&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true
+
+#### UX/UI design
+("QA" OR "Quality Assurance" OR "quality assurance" OR  "Quality assurance") NOT ("Grafic" OR "Gráfico" OR "Grafico")
+

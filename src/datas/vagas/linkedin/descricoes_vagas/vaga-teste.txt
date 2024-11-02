@@ -1,0 +1,67 @@
+Descrição: h2-Sobre a vaga
+p-SOBRE A ACTUAREstamos buscando pessoas que possam integrar nossa equipe de desenvolvedores! Somos uma galera animada, divertida e super focada!! Buscamos alguém que ame trabalhar como frontend, que seja detalhista, analítico, criativo, inovador e que tenha sede de novos aprendizados. Fará parte do time de jornadas de empresas do segmento fitness, com excelentes desafios e propósito nobre de transformar o Brasil por meio do empreendedorismo. Se identificou? Então só vem! Responsabilidades e atribuiçõesDesenvolver features para nossos usuários internos e externos;Análise de erros/bugs;Propor soluções e melhorias;Apoiar no desenvolvimento do nosso design system;Contribuir nos novos projetos/features;Manter a qualidade de código no nível adequado;Requisitos e qualificaçõesNECESSÁRIOSPossua sólida experiência com Typescript/Javascript, HTML, CSS e pré-processadores (SASS, LESS…);Tenha experiências com framework SPA Angular;Tenha conhecimento em GIT - trabalhado com Pull Requests e, principalmente, Code Review;Tenha experiência com ferramentas de integração contínua CI/CD (Docker e Kubernets);Saiba criar e fazer testes Unitários (Jest, Jasmine).Trabalhar juntamente com Desenvolvedores e Designers para garantir os melhores visuais e funcionalidade;Gitflow;NGRX State (REDUX) e Entity;Sólidos conhecimentos de Orientação a Objetos;Design Patterns;Mínimo 3+ anos de experiência;Responsividade;Boa comunicação;Noções de UX;Ser proativo(a);Lidar com trabalho em equipe.DESEJÁVEISExperiência com desenvolvimento de apps híbridas com Ionic e publicação de apps nas lojas de apps android e Apple.Nrlw/nx monorepos.Figma.Curso superior completo em Análise e desenvolvimento de Sistemas, Engenharia de Software, Sistemas de informação ou área relacionadas;TailwindCSS
+span-SOBRE A ACTUAR
+p-SOBRE A ACTUAR
+span-Estamos buscando pessoas que possam integrar nossa equipe de desenvolvedores! Somos uma galera animada, divertida e super focada!! Buscamos alguém que ame trabalhar como frontend, que seja detalhista, analítico, criativo, inovador e que tenha sede de novos aprendizados. Fará parte do time de jornadas de empresas do segmento fitness, com excelentes desafios e propósito nobre de transformar o Brasil por meio do empreendedorismo. Se identificou? Então só vem! Responsabilidades e atribuições
+p-Estamos buscando pessoas que possam integrar nossa equipe de desenvolvedores! Somos uma galera animada, divertida e super focada!! Buscamos alguém que ame trabalhar como frontend, que seja detalhista, analítico, criativo, inovador e que tenha sede de novos aprendizados. Fará parte do time de jornadas de empresas do segmento fitness, com excelentes desafios e propósito nobre de transformar o Brasil por meio do empreendedorismo. Se identificou? Então só vem! Responsabilidades e atribuições
+span-Desenvolver features para nossos usuários internos e externos;Análise de erros/bugs;Propor soluções e melhorias;Apoiar no desenvolvimento do nosso design system;Contribuir nos novos projetos/features;Manter a qualidade de código no nível adequado;
+span-Desenvolver features para nossos usuários internos e externos;
+li-Desenvolver features para nossos usuários internos e externos;
+span-Análise de erros/bugs;
+li-Análise de erros/bugs;
+span-Propor soluções e melhorias;
+li-Propor soluções e melhorias;
+span-Apoiar no desenvolvimento do nosso design system;
+li-Apoiar no desenvolvimento do nosso design system;
+span-Contribuir nos novos projetos/features;
+li-Contribuir nos novos projetos/features;
+span-Manter a qualidade de código no nível adequado;
+li-Manter a qualidade de código no nível adequado;
+span-Requisitos e qualificaçõesNECESSÁRIOS
+p-Requisitos e qualificaçõesNECESSÁRIOS
+span-Possua sólida experiência com Typescript/Javascript, HTML, CSS e pré-processadores (SASS, LESS…);Tenha experiências com framework SPA Angular;Tenha conhecimento em GIT - trabalhado com Pull Requests e, principalmente, Code Review;Tenha experiência com ferramentas de integração contínua CI/CD (Docker e Kubernets);Saiba criar e fazer testes Unitários (Jest, Jasmine).Trabalhar juntamente com Desenvolvedores e Designers para garantir os melhores visuais e funcionalidade;Gitflow;NGRX State (REDUX) e Entity;Sólidos conhecimentos de Orientação a Objetos;Design Patterns;Mínimo 3+ anos de experiência;Responsividade;Boa comunicação;Noções de UX;Ser proativo(a);Lidar com trabalho em equipe.
+span-Possua sólida experiência com Typescript/Javascript, HTML, CSS e pré-processadores (SASS, LESS…);
+li-Possua sólida experiência com Typescript/Javascript, HTML, CSS e pré-processadores (SASS, LESS…);
+span-Tenha experiências com framework SPA Angular;
+li-Tenha experiências com framework SPA Angular;
+span-Tenha conhecimento em GIT - trabalhado com Pull Requests e, principalmente, Code Review;
+li-Tenha conhecimento em GIT - trabalhado com Pull Requests e, principalmente, Code Review;
+span-Tenha experiência com ferramentas de integração contínua CI/CD (Docker e Kubernets);
+li-Tenha experiência com ferramentas de integração contínua CI/CD (Docker e Kubernets);
+span-Saiba criar e fazer testes Unitários (Jest, Jasmine).
+li-Saiba criar e fazer testes Unitários (Jest, Jasmine).
+span-Trabalhar juntamente com Desenvolvedores e Designers para garantir os melhores visuais e funcionalidade;
+li-Trabalhar juntamente com Desenvolvedores e Designers para garantir os melhores visuais e funcionalidade;
+span-Gitflow;
+li-Gitflow;
+span-NGRX State (REDUX) e Entity;
+li-NGRX State (REDUX) e Entity;
+span-Sólidos conhecimentos de Orientação a Objetos;
+li-Sólidos conhecimentos de Orientação a Objetos;
+span-Design Patterns;
+li-Design Patterns;
+span-Mínimo 3+ anos de experiência;
+li-Mínimo 3+ anos de experiência;
+span-Responsividade;
+li-Responsividade;
+span-Boa comunicação;
+li-Boa comunicação;
+span-Noções de UX;
+li-Noções de UX;
+span-Ser proativo(a);
+li-Ser proativo(a);
+span-Lidar com trabalho em equipe.
+li-Lidar com trabalho em equipe.
+span-DESEJÁVEIS
+p-DESEJÁVEIS
+span-Experiência com desenvolvimento de apps híbridas com Ionic e publicação de apps nas lojas de apps android e Apple.Nrlw/nx monorepos.Figma.Curso superior completo em Análise e desenvolvimento de Sistemas, Engenharia de Software, Sistemas de informação ou área relacionadas;TailwindCSS
+span-Experiência com desenvolvimento de apps híbridas com Ionic e publicação de apps nas lojas de apps android e Apple.  
+li-Experiência com desenvolvimento de apps híbridas com Ionic e publicação de apps nas lojas de apps android e Apple.    
+span-Nrlw/nx monorepos.
+li-Nrlw/nx monorepos.
+span-Figma.
+li-Figma.
+span-Curso superior completo em Análise e desenvolvimento de Sistemas, Engenharia de Software, Sistemas de informação ou área relacionadas;
+li-Curso superior completo em Análise e desenvolvimento de Sistemas, Engenharia de Software, Sistemas de informação ou área relacionadas;
+span-TailwindCSS
+li-TailwindCSS
